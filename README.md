@@ -1,16 +1,17 @@
-# Kestler Repo
+# Johnny Kestler — Portfolio
 
-A collection of worldbuilding documents and creative archives.
+A curated portfolio of worldbuilding and original creative works.
 
 ## About
 
-This repository serves as a centralized space for original creations, concepts, and narrative development.
+This repository serves as a portfolio for the works of **Johnny Kestler**
+(real name: João Vitor Perazzolo).
+
+It represents a collection of original creations, developed as part of ongoing and independent projects.
 
 ## Author
 
 **Johnny Kestler**
-(João Vitor Perazzolo)
+Worldbuilder & Creative Author
 
----
 
-> "Worlds exist before they are written."
