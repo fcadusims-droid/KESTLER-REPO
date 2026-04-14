@@ -1,4 +1,4 @@
-# Projeto de História – Missão Lunar Autônoma
+# Projeto de História 
 
 ---
 
