@@ -14,7 +14,7 @@ All rights reserved.
 **Genre:** Singleplayer RPG — PC & Console  
 **Format:** Indie Project  
 **Created by:** Jonny Kestler *(João Vitor Perazzolo)*  
-**Document Version:** 1.0 — Internal Use
+**Document Version:** 1.0 
 
 ---
 
