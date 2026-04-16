@@ -1,4 +1,4 @@
-© 2025 João Vitor Perazzolo. All rights reserved.
+© 2026 João Vitor Perazzolo. All rights reserved.
 
 This work, titled PROJECT D, and all its contents—including but not limited to text, concepts, worldbuilding elements, characters, systems, technologies, and narrative structures—are the intellectual property of João Vitor Perazzolo.
 
