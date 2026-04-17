@@ -1,20 +1,10 @@
-© 2026 João Vitor Perazzolo. All rights reserved.
-
-This work, titled PROJECT D, and all its contents—including but not limited to text, concepts, worldbuilding elements, characters, systems, technologies, and narrative structures—are the intellectual property of João Vitor Perazzolo.
-
-No part of this publication may be reproduced, distributed, transmitted, displayed, or otherwise used in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage and retrieval system, without prior written permission from the author, except for brief quotations used for review or academic purposes with proper attribution.
-
-Unauthorized use, reproduction, or adaptation of this material is strictly prohibited and may result in legal action under applicable copyright laws.
-
-All rights reserved.
-
 # PROJECT D
 ## Game Design Document — Master Edition
 
 **Genre:** Singleplayer RPG — PC & Console  
 **Format:** Indie Project  
 **Created by:** Jonny Kestler *(João Vitor Perazzolo)*  
-**Document Version:** 1.0 
+**Document Version:** 1.3
 
 ---
 
@@ -119,6 +109,48 @@ A second rule: any guidance that appears more than once for the same mechanic ha
 The end of the prologue is not marked by a screen or a warning. It happens organically — a specific narrative moment where the more guided structure dissolves and total freedom opens up. The visual guides disappear. NPCs stop guiding directly. The world starts functioning on its own, without hand-holding.
 
 This moment coincides with a significant narrative event — something that permanently changes Kenny's situation and requires him to make decisions on his own. The player does not notice that the tutorial ended because no screen announced there was a tutorial. They notice because the world changed and now demands more of them.
+
+## 2.5 — Prologue Scope — Events and Sequence
+
+The prologue begins when Kenny wakes up on the mattress in the back of the sheriff's office and ends when he crosses the city limits with Richard. The following defines the content that belongs between those two points.
+
+**Estimated real-time duration:** 2–3 hours for a player of moderate pace. Enough to establish the world, the character, the core systems, and the emotional weight of the attack — not so long that it delays the game's real design from opening up.
+
+**Sequence of prologue events:**
+
+*Opening segment — Deputy life in Dillfield (45–60 min):*
+The first hours are Kenny doing the job before the job changes. A morning patrol through the city. One or two situations that demonstrate the Voice and Perception system: a social reading moment (someone is nervous, Kenny notices), a fauna moment (tracks on the main street that didn't exist yesterday). The Notebook is introduced here — the sheriff hands it over, Kenny keeps it. No instruction on how to use it. One interaction that creates a natural reason for the player to open it.
+
+*The Binoculars moment:* before the attack, a situation places something of interest at a distance — a creature at the edge of the plains, behavior that warrants observation. The player does not have Binoculars yet. This creates the need. The shop is visible from the street.
+
+*The attack (narrative fixed event):* the bandit raid happens as described in section 5.5. The player has limited control during the attack itself — enough to feel present, not enough to change the outcome. This is not a gameplay failure; it is a story beat. The attack is the world doing something to Kenny, not a test of the player's skill.
+
+*The aftermath (30–45 min):* exploring the city the morning after. Finding the father. Registering the mother's absence. Finding the sheriff. The city beginning to make Kenny what the situation requires. This segment teaches nothing mechanically — it is pure character establishment. The player should finish it knowing who Kenny is before anything else begins.
+
+*Preparation for departure (30–40 min):* the interactions described in section 5.6. The blacksmith, the tamer's half hour, the market woman. Richard. The player has the opportunity to enter the shop and purchase the Binoculars — now the need established earlier resolves into recognition. The Notebook may have one or two entries by this point from the patrol segment. Leaving town is a player-driven action, not a scripted cutscene.
+
+**What the prologue does not contain:**
+- Dinosaur combat (observed at distance, not engaged)
+- Track advancement beyond minimal Fighting from the attack
+- Thread delivery of any narrative threshold
+- Companion recruitment (Richard travels alongside but is not formally recruited)
+- Open-world exploration (the world beyond Dillfield is not accessible)
+
+## 2.5 — The Tension This Creates (And Why It Exists Anyway)
+
+Sections 2.1 and 2.3 describe different players. This is not a mistake — it is a structural tension in the design that deserves to be named rather than papered over.
+
+Section 2.1 describes the player Project D is built for: someone willing to stand still for two minutes, who finds meaning in presence rather than completion, who does not need confirmation that they are on the right path.
+
+Section 2.3 describes the player Project D needs to survive commercially: someone who, without a guided introduction, will close the game in the first twenty minutes before discovering what it is.
+
+These are not the same person. And the prologue is designed for the second player, not the first.
+
+**The risk this creates:** the ideal player — the one the game is genuinely for — may find the prologue condescending. The subtle guides, the once-only hints, the NPCs who gently redirect: all of this is noise to someone who wanted the full experience from minute one. The prologue risks alienating its own audience in order to capture a broader one it will subsequently lose anyway once the guides disappear.
+
+**The reason to accept the risk anyway:** a game that only the ideal player discovers is not a commercially viable indie project. Visibility requires streamers and word-of-mouth, and both require players who are not the ideal player to get far enough to have an experience worth sharing. The prologue is a necessary concession to survival.
+
+**How to minimize the damage:** the prologue guides must be genuinely subtle — invisible to the player who doesn't need them, present only for the player who does. The benchmark is: the ideal player should not be able to identify where the guides were. They should complete the prologue feeling they navigated it themselves. If the ideal player notices the training wheels, the prologue has failed its calibration.
 
 ---
 
@@ -281,9 +313,72 @@ Much of what seems like religious ritual in this world is, when closely analyzed
 
 In Dillfield, the predominant religion has the Tyrannosaurus as its central figure — not worshiped, but revered as a force of nature that exists beyond human control. There is a small temple in the city where a candle is lit when someone departs for open country and another when they return. When they do not return, the candle burns for seven days.
 
----
+## 4.9 — World Geography — Level Design Foundation
 
-# 5. KENNY COLLINS
+This section is the foundational reference that level design, Bestiary species distribution, Window conditions, Weight of the Body timing, and travel system all depend on. Without a defined geography, those systems float in an unanchored space. The following establishes the playable world of Project D in enough detail to inform production decisions.
+
+### Scale and Orientation
+
+The playable world is organized around Dillfield as the single permanent settlement. Everything else is territory — ranging from semi-domesticated farmland within a day's ride, to contested plains where fauna and human activity overlap, to deep wilderness where human presence is rare and the rules change.
+
+**Scale reference:** the journey from Dillfield to the bandit camp — described in section 5.8 as taking "days of travel" — covers approximately 60 to 80 kilometers of mixed terrain. This establishes the rough scale of the playable world: Dillfield sits near one edge, with 3–4 days of travel range in multiple directions before reaching the limits of the designed content. The world is not open in all directions to the horizon. It has edges, defined by terrain features that make further travel narratively implausible — a mountain range to the north, deep swampland to the south, the bandit fort closing off the east during the first arc, and the plains route west as the primary open corridor.
+
+### The Five Regions
+
+**Region 1 — Dillfield and the Settled Belt**
+A roughly 15-kilometer radius around the city where human activity has shaped the land. Farmsteads, maintained roads, fencing, the occasional tamer operation visible from distance. Fauna exists here but is generally lower-aggression — this is territory humans have worked for decades. The predominant species in this region are Edmontosaurus (herded), Triceratops (working animals), and smaller feathered scavengers around the farmsteads. Velociraptor incursion from the plains is the primary threat — rare, but the reason fences are reinforced.
+
+*Bestiary relevance:* most accessible species for early observation. Safe enough to use Binoculars without immediate danger. The region where initial cataloging happens naturally.
+*Window species present:* low-aggression feathered omnivores active at dusk near the water source east of the city. Nocturnal scavenger species near the farmstead refuse heaps.
+
+**Region 2 — The Eastern Plains**
+The route toward the bandit camp. Open grassland with rocky outcrops providing the only cover. The terrain where Mara's knowledge is most applicable — she grew up reading this land. The plains are the primary habitat for the game's medium-predator population: two or three species in the Velociraptor-to-T-rex gap that have established territories across the grassland.
+
+*Bestiary relevance:* the most important Bestiary region for the game's primary conflict. Understanding which predator territories occupy which sections of the plains determines routing decisions for the entire bandit camp journey.
+*Window species present:* a herd-migratory herbivore that crosses the plains twice per in-game year. Their passage route cuts through the most direct path to the bandit camp. Their presence creates a navigation problem and a Bestiary opportunity simultaneously.
+*T-rex territory:* one established individual holds territory in the northeastern quadrant of the plains. Widely known to local hunters. The direct route to the bandit camp passes within three kilometers of this territory. Richard knows this.
+
+**Region 3 — The Rocky Corridor**
+The elevated terrain between the plains and the bandit camp's location. Broken landscape: ravines, cliff faces, narrow passages between rock formations. The fauna here is different — smaller species adapted for vertical movement, a flying species with limited soaring range that nests in the cliff faces and becomes aggressive near nesting season. The abandoned structure described in section 5.8 is in this region.
+
+*Bestiary relevance:* species found only here, requiring specific observation conditions (approach from below, specific time of day). The cliff-nesting species has Window conditions tied to season — accessible only outside nesting months without significant danger.
+*Level design note:* this region is where stealth approach skills matter most on the journey to the bandit camp. The narrow passages create natural choke points that reward pre-engagement observation.
+
+**Region 4 — The Bandit Fort and Surrounding Territory**
+A semi-enclosed valley where the bandit camp is built. The fort sits on elevated ground at the valley's far end. The surrounding terrain has been partially cleared by the bandits — no large fauna in immediate proximity, which is part of why they chose the location. The Velociraptors on the perimeter serve as the fauna layer that natural territory would otherwise provide.
+
+*Post-arc status:* after the bandit camp arc resolves, this region becomes accessible for open exploration. The deteriorating fort is explorable. Without the bandit presence, the natural fauna of the surrounding territory begins reclaiming the cleared areas — visible in subsequent visits.
+
+**Region 5 — The Western Corridor**
+The primary open-world exploration direction. Stretches from Dillfield's western edge toward a river system that defines the far boundary of the playable world. This is where the majority of the Bestiary's Window species are accessible, where the most complex predator territories overlap, and where the displaced persons are most likely to be encountered in isolated circumstances.
+
+*Scale:* approximately 2–3 days of travel from Dillfield to the river. Multiple named locations discoverable: an abandoned settlement from before Dillfield existed, a river crossing point used by itinerant hunters, a seasonal camp location used by the indigenous group whose ancestors cleared the original Dillfield territory.
+*T-rex presence:* a second established individual, older than the plains specimen. Held territory for decades. The behavioral Bestiary for this individual differs from species norms in ways that are detectable only after complete species cataloging — the first anomaly many players will encounter.
+
+### Species Distribution Reference
+
+| Region | Primary species | Window species | T-rex present |
+|---|---|---|---|
+| Settled Belt | Edmontosaurus, Triceratops, small feathered | Dusk omnivore, nocturnal scavenger | No |
+| Eastern Plains | Medium predators (2–3 species), Edmontosaurus herds | Migration herbivore (seasonal) | Yes (northeast) |
+| Rocky Corridor | Cliff nesters, vertical-adapted small species | Cliff nester (outside nesting season) | No |
+| Bandit Fort area | Velociraptor (tamed), post-arc natural recovery | None specific | No |
+| Western Corridor | Full fauna range, highest diversity | Multiple — see Bestiary Windows section | Yes (river boundary) |
+
+### Travel Time and Weight of the Body
+
+Travel time between regions is a design parameter that interacts directly with the Weight of the Body system. The following establishes minimum expected travel durations that the survival system should be calibrated against.
+
+| Route | Estimated travel time | Survival system implication |
+|---|---|---|
+| Dillfield → Eastern Plains (entry) | 3–4 hours real time | One hunger cycle, one thirst cycle at normal activity |
+| Eastern Plains crossing | 4–6 hours real time | Two hunger cycles; thirst accelerates in heat season |
+| Eastern Plains → Rocky Corridor | 2–3 hours real time | One hunger cycle; terrain difficulty increases fatigue |
+| Rocky Corridor → Bandit Fort | 3–4 hours real time | Full journey from Dillfield: 12–16 hours real time total |
+| Dillfield → Western Corridor (mid) | 6–8 hours real time | Full day journey; camping required |
+| Dillfield → Western Corridor (far) | 12–16 hours real time | Multi-day expedition; multiple camp nights required |
+
+These estimates assume normal travel pace without significant detours. They are the baseline against which the Weight of the Body phase timers are calibrated — the game should not push a player to Phase 3 hunger on a standard day-trip to the Eastern Plains, but a two-day Western Corridor expedition without planning should produce real survival pressure.
 
 ## 5.1 — Who He Is
 
@@ -300,6 +395,36 @@ This is a design-critical clarification that governs progression scale, relation
 **Kenny's age at the start of the game (simulation time):** approximately 28–30 years old. The simulation implanted memories of a full childhood and young adulthood in Dillfield — roughly 8 to 9 years of simulated life preceded the point where the player enters. Kenny does not remember those years as if they were yesterday; they are background, the texture of who he is, the way anyone carries their past. The game begins partway through what the simulation defines as his life.
 
 **What the game covers:** the story of Project D spans approximately 1 to 2 years of in-simulation time — from the night of the attack through the resolution of the bandit conflict, the accumulation of discoveries about the simulation's nature, and the delivery of the hundred-year revelation. It is not a years-long saga compressed into hours. It is a specific period, dense with consequence, in one man's life.
+
+**How 1–2 years accommodates the described content:** this requires explicit acknowledgment of a potential contradiction. The game describes a prologue, a multi-day journey to a bandit camp, a rescue mission, and then the full open-world systems of the Bestiary, Domestication, Gang formation, Puzzle discovery, and Thread progression. A critic reading the design might reasonably ask whether all of that can occur within one to two years of simulation time without collapsing the verisimilitude the document values.
+
+The answer is: it depends on how the game handles time between major events. The design does not require Kenny to build the full Bestiary, recruit a complete gang of six, reach the highest Track tiers in multiple domains, and resolve the main conflict within a continuous narrative sprint. What the design requires is that all of this is plausible within the time frame — and one to two dense years is plausible for the following reasons.
+
+The bandit conflict and the rescue resolve relatively early in the game's total runtime — the prologue and first major arc complete within what is probably the first third of the experience. What follows is a period the design describes as Kenny being the functioning sheriff of Dillfield: doing the job, building relationships, going on expeditions. This is where the open systems live. Kenny does not need to do everything in the first months. He builds the Bestiary across multiple expeditions over many seasons. He builds relationships over sustained time. He accumulates Thread weight through accumulated life, not through a sprint.
+
+**The verisimilitude test:** the game passes this test if, at any given moment, a player can ask "how long has it been?" and receive an answer that is consistent with what has happened. The calendar of in-game time should be tracked internally and represented through environmental and social signals — seasonal changes, NPC references to time passed, the visual state of the city. Dillfield in month three looks different from Dillfield in month fourteen. If the world ages visibly alongside Kenny's development, the timeline holds.
+
+**What would break it:** if the player reaches the final revelation and the world appears to be in the same state as the first week, the timeline collapses. The world must show evidence of time. This is a production requirement, not just a narrative preference.
+
+**Time passage signal list — production specification:**
+
+This list defines what must be built to make the 1–2 year timeline legible without a visible calendar. Each item is a concrete deliverable for environment artists, writers, or both.
+
+*Environmental signals (environment art):*
+- Seasonal variation for Dillfield's main street: dry season (dust, lighter foliage), wet season (mud on main street, water barrels full), transitional states between them. Minimum two full seasonal passes across the playable area.
+- The wooden walkways age visibly. New boards appear where old ones rotted. One or two replaced posts visible per season.
+- Kenny's garden at the sheriff's office, if the player tends it, grows. If not, it dies.
+- The grave markers for the sheriff and Kenny's father are clean at first, then weathered, then have small offerings from townspeople on certain dates.
+- The bandit camp structure, once the arc resolves: the fort begins deteriorating. Visible per revisit over subsequent months.
+
+*NPC social signals (writing/dialogue):*
+- NPCs make unprompted time references at natural frequency — "Haven't seen you in a few weeks," "You were gone for the whole rain season," "That wound has healed up, I see." These lines do not require player input; they fire as ambient social texture when Kenny returns to Dillfield after an absence.
+- Three to five Dillfield NPCs have personal arcs that visibly progress over time, independent of Kenny: a pregnancy comes to term, an apprenticeship concludes, an old feud either resolves or escalates. These arcs do not require player participation — they happen in the background and are visible to an observant player.
+- Elliot's apparent understanding of what he is increases subtly over time, measured in how he speaks about things that don't belong — more precise, less deflecting.
+
+*Kenny's own signals (Voice system):*
+- Seasonal Voice reactions: Kenny notes the first cold morning of the year, the smell of the ground after the first rain, the way the light changes in late season. These lines exist only in their specific seasonal window and never repeat.
+- Time-reference lines when returning to Dillfield after long expeditions — calibrated to actual elapsed time, not a fixed script. Three weeks away produces different Kenny speech than three days away.
 
 **The hundred years as horizon:** at game's end, Kenny is approximately 29–31 years old in simulation time. He has between 68 and 71 simulation years remaining. The cliffhanger lands with full weight because the player has lived one or two of those years alongside him — and now knows there are decades more ahead, with a clock running.
 
@@ -554,6 +679,27 @@ Each state operates in three intensity levels:
 - When intensity of a state reaches zero, the state returns to Calm
 - The emotional state **never appears as a visual indicator or HUD text**
 
+#### State Transition Priority — Collision Rules
+
+When two triggers occur simultaneously or within the same evaluation window (defined as within 3 seconds of each other), the system resolves the collision using a strict priority hierarchy. **Higher-priority states always win**, regardless of the intensity of the lower-priority trigger.
+
+**Priority order (highest to lowest):**
+
+| Priority | State | Override logic |
+|---|---|---|
+| 1 | **Shaken** | Overrides all other states immediately upon trigger. No threshold — any qualifying event (witnessed violent death, death of someone close, major disturbing discovery) forces Shaken at intensity 3. |
+| 2 | **Tense** | Overrides Calm, Curious, Irritated, and Tired. Does not override Shaken. A Shaken Kenny entering combat does not become Tense — he remains Shaken, and the Voice system stays silent. |
+| 3 | **Irritated** | Overrides Calm and Curious at equal or higher intensity. Does not override Tired at intensity 3. |
+| 4 | **Tired** | Overrides Calm and Curious at intensity 2+. Does not override Irritated or higher. |
+| 5 | **Curious** | Overrides Calm only. The weakest active state — everything suppresses it. |
+| 6 | **Calm** | Default. Active only when no other state has any intensity. |
+
+**Transition delay:** when a higher-priority state overrides the active state, the transition is not instantaneous. The system inserts a 0.5-second evaluation pause before switching. This prevents jarring state flips when triggers cluster. Exception: Shaken overrides are instantaneous — the system does not buffer trauma.
+
+**Intensity inheritance:** when a lower-priority state is overridden, its accumulated intensity is not lost — it is held in a suspended state for up to 10 minutes. If the overriding state resolves before that window expires, the suspended state resumes from its held intensity, minus one level. Example: Kenny is Irritated at intensity 2, then a predator approach triggers Tense. When the predator situation resolves, Irritated resumes at intensity 1, not from zero.
+
+**The Tired exception:** Tired is the only state that does not suppress Voice — it modifies it. A Tired Kenny in Calm territory still speaks; the system just applies the Tired tone and reduced frequency modifier on top of Calm behavior. All other active states either replace or suppress Calm behavior entirely.
+
 ## 6.5 — The Signaling Scale
 
 Kenny's reactions cover a spectrum from purely mundane to narratively loaded. This spectrum must be **continuous** — without cuts, without obvious distinction between "lore speech" and "ambient speech."
@@ -605,12 +751,66 @@ Many of Kenny's reactions have no speech. Physical behavior — where he looks, 
 
 When something has real emotional weight — when it is about his mother, about the sheriff, about someone he lost, about what he is becoming — the tone changes. Gets quieter. Slower. Less speech, more space between words. Not because Kenny is being dramatic — because he is being honest.
 
+### 6.9 — Line Count and Frequency Specification
+
+#### Line Volume Estimate
+
+The combinatorial pressure on this system is real and must be confronted before production begins. The variables operating simultaneously — 6 emotional states × 3 intensity levels × 3 perception layers × time of day (4 bands) × 5 story progression stages — produce a theoretical combination space large enough that no line bank covers it completely without repetition becoming perceptible.
+
+The practical response is not to cover every combination. It is to identify which combinations produce the most frequent triggers and prioritize coverage there, while accepting that rare combinations will reuse lines. The player who encounters a specific combination for the third time is a player who has played long enough that some repetition is acceptable.
+
+**Minimum functional estimate for shipped Tier 1:** approximately 3,000–4,000 unique lines of ambient and reactive dialogue across all zones. This is not a reference to RDR2's scale — it is the minimum below which repetition becomes perceptible within a single play session for the most common trigger combinations. Specifically:
+
+| Zone | Estimated lines needed | Reasoning |
+|---|---|---|
+| Pure everyday | 800–1,000 | Highest frequency; repetition is most visible here |
+| World observation | 600–800 | Medium frequency; contextual variety reduces need |
+| Social reading | 400–500 | Lower frequency; NPCs and situations vary naturally |
+| Instinctive signaling | 200–300 | Low frequency by design; each line carries more weight |
+| Upload fragment | 80–120 | Very low frequency; lines are individually memorable |
+
+These estimates assume a ~15–20 hour playthrough. They scale upward if the game runs longer. They assume state and context filtering mean not all lines are accessible in all sessions, which reduces the effective repetition rate significantly.
+
+**Production implication:** this is the single largest content budget item in the project. Voice direction, recording sessions, and editing time must be planned against these numbers before other production commitments are made.
+
+#### Frequency Rules — Numerical Specification
+
+"Kenny does not comment on every tree" is a philosophy, not a production rule. Production requires numbers.
+
+**Global cooldown:** a minimum of 45 seconds must pass between any two ambient Kenny speeches (Zones 1–2). This cooldown is per zone, not global — a Zone 1 line does not block a Zone 2 line. But two Zone 1 lines cannot fire within 45 seconds of each other.
+
+**Per-zone cooldowns:**
+
+| Zone | Minimum cooldown | Maximum per 10 minutes |
+|---|---|---|
+| Pure everyday | 45 seconds | 4 |
+| World observation | 90 seconds | 3 |
+| Social reading | 120 seconds | 2 |
+| Instinctive signaling | 5 minutes | 1 |
+| Upload fragment | 20 minutes | 1 |
+
+**Emotional state modifier:** when Kenny is in Tired (intensity 2+), Tense (any intensity), or Shaken (any intensity), all cooldowns double. The system speaks less because Kenny is in a state where he speaks less.
+
+**The silence rule:** if no ambient speech fires in a given 3-minute window during open exploration, the system does not force a line to fill the silence. Silence is not a bug. Silence is Kenny. The system only fires when a genuine trigger exists — never to prevent quiet.
+
+#### The Inverse Risk — Kenny Speaking Too Little
+
+The document has discussed the risk of Kenny speaking too much and becoming noise. The inverse risk is equally real and less discussed: Kenny speaking too little, particularly under conditions that create commercially relevant problems.
+
+**The streaming problem:** Project D's commercial viability depends significantly on organic visibility through streaming platforms. A streamer playing for two hours of content where Kenny speaks infrequently, where long stretches pass in silence, and where nothing visually spectacular occurs will produce footage that does not retain viewers. The player in the room may be having a rich experience. The viewer watching a VOD at 1.5x speed is watching a man walk through fields.
+
+This is not an argument to change the game's design. It is an argument to be aware that the game's commercial reach is partially determined by whether its best moments are clustered enough in the early game to appear in the first 30 minutes of a typical streaming session.
+
+**The practical implication:** the first 30–45 minutes of the game — including the prologue — should contain a higher density of Voice system moments than the later game. Not because the later game is less rich, but because the first session is the one that creates word of mouth. Kenny's most memorable early lines, his funniest involuntary observations, his sharpest social readings — these belong in the prologue and the first hour outside Dillfield, not distributed evenly across the game.
+
 **Known Risks:**
 1. Insufficient variation volume produces perceptible repetition
 2. The system talks too much and becomes noise
 3. Instinctive perception lines lose impact if too frequent
 4. Behavior-without-speech requires quality animation to work
 5. Poorly calibrated emotional state transitions break the real-character illusion
+6. Line volume budget underestimated leads to mid-production content crisis
+7. Early-game Voice density too low to create streaming-worthy moments before player disengagement
 
 ---
 
@@ -718,7 +918,9 @@ What the Notebook does is make this progression clearer, faster, and richer for 
 
 The truth about what Kenny is — that he lives in a simulation, that the upload happened, that death in that world is permanent, that the servers are being destroyed as he exists inside them — does not arrive as a revelation. It arrives as accumulation.
 
-The puzzle of Project D is not an enigma with a single hidden solution. It is the progressive reconstruction of a reality that the game itself never directly names. The fragments exist in the world, scattered throughout the entire journey. The work of connecting them is entirely the player's. No system confirms when a connection has been made correctly. No screen says "you found a clue." **The revelation happens in the head of the person playing — or does not happen, if the fragments were not accumulated.**
+The puzzle of Project D is not an enigma with a single hidden solution. It is the progressive reconstruction of a reality that the game itself never directly names. The fragments exist in the world, scattered throughout the entire journey. The work of connecting them is entirely the player's. No system confirms when a connection has been made correctly. No screen says "you found a clue."
+
+**A precise claim about how the revelation works:** for most players, the core revelation will arrive in the late-game scenes — cutscenes and scripted narrative moments that deliver the information directly. The puzzle does not replace those scenes. It precedes them. What the puzzle changes is the emotional register in which those scenes land: for the player who accumulated fragments and drew connections, the late-game scenes are confirmation of what was already feared. For the player who did not, they are news. Both are valid experiences of the same events. The puzzle is the mechanism of enrichment, not the mechanism of delivery. The document would be dishonest to describe it otherwise.
 
 ### The Three Types of Fragment
 
@@ -793,6 +995,39 @@ A drawing that correctly captures the general body ratio of an animal (long neck
 **Progression:** As Kenny's Track in drawing increases through practice, the available mark vocabulary expands — more precise curve tools, finer proportion controls, the ability to add detail marks for texture and surface features. Early Kenny draws blobs and angles. Late Kenny draws recognizable animals with indicated scale and behavioral posture. The progression is visible in what the interface lets him do, not in what his hands can physically accomplish.
 
 **PC and Console parity:** Both platforms use the same interface model. Mouse users have smoother placement. Controller users navigate a cursor over the page with the analog stick and place marks with buttons. Neither platform has a significant gameplay advantage — the observation challenge is the same on both.
+
+### Drawing Recognition — Implementation Specification
+
+The previous section describes what the player does. This section describes what the system does with it — the part that must be implemented before any drawing mechanic can function.
+
+**The recognition problem:** the system needs to compare a player's arrangement of shapes against a reference and determine whether the result is recognizable, and as what. "The system reads the combination and proportions of marks placed" describes an intention, not a mechanism. The mechanism requires:
+
+**1. A shape reference library for each drawable subject.** Every creature, location, face, and object that can be drawn must have a corresponding reference profile in the system — a definition of which marks placed in which spatial relationships constitute a recognizable approximation. For fauna: body length-to-height ratio, number and placement of limbs, presence/absence of distinctive features (frill, crest, long neck). For faces: relative position of eye marks, presence of specific identifying features (scar, hat, beard marks). These reference profiles are authored by the design team for each drawable subject and exist as data, not as generated content.
+
+**2. A proportional matching algorithm.** When the player submits a drawing, the system calculates: how many required marks are present, what their spatial relationships are relative to each other, and how closely those relationships match the reference profile. The output is a match score from 0 to 100.
+
+**3. Recognition thresholds.** Match score determines outcome:
+
+| Score range | Recognition level | NPC response behavior |
+|---|---|---|
+| 0–29 | Unrecognizable | NPC cannot identify; responds generically |
+| 30–49 | Partial recognition | NPC identifies category (animal / person / structure) but not species or individual |
+| 50–74 | Recognizable | NPC can identify subject if they have relevant knowledge |
+| 75–100 | Clear | NPC can identify and provides full information within their knowledge domain |
+
+**Resolving the Track vs. Quality contradiction:**
+
+The document previously stated that "quality affects NPC responses." The examples then show NPCs accepting any drawing at early game ("does this have four legs?"). These are not contradictory if the mechanism is understood correctly.
+
+What Track affects is not the recognition threshold — it is the vocabulary of marks available to the player. Early Kenny can only place basic shapes. The maximum achievable match score with early Kenny's vocabulary is approximately 50–60, because finer details cannot be expressed with basic marks alone. Late Kenny, with an expanded vocabulary, can achieve scores of 75–100 on the same subject.
+
+**What this means in practice:**
+
+- A player who tries very hard with early Kenny's basic marks might achieve a 55 — recognizable, but not clear. The NPC identifies the animal but can't give full detail.
+- A player who makes no effort with late Kenny's full vocabulary might achieve a 30 — partial recognition only.
+- The effort the player puts in matters throughout. The Track expansion raises the ceiling, not the floor.
+
+This eliminates the contradiction: early-game NPCs are not "accepting anything" — they are responding to the maximum achievable quality with the tools available. The tamer's "does this have four legs?" is the correct response to a score in the 30–49 range. It is not charity; it is the system working.
 
 ### Kenny's Drawings: Development Through Practice
 
@@ -1185,6 +1420,22 @@ Each named NPC has their own Track, defined in production and invisible to the p
 - **Behavior in situation** — a companion with high tracking Track notices things others pass without seeing
 - **Reputation that arrives before the encounter** — NPCs with high Track usually have history in the world — other characters speak about them before the player meets them
 
+**How Kenny's Track affects NPC interaction — implementation specification:**
+
+NPCs do not check Kenny's Track at every conversation trigger. The check occurs at specific interaction types: knowledge-sharing conversations, requests for joint operations, and situations where Kenny's competence is directly relevant to what the NPC is doing.
+
+The mechanism is threshold-based, not gradual. Each NPC with a relevant domain has defined Track thresholds at which their behavior toward Kenny changes — typically at Tier transitions (Tier 1→2, Tier 2→3, Tier 3→4). Below the threshold, the NPC operates in one behavioral register. Above it, a different register. The transition is not gradual — it is a step change, because how people treat someone whose competence they recognize is qualitatively different from how they treat someone whose competence they don't, and gradual changes are harder to read without a visible indicator.
+
+*Example — The veteran tamer across Track tiers:*
+- Kenny Fighting Track Tier 1: tamer treats Kenny like any sheriff — respectfully but not as a peer. Information is given but not offered.
+- Kenny Fauna Knowledge Tier 2: tamer begins asking Kenny what he has seen in the field, not just telling him things. The direction of information flow changes.
+- Kenny Domestication Tier 3: tamer begins including Kenny in decisions, not just in support roles.
+- Kenny Domestication Tier 4: tamer speaks to Kenny as someone whose judgment in their shared domain is worth deferring to.
+
+**Track and Bond are independent axes with interaction effects:**
+
+A high-Track Kenny with low Bond toward a specific NPC creates a readable, specific situation: the NPC recognizes the competence but does not trust the person. This produces a behavioral register that is distinct from either high-Track/high-Bond (peer and partner) or low-Track/low-Bond (novice and stranger). The NPC may share information relevant to their domain — Track unlocks that — but will not go into the field with Kenny, will not share personal information, and will not extend the benefit of the doubt in ambiguous situations. Bond unlocks investment. Track unlocks respect. They produce different things and their absence produces different costs.
+
 ### Animal Track
 
 Animals have Track that manifests as real capability and real behavior. The Bestiary, filled with sufficient information, allows the player to start inferring this before direct contact.
@@ -1486,6 +1737,105 @@ Each companion has a set of specific skills that define the role they occupy in 
 
 **Companions can be lost.** An NPC who dies in the field is not replaced by a functional clone of the same abilities. That person, those decades of experience, that built relationship — it is over. The gang the player reconstructs afterward is different, necessarily. And the world notices the absence in ways that are not announced but appear.
 
+### Confirmed Companion Profiles
+
+These are the named companions available for recruitment across the game. Each has a fixed Track, a primary skill domain, a Bond threshold required for recruitment, and a defined arc that begins before and continues beyond the moment they join.
+
+**Richard** — the first proto-companion. Available from the prologue departure without Bond requirement; he chooses to come. Primary domain: Tracking and Field Navigation (Tier 4). Secondary: Field Survival (Tier 3). Does not require formal Gang recruitment — he is present for the bandit camp arc regardless. Whether he stays after depends on what happened during the journey and whether Kenny treated his knowledge as a resource or a partnership. Richard has no Bond threshold — he has a respect threshold, and the player earns it through behavior, not conversation.
+
+**Richard's respect threshold — mechanical specification:**
+
+Richard's threshold is tracked on the same 0–100 internal scale as Bond but measured through a separate variable: Respect. Respect accumulates and depletes differently from Bond, because Richard is evaluating competence and judgment — not relationship warmth.
+
+*What generates Respect with Richard:*
+- Kenny following Richard's navigational read without asking for explanation (trust expressed as action)
+- Kenny identifying an environmental danger before Richard points it out
+- Kenny making a tactical decision in an encounter that Richard, by his Track, would have made
+- Kenny admitting ignorance about a situation and acting cautiously rather than overconfidently
+- Kenny choosing to camp when the conditions call for it rather than pushing forward
+
+*What depletes Respect with Richard:*
+- Kenny ignoring a clear environmental signal Richard has surfaced (verbal or behavioral)
+- Kenny initiating a confrontation Richard assessed as avoidable
+- Kenny treating Richard's observations as trivia rather than actionable information
+- Kenny pushing past exhaustion or injury thresholds in ways that create unnecessary risk
+
+**The threshold for Richard to stay after the bandit camp arc:** Respect at 45 or above. Below this, Richard completes the bandit camp arc because the objective matters to him — but when it is done, he returns to Dillfield and does not present himself for ongoing partnership. He remains in the world, available for conversation, but not for expeditions. The player can rebuild Respect through interactions post-arc; it is not a permanent close.
+
+**If Richard leaves the active gang:** his Track knowledge does not disappear from the world. He becomes an NPC consultant — Kenny can seek him out for specific navigational or survival questions, but Richard will not go back into the field. The relationship is not broken; it is simply different.
+
+**Elliot** — a displaced person who arrived in Dillfield before the game begins and has been quietly useful ever since. The city does not know what he is. Neither does he, fully. Primary domain: Medicine (Tier 4). Secondary: Puzzle-adjacent — conversations with Elliot, once Bond is sufficient, contribute disproportionate weight to the Thread's simulation-knowledge categories. Bond threshold for recruitment: moderate. He will not join anyone who has not demonstrated patience for things that do not immediately make sense. He is one of the trilogy seeds — his arc does not close in this game.
+
+**Mara** — a hunter who works the plains east of Dillfield and knows the terrain between the city and the bandit camp better than anyone living. Primary domain: Ranged Combat (Tier 3). Secondary: Fauna Knowledge (Tier 3), specifically predator behavior at range. Bond threshold for recruitment: low — she respects competence quickly and loses respect for pretense just as quickly. She is the easiest companion to recruit and the most likely to die in the field if the player does not manage encounter decisions carefully.
+
+**Sal** — the blacksmith's apprentice. Has been working with metal and mechanisms since he was twelve. Primary domain: Equipment and Maintenance (Tier 3) — companions with Sal in the gang experience slower equipment degradation and access to field repairs that are otherwise unavailable. Secondary: Leadership (Tier 2). Bond threshold for recruitment: moderate-high. Sal does not follow people he does not trust to come back from things. He has buried two previous employers.
+
+**The Tamer** (name to be established) — the oldest active tamer in Dillfield's region, introduced in the Domestication system. Primary domain: Domestication (Tier 4). Secondary: Fauna Knowledge (Tier 4). Bond threshold for recruitment: high — this person has seen too many people get killed by overconfidence to join anyone who has not demonstrated otherwise through sustained, competent behavior over time. Without this companion, solo Domestication of aggressive species is significantly more dangerous. Their death removes the primary NPC teacher for the Domestication axis permanently.
+
+**The Sixth Slot** — intentionally unspecified for this document. The game will encounter characters during the main story arc whose recruitment potential depends entirely on how specific narrative events resolve. The sixth slot exists in the design as a variable filled by late-game relationships, not pre-planned companions.
+
+**Sixth slot guardrail — preventing the closed-path edge case:**
+
+The risk of an open slot is real: a player who makes internally consistent choices that happen to close every narrative pathway leading to a sixth companion will end the game with five. The design must ensure this cannot happen through a two-layer fallback.
+
+*Layer 1 — Minimum candidate availability:* at least two characters capable of filling the sixth slot must be accessible in the late game regardless of the choices made earlier. These characters have lower Bond thresholds precisely because they appear late — they join based on recent demonstrated behavior, not accumulated history. The world always has someone available to the player who has gotten this far.
+
+*Layer 2 — The floor:* if the player reaches the final narrative threshold of the Thread with fewer than five active gang members, the game ensures at least one late-game character makes themselves available — not through a scripted cutscene that ignores established tone, but through a situation the player encounters in normal play that creates a natural recruitment opportunity. This is a safety net, not a narrative injection. It activates silently only when the floor condition is met.
+
+### Bond Thresholds — Mechanical Specification
+
+Bond between Kenny and each NPC accumulates from: conversations that reach meaningful depth, joint field operations, moments where Kenny was present when something mattered, and time spent in the same space without transactional purpose.
+
+**Threshold structure for recruitment:**
+
+| Threshold level | Approximate Bond value | What it represents |
+|---|---|---|
+| None (Richard) | N/A | Relationship established through narrative, not accumulation |
+| Low | 25–35 | Several meaningful interactions; NPC has seen enough |
+| Moderate | 50–60 | Sustained relationship over multiple encounters; trust established |
+| Moderate-high | 65–75 | Real history together; NPC has seen Kenny under pressure |
+| High | 80–90 | Deep mutual investment; NPC would not follow anyone else at this point |
+
+Bond does not only increase. Actions that contradict what the NPC values — recklessness with others' lives, dishonesty in situations where they were watching, abandoning someone in the field — reduce Bond. A companion who has been recruited can have their Bond erode to a point where they leave. This is not announced. They stop being available for expeditions, then stop appearing at the sheriff's office, then are simply not there when Kenny looks for them.
+
+**Bond erosion — mechanical specification:**
+
+*Erosion rates by action type:*
+
+| Action type | Bond reduction | Notes |
+|---|---|---|
+| Minor contradiction of NPC values | −3 to −5 | Single careless decision the NPC witnessed |
+| Direct contradiction in a shared situation | −8 to −12 | Decision that put the NPC or others at clear risk |
+| Active betrayal (abandonment, deliberate harm, significant lie) | −20 to −30 | Rare; only in situations with clear moral weight |
+| Extended neglect (companion not used for 3+ real hours) | −1 per hour | Slow drift; not punitive, just realistic |
+
+*The departure floor and grace zone:*
+
+A recruited companion's Bond can drop to any value without triggering immediate departure — **until it crosses the grace zone floor of 20**. Above 20, the companion is in the grace zone: erosion is happening but the relationship is recoverable. Below 20, the companion enters the departure sequence.
+
+The departure sequence is not immediate. It has three visible stages, each lasting approximately 15–20 minutes of real gameplay:
+
+1. **Stage 1 — Withdrawal:** the companion stops initiating conversation. Responds when Kenny speaks to them, but does not volunteer information or observations. Behavior in the field becomes noticeably conservative.
+2. **Stage 2 — Unavailability:** the companion declines expedition invitations. Still present at the sheriff's office or their established location. Still responds to direct conversation.
+3. **Stage 3 — Departure:** the companion is absent from their established location. No announcement. Kenny can find them elsewhere in Dillfield if he looks. They are not hostile — they are simply done.
+
+*Bond recovery after erosion:*
+
+Bond can be rebuilt after erosion — but the ceiling lowers permanently with each major negative event. A companion whose Bond dropped to 20 and was rebuilt to 60 through subsequent positive actions will reach a Bond ceiling of 75 (25 points below their original maximum of 100). Each significant erosion event reduces the permanent ceiling by 5 to 10 points. This represents real damage to trust: it is possible to repair, but the relationship is not the same as if the damage had never happened.
+
+### Permanent Death and Mission Dependencies
+
+When a companion dies permanently, the world resolves missing dependencies through degradation, not blocking.
+
+**Degraded capability, not locked content:** no main story mission requires a specific living companion to complete. What companions provide is capability — a tamer companion makes domestication safer, a medicine companion makes injury recovery faster, a tracking companion surfaces information Kenny would otherwise miss. Losing them does not close a door. It makes what is behind that door harder.
+
+**Specific degradation examples:**
+- The Tamer dies before Kenny attempts a high-aggression species taming: the operation is still possible, but Kenny must do it without the NPC guidance that made it manageable. The probability of failure and injury increases substantially.
+- Elliot dies before the player has accumulated sufficient simulation-knowledge Thread weight: the Puzzle's Thread pathway through displaced-person encounters loses its most valuable contributor. The remaining displaced persons fill the gap partially; the final revelation can still be reached, but the path is longer.
+- Richard dies during the bandit camp arc: the journey home is without his navigation knowledge. Weather and terrain encounters that Richard would have flagged and avoided arrive without warning.
+
+**The world's response to loss:** named companion deaths generate world reactions that are not scripted announcements. Other NPCs in Dillfield register absence through behavior — the blacksmith is quieter, someone's table at the saloon is empty, a conversation Kenny would have had simply does not happen because the person who would have had it is not there. The loss compounds over time in ways that are not calculated, only felt.
+
 ## 10.6 — Active Memory Mode — Optional Adaptive HUD
 
 In the game's options, the player can enable **Active Memory Mode** — a system that transforms accumulated knowledge throughout the journey into visible HUD layers.
@@ -1496,11 +1846,15 @@ Everything Kenny has already discovered, cataloged, and learned is automatically
 
 ## 10.7 — End of the Line — Optional Permadeath Mode
 
-In standard mode, Kenny's death is narrative — he can die and continue, with consequences that are reflected in the world but without ending the journey. This is consistent with the fiction: permanent death within the simulation is a fact of the universe that Kenny discovers throughout the story, not a system imposed on the player from the start.
+In standard mode, Kenny's death is narrative — he can die and continue, with consequences that are reflected in the world but without ending the journey.
 
-**The End of the Line mode** — where Kenny's death permanently ends the session, in alignment with the simulation's rules — is on the development horizon as an optional layer for those who want the full experience of what the lore establishes.
+The honest reason for this design is accessibility and retention: permadeath would make Project D inaccessible to most players and is incompatible with the experience this game is trying to create for the widest reasonable audience. The lore establishes that death inside the simulation is permanent — but that lore fact does not obligate the standard game to impose permadeath mechanics. Many games set in dangerous worlds do not kill the player permanently. The lore and the mechanics serve different purposes and do not need to be identical.
 
-**This mode only exists healthily after the base game is in sufficient stability** so that unjust deaths are a real exception, not a constant risk.
+What the standard mode does instead: death has real world consequences — time passes, NPCs react to what happened, certain situations change permanently. The world registers that Kenny almost didn't make it. That is enough weight for the standard experience.
+
+**The End of the Line mode** — where Kenny's death permanently ends the session — exists as an optional layer for players who want the full mechanical expression of what the lore establishes. This mode is not a "truer" version of the game. It is a harder one, for a specific kind of player, with the specific satisfaction that comes from playing under real stakes.
+
+**This mode only ships after Tier 1 and Tier 2 are stable and tested.** Permadeath is only satisfying when deaths feel earned. A permadeath mode built on top of a game with unresolved edge cases, unjust collision deaths, or poorly telegraphed threats does not deliver the intended experience — it delivers frustration. The mode waits for the foundation to deserve it.
 
 ---
 
@@ -1511,6 +1865,31 @@ In standard mode, Kenny's death is narrative — he can die and continue, with c
 This section addresses a structural gap in the document: a complete inventory of systems with no stated build order, no feature tiers, and no explicit definition of what constitutes a shippable game versus what constitutes the full vision. For an indie project, this omission is not a philosophical stance — it is a production risk.
 
 The following divides Project D's systems into three tiers. **Tier 1 is the game.** Tier 2 is what makes it significantly richer. Tier 3 is what makes it everything the document describes. A team should be capable of shipping Tier 1 alone and having delivered a complete, coherent experience. Tiers 2 and 3 are earned through successful development of what came before.
+
+### What "Indie" Means for This Scope — An Honest Assessment
+
+The word "indie" appears in this document once and is not examined. It deserves examination, because the systems described in Tier 1 alone represent a significant production undertaking.
+
+**Tier 1 minimum team estimate:**
+
+| Role | Minimum headcount | Notes |
+|---|---|---|
+| Game designer / systems lead | 1 | Owns Track, Thread, Weight of Body, Bestiary logic |
+| Narrative / voice director | 1 | Owns Kenny's Voice, writing degradation system, line direction |
+| Voice actor (Kenny) | 1 | 3,000–4,000 lines across multiple recording sessions |
+| AI / behavior programmer | 1–2 | Dinosaur behavioral AI, combat logic, Thread state machine |
+| Generalist programmer | 1–2 | Voice system integration, Notebook UI, Bestiary UI, Weight of Body systems |
+| World / environment artist | 1–2 | Dillfield, surrounding terrain, bandit camp, journey locations |
+| Character artist / animator | 1 | Kenny, key NPCs, basic dinosaur rigs |
+| Sound designer | 1 | Ambient audio, behavioral audio cues, Voice integration |
+
+**Estimated minimum team for Tier 1:** 9–12 people.
+
+**Estimated timeline for Tier 1 production (prototype to ship-ready):** 3–4 years at this team size, assuming full-time commitment and no significant scope creep. The Voice system alone — from line writing through direction, recording, editing, and integration — is a 12–18 month effort at minimum given the volume required.
+
+**What this means for the "indie" label:** Project D at Tier 1 is at the upper edge of what a small indie team can deliver. It is not a solo project or a two-person studio project. It is a small-team project with a production budget in the range typically associated with AA-indie rather than lo-fi indie. The label "indie" here means independent of publisher funding and creative control — not minimal resources.
+
+**The realistic path:** the most viable development approach is iterative vertical slices. Build a playable Dillfield with Kenny's Voice at minimum viable frequency, one biome outside the city, two dinosaur species with full Bestiary and behavioral AI, and one Thread threshold delivering one narrative event. That vertical slice is the proof of concept that either validates the design or reveals which systems need fundamental revision. Everything else is built on top of what that slice teaches.
 
 ---
 
@@ -1668,5 +2047,5 @@ A seed is not a spoiler of what comes next. It is a question intentionally left 
 
 ---
 
-*Game Design Document — Project D*   
+*Game Design Document — Project D* 
 *Created by Jonny Kestler (João Vitor Perazzolo)*
