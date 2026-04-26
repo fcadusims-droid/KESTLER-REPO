@@ -3,7 +3,7 @@
 
 ---
 
-> This document covers the full profile of **Salem**, the Infernal Receiver — his origin, pact, corruption arc, narrative stakes, and the complete Phantom Ledger deck built around his identity. Every card in the deck sections marked as real is a printed TCG card. Fan archetype card designs are theoretical and unprinted.
+> This document covers the full profile of **Salem**, the Infernal Receiver — his origin, pact, corruption arc, narrative stakes, and the complete Phantom Ledger deck built around his identity. All card designs are original fan archetype cards — unprinted and theoretical.
 
 ---
 
@@ -645,7 +645,7 @@ Salem is never there to explain. He set the cards down. He shook their hand. He 
 <a name="fan-archetype"></a>
 ## PART IX — FAN ARCHETYPE CARD DESIGNS
 
-> All cards in this section are **theoretical fan designs**. None exist in print. These represent the full original card pool of the Phantom Ledger archetype as it would function if officially released. Cards are organized into six thematic families that reflect Salem's dual identity — the judicial officer and the infernal executor. All card text is written in standard Yu-Gi-Oh TCG formatting.
+> All cards in this section are **theoretical fan designs**. None exist in print. These represent the full original card pool of the Phantom Ledger archetype as it would function if officially released. Cards are organized into eight thematic families that reflect Salem's dual identity — the judicial officer and the infernal executor. All card text is written in standard Yu-Gi-Oh TCG formatting.
 
 The archetype operates around a single central resource: **Phantom Counters**, stored primarily on the Field Spell *Infernal Tribunal*. Monsters place counters by being summoned or destroyed. Spells and Traps place counters as secondary effects. The counter pool feeds protective effects, the boss monster's board negate, and the archetype's finisher. Every card family contributes to the same economy.
 
@@ -893,7 +893,7 @@ The devil who built the Phantom Ledger did not construct it from neutral materia
 ### Phantom Ledger — Envy's Hollow Clerk
 **[DARK / Fiend / Level 4 / ATK 1400 / DEF 1000]**
 
-*When this card is Normal Summoned: look at the opponent's hand; if you control "Infernal Tribunal", look at the opponent's hand; otherwise, add 1 "Phantom Ledger" Spell Card from your GY to your hand. Once per turn: you can select 1 face-up monster the opponent controls; this card's ATK becomes equal to that monster's current ATK until the End Phase. You can only use this effect of "Phantom Ledger — Envy's Hollow Clerk" once per turn. If this card destroys an opponent's monster by battle: place 1 Phantom Counter on "Infernal Tribunal" if you control it.*
+*When this card is Normal Summoned: if you control "Infernal Tribunal", look at the opponent's hand; otherwise, add 1 "Phantom Ledger" Spell Card from your GY to your hand. Once per turn: you can select 1 face-up monster the opponent controls; this card's ATK becomes equal to that monster's current ATK until the End Phase. You can only use this effect of "Phantom Ledger — Envy's Hollow Clerk" once per turn. If this card destroys an opponent's monster by battle: place 1 Phantom Counter on "Infernal Tribunal" if you control it.*
 
 > **Role:** A mimic monster. Copies the ATK of any monster on the opponent's field, effectively becoming as strong as whatever they send to battle. Designed to make the opponent afraid to field powerful monsters — because those monsters are immediately reflected back at them.
 
@@ -956,7 +956,7 @@ The devil operates through language. Every tool he has ever used — contracts, 
 
 > **Role:** A precise hand disruption card. The opponent draws first — giving them the illusion of advantage — then Salem removes the most dangerous card from their hand. This mirrors the devil's own methodology: offer something, take more back.
 
-> **Design note:** The draw-before-discard sequencing means Salem always sees the freshest version of the opponent's hand, including whatever they just drew. Used at the end of the opponent's Draw Phase, this is a perfect information play: see their new card, decide in real time whether to discard it or something else.
+> **Design note:** The draw-before-discard sequencing means Salem always sees the freshest version of the opponent's hand, including whatever they just drew. This makes False Promise most potent when activated before the opponent's Main Phase begins — seeing the full hand before they start their plays allows Salem to remove the most critical piece preemptively rather than reacting to what has already resolved.
 
 > **Flavor:** *"He offered them exactly what they asked for. The problem was what they forgot to ask."*
 
@@ -969,7 +969,7 @@ The devil operates through language. Every tool he has ever used — contracts, 
 
 > **Role:** Tax on searching. Every search the opponent makes costs 300 LP and reveals the card drawn. Against Dracotail (which searches extensively), this inflicts 900–1500 damage per turn passively while stripping away the opponent's hidden information advantage.
 
-> **Design note:** The 300 damage per search is not enough to win on its own, but it stacks catastrophically with Just Desserts and Secret Barrel. If the opponent searches 3 cards (900 LP lost) and then has a full board (Just Desserts: 2500), a single turn represents 3400 damage from two passive sources. Perjured Oath is the background radiation that makes the opponent bleed.
+> **Design note:** The 300 damage per search is not enough to win on its own, but it stacks with Administrative Penalty and Pain Ledger payoffs. If the opponent searches 3 cards in a turn (900 LP lost) and Administrative Penalty fires once (500 × GY count), a single turn produces 1400+ damage from two passive sources with no active investment beyond having both cards on the field. Perjured Oath is the background radiation that makes the opponent bleed between the archetype's more dramatic moments.
 
 > **Flavor:** *"Everything you say will be recorded. Everything you draw will be disclosed."*
 
@@ -995,7 +995,7 @@ The devil operates through language. Every tool he has ever used — contracts, 
 
 > **Role:** The spell-form version of the Masochist identity. Redirects any incoming damage — battle damage, burn damage, even self-inflicted damage from Ring of Destruction — to the opponent instead. Fully covers the Barrel Behind the Door role while being activatable from the hand at any time.
 
-> **Design note:** Sentence Commuted chained to Ring of Destruction's self-damage effect is identical to Barrel Behind the Door but activatable without needing to chain directly. The once-per-turn limit prevents it from becoming an invulnerability shield in damage-heavy duels. Critically, it also works against the opponent's burn traps — if they use Just Desserts against your own monsters, Sentence Commuted reverses it.
+> **Design note:** The once-per-turn limit prevents it from becoming an invulnerability shield in turns where multiple damage sources fire. Its most important interaction is with Infernal Debt: when Sentence Commuted is active, the self-damage from Infernal Debt hits the opponent instead — Salem takes 0, Pain Ledger gets no Suffering Counters, but the opponent absorbs the removal cost while their monster is simultaneously destroyed. This creates a genuine decision each time Infernal Debt is activated: absorb the self-damage to feed Pain Ledger, or redirect it via Sentence Commuted to protect LP at the cost of the counter generation.
 
 > **Flavor:** *"Appealed. Reversed. The sentence stands — just not for him."*
 
@@ -1039,9 +1039,9 @@ Salem's career was built on procedures. Insolvency administration is not a drama
 
 *If the opponent controls no monsters: inflict 3000 damage to the opponent. If "The Contract" is face-up on the field when this card resolves: the opponent cannot activate cards or effects in response to this card's activation.*
 
-> **Role:** A conditional direct damage card that deals 3000 — potentially lethal when combined with prior burn. Requires a boardless opponent, meaning it rewards the Evenly Matched → burn chain: Evenly Matched wipes everything, Default Judgment fires into an empty field.
+> **Role:** A conditional direct damage card that deals 3000 — potentially lethal when combined with prior burn accumulation. Requires a boardless opponent. The most natural sequencing: Court-Ordered Seizure strips the opponent's last monster at End Phase, leaving the field clear; Default Judgment fires the following turn. With The Contract active, the activation cannot be responded to, closing off the opponent's final interaction window before the damage resolves.
 
-> **Design note:** The Contract's presence making this card chain-proof is the critical synergy. Default Judgment hitting for 3000 damage and the opponent having no ability to respond — no Ash Blossom, no Infinite Impermanence, no counter trap — is a hard-close scenario. The Contract must already be face-up, meaning the setup costs two cards. The payoff is a 3000 damage negate-proof bomb.
+> **Design note:** The Contract's presence making this card chain-proof is the critical synergy. Default Judgment hitting for 3000 damage with no opponent response available is a hard-close scenario. The Contract must already be face-up, meaning the setup costs two cards. The sequencing: Court-Ordered Seizure strips the opponent's key remaining monster to the GY at End Phase, leaving the field clear; Default Judgment fires the following turn into an empty board.
 
 > **Flavor:** *"They did not appear. They did not respond. The court finds in favor of the plaintiff. Always."*
 
@@ -1080,7 +1080,7 @@ Salem's career was built on procedures. Insolvency administration is not a drama
 
 > **Role:** A burn trap that scales with Salem's established resources. Early game, it inflicts modest damage. Mid-to-late game, with 6–8 Phantom Ledger cards present or spent across field and GY, this triggers for 3000–4000 damage from a single card activation.
 
-> **Design note:** Unlike Secret Barrel and Just Desserts (which scale with the opponent's board), Administrative Penalty scales with Salem's own progression — rewarding consistency in building the engine. At 8 Phantom Ledger cards across field/GY: 4000 damage from one trap. This is the single highest-ceiling burn card in the archetype.
+> **Design note:** Unlike Evidence of Guilt (which scales with the opponent's GY activity) and Pain Ledger (which scales with damage Salem absorbs), Administrative Penalty scales with Salem's own established presence — rewarding consistency in building the engine. At 8 Phantom Ledger cards across field/GY: 4000 damage from one trap activation. This is the single highest-ceiling burn card in the archetype, and the one that most rewards the long game.
 
 > **Flavor:** *"Administrative penalties apply. Late fees are non-negotiable."*
 
@@ -1724,8 +1724,8 @@ Ex Parte Injunction ×1
 | Paragraphe, the Counter-Indictment | Counter Trap | The Side Deck |
 | The Absolute Priority Rule | Normal Trap | The Side Deck |
 
-*64 original cards across 8 thematic families. All unprinted and theoretical.*
-*Main Deck: 40 cards — Extra Deck: 15 cards — Side Deck: 15 cards.*
+*64 unique card designs across 8 thematic families. All unprinted and theoretical.*
+*Recommended deck construction uses multiple copies of key cards: Main Deck 40 slots — Extra Deck 15 slots — Side Deck 15 slots.*
 
 ---
 
