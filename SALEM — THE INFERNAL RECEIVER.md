@@ -75,37 +75,113 @@ Also known as:
 
 ### Appearance
 
-**Base Form**
+**Base Form — The Day**
 
-- Tailored black suit with crimson lining
-- Silver gloves used when drawing cards
-- Chain-shaped tie pin
-- One eye faintly glows gold when a contract activates
-- Carries a leather briefcase containing his deck and sealed ledgers
+In his daily life, Salem looks exactly like what he is: an insolvency administrator in his early forties who has had a difficult few years. The suit is good quality but slightly worn at the cuffs. The shoes are polished out of professional discipline rather than pride. He carries a leather briefcase that contains case files. He does not look like a man touched by the infernal. He looks like a man who has too much work and not enough sleep.
+
+**The Night — Duel Form**
+
+When Salem finds an opponent and the proceedings begin, something shifts in how he presents — not dramatically, and not all at once, but visibly to anyone paying attention.
+
+The suit is still the same suit. But in the darkness, the crimson lining catches light differently. The chain-shaped tie pin, which reads as decorative in daylight, is heavier and more deliberate in a dimly lit tournament hall. The silver gloves, which he puts on only when he draws cards, are the tell: no one who plays casually wears gloves to handle cards.
+
+One eye faintly glows gold when a contract activates.
+
+**The Scales of Corruption — The Hidden Symbol**
+
+There is a piece of Salem's nighttime appearance that most people do not register on first encounter, and some never register at all. It requires the right angle of light and the specific attention of someone who knows what they are looking at.
+
+A scale hangs at his throat.
+
+Not a decorative brooch. Not a lapel pin. A miniature scale — structurally a yoke, not an ornament — built into the architecture of his collar. The support runs along the back of his neck, crests over each shoulder, and descends on both sides in two lengths of dark chain. Each chain terminates in a weight.
+
+The weights are the detail. They are not pans. Not plates. They are solid, smooth, faceted pieces — roughly the shape and size of the iron weights used in an old apothecary's kit, the kind a pharmacist or goldsmith would use to measure precise quantities. Teardrop-shaped. Self-contained. They do not have a surface meant to hold anything. They are not designed to receive — they are designed to measure by their own mass alone.
+
+In daylight or at a distance, they could be mistaken for unusual pendant ornaments or the terminal elements of a structured collar piece. A piece of architectural jewelry. Something a person might wear to communicate seriousness of purpose without stating it directly. At the right angle, in the right light, they are clearly weights — old, precise, made to last — and the chain connecting them to the shoulder yoke is clearly a balance mechanism.
+
+What makes them significant is the asymmetry.
+
+One weight always hangs slightly lower than the other. Not dramatically. Not enough to see from across a room. But close up, watching them across a table over the course of a duel, the difference is visible. The left weight descends when Salem is closer to the demonic. The right weight descends when he is closer to the human. They shift over time — between duels, not during them. The scale does not react to individual plays. It records something longer than that.
+
+The scale moves.
+
+If Salem is closer to his human self — if he has been feeding well, if the corruption is suppressed, if the will he has absorbed from recent opponents has restored some of what the pact has been draining — the right weight hangs lower. The scale tips right.
+
+If Salem is closer to becoming a demon — if he has lost several duels recently, if the draining has accelerated, if the Corrupted Receiver has been invoked and the soul-split has taken more than it gave back — the left weight hangs lower. The scale tips left.
+
+He never looks at it during a duel. He does not need to. He can feel it.
+
+**Corruption in Design — Visual Progression**
+
+Salem's appearance changes as the pact progresses. The changes follow the corruption stages outlined in Part VI, but they map onto his visual presentation in a specific way that can be read by anyone who has watched him across multiple duels over time.
+
+In his early stages — when the scale is balanced or tips slightly right — his duel appearance reads as formal and precise. The suit. The gloves. The chain pin. A man in professional clothing who happens to be playing a card game.
+
+As corruption advances and the scale tips further left, his visual design shifts. The crimson in his lining bleeds upward into the fabric. The gold eye no longer only activates during card effects — it maintains a faint glow throughout the duel. The scale becomes more visible, not because it grows but because his posture changes in a way that exposes it. His shadow in well-lit rooms does not always match his body exactly.
+
+At the late stages, his duel form looks like something that remembers being a man rather than something that is one. The toga-like dark draping that begins to overlay his suit carries old bloodstains — not fresh, not dramatic, but permanent marks of proceedings that have been completed. His eyes have both shifted by this point. The scale is tipped heavily left and no longer rights itself between duels.
+
+At the terminal stage, the scale is a fixed point. It does not move. It has settled.
+
+---
 
 ### The Double Life — Day and Night
 
 Salem's existence is divided into two completely separate halves, and anyone who knows him from only one side would not recognize him in the other.
 
-**The Day**
+**The Day — A Life That Never Improved**
 
-From early morning until late afternoon, Salem is a working insolvency administrator. He wakes at the same time every day. He makes coffee, reads the overnight correspondence, and leaves for his office by eight. His desk is organized. His files are current. His clients — the creditors, the courts, the institutions that commission him for asset recovery and debt management — have no reason to doubt that he is anything other than what his business card says.
+The contract was supposed to change things. That was the point. Career restored, wealth, influence, enemies' fear — that was what Salem signed for. He read the delivery terms too quickly to understand them: all promised rewards would be delivered only after the agreement was fulfilled.
 
-He attends meetings. He drafts proceedings. He files motions with actual courts in the real legal system. He negotiates on behalf of institutional clients who owe him nothing personal and who he feels nothing for. He is professional. He is efficient. He is entirely unremarkable. His colleagues, if asked, would say he seems quieter lately, perhaps a little distracted in certain lights. Nothing that concerns them.
+The agreement is not fulfilled. He is still collecting.
 
-The briefcase he carries during the day contains documents. Case files. Standard instruments of an insolvency practice.
+His daily life is the same disaster it was the night the visitor appeared, except now it is a disaster he cannot leave. He still works as an insolvency administrator. The same clients — institutions that see him as a tool, not a professional. The same creditors who commission him for asset recovery and treat him like a process server. The same cases, the same meetings, the same inbox, the same commute.
 
-He sets it down when he arrives home. He picks up the other briefcase.
+His license was never formally revoked, which is the one thing that did not get worse. But it was never formally restored either. He operates at the edge of credibility, taking on cases that more established administrators pass over. He does not pass them over because he needs the work. He takes them because they are what is available.
 
-**The Night**
+His office is a single room on the fourth floor of a building that charges him slightly too much for what it provides. His name is on the door in a font that was fashionable a decade ago. His assistant, when he had one, left after six months. He has not replaced her.
 
-Salem does not pursue duelists during working hours. Not because he lacks opportunity — competitive players duel at all hours — but because the pact does not require him to mix the two lives, and the devil designed the collection system to operate specifically in darkness.
+His colleagues know him by reputation as someone who was once going somewhere and then, around three years ago, appeared to have stopped going anywhere. They are not hostile. They simply do not think about him very much.
 
-From the moment the sun sets, something changes. Not dramatically. Not with any visible transformation in his early-corruption stages. But the quality of the world shifts. The air holds differently. His attention sharpens in a way that the morning light never quite produces. He becomes more precise — in observation, in judgment, in his reading of people.
+His apartment is functional. He eats at reasonable hours. He does not drink more than the situation warrants. He maintains these things with the same discipline he applies to his case files: not because he feels anything about them, but because the routine is a structure that still works even when the will to maintain it is thinner than it used to be.
 
-He goes to where duelists gather at night. Local game stores running late sessions. Underground tournament halls operating past midnight. After-hours competitive events in venues that exist outside the official circuit. The serious players — the ones the devil wants — are there, because serious players do not stop playing when the sun goes down. They play harder.
+A difficult client call happens in the afternoon. A case he has been working for six weeks closes badly — the assets he expected to recover are encumbered in a way the original filing concealed, and he has to renegotiate the commission downward while the creditor's representative speaks to him with the specific tone reserved for people who have made mistakes. He thanks the representative for the call. He files the revised documents. He stares at the screen for approximately four minutes before closing the tab.
 
-Salem finds a seat. He watches. He waits to find who he is looking for.
+He sets down the day briefcase. He picks up the other one.
+
+**The Night — A Life That Actually Works**
+
+From the moment the sun sets, the world adjusts.
+
+Not his circumstances — those are fixed by the pact and the daily schedule and the creditors and the bad cases. But the quality of his attention changes. The sharpness that the morning light never produces comes online at dusk. By the time he reaches wherever the serious players are — the late session at the game store, the underground hall, the after-hours tournament operating past midnight — he is more himself than he has been at any point since waking.
+
+At night he holds the other briefcase. Inside it: a deck, sealed ledgers, and the specific authority of a presiding judge.
+
+When someone is willing to duel him, the field becomes a courtroom. He is the judge. His cards are his staff. The opponent is the defendant. And everything that accumulated across the daylight hours — the renegotiated commission, the representative's tone, the four minutes of staring at a screen — is not transferred into the duel the way that phrase normally means. It is not that he becomes aggressive. It is that he becomes cold in the way the day never lets him be. The procedural precision of the Tribunal Domain is not a performance. It is what he is when he does not have to pretend to care about anything else.
+
+He does not rush. He does not escalate. He speaks at 60% the pace of a competitive duelist and maintains that pace throughout. If the opponent makes a reckless play, he does not comment on the recklessness. He responds with the correct clause and continues the proceedings.
+
+When he wins, something returns. Not completely. Not enough. But more than there was this morning.
+
+When he loses, the pact collects its toll immediately and he makes the commute home with less of himself than he started with. He files the day's remaining correspondence if there is any. He does not dwell on either the loss or the collection. Dwelling is not productive.
+
+He wakes at the same time the next morning. He makes coffee.
+
+### The Gift of Languages
+
+When the devil delivered the deck and the instructions, he included one additional provision that was not in the contract's original language — or rather, it was there, in a subordinate clause that Salem read as referring to something else.
+
+At night, Salem speaks every language.
+
+Not in the way a skilled linguist speaks multiple languages, with different fluency levels and a detectable accent in each. Every language, at the same fluency, with the idiomatic precision of a native speaker who has practiced law in that language for decades. He moves between them without registering the transition. When he finds an opponent whose native language is not his own, the proceedings continue in theirs without interruption. The Tribunal Domain does not have a language barrier. The court speaks to whoever is inside it in the terms they will most precisely understand.
+
+By day, this ability does not exist. He speaks his own language. He can manage the basic professional exchanges in two or three others, as any internationally-practicing administrator has to. The infernal gift is not available in sunlight. It is another thing that belongs entirely to the night.
+
+He noticed it the third time he found an opponent who spoke no shared language with him and discovered that it did not matter. He found the ability neither remarkable nor comforting. He filed it the way he filed everything the pact had introduced into his life: as a clause that was always there, functioning exactly as written, providing exactly what the devil needed it to provide.
+
+The opponent is never confused by this. They hear their own language delivered with the precision of someone who understands not just the words but the legal tradition behind them. A Korean opponent hears Salem deliver rulings in Korean with the procedural cadence of a Korean high court judge. A Brazilian opponent hears him in Portuguese with the specific formal register of a São Paulo insolvency proceeding. A German opponent hears Hochdeutsch delivered at the exact pace and intonation of a Bundesgerichtshof opinion.
+
+The Tribunal Domain speaks to defendants in terms they will understand. The devil was specific about this. Misunderstanding reduces the legitimate quality of the consent. The court needs the defendant to understand what is happening to them. That is what makes it legal.
 
 ### The Night as His Light
 
@@ -419,23 +495,33 @@ Because nothing Salem takes from an opponent changes the long-term arithmetic of
 
 ### Appearance Corruption Stages
 
-With each defeat, Salem's body is altered by the pact. His appearance gradually becomes more demonic:
+With each defeat, Salem's body is altered by the pact. His appearance gradually becomes more demonic. The scale at his throat registers each stage before his body does — the left pan descends slowly but does not rise on its own.
 
-| Stage | Manifestation | Effect on Daylight |
-|---|---|---|
-| Early | Veins darken like inked contracts beneath the skin | Daylight is slightly uncomfortable — like a room two degrees too warm |
-| Developing | Bone ridges form at the temples; teeth begin to sharpen | Morning hours produce a faint headache he attributes to stress |
-| Advanced | Shadow burns mark both hands; eyes shift to molten gold or crimson | Direct sunlight requires sunglasses; he begins scheduling work calls in the afternoon |
-| Late | Voice develops layered echoes; silhouette begins to distort unnaturally | He stops going into the office and conducts all daytime work remotely, from rooms where the blinds stay closed |
-| Terminal | Horns fully emerge; body no longer reads as human from a distance | The day ceases to exist for him in any functional sense. He operates entirely in darkness. The double life collapses. |
+| Stage | Physical Manifestation | Scale Position | Effect on Daylight | Daily Life Impact |
+|---|---|---|---|---|
+| Early | Veins darken like inked contracts beneath the skin | Slightly left — barely perceptible | Daylight is slightly uncomfortable, like a room two degrees too warm | He takes fewer afternoon meetings. Attributes it to scheduling preference. |
+| Developing | Bone ridges form at the temples; teeth begin to sharpen | Noticeably left; the left pan hangs visibly lower | Morning hours produce a faint headache he attributes to stress | He stops eating lunch at his desk and moves to a back room. Fewer colleagues notice him. |
+| Advanced | Shadow burns mark both hands; eyes shift to molten gold or crimson | Clearly left; the scale is the first thing visible when he enters a room | Direct sunlight requires sunglasses; he schedules calls in the afternoon | He begins working from home three days a week. His filed documents are immaculate. His calls are brief. |
+| Late | Voice develops layered echoes; silhouette distorts unnaturally in strong light | Heavily left; the chain around his throat tightens slightly, visibly | He stops going to the office, conducts all work remotely, blinds closed | He stops explaining his absence. Clients stop asking. The case files are still impeccable. He still bills on time. |
+| Terminal | Horns emerge fully; body reads as inhuman from a distance; the toga overlay carries permanent bloodstains | Fixed at the left — the scale no longer moves | The day ceases to exist functionally. He operates entirely in darkness. | The double life collapses. The daily briefcase stays on the floor. The other one is always in his hand. |
 
-At the terminal stage, Salem no longer controls his own actions during duels. The devil's influence begins to speak through him. Outside of duels, the double life — the normal administrator who kept office hours and filed reports — has ceased to exist. There is no day left. Only the night, and what the night requires of him.
+At the terminal stage, Salem no longer controls his own actions during duels. The devil's influence begins to speak through him. Outside of duels, the normal administrator who kept office hours and filed reports has ceased to exist. There is no day left. Only the night, and what the night requires of him.
+
+**What the scale looks like across the arc:**
+
+In the early stages, the scale is subtle enough that opponents who notice it assume it is decorative — an unusual piece of jewelry with legal symbolism, appropriate for a man who speaks like a court officer. The chain around his throat is thin enough to read as a necklace.
+
+As the arc progresses and the left pan descends, the scale becomes harder to dismiss. The chain thickens slightly. The weight pans develop a faint luminescence — not enough to be dramatic, but enough that they catch light in rooms where nothing else should. By the Advanced stage, the scale is the first thing a perceptive opponent notices about him, before the gloves, before the voice, before the eye. It announces that something is being measured and that the measurement is not currently in his favor.
+
+At the Terminal stage, the scale is still and fixed. Both sides of the chain have darkened to the color of old iron. The left pan rests against his chest. The right one hangs at the full extension of its chain, empty. The balance was designed to show where he stands. At this stage, it shows where he has fallen.
 
 ### The Boss Monster Reflection
 
 **Phantom Ledger Sovereign — Final Receivership**
 
-A demonic arbiter who converts life points, graveyard resources, and destroyed cards into soul counters. Salem's boss monster is not a separate entity — it is a portrait of what he is becoming. Each stage of the Sovereign's corruption in the card art mirrors Salem's own body at that point in the story. This concept manifests across two cards in the archetype: the judicial-corruption aspect in Salem, Infernal Receiver, and the fully manifested demonic form in The Unnamed Creditor. Together they represent the two possible endpoints of Salem's transformation arc.
+A demonic arbiter who converts life points, graveyard resources, and destroyed cards into soul counters. Salem's boss monster is not a separate entity — it is a portrait of what he is becoming. Each stage of the Sovereign's corruption in the card art mirrors Salem's own body at that point in the story, and in each version the scale is visible: early art shows it nearly balanced, later art shows it fixed left, the final art shows the chain broken on the right side entirely.
+
+This concept manifests across two cards in the archetype: the judicial-corruption aspect in Salem, Infernal Receiver, and the fully manifested demonic form in The Unnamed Creditor. Together they represent the two possible endpoints of Salem's transformation arc. One is the judge who still has enough of himself left to preside. The other is what sits on the bench when the judge is gone.
 
 ---
 
@@ -501,6 +587,8 @@ A demonic arbiter who converts life points, graveyard resources, and destroyed c
 
 **The institutional third person.** Salem does not use "I" in duels. He uses "the court" or "the law." This is not affectation — it is doctrine. The court is the institution; Salem is its voice. He applies this reflexively, without thinking, in the same way a trained judge applies it to their written opinions.
 
+**At night, he speaks every language.** The pact's linguistic provision means that when Salem finds an opponent whose native language is not his own, the proceedings continue in theirs. He does not make a point of this. He simply speaks. The opponent hears their own language delivered with the precision of someone who has practiced law in it for decades. This is not a courtesy extended to the defendant. It is a condition of the binding — the court must be understood for the clause to hold. Salem knows this. He takes no particular satisfaction from it.
+
 **Modal verbs as authority markers.** "Shall," "must," "will not," and "cannot" are his load-bearing words. He uses them precisely and sparingly. "Shall" is an order. "Must" is a condition. "Will not" is a ruling. The opponent can feel the difference.
 
 **He never uses the following words:**
@@ -522,7 +610,7 @@ A demonic arbiter who converts life points, graveyard resources, and destroyed c
 
 **The last thing Salem says after winning is never a gloat. It is an acknowledgment.** He extends his hand. He thanks them for the proceeding. He means it. That is what is unforgettable. He means every word, always, even the ones that are destroying something the opponent will not miss until years later.
 
-**When the corruption advances, the language degrades before the body does.** Sentences that should flow in a particular grammatical direction take slightly wrong turns. The institutional third person slips. He references himself briefly before correcting. He does not lose composure — he loses syntax. Something is being overwritten. It shows in the grammar before it shows anywhere else.
+**When the corruption advances, the language degrades before the body does.** Sentences that should flow in a particular grammatical direction take slightly wrong turns. The institutional third person slips. He references himself briefly before correcting. He does not lose composure — he loses syntax. Something is being overwritten. It shows in the grammar before it shows anywhere else. In duels where the scale tips unusually far left — where the left pan has descended below the line his collar covers — his sentences begin to carry a second cadence underneath the first, like a translation running a half-second behind the original. The opponent hears Salem speaking. Underneath, at the edges of perception, something else is forming the words.
 
 ### Latin Maxims — Salem's Operational Philosophy
 
@@ -769,11 +857,11 @@ What none of them know — and what Salem has begun to suspect — is whether an
 ### Evidence of Guilt
 **[Continuous Trap]**
 
-*Each time the opponent sends a card from their field to the GY (except during the Damage Step): place 1 Guilt Counter on that card in the GY. Once per turn, during your Standby Phase: if any card in the opponent's GY has 3 or more Guilt Counters, inflict 500 damage for each Guilt Counter on it, then banish it.*
+*Once per turn, during your Standby Phase: if the opponent sent 3 or more cards to the GY during their previous turn — inflict 300 damage for each card they sent to the GY that turn, then choose 1 of those cards; banish it. You can only use this effect of "Evidence of Guilt" once per turn.*
 
-> **Role:** Passive burn accumulation tied to the opponent's own card use. Every card they send to GY — as combo material, as a cost, as a destroyed card — accumulates Guilt Counters. After three activations, that card triggers burn damage and is permanently banished from the record.
+> **Role:** Passive burn accumulation tied to the opponent's own card activity. Every turn the opponent sends 3 or more cards to the GY — as combo material, as costs, through destruction — Evidence of Guilt fires in the following Standby Phase: burn damage proportional to the count, then permanent banishment of the most critical piece. It punishes GY-reliant engines that move many cards at once while remaining inactive against conservative play.
 
-> **Design note:** This card punishes GY-reliant engines specifically. Against Branded (which sends Albaz to GY as a cost repeatedly), Evidence of Guilt accumulates Guilt Counters on the same targets across multiple turns, eventually burning for 1500+ and banishing the GY piece they rely on. Against combo decks that use multiple cards as Link or Synchro material, every material sent to GY starts its own counter clock.
+> **Design note:** The previous version placed Guilt Counters on individual cards within the opponent's GY — a physically unmanageable mechanic that required tracking separate counter states on 8–15 cards simultaneously in a real game. The redesign eliminates per-card tracking entirely. Players only need to count how many cards the opponent sent to GY during their last turn, which is recorded naturally during play and requires no markers on individual GY cards. The 3-card threshold means reactive one-for-one plays don't trigger it; only extended combo sequences or multiple simultaneous costs do. Both players track the count mentally or with a single counter on Evidence of Guilt itself, which is standard practice.
 
 > **Flavor:** *"The ledger remembers. Every entry is permanent."*
 
@@ -782,11 +870,11 @@ What none of them know — and what Salem has begun to suspect — is whether an
 ### Statute of Limitations
 **[Continuous Trap]**
 
-*During each player's Standby Phase: place 1 Limitation Counter on each card in the opponent's GY. Neither player can activate the effects of, use as material for a Summon, or use as a cost any card in the opponent's GY that has 3 or more Limitation Counters on it. If this card is destroyed while 1 or more Phantom Counters are on the field: Special Summon 1 "Phantom Ledger" monster from your GY.*
+*Once per turn, during your Main Phase: you can declare 1 card by name in the opponent's GY that was sent there during their previous turn or earlier — the opponent cannot activate that card's effects, use it as Summon material, or use it as a cost until the end of this turn. You can only use this effect of "Statute of Limitations" once per turn. If this card is destroyed while 1 or more Phantom Counters are on the field: Special Summon 1 "Phantom Ledger" monster from your GY.*
 
-> **Role:** A passive lockout on GY resources that accumulates mechanically through explicit counter tracking. Every Standby Phase, each card in the opponent's GY moves one step closer to being sealed. A card sent to GY on Turn 1 becomes inaccessible at the start of Turn 3 (after two Standby Phases have placed counters on it). The lockout is precise and adjudicable: Limitation Counters on each card are visible to both players, and the 3-counter threshold is unambiguous.
+> **Role:** A targeted GY lockout that converts knowledge of the opponent's GY into procedural suppression. Salem declares a specific card by name — a card that entered the GY the previous turn or earlier — and it is sealed for the rest of his turn. Used at the start of his Main Phase before playing into the opponent's GY-based disruptions, this card functions as information-gated counterplay: the longer the game has run and the more Salem knows about what is in the opponent's GY, the more precisely he can target and seal exactly what threatens the current play line.
 
-> **Design note:** Yu-Gi-Oh has no built-in record of when a card entered the GY, making time-based GY restrictions unenforceable as written. The Limitation Counter system solves this: counters placed by the card's own effect each Standby Phase create a clear, public record of each card's age. Against Branded (which sends Albaz to GY repeatedly), the first Albaz sent is sealed after two full Standby Phases; subsequent sends reset the clock on a new copy. The self-destruct clause ensures the opponent cannot profitably destroy it.
+> **Design note:** The previous version placed Limitation Counters on each card in the opponent's GY every Standby Phase — requiring players to track separate counter states on 8–15 individual GY cards simultaneously, which is physically unmanageable at a real table. The redesign uses the natural game record (which turn a card entered the GY) as the tracking mechanism instead of explicit counters. Both players already know whether a card was sent "this turn" or "an earlier turn" as part of normal gameplay. The once-per-turn cap and the single-target nature of the effect ensure it functions as targeted disruption rather than a board-wide lockout. The self-destruct clause remains.
 
 > **Flavor:** *"Time does not absolve. In this court, all debts remain open indefinitely."*
 
@@ -1133,7 +1221,7 @@ Salem is not alone in his position. The infernal court that governs his pact has
 ### The Hollow Witness
 **[DARK / Fiend / Level 4 / ATK 1100 / DEF 1900]**
 
-*When this card is Normal or Special Summoned: banish 1 monster from the opponent's GY and place 1 Witness Counter on this card. You can only place 1 Witness Counter on this card per Duel. Once per turn: you can remove the Witness Counter from this card; apply the effect of the banished monster, as if it had activated that effect during your Main Phase. This effect can only apply effects that activate during the Main Phase as an optional effect and do not require a Summon, draw, or specific opponent action to be currently occurring. If the banished monster's effect requires a discard, Tribute, or LP payment as activation cost, pay that cost. You can only use this effect of "The Hollow Witness" once per turn. When this card is destroyed: inflict 800 damage to the opponent if it had a Witness Counter on it.*
+*When this card is Normal or Special Summoned: banish 1 monster from the opponent's GY and place 1 Witness Counter on this card. You can only place 1 Witness Counter on this card per Duel. Once per turn: you can remove the Witness Counter from this card; apply the effect of the banished monster as an optional Quick Effect, provided that effect has no activation cost and does not require a specific game event (such as a Summon, battle, or card being sent to the GY) to be currently occurring. You can only use this effect of "The Hollow Witness" once per turn. When this card is destroyed: inflict 800 damage to the opponent if it had a Witness Counter on it.*
 
 > **Role:** A GY parasite that steals one capability from the opponent's spent resources and holds it for a single use. The Witness Counter is a one-time asset — it can be spent immediately or saved for the moment its effect is most devastating. On destruction before the counter is spent, it converts directly into flat damage instead. The card's power is focused: one stolen effect, used once, with the timing entirely in Salem's control.
 
@@ -1163,7 +1251,7 @@ Salem is not alone in his position. The infernal court that governs his pact has
 
 > **Design note:** The GY resurrection is once per Duel. This prevents an indefinite recursion loop at 6000+ ATK with targeting immunity from Infernal Tribunal and damage reflection — a combination with no natural off-switch. The once-per-Duel restriction preserves the narrative function without enabling infinite comeback. The hand summon carries no per-Duel restriction since LP dropping to 2000 is already a severe condition. The three damage-integrated cards form a functioning system: self-damage from Infernal Debt feeds Pain Ledger and accelerates the LP drain toward the threshold; when the threshold is crossed, Corrupted Receiver arrives; once on field, damage reflection makes further hits bilateral.
 
-> **Narrative origin — The Split Soul:** Salem, Corrupted Receiver does not represent Salem losing control. It represents a deliberate act of survival engineering that Salem performed as he began to understand what the infernal pact was doing to him. Using the same supernatural duelist's power the devil granted him — the ability to channel intent through cards — Salem transferred half of his own soul into this card, creating a vessel. The card exists to absorb corruption in his place. Every defeat that would corrupt Salem's body and mind further is partially diverted: the pact's punishment strikes the card instead of him. The Corrupted Receiver is the half of Salem that has been taking the infernal damage for him — accumulating the wounds, the demonic alterations, the madness. Every time it is summoned, it carries the visible mark of everything Salem should have become by now. It is not a monster Salem controls. It is a piece of Salem that agreed to be destroyed so the rest of him could continue. He does not speak to it during a duel. He does not look at it any longer than necessary. The card, for its part, executes its function with the same professional precision that Salem uses for everything. It reflects damage back to the opponent because that is what suffering, properly administered, should always do.
+> **Narrative origin — The Split Soul:** Salem, Corrupted Receiver does not represent Salem losing control. It represents a deliberate act of survival engineering that Salem performed as he began to understand what the infernal pact was doing to him. Using the same supernatural duelist's power the devil granted him — the ability to channel intent through cards — Salem transferred half of his own soul into this card, creating a vessel. The card exists to absorb corruption in his place. Every defeat that would corrupt Salem's body and mind further is partially diverted: the pact's punishment strikes the card instead of him. The Corrupted Receiver is the half of Salem that has been taking the infernal damage for him — accumulating the wounds, the demonic alterations, the madness. Every time it is summoned, it carries the visible mark of everything Salem should have become by now. The scale at its throat is fixed at the left in every summoning — it was separated from the human side when Salem made the split. He does not speak to it during a duel. He does not look at it any longer than necessary. The card, for its part, executes its function with the same professional precision that Salem uses for everything. It reflects damage back to the opponent because that is what suffering, properly administered, should always do.
 
 > **Flavor:** *"He is not losing. He is transforming."*
 
@@ -1190,9 +1278,11 @@ Salem is not alone in his position. The infernal court that governs his pact has
 ### The Contract
 **[Continuous Spell — Signature Card / Salem Exclusive]**
 
-*This card cannot be destroyed by the opponent's card effects. When this card is activated: this card's activation cannot be negated; negate the effects of all face-up monsters the opponent currently controls until the End Phase. While this card is face-up on the field: the opponent cannot add cards from their GY to their hand by card effects; during each End Phase, look at the opponent's hand, then place 1 Phantom Counter on "Infernal Tribunal" for each card in it. Once per turn: you can pay 1000 LP; inflict damage to the opponent equal to the number of Phantom Counters on the field × 200. You can only use this last effect of "The Contract" once per turn. If this card leaves the field by your own card effect: place 3 Phantom Counters on "Infernal Tribunal" if you control it.*
+*This card cannot be destroyed by the opponent's card effects. When this card is activated: this card's activation cannot be negated; the opponent cannot activate cards or effects in response to this activation. While this card is face-up on the field: the opponent cannot add cards from their GY to their hand by card effects; during each End Phase, look at the opponent's hand, then place 1 Phantom Counter on "Infernal Tribunal" for each card in it. Once per turn: you can pay 1000 LP; inflict damage to the opponent equal to the number of Phantom Counters on the field × 200. You can only use this last effect of "The Contract" once per turn. If this card leaves the field by your own card effect: place 3 Phantom Counters on "Infernal Tribunal" if you control it.*
 
-> **Role:** The soul-binding card with three distinct mechanical functions. First: an immediate board negate on resolution that creates a direct attack window or stops the opponent's response chain the turn it resolves. Second: the ongoing GY-to-hand lock, which denies floating effects, Graff recursion, and any engine that retrieves pieces from the GY. Third: End Phase hand surveillance that generates Phantom Counters proportional to the opponent's hand size, making The Contract an active counter engine every turn it stays on the field. The activated damage effect converts accumulated counters into incremental LP pressure. The activation cannot be negated by explicit text in the card — not by LP cost derivation.
+> **Role:** The soul-binding card with three distinct mechanical functions. First: the activation itself cannot be responded to — the moment the activation resolves, all effects are simultaneously in place with no opportunity for the opponent to chain on that activation. This is not a board negate; the opponent's existing cards continue to function. It simply means The Contract cannot be stopped at the moment of activation. Second: the GY-to-hand lock permanently denies floating effects, engine recovery, and recursive plays from the GY. Third: End Phase hand surveillance generates Phantom Counters proportional to the opponent's hand size every turn The Contract remains on the field, making it a persistent counter engine. The activated damage effect converts accumulated counters into incremental LP pressure.
+
+> **Design note:** Removing the board negate on activation resolves the last major balance complaint: a free Dark Ruler No More effect on a Continuous Spell with no activation cost was the single effect that pushed The Contract past defensibility. The card now resolves cleanly — existing monster effects are unaffected, the opponent's board continues to function — but the two ongoing lockouts (no GY-to-hand, End Phase counter generation) compound over every subsequent turn. The "cannot respond to activation" clause prevents interruption at the moment of activation but does not prevent the opponent from responding to The Contract's ongoing effects in subsequent turns. This distinction matters for rulings.
 
 > **Design note:** The previous version paid 2000 LP for a setup card with no immediate field impact — a cost-without-return structure that made late-game activation feel like a tempo loss. The redesign addresses this directly: activation now triggers an immediate board negate, making the card worth its slot at any point it resolves regardless of how the turn develops afterward. The two ongoing effects compound over time: the GY-to-hand lock seals off engine recovery and floating effects permanently, and the End Phase counter generation scales with the opponent's hand size, meaning a large hand feeds Salem's own finisher threshold. The activated damage effect (1000 LP → counters × 200) provides incremental pressure in turns where the counter pool has not yet reached The Final Audit threshold. The activation text protection is explicit and unconditional — not derived from LP cost or any secondary clause.
 
@@ -1331,7 +1421,7 @@ Before the Extra Deck is accessible, two new main deck cards must be introduced 
 *1 "Phantom Ledger" Tuner + 2+ non-Tuner "Phantom Ledger" monsters*
 *Must be Synchro Summoned. This card gains 400 ATK for each Phantom Counter on the field. Once per turn: you can remove 3 Phantom Counters from anywhere on the field; halve the opponent's current LP (this is not damage; LP cannot be reduced to 0 by this effect). When this card destroys an opponent's monster by battle: place 2 Phantom Counters on "Infernal Tribunal" if you control it. You can only use each effect of "The Sovereign Executor" once per turn.*
 
-> **Role:** The late-game Synchro finisher. Requires multiple Phantom Ledger non-Tuners, which means it only arrives in the mid-to-late game when the engine is established. Its LP halving — which cannot kill directly — is a setup tool: it brings the opponent to a threshold where The Final Audit or Guilty as Charged closes. At high counter counts, its ATK approaches 4000+. The battle generation feeds the counters that feed the ATK that generates more counters.
+> **Role:** The late-game Synchro finisher. Primary summon path: Apparitor (Lv1) + Greed Collector (Lv5) + Sloth Debtor (Lv3) = Level 9. All three are Phantom Ledger named monsters, satisfying the material requirement. Because it requires two non-Tuner Phantom Ledger monsters simultaneously, it arrives only when the board has multiple pieces established — this is a mid-to-late game play, never a Turn 1 line. Its LP halving creates a setup threshold: the opponent drops to a range where The Final Audit or Guilty as Charged closes the game cleanly on the following turn.
 
 > **Flavor:** *"The sovereign authority of this court is not a metaphor. It is the last thing you will understand."*
 
