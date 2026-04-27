@@ -185,7 +185,11 @@ The Tribunal Domain speaks to defendants in terms they will understand. The devi
 
 ### The Night as His Light
 
-The devil's domain is darkness. The contract Salem signed was signed at night, in an office lit only by a single desk lamp and whatever presence the visitor brought with it. The deck was delivered at night. Every significant event of Salem's infernal career has occurred after dark. The pact did not make Salem a creature of the night in any dramatic supernatural sense — he does not burn in daylight, he casts a shadow, he eats breakfast. But the contract gradually attuned him to the frequency of the devil's domain.
+The entity's dimension and the material world are not equidistant at all hours. The veil that separates them fluctuates — not dramatically, not in ways that open passages or enable crossings, but enough that the proximity between the two spaces shifts across cycles that roughly correspond to light and darkness. At night, the membrane thins slightly. Not to the degree it did during the moment of the original contact, but enough.
+
+At night, the entity is marginally closer.
+
+This is why everything changes at dusk. Not Salem's circumstances — those are fixed. But the quality of his presence in the material world shifts as the entity's dimension draws near enough to exert its ambient influence through the pact. The pact did not make Salem a creature of the night in any dramatic supernatural sense — he does not burn in daylight, he casts a shadow, he eats breakfast. But the contract attuned him to the frequency of a dimension that is most accessible after dark.
 
 For a normal person, the sun is clarity. Daylight means orientation, confidence, the feeling that the world is legible. Darkness narrows vision, disorients, makes familiar things strange.
 
@@ -198,6 +202,20 @@ Under darkness, everything is precisely right. His vision in dimly lit tournamen
 He cannot explain this to anyone. He has stopped trying to explain it to himself. He understands it the way he understands everything the pact has introduced into his life: as a clause that was always there, written correctly, that he did not read carefully enough before signing.
 
 He was already a man who worked late. The pact simply clarified why the night had always suited him.
+
+### The Phantom Presence
+
+At night, Salem is not entirely here.
+
+This is not metaphor and it is not madness. It is a specific perceptible quality that observers notice and cannot categorize: the feeling that wherever Salem is standing, he is also standing slightly elsewhere at the same time. Not a visual doubling. Not an echo or a shadow that moves incorrectly. Something more ambient than that — a quality of occupation that extends slightly beyond the physical space his body takes up, as though his outline has a margin that the room's light does not fully account for.
+
+Duelists who have faced him describe it afterward, when they try to describe him at all, as a difficulty in pointing at him accurately. As a sense that their peripheral vision keeps correcting the location of something that moves when they look directly at it. As the specific feeling of being watched from a direction that has no one in it, occurring while they are also watching Salem directly.
+
+This is real. It is produced by the same mechanism that makes the night suit him: as the entity's dimension draws closer to the material world after dark, Salem exists partially in both spaces simultaneously. Not enough to cross into either. Not enough to create a visible effect. Enough that the material world's normal rules of single-occupancy location apply to him slightly less precisely than they apply to everyone else in the room.
+
+The entity observes through this. When Salem duels at night, the entity is watching from its own dimension, which during those hours shares something close to adjacency with the space where the duel is occurring. The feeling of being observed from nowhere that Salem's opponents report is accurate. They are being observed from nowhere — from a dimension without a location in the material world, by something that has been watching and waiting long enough to have stopped distinguishing between the two activities.
+
+Salem feels this as orientation rather than intrusion. The awareness of being adjacent to a dimension that is watching him through the pact is, by now, simply part of what night feels like. He has stopped noticing it the way a person stops noticing the sound of a ventilation system: it was there when he first registered it, and then it became background, and now it is simply part of the room.
 
 ---
 
@@ -225,6 +243,10 @@ The entity smiled and promised instruction. It explained that it could not fully
 
 Desperate, Salem signed.
 
+What he did not know — what the figure did not explain and the contract did not state in any language Salem would have understood — is that what appeared in his office that night was not the devil.
+
+It was something worse. Something that even the devil had rejected.
+
 ### The Deception
 
 The contract was flawlessly written. Salem received nothing immediately. All promised rewards would be delivered only after the agreement was fulfilled.
@@ -234,31 +256,87 @@ Until then, he belonged to the contract.
 He had not become a client.
 **He had become collateral.**
 
-### What the Devil Actually Wants
+### What the Entity Actually Is
 
-The devil is not collecting souls out of malice or habit. He is executing a precise, long-term strategy.
+The being Salem calls the devil — the one whose presence he feels through the deck, whose influence advances his corruption, whose legal doctrine structures the entire collection system — is not the devil in any conventional theological sense.
 
-**He needs a specific number of souls to construct a material body and descend permanently into the physical world.**
+It is a demon. An exiled one.
 
-Each soul Salem delivers brings the devil closer to full corporal manifestation. Once that threshold is reached, the devil will reign on Earth with a form no longer bound to the spiritual plane — visible, present, and unchallengeable.
+Exiled not from the material world, not from some proximate spiritual plane, but from everything. Cast out of the infernal hierarchy itself billions of years before Salem was born, for reasons the pact does not disclose and that Salem has not yet thought to investigate. It has been sealed in a dimension that is not the infernal plane and is not the material world — a space without a name in any human language, because no human being has ever been there and returned with the capacity to name it.
 
-The devil cannot do this himself. He has no legal standing in the material world, no physical form capable of acting within it. Salem is not merely a servant. He is the only viable instrument.
+It has been there for a duration that does not map cleanly onto years. What it has experienced during that time is not suffering in any sense Salem would recognize. It has simply existed, in absolute isolation, with perfect patience, watching the dimensional membrane between its prison and the material world through the only faculty it retained after the exile: observation.
 
-This is why the pact was constructed so carefully: Salem's free will is the mechanism. The devil cannot force the collection. He can only bind the collector.
+Salem refers to it as the devil because that is the closest concept his framework offers. The entity has never corrected him. It does not care what it is called. Names are instruments of the person doing the naming. The entity has its own name, formed in a language that predates the concept of language, and that name is not available to Salem.
+
+### The Moment of the Veil
+
+The exile's prison and the material world are not static in their relationship. The dimensional membrane between them — the barrier that keeps the entity sealed — fluctuates over timescales measured in cosmic processes rather than human ones. For most of the entity's imprisonment, the membrane has been thick. Impermeable. The material world might as well not exist.
+
+Then, at a specific moment corresponding to a specific convergence of forces neither understood nor anticipated by anyone currently alive, the veil thinned.
+
+Not opened. Not pierced. Thinned. The distance between the entity's dimension and the material world became — briefly, by standards that make geological time look instantaneous — close enough that the entity could project a presence through.
+
+Not cross. Project.
+
+What appeared in Salem's office was not the entity itself. It was a projection — a concentrated form of its attention and will, sufficient to manifest perceptibly, sufficient to conduct a conversation, sufficient to present a contract and receive a signature. It lasted as long as the veil's thinning allowed, which was long enough.
+
+Salem was not chosen. Salem was there.
+
+He was in his office at that specific hour on that specific night because the worst period of his professional life had driven him to work late on paperwork he could no longer afford to defer. The entity projected through the thinnest point of the veil and the thinnest point happened to intersect with a fourth-floor office where a desperate, qualified, contractually sophisticated person was alone and unable to see the door clearly.
+
+This is the full extent of the selection process. It was not fate. It was not destiny. It was the intersection of a cosmic event and a late billing dispute.
+
+The entity knew immediately what it had found. It had one chance, of uncertain duration, to establish a binding agreement with a material-plane executor. It moved with the efficiency of something that has spent an immeasurable span of existence thinking about exactly this situation. The contract was presented. The signature was obtained. The projection collapsed.
+
+The entity returned to its dimension, which it had never left.
+
+### What the Entity Actually Wants
+
+It needs human souls to construct a material body — a form dense enough, coherent enough, and legally constituted enough under the infernal economy to allow it to cross the veil under its own power when the thinning next occurs. Souls are not simply spiritual currency in this framework. They are structural material. Each one is a piece of the architecture the entity is building toward manifestation.
+
+The number required is fixed. The contract specifies it precisely, in terms Salem did not understand because he has no reference for the units. Each soul Salem delivers brings the construction one increment closer to completion.
+
+**But the veil will not remain thin indefinitely.**
+
+This is the detail that explains everything about the entity's urgency beneath its apparent patience: there is a deadline. The dimensional membrane's thinning is not a permanent condition. It is a window, measured in what human physics would call cosmic time but what the entity experiences as a dwindling reserve. When the veil thickens again — when the dimensions drift back to their normal separation — the projection will become impossible. The entity will be sealed again, completely. Everything collected, everything built toward manifestation, still inaccessible.
+
+The entity knows this timeline precisely. Salem does not know it exists.
+
+This is why the slow-drain mechanism was included in the contract. Not merely to accelerate corruption for its own sake — but because the entity needs Salem collecting at maximum rate. A Salem who retains his will is a Salem who is selective, careful, deliberate. A Salem who has been quietly drained is a Salem who pushes harder, takes more risks, collects faster, because the drive to duel is the only thing still fully lit in him. The drain is a throttle opened toward maximum output as the deadline approaches.
+
+Salem is, without knowing it, in a race against a clock he has never been told about.
 
 ### The Devil as a Person
 
-The devil who appeared in Salem's office is not an abstraction of evil. He is the oldest practicing attorney in the history of the material world, and he conducts himself accordingly.
+The entity is not the abstraction of evil that Salem's framework suggests. It is something more specific and, in its way, more coherent: the oldest prisoner in a dimension without walls, conducting itself with the precision of something that has had nothing to do for billions of years except think about contracts.
 
-He is patient in the way that only something that has existed since before the concept of time developed a word for itself can be patient. He does not experience urgency. He experiences timelines. The difference is that urgency implies anxiety — a fear that the outcome might not arrive. Timelines are simply schedules. He has never missed a deadline.
+It is patient in the way that only something that has experienced time at that scale can be patient — not through discipline, but through the simple absence of any alternative. It does not experience urgency. It experiences timelines. The difference is that urgency implies anxiety about outcomes. Timelines are simply schedules. It has never missed a deadline in the one case where it has had one, because this is the first deadline it has ever had.
 
-He finds Salem genuinely interesting. This is not warmth — it is the specific interest a craftsman takes in a good tool. Of all the desperate, qualified people the devil has approached across centuries of this same operation, Salem is the first who has begun looking for a counter-clause in the contract's language rather than simply trying to survive long enough for the contract to expire on its own. The devil had not designed the contract to withstand that kind of scrutiny from the inside. He finds this development professionally admirable and strategically inconvenient.
+It finds Salem genuinely interesting. This is not warmth — it is the specific interest a craftsman takes in a good tool that is attempting to disassemble the workshop. Of all the potential executors the entity could have encountered if the veil had thinned over a different person on a different night, Salem is the only one constitutionally equipped to look for a counter-clause. The entity had not designed the contract to withstand internal scrutiny of that quality. It finds this development professionally admirable and strategically inconvenient. It has begun, in the way that something with its patience begins anything, to revise certain assumptions.
 
-He does not lie. He has never needed to. The precision of language is, to him, both a professional standard and a personal aesthetic. The gap between what was promised and what was delivered has always existed entirely in what the other party chose not to read. He considers this the other party's failure, not a deception on his part. This is not rationalization. It is doctrine.
+It does not lie. It has never needed to. The gap between what was promised and what was delivered has always existed entirely in what the other party chose not to read. It considers this the other party's failure, not a deception. This is not rationalization. It is doctrine.
 
-His manner, in the rare moments where Salem has caught something of his presence through the deck — a specific quality of attention that arrives sometimes in the middle of a duel, like the feeling of being observed by something with perfect patience — is entirely professional. He does not gloat. He does not monologue. He observes, assesses, and files the result. He is the most dangerous kind of adversary: one who is never in a hurry, never wrong about the rules, and genuinely invested in Salem's eventual resolution because Salem's resolution is already scheduled.
+Its manner, in the rare moments where Salem has caught something of its presence through the deck — a quality of attention that arrives sometimes in the middle of a duel, like the feeling of being observed by something operating on a different time scale — is entirely professional. It does not gloat. It does not monologue. It observes, assesses, and files the result. It is the most dangerous kind of adversary: never in a hurry, never wrong about the rules, and genuinely interested in Salem's eventual resolution because Salem's resolution is the only item on its agenda for the next several cosmic intervals.
 
-He has been in this proceeding since before Salem signed his name. He will be in it when the proceeding closes. He is, in the most literal sense of the word, the creditor. The unnamed one.
+It has been in this proceeding since before Salem signed his name. It will be in it when the proceeding closes. It is, in the most literal sense of the word, the creditor. The unnamed one. And the thing that even the infernal hierarchy found too extreme to keep.
+
+### The Souls in Transit — What Happens Between Collection and Delivery
+
+This is the mechanism Salem understands least, and it is the mechanism that matters most.
+
+When Salem wins a bound duel under The Contract, something is taken from the opponent. Not immediately visible. Not physically dramatic. But taken. The portion of their will — their investment, their passion for the game, the quality that made their soul worth targeting — is extracted through the Phantom Ledger and passes into a state of suspension.
+
+**It does not go anywhere.**
+
+The collected portion remains tethered to its original owner, in the material world, for the rest of that person's natural life. The entity cannot pull it across the veil while the body that generated it still lives. The infernal economy operates on a specific principle: a soul's full weight is only available for transfer at the moment of death, when the tether between soul and body dissolves naturally. Before that moment, what Salem has collected is a lien, not a possession. The entity has a claim filed against the soul. The claim becomes executable at death.
+
+This is why the opponents walk away and live their lives. This is why nothing happens immediately. This is why they attribute the dimming of their passion to burnout or age or changed priorities. They are right to attribute it to those things. They are simply wrong about what caused those things.
+
+When they die — in most cases decades later, in old age, in circumstances that have nothing to do with Salem or duels or the night in question — the lien executes. The soul, or what remains of it after the passion-portion was taken, is redirected. Filed. Delivered to the entity's dimension, where it becomes one increment of the construction toward manifestation.
+
+The entity waits for each delivery. It does not receive them immediately upon Salem's wins. It receives them as the original owners die, one by one, across the span of their natural lives, in an order it cannot predict or control. This is the one element of the arrangement that requires genuine patience from an entity that has been exercising patience for longer than the concept of patience has existed.
+
+Salem knows that he has collected. He knows the mechanism involves the Phantom Ledger and involves winning. He does not know about the lien structure, the death-trigger delivery, or the fact that the people he has faced are carrying a filed claim against their souls while continuing to live normally. He knows, abstractly, that something happens to them eventually. The specifics are not in any part of the contract he has read carefully enough.
 
 ### The Hidden Clause — The Slow Drain
 
@@ -279,35 +357,37 @@ The one thing the pact did not drain was Salem's will to duel. The devil needed 
 <a name="two-conditions"></a>
 ## PART III — THE TWO CONDITIONS OF DEFEAT
 
-The devil wins under exactly two scenarios. Both were written into the contract Salem signed. Neither was explained to him.
+The entity wins under exactly two scenarios. Both were written into the contract Salem signed. Neither was explained to him. There is also a third condition neither of them wrote — a deadline that the entity knows and Salem does not: the veil is thinning, not permanently. The window during which the entity can receive delivered souls and use them toward manifestation will close when the dimensional membrane thickens again. The entity cannot say exactly when. It knows it is not indefinite.
+
+This is the pressure beneath the patience.
 
 ### Condition One — Full Soul Collection
 
-If Salem delivers the full required number of souls, the pact is fulfilled. The devil gains his material body. The promised rewards are technically paid. Salem is released — into a world now ruled by the entity he served.
+If Salem delivers the full required number of souls before the veil closes, the pact is fulfilled. The entity accumulates sufficient material to construct a form capable of crossing the membrane under its own power at the next point of sufficient thinning. The promised rewards are technically paid. Salem is released — into a world the entity has just entered permanently.
 
 The contract is honored. The outcome is catastrophic.
 
-This is the devil's preferred resolution: clean, legal, and irrefutable.
+This is the entity's preferred resolution: clean, legal, and irrefutable.
 
 ### Condition Two — Total Demonization
 
-If Salem loses enough duels, the infernal pact corrupts him progressively until nothing human remains. A fully demonized Salem no longer has a will of his own — the devil assumes direct control of his body, using it as a vessel to act in the material world without needing the soul threshold at all.
+If Salem loses enough duels, the infernal pact corrupts him progressively until nothing human remains. A fully demonized Salem no longer has a will of his own — the entity assumes direct control of his body, using it as a vessel to act in the material world without needing the soul threshold or the veil crossing at all. A demon wearing a human body is already on this side of the membrane.
 
-This is the devil's contingency: if collection fails, corruption completes the job.
+This is the entity's contingency: if collection fails or runs out of time, corruption completes the job through a different route.
 
-The devil does not need Salem to win. He needs Salem to either succeed completely or fail completely. Every outcome serves the ledger.
+The entity does not need Salem to win. It needs Salem to either succeed completely or fail completely. Every outcome serves the ledger.
 
 ### What Salem Knows
 
-Salem understands that losing damages him. He has witnessed his own corruption advancing with each defeat. He does not yet know that full demonization is not simply personal destruction — it is the secondary victory condition of the entity he serves.
+Salem understands that losing damages him. He has witnessed his own corruption advancing with each defeat. He does not yet know that full demonization is not simply personal destruction — it is the secondary victory condition of the entity he serves. He does not know about the deadline. He does not know about the lien structure of collected souls. He does not know that the figure he met was not what it claimed to be, was exiled from its own kind, or has been sealed in a dimension adjacent to his world for longer than his species has existed.
 
-He has noticed, however, that something is draining from him between duels. The mornings have become harder. Ordinary things — meals, conversations, the satisfaction of closing a case — have lost their texture. He has attributed this to stress, to the pact's weight, to the accumulated cost of a life lived in two halves. He is partially right. He does not yet know the full accounting.
+He has noticed, however, that something is draining from him between duels. The mornings have become harder. He attributes this to the weight of the pact. He is partially right. He does not yet know the full accounting.
 
 What Salem does know — what he discovered through experimentation he cannot fully explain — is that winning duels against invested players restores something. He does not know what to call it. He knows what it does. He files this observation alongside everything else the pact has taught him through experience: the pact does not explain itself. It only shows results.
 
 He is searching for one thing: **a clause to break the pact.**
 
-And he has begun to suspect that the mechanism of his theft — whatever he is taking from opponents through the Phantom Ledger — is connected to the mechanism draining him. If that connection is real, then the devil designed a system with a structural vulnerability. The drain goes both ways. Salem does not yet know how to use this. But he is looking.
+And he has begun to suspect that the mechanism of his theft — whatever he is taking from opponents through the Phantom Ledger — is connected to the mechanism draining him. If that connection is real, then the entity designed a system with a structural vulnerability. The drain goes both ways. Salem does not yet know how to use this. But he is looking.
 
 ---
 
@@ -495,25 +575,25 @@ Because nothing Salem takes from an opponent changes the long-term arithmetic of
 
 ### Appearance Corruption Stages
 
-With each defeat, Salem's body is altered by the pact. His appearance gradually becomes more demonic. The scale at his throat registers each stage before his body does — the left pan descends slowly but does not rise on its own.
+With each defeat, Salem's body is altered by the pact. His appearance gradually becomes more demonic. The scale at his throat registers each stage before his body does — the left weight descends slowly but does not rise on its own.
 
 | Stage | Physical Manifestation | Scale Position | Effect on Daylight | Daily Life Impact |
 |---|---|---|---|---|
-| Early | Veins darken like inked contracts beneath the skin | Slightly left — barely perceptible | Daylight is slightly uncomfortable, like a room two degrees too warm | He takes fewer afternoon meetings. Attributes it to scheduling preference. |
-| Developing | Bone ridges form at the temples; teeth begin to sharpen | Noticeably left; the left pan hangs visibly lower | Morning hours produce a faint headache he attributes to stress | He stops eating lunch at his desk and moves to a back room. Fewer colleagues notice him. |
-| Advanced | Shadow burns mark both hands; eyes shift to molten gold or crimson | Clearly left; the scale is the first thing visible when he enters a room | Direct sunlight requires sunglasses; he schedules calls in the afternoon | He begins working from home three days a week. His filed documents are immaculate. His calls are brief. |
-| Late | Voice develops layered echoes; silhouette distorts unnaturally in strong light | Heavily left; the chain around his throat tightens slightly, visibly | He stops going to the office, conducts all work remotely, blinds closed | He stops explaining his absence. Clients stop asking. The case files are still impeccable. He still bills on time. |
-| Terminal | Horns emerge fully; body reads as inhuman from a distance; the toga overlay carries permanent bloodstains | Fixed at the left — the scale no longer moves | The day ceases to exist functionally. He operates entirely in darkness. | The double life collapses. The daily briefcase stays on the floor. The other one is always in his hand. |
+| Early | Veins darken like inked contracts beneath the skin | Slightly left — barely perceptible at a glance | Daylight is slightly uncomfortable, like a room two degrees too warm | He takes fewer afternoon meetings. Attributes it to scheduling preference. |
+| Developing | Bone ridges form at the temples; teeth begin to sharpen | Noticeably left; the left weight hangs visibly lower than the right | Morning hours produce a faint headache he attributes to stress | He stops eating lunch at his desk and moves to a back room. Fewer colleagues notice him. |
+| Advanced | Shadow burns mark both hands; eyes shift to molten gold or crimson | Clearly left; the asymmetry is visible across a table without looking for it | Direct sunlight requires sunglasses; he schedules calls in the afternoon | He begins working from home three days a week. His filed documents are immaculate. His calls are brief. |
+| Late | Voice develops layered echoes; silhouette distorts unnaturally in strong light | Heavily left; the left weight pulls the chain taut against the shoulder yoke | He stops going to the office, conducts all work remotely, blinds closed | He stops explaining his absence. Clients stop asking. The case files are still impeccable. He still bills on time. |
+| Terminal | Horns emerge fully; body reads as inhuman from a distance; the toga overlay carries permanent bloodstains | Fixed at the left — the scale no longer shifts between duels | The day ceases to exist functionally. He operates entirely in darkness. | The double life collapses. The daily briefcase stays on the floor. The other one is always in his hand. |
 
 At the terminal stage, Salem no longer controls his own actions during duels. The devil's influence begins to speak through him. Outside of duels, the normal administrator who kept office hours and filed reports has ceased to exist. There is no day left. Only the night, and what the night requires of him.
 
 **What the scale looks like across the arc:**
 
-In the early stages, the scale is subtle enough that opponents who notice it assume it is decorative — an unusual piece of jewelry with legal symbolism, appropriate for a man who speaks like a court officer. The chain around his throat is thin enough to read as a necklace.
+In the early stages, the asymmetry is subtle enough that opponents who notice the weights assume they are decorative — a structured collar piece with legal symbolism, appropriate for someone who speaks with judicial precision. The weights are small. The chains are fine. The difference in their positions is a matter of millimeters that requires close attention to read.
 
-As the arc progresses and the left pan descends, the scale becomes harder to dismiss. The chain thickens slightly. The weight pans develop a faint luminescence — not enough to be dramatic, but enough that they catch light in rooms where nothing else should. By the Advanced stage, the scale is the first thing a perceptive opponent notices about him, before the gloves, before the voice, before the eye. It announces that something is being measured and that the measurement is not currently in his favor.
+As the arc progresses and the left weight descends, the asymmetry becomes harder to dismiss. The chains develop more tension on the left side. The weights develop a surface quality that is difficult to name — not a glow, but a density, as if they are slightly heavier than they should be for their size, as if they are holding more than metal ought to hold. By the Advanced stage, an attentive opponent notices the weights before they notice the gloves, before they register the voice, before the gold eye catches the light. The scale announces that something is being measured. The position announces that the measurement is not currently in Salem's favor.
 
-At the Terminal stage, the scale is still and fixed. Both sides of the chain have darkened to the color of old iron. The left pan rests against his chest. The right one hangs at the full extension of its chain, empty. The balance was designed to show where he stands. At this stage, it shows where he has fallen.
+At the Terminal stage, the scale is still and fixed. Both chains have darkened to the color of old iron. The left weight rests below the line the collar should cover, pulling the entire yoke slightly to that side. The right weight hangs at the full extension of its chain, lighter than it looks, contributing nothing to the balance. The scale was designed to show where Salem stands. At this stage, it shows where he has fallen.
 
 ### The Boss Monster Reflection
 
@@ -610,7 +690,7 @@ This concept manifests across two cards in the archetype: the judicial-corruptio
 
 **The last thing Salem says after winning is never a gloat. It is an acknowledgment.** He extends his hand. He thanks them for the proceeding. He means it. That is what is unforgettable. He means every word, always, even the ones that are destroying something the opponent will not miss until years later.
 
-**When the corruption advances, the language degrades before the body does.** Sentences that should flow in a particular grammatical direction take slightly wrong turns. The institutional third person slips. He references himself briefly before correcting. He does not lose composure — he loses syntax. Something is being overwritten. It shows in the grammar before it shows anywhere else. In duels where the scale tips unusually far left — where the left pan has descended below the line his collar covers — his sentences begin to carry a second cadence underneath the first, like a translation running a half-second behind the original. The opponent hears Salem speaking. Underneath, at the edges of perception, something else is forming the words.
+**When the corruption advances, the language degrades before the body does.** Sentences that should flow in a particular grammatical direction take slightly wrong turns. The institutional third person slips. He references himself briefly before correcting. He does not lose composure — he loses syntax. Something is being overwritten. It shows in the grammar before it shows anywhere else. In duels where the scale tips unusually far left — where the left weight has pulled the yoke below the line his collar covers — his sentences begin to carry a second cadence underneath the first, like a translation running a half-second behind the original. The opponent hears Salem speaking. Underneath, at the edges of perception, something else is forming the words.
 
 ### Latin Maxims — Salem's Operational Philosophy
 
@@ -715,19 +795,27 @@ The duel ends. He sets his cards down. He extends his hand across the table and 
 
 The opponent walks away too. They feel fine. Slightly disappointed about the loss, perhaps, but that is the ordinary feeling after any close match against a strong player. They eat dinner. They sleep. They message their group chat about the duel. They sign up for the next tournament.
 
-Nothing is immediately different.
+Nothing is immediately different. Nothing visible has been removed. The opponent's body is intact. Their memories are intact. Their ability to function, to work, to love, to continue their daily lives — all intact.
 
-But over time — weeks, sometimes months, rarely years — certain things shift. The things that made them passionate begin to dim. The fire that drove them to the table, the specific quality of caring that made them an opponent worth facing, burns at a lower temperature. They still play the game. They still compete. But winning feels slightly less like something that matters. The investment that defined them as a player begins to quiet, the way a conversation fades when one person has stopped truly listening.
+What was taken cannot be seen. It is a lien, not a possession. The entity has filed a claim against a portion of what that person is, and the claim is now attached to them, and it will travel with them for the rest of their natural life, and they will never know it is there.
 
-They cannot explain it. They attribute it to burnout, to age, to priorities evolving. They are not wrong to do so. They simply do not know that the correct explanation is that the part of them that cared most has been taken — not destroyed, not gone, but transferred. It is sustaining someone else now.
+Over time — weeks, sometimes months, rarely years — certain things shift. The things that made them passionate begin to dim. The fire that drove them to the table burns at a lower temperature. They still play the game. They still compete. But winning feels slightly less like something that matters. The investment that defined them as a player begins to quiet, the way a conversation fades when one person has stopped truly listening.
 
-Salem carries this knowledge. He does not enjoy it. He finds it unbearable in a specific way: he took what kept them alive as players to keep himself alive as a person. The exchange is functional. It is also, by any honest accounting, a theft of the most personal kind — not of property, not of time, but of what made someone *them* in the most essential sense.
+They cannot explain it. They attribute it to burnout, to age, to priorities evolving. They are not wrong to do so. They simply do not know that the correct explanation is that the part of them that cared most has been legally encumbered. It has not been taken. Not yet. It is still in them. It is just no longer entirely theirs.
 
-He does not follow up. He keeps no record of the people he has collected beyond what the pact requires. He tells himself this is professionalism. He knows it is something else.
+**The claim executes at death.**
 
-Only at the moment of death — in the instant between the last breath and what follows — do the opponents understand what happened. The soul that was supposed to go wherever souls go finds itself redirected. Filed. Entered into a ledger that has been accumulating entries for years, each one stamped with Salem's name and the date of a duel the dying person suddenly, finally, remembers in complete detail. They remember, too, the specific quality that they lost in the weeks after that duel. They understand now what it was.
+This is the mechanism Salem does not know. When the opponent who shook his hand dies — in most cases decades later, in circumstances that have nothing to do with that night or that duel — the lien executes. The moment the tether between soul and body dissolves naturally, the encumbered portion is redirected. It does not go where souls normally go. It is filed. Delivered to the entity's dimension, where it becomes one increment of the architecture being built toward manifestation.
+
+The entity waits for each delivery individually. It cannot predict the order. It cannot accelerate the timeline. It receives what it is owed when the owner's natural life ends, and not before. In the meantime, the claim sits attached to a living person who is walking around, working, aging, unaware of anything unusual about their situation except a faint and inexplicable sense that something they used to feel very clearly has become harder to locate.
+
+Only at the moment of death — in the instant between the last breath and what follows — does the person understand what happened. They remember the duel in complete detail. They remember Salem's hand extended across the table, his genuine thanks, his gracious and measured acknowledgment of the game. They remember that he meant every word.
+
+They understand, in that instant, that meaning it was exactly the point.
 
 Salem is never there to explain. He set the cards down. He shook their hand. He thanked them, and he meant it, and then he left, and he has never once gone back.
+
+He carries this knowledge. He finds it unbearable in a specific way. He took what kept them alive as players to keep himself alive as a person. The exchange is functional. It is also, by any honest accounting, the thing he cannot forgive himself for — not because it was done against his will, and not because it was done with malice, but because he did it with precision and care and genuine respect for the people it was done to. That is the worst kind of taking. He knows this. He keeps the files that the pact does not require him to keep.
 
 ---
 <a name="fan-archetype"></a>
