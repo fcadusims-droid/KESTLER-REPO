@@ -169,7 +169,7 @@ He wakes at the same time the next morning. He makes coffee.
 
 ### The Gift of Languages
 
-When the devil delivered the deck and the instructions, he included one additional provision that was not in the contract's original language — or rather, it was there, in a subordinate clause that Salem read as referring to something else.
+When the entity delivered the deck and the instructions, it included one additional provision that was not in the contract's original language — or rather, it was there, in a subordinate clause that Salem read as referring to something else.
 
 At night, Salem speaks every language.
 
@@ -177,7 +177,7 @@ Not in the way a skilled linguist speaks multiple languages, with different flue
 
 By day, this ability does not exist. He speaks his own language. He can manage the basic professional exchanges in two or three others, as any internationally-practicing administrator has to. The infernal gift is not available in sunlight. It is another thing that belongs entirely to the night.
 
-He noticed it the third time he found an opponent who spoke no shared language with him and discovered that it did not matter. He found the ability neither remarkable nor comforting. He filed it the way he filed everything the pact had introduced into his life: as a clause that was always there, functioning exactly as written, providing exactly what the devil needed it to provide.
+He noticed it the third time he found an opponent who spoke no shared language with him and discovered that it did not matter. He found the ability neither remarkable nor comforting. He filed it the way he filed everything the pact had introduced into his life: as a clause that was always there, functioning exactly as written, providing exactly what the entity needed it to provide.
 
 The opponent is never confused by this. They hear their own language delivered with the precision of someone who understands not just the words but the legal tradition behind them. A Korean opponent hears Salem deliver rulings in Korean with the procedural cadence of a Korean high court judge. A Brazilian opponent hears him in Portuguese with the specific formal register of a São Paulo insolvency proceeding. A German opponent hears Hochdeutsch delivered at the exact pace and intonation of a Bundesgerichtshof opinion.
 
@@ -389,22 +389,24 @@ He is searching for one thing: **a clause to break the pact.**
 
 And he has begun to suspect that the mechanism of his theft — whatever he is taking from opponents through the Phantom Ledger — is connected to the mechanism draining him. If that connection is real, then the entity designed a system with a structural vulnerability. The drain goes both ways. Salem does not yet know how to use this. But he is looking.
 
+He has more time to look than anyone around him realizes. The pact's dimensional connection has altered his subjective experience of time — one year in the material world corresponds to approximately one hundred years of internal duration. He has been analyzing the contract, from his own perspective, for far longer than the calendar suggests. The people who knew him before the pact would not find him dramatically changed if they saw him now. His body has aged normally. But his mind has had a century of uninterrupted consideration for every year that has passed. He has read the contract more times than he can count. He has found things in it. He is still finding things.
+
 ---
 
 <a name="deck-origin"></a>
 ## PART IV — THE PHANTOM LEDGER — ORIGIN OF THE DECK
 
-The Phantom Ledger was not chosen by Salem. It was **designed specifically for him by the devil.**
+The Phantom Ledger was not chosen by Salem. It was **designed specifically for him by the entity.**
 
-The devil studied Salem's career before approaching him. He understood how Salem thought: in terms of liabilities, penalties, claims, and compound interest on unpaid debts. He understood that Salem's professional instinct was not to attack — it was to wait, document, and allow the weight of consequences to accumulate until the subject collapsed under their own record.
+The entity studied Salem's career before approaching him. It understood how Salem thought: in terms of liabilities, penalties, claims, and compound interest on unpaid debts. It understood that Salem's professional instinct was not to attack — it was to wait, document, and allow the weight of consequences to accumulate until the subject collapsed under their own record.
 
-The devil translated this into card form.
+The entity translated this into card form.
 
 Every trap in the Phantom Ledger is a clause. Every punishment is a penalty fee. Every floodgate is a legal injunction. Every burn damage is an administrative fine. The graveyard is the ledger. The dead cards are closed cases.
 
 Salem did not build this deck. He inherited it — an instrument constructed from the shape of his own expertise, now turned toward an infernal purpose.
 
-**The Phantom Ledger is the devil's handwriting in Salem's hands.**
+**The Phantom Ledger is the entity's design in Salem's hands.**
 
 This is also why Salem is so dangerous despite having never played before the pact: the deck does not require intuition. It requires patience, precision, and the willingness to let others condemn themselves. These are skills Salem already had.
 
@@ -426,7 +428,7 @@ Every card in the Phantom Ledger contains a clause. Not hidden. Visible in the c
 
 Every card Salem activates is a clause. Every clause the opponent allows to resolve without countering it is a passive signature. The Contract is not the trap that catches them — it is the stamp that makes every previous signature official and binding.
 
-This is the devil's actual genius, and the reason he required Salem specifically. Any entity of sufficient power could claim souls through force or compulsion. But a forced soul is worthless in the infernal economy. It carries no weight and cannot be banked. Only an insolvency administrator could understand what the devil actually needed: a system where the subject technically consented, where the paperwork was clean, where the claim would hold up under review.
+This is the entity's actual genius, and the reason it required Salem specifically. Any force of sufficient power could claim souls through force or compulsion. But a forced soul is worthless in the infernal economy. It carries no weight and cannot be banked. Only an insolvency administrator could understand what the entity actually needed: a system where the subject technically consented, where the paperwork was clean, where the claim would hold up under review.
 
 The deception is not in lying. The devil does not lie. Every effect on every card is exactly what the text describes. The deception is in the presentation — the way legal language surfaces technically correct information while simultaneously ensuring it will be misread by anyone who does not already know what they are looking for. The clauses are visible. They are disclosed. The opponent simply did not understand what they were disclosing themselves to.
 
@@ -571,7 +573,7 @@ Because of this, every duel is predatory in a specific way: **Salem is not merel
 
 The devil knows. He has always known. He permits it.
 
-Because nothing Salem takes from an opponent changes the long-term arithmetic of the contract. The will of a hundred duelists, absorbed across a hundred victories, might buy Salem months. The contract is designed for years. The drain is patient. And the devil has been waiting far longer than Salem has been alive.
+Because nothing Salem takes from an opponent changes the long-term arithmetic of the contract. The will of a hundred duelists, absorbed across a hundred victories, might buy Salem months. The contract is designed for years. The drain is patient. And the entity has been waiting far longer than Salem has been alive — longer than any frame of reference Salem carries allows him to fully comprehend.
 
 ### Appearance Corruption Stages
 
@@ -751,9 +753,9 @@ His victory condition is not survival.
 
 What this looks like, mechanically, inside a duel:
 
-Salem is studying the infernal doctrine — the rule that a soul seized through direct force or supernatural interference in a duel cannot be kept. The devil's legal doctrine is his constraint. But it is also, Salem has begun to suspect, a two-directional rule. If the devil cannot interfere in a proceeding without voiding the transaction, then a proceeding in which the devil's own interference is demonstrably necessary to prevent Salem from winning is a proceeding the devil cannot win cleanly. A soul collected under those conditions would be contestable.
+Salem is studying the infernal doctrine — the rule that a soul seized through direct force or supernatural interference in a duel cannot be kept. The entity's legal doctrine is its constraint. But it is also, Salem has begun to suspect, a two-directional rule. If the entity cannot interfere in a proceeding without voiding the transaction, then a proceeding in which the entity's own interference is demonstrably necessary to prevent Salem from winning is a proceeding the entity cannot win cleanly. A soul collected under those conditions would be contestable.
 
-The counteroffer Salem is working toward is not a loophole in the traditional sense. It is an amendment filed within the pact's own framework — a counter-clause that binds the devil to conditions he agreed to by creating the system. Specifically: if Salem can engineer a duel in which The Unnamed Creditor is summoned using the devil's own soul as the 10 Phantom Counter threshold — converting the infernal energy flowing into the deck into the fuel that materializes the Creditor against its own master — the proceeding would complete a loop the contract never anticipated. A judgment against the plaintiff. Filed by the court. Executed by the court's own officer.
+The counteroffer Salem is working toward is not a loophole in the traditional sense. It is an amendment filed within the pact's own framework — a counter-clause that binds the entity to conditions it agreed to by creating the system. Specifically: if Salem can engineer a duel in which The Unnamed Creditor is summoned using the entity's own accumulated energy as the 10 Phantom Counter threshold — converting the infernal energy flowing into the deck into the fuel that materializes the Creditor against its own master — the proceeding would complete a loop the contract never anticipated. A judgment against the plaintiff. Filed by the court. Executed by the court's own officer.
 
 The mechanics of how that would resolve within the rules of a card game are, admittedly, outside the scope of any existing rulebook. But Salem is an insolvency administrator. He has spent his career finding the edge cases in systems that were built to prevent exactly that kind of thing. He is not looking for a miracle. He is looking for the right filing.
 
@@ -761,29 +763,29 @@ The mechanics of how that would resolve within the rules of a card game are, adm
 
 Salem does not choose opponents randomly, and he does not choose the weak.
 
-The devil's instruction on this point was explicit: the soul of a person who duels without genuine investment has no value. A soul that was never truly committed to the game carries no weight. What the devil needs — and what Salem now understands he also needs — is the soul of a duelist who genuinely loves the game. Someone who has defined themselves by it. Someone for whom losing is not an inconvenience but a genuine blow, who plays with their full self on the line.
+The entity's instruction on this point was explicit: the soul of a person who duels without genuine investment has no value. A soul that was never truly committed to the game carries no weight. What the entity needs — and what Salem now understands he also needs — is the soul of a duelist who genuinely loves the game. Someone who has defined themselves by it. Someone for whom losing is not an inconvenience but a genuine blow, who plays with their full self on the line.
 
-These are the souls that burn brightest in the devil's ledger. They are also the ones with the most will to give.
+These are the souls that burn brightest in the entity's ledger. They are also the ones with the most will to give.
 
-Salem cannot target a weak player — not because he has sympathy for the strong, but because collecting a weak soul would violate the pact's terms. The devil is specific about quality. And because Salem discovered that what he takes from opponents to sustain himself is precisely this quality of investment, the selection criterion serves both masters simultaneously: the devil gets a valuable soul at the end; Salem gets enough will to last another month.
+Salem cannot target a weak player — not because he has sympathy for the strong, but because collecting a weak soul would violate the pact's terms. The entity is specific about quality. And because Salem discovered that what he takes from opponents to sustain himself is precisely this quality of investment, the selection criterion serves both masters simultaneously: the entity gets a valuable soul at the end; Salem gets enough will to last another month.
 
 It also means that every person who duels Salem duels at their best, which is precisely the point. The Phantom Ledger was not built to defeat careless players. It was built to defeat excellent ones through the precise exploitation of how excellent players think. A skilled duelist reads card text quickly and under pressure. They assess threats and make decisions in seconds. They have confidence in their ability to solve problems mid-duel. Every one of those strengths is a vulnerability inside Salem's system: the faster they read, the less carefully they read.
 
 And because nobody faces Salem twice — because previous opponents are still living their lives, quieted in ways they cannot name — there is no warning network. Every duelist approaches Salem for the first time, with exactly the vulnerability the system was designed to exploit.
 
-### The Devil's Legal Doctrine — Observation Without Interference
+### The Entity's Legal Doctrine — Observation Without Interference
 
-The devil is present in every duel Salem plays. He observes through the deck itself — every card drawn, every effect resolved, every word spoken at the table. He hears the opponent's reactions, tracks the counter accumulation, reads the board state in real time. He could intervene. He could shift the outcome. He chooses not to.
+The entity is present in every duel Salem plays. It observes through the deck itself — every card drawn, every effect resolved, every word spoken at the table. It hears the opponent's reactions, tracks the counter accumulation, reads the board state in real time. It could intervene. It could shift the outcome. It chooses not to.
 
 This is not restraint out of principle. It is a structural requirement of the infernal economy.
 
-Souls claimed through direct force carry no value. A soul seized through compulsion, through outcome-fixing, or through supernatural interference in the duel does not count toward the threshold. It cannot be banked. The devil has existed long enough to understand the rules of his own domain: **an illegally obtained soul cannot be kept.**
+Souls claimed through direct force carry no value. A soul seized through compulsion, through outcome-fixing, or through supernatural interference in the duel does not count toward the threshold. It cannot be banked. The entity has operated within these rules for long enough to understand them completely: **an illegally obtained soul cannot be kept.**
 
-This is precisely why the pact required an insolvency administrator. Of all the professionals the devil could have approached, only someone whose entire career was built on the legitimacy of claims understood this concept at the operational level. Salem spent years ensuring that every seizure, every receivership, every forfeiture he executed was legally defensible — that the paperwork would hold under scrutiny, that no creditor could later challenge the procedure. The devil needed that same discipline replicated in his collection system.
+This is precisely why the pact required an insolvency administrator. Of all the professionals the entity could have found when the veil thinned over that office, only someone whose entire career was built on the legitimacy of claims understood this concept at the operational level. Salem spent years ensuring that every seizure, every receivership, every forfeiture he executed was legally defensible — that the paperwork would hold under scrutiny, that no creditor could later challenge the procedure. The entity needed that same discipline replicated in its collection system.
 
-The opponent must lose on their own terms. They must play their deck, make their decisions, and be defeated by Salem's cards functioning exactly as described. No override. No puppeteering. No supernatural influence on the draw, the dice, or the play sequence. The devil watches everything and speaks to no one.
+The opponent must lose on their own terms. They must play their deck, make their decisions, and be defeated by Salem's cards functioning exactly as described. No override. No puppeteering. No supernatural influence on the draw, the dice, or the play sequence. The entity watches everything and speaks to no one.
 
-This constraint is also, quietly, a vulnerability — the one strategic weakness in the devil's design that Salem has begun to recognize. The legal doctrine that makes the collection system legitimate is the same doctrine that limits what the devil can do when the system is failing. If Salem could manufacture a situation where the devil is forced to choose between interfering and losing the soul, the interference itself would void the transaction. A provable breach of the infernal doctrine would be grounds for challenging the pact itself.
+This constraint is also, quietly, a vulnerability — the one strategic weakness in the entity's design that Salem has begun to recognize. The legal doctrine that makes the collection system legitimate is the same doctrine that limits what the entity can do when the system is failing. If Salem could manufacture a situation where the entity is forced to choose between interfering and losing the soul, the interference itself would void the transaction. A provable breach of the infernal doctrine would be grounds for challenging the pact itself.
 
 He has not found the clause yet. But he is looking.
 
@@ -816,6 +818,32 @@ They understand, in that instant, that meaning it was exactly the point.
 Salem is never there to explain. He set the cards down. He shook their hand. He thanked them, and he meant it, and then he left, and he has never once gone back.
 
 He carries this knowledge. He finds it unbearable in a specific way. He took what kept them alive as players to keep himself alive as a person. The exchange is functional. It is also, by any honest accounting, the thing he cannot forgive himself for — not because it was done against his will, and not because it was done with malice, but because he did it with precision and care and genuine respect for the people it was done to. That is the worst kind of taking. He knows this. He keeps the files that the pact does not require him to keep.
+
+### The Differential — Time Between Two Worlds
+
+There is a consequence of the dimensional connection that Salem has never articulated cleanly, because the concepts available to him in the material world are not quite sufficient to describe it. But he experiences it, constantly, and it shapes everything about how he moves through his life.
+
+Since the pact connected him to the entity's dimension, Salem does not experience time the same way the people around him do.
+
+The ratio, as best as Salem has been able to estimate it through the evidence available to him, is approximately this: one year in the material world corresponds to roughly one hundred years in the entity's dimension. The two scales are not synchronized. They never were. The entity's dimension operates at a different temporal rate — one of the many ways it is categorically not the material world and cannot be mapped onto it cleanly.
+
+What this means in practice:
+
+To the people around Salem — his colleagues, his clients, anyone who knows him — time passes normally. One year is one year. Salem ages one year in that period. His body changes at the rate a human body changes in one year, which is to say: imperceptibly, in the usual ways.
+
+But Salem's perception of that year is not one year. His consciousness, partially attuned to the entity's dimensional frequency through the pact, experiences something closer to one hundred years of subjective duration. Not in a dramatic or disorienting way — he is not living through a century of hallucinations while standing in his kitchen making coffee. It is more subtle than that. More like a compression of significance. A year feels fully inhabited in the way that only very long spans of time can feel fully inhabited. He has time to think about things that most people never have time to think about, because he is, in a very real sense, experiencing more time than they are.
+
+This also means that the lien structure resolves faster than anyone outside Salem's experience would expect.
+
+A person who loses a portion of their will to Salem in a duel will die, from Salem's subjective perspective, very quickly. The decades that pass in the material world — the normal lifespan of a person aging at human speed — are compressed, from Salem's temporal experience, into something that passes at a rate approaching a year for every few days. Salem does not watch his former opponents age. He does not wait in any felt sense of waiting. The deliveries to the entity come at a pace that feels, from Salem's position, like a steady stream — not like decades of patience.
+
+The entity, for its part, experiences time at its own dimensional rate. From the entity's perspective, the entire project — the approach, the contract, the collection, the eventual manifestation — is occurring very quickly. Salem is, from the entity's vantage point, moving at extraordinary speed. A human lifetime, from inside the entity's dimension, is an interval that does not require patience. It requires only attention.
+
+This is one of the reasons Salem can perceive the entity's presence without being overwhelmed by it. They are not operating on completely different scales — the pact has bridged them enough that Salem exists somewhere between the two temporal frames, which is part of what produces the phantom presence observers notice. He is moving through material-world time at material-world speed, aging normally, but he is also carrying the subjective weight of a consciousness that has been running for much longer than his body shows.
+
+He does not find this distressing. He found it disorienting for the first several months after the pact. By now it is simply how existence works. He has more time than he appears to have, in the sense that counts — the internal kind — and he has used it to read the contract several hundred times, in the time that most people would use to read it twice.
+
+He has found some things. He is still looking for the rest.
 
 ---
 <a name="fan-archetype"></a>
@@ -1010,7 +1038,7 @@ What none of them know — and what Salem has begun to suspect — is whether an
 ### FAMILY II — THE SEVEN SINS
 #### *The Devil's Nature in Monster Form*
 
-The devil who built the Phantom Ledger did not construct it from neutral materials. He built it from the human failures he had spent centuries exploiting. Every monster in this family represents one of the capital vices — not as a cartoon figure of evil, but as a precise mechanical expression of how that sin operates as a dueling strategy. Wrath converts destruction into power. Sloth makes passivity dangerous. Greed scales with the opponent's own resources. Each sin is a clause in the devil's original contract with humanity, translated into card form.
+The entity that built the Phantom Ledger did not construct it from neutral materials. It built it from the human failures it had spent its entire existence observing. Every monster in this family represents one of the capital vices — not as a cartoon figure of evil, but as a precise mechanical expression of how that sin operates as a dueling strategy. Wrath converts destruction into power. Sloth makes passivity dangerous. Greed scales with the opponent's own resources. Each sin is a clause in the entity's original contract with human weakness, translated into card form.
 
 ---
 
@@ -1130,7 +1158,7 @@ The devil operates through language. Every tool he has ever used — contracts, 
 
 *The opponent draws 1 card. Then look at the opponent's entire hand and choose 1 card from it; discard that card. If a "Phantom Ledger" monster is on the field when this card resolves: place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only activate "False Promise" once per turn.*
 
-> **Role:** A precise hand disruption card. The opponent draws first — giving them the illusion of advantage — then Salem removes the most dangerous card from their hand. This mirrors the devil's own methodology: offer something, take more back.
+> **Role:** A precise hand disruption card. The opponent draws first — giving them the illusion of advantage — then Salem removes the most dangerous card from their hand. This mirrors the entity's own methodology: offer something, take more back.
 
 > **Design note:** The draw-before-discard sequencing means Salem always sees the freshest version of the opponent's hand, including whatever they just drew. This makes False Promise most potent when activated before the opponent's Main Phase begins — seeing the full hand before they start their plays allows Salem to remove the most critical piece preemptively rather than reacting to what has already resolved.
 
@@ -1339,7 +1367,7 @@ Salem is not alone in his position. The infernal court that governs his pact has
 
 > **Design note:** The GY resurrection is once per Duel. This prevents an indefinite recursion loop at 6000+ ATK with targeting immunity from Infernal Tribunal and damage reflection — a combination with no natural off-switch. The once-per-Duel restriction preserves the narrative function without enabling infinite comeback. The hand summon carries no per-Duel restriction since LP dropping to 2000 is already a severe condition. The three damage-integrated cards form a functioning system: self-damage from Infernal Debt feeds Pain Ledger and accelerates the LP drain toward the threshold; when the threshold is crossed, Corrupted Receiver arrives; once on field, damage reflection makes further hits bilateral.
 
-> **Narrative origin — The Split Soul:** Salem, Corrupted Receiver does not represent Salem losing control. It represents a deliberate act of survival engineering that Salem performed as he began to understand what the infernal pact was doing to him. Using the same supernatural duelist's power the devil granted him — the ability to channel intent through cards — Salem transferred half of his own soul into this card, creating a vessel. The card exists to absorb corruption in his place. Every defeat that would corrupt Salem's body and mind further is partially diverted: the pact's punishment strikes the card instead of him. The Corrupted Receiver is the half of Salem that has been taking the infernal damage for him — accumulating the wounds, the demonic alterations, the madness. Every time it is summoned, it carries the visible mark of everything Salem should have become by now. The scale at its throat is fixed at the left in every summoning — it was separated from the human side when Salem made the split. He does not speak to it during a duel. He does not look at it any longer than necessary. The card, for its part, executes its function with the same professional precision that Salem uses for everything. It reflects damage back to the opponent because that is what suffering, properly administered, should always do.
+> **Narrative origin — The Split Soul:** Salem, Corrupted Receiver does not represent Salem losing control. It represents a deliberate act of survival engineering that Salem performed as he began to understand what the infernal pact was doing to him. Using the same supernatural duelist's power the pact granted him — the ability to channel intent through cards — Salem transferred half of his own soul into this card, creating a vessel. The card exists to absorb corruption in his place. Every defeat that would corrupt Salem's body and mind further is partially diverted: the pact's punishment strikes the card instead of him. The Corrupted Receiver is the half of Salem that has been taking the infernal damage for him — accumulating the wounds, the demonic alterations, the madness. Every time it is summoned, it carries the visible mark of everything Salem should have become by now. The scale at its throat is fixed at the left in every summoning — it was separated from the human side when Salem made the split. He does not speak to it during a duel. He does not look at it any longer than necessary. The card, for its part, executes its function with the same professional precision that Salem uses for everything. It reflects damage back to the opponent because that is what suffering, properly administered, should always do.
 
 > **Flavor:** *"He is not losing. He is transforming."*
 
@@ -1350,7 +1378,7 @@ Salem is not alone in his position. The infernal court that governs his pact has
 
 *Cannot be Normal Summoned or Set. Must be Special Summoned by removing 10 Phantom Counters from anywhere on the field. This card cannot be targeted by the opponent's card effects, and its effects cannot be negated. Once per turn: you can target 1 card the opponent controls; banish it. You can only use this effect of "The Unnamed Creditor" once per turn. When this card is destroyed by any means: place 5 Phantom Counters on "Infernal Tribunal" if you control it, and add 1 "The Contract" from your Deck or GY to your hand.*
 
-> **Role:** The devil himself, materialized. Summoning him requires 10 Phantom Counters — the same threshold the devil needs in the narrative to begin manifesting. He cannot be targeted and his effects cannot be negated, but he can be destroyed by non-targeting, non-negating removal: board wipes, effects that banish without targeting, and battle. When destroyed, he ensures the contract continues.
+> **Role:** The exiled entity itself, materialized. Summoning it requires 10 Phantom Counters — the same threshold the entity needs in the narrative to begin accumulating sufficient material for manifestation. It cannot be targeted and its effects cannot be negated, but it can be destroyed by non-targeting, non-negating removal: board wipes, effects that banish without targeting, and battle. When destroyed, it ensures the contract continues.
 
 > **Design note:** The 10 Phantom Counter requirement takes time to accumulate, which is intentional. Infernal Tribunal generates 1 counter per turn (on the opponent's first activation), plus 2 on activation. The Contract adds counters equal to the opponent's hand size each End Phase it is active. Other archetype cards add 1–2 counters as secondary effects. Across 4–5 turns of normal play, with The Contract active for 2–3 of those turns and the opponent holding a standard 4-card hand, reaching 10 counters is achievable without being trivial. This places The Unnamed Creditor firmly in the late game — summoning him is a declaration that the proceeding is nearly complete, not a Turn 2 shortcut.
 
