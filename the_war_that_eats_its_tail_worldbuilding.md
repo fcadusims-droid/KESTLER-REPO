@@ -2,10 +2,10 @@
 ## Immersive Worldbuilding Bible for a Historical War Tragedy
 
 **Primary working title:** *The War That Eats Its Tail*  
-**Inner title / legacy title:** *The Three Silences*  
-**Genre:** Historical war tragedy / survival novel / sensory literary fiction / family drama  
+**Inner title / diary title:** *The Three Silences*  
+**Genre:** Historical war tragedy / found-diary novel / survival testimony / sensory literary fiction / family drama  
 **Primary setting:** Normandy, France, summer 1944, during the violent collapse of German control after the Allied landings  
-**Narrative shape:** A family flight through a broken front line, told through three partial bodies, three forms of silence, and a shared diary that survives them  
+**Narrative shape:** A family flight through a broken front line, told through a shared diary found after the tragedy: three partial bodies, three forms of silence, and one damaged testimony that survives them  
 **Final emotional direction:** Survival is not guaranteed. Arrival is not salvation. The war is a distorted ouroboros: once it takes a life into its circle, it feeds on every attempt to escape.
 
 ---
@@ -27,6 +27,10 @@ The central question of the novel is not only whether they can reach Allied line
 It is whether they can remain a family after hunger, fear, shame, exhaustion, and war have taught them to misunderstand one another.
 
 The war outside them is mirrored by the war inside them: collapsing lines, broken signals, shifting loyalties, bodies mistaken for enemies, voices swallowed by smoke, and a child who learns that not every truth can be delivered without killing something.
+
+The novel should not be told by a neutral, omniscient voice looking safely back at the children. It should be told through the damaged object that outlives them: the Ashford diary. The reader should feel less like a spectator watching a tragedy from outside and more like someone holding the pages the war failed to destroy.
+
+This makes the form part of the moral wound. The story is not only about three children who cannot be understood in time. It is also a book assembled from the only place where they were ever fully allowed to exist together.
 
 ---
 
@@ -72,7 +76,50 @@ After German soldiers kill their parents in occupied Normandy, three British sib
 
 ---
 
-## 4. The War Zone
+## 4. The Narrative Form: The Diary That Survived
+
+The final manuscript should be written as a **found-diary novel**, not as a conventional war narrative. The central text is the Ashford diary, recovered by Father Lucien Caron after the deaths of the children and preserved because it refuses to let the war finish erasing them.
+
+The reader is not simply reading a story about Thomas, Eleanor, and Samuel. The reader is reading the thing they touched, damaged, argued over, hid inside coats, stained with rain, and left beside the dead.
+
+This structure turns the diary from a symbol into the book's narrative body.
+
+### The Three Narrative Layers
+
+The novel works through three interwoven layers:
+
+1. **Father Lucien's frame** — brief notes at the beginning, between major parts when necessary, and at the end. He explains where the diary was found, what condition the pages were in, and what he does not understand. He does not solve the children. He preserves them.
+2. **The diary itself** — the main body of the book. It contains Samuel's handwriting, Thomas's maps and visual notes, Eleanor's dictated testimony, corrections, crossed-out lines, practical warnings, hunger records, fragments of argument, and hidden truths.
+3. **Reconstructed pages** — selected scenes rendered with literary immediacy when the diary leaves enough traces to carry the moment. These passages should still feel born from the notebook, not from an all-knowing narrator.
+
+### Not a Polished Diary
+
+The diary should never feel like a clean literary confession. It is not a sequence of elegant entries written at a desk. It is a survival object.
+
+Its pages should include:
+
+- entries without dates;
+- place names guessed or corrected;
+- words written over mud stains;
+- maps interrupted by sentences;
+- Eleanor's dictated lines marked by Samuel;
+- Thomas's practical notes beside drawings;
+- Samuel's secret entries, sometimes written smaller or hidden after blank space;
+- lines Thomas tries to erase;
+- truths Eleanor demands be restored;
+- pages whose silence matters as much as their words.
+
+### The Formal Promise
+
+The book's form should make one promise to the reader:
+
+> These children were not understood in time, but they will not be erased without testimony.
+
+The diary is therefore not a framing gimmick. It is the only possible shape for the novel. Thomas cannot hear the world, Eleanor cannot see it, Samuel cannot speak it aloud, and the war cannot understand any of them quickly enough. Only the diary can hold all three silences in one place.
+
+---
+
+## 5. The War Zone
 
 The story takes place after the Allied landings in Normandy. The front has moved, but not cleanly. The children do not walk from German danger into Allied safety. They move through a torn strip of land where the word “front” has lost its certainty.
 
@@ -100,7 +147,7 @@ The Grey Belt is the physical form of the novel’s central fear: the impossibil
 
 ---
 
-## 5. Saint-Rémy-des-Aulnes
+## 6. Saint-Rémy-des-Aulnes
 
 The Ashford children begin in **Saint-Rémy-des-Aulnes**, usually called **Les Aulnes**, a fictional Norman village of alder trees, wet fields, apple orchards, sunken lanes, low stone walls, and hedgerows thick enough to swallow sound and sight.
 
@@ -156,7 +203,7 @@ For Samuel, it is too much information arriving too fast through hands that cann
 
 ---
 
-## 6. The Ashford Family
+## 7. The Ashford Family
 
 Arthur Ashford and Miriam Ashford are British exiles living under altered papers in Normandy. They are half-siblings who fled England after their relationship became undeniable.
 
@@ -188,7 +235,7 @@ The journey to British lines is therefore not a return. It is an approach toward
 
 ---
 
-## 7. The Wireless Radio
+## 8. The Wireless Radio
 
 The hidden wireless radio is the family’s forbidden voice.
 
@@ -209,7 +256,7 @@ Samuel remembers that static for the rest of his life.
 
 ---
 
-## 8. The Three Silences
+## 9. The Three Silences
 
 The title names three different forms of absence, but none of them are empty.
 
@@ -237,7 +284,7 @@ His hands become road, warning, confession, lie, comfort, command, and sometimes
 
 ---
 
-## 9. The Ashford Sibling System
+## 10. The Ashford Sibling System
 
 The siblings have a private communication system built over years. It is intimate, practical, tender, and dangerous.
 
@@ -277,7 +324,7 @@ At first, they rely on Samuel because it is easier. The war exposes the cruelty 
 
 ---
 
-## 10. The Shared Diary
+## 11. The Shared Diary as Narrative Engine
 
 The diary belongs to all three siblings.
 
@@ -361,6 +408,14 @@ A page from that night survives as:
 
 This scene makes the diary more than evidence. It becomes shelter.
 
+### Voice Rules Inside the Diary
+
+**Thomas's pages** should be visual, practical, and increasingly tactical. He writes in fragments: road, wall, number of men, direction, danger. After Hale, his notes begin to sound more like military instruction, which should disturb Samuel and Eleanor.
+
+**Eleanor's pages** should be dictated and sensory. She does not describe blindness as absence. She fills the page with breath, boards, rain, heat, boots, flies, hesitation, and the small acoustic changes that reveal lies.
+
+**Samuel's pages** should carry the greatest moral pressure. His hand writes for everyone, but his secret entries reveal the cost of being used as a bridge. He records what Thomas saw, what Eleanor heard, and what neither of them was allowed to know at the time.
+
 ### The Diary as Conflict
 
 The diary does not always unite them.
@@ -391,7 +446,7 @@ The war devours the children, but the diary remains lodged in its throat.
 
 ---
 
-## 11. The Breaking of the System
+## 12. The Breaking of the System
 
 The siblings survive because of their system, but the system is not perfect. It breaks three times in ways that shape the novel.
 
@@ -427,7 +482,7 @@ The tragedy is that he begins to believe he alone can decide when others deserve
 
 ---
 
-## 12. Thomas Ashford
+## 13. Thomas Ashford
 
 **Age:** 18  
 **Disability:** Deaf  
@@ -509,7 +564,7 @@ His final death is not vengeance. He dies guiding others out, using what Eleanor
 
 ---
 
-## 13. Eleanor Ashford
+## 14. Eleanor Ashford
 
 **Age:** 16  
 **Disability:** Blind  
@@ -572,7 +627,7 @@ If Thomas later carries her body, he carries not helplessness, but the sister wh
 
 ---
 
-## 14. Samuel Ashford
+## 15. Samuel Ashford
 
 **Age:** 13  
 **Disability:** Mute  
@@ -659,7 +714,7 @@ His body becomes the final translation.
 
 ---
 
-## 15. The Lost British Soldier
+## 16. The Lost British Soldier
 
 ### Private Edwin Hale
 
@@ -750,7 +805,7 @@ The tragedy is that Hale’s teaching is both necessary and poisonous.
 
 ---
 
-## 16. The Opening Catastrophe
+## 17. The Opening Catastrophe
 
 The parents’ death is the original wound of the novel. It must arrive as fragments because no child receives the whole event in the same way.
 
@@ -796,7 +851,7 @@ Samuel’s first act of leadership is also his first moral wound.
 
 ---
 
-## 17. The Middle Passage
+## 18. The Middle Passage
 
 The journey from Les Aulnes to the Allied line is a descent through broken categories.
 
@@ -840,7 +895,7 @@ Nothing in the shell field knows the children are children.
 
 ---
 
-## 18. Madeleine Vasseur
+## 19. Madeleine Vasseur
 
 **Age:** 34  
 **Role:** Resistance courier  
@@ -859,7 +914,7 @@ Madeleine may reveal that Arthur’s Resistance work was both brave and selfish.
 
 ---
 
-## 19. The War as Antagonist
+## 20. The War as Antagonist
 
 There is no central human villain.
 
@@ -910,7 +965,7 @@ War turns arrival into another kind of front.
 
 ---
 
-## 20. Other Figures in the War
+## 21. Other Figures in the War
 
 ### Corporal Lukas Weber
 
@@ -922,6 +977,8 @@ The village priest, gentle in public and compromised in private. He may have hel
 
 At the end, he becomes the unwilling guardian of the diary. He does not redeem himself by finding it; he is judged by it. His final act is not heroism but refusal: he refuses to let the Ashford children become paperwork, rumor, or three nameless bodies beside the road.
 
+In the diary edition, Lucien's voice appears only as a frame around the children's testimony. He may describe the state of the pages, confess uncertainty, and explain why he preserved the book, but he must not domesticate the horror by interpreting it too neatly.
+
 ### Private Billy Hargreaves
 
 A young British soldier near the final line. Nervous, working-class, terrified, and not trained for the sight of children emerging from the German side.
@@ -932,7 +989,7 @@ Billy is not a grand savior. He is the small mercy of a single person choosing t
 
 ---
 
-## 21. The Family Secret
+## 22. The Family Secret
 
 The secret of Arthur and Miriam surfaces in stages, not as a single revelation.
 
@@ -970,7 +1027,7 @@ The secret does not explain their bodies. It explains the house that taught them
 
 ---
 
-## 22. How the War Changes Each Sibling
+## 23. How the War Changes Each Sibling
 
 ### Before the Raid
 
@@ -1020,7 +1077,7 @@ But the line did not save what mattered most.
 
 ---
 
-## 23. The Final Movement
+## 24. The Final Movement
 
 The ending turns the central premise inside out.
 
@@ -1068,7 +1125,7 @@ He dies carrying all three silences within himself.
 
 ---
 
-## 24. The Shape of Each Death
+## 25. The Shape of Each Death
 
 Each sibling dies differently because each lived the war differently. Their deaths do not punish their disabilities. They complete their choices.
 
@@ -1092,7 +1149,7 @@ His death is not deafness. It is responsibility without illusion.
 
 ---
 
-## 25. Symbols
+## 26. Symbols
 
 ### The Distorted Ouroboros
 
@@ -1152,53 +1209,132 @@ It never means one thing.
 
 ---
 
-## 26. The Novel Structure
+## 27. The Notebook Structure
 
-### Part I — The Bell Falls
+The novel should be organized as a recovered manuscript made of a prologue, seven cadernos, and an epilogue. The labels should feel like archival divisions rather than ordinary chapters. Individual sections may be titled as pages, fragments, maps, copied letters, or damaged entries.
 
-The village collapses. The Ashford house is raided. Arthur and Miriam die in fragments of sound, image, and complete knowledge. Samuel hesitates, almost tries to speak, and drags the living away. The orchard becomes the first road out.
+### Prologue — The Book Beside the Dead
 
-**Emotional endpoint:** Home is no longer a place. It is a wound behind them.
+Father Lucien Caron finds the diary beside the bodies of Eleanor and Samuel after Thomas has left to guide Allied soldiers back into the bocage. He does not yet understand the whole story. He sees only a damaged notebook, two dead children, mud, military confusion, and names that have not yet been properly spoken.
 
-### Part II — The Language of Ditches
+The prologue establishes the found-document form: the reader is about to read the object that survived the children.
 
-The siblings move through fields, water, the old mill, and refugee paths. Their private system saves them. Their system also begins to hurt them. The shared diary becomes a portable house: Thomas maps, Eleanor dictates, Samuel writes. Madeleine Vasseur reveals that Arthur’s radio work placed the family inside a larger web of risk.
+**Emotional endpoint:** The diary is not evidence first. It is a body that has not stopped speaking.
 
-**Emotional endpoint:** Survival depends on the system, but the system is not innocent.
+### Caderno I — The Bell Falls
 
-### Part III — The Green Labyrinth
+The diary begins almost as a family object: drawings of the church, ordinary observations, small arguments, signs, games, the village lowering its voice. The tone breaks when the bell falls, the radio is discovered, German soldiers enter the house, and Arthur and Miriam die in fragments.
 
-The bocage breaks Thomas’s visual authority. Eleanor becomes tactically vital. Samuel becomes exhausted by translating too much too quickly. A communication failure separates them. Thomas and Eleanor survive without Samuel and recover an older language of touch.
+This caderno should include:
+
+- a drawing of the tower by Thomas;
+- Eleanor's sentence that the bell did not ring, but dropped;
+- Samuel's first hidden record of not telling Eleanor the truth;
+- the radio speaking after the parents cannot;
+- the orchard as the first road out.
+
+**Emotional endpoint:** Home is no longer a place. It is a page too painful to write plainly.
+
+### Caderno II — The Language of Ditches
+
+The siblings move through the River Lienne, the old mill, refugee roads, and the first moral failures of survival. The diary begins to change from childhood habit into shelter and testimony. Madeleine Vasseur enters as the first adult who treats Samuel's hands as language rather than disability.
+
+This caderno should include:
+
+- Eleanor guiding by water;
+- the first communication failure that costs someone else;
+- Madeleine's hard truth about Arthur;
+- hunger recorded as part of the map;
+- the old house in the rain, where Eleanor insists that rain, onion, mouse, and fear must be written.
+
+**Emotional endpoint:** The diary becomes a portable house, but even a house can contain arguments.
+
+### Caderno III — The Green Labyrinth
+
+The bocage destroys Thomas's visual certainty and overloads Eleanor's hearing. Samuel is forced to translate too many realities too quickly until the sibling system breaks from exhaustion. When Samuel is separated, Thomas and Eleanor must recover an older language of touch.
+
+This caderno should include:
+
+- maps that fail because hedgerows behave like walls;
+- Eleanor hearing danger before Thomas can see it;
+- Thomas's resentment at needing her;
+- Samuel's confused signs: stop, danger, move, hide;
+- Thomas and Eleanor communicating without Samuel;
+- Samuel alone, discovering he does not know who he is when no one is speaking through him.
 
 **Emotional endpoint:** Samuel is not the only bridge. He has been made into one.
 
-### Part IV — The Man Who Hid
+### Caderno IV — The Man Who Hid
 
-The siblings encounter Private Edwin Hale. He teaches Thomas practical survival and the doctrine that outsiders cannot be trusted until they prove safety. Thomas grows more competent and more rigid. Samuel watches Hale unravel. Hale takes his own life off the center of the page, leaving Samuel with a warning about Thomas.
+Private Edwin Hale enters the diary as uniform, method, and warning. Thomas sees a British soldier and thinks of rescue. Eleanor hears a broken man. Samuel understands that both are true. Hale teaches survival tactics while transferring a poisonous creed into Thomas.
 
-**Emotional endpoint:** Thomas gains the tools to protect the family and inherits the shape of a man destroyed by surviving alone.
+This caderno should include:
 
-### Part V — The Sin of Returning
+- the first page marked by Hale's name;
+- practical lessons copied by Thomas;
+- the phrase: *Until you reach them, you are the line*;
+- Eleanor's distrust of usefulness without safety;
+- Samuel witnessing Hale speak to dead comrades;
+- Hale's death off the center of the page;
+- Samuel copying *Edwin Hale* repeatedly so he does not become only a coat.
 
-The family secret comes fully into the open. Arthur and Miriam’s taboo, exile, and paranoia transform England from salvation into judgment. Thomas wants to burn the truth. Eleanor demands it. Samuel chooses what to reveal and when. The war tightens around them without needing a single face to command it.
+**Emotional endpoint:** Thomas gains tools that save the family and inherit a shape that may destroy him.
 
-**Emotional endpoint:** The siblings choose one another with full knowledge that their family began in secrecy and harm.
+### Caderno V — The Sin of Returning
 
-### Part VI — Voices Beyond the Smoke
+The family secret surfaces through mismatched documents, an old photograph, and Miriam's unsent letter. England changes from possible rescue into origin, judgment, and shame. The diary becomes a battlefield over what truth must be written and what truth can kill.
 
-The Grey Belt closes around them. Germans are on both sides. Allied fire falls ahead. Eleanor hears the way through and dies because she acts. Samuel tries to make Thomas legible to British soldiers and dies as the final translation. Thomas reaches Allied lines carrying the dead.
+This caderno should include:
 
-**Emotional endpoint:** Arrival is not rescue. The line is crossed too late.
+- altered dates and repeated names;
+- Thomas trying to conceal documents;
+- Eleanor demanding the whole truth;
+- Miriam's letter copied partially into the diary;
+- the refusal to treat the siblings' bodies as punishment;
+- Samuel admitting he knew fragments earlier;
+- the line that they are still the three.
 
-### Part VII — The Last Guide
+**Emotional endpoint:** The children choose one another with full knowledge that their family began in secrecy and harm.
 
-Thomas gives the names in the only way he still can: by leaving the diary with Eleanor and Samuel. He cannot remain in the aid station. He returns to the bocage as a guide for Allied soldiers and dies leading others through the terrain that destroyed his family. Father Lucien later finds the diary while praying over the bodies and becomes the keeper of the record.
+### Caderno VI — Voices Beyond the Smoke
 
-**Emotional endpoint:** The three silences are gone as bodies, but the diary prevents the war from swallowing them completely.
+The diary becomes fragmented as the siblings enter the Grey Belt. Germans are behind and ahead. Allied fire falls close. English voices become both hope and danger. The pages should feel damaged by chaos: incomplete maps, interrupted sentences, repeated names, and blank spaces where the hand could not continue.
+
+This caderno should include:
+
+- Thomas writing that the Allies are near;
+- Eleanor warning that near does not mean safe;
+- Hale's map failing against craters and smoke;
+- Eleanor hearing the final danger first and acting before translation can happen;
+- Samuel trying to make Thomas legible to British soldiers;
+- Samuel's body becoming the final translation;
+- Thomas reaching the line too late.
+
+**Emotional endpoint:** Arrival is not rescue. The line is crossed after the family has already been devoured.
+
+### Caderno VII — The Last Guide
+
+Samuel no longer writes. Eleanor no longer dictates. Thomas is alone inside the object that once held all three. His entries become harder, emptier, and more formal. The aid station cannot become home. Officials ask questions. Soldiers realize he knows routes through the bocage. Thomas leaves the diary with Eleanor and Samuel before returning to the war as a guide.
+
+This caderno should include:
+
+- Thomas's inability to understand the word *safe*;
+- the naming of Eleanor Ashford, Samuel Ashford, and Thomas Ashford;
+- the final placement of the diary beside the dead;
+- Thomas's last written line: *We tried to go home*;
+- his final death reported indirectly, not dramatized as spectacle.
+
+**Emotional endpoint:** Thomas is reclaimed by the war, but the diary is not.
+
+### Epilogue — The Church Without a Bell
+
+Father Lucien reads the diary in the broken church. The fallen bell no longer calls the village together. The diary rests on the altar, warped by rain, mud, smoke, and blood. Lucien does not fully understand every sign, but he understands enough to preserve the record.
+
+**Emotional endpoint:** The three silences are gone as bodies, but for one night they are not missing.
 
 ---
 
-## 27. Testimony and Remains
+## 28. Testimony and Remains
 
 All three siblings die, but the story does not end in erasure.
 
@@ -1270,7 +1406,7 @@ It is what remains caught between the serpent's teeth.
 
 ---
 
-## 28. Ending Image
+## 29. Ending Image
 
 The final image belongs not to victory, but to incomplete preservation.
 
@@ -1296,7 +1432,42 @@ Inside, for one night, three children are not missing.
 
 ---
 
-## 29. Core Tone
+## 30. Writing Rules for the Diary Edition
+
+The diary edition must obey formal rules so the structure remains emotionally credible rather than decorative.
+
+### Rule 1: The Diary Does Not Explain Everything
+
+A conventional narrator can clarify. The diary cannot. It can preserve, accuse, contradict, and reveal, but it should leave some edges torn. Missing information should feel like part of the tragedy, not like a plotting failure.
+
+### Rule 2: Every Page Must Have a Reason to Exist
+
+A page may provide route information, preserve a name, settle an argument, hide a truth, or prove that the siblings were still human. No entry should exist only to summarize events. The diary should always be doing emotional or practical work.
+
+### Rule 3: The Physical Page Matters
+
+The reader should feel the book deteriorate:
+
+- early pages are cleaner and more childlike;
+- middle pages contain maps, dirt, pressed leaves, crossed-out sentences, and hunger lists;
+- later pages are fragmented, stained, and increasingly difficult to complete;
+- after Samuel dies, the absence of his handwriting should be felt as a wound.
+
+### Rule 4: Lucien Must Not Take Over
+
+Father Lucien is the preserver, not the owner. His notes should be brief, humble, and morally uneasy. He may admit guilt, confusion, or inability to interpret certain signs, but he must never replace the children's testimony with his own explanation.
+
+### Rule 5: The Form Must Echo the Theme
+
+The book is about failed communication. Therefore, the form must include failed communication: crossed-out words, mistranslated signs, delayed truths, missing dates, unfinished sentences, and pages where the reader understands too late what one sibling could not make another understand in time.
+
+### Rule 6: The Ending Must Preserve, Not Console
+
+The diary is not a happy ending. It does not save the children. It prevents the final erasure. The last emotional movement should not be victory, but incomplete preservation.
+
+---
+
+## 31. Core Tone
 
 The world of *The War That Eats Its Tail* remains intimate even when the war is large. Battles are not strategy first. They are pressure under ribs, mud in teeth, breath held too long, hands tightening on wrists, a rifle raised by someone who does not understand what he is seeing.
 
