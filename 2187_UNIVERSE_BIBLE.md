@@ -69,6 +69,8 @@ The crew will return to a civilization that, in all likelihood, no longer exists
 
 This document is the complete reference for the 2187 universe: its history, its factions, its physics, its characters, and the strategic logic that drives every actor toward collision.
 
+**A note on epistemic status:** Not all claims in this document carry the same degree of certainty. Physical laws (escape velocity, EROEI, thermodynamics) are verifiable and fixed. Strategic assessments (comparative military efficiency, collapse timelines, factional intentions) are models — structurally sound, potentially wrong in specific details. What no model captures are the individual decisions that have not yet been made. The physics defines the board. It does not move the pieces.
+
 ---
 
 ## 2. PHYSICAL FOUNDATIONS: THE THREE FILTERS
@@ -328,6 +330,14 @@ Earth society is organized by energy access, not by wealth or class in any tradi
 - **Urban Masses (93–96%):** Daily rolling blackouts of 4–8 hours. Synthetic protein and processed algae. Chronic anxiety — the condition EPR social scientists term *Mass Zoochosis*, defined as the behavioral degradation of a species whose environment can no longer satisfy its fundamental requirements.
 - **Dead Zones (<1% currently, expanding):** Permanently collapsed infrastructure. Approximately 40–60 million people in Lagos, Mumbai, and secondary urban zones. No state presence. Criminal governance controls water and power. By 2191–2192, EPR models project expansion to 255–425 million as Tier-2 cities cascade into functional collapse.
 
+#### What It Looks Like, Day to Day
+
+In Berlin-Nord, a mid-tier technician arranges the family schedule around the six-hour programmed blackout: shower at 5h00, cooking at 5h20, heating switched off at 6h00 before the grid reroutes energy to the industrial corridors. The apartment panel shows three states: blue for normal rationing, orange for extended rationing, red for emergency load-shedding. The children have been taught what each color means before they learned to read.
+
+In São Paulo Tier-2, a ten-year-old knows that when the tap makes a hissing sound instead of running water, you wait — you don't scream, don't wake your father, don't open the emergency reserve. You wait. She has done this since she was six. The panel on the wall says *distribuição em otimização*. She no longer reads it.
+
+In Lagos, there is no panel. There is darkness, and four blocks away, the sound of a generator running on fuel from a criminal water point.
+
 #### Military Capacity
 
 Earth's military doctrine is defensive by necessity, not by choice. Its forces are designed to absorb punishment and deny access rather than to project power or maneuver.
@@ -346,7 +356,7 @@ Earth's military doctrine is defensive by necessity, not by choice. Its forces a
 | Tier-2 Stressed | 45–55% design capacity | São Paulo, Houston, Cairo, Johannesburg | Critical throttling; reduced planning horizon from 72h to 6–12h reactive mode |
 | Tier-3 Collapsed | 18–35% design capacity | Lagos (post-2184), Mumbai (post-2186), portions of Jakarta | Irreversible; thermal hardware damage requires full replacement (impossible) |
 
-**Critical threshold:** 40% design capacity. Below this, Hot Brains cannot maintain megacity logistics (water distribution, food supply, sanitation). Once a city's Hot Brain falls below 40%, functional collapse within 90–180 days is statistically certain.
+**Critical threshold:** 40% design capacity. Below this, Hot Brains cannot maintain megacity logistics (water distribution, food supply, sanitation). Once a city's Hot Brain falls below 40%, functional collapse within 90–180 days is statistically near-certain under current infrastructure models — though local factors (emergency load-shedding protocols, shadow manual systems, criminal resource networks) have produced anomalous stability in a handful of secondary cities that EPR models did not predict.
 
 As of 2187: 23% of Earth's urban population lives in sub-threshold zones. 48% lives within 10 percentage points of the threshold. Only 29% lives in zones above 60% capacity.
 
@@ -418,7 +428,13 @@ Primary settlement zones:
 
 Habitat architecture: armored domes of Titanium, GSL composites, and compacted regolith. Internal pressurization at 0.3–0.5 atm, sufficient for respiration at lower metabolic cost than Earth-normal. Agrovertices — vertical agriculture towers using hydroponics and aeroponics under spectrum-optimized MMR-powered LEDs — produce algae protein, potatoes, and resistant grains for the full population.
 
-#### Military Hardware
+#### What It Looks Like, Day to Day
+
+Meals in Mars are collective, not private. Eating alone carries a social weight — associated with mourning, or with disciplinary isolation. In a closed habitat, the shared table is social infrastructure as much as the water pipes.
+
+The agrovertices produce potato, algae protein, and resistant grains. Martian cuisine is inventive within absolute constraints. Meat exists only in bioreactors and is served at formal civic events. A child in Utopia Planitia grows up knowing the name of the engineer responsible for their water sector — not as trivia, but because that is how the settlement is organized. She also knows what happens if he fails.
+
+The Martian word closest to "forgiveness" derives etymologically from the same root as "returned resource." Language here is not metaphor — it is engineering.
 
 Martian warfare is fully automated at the tactical level (OOTL), with humans authorizing mission parameters and engagement zones. The combination of MMR energy abundance and efficient AI allows Martian forces to field hardware that Earth cannot match without the thermal throttling that degrades Earth's systems.
 
@@ -501,7 +517,13 @@ Selenite society has developed distinct cultural forms over two generations:
 - **Occupational disease:** The miner class carries a near-universal respiratory condition — *Regolith Lung* — caused by chronic inhalation of electrostatically charged vitreous silica particles too fine for suit filtration to fully catch. Lunar dust is not simply abrasive; its jagged, freshly-fractured glass-like particles penetrate deep into alveolar tissue where fractional gravity allows them to remain suspended longer than on Earth. Progressive fibrotic inflammation accumulates across decades of exposure. Most Selenite miners over 40 carry measurable pulmonary scarring. The corporations that created the Selenite subspecies optimized their genetics for 0.165g but made no germline provision for the dust they would spend their lives breathing. Corporate medical assessment (internal, 2140): *"Acceptable occupational degradation given labor productivity."*
 - **Psychology:** Universal resentment toward Earth. Three identified pathological conditions: *Gravitational Dysphoria* (existential anguish at biological inability to experience 1g), *Horizon Sickness* (depression from permanent airless landscape confinement), and *Abandonment Complex* (consequence of corporate nursery child-rearing under 12-hour mining shift parental schedules)
 
-EPR counterintelligence assessment (2187) estimates:
+#### What It Looks Like, Day to Day
+
+The most meaningful unit of time in Selenite culture is not the day — the Moon's 29-day solar cycle is irrelevant to habitat rhythms — but the *shift*. Life is organized in 12-hour blocks, three per 36-hour cycle. Children know their parents' shift rotation before they know their parents' faces in full light. "He's on shift" means simultaneously: he's working, he's not available, and you shouldn't count on him right now.
+
+The most popular entertainment in Armstrong City is streamed footage of outdoor environments — Earth oceans, forests, rainfall, open skies. Never live, always archived, sold in subscription libraries. A Selenite child who has never seen rain pays credits to watch recorded rain from Portugal in 2163. She watches it on a loop. She has watched it enough times to know individual cloud formations.
+
+There is no word in Luna Pidgin for "horizon." The closest equivalent translates literally as "the wall the outside makes."
 - 12–18% general anti-Earth sentiment (passive, non-violent)
 - 5–8% active Mars sympathizers (intelligence-sharing, low-risk operations)
 - 2–3% confirmed Mars intelligence assets in critical positions (supply chain, L4/L5 shipyards, defense systems)
@@ -706,6 +728,8 @@ Gravitas provides: Ceres water, Cloud-Mind processing, paramilitary sabotage and
 
 The asymmetry: Mars needs the Gravitas to continue the war but has no intention of sustaining them afterward. A post-war Mars that controls the inner Solar System has no use for 300,000 biologically incompatible subsistence-level Belt dwellers. The Gravitas know this. They continue the alliance because the alternative — Earth winning, which restores the system that created and abandoned them — is worse.
 
+What Mars does not calculate with sufficient precision: Gravitas resentment has a long history of converting itself into unilateral action. The larger clans on Ceres have debated, informally and without official record, what happens if the Cloud-Mind simply *stops* processing Martian military calculations — not as declared sabotage, but as unrepaired technical failure. The distinction between the two, at 300 million kilometers of distance, is impossible to verify from Mars. The Gravitas are not passive instruments waiting to be used. They are a population that has watched 400,000 of their people die over sixty years, and they are deciding, clan by clan, whether the current arrangement leads somewhere other than extinction.
+
 #### Culture and Collective Identity
 
 The Gravitas do not identify as "modified Earth humans." They are **Spacenoids** — Voidborn. The term "Gravitas" was originally pejorative, used by Terrans to mock the distinctive gait of Belt-adapted bodies in any gravity environment. It was reappropriated as a mark of pride, the way marginalized communities have reclaimed slurs throughout history: by refusing to be ashamed of what they were called.
@@ -716,9 +740,13 @@ Their society is decentralized and effectively anarchic — organized by habitat
 
 **Economy of information:** As mining collapsed, the Gravitas economy shifted entirely to Cloud-Mind computational services and Ceres water. These two commodities — one immaterial, one physical — are all that stands between the Gravitas and extinction. The Cloud-Mind is now both infrastructure and currency, sold in "processing time" allocations to Mars and, historically, to any faction willing to pay. The Gravitas are the only civilization whose primary export is intelligence.
 
----
+#### What It Looks Like, Day to Day
 
-### 4.6 MERCURY: THE SOLAR FORGE
+The largest status marker in Gravitas society is not accumulated wealth but access to *pressure variation*. Habitats with modules that simulate fractional gravity — 0.15g, 0.2g — are privileges of the wealthiest clans. Most Gravitas live their entire lives in near-zero gravity. There is no concept of "floor" that is not operationally defined by whatever surface they choose to anchor to.
+
+Children learn three-dimensional spatial orientation before they learn to read. The dominant language spoken among Belt clans has more than twenty distinct orientation verbs, differentiating "above relative to the asteroid's core," "above relative to the sun," and "above relative to the station" as fundamentally different directions. There is no single word for "down."
+
+*Threading* — sustained three-dimensional movement in open vacuum — is taught alongside mathematics. It is the art form, the sport, and the ritual. A skilled threader can move through a 200-meter open space without touching any surface, using micro-impulses of expelled gas from fingertip ports. The most accomplished practitioners are clan elders. When a Gravitas elder dies, the body is threaded — moved through open space by family members in a choreography that is different for each person and cannot be repeated. It is the only funeral rite that requires the deceased's specific geometry to perform correctly.
 
 **Classification:** DELTA LEVEL — Strategic Asset (Outer Alliance)  
 **Population:** ~550 specialists (down from 8,000 at peak construction; 94% of operations automated)  
@@ -771,9 +799,11 @@ All factions pay identical prices. No discounts. No embargoes. Client confidenti
 
 **Census ambiguity as strategy:** Venus officially reports ~9,200 inhabitants, with a ±400 margin the Chemical Guild publicly attributes to transit personnel. The actual reason for the ambiguity is deliberate: the Guild maintains vague population figures to prevent any faction from precisely calculating Venus's labor capacity or identifying specific vulnerability points in population distribution. Venus wants to appear simultaneously indispensable (large enough to matter strategically) and unthreatening (small enough to ignore militarily). This calculated ambiguity is itself a neutrality instrument. The 23 independent aerostats are distributed across different latitudinal bands, and the Guild releases no data on which aerostats house which specialties — preventing targeted degradation of specific capabilities through selective attack.
 
----
+#### What It Looks Like, Day to Day
 
-## 5. CRITICAL INFRASTRUCTURE & TECHNOLOGY
+Venusian children are taught before anything else that the floor is a privilege — not a given. Habitat orientation drills are conducted weekly: what to hold, where to go, how to move if the aerostat begins to tilt. The drills are calm, routine, and universal. No child on Venus reaches adolescence without having practiced the difference between a five-degree tilt (normal atmospheric compensation) and a twelve-degree tilt (begin evacuation protocol).
+
+The vibration floors — systems that simulate terrestrial solidity through low-frequency resonance — run continuously. Visitors from other factions often find them disorienting. Venusians find silence from below disorienting in turn. The characteristic social music of Venusian aerostats is low-frequency: bass-heavy compositions designed to blend into the floor vibration rather than compete with it. It is the only music in the Solar System engineered to be felt before it is heard.
 
 ### 5.1 The Nairobi Space Elevator
 
@@ -1276,7 +1306,7 @@ After grid death: Earth cannot sustain industrial civilization. Phase 3 (2195–
 
 Mars's strategic calculus: the Nairobi Elevator must be destroyed before it reaches operational status. After completion (late 2191), Earth's launch cost advantage eliminates Mars's Delta-V superiority permanently, and the 100:1 population ratio becomes strategically meaningful rather than irrelevant.
 
-Mars must strike within this window. The decision is not if but when, and within what specific tactical configuration.
+Mars's strategic calculus points strongly toward striking within this window. The decision — if Mars follows its own projections — is less about *whether* than *when*, and within what specific tactical configuration.
 
 **The complication:** Mars cannot afford to win too decisively. A war that destroys Earth's orbital infrastructure destroys the Phobos Shipyard's inheritance target. Mars's objective is specifically: (1) destroy or control Shackleton water production, (2) destroy or control the Peaks of Eternal Light laser array, (3) destroy the Nairobi Elevator. All three without triggering Kessler Syndrome and without causing broad-spectrum civilizational collapse that eliminates the infrastructure Mars intends to inherit.
 
