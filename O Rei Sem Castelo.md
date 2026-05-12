@@ -41,7 +41,7 @@ Não sangue humano.
 
 Não sangue vampírico puro.
 
-Sangue Soberano.
+Sangue Fundador.
 
 O sangue recém-criado não era apenas força. Era uma condição instável, uma soberania sem rito completo. Para existir em plenitude, precisava de quatro coisas que Severin não possuía quando abriu os olhos: um corpo capaz de suportá-lo, um rito capaz de reconhecê-lo, uma arquitetura capaz de conduzi-lo e uma mente capaz de não se partir sob o peso dele.
 
@@ -66,7 +66,7 @@ Depois que o abismo se silencia, algo se move sob os escombros.
 
 Severin abre os olhos.
 
-Para ele, não parece ter ressuscitado. Parece apenas ter desmaiado e acordado em outro lugar. Sua memória está partida. Ele não sabe que morreu. Não sabe que seu sangue libertou o passado. Não sabe que a maldição fez dele algo que ninguém esperava: não um vampiro puro, não um humano, não exatamente Vaelrûn Sângelună, mas uma nova categoria de existência, carregando Sangue Soberano — um sangue capaz de fazer o sangue humano e o sangue vampírico reconhecerem nele uma precedência que nem os reis antigos possuíam.
+Para ele, não parece ter ressuscitado. Parece apenas ter desmaiado e acordado em outro lugar. Sua memória está partida. Ele não sabe que morreu. Não sabe que seu sangue libertou o passado. Não sabe que a maldição fez dele algo que ninguém esperava: não um vampiro puro, não um humano, não exatamente Vaelrûn Sângelună, mas uma nova categoria de existência, carregando Sangue Fundador — um sangue capaz de fazer o sangue humano e o sangue vampírico reconhecerem nele uma precedência que nem os reis antigos possuíam.
 
 O mundo procura um culpado.
 
@@ -113,7 +113,7 @@ A Igreja diz ter jurisdição sobre alma, pecado, pacto e misericórdia.
 
 O Ofício da Pureza diz ter jurisdição sobre sangue suspeito, certidão, margem genealógica e corpo examinado.
 
-A Ordem da Aurora diz ter jurisdição sobre emergência, contenção, quarentena e guerra contra aquilo que ameaça a espécie humana.
+A Ordem Branca diz ter jurisdição sobre emergência, contenção, quarentena e guerra contra aquilo que ameaça a espécie humana.
 
 Os vampiros antigos dizem ter jurisdição sobre linhagem, coroa, juramento, vassalagem, direito de alimentação e pactos selados antes da queda.
 
@@ -149,7 +149,7 @@ Terá de ser discernimento.
 
 Severin Sângelună é um homem que nasceu em segredo, cresceu em contenção e sobreviveu à destruição da própria família. Durante toda a vida, acreditou que seu sangue era vergonha, que sua existência era erro e que seu maior ato foi covardia.
 
-Ao morrer nas ruínas do antigo castelo vampírico, seu sangue completa uma maldição feita para um herdeiro puro. Mas Severin não é puro. É humano e vampiro, bastardo e legítimo, vítima e possível soberano. Quando seu sangue atravessa os ossos dos reis e toca os vestígios reais preservados sob o castelo, não é purificado nem corrompido. Torna-se Sangue Soberano: uma nova forma de sangue capaz de fazer o humano e o vampírico reagirem a ele como precedência.
+Ao morrer nas ruínas do antigo castelo vampírico, seu sangue completa uma maldição feita para um herdeiro puro. Mas Severin não é puro. É humano e vampiro, bastardo e legítimo, vítima e possível soberano. Quando seu sangue atravessa os ossos dos reis e toca os vestígios reais preservados sob o castelo, não é purificado nem corrompido. Torna-se Sangue Fundador: uma nova forma de sangue capaz de fazer o humano e o vampírico reagirem a ele como precedência.
 
 Essa soberania só vive plenamente nele porque só seu Coração Criador a produz. Fora de seu corpo, o sangue não funda outro rei. Procura retorno, degrada, marca, enlouquece ou produz Eco Sanguíneo. Pode visitar outro corpo para curar, ferir, selar ou chamar, e depois voltar ao órgão-fonte. Pode deixar cicatriz, febre, dívida e saudade de uma ruína. Mas não substitui a fonte.
 
@@ -493,7 +493,7 @@ Ele poderá esquecer a ordem dos acontecimentos, mas não o cheiro. Poderá não
 
 O corpo lembrará antes da mente.
 
-E o Sangue Soberano, nascido desse corpo, aprenderá essa linguagem de pânico.
+E o Sangue Fundador, nascido desse corpo, aprenderá essa linguagem de pânico.
 
 ---
 
@@ -740,7 +740,7 @@ Não por harmonia.
 
 Por impossibilidade de vitória total.
 
-O Sangue Soberano nasceu quando todas as jurisdições antigas falharam em possuir Severin por inteiro. Não era pureza restaurada. Não era humanidade preservada. Não era vampirismo corrigido. Não era obediência ao rito. Era uma decisão biológica tomada no limite: se nenhuma lei antiga podia conter aquele corpo, então o corpo fabricaria uma lei nova.
+O Sangue Fundador nasceu quando todas as jurisdições antigas falharam em possuir Severin por inteiro. Não era pureza restaurada. Não era humanidade preservada. Não era vampirismo corrigido. Não era obediência ao rito. Era uma decisão biológica tomada no limite: se nenhuma lei antiga podia conter aquele corpo, então o corpo fabricaria uma lei nova.
 
 O coração que voltou a bater não era o coração de Vaelrûn, nem dos outros reis, nem do homem que morrera pedindo fim.
 
@@ -770,7 +770,7 @@ Depois da ressurreição, uma terceira começa a surgir:
 
 > **“Talvez eu seja exatamente o monstro que todos diziam.”**
 
-Com o Sangue Soberano, surge uma quarta ferida:
+Com o Sangue Fundador, surge uma quarta ferida:
 
 > **“Talvez meu corpo possa fazer dos outros aquilo que fizeram de mim: prova, ferramenta e prisão.”**
 
@@ -1031,13 +1031,13 @@ Eles não caçam como aristocratas. Procuram rostos conhecidos. Batem na porta d
 Para contê-los, não basta força. É preciso descobrir o que falhou: quem não foi enterrado, quem não foi nomeado, quem não foi perdoado, quem ainda espera uma promessa.
 
 
-#### Quimeras da Aurora
+#### Quimeras Brancas
 
 Nem todas as monstruosidades da guerra antiga pertenciam aos vampiros.
 
 Algumas foram fabricadas pelos humanos.
 
-As **Chimaerae Aurorae**, Quimeras da Aurora, não emergem inicialmente do abismo de Severin como os servos da antiga coroa. Elas permanecem presas em fossas, abismos e prisões impossíveis, construídas pela Ordem da Aurora depois que seus próprios criadores descobriram que não podiam matá-las. Foram feitas para ser síntese e falharam como síntese: corpos compostos de partes incompatíveis, escritos para guerra e incapazes de compreender paz como destino.
+As **Chimaerae Albae**, Quimeras Brancas, não emergem inicialmente do abismo de Severin como os servos da antiga coroa. Elas permanecem presas em fossas, abismos e prisões impossíveis, construídas pela Ordem Branca depois que seus próprios criadores descobriram que não podiam matá-las. Foram feitas para ser síntese e falharam como síntese: corpos compostos de partes incompatíveis, escritos para guerra e incapazes de compreender paz como destino.
 
 Com a nova guerra se aproximando, começam a despertar no fundo do mundo.
 
@@ -1330,7 +1330,7 @@ Os reis humanos responderam com muro.
 
 Toques de recolher lunares foram decretados. Janelas voltadas para a Lua receberam tábuas ou tecidos bentos. Ninguém podia transportar cadáver depois do crepúsculo. Ninguém podia dar abrigo a estrangeiro sem registro de sangue. Mulheres grávidas em certas regiões dormiam em porões durante fases vermelhas. Crianças nascidas sob halo lunar eram levadas aos templos para observação de três noites. Mercados fechavam antes que a luz tocasse as bancas de carne.
 
-A Ordem da Aurora respondeu com memória.
+A Ordem Branca respondeu com memória.
 
 Enquanto o povo queimava suspeitos e a Igreja elevava relíquias, a Ordem descia aos arquivos. Abria cofres. Comparava mapas. Deslacrava protocolos. Reaprendia os nomes das coisas que havia feito para vencer a última vez. A cada nova vila perdida, ficava mais fácil dizer que a inocência não sobrevivia a guerras de espécie. A cada nova criatura vista, ficava mais fácil afirmar que os mortos da guerra antiga talvez tivessem compreendido melhor o mundo.
 
@@ -1342,7 +1342,7 @@ Os métodos já estavam guardados.
 
 A frase que percorreu os corredores altos, nunca dita diante do povo, era simples:
 
-> “A Aurora não precisa ser pura. Precisa amanhecer.”
+> “A Ordem Branca não precisa ser inocente. Precisa sobreviver ao escuro.”
 
 Foi assim que a velha máquina começou a acordar dentro da nova crise.
 
@@ -1452,7 +1452,7 @@ Nos lugares onde o Ofício chegava tarde, onde vampiros antigos não conseguiam 
 
 Uma vila de pescadores passou a deixar tigelas de leite e sal na margem do rio em troca de cadáveres devolvidos antes que se erguessem como mortos errantes. O espírito do rio não amava humanos. Apenas odiava que jogassem corpos em suas águas sem nome.
 
-Um mosteiro pequeno, longe das capitais, escondia mestiços no porão superior enquanto, no porão inferior, mantinha adormecido algo que a Aurora esquecera de alimentar. As freiras rezavam para os dois lados da pedra: pelos escondidos acima e pelo monstro abaixo, porque ambos poderiam matar se fossem esquecidos.
+Um mosteiro pequeno, longe das capitais, escondia mestiços no porão superior enquanto, no porão inferior, mantinha adormecido algo que a Ordem Branca esquecera de alimentar. As freiras rezavam para os dois lados da pedra: pelos escondidos acima e pelo monstro abaixo, porque ambos poderiam matar se fossem esquecidos.
 
 Uma vampira antiga tomou uma aldeia sem derramar sangue. Organizou vigias, espantou bestas de guerra e exigiu tributo mensal moderado. Muitos camponeses odiaram a palavra tributo. Muitos aceitaram mesmo assim, porque a alternativa era esperar o Ofício chegar com fogo ou a floresta chegar com dentes. A velha noite voltava a provar sua obscenidade: podia proteger enquanto possuía.
 
@@ -1543,13 +1543,13 @@ Os reis não percebem isso no início. Entram em sua garganta como se entrassem 
 
 Os reis falavam com sangue real puro.
 
-Severin fala com Sangue Soberano.
+Severin fala com Sangue Fundador.
 
 Por isso a mesma sentença muda ao atravessá-lo. Um comando criado para matar pode sair como convocação. Uma palavra feita para acorrentar pode forçar a criatura a lembrar o primeiro elo. Um nome verdadeiro usado antes como arma pode abrir a ferida moral do pacto em vez de apenas esmagar o corpo. A língua régia, na boca de Severin, deixa de ser só instrumento de domínio. Torna-se também testemunha.
 
 Isso enfurece os reis.
 
-Um rei pode tentar executar uma criatura que traiu a coroa. A frase sobe perfeita, fria, completa. Severin sente o formato dela nos dentes. Mas, ao sair, o Sangue Soberano a atravessa com humanidade, morte recente, culpa, bastardia e vontade própria. A criatura não morre. Cai de joelhos, vomita sangue escuro e lembra em voz alta a verdade que a sentença antiga apagou.
+Um rei pode tentar executar uma criatura que traiu a coroa. A frase sobe perfeita, fria, completa. Severin sente o formato dela nos dentes. Mas, ao sair, o Sangue Fundador a atravessa com humanidade, morte recente, culpa, bastardia e vontade própria. A criatura não morre. Cai de joelhos, vomita sangue escuro e lembra em voz alta a verdade que a sentença antiga apagou.
 
 A língua era dos reis.
 
@@ -1632,7 +1632,7 @@ Mais livre.
 
 ---
 
-## PARTE III — Camada 3: Verdade dinástica e sangue soberano
+## PARTE III — Camada 3: Verdade dinástica e sangue fundador
 
 ### 3. O mundo antes do retorno
 
@@ -1660,7 +1660,7 @@ A quinta não seria apenas mais uma engrenagem. Seria a coroa da máquina, o eix
 
 A guerra começou durante a formação dessa quinta nação.
 
-Os humanos não esperaram que Sângelună terminasse de erguer seu castelo, consolidar sua corte e assumir o comando da Máquina do Sangue. Agiram antes do nascimento completo. Para a Igreja, impediram a vinda do Anticristo. Para a Ordem da Aurora, impediram que as quatro nações rivais se tornassem uma estrutura única, autossustentável e coordenada.
+Os humanos não esperaram que Sângelună terminasse de erguer seu castelo, consolidar sua corte e assumir o comando da Máquina do Sangue. Agiram antes do nascimento completo. Para a Igreja, impediram a vinda do Anticristo. Para a Ordem Branca, impediram que as quatro nações rivais se tornassem uma estrutura única, autossustentável e coordenada.
 
 A primeira grande arma dessa guerra não foi uma espada consagrada.
 
@@ -1922,11 +1922,11 @@ Viu cinco pontas sobre a terra. Viu uma nação de sangue surgindo no lugar onde
 
 Nos sermões secretos, o Pentaculum Lunae tornou-se **Sigillum Antichristi**, o Selo do Anticristo.
 
-A frase que circulou entre bispos, reis e juramentados da Aurora era simples:
+A frase que circulou entre bispos, reis e juramentados da Ordem Branca era simples:
 
 > “Quando a quinta ponta fechar a estrela, a Terra deixará de pertencer aos homens.”
 
-A Ordem da Aurora usava palavras menos inflamadas, mas temia a mesma coisa. Para seus estrategistas, se Sângelună terminasse de nascer, os humanos não enfrentariam quatro nações rivais. Enfrentariam uma máquina de guerra autossustentada, alimentada, armada, informada, abastecida e coroada por uma quinta jurisdição.
+A Ordem Branca usava palavras menos inflamadas, mas temia a mesma coisa. Para seus estrategistas, se Sângelună terminasse de nascer, os humanos não enfrentariam quatro nações rivais. Enfrentariam uma máquina de guerra autossustentada, alimentada, armada, informada, abastecida e coroada por uma quinta jurisdição.
 
 A Igreja ofereceu o apocalipse.
 
@@ -2371,11 +2371,11 @@ E falhou.
 
 Funcionou porque os ossos reconheceram a linhagem. Falhou porque o sangue não era puro. Funcionou porque os selos se romperam. Falhou porque a coroa não encontrou um rei antigo. Funcionou porque os mortos voltaram. Falhou porque a soberania nasceu em alguém que não queria governar.
 
-Da falha nasceu o Sangue Soberano.
+Da falha nasceu o Sangue Fundador.
 
 Da mestiçagem nasceu o adiamento.
 
-Se o rito tivesse recebido sangue puro, a restauração poderia ter sido perfeita. Uma coroa pura teria chamado uma resposta humana igualmente absoluta: arquivos reabertos, Ordem da Aurora reativada, guerra total, purificação total, noite contra luz, luz contra noite, sem terceiro caminho. O mundo teria marchado sem desvio para a Umbra Indistincta.
+Se o rito tivesse recebido sangue puro, a restauração poderia ter sido perfeita. Uma coroa pura teria chamado uma resposta humana igualmente absoluta: arquivos reabertos, Ordem Branca reativada, guerra total, purificação total, noite contra luz, luz contra noite, sem terceiro caminho. O mundo teria marchado sem desvio para a Umbra Indistincta.
 
 Severin não impediu o apocalipse.
 
@@ -2473,7 +2473,7 @@ O eclipse devolve aos vivos a lembrança do que fizeram para continuar vivos.
 
 > **Quando os homens cobriram a Lua, a noite sangrou. Quando a Lua cobriu os homens, eles abriram os arquivos da própria monstruosidade.**
 
-> **A Lua Ferida devolveu os mortos. A Sombra da Aurora devolveu aos vivos a lembrança do que fizeram para continuar vivos.**
+> **A Lua Ferida devolveu os mortos. A Sombra Branca devolveu aos vivos a lembrança do que fizeram para continuar vivos.**
 
 ### 20B. A Luna Vulnata
 
@@ -2574,7 +2574,7 @@ O herdeiro está instável. O corpo é mestiço. A mente está quebrada. A coroa
 
 Essa é a mentira dos reis.
 
-Eles não compreendem que a maldição não os restaurou como senhores. A maldição os fez passar pelo sangue de Severin. Os ossos deram legitimidade, memória e peso, mas o Sangue Soberano nasceu depois deles, atravessando-os e ultrapassando-os. Os reis tinham precedência histórica. Severin possui precedência ontológica. Vieram antes dele; dentro dele, porém, são matéria herdada, não vontade dominante.
+Eles não compreendem que a maldição não os restaurou como senhores. A maldição os fez passar pelo sangue de Severin. Os ossos deram legitimidade, memória e peso, mas o Sangue Fundador nasceu depois deles, atravessando-os e ultrapassando-os. Os reis tinham precedência histórica. Severin possui precedência ontológica. Vieram antes dele; dentro dele, porém, são matéria herdada, não vontade dominante.
 
 Os reis não sabem disso.
 
@@ -2705,7 +2705,7 @@ Severin carrega ambos como memória.
 
 ---
 
-### 27. O Sangue Soberano
+### 27. O Sangue Fundador
 
 Antes de morrer, Severin era sangue misto: humano e vampírico. Para sua família, isso era vergonha. Para os humanos, era corrupção. Para os vampiros puros, seria bastardização.
 
@@ -2721,9 +2721,9 @@ Não lava dele o humano.
 
 Não completa nele um vampiro antigo.
 
-Ela cria uma terceira coisa: **Sangue Soberano**.
+Ela cria uma terceira coisa: **Sangue Fundador**.
 
-O Sangue Soberano não é uma mistura suja. É uma síntese impossível. Ele contém o que humanos e vampiros consideravam incompatível e, por isso mesmo, ultrapassa os dois. Não é superior por pureza, mas por precedência. Seu corpo passa a carregar um sangue que o sangue humano e o sangue vampírico reconhecem como forma maior de si mesmos.
+O Sangue Fundador não é uma mistura suja. É uma síntese impossível. Ele contém o que humanos e vampiros consideravam incompatível e, por isso mesmo, ultrapassa os dois. Não é superior por pureza, mas por precedência. Seu corpo passa a carregar um sangue que o sangue humano e o sangue vampírico reconhecem como forma maior de si mesmos.
 
 Essa é a diferença fundamental entre Severin e os reis antigos.
 
@@ -2741,21 +2741,21 @@ Ao sangue.
 
 Mas soberania não significa estabilidade.
 
-O Sangue Soberano obedece a leis que Severin descobre com dor.
+O Sangue Fundador obedece a leis que Severin descobre com dor.
 
 **A lei do corpo:** sangue usado é sangue perdido. Mesmo quando retorna, cobra frio, sede, tremor, fome, confusão ou colapso. O corpo não aceita que um rei gaste vida sem dívida.
 
-**A lei do coração:** o Sangue Soberano não nasce nas veias. As veias apenas o conduzem. A fonte é o Coração Criador, o órgão impossível que voltou a bater quando o coração morto de Severin recebeu, através dos ossos reais, o pulso interrompido dos últimos reis.
+**A lei do coração:** o Sangue Fundador não nasce nas veias. As veias apenas o conduzem. A fonte é o Coração Criador, o órgão impossível que voltou a bater quando o coração morto de Severin recebeu, através dos ossos reais, o pulso interrompido dos últimos reis.
 
-**A lei da origem:** só Severin produz Sangue Soberano pleno. Outros corpos podem carregá-lo por instantes, adoecer com seu Eco ou apodrecer tentando imitá-lo. Nenhum outro corpo possui o batimento capaz de fabricar a soberania.
+**A lei da origem:** só Severin produz Sangue Fundador pleno. Outros corpos podem carregá-lo por instantes, adoecer com seu Eco ou apodrecer tentando imitá-lo. Nenhum outro corpo possui o batimento capaz de fabricar a soberania.
 
 **A lei da intenção:** o sangue segue a vontade de Severin antes de seguir a forma do rito. Quando enviado para curar, cura. Quando enviado para ferir, fere. Quando enviado para selar, sela. Mas o sangue não distingue bondade de posse; distingue comando, medo, desejo e necessidade. Uma intenção contaminada por culpa ou ódio pode transformar misericórdia em invasão.
 
 **A lei do limiar:** sem sangue exposto, a influência é pressão. Com sangue exposto, torna-se intervenção. Com sangue misturado, torna-se vínculo. Com sangue bebido, torna-se memória. O Eco não nasce por mancha ou toque externo. Precisa que o sangue atravesse uma fronteira: ferida, boca, veia, ventre, pacto ou rito.
 
-**A lei do retorno:** todo Sangue Soberano derramado conserva memória da fonte. Enquanto não for metabolizado, destruído por rito ou degradado além do limiar, pode ser chamado de volta pelo Coração Criador.
+**A lei do retorno:** todo Sangue Fundador derramado conserva memória da fonte. Enquanto não for metabolizado, destruído por rito ou degradado além do limiar, pode ser chamado de volta pelo Coração Criador.
 
-**A lei do resíduo:** quando o sangue retorna, nem sempre leva consigo tudo o que despertou. O corpo tocado pode guardar Eco Sanguíneo: não o sangue soberano em si, mas a lembrança biológica de ter sido atravessado por ele.
+**A lei do resíduo:** quando o sangue retorna, nem sempre leva consigo tudo o que despertou. O corpo tocado pode guardar Eco Sanguíneo: não o sangue fundador em si, mas a lembrança biológica de ter sido atravessado por ele.
 
 **A lei do rito:** autoridade não é completa sem testemunha. O sangue pode reconhecer Severin sozinho na escuridão, mas o mundo só se dobra quando alguém vê, nomeia, teme ou aceita.
 
@@ -2763,7 +2763,7 @@ O Sangue Soberano obedece a leis que Severin descobre com dor.
 
 **A lei da ferida:** culpa, vergonha e medo distorcem o comando. Quando Severin usa o poder em pânico, o sangue não entende misericórdia com clareza. Entende sobrevivência.
 
-Assim, o Sangue Soberano nunca é apenas dom.
+Assim, o Sangue Fundador nunca é apenas dom.
 
 É trono líquido.
 
@@ -2773,7 +2773,7 @@ Essa soberania é uma das maiores ameaças políticas da história. Para os huma
 
 ### 27A. O Eco Sanguíneo
 
-O Sangue Soberano não existe em Severin como vinho dentro de uma taça. Ele existe porque Severin existe. Nasceu de seu corpo morto, de sua linhagem mestiça, de sua culpa, dos ossos reais e da maldição que tentou restaurar uma pureza que já não podia voltar. Por isso, fora dele, não encontra repouso.
+O Sangue Fundador não existe em Severin como vinho dentro de uma taça. Ele existe porque Severin existe. Nasceu de seu corpo morto, de sua linhagem mestiça, de sua culpa, dos ossos reais e da maldição que tentou restaurar uma pureza que já não podia voltar. Por isso, fora dele, não encontra repouso.
 
 Outros podem tocar seu sangue. Podem bebê-lo, roubá-lo, recolhê-lo em frascos, misturá-lo a ritos, costurá-lo em feridas ou tentar enxertá-lo em veias nobres. Nada disso cria outro soberano.
 
@@ -2781,11 +2781,11 @@ A soberania não se transplanta.
 
 No corpo de Severin, o sangue é lei viva. Fora dele, é chamado, dívida, ferida ou eco.
 
-Quando derramado, o Sangue Soberano procura retorno. Uma gota sobre pedra pode mover-se contra a inclinação do chão, lenta como animal ferido. Um fio preso em tecido pode permanecer úmido por dias, escurecendo a fibra ao redor como raiz. Sangue recolhido em vidro pode bater contra as paredes internas do frasco em ritmo pequeno demais para ser coração e insistente demais para ser acaso. Se o recipiente for selado, o vidro pode rachar de dentro para fora. Se for santificado, o sangue coagula em símbolos incompletos. Se for esquecido, apodrece tudo ao redor, mas não seca como deveria.
+Quando derramado, o Sangue Fundador procura retorno. Uma gota sobre pedra pode mover-se contra a inclinação do chão, lenta como animal ferido. Um fio preso em tecido pode permanecer úmido por dias, escurecendo a fibra ao redor como raiz. Sangue recolhido em vidro pode bater contra as paredes internas do frasco em ritmo pequeno demais para ser coração e insistente demais para ser acaso. Se o recipiente for selado, o vidro pode rachar de dentro para fora. Se for santificado, o sangue coagula em símbolos incompletos. Se for esquecido, apodrece tudo ao redor, mas não seca como deveria.
 
-Todo sangue soberano derramado sabe de onde saiu.
+Todo sangue fundador derramado sabe de onde saiu.
 
-Nem todo contato gera Eco. Sangue na pele, na roupa, na lâmina ou na lama pode assustar, queimar, chamar ou tentar regressar, mas permanece fora. Para marcar outro corpo, precisa cruzar um limiar. Precisa entrar por ferida aberta, boca, veia, ventre, pacto, enxerto ou rito. O Sangue Soberano não contamina como febre comum. Ele invade como decreto.
+Nem todo contato gera Eco. Sangue na pele, na roupa, na lâmina ou na lama pode assustar, queimar, chamar ou tentar regressar, mas permanece fora. Para marcar outro corpo, precisa cruzar um limiar. Precisa entrar por ferida aberta, boca, veia, ventre, pacto, enxerto ou rito. O Sangue Fundador não contamina como febre comum. Ele invade como decreto.
 
 Por isso os estudiosos dividem o sangue fora de Severin em quatro estados. O **Sangue Derramado Livre** repousa sobre chão, pedra, barro, metal, tecido, neve ou osso; conserva vínculo forte com a fonte e pode ser chamado de volta. O **Sangue Derramado Contido** está preso em frascos, bacias, taças ou instrumentos; ainda escuta o coração de Severin, mas resiste por causa do recipiente ou do rito. O **Sangue em Limiar** já tocou uma ferida, uma boca ou uma veia alheia, mas ainda não foi assimilado; pode ser recolhido com grande custo, às vezes arrancando dor, febre ou colapso do corpo tocado. O **Sangue Convertido em Eco** já não retorna como líquido simples. Tornou-se cicatriz de passagem.
 
@@ -2801,7 +2801,7 @@ Quando entra em outro corpo, também não se mistura como sangue comum. Não se 
 
 Dessa passagem nasce o **Eco Sanguíneo**.
 
-O Eco Sanguíneo é a sombra do Sangue Soberano em outro corpo. Não concede trono. Não produz herdeiro. Não duplica Severin. Dá apenas uma reverberação inferior, instável e perigosa daquilo que nele existe de modo pleno.
+O Eco Sanguíneo é a sombra do Sangue Fundador em outro corpo. Não concede trono. Não produz herdeiro. Não duplica Severin. Dá apenas uma reverberação inferior, instável e perigosa daquilo que nele existe de modo pleno.
 
 Um Primeiro Eco pode surgir quando o sangue de Severin entra diretamente em alguém por ferida, bebida, transfusão, rito ou cura profunda. Nem sempre surge. Feridas pequenas podem fechar sem deixar nada além de medo. Mas quando o sangue precisa atravessar fundo demais — reconstruir órgão, expulsar veneno ritual, impedir morte, quebrar maldição ou salvar alguém contra a própria falência do corpo — algo da passagem fica. O corpo tocado pode sentir criaturas antigas, resistir por instantes a certos selos, abrir mecanismos menores, sobreviver a venenos que deveriam matá-lo ou ouvir ao longe o Pulso do Trono como batida subterrânea. Mas junto vêm febre, sonhos com corredores que nunca viu, dor nas veias, fome inadequada e, quase sempre, uma resposta involuntária à presença de Severin.
 
@@ -2819,9 +2819,9 @@ Vampiros puros sofrem a humilhação mais profunda. O sangue deles pode se forta
 
 Criaturas pactuadas recebem o Eco como faca de dois gumes. Podem ganhar força, romper selos menores ou recuperar nomes esquecidos. Mas cada nome recuperado também se torna mais audível para Severin. Aquilo que bebe dele carrega uma trilha de volta.
 
-Nos mortos, o Eco não restaura vida. Ele convoca encerramento. Um revenant pode ganhar fala por alguns minutos, lembrar quem o enterrou errado ou encarar a dívida que o mantém andando. Depois, o sangue soberano tenta abandonar o cadáver, porque mesmo seu eco sabe que aquele corpo já não é casa.
+Nos mortos, o Eco não restaura vida. Ele convoca encerramento. Um revenant pode ganhar fala por alguns minutos, lembrar quem o enterrou errado ou encarar a dívida que o mantém andando. Depois, o sangue fundador tenta abandonar o cadáver, porque mesmo seu eco sabe que aquele corpo já não é casa.
 
-Por isso o Sangue Soberano é a substância mais cobiçada e mais inútil do mundo. Pode abrir portas, curar, corromper, marcar, fortalecer, enlouquecer e denunciar. Mas não pode fabricar outro Severin.
+Por isso o Sangue Fundador é a substância mais cobiçada e mais inútil do mundo. Pode abrir portas, curar, corromper, marcar, fortalecer, enlouquecer e denunciar. Mas não pode fabricar outro Severin.
 
 Soberania roubada não reina.
 
@@ -2835,7 +2835,7 @@ Os primeiros Ecos não nascem como estratégia.
 
 Nascem como consequência.
 
-Severin devolve nomes a um registro, fecha uma veia que deveria esvaziar uma criança, impede que um corpo marcado pela taça seja levado para contenção, toca sangue alheio com intenção suficiente para salvar e dor suficiente para não saber exatamente o que deixou para trás. O Sangue Soberano visita, cumpre, retorna quando pode. Mas nem todo corpo esquece a passagem.
+Severin devolve nomes a um registro, fecha uma veia que deveria esvaziar uma criança, impede que um corpo marcado pela taça seja levado para contenção, toca sangue alheio com intenção suficiente para salvar e dor suficiente para não saber exatamente o que deixou para trás. O Sangue Fundador visita, cumpre, retorna quando pode. Mas nem todo corpo esquece a passagem.
 
 Os salvos começam a carregar resíduos.
 
@@ -2847,7 +2847,7 @@ Vê muitos focos.
 
 Não vê a fonte.
 
-Os relatórios começam a se contradizer. Uma menina marcada em um portão sonha com ruínas. Um velho de outra estrada sangra pelo nariz quando um documento antigo é aberto. Uma mulher cujo nome foi corrigido no livro sobrevive a veneno fraco de linhageiro. Um rapaz que recebeu sangue em ferida aberta sente uma batida subterrânea quando passa perto de muralhas antigas. Nenhum deles produz Sangue Soberano. Nenhum deles chama a Maré de Retorno. Nenhum deles abre a coroa. Mas todos carregam, de modo inferior e doente, a lembrança biológica de terem sido atravessados por uma autoridade que não nasceu neles.
+Os relatórios começam a se contradizer. Uma menina marcada em um portão sonha com ruínas. Um velho de outra estrada sangra pelo nariz quando um documento antigo é aberto. Uma mulher cujo nome foi corrigido no livro sobrevive a veneno fraco de linhageiro. Um rapaz que recebeu sangue em ferida aberta sente uma batida subterrânea quando passa perto de muralhas antigas. Nenhum deles produz Sangue Fundador. Nenhum deles chama a Maré de Retorno. Nenhum deles abre a coroa. Mas todos carregam, de modo inferior e doente, a lembrança biológica de terem sido atravessados por uma autoridade que não nasceu neles.
 
 Para a máquina humana, isso cria ruído.
 
@@ -2975,7 +2975,7 @@ A vergonha desse erro não extingue a Mesa dos Nomes. Dá-lhe sua cláusula mais
 
 ### 27B. O Coração Criador
 
-O Sangue Soberano não nasce das veias.
+O Sangue Fundador não nasce das veias.
 
 As veias apenas o conduzem.
 
@@ -2987,7 +2987,7 @@ O primeiro batimento de Severin depois da morte não foi somente seu.
 
 Foi o coração bastardo de um homem que desejara desaparecer recebendo, através dos ossos, o eco interrompido dos reis que se recusavam a terminar. A maldição tentou restaurar a coroa em um descendente puro. Em vez disso, soldou ao coração de Severin uma síntese impossível: carne humana, herança vampírica, morte recente, culpa viva, ossos reais e o Pulso do Trono.
 
-Nasceu assim o **Coração Criador do Sangue Soberano**.
+Nasceu assim o **Coração Criador do Sangue Fundador**.
 
 Não é uma relíquia dentro do peito. Não é um segundo coração dos reis. Não é um órgão que possa ser separado de Severin e usado como máquina. É o trono de carne onde a soberania se torna sangue. Só ele fabrica a substância que depois corre, cura, fere, retorna ou deixa Eco. Só ele imprime intenção no sangue antes que o sangue toque o mundo.
 
@@ -2995,7 +2995,7 @@ Os reis antigos tinham ossos.
 
 Severin tem o coração.
 
-Essa diferença muda tudo. Os reis podem oferecer memória, língua, técnica, rancor e sentença. Podem tentar tomar a mão, a postura, a boca e o julgamento. Mas não podem produzir Sangue Soberano sem o batimento de Severin. Dentro dele, dependem da fonte que desprezam. Acham que o bastardo é recipiente. Não compreendem que seus próprios restos só voltam a ter pulso porque o coração dele os obriga a caber em uma vida que não lhes pertence.
+Essa diferença muda tudo. Os reis podem oferecer memória, língua, técnica, rancor e sentença. Podem tentar tomar a mão, a postura, a boca e o julgamento. Mas não podem produzir Sangue Fundador sem o batimento de Severin. Dentro dele, dependem da fonte que desprezam. Acham que o bastardo é recipiente. Não compreendem que seus próprios restos só voltam a ter pulso porque o coração dele os obriga a caber em uma vida que não lhes pertence.
 
 Quando os reis tentam dominar Severin, o coração se torna campo de batalha. Um rei guerreiro pode fazer o pulso bater como tambor de marcha. Um rei juiz pode torná-lo lento, frio e cerimonial. Um rei tirano pode pesá-lo como porta de ferro fechando. Quando Severin retoma a própria vontade, o coração não volta a ser humano comum. Cria um terceiro ritmo, irregular e soberano, que criaturas antigas podem sentir no ar antes mesmo de ver seu rosto.
 
@@ -3019,7 +3019,7 @@ Os vampiros puros reagirão com outra forma de horror. A coroa antiga, que dever
 
 Mas o coração não obedece a etiqueta.
 
-O Coração Criador só produz Sangue Soberano pleno enquanto pulsa dentro da vontade viva de Severin. Se arrancado, poderia bater por instantes sob rito terrível, talvez tempo suficiente para causar catástrofe, mas o sangue nascido dele sem Severin seria violento, degradado e sem lei íntima. Não fundaria outro rei. Seria ruína cardíaca.
+O Coração Criador só produz Sangue Fundador pleno enquanto pulsa dentro da vontade viva de Severin. Se arrancado, poderia bater por instantes sob rito terrível, talvez tempo suficiente para causar catástrofe, mas o sangue nascido dele sem Severin seria violento, degradado e sem lei íntima. Não fundaria outro rei. Seria ruína cardíaca.
 
 O sangue é a manifestação.
 
@@ -3033,13 +3033,223 @@ Os reis são memória.
 
 ---
 
+
+### 27BA. A Sincronia Régia
+
+A **Sincronia Régia** é a capacidade do Coração Criador de alterar temporariamente sua cadência para acessar, ordenar e amplificar matrizes régias preservadas no Sangue Fundador.
+
+O sangue de Severin não carrega apenas vida. Carrega história, memória, derrota, pacto, gesto, língua, instinto político, trauma dinástico e fragmentos da autoridade dos cinco Reis Mortos. Cada rei deixou no sangue uma forma de governar o mundo: segredo, crescimento, abundância, redução e coroa. Essas formas não são personalidades completas esperando assumir o corpo de Severin. São padrões de soberania, modos antigos de perceber, reagir e decidir.
+
+Na Sincronia, o Coração Criador não entrega Severin aos reis.
+
+Faz o contrário.
+
+Obriga o sangue herdado dos reis a bater dentro de uma cadência nova, subordinada ao corpo vivo de Severin.
+
+> **Os Reis Mortos oferecem matriz.  
+> O Coração Criador oferece comando.  
+> Severin oferece decisão.**
+
+Quando Severin precisa de diplomacia, seu coração pode buscar a cadência de **Maelórian Plenavyr**, o rei da Lua Cheia, cuja memória entende abundância, concessão, tributo, hospitalidade, preservação de recursos e manipulação elegante de dependências.
+
+Quando precisa ocultar algo, pode ressoar com **Ildráven Nóvralith**, o rei da Lua Nova, cuja matriz compreende segredo, pacto, silêncio, leitura de mentiras e vitória antes da lâmina.
+
+Quando precisa resistir, conter ou amputar uma ameaça, pode tocar **Ghordrath Minguarvex**, o rei da Lua Minguante, cuja lógica reduz problemas à sua função mais dura.
+
+Quando precisa comandar guerra, tropa ou crescimento de força, pode ser puxado pela cadência de **Ravhast Crescoryn**, o rei da Lua Crescente.
+
+Quando precisa sustentar autoridade, nomear, unificar ou impor presença de coroa, a cadência mais perigosa é a de **Vaelrûn Sângelună**.
+
+A Sincronia não torna Severin melhor de modo limpo.
+
+Torna-o mais competente dentro de uma forma antiga de poder.
+
+E toda forma antiga vem contaminada.
+
+A diplomacia de Maelórian pode fazer Severin enxergar pessoas como recursos preserváveis. O segredo de Ildráven pode fazer a mentira parecer prudência. A força de Ravhast pode chamar compaixão de desperdício. A redução de Ghordrath pode fazer a execução parecer economia. A coroa de Vaelrûn pode oferecer a Severin aquilo que ele mais teme desejar: sentido.
+
+Existem três estágios principais.
+
+Na **Sincronia Reflexa**, o coração reage antes da mente. Severin entra em uma situação e, diante da pressão, o Sangue Fundador escolhe uma matriz útil. Ele percebe tarde demais que falou com uma voz mais antiga, calculou algo que não sabia calcular ou fez um gesto de rei morto.
+
+Na **Sincronia Guiada**, Severin aprende a chamar uma função, não um rei inteiro. Ele não convoca Maelórian, Ildráven, Ravhast, Ghordrath ou Vaelrûn como senhores. Procura uma necessidade: negociar sem ceder o centro, esconder sem mentir completamente, conter sem apagar, comandar sem transformar gente em matéria. O coração responde com uma cadência parcial.
+
+Na **Sincronia Soberana**, Severin já não imita nenhum rei. Usa fragmentos de todos, corta o excesso, rejeita a deformação moral e transforma a matriz herdada em decisão própria. Nesse estágio, a Sincronia deixa de ser empréstimo e passa a ser tradução.
+
+> **A Sincronia Régia não ressuscita os reis em Severin.  
+> Ela ensina Severin a fazer os reis baterem no ritmo dele.**
+
+A Sincronia força o Coração Criador a sustentar cadências que nasceram em corpos, épocas e leis que não pertencem a Severin. Por isso, nunca é gratuita. Depois de uma Sincronia forte, Severin pode sentir dor no peito, arritmia, frio nos dedos, fome violenta, sangramento escuro pela boca ou pelo nariz, tremores, perda de memória recente ou invasão de lembranças régias.
+
+Há também custo moral.
+
+Cada Sincronia deixa resíduo. Depois de usar Maelórian, Severin pode continuar pensando em pessoas como fontes, reservas, ciclos e perdas aceitáveis. Depois de usar Ghordrath, pode sentir impaciência diante de qualquer solução que não corte o problema pela raiz. Depois de usar Ildráven, pode mentir com precisão demais e só se envergonhar depois. Depois de usar Ravhast, pode olhar aliados como formação de guerra. Depois de usar Vaelrûn, pode confundir autoridade com destino.
+
+O risco maior não é possessão explícita.
+
+É competência.
+
+Os Reis Mortos não precisam gritar dentro dele. Basta oferecerem a resposta perfeita. A solução rápida. A sentença limpa. O gesto que salva cem pessoas e apaga uma testemunha. A Sincronia é perigosa porque funciona.
+
+Por isso Severin precisará aprender uma regra íntima:
+
+> **Quando uma resposta vem perfeita demais, talvez não seja dele.**
+
+### 27BB. O Arquisangue
+
+O **Arquisangue** é o Sangue Fundador em estado fundacional.
+
+Ele não existia antes de Severin. Nenhum vampiro antigo o nomeou, porque nenhum vampiro antigo podia produzi-lo. Os reis antigos tinham castelos como corpos políticos, câmaras de sangue, pactos arquitetônicos, muralhas ritualizadas e tronos capazes de sustentar autoridade. Mas seus sangues não criavam arquitetura nova. Eles governavam estruturas que já reconheciam a coroa.
+
+Severin é diferente.
+
+Seu Coração Criador não apenas sustenta sangue. Fabrica soberania viva. Quando essa soberania entra em estado fundacional, o sangue deixa de agir apenas como fluido, arma, cura ou vínculo. Passa a agir como princípio arquitetônico.
+
+Isso é o Arquisangue.
+
+Ele não move pedra por força bruta.
+
+Invade a estrutura e pergunta ao mundo mineral:
+
+> **O que você era antes de ser ruína?**
+
+O Arquisangue entra em rachaduras, fundações, runas, metais, ossos enterrados, cisternas, portas, corredores, salões e câmaras de juramento. Procura vestígios de função. Onde encontra memória arquitetônica, estabelece circulação. Onde encontra circulação, impõe ritmo. Onde impõe ritmo, a estrutura começa a responder ao Coração Criador.
+
+> **O Arquisangue não constrói como pedreiro.  
+> Funda como coração.**
+
+Pedras se procuram como ossos. Portões se fecham como mandíbulas. Escadarias reaparecem como veias abertas. Muralhas se recompõem como pele cicatrizando mal. Runas acendem como nervos. Torres não sobem simplesmente; lembram a obrigação de vigiar. Cisternas não enchem apenas de água; voltam a circular memória, sangue e comando.
+
+O Arquisangue só funciona plenamente em estruturas com vínculo soberano ou ritual: castelos das antigas nações vampíricas, câmaras juramentadas, fortalezas de sangue, criptas régias, muralhas vinculadas a pacto, fundações da Machina Cruoris ou lugares onde o corpo político da antiga noite deixou marca real.
+
+Ele não permite que Severin controle qualquer casa, ponte ou pedra comum.
+
+Severin não controla matéria.
+
+Desperta arquitetura que reconhece, ainda que de modo quebrado, uma precedência fundadora.
+
+### 27BC. Leis do Arquisangue
+
+O Sangue Fundador é a substância viva de Severin: sangue que cura, fere, sela, chama, marca, retorna e impõe precedência.
+
+O Arquisangue é um estado desse sangue.
+
+Surge quando o Coração Criador converte o Sangue Fundador em sangue de fundação, capaz de entrar na pedra e fazer arquitetura funcionar como extensão de corpo político.
+
+Todo Arquisangue é Sangue Fundador.
+
+Nem todo Sangue Fundador é Arquisangue.
+
+O Arquisangue exige três condições.
+
+A primeira é **intenção fundacional**. Severin precisa, consciente ou inconscientemente, desejar dar forma, abrigo, defesa, julgamento, contenção ou retorno a uma estrutura.
+
+A segunda é **estrutura receptiva**. A arquitetura precisa carregar algum vestígio de rito, coroa, sangue, juramento ou função antiga.
+
+A terceira é **custo de circulação**. O sangue precisa sair de Severin ou se projetar a partir dele em quantidade suficiente para estabelecer veias temporárias na pedra.
+
+O primeiro estágio é o **Reconhecimento**. A estrutura percebe Severin. Runas brilham. Portas tremem. O chão pulsa. A ruína parece escutar. Ainda não há reconstrução; há resposta.
+
+O segundo estágio é a **Infiltração**. O sangue entra nas fissuras e alcança fundações, selos, ossos, metais e câmaras. Não se espalha como água. Espalha-se como sistema nervoso procurando membros perdidos.
+
+O terceiro estágio é a **Vascularização**. A estrutura ganha circulação. O castelo deixa de ser bloco morto e passa a responder por zonas: portão, muralha, cisterna, salão, cripta, torre, arquivo. Cada área acorda como órgão.
+
+O quarto estágio é a **Recomposição**. Pedras se erguem, ferro se endireita, madeira morta range, escadarias surgem, salões se fecham contra a chuva, brasões sangram nas paredes. A estrutura não volta limpa. Volta costurada.
+
+O quinto estágio é o **Mandato de Pedra**. Severin não apenas reergue uma parte da arquitetura, mas impõe função. Uma muralha protege. Um portão recusa entrada. Uma sala exige testemunha. Uma câmara sela. Um corredor conduz apenas quem o sangue permite.
+
+O estágio final é o **Retorno ou Colapso**. O Arquisangue precisa retornar ao Coração Criador ou degradar. Se Severin sustenta a estrutura além do limite, o castelo começa a beber dele. Se recolhe cedo demais, a arquitetura pode ruir, dormir ou permanecer deformada.
+
+O Arquisangue é mais caro que a Sincronia Régia porque exige que Severin estenda sua soberania para fora do corpo.
+
+Ele pode perder sangue, calor, memória, equilíbrio e senso de limite corporal. Quanto maior a estrutura, maior a sensação de que seu corpo deixou de terminar na pele. Pode sentir uma torre como costela, uma muralha como braço, uma cisterna como pulmão, uma sala do trono como segundo coração.
+
+Isso é útil.
+
+E monstruoso.
+
+O risco não é apenas Severin comandar o castelo.
+
+É o castelo começar a responder como se tivesse direito sobre ele.
+
+A arquitetura antiga possui memória de função. Um castelo não quer apenas ficar de pé. Quer guardar, julgar, excluir, abrigar, vigiar, prender, coroar. Quando o Arquisangue entra nele, essas funções podem despertar antes que Severin as compreenda.
+
+Ele pode querer erguer uma muralha para proteger refugiados.
+
+O castelo pode fechar também a saída.
+
+Ele pode querer abrir um salão.
+
+O salão pode exigir juramento.
+
+Ele pode querer restaurar uma ponte.
+
+A ponte pode reconhecer antigos direitos de passagem e recusar humanos sem nome.
+
+Ele pode querer reativar uma cripta.
+
+A cripta pode chamar os mortos que ainda se consideram parte da corte.
+
+Por isso o Arquisangue não é mera restauração. É disputa de jurisdição entre Severin e a arquitetura.
+
+> **Severin dá coração à ruína.  
+> A ruína tenta lembrar a ele para que servia um coração régio.**
+
+O Arquisangue não cria castelo do nada. Precisa de fundação, memória, osso, pedra juramentada ou vestígio de corpo político.
+
+O Arquisangue não restaura pureza. Tudo que reergue volta marcado pela natureza de Severin: mestiço, ferido, novo, contraditório. Um castelo levantado por ele não será reprodução perfeita da antiga glória vampírica. Será arquitetura fundadora bastarda.
+
+O Arquisangue não apaga culpa histórica. Se uma câmara foi usada para tortura, ela pode voltar carregando ecos disso. Se uma muralha protegeu senhores que exploravam aldeias, pode resistir a ser usada como refúgio. Se um salão serviu para sentenças injustas, pode exigir que Severin o reescreva com lei nova antes de obedecer plenamente.
+
+O Arquisangue não obedece bem ao pânico. Se Severin usa esse estado dominado por culpa, medo ou ódio, a estrutura pode responder de modo brutal: trancar inocentes, esmagar inimigos rendidos, levantar espinhos de ferro, abrir fossas antigas, convocar armaduras que ele não queria despertar.
+
+A lei da ferida continua valendo.
+
+O sangue entende intenção, mas intenção ferida distorce comando.
+
+### 27BD. Relação entre Sincronia Régia e Arquisangue
+
+A Sincronia Régia é soberania voltada para dentro.
+
+O Arquisangue é soberania voltada para fora.
+
+Na Sincronia, o Coração Criador organiza o sangue dos reis dentro de Severin para acessar matrizes de poder, memória e decisão.
+
+No Arquisangue, o Coração Criador projeta o Sangue Fundador em estado fundacional para organizar arquitetura fora de Severin.
+
+Uma mexe com os reis no sangue.
+
+O outro mexe com o castelo na pedra.
+
+Mas ambos obedecem ao mesmo princípio:
+
+> **Severin não restaura o passado.  
+> Obriga o passado a passar por um coração novo.**
+
+Quando os dois mecanismos se combinam, o risco aumenta. Severin pode usar Sincronia com Vaelrûn enquanto ativa Arquisangue em uma fortaleza da Lua de Sangue. Nesse caso, castelo, coração, sangue, memória régia e arquitetura estarão alinhados. A força será imensa. O perigo também.
+
+Esse é o momento em que os Reis Mortos terão mais facilidade para tentar transformar Severin em restauração.
+
+A forma madura será outra: Severin ativar o Arquisangue sem se entregar a uma única cadência régia. Pode usar fragmentos de Sincronia, mas manter a decisão fundadora. Assim, o castelo não volta como era. Volta como aquilo que Severin está tentando se tornar.
+
+Não rei antigo.
+
+Não bastardo escondido.
+
+Não monstro classificado.
+
+Fundador de uma lei nova.
+
+> **Sincronia Régia é quando Severin aprende a fazer os reis baterem dentro dele sem ser possuído por eles.**  
+> **Arquisangue é quando Severin aprende a fazer a pedra bater fora dele sem restaurar o mundo que a pedra servia.**
+
 ### 27C. A Terceira Natureza
 
 Severin foi mestiço antes da morte.
 
 Depois do segundo nascimento, essa palavra deixa de bastar.
 
-Antes, seu sangue era humano e vampírico dividido dentro de um corpo treinado para parecer comum. Era mistura, vergonha, risco genealógico e segredo doméstico. Depois da Luna Vulnata, depois de morrer sob pedra, tocar os ossos dos reis, atravessar o Ritus Coronae Sepultae e voltar com um coração capaz de fabricar Sangue Soberano, Severin deixa de pertencer às categorias antigas.
+Antes, seu sangue era humano e vampírico dividido dentro de um corpo treinado para parecer comum. Era mistura, vergonha, risco genealógico e segredo doméstico. Depois da Luna Vulnata, depois de morrer sob pedra, tocar os ossos dos reis, atravessar o Ritus Coronae Sepultae e voltar com um coração capaz de fabricar Sangue Fundador, Severin deixa de pertencer às categorias antigas.
 
 Ele não é humano.
 
@@ -3095,7 +3305,7 @@ Será por sua definição.
 
 ### 27D. O Sangue em Luto
 
-O Sangue Soberano não é obediente por natureza fora de Severin.
+O Sangue Fundador não é obediente por natureza fora de Severin.
 
 É obediente à intenção que o Coração Criador imprime nele.
 
@@ -3133,7 +3343,7 @@ Mostram restos da família para que ele sangre por culpa.
 
 Oferecem vingança para que ele fira com intenção clara.
 
-O Sangue Soberano, quando age, carrega a forma da vontade. Uma intenção limpa é rara. Uma intenção contaminada por pânico, luto ou ódio continua sendo intenção. O sangue não pergunta se a escolha foi livre o bastante para ser justa. Ele pergunta se o coração mandou.
+O Sangue Fundador, quando age, carrega a forma da vontade. Uma intenção limpa é rara. Uma intenção contaminada por pânico, luto ou ódio continua sendo intenção. O sangue não pergunta se a escolha foi livre o bastante para ser justa. Ele pergunta se o coração mandou.
 
 Por isso Severin aprende a temer não apenas quem o corta.
 
@@ -3205,7 +3415,7 @@ A regra central é:
 
 > **Severin não controla homens nem vampiros. Controla aquilo que os mantém de pé.**
 
-O sangue humano e o sangue vampírico reagem ao Sangue Soberano como se reconhecessem uma hierarquia natural. Não é obediência consciente. É resposta biológica e mística. O corpo percebe antes da mente.
+O sangue humano e o sangue vampírico reagem ao Sangue Fundador como se reconhecessem uma hierarquia natural. Não é obediência consciente. É resposta biológica e mística. O corpo percebe antes da mente.
 
 Essa resposta não parece igual para todos.
 
@@ -3258,9 +3468,9 @@ Esse poder deve ser tratado como vantagem e ameaça. Severin pode salvar uma vid
 
 ---
 
-### 30. Custos e riscos do Sangue Soberano
+### 30. Custos e riscos do Sangue Fundador
 
-O Sangue Soberano não é uma solução simples.
+O Sangue Fundador não é uma solução simples.
 
 Usá-lo cobra preço. Às vezes o preço é físico: dor nas veias, frio, exaustão, fome, tremores, perda temporária de sentidos ou necessidade de sangue para se recompor. Às vezes é mental: vozes dos reis, lembranças que não são suas, emoções de pessoas tocadas pelo poder, ecos de medo e morte.
 
@@ -3294,12 +3504,12 @@ Os limites principais:
 - o Eco não nasce por contato externo comum, apenas quando o sangue atravessa limiar corporal ou rito;
 - sangue convertido em Eco não retorna como líquido simples, mesmo quando Severin chama;
 - a Maré de Retorno não alcança sangue velho demais, ritualmente destruído, metabolizado ou selado por contenção forte;
-- interferir no Coração Criador pode desregular a produção, o retorno e a intenção do Sangue Soberano;
+- interferir no Coração Criador pode desregular a produção, o retorno e a intenção do Sangue Fundador;
 - quanto mais longe o Eco está de Severin, mais perde autoridade e mais produz doença, dependência ou deformação.
 
 Essa última limitação é central. Severin sabe o que é ter o corpo tratado como prova de culpa. Por isso, dominar o sangue de outra pessoa não deve parecer heroico para ele. Deve parecer necessário, terrível e sempre perigoso.
 
-O Sangue Soberano também pode errar.
+O Sangue Fundador também pode errar.
 
 Pode fechar uma ferida rápido demais e prender sujeira por dentro. Pode coagular onde deveria fluir. Pode salvar um homem da hemorragia e deixá-lo com uma dor funda, como se pequenas pedras corressem nas veias. Pode expulsar veneno e levar junto calor, força e memória. Pode tentar curar um corpo que já escolheu morrer e transformá-lo em coisa presa entre leito e sepultura.
 
@@ -3321,7 +3531,7 @@ Não é uma voz dizendo “reconstrua meu reino”.
 
 Esse fenômeno pode ser chamado de **Pulso do Trono**.
 
-O Pulso do Trono nasce da combinação entre Sangue Soberano, ossos dos reis, maldição incompleta e estrutura mágica da antiga civilização vampírica. O reino antigo foi construído em torno de um rei, de uma coroa e de um castelo. Quando Severin renasce, essa estrutura tenta se reorganizar através dele.
+O Pulso do Trono nasce da combinação entre Sangue Fundador, ossos dos reis, maldição incompleta e estrutura mágica da antiga civilização vampírica. O reino antigo foi construído em torno de um rei, de uma coroa e de um castelo. Quando Severin renasce, essa estrutura tenta se reorganizar através dele.
 
 Manifestações possíveis:
 
@@ -3347,7 +3557,7 @@ Severin precisa descobrir outra leitura: talvez o reino morto não esteja pedind
 
 > **O castelo não queria apenas ser reconstruído em pedra. Queria ser reconstruído nele.**
 
-> **O Sangue Soberano não era o direito de mandar. Era a obrigação de coagular um mundo que sangrava sem se tornar a lâmina que o abriu.**
+> **O Sangue Fundador não era o direito de mandar. Era a obrigação de coagular um mundo que sangrava sem se tornar a lâmina que o abriu.**
 
 > **Os humanos ensinaram o medo a escrever. Depois chamaram os arquivos de justiça.**
 
@@ -3387,7 +3597,7 @@ Possíveis reações vampíricas:
 
 - reverência absoluta à coroa, independentemente do sangue;
 - repulsa pela humanidade dele;
-- fascínio pelo Sangue Soberano;
+- fascínio pelo Sangue Fundador;
 - medo de que a pureza vampírica tenha sido superada;
 - desejo de usá-lo como símbolo enquanto conselheiros puros governam;
 - tentativa de matá-lo antes que aprenda seu poder;
@@ -3442,7 +3652,7 @@ Os **Legitimistas da Coroa** aceitam a autoridade em Severin porque a coroa est�
 
 Os **Puristas de Sangue** consideram Severin uma aberração dinástica. O fato de um bastardo possuir precedência que o sangue puro não possui é humilhação intolerável. Podem desejar destruí-lo, purificá-lo, arrancar dele a humanidade ou deixá-lo ser quebrado pelo Ofício para depois recolher o que restar.
 
-Os **Pragmáticos de Guerra** não se importam com poesia de linhagem. Criaturas estão soltas. Demônios romperam pacto. Bestas devastam território. Se o Sangue Soberano faz monstros hesitarem, deve ser usado. Para eles, Severin é arma. Se a arma sofre, a guerra cobra preço.
+Os **Pragmáticos de Guerra** não se importam com poesia de linhagem. Criaturas estão soltas. Demônios romperam pacto. Bestas devastam território. Se o Sangue Fundador faz monstros hesitarem, deve ser usado. Para eles, Severin é arma. Se a arma sofre, a guerra cobra preço.
 
 Os **Estetas Decadentes** veem nele uma obra terrível: um rei bastardo, humano demais, possuído por memórias, sangrando soberania e vergonha. Querem observá-lo, vesti-lo, cantá-lo, talvez impedi-lo de curar rápido demais apenas para ver como sua dor altera o sangue. Não o odeiam. Isso os torna piores. Admiração também pode ser posse.
 
@@ -3519,7 +3729,7 @@ Veem como interrupção de cobrança.
 
 Para eles, reis morrem, guerras mudam, línguas apodrecem, templos são reconsagrados, arquivos queimam e herdeiros se escondem sob sobrenomes falsos. Mas cláusula é cláusula enquanto o nome verdadeiro ainda puder ser pronunciado por alguém que carregue autoridade suficiente.
 
-Quando Severin desperta com Sangue Soberano, não herda apenas memória dos reis.
+Quando Severin desperta com Sangue Fundador, não herda apenas memória dos reis.
 
 Herda atenção de credores.
 
@@ -3569,11 +3779,11 @@ Limitações importantes:
 - luz solar pode incomodá-lo progressivamente;
 - usar poder demais pode aproximá-lo dos antigos reis e enfraquecer sua identidade humana;
 - criaturas inteligentes podem resistir, negociar ou manipular a autoridade dele;
-- o Sangue Soberano não controla mentes;
+- o Sangue Fundador não controla mentes;
 - o Pulso do Trono não determina suas escolhas, apenas pressiona;
 - reconhecimento biológico não equivale a lealdade verdadeira;
-- o Sangue Soberano pleno só existe em Severin;
-- o Coração Criador é o único órgão capaz de produzir Sangue Soberano novo;
+- o Sangue Fundador pleno só existe em Severin;
+- o Coração Criador é o único órgão capaz de produzir Sangue Fundador novo;
 - fora dele, o sangue procura retorno, coagula, corrompe o recipiente ou degrada em Eco Sanguíneo;
 - o sangue segue a intenção soberana de Severin, mas intenção contaminada produz efeitos distorcidos;
 - o sangue pode visitar outro corpo para curar, ferir, selar ou chamar e depois retornar, deixando Eco apenas quando a passagem foi profunda demais;
@@ -3590,7 +3800,7 @@ A herança também segue uma lei interna que Severin só compreenderá depois de
 
 Quando os reis tentam usar sua mão, o sangue de Severin pode reagir como se duas coroas disputassem o mesmo pulso. A dor corre pelos ossos, a voz falha, gestos incompletos rasgam músculo, e por instantes ele sente o corpo tentar obedecer a uma postura para a qual nunca foi criado. Sua vontade, quando firme, não expulsa as memórias. Reordena-as.
 
-A regra mais profunda do Sangue Soberano é que os reis antigos podem estar nele, mas não acima dele.
+A regra mais profunda do Sangue Fundador é que os reis antigos podem estar nele, mas não acima dele.
 
 Entre os antigos arquivos do castelo, as regras da soberania talvez apareçam não como manual, mas como advertências gravadas em pedra:
 
@@ -3623,13 +3833,13 @@ Os mortos veem continuidade.
 
 Severin precisa descobrir que sua autoridade não vive apenas em força, mas na forma como sangue, nome, memória e testemunha se articulam quando atravessados por vontade.
 
-A primeira lei é a lei da intenção. O Sangue Soberano pleno age quando recebe forma do Coração Criador. Sangue retirado à força conserva vínculo, poder bruto e perigo, mas não carrega comando legítimo. Por isso o Sangue em Luto pode abrir, deformar, corromper ou enlouquecer, mas não fundar soberania. Quem rouba sangue rouba matéria, não decisão.
+A primeira lei é a lei da intenção. O Sangue Fundador pleno age quando recebe forma do Coração Criador. Sangue retirado à força conserva vínculo, poder bruto e perigo, mas não carrega comando legítimo. Por isso o Sangue em Luto pode abrir, deformar, corromper ou enlouquecer, mas não fundar soberania. Quem rouba sangue rouba matéria, não decisão.
 
 A segunda lei é a lei da primeira resposta. Diante de selos, nomes, pactos e relíquias, o corpo de Severin pode reagir antes da vontade. Essa reação é real. Não é necessariamente verdadeira em sentido pleno. Pode vir dos Reis Mortos, do reflexo régio, de uma condenação antiga ou de uma estrutura de poder que deseja preservar a si mesma. A primeira resposta é dado. Não é sentença.
 
 A terceira lei é a lei da resposta integrada. Memória, sangue, documento, testemunha e julgamento precisam ser cruzados quando a decisão altera vida, morte, cativeiro ou apagamento. Uma criatura pode ser culpada e ainda assim ter sido nomeada por um crime errado. Um selo pode funcionar e ainda esconder uma injustiça. Um arquivo pode mentir dizendo apenas verdades incompletas.
 
-A quarta lei é a lei da fala concluída. Uma Fala Soberana pronunciada por Severin diante de testemunha não pode ser simplesmente revogada pelos Reis Mortos. Eles podem sabotar leituras futuras, disputar cadência e oferecer soluções antigas, mas não recolher uma lei que o Sangue Soberano já colocou no mundo com forma própria.
+A quarta lei é a lei da fala concluída. Uma Fala Soberana pronunciada por Severin diante de testemunha não pode ser simplesmente revogada pelos Reis Mortos. Eles podem sabotar leituras futuras, disputar cadência e oferecer soluções antigas, mas não recolher uma lei que o Sangue Fundador já colocou no mundo com forma própria.
 
 A quinta lei é a lei da armadilha sem julgamento. Informação verdadeira usada sem discernimento pode produzir desastre. Um nome incompleto, um título de cativeiro confundido com nome verdadeiro, uma sílaba arrancada antes da vontade, uma Resposta Óssea tratada como prova final: tudo isso pode funcionar parcialmente e falhar onde mais importa.
 
@@ -3650,7 +3860,7 @@ Todas as grandes casas humanas participaram.
 
 Cada coroa enviou exércitos, sacerdotes, escribas, caçadores, médicos de sangue, cartógrafos, carrascos, monges, engenheiros de cerco e crianças que nunca voltaram para casa. Cada casa real perdeu cidades. Cada casa real queimou vilas. Cada casa real assinou algo que seus descendentes não deveriam ler.
 
-O nome público dessa antiga união foi apagado ou santificado conforme a região. Em documentos antigos, porém, aparece com nomes latinos diferentes: **Ordo Aurorae**, **Concilium Cinerum**, **Foedus Coronarum**. O povo, quando ainda lembrava alguma coisa, chamava apenas de Ordem da Aurora.
+O nome público dessa antiga união foi apagado ou santificado conforme a região. Em documentos antigos, porém, aparece com nomes latinos diferentes: **Ordo Albus**, **Concilium Cinerum**, **Foedus Coronarum**. O povo, quando ainda lembrava alguma coisa, chamava apenas de Ordem Branca.
 
 Esse nome era mentira útil.
 
@@ -3680,7 +3890,7 @@ A última guerra não terminou porque os homens foram melhores que os vampiros. 
 
 Para vencer a noite, criaram uma noite própria: feita de arquivos, fogueiras, ritos, crianças riscadas de genealogias, vilas oferecidas como isca e reis que aprenderam a assinar atrocidades com tinta limpa.
 
-Depois da vitória, a Ordem da Aurora foi dissolvida em público.
+Depois da vitória, a Ordem Branca foi dissolvida em público.
 
 Em segredo, foi dividida.
 
@@ -3702,7 +3912,7 @@ Juntos, formavam um cadáver inteiro.
 
 Chamavam esses fragmentos, nos cofres reais, de **Archiva Fracta**: os Arquivos Partidos.
 
-Alguns escribas posteriores os chamaram de **Archiva Coronarum**, os Arquivos das Coroas. Entre reis supersticiosos, havia outro nome: **Corpus Aurorae**, o Corpo da Aurora. Cada casa guardava um órgão da antiga ordem.
+Alguns escribas posteriores os chamaram de **Archiva Coronarum**, os Arquivos das Coroas. Entre reis supersticiosos, havia outro nome: **Corpus Album**, o Corpo Branco. Cada casa guardava um órgão da antiga ordem.
 
 Uma casa guardava os Olhos: mapas de espionagem, rotas de criaturas, torres de vigia, nomes de aldeias usadas como observatório e isca.
 
@@ -3732,7 +3942,7 @@ Todas sobreviveram porque alguém foi autorizado a deixar de contar certos corpo
 
 > **Cada casa guardou uma parte da vitória. Só quando reuniram os arquivos descobriram que haviam herdado um cadáver inteiro.**
 
-### 24C. A Sombra da Aurora
+### 24C. A Sombra Branca
 
 O retorno político da antiga ordem não começa com uma proclamação.
 
@@ -3744,9 +3954,9 @@ O povo chama o fenômeno de **Hora sem Sol**.
 
 Os escribas chamam de **Eclipsis Coronarum**.
 
-Os arquivos chamam de **Umbra Aurorae**: a Sombra da Aurora.
+Os arquivos chamam de **Umbra Alba**: a Sombra Branca.
 
-Durante a Sombra da Aurora, cada casa real recebe a mesma ordem, escrita por seus mortos:
+Durante a Sombra Branca, cada casa real recebe a mesma ordem, escrita por seus mortos:
 
 > **Se a noite antiga retornar, não procurem primeiro os monstros. Procurem o que fizemos para vencê-los.**
 
@@ -3762,11 +3972,11 @@ Por isso a nova crise não depende apenas dos reis.
 
 Eles podem abrir os arquivos.
 
-Podem montar o Corpus Aurorae.
+Podem montar o Corpus Album.
 
 Podem convocar o **Concilium Cinerum**, o Concílio das Cinzas.
 
-Mas não podem reativar a Ordem da Aurora sem decidir quanto da verdade será revelada ao povo que eles alegam proteger.
+Mas não podem reativar a Ordem Branca sem decidir quanto da verdade será revelada ao povo que eles alegam proteger.
 
 Alguns defenderão segredo. Dirão que o pânico mataria mais que as criaturas.
 
@@ -3782,7 +3992,7 @@ Ela salvou o mundo uma vez.
 
 E fez isso destruindo partes dele que depois fingiu nunca terem existido.
 
-A pergunta da Sombra da Aurora não é apenas se os homens podem vencer outra guerra.
+A pergunta da Sombra Branca não é apenas se os homens podem vencer outra guerra.
 
 É se uma civilização tem o direito de usar de novo uma atrocidade que a salvou uma vez.
 
@@ -3792,7 +4002,7 @@ E se o povo tem o direito de recusar essa atrocidade mesmo que a recusa possa co
 
 Quando a existência dos Arquivos Partidos começa a vazar, os reinos humanos racham antes mesmo de marchar.
 
-Os **Reativadores** defendem reabrir a Ordem da Aurora imediatamente. Para eles, os mortos não reclamam de crueldade; reclamam de não terem sido protegidos. Se os antigos métodos funcionaram, devem voltar. Se inocentes terão de morrer, esse é o preço de existir depois de uma lua que sangrou.
+Os **Reativadores** defendem reabrir a Ordem Branca imediatamente. Para eles, os mortos não reclamam de crueldade; reclamam de não terem sido protegidos. Se os antigos métodos funcionaram, devem voltar. Se inocentes terão de morrer, esse é o preço de existir depois de uma lua que sangrou.
 
 Os **Confessionais** defendem revelar a verdade ao povo antes de qualquer reativação. Não são necessariamente pacifistas. Muitos são soldados, bispos, rainhas e escribas que aceitam a necessidade de guerra, mas se recusam a fundá-la em mentira. Para eles, uma ordem que começa escondendo cadáveres terminará fabricando novos.
 
@@ -3807,17 +4017,17 @@ Nenhuma está limpa.
 O medo dá argumentos aos cruéis. A verdade dá armas aos desesperados. A memória dá razão aos revoltados. E as criaturas continuam vindo.
 
 
-### 24G. A Ordem da Aurora reativada
+### 24G. A Ordem Branca reativada
 
-A Ordem da Aurora não era apenas um exército.
+A Ordem Branca não era apenas um exército.
 
 Exércitos precisam de comando.
 
-A Aurora precisava de competência.
+A Ordem Branca precisava de competência.
 
 Durante a última guerra, seus membros aprenderam que matar uma criatura era apenas a etapa mais visível de uma operação. Antes vinham observação, licença, selo, genealogia, testemunha, classificação, quarentena, prova, contenção, exorcismo, inventário, confisco e só então execução ou uso.
 
-Por isso a Ordem sobreviveu em fragmentos mesmo depois de dissolvida. Parte dela virou tradição militar. Parte virou tribunal. Parte virou Ofício da Pureza. Parte virou arquivo de catedral. Parte virou rito repetido por padres que já não sabiam o que a fórmula abria. Parte dormiu em cofres, esperando a Sombra da Aurora.
+Por isso a Ordem sobreviveu em fragmentos mesmo depois de dissolvida. Parte dela virou tradição militar. Parte virou tribunal. Parte virou Ofício da Pureza. Parte virou arquivo de catedral. Parte virou rito repetido por padres que já não sabiam o que a fórmula abria. Parte dormiu em cofres, esperando a Sombra Branca.
 
 Quando o eclipse toca as capitais, a antiga ordem não retorna como tropa marchando em praça.
 
@@ -3843,13 +4053,13 @@ O povo quer proteção.
 
 Os arquivos querem obediência.
 
-Assim a Ordem da Aurora desperta dividida entre guerra e procedimento. Sua força vem dessa disciplina; seu horror também. Uma criança pode ser salva porque um comandante esperou o selo certo. Outra pode morrer porque o selo demorou.
+Assim a Ordem Branca desperta dividida entre guerra e procedimento. Sua força vem dessa disciplina; seu horror também. Uma criança pode ser salva porque um comandante esperou o selo certo. Outra pode morrer porque o selo demorou.
 
 Os Reativadores chamam isso de preço da ordem.
 
 Os Confessionais chamam de aviso.
 
-A Aurora venceu uma vez porque aprendeu a suspender a humanidade com método.
+A Ordem Branca venceu uma vez porque aprendeu a suspender a humanidade com método.
 
 A pergunta não é se ainda sabe fazer isso.
 
@@ -3857,15 +4067,15 @@ A pergunta não é se ainda sabe fazer isso.
 
 ---
 
-### 24H. A máquina militar da Aurora
+### 24H. A máquina militar da Ordem Branca
 
-A Aurora não venceu a última guerra com coragem.
+A Ordem Branca não venceu a última guerra com coragem.
 
 Venceu com método.
 
 Seus capitães descobriram cedo que nenhuma lâmina humana, por mais abençoada, podia ser tratada como resposta universal. Vampiros antigos precisavam ser privados de regeneração. Bestas de guerra precisavam perder direção antes de perder sangue. Revenants precisavam ser distinguidos de demônios verdadeiros, pois matar o morto errado apenas prolongava a fome que o trouxera de volta. Criaturas pactuadas precisavam ser caladas antes que pronunciassem cláusulas. Quimeras precisavam ser derrubadas sem despertar nelas a guerra inteira.
 
-Assim a Aurora criou uma técnica híbrida: industrial, ritualística e fria.
+Assim a Ordem Branca criou uma técnica híbrida: industrial, ritualística e fria.
 
 Os **Sinos de Interferência Cardíaca** nasceram nos laboratórios onde a Mortalha Branca foi estudada. Não tocam para chamar fiéis. Tocam para quebrar cadência. Seu bronze é misturado a prata escurecida, sal mineral, ferro de sepultura e cinza de corpos que resistiram à infecção vampírica. Quando usados em campo, não matam de imediato. Tornam o batimento inimigo irregular. Fazem a regeneração perder tempo. Tornam a Maré de Retorno confusa. Perto do Coração Criador, esses sinos não conseguem destruir a soberania, mas podem fazê-la tropeçar no próprio pulso.
 
@@ -3883,7 +4093,7 @@ As **bacias de prata de campo** são instrumentos de triagem. Rasas, dobráveis,
 
 Os **cães de linhagem** são treinados em mosteiros baixos, longe das cidades. Não farejam apenas sangue. Farejam diferença de sangue. Aprendem o cheiro doce e doentio da herança vampírica, o metal frio dos portadores de Eco, o azedo de revenants recentes, o sal velho de cadáveres selados, a doçura terrível de sangue real em atividade. Muitos enlouquecem. Os que sobrevivem tornam-se mais valiosos que capitães.
 
-As equipes de campo da Aurora são chamadas, em documentos limpos, de **manípulos de saneamento**. O povo as chama de homens das redes. Não marcham com bandeiras altas. Chegam com carroças fechadas, sinos pequenos, redes, mordaças, bacias, cartuchos de sal, médicos de veia, notários e soldados suficientes para manter testemunhas afastadas. Seu objetivo não é vencer de modo heroico. É derrubar, silenciar, conter, classificar e transportar antes que aquilo que está sendo capturado consiga transformar medo em massacre ou pergunta em direito.
+As equipes de campo da Ordem Branca são chamadas, em documentos limpos, de **manípulos de saneamento**. O povo as chama de homens das redes. Não marcham com bandeiras altas. Chegam com carroças fechadas, sinos pequenos, redes, mordaças, bacias, cartuchos de sal, médicos de veia, notários e soldados suficientes para manter testemunhas afastadas. Seu objetivo não é vencer de modo heroico. É derrubar, silenciar, conter, classificar e transportar antes que aquilo que está sendo capturado consiga transformar medo em massacre ou pergunta em direito.
 
 Nas fortalezas maiores, há **torres de luz branca**, onde espelhos e óleo mineral concentram claridade artificial sobre pátios de contenção. Há **prisões de ar morto**, câmaras onde a chama diminui, a respiração pesa e criaturas dependentes de sangue ou pacto perdem força por lentidão. Há corredores de ferro frio sob pisos de capela, salas sem madeira para impedir fogueiras espontâneas, paredes duplas onde sinos podem tocar sem que o prisioneiro veja quem puxa a corda.
 
@@ -3891,7 +4101,7 @@ Nada disso torna os humanos invencíveis.
 
 Torna-os plausíveis.
 
-A velha noite tinha presas, pactos, regeneração, língua morta e castelos vivos. A Aurora respondeu com metal, sal, contagem, acústica, arquivo, sacramento corrompido e logística. Um vampiro antigo pode matar dez homens antes que o primeiro grite. Uma equipe de saneamento preparada pode fazer esse mesmo vampiro cair de joelhos sem que nenhum soldado saiba seu nome.
+A velha noite tinha presas, pactos, regeneração, língua morta e castelos vivos. A Ordem Branca respondeu com metal, sal, contagem, acústica, arquivo, sacramento corrompido e logística. Um vampiro antigo pode matar dez homens antes que o primeiro grite. Uma equipe de saneamento preparada pode fazer esse mesmo vampiro cair de joelhos sem que nenhum soldado saiba seu nome.
 
 Esse é o horror humano em sua forma mais eficiente.
 
@@ -3902,7 +4112,7 @@ Procedimento armado.
 
 ### 24I. A logística do sal, do sino e da fome
 
-A máquina militar da Aurora não funciona sem suprimento.
+A máquina militar da Ordem Branca não funciona sem suprimento.
 
 Essa é sua fraqueza mais humana.
 
@@ -3912,7 +4122,7 @@ O sal de coagulação exige minas ainda acessíveis, fornos secos, corpos de pro
 
 As mordaças de ferro litúrgico precisam ser ajustadas por espécie, idade, mandíbula e língua. Uma mordaça feita para pactuado pode não calar vampiro nobre. Uma feita para vampiro pode rasgar a boca de um mestiço e produzir sangue suficiente para piorar a situação. Redes de prata perdem flexibilidade quando expostas ao frio. Bacias de campo racham com transporte ruim. Cães de linhagem morrem, enlouquecem ou mordem seus próprios treinadores quando seguem Ecos demais por tempo longo.
 
-Por isso a Aurora reativada não aparece em cada aldeia como resposta perfeita.
+Por isso a Ordem Branca reativada não aparece em cada aldeia como resposta perfeita.
 
 Aparece em bolsões.
 
@@ -3932,7 +4142,7 @@ O povo vê monstros na estrada e descobre que a salvação tem inventário.
 
 Essa escassez mantém o terror vivo. Uma equipe de saneamento preparada pode derrubar uma criatura que mataria cinquenta homens. Mas a maioria das noites não recebe equipe preparada. Recebe um guarda cansado, meia bolsa de sal úmido, uma bacia trincada, um sino desafinado e uma fila de refugiados batendo no portão.
 
-A Aurora não é invencível.
+A Ordem Branca não é invencível.
 
 É perigosa porque, quando funciona, funciona bem o bastante para convencer os vivos de que todo custo anterior era necessário.
 
@@ -3985,7 +4195,7 @@ A família de Severin foi queimada não por crimes, mas por possibilidade. Eles 
 
 Severin pode salvar humanos e ainda assim ser chamado de praga.
 
-Com o Sangue Soberano, essa tensão aumenta. Se ele estanca o sangue de uma criança ferida, pode parecer milagre. Se trava o braço de um soldado para impedir uma execução, pode parecer possessão. Se toca uma ferida e percebe veneno, pode ser visto como curandeiro ou profanador.
+Com o Sangue Fundador, essa tensão aumenta. Se ele estanca o sangue de uma criança ferida, pode parecer milagre. Se trava o braço de um soldado para impedir uma execução, pode parecer possessão. Se toca uma ferida e percebe veneno, pode ser visto como curandeiro ou profanador.
 
 A pergunta não é se ele tem motivos para odiar humanos. Ele tem.
 
@@ -4031,7 +4241,7 @@ A Mordaça de Ferro Litúrgico não foi feita apenas para calar gritos. Foi dese
 
 A Sangria de Descontinuidade divide o sangue em bacias separadas, cada uma com sal, cinza, óleo consagrado, prata fria ou limalha de ferro contaminado. Não busca purificar. Busca interromper continuidade. Sangue contínuo lembra. Sangue dividido hesita. Sob esse rito, as memórias chegam quebradas: um rei entrega ódio sem contexto, outro começa uma sentença sem final, outro oferece técnica de guerra que o corpo mestiço de Severin não consegue suportar sem rasgar tendões e veias.
 
-A Taça Invertida não testa se o sangue é impuro. Provoca o Sangue Soberano até que ele revele como reage. O sangue de Severin é forçado a se separar em categorias que o mundo conhece: humano, vampírico, real, morto, contaminado. Ele não aceita. Sobe pelas paredes da taça, forma fios, escurece e clareia em camadas, como se cada classificação fosse uma lâmina tocando um nervo.
+A Taça Invertida não testa se o sangue é impuro. Provoca o Sangue Fundador até que ele revele como reage. O sangue de Severin é forçado a se separar em categorias que o mundo conhece: humano, vampírico, real, morto, contaminado. Ele não aceita. Sobe pelas paredes da taça, forma fios, escurece e clareia em camadas, como se cada classificação fosse uma lâmina tocando um nervo.
 
 O Círculo das Testemunhas Cegas ataca outra lei. Autoridade precisa de testemunha. Então, no interrogatório, ninguém olha para Severin. Guardas usam panos sobre os olhos. O escriba escreve atrás de uma tela. O sacerdote responde por fórmulas genéricas. Ninguém diz seu nome. Ninguém diz Sângelună. Ninguém diz rei. Chamam-no apenas de “o corpo examinado”. A soberania fala no vazio.
 
@@ -4059,7 +4269,7 @@ O Ofício da Pureza não mantém Severin vivo por misericórdia.
 
 Mantém porque morto ele se torna incerteza sem interrogatório.
 
-Depois dos primeiros contatos com selos antigos, criaturas libertas e fragmentos dos Arquivos Partidos, os Analistas compreendem que o sangue de Severin não é seu recurso mais valioso. O Sangue Soberano tomado à força degrada, cobra, enlouquece ou retorna como doença. O que importa nele não é extração. É leitura.
+Depois dos primeiros contatos com selos antigos, criaturas libertas e fragmentos dos Arquivos Partidos, os Analistas compreendem que o sangue de Severin não é seu recurso mais valioso. O Sangue Fundador tomado à força degrada, cobra, enlouquece ou retorna como doença. O que importa nele não é extração. É leitura.
 
 Severin reconhece coisas que os arquivos humanos só conseguem cercar.
 
@@ -4079,7 +4289,7 @@ O protocolo se apoia em três medos.
 
 O primeiro é a perda de dados. Se Severin morrer, nomes verdadeiros podem permanecer incompletos, pactos podem continuar ativos sem contraparte legível, câmaras sob o castelo podem jamais ser encontradas, e os Arquivos Partidos podem continuar sendo um cadáver espalhado entre coroas que não sabem costurá-lo.
 
-O segundo é a morte como gatilho. Ninguém sabe o que acontece se o Coração Criador parar pela segunda vez. A execução pode liberar uma Maré de Retorno cadavérica, arrancando sangue soberano de corpos marcados por Eco. Pode soltar os Reis Mortos da contenção humana que ainda os limita. Pode fazer o castelo procurar outro corpo. Pode completar, tarde demais, a plenitude que a Luna Vulnata adiou. Pode não fazer nada. Para o Ofício, essa última possibilidade é menos importante que as anteriores. Instituições procedimentais não temem apenas monstros. Temem variáveis.
+O segundo é a morte como gatilho. Ninguém sabe o que acontece se o Coração Criador parar pela segunda vez. A execução pode liberar uma Maré de Retorno cadavérica, arrancando sangue fundador de corpos marcados por Eco. Pode soltar os Reis Mortos da contenção humana que ainda os limita. Pode fazer o castelo procurar outro corpo. Pode completar, tarde demais, a plenitude que a Luna Vulnata adiou. Pode não fazer nada. Para o Ofício, essa última possibilidade é menos importante que as anteriores. Instituições procedimentais não temem apenas monstros. Temem variáveis.
 
 O terceiro é a contra-assinatura. Certos pactos antigos não foram feitos com humanos e não podem ser encerrados por humanos. Se a coroa voltou de modo imperfeito em Severin, talvez apenas ele possa revogar, transferir, negar ou confirmar vínculos que os reis mortos deixaram abertos. O Ofício odeia a ideia de depender dele. Mas odeia ainda mais a ideia de que uma porta permaneça aberta porque o único notário capaz de fechá-la virou cinza cedo demais.
 
@@ -4244,7 +4454,7 @@ A primeira vitória da Responsio Integrata acontece quando uma cidade é cercada
 
 A resposta revela que ela não rompeu o selo.
 
-Foi libertada por um protocolo humano reativado incorretamente pela Aurora.
+Foi libertada por um protocolo humano reativado incorretamente pela Ordem Branca.
 
 Se a criatura tivesse sido destruída, a falha continuaria aberta e outras prisões se romperiam. A execução rápida salvaria o dia e condenaria a estação inteira. A Responsio Integrata contém a criatura, identifica a falha e prova que uma pergunta proibida pode ser mais útil que uma lâmina autorizada.
 
@@ -4620,7 +4830,7 @@ Confia na taça quando precisa de sentença.
 
 A reação do sangue comum costuma ser espalhamento irregular, sem desenho persistente. O sangue de mestiços pode formar fios, afundar sem misturar, escurecer nas bordas ou permanecer quente onde deveria esfriar. O sangue vampírico puro tende a rejeitar o recipiente, talhar o vinho, subir pelas laterais, produzir cheiro de ferro frio ou formar película escura como pele de poça antiga. O sangue pactuado responde com sinais mais perigosos: pequenas bolhas sem calor, nomes incompletos, sombra sobre a superfície, odor doce demais, às vezes uma palavra que ninguém admite ter ouvido.
 
-O Sangue Soberano não se comporta como categoria.
+O Sangue Fundador não se comporta como categoria.
 
 Diante da taça, o sangue de Severin pode hesitar antes de cair, como se a gota avaliasse o abismo. Pode tocar o vinho e não afundar. Pode subir contra a curvatura da prata. Pode dividir-se em camadas — vermelho vivo, negro antigo, brilho escuro, fulgor pálido — e depois recompor-se com a violência de uma ferida fechando. Pode bater no ritmo do Coração Criador. Pode fazer a taça tremer não porque foi julgada, mas porque algo dentro dela percebeu que também estava sendo examinado.
 
@@ -4734,7 +4944,7 @@ Um homem sem memória sendo escrito por inimigos.
 
 E, lentamente, aprendendo a corrigir a mão deles.
 
-### 36I. Cargos do Ofício e da Aurora
+### 36I. Cargos do Ofício e da Ordem Branca
 
 O Ofício da Pureza possui muitos rostos porque prefere que ninguém saiba qual deles carrega a lâmina.
 
@@ -4750,11 +4960,11 @@ O **Cardiarca** não estuda apenas sangue. Estuda cadência. Acredita que todo p
 
 O **Purificador** executa sentenças de fogo. Raramente se chama carrasco. Carrega óleo, tocha, prece curta e convicção suficiente para dormir ou vinho suficiente para não precisar.
 
-A Ordem da Aurora tem outra geometria.
+A Ordem Branca tem outra geometria.
 
 O **Custos Luminis** guarda pontes, portões, altares e rotas de evacuação. Não caça por glória; impede que o escuro avance.
 
-O **Miles Aurorae** é soldado jurado da Aurora. Sabe lutar contra bestas, vampiros menores e mortos, mas depende de sacerdotes, médicos e escribas para aquilo que não pode ser morto só com aço.
+O **Miles Albus** é soldado jurado da Ordem Branca. Sabe lutar contra bestas, vampiros menores e mortos, mas depende de sacerdotes, médicos e escribas para aquilo que não pode ser morto só com aço.
 
 O **Notarius Belli** acompanha campanhas registrando criaturas, baixas, ritos usados, vilas sacrificadas e ordens que um rei talvez negue depois.
 
@@ -4762,7 +4972,7 @@ O **Executor de Mandato Solar** cumpre prisões, exumações e queimas autorizad
 
 O **Exorcista Licenciado** atua apenas com permissão superior. Quando é sincero, teme a própria autoridade. Quando é corrupto, torna-se um feiticeiro de altar.
 
-O **Chanceler dos Selos da Aurora** controla autenticação. Pode atrasar uma operação inteira recusando cera partida. Pode salvar uma vila impedindo que um fanático aja sem mandato.
+O **Chanceler dos Selos da Ordem Branca** controla autenticação. Pode atrasar uma operação inteira recusando cera partida. Pode salvar uma vila impedindo que um fanático aja sem mandato.
 
 Nenhum desses cargos precisa odiar Severin para destruí-lo.
 
@@ -4817,7 +5027,7 @@ A antiga ordem humana não venceu apenas com exércitos, fé, arquivos e fogo.
 
 Venceu também com fabricação.
 
-Quando os reis humanos entenderam que soldados comuns não bastavam contra vampiros, demônios pactuados, bestas de guerra, mortos jurados e criaturas ligadas à coroa noturna, parte da Ordem da Aurora abandonou a diferença entre combater monstros e aprender a fazê-los.
+Quando os reis humanos entenderam que soldados comuns não bastavam contra vampiros, demônios pactuados, bestas de guerra, mortos jurados e criaturas ligadas à coroa noturna, parte da Ordem Branca abandonou a diferença entre combater monstros e aprender a fazê-los.
 
 Nasceu então o **Officium Chimaerarum**: uma divisão secreta de médicos de sangue, monges anatômicos, alquimistas, carrascos, exorcistas, cirurgiões de campo, confessores militares e nobres financiadores. Em público, quando qualquer rumor escapava, dizia-se que eram estudos de anatomia de guerra, curas contra pragas vampíricas ou preparação de antídotos. Nos arquivos mais fundos, o verdadeiro objetivo tinha outro nome.
 
@@ -4912,7 +5122,7 @@ Nem toda igreja foi erguida para aproximar os homens do céu.
 
 Algumas foram erguidas para impedir que o chão respirasse.
 
-Depois da última guerra, quando as Chimaerae Aurorae sobreviveram aos campos onde deveriam ter morrido, a Ordem da Aurora descobriu que certas armas não terminavam com a vitória. Elas continuavam existindo depois da necessidade que as justificara. Continuavam famintas de comando, de inimigo, de sino, de dor organizada. Algumas não podiam ser destruídas sem liberar doenças, nomes, pactos ou incêndios que alcançariam cidades inteiras. Outras, quando mortas, refaziam-se em formas piores. Outras eram preciosas demais para que os reis humanos aceitassem perdê-las.
+Depois da última guerra, quando as Chimaerae Albae sobreviveram aos campos onde deveriam ter morrido, a Ordem Branca descobriu que certas armas não terminavam com a vitória. Elas continuavam existindo depois da necessidade que as justificara. Continuavam famintas de comando, de inimigo, de sino, de dor organizada. Algumas não podiam ser destruídas sem liberar doenças, nomes, pactos ou incêndios que alcançariam cidades inteiras. Outras, quando mortas, refaziam-se em formas piores. Outras eram preciosas demais para que os reis humanos aceitassem perdê-las.
 
 Então a Ordem fez o que fazia melhor.
 
@@ -4958,7 +5168,7 @@ Depois vieram os incidentes.
 
 A cripta de São Audrien abriu uma fresta e dela saiu uma mão com três tipos de pele costurados em torno do mesmo osso. A mão não atacou. Apenas tocou o chão da igreja e recuou, como animal testando temperatura.
 
-No Mosteiro das Sete Lâmpadas, uma monja desceu para buscar óleo e voltou falando com duas vozes. Uma era dela. A outra repetia números de batalha, posições de tropas, nomes de médicos da Aurora e a pergunta insistente: onde está o inimigo?
+No Mosteiro das Sete Lâmpadas, uma monja desceu para buscar óleo e voltou falando com duas vozes. Uma era dela. A outra repetia números de batalha, posições de tropas, nomes de médicos da Ordem Branca e a pergunta insistente: onde está o inimigo?
 
 Em Veyrholm, durante um sermão contra monstros, a estátua de um santo militar partiu-se ao meio e revelou, no pedestal, tubos antigos cheios de líquido escuro ainda pulsando. O bispo mandou queimar a praça para impedir rumor. A fumaça atraiu revenants.
 
@@ -4968,7 +5178,7 @@ os monstros sob os altares não eram invasores.
 
 Eram fundação.
 
-O Ofício tentou reclassificar os fenômenos como possessão subterrânea, vibração demoníaca, mentira de hereges ou sabotagem vampírica. A Ordem da Aurora sabia melhor. Os mapas antigos começaram a ser retirados de cofres, e as igrejas marcadas com pequenos sinais invisíveis ao povo: uma cruz cortada na base da torre, um círculo vermelho atrás do altar, três pontos de sal na soleira da sacristia.
+O Ofício tentou reclassificar os fenômenos como possessão subterrânea, vibração demoníaca, mentira de hereges ou sabotagem vampírica. A Ordem Branca sabia melhor. Os mapas antigos começaram a ser retirados de cofres, e as igrejas marcadas com pequenos sinais invisíveis ao povo: uma cruz cortada na base da torre, um círculo vermelho atrás do altar, três pontos de sal na soleira da sacristia.
 
 Esses sinais não indicavam santidade.
 
@@ -5014,7 +5224,7 @@ Seu corpo pensa por ela:
 
 Essa é a tragédia delas. A paz lhes parece doença. A contenção lhes parece atraso. A guerra lhes parece retorno de sentido. Quando uma quimera consciente tenta resistir a esse chamado, seu próprio corpo a trai. Garras crescem durante orações. Placas de osso se abrem sob a pele quando escuta metal. A boca saliva ao ouvir marcha. A memória humana, se ainda existe nela, chora dentro de uma máquina de resposta.
 
-A Ordem da Aurora acredita que pode explorar esse despertar.
+A Ordem Branca acredita que pode explorar esse despertar.
 
 Os protocolos antigos dizem que, se as quimeras forem libertadas sob comando correto, com sinos de obediência, nomes de contenção e alvos declarados, marcharão contra a noite retornada. Os reis humanos querem acreditar nisso porque precisam. A Igreja quer acreditar porque a alternativa é confessar que rezou sobre armas incontroláveis. O Ofício quer acreditar porque qualquer coisa que possa ser classificada pode, teoricamente, ser usada.
 
@@ -5068,7 +5278,7 @@ O protocolo tenta criar uma solidão perfeita: Severin sem fala, sem sangue livr
 
 A **Curia Sanguinis Regiae**, quando descobre que humanos estudam o Coração Criador em bacias de prata, chama aquilo de blasfêmia. Não porque ame Severin. Não porque aceite um bastardo como rei limpo. Mas porque nenhuma corte vampírica pode tolerar que homens tratem a fonte da coroa como órgão de laboratório. Para os antigos, Severin pode ser vergonha interna, falha de rito, filho de sangue vulgar. Ainda assim, a ofensa é deles. Humanos não têm direito de tocar a coroa antes que a noite decida o que fazer com ela.
 
-As **Chimaerae Aurorae** reagem por outro ferimento. Elas não veem trono. Veem instrumento. Reconhecem sinos de obediência, mesas de contenção, serras de osso, taças de mistura, comandos que atravessam dor, nomes dados por homens que jamais pensaram em devolvê-los. No Protocolum, percebem a continuidade do Opus Tertium. O corpo de Severin preso sob método humano desperta nelas uma raiva que não é lealdade, mas reconhecimento traumático.
+As **Chimaerae Albae** reagem por outro ferimento. Elas não veem trono. Veem instrumento. Reconhecem sinos de obediência, mesas de contenção, serras de osso, taças de mistura, comandos que atravessam dor, nomes dados por homens que jamais pensaram em devolvê-los. No Protocolum, percebem a continuidade do Opus Tertium. O corpo de Severin preso sob método humano desperta nelas uma raiva que não é lealdade, mas reconhecimento traumático.
 
 Os vampiros invadem para reclamar.
 
@@ -5357,7 +5567,7 @@ Descendente de famílias que destruíram o castelo. Mantém documentos escondido
 
 #### O vampiro puro da velha corte
 
-Reconhece sinais da autoridade em Severin, mas não o considera digno. Pode tentar transformá-lo em fantoche, corrigir sua impureza, arrancar a humanidade dele ou substituí-lo por outro pretendente. Quando descobrir que o próprio sangue responde ao Sangue Soberano, seu desprezo pode virar pânico.
+Reconhece sinais da autoridade em Severin, mas não o considera digno. Pode tentar transformá-lo em fantoche, corrigir sua impureza, arrancar a humanidade dele ou substituí-lo por outro pretendente. Quando descobrir que o próprio sangue responde ao Sangue Fundador, seu desprezo pode virar pânico.
 
 #### A serva vampírica leal
 
@@ -5378,9 +5588,9 @@ Sua ameaça está na precisão. Ele talvez seja capaz de ferir Severin espiritua
 
 Uma religiosa que coordena uma rede clandestina de fuga para mestiços, órfãos de purificação, filhos de servos vampíricos e testemunhas que o Ofício deseja apagar. Falsifica registros com a mesma mão que cura febres. Para Severin, ela pode ser salvação tardia e acusação insuportável: prova viva de que alguns humanos tentaram salvar crianças, mas não chegaram à casa dele.
 
-#### O chanceler dos selos da Aurora
+#### O chanceler dos selos da Ordem Branca
 
-Funcionário frio, quase invisível, que controla a validade dos mandados da Ordem da Aurora. Pode impedir massacres recusando selos ilegítimos; pode permitir atrocidades tornando-as juridicamente perfeitas. Não precisa tocar uma lâmina para decidir o destino de vilas inteiras.
+Funcionário frio, quase invisível, que controla a validade dos mandados da Ordem Branca. Pode impedir massacres recusando selos ilegítimos; pode permitir atrocidades tornando-as juridicamente perfeitas. Não precisa tocar uma lâmina para decidir o destino de vilas inteiras.
 
 #### O demônio credor
 
@@ -5402,7 +5612,7 @@ Herdeiro de um agente do Ofício que descobre sangue suspeito na própria famíl
 
 A consciência residual do mago que criou o **Ritus Coronae Sepultae**. Ele não preparou o retorno para Severin. Esperava um descendente vampírico puro, alguém capaz de receber os reis mortos sem resistência humana, restaurar a antiga corte, recolocar criaturas sob comando e reacender a nação vampírica como ela havia sido.
 
-Para esse eco, Severin é falha de procedimento, contaminação do recipiente e desvio histórico. Talvez tente “corrigir” o segundo nascimento, arrancando dele a humanidade que impediu a restauração perfeita. Talvez acredite que o Sangue Soberano é uma degeneração do sangue real, não uma evolução. Talvez veja a Luna Sanguinea Plena como oportunidade desperdiçada: o ápice que deveria ter restaurado a coroa pura, mas que se deformou em Luna Vulnata ao receber sangue mestiço.
+Para esse eco, Severin é falha de procedimento, contaminação do recipiente e desvio histórico. Talvez tente “corrigir” o segundo nascimento, arrancando dele a humanidade que impediu a restauração perfeita. Talvez acredite que o Sangue Fundador é uma degeneração do sangue real, não uma evolução. Talvez veja a Luna Sanguinea Plena como oportunidade desperdiçada: o ápice que deveria ter restaurado a coroa pura, mas que se deformou em Luna Vulnata ao receber sangue mestiço.
 
 Seu perigo está em oferecer a Severin uma verdade quase irrecusável: se o rito tivesse funcionado corretamente, as criaturas teriam voltado sob ordem. Menos caos inicial, menos massacres dispersos, menos aldeias destruídas por monstros sem comando. O mago usará essa verdade para defender uma mentira maior: que pureza e controle eram a única forma de impedir o fim.
 
@@ -5418,7 +5628,7 @@ Ele chama tortura de diagnóstico.
 
 #### O usurpador enxertado
 
-Alguém descobre que o Sangue Soberano pode ser imitado por instantes se sangue real, sangue vampírico puro, sangue humano e fragmentos de ossos reais forem unidos em transfusão ritual. O resultado não cria rei. Cria empréstimo.
+Alguém descobre que o Sangue Fundador pode ser imitado por instantes se sangue real, sangue vampírico puro, sangue humano e fragmentos de ossos reais forem unidos em transfusão ritual. O resultado não cria rei. Cria empréstimo.
 
 O usurpador enxertado pode comandar selos menores, enganar criaturas pouco conscientes e sentar-se no trono por algumas horas ou dias. Pode até provocar um Eco Sanguíneo artificial, forte o bastante para fazer uma armadura hesitar ou uma porta antiga abrir a primeira tranca. Mas o corpo começa a recusar a mentira. Veias escurecem sob a pele. Coágulos surgem onde não há ferida. Memórias falsas invadem a fala. O pulso alterna entre muitos ritmos. A pedra do castelo o aceita e rejeita ao mesmo tempo.
 
@@ -5461,11 +5671,11 @@ Um dos reis mortos pode se destacar dos demais como voz dominante. Não precisa 
 
 Um herdeiro intelectual do Officium Chimaerarum, convencido de que o Opus Tertium não fracassou por erro moral, mas por insuficiência técnica. Ao descobrir Severin, vê nele a prova de que a síntese era possível. Não o chama de milagre, nem de rei. Chama-o de resultado natural de um experimento que os homens quase souberam fazer.
 
-Seu objetivo não é apenas capturar Severin. É entender o centro que faltou às quimeras: o Coração Criador, o Sangue Soberano, a vontade capaz de organizar contradição. Para ele, Severin não é pessoa. É solução tardia.
+Seu objetivo não é apenas capturar Severin. É entender o centro que faltou às quimeras: o Coração Criador, o Sangue Fundador, a vontade capaz de organizar contradição. Para ele, Severin não é pessoa. É solução tardia.
 
 #### A quimera consciente
 
-Uma das Chimaerae Aurorae preservou linguagem, memória e rancor suficientes para compreender o que é. Não se vê como humana, criatura ou arma. Vê-se como tentativa abandonada. Ao encontrar Severin, talvez o odeie antes de entendê-lo, porque ele é aquilo que ela deveria ter sido: síntese sem costura, contradição com coração.
+Uma das Chimaerae Albae preservou linguagem, memória e rancor suficientes para compreender o que é. Não se vê como humana, criatura ou arma. Vê-se como tentativa abandonada. Ao encontrar Severin, talvez o odeie antes de entendê-lo, porque ele é aquilo que ela deveria ter sido: síntese sem costura, contradição com coração.
 
 Pode dizer a ele:
 
@@ -5668,13 +5878,13 @@ Depois de uma guerra vencida a custo brutal, Severin permanece de pé no campo o
 ---
 
 
-#### Capítulo posterior: A Sombra da Aurora
+#### Capítulo posterior: A Sombra Branca
 
 Depois da lua de sangue, vem o eclipse. Ao meio-dia, as capitais humanas escurecem. Cofres reais lacrados há séculos se abrem. Cada rei encontra apenas uma parte da verdade: mapa, lista, rito, sentença, propaganda, contabilidade ou juramento. Nenhum entende tudo sozinho. A antiga ordem humana começa a chamar seus herdeiros.
 
 #### Capítulo posterior: O Concílio das Cinzas
 
-Os reis humanos se reúnem para montar os Arquivos Partidos. Ao juntar as peças, descobrem que seus ancestrais venceram a última guerra por meio de sacrifícios, massacres, pactos proibidos e manipulação da fé. A reunião deixa de ser estratégia militar e se torna julgamento hereditário. A pergunta central: reativar a Ordem da Aurora e sobreviver, ou recusar seus métodos e talvez condenar o mundo.
+Os reis humanos se reúnem para montar os Arquivos Partidos. Ao juntar as peças, descobrem que seus ancestrais venceram a última guerra por meio de sacrifícios, massacres, pactos proibidos e manipulação da fé. A reunião deixa de ser estratégia militar e se torna julgamento hereditário. A pergunta central: reativar a Ordem Branca e sobreviver, ou recusar seus métodos e talvez condenar o mundo.
 
 #### Capítulo posterior: A primeira confissão pública
 
@@ -5682,7 +5892,7 @@ Um fragmento dos arquivos vaza para o povo. Talvez por um escriba, talvez por um
 
 #### Capítulo posterior: A fé dividida
 
-A Igreja humana se divide. Pregadores da guerra chamam todas as criaturas de obra do Diabo e exigem reativação total da Ordem da Aurora. Outros sacerdotes lembram que nem todo morto é demônio, nem todo mestiço é condenado, nem toda criatura sem forma humana perdeu alma ou dor. O conflito religioso deixa claro que a fé foi usada como arma, mas ainda pode ser resistência contra aqueles que a sequestraram.
+A Igreja humana se divide. Pregadores da guerra chamam todas as criaturas de obra do Diabo e exigem reativação total da Ordem Branca. Outros sacerdotes lembram que nem todo morto é demônio, nem todo mestiço é condenado, nem toda criatura sem forma humana perdeu alma ou dor. O conflito religioso deixa claro que a fé foi usada como arma, mas ainda pode ser resistência contra aqueles que a sequestraram.
 
 
 #### Capítulo posterior: A primeira mãe
@@ -5806,7 +6016,7 @@ Era uma verdade construída sobre corpos que deixaram de contar.
 
 #### Capítulo: Os negadores
 
-Redatores espalham panfletos dizendo que os arquivos foram contaminados por sangue soberano. Chamam a Mesa nascente de teatro de monstros. Dizem que Severin devolve nomes aos mortos para roubar nomes dos vivos. Famílias que lucraram com casas confiscadas repetem a mentira com alívio. A verdade ameaça herança, terra, título e a lembrança confortável dos avós.
+Redatores espalham panfletos dizendo que os arquivos foram contaminados por sangue fundador. Chamam a Mesa nascente de teatro de monstros. Dizem que Severin devolve nomes aos mortos para roubar nomes dos vivos. Famílias que lucraram com casas confiscadas repetem a mentira com alívio. A verdade ameaça herança, terra, título e a lembrança confortável dos avós.
 
 #### Capítulo: Os necessários
 
@@ -5972,7 +6182,7 @@ Quando alguém sob Sinal de Guarda é morto ilegalmente, não explode vingança 
 
 Sobe a **Cinza Administrativa**.
 
-O sangue da vítima escurece de modo errado. Não coagula como sangue comum, nem retorna como Sangue Soberano. Vira resíduo cinzento, fino, metálico, que se prende a luvas, lâminas, bacias, ferraduras, correntes, capas e documentos do manípulo responsável. Cães de Linhagem passam a latir para o próprio condutor. Bacias de prata produzem resultados contraditórios. Sal de coagulação empedra antes do uso. Certidões tocadas pelo carrasco ganham margens escuras que nenhum Redator consegue raspar sem deixar cicatriz no papel.
+O sangue da vítima escurece de modo errado. Não coagula como sangue comum, nem retorna como Sangue Fundador. Vira resíduo cinzento, fino, metálico, que se prende a luvas, lâminas, bacias, ferraduras, correntes, capas e documentos do manípulo responsável. Cães de Linhagem passam a latir para o próprio condutor. Bacias de prata produzem resultados contraditórios. Sal de coagulação empedra antes do uso. Certidões tocadas pelo carrasco ganham margens escuras que nenhum Redator consegue raspar sem deixar cicatriz no papel.
 
 A Cinza Administrativa não pune a consciência do fanático.
 
@@ -6301,7 +6511,7 @@ O quarto nasceu depois, quando todos perceberam que os três primeiros mentiam p
 
 O **Livro da Mancha**.
 
-Nele entrava o que a Mesa fazia sem poder chamar de justiça limpa. Exações. Subornos. Compra de silêncio de homens que mereciam julgamento. Acordos com mercadores criminosos. Uso de ouro de sangue sem reparação possível. Contenção por força. Sangue Soberano usado contra corpos vivos. Decisões tomadas para salvar alguém à custa de ferir outro que não havia sido ouvido.
+Nele entrava o que a Mesa fazia sem poder chamar de justiça limpa. Exações. Subornos. Compra de silêncio de homens que mereciam julgamento. Acordos com mercadores criminosos. Uso de ouro de sangue sem reparação possível. Contenção por força. Sangue Fundador usado contra corpos vivos. Decisões tomadas para salvar alguém à custa de ferir outro que não havia sido ouvido.
 
 O Livro da Mancha não absolvia.
 
@@ -6463,7 +6673,7 @@ O Ofício não encontrou a mulher por denúncia.
 
 Encontrou pelo cheiro da verdade escrita.
 
-A tinta oficial continha reagentes. Pequenas fórmulas de altar, sais de prata, pó de osso consagrado, óleo que reconhecia Sangue Soberano, Eco, prata lunar ou certos tipos de sangue antigo. O escriba do Ofício não precisava saber disso. O comprador comum, menos ainda. A tinta era armadilha porque o mundo acreditava que tinta era só tinta.
+A tinta oficial continha reagentes. Pequenas fórmulas de altar, sais de prata, pó de osso consagrado, óleo que reconhecia Sangue Fundador, Eco, prata lunar ou certos tipos de sangue antigo. O escriba do Ofício não precisava saber disso. O comprador comum, menos ainda. A tinta era armadilha porque o mundo acreditava que tinta era só tinta.
 
 Depois dessa captura, a Mesa não pôde mais comprar palavras prontas.
 
@@ -6713,7 +6923,7 @@ Não como rei julgando.
 
 Como freio.
 
-O Sangue Soberano atravessou a sala sem beleza. Fechou mãos. Pesou pulsos. Dobrou joelhos. Impediu uma faca de entrar no peito de uma criança humana. Travou o braço de um portador que havia perdido duas irmãs para o Ofício. Derrubou uma mulher marcada pelo Eco que gritava que os humanos nunca esperaram audiência antes de queimar ninguém.
+O Sangue Fundador atravessou a sala sem beleza. Fechou mãos. Pesou pulsos. Dobrou joelhos. Impediu uma faca de entrar no peito de uma criança humana. Travou o braço de um portador que havia perdido duas irmãs para o Ofício. Derrubou uma mulher marcada pelo Eco que gritava que os humanos nunca esperaram audiência antes de queimar ninguém.
 
 Ele não conseguiu conter todos.
 
@@ -6811,7 +7021,7 @@ Tavian via o massacre que começava quando a lei aceitava exceção demais. Iria
 
 Severin sentava entre eles.
 
-Às vezes, os Reis Mortos riam por dentro. Tinham governado séculos sem pedir licença a parteira ou ex-escriba. Agora o sangue soberano precisava ouvir duas pessoas frágeis discutirem se uma sacola de farinha podia ou não ser comprada com prata de tributo.
+Às vezes, os Reis Mortos riam por dentro. Tinham governado séculos sem pedir licença a parteira ou ex-escriba. Agora o sangue fundador precisava ouvir duas pessoas frágeis discutirem se uma sacola de farinha podia ou não ser comprada com prata de tributo.
 
 Isso, mais que qualquer derrota, provava que a coroa havia mudado de natureza.
 
@@ -6867,7 +7077,7 @@ Alguém precisaria sofrer para impedir Severin.
 
 Não sofrer como símbolo. Sofrer nas veias. O Eco da testemunha serviria de contrabatida, uma pequena recusa biológica atravessada pelo próprio vínculo que Severin havia deixado nos corpos que salvou. Quando o Coração Criador chamasse o sangue para sentença, o portador do refluxo aceitaria ser ponto de retorno invertido, uma dor viva que faria o comando hesitar antes de se completar.
 
-O Sangue Soberano reconheceria a passagem que ele mesmo criara.
+O Sangue Fundador reconheceria a passagem que ele mesmo criara.
 
 E, por um instante, tropeçaria nela.
 
@@ -6971,7 +7181,7 @@ Não era governo. Não era sucessão. Não era outro trono.
 
 Era a forma miserável de continuar respirando quando o Coração Criador não podia ser usado.
 
-Durante a suspensão do fundador, a Mesa passava a funcionar por comandos limitados. O Procurador dos Vivos autorizava evacuação, contenção física e proteção de não combatentes. O Cancelário perdia o veto absoluto enquanto houvesse ameaça imediata, mas registrava cada decisão como risco futuro. Os Guardas de Intervalo assumiam combate sem Sangue Soberano. Os Senhores da Tinta decidiam que registros seriam levados, destruídos ou deixados para trás. Os portadores capazes de andar carregavam crianças, caixas, feridos e nomes memorizados.
+Durante a suspensão do fundador, a Mesa passava a funcionar por comandos limitados. O Procurador dos Vivos autorizava evacuação, contenção física e proteção de não combatentes. O Cancelário perdia o veto absoluto enquanto houvesse ameaça imediata, mas registrava cada decisão como risco futuro. Os Guardas de Intervalo assumiam combate sem Sangue Fundador. Os Senhores da Tinta decidiam que registros seriam levados, destruídos ou deixados para trás. Os portadores capazes de andar carregavam crianças, caixas, feridos e nomes memorizados.
 
 Ninguém emitia sentença.
 
@@ -7069,7 +7279,7 @@ Se Mara pudesse voltar, Severin não poderia decidir.
 
 Não poderia conduzir o rito.
 
-Não poderia usar Sangue Soberano sem testemunhas.
+Não poderia usar Sangue Fundador sem testemunhas.
 
 Não poderia tocar o corpo, se corpo houvesse, antes da audiência. Não poderia escolher quem falaria primeiro. Não poderia destruir o documento sozinho. Não poderia aceitar nem recusar em nome de todos.
 
@@ -7119,7 +7329,7 @@ Suborno de juiz em causa de infiltração.
 
 Exação sobre adega Arvenholt.
 
-Uso de Sangue Soberano contra portadores durante contenção.
+Uso de Sangue Fundador contra portadores durante contenção.
 
 Retenção de informação sobre Opus Quartum.
 
@@ -7215,7 +7425,7 @@ Severin não aceitou essa frase como sábio.
 
 Aceitou como alguém que descobriu que sua dor tinha alcance político.
 
-A família queimada ainda vivia dentro dele como sala sem porta. Mara, depois do fogo, ocupou outra sala. Os Reis Mortos ofereciam chaves para ambas. O Sangue Soberano podia transformar luto em ordem antes que a mente encontrasse freio. O amor dele por alguns podia ser tão perigoso quanto seu ódio por muitos.
+A família queimada ainda vivia dentro dele como sala sem porta. Mara, depois do fogo, ocupou outra sala. Os Reis Mortos ofereciam chaves para ambas. O Sangue Fundador podia transformar luto em ordem antes que a mente encontrasse freio. O amor dele por alguns podia ser tão perigoso quanto seu ódio por muitos.
 
 A lei não existia apenas para conter crueldade.
 
@@ -7263,7 +7473,7 @@ No fim desse arco, Severin não está mais próximo de ser bom.
 
 Está mais próximo de ser governável.
 
-E isso, para um homem feito de sangue soberano, talvez seja a forma mais dolorosa de esperança.
+E isso, para um homem feito de sangue fundador, talvez seja a forma mais dolorosa de esperança.
 
 
 
@@ -7279,7 +7489,7 @@ Tem três noites.
 
 A **Noite Antiga** reúne aquilo que deseja restaurar forma: vampiros de casas sobreviventes, servos vinculados, cortes quebradas, pactos que querem de volta a boca da coroa, criaturas que lembram comando, nobres que preferem uma tirania refinada a um mundo em ruína. Para eles, a Lua Ferida é prova de que a velha ordem foi interrompida, não derrotada. Severin é vergonha, chave, herdeiro e problema. Se aceitarem seu sangue, precisam aceitar que a pureza fracassou. Se o rejeitarem, rejeitam a única autoridade que o próprio mundo antigo reconhece.
 
-A **Aurora Profanada** reúne os homens que chamam sobrevivência de luz: reis humanos, Ordem da Aurora, Ofício da Pureza, Militia Crucis, laboratórios reabertos, quimeras em contenção, arquivos partidos, bispos que preferem pecado útil a extinção honesta. Para eles, a Lua Ferida é ameaça total. Cada criatura que volta confirma a necessidade de métodos antigos. Cada inocente queimado por engano vira custo triste. Cada arma proibida parece menos proibida quando uma vila desaparece.
+A **Ordem Branca Profanada** reúne os homens que chamam sobrevivência de luz: reis humanos, Ordem Branca, Ofício da Pureza, Militia Crucis, laboratórios reabertos, quimeras em contenção, arquivos partidos, bispos que preferem pecado útil a extinção honesta. Para eles, a Lua Ferida é ameaça total. Cada criatura que volta confirma a necessidade de métodos antigos. Cada inocente queimado por engano vira custo triste. Cada arma proibida parece menos proibida quando uma vila desaparece.
 
 A **Noite Sem Dono** reúne aquilo que recusa tanto coroa quanto cruz: demônios livres, revenants sem encerramento, povos de fronteira expulsos por mapas humanos, criaturas que não querem retornar à vassalagem vampírica, quimeras que odeiam seus criadores mas não aceitam novo senhor, mortos que não desejam guerra e ainda assim a espalham por não terem sido ouvidos. Essa noite não possui trono nem concílio. É dispersa, faminta, contraditória. Pode proteger, devorar, negociar ou destruir conforme a ferida que a move.
 
@@ -7287,7 +7497,7 @@ Severin atravessa as três.
 
 A Noite Antiga quer que ele lembre.
 
-A Aurora Profanada quer que ele prove.
+A Ordem Branca Profanada quer que ele prove.
 
 A Noite Sem Dono quer saber se ele nomeará ou classificará.
 
@@ -7323,19 +7533,19 @@ Uma igreja racha durante a missa. Da cripta sobe respiração. O padre jura que 
 
 #### Capítulo: O sino que ensinava dor
 
-Uma quimera consciente ouve um sino da Aurora e desaba, não por obediência, mas por memória. Seu corpo tenta ajoelhar. Sua mente tenta morder a própria língua para não responder. Severin compreende que os comandos humanos não controlam apenas monstros; controlam traumas. A pergunta deixa de ser como conter a quimera e passa a ser quem tem direito de pronunciar o som que a quebra.
+Uma quimera consciente ouve um sino da Ordem Branca e desaba, não por obediência, mas por memória. Seu corpo tenta ajoelhar. Sua mente tenta morder a própria língua para não responder. Severin compreende que os comandos humanos não controlam apenas monstros; controlam traumas. A pergunta deixa de ser como conter a quimera e passa a ser quem tem direito de pronunciar o som que a quebra.
 
 #### Capítulo: O concílio sob chão vivo
 
-Bispos, reis e oficiais da Aurora reúnem-se em uma catedral construída sobre uma Fovea Belli. Acima, discutem se libertarão quimeras. Abaixo, as quimeras sentem a palavra libertação como ruído distante. Cada argumento no salão altera a respiração sob a pedra. Um dos presentes percebe que o chão responde melhor à guerra do que à oração.
+Bispos, reis e oficiais da Ordem Branca reúnem-se em uma catedral construída sobre uma Fovea Belli. Acima, discutem se libertarão quimeras. Abaixo, as quimeras sentem a palavra libertação como ruído distante. Cada argumento no salão altera a respiração sob a pedra. Um dos presentes percebe que o chão responde melhor à guerra do que à oração.
 
 #### Capítulo: Os sem-dono na floresta
 
 Humanos fugidos, mestiços, uma criatura de bosque, dois portadores de Eco, um revenant infantil e um desertor da Militia Crucis sobrevivem juntos numa floresta marcada por veios de Lua. Nenhum deles confia nos outros. Todos têm razão. Quando vampiros e caçadores chegam ao mesmo tempo, o grupo precisa escolher entre entregar o diferente mais perigoso ou aceitar que sobreviverão apenas se recusarem a usar as categorias de quem os persegue.
 
-#### Capítulo: A Aurora abre uma fossa
+#### Capítulo: A Ordem Branca abre uma fossa
 
-Pela primeira vez, a Ordem da Aurora liberta deliberadamente uma quimera contra uma incursão vampírica. A criatura vence. Salva uma cidade. Depois continua procurando guerra. Os homens celebram ao meio-dia e trancam as portas à noite. A vitória prova que a arma funciona. O horror prova que funcionar nunca foi o mesmo que obedecer.
+Pela primeira vez, a Ordem Branca liberta deliberadamente uma quimera contra uma incursão vampírica. A criatura vence. Salva uma cidade. Depois continua procurando guerra. Os homens celebram ao meio-dia e trancam as portas à noite. A vitória prova que a arma funciona. O horror prova que funcionar nunca foi o mesmo que obedecer.
 
 #### Capítulo: A Noite Antiga oferece paz
 
@@ -7351,7 +7561,7 @@ Uma cidade pequena recusa a entrada do Ofício e aceita proteção de um pacto c
 
 #### Capítulo: O primeiro campo triangular
 
-A primeira batalha aberta entre vampiros, Aurora e sem-dono não tem centro. Quimeras libertadas atacam vampiros e depois humanos. Revenants atravessam linhas procurando parentes entre soldados. Demônios oferecem atalhos. Vampiros tentam chamar criaturas vinculadas. A Aurora usa sinos que enlouquecem metade dos cavalos. Severin não comanda o campo. Tenta impedir que a batalha ensine a todos a mesma língua.
+A primeira batalha aberta entre vampiros, Ordem Branca e sem-dono não tem centro. Quimeras libertadas atacam vampiros e depois humanos. Revenants atravessam linhas procurando parentes entre soldados. Demônios oferecem atalhos. Vampiros tentam chamar criaturas vinculadas. A Ordem Branca usa sinos que enlouquecem metade dos cavalos. Severin não comanda o campo. Tenta impedir que a batalha ensine a todos a mesma língua.
 
 #### Capítulo: A pergunta das quimeras
 
@@ -7496,7 +7706,7 @@ Mais adiante, Severin encara os reis em um espaço interno feito de trono, ossos
 
 #### A cura que visita e volta
 
-Severin envia o próprio sangue para dentro de alguém à beira da morte. O sangue entra como fio escuro, costura o que se rompeu, empurra veneno para fora e retorna pela ferida como se nunca tivesse pretendido ficar. A pessoa vive. Mas, dias depois, ouve nos sonhos o eco de um coração que não é o seu. A cura não deixou sangue soberano. Deixou passagem.
+Severin envia o próprio sangue para dentro de alguém à beira da morte. O sangue entra como fio escuro, costura o que se rompeu, empurra veneno para fora e retorna pela ferida como se nunca tivesse pretendido ficar. A pessoa vive. Mas, dias depois, ouve nos sonhos o eco de um coração que não é o seu. A cura não deixou sangue fundador. Deixou passagem.
 
 #### A Maré de Retorno
 
@@ -7504,7 +7714,7 @@ Após uma guerra, Severin para no centro do campo. Está ferido demais para cont
 
 #### O coração sob ataque
 
-O Ofício não mira a boca nem a veia. Mira o batimento. Um cardiarca aproxima sinos pequenos do peito de Severin, tentando desregular o ritmo pelo qual o Sangue Soberano nasce. Pela primeira vez, Severin sente que a coroa pode ser atacada não no nome, nem no sangue derramado, mas no lugar onde a vontade vira pulso.
+O Ofício não mira a boca nem a veia. Mira o batimento. Um cardiarca aproxima sinos pequenos do peito de Severin, tentando desregular o ritmo pelo qual o Sangue Fundador nasce. Pela primeira vez, Severin sente que a coroa pode ser atacada não no nome, nem no sangue derramado, mas no lugar onde a vontade vira pulso.
 
 #### A operação que afoga a Mesa
 
@@ -7540,7 +7750,7 @@ O nome de Mara é lido não como vítima, mas como acusada. Severin sente o mund
 
 #### O cofre aberto ao meio-dia
 
-Durante a Sombra da Aurora, uma capital inteira escurece em pleno dia. O rei ou rainha desce aos arquivos subterrâneos enquanto o povo reza nas praças. Um cofre que nenhum monarca vivo abriu responde ao eclipse. Dentro dele não há espada sagrada nem plano heroico. Há uma lista de aldeias humanas oferecidas como isca na última guerra.
+Durante a Sombra Branca, uma capital inteira escurece em pleno dia. O rei ou rainha desce aos arquivos subterrâneos enquanto o povo reza nas praças. Um cofre que nenhum monarca vivo abriu responde ao eclipse. Dentro dele não há espada sagrada nem plano heroico. Há uma lista de aldeias humanas oferecidas como isca na última guerra.
 
 #### A mesa dos arquivos partidos
 
@@ -7548,7 +7758,7 @@ No Concilium Cinerum, cada casa real coloca sua peça sobre a mesa. Uma lista n�
 
 #### O povo ouvindo a palavra “necessário”
 
-Um rei tenta justificar a reativação da Ordem da Aurora diante de uma multidão. Usa palavras como proteção, unidade, sacrifício e sobrevivência. Então alguém lê em voz alta um fragmento real dos arquivos. A palavra “sacrifício” muda de som no ar. O povo entende que, na língua das coroas, necessidade às vezes significa escolher quem será queimado primeiro.
+Um rei tenta justificar a reativação da Ordem Branca diante de uma multidão. Usa palavras como proteção, unidade, sacrifício e sobrevivência. Então alguém lê em voz alta um fragmento real dos arquivos. A palavra “sacrifício” muda de som no ar. O povo entende que, na língua das coroas, necessidade às vezes significa escolher quem será queimado primeiro.
 
 #### O padre que recusa a gaveta do Diabo
 
@@ -7569,7 +7779,7 @@ Severin encontra a Exstirpatio Lunae em arquivo fechado. Não há poesia no docu
 
 #### A quimera que reconhece a falha
 
-Uma Chimaera Aurorae desperta e encara Severin não como rei, mas como insulto vivo. Ela vê nele a síntese que os humanos tentaram fabricar com lâminas. Ele vê nela uma existência que nunca pôde escolher não ser arma. O encontro é menos triunfo e mais espelho: dois corpos chamados de erro por razões opostas.
+Uma Chimaera Alba desperta e encara Severin não como rei, mas como insulto vivo. Ela vê nele a síntese que os humanos tentaram fabricar com lâminas. Ele vê nela uma existência que nunca pôde escolher não ser arma. O encontro é menos triunfo e mais espelho: dois corpos chamados de erro por razões opostas.
 
 #### A mãe que morre vendo o fim
 
@@ -7610,7 +7820,7 @@ O Cancelário atrasa uma evacuação e precisa escrever, antes da decisão, quan
 
 #### A Lei do Intervalo
 
-Durante a Exaustão, portadores atacam uma casa humana. Severin usa o Sangue Soberano para conter os seus, não para julgar. Um deles cai de joelhos e diz que o sangue do rei também sabe humilhar os perseguidos.
+Durante a Exaustão, portadores atacam uma casa humana. Severin usa o Sangue Fundador para conter os seus, não para julgar. Um deles cai de joelhos e diz que o sangue do rei também sabe humilhar os perseguidos.
 
 #### A auditoria da contenção
 
@@ -7626,7 +7836,7 @@ A pessoa que conteve Severin passa a carregar no braço a marca do refluxo. Seve
 
 #### A Regência de Intervalo
 
-Com Severin bloqueado, a Mesa precisa evacuar sem o Sangue Soberano. Guardas morrem segurando portas que ele poderia ter fechado com uma palavra. A lei sobrevive por uma noite e perde gente suficiente para odiar a própria sobrevivência.
+Com Severin bloqueado, a Mesa precisa evacuar sem o Sangue Fundador. Guardas morrem segurando portas que ele poderia ter fechado com uma palavra. A lei sobrevive por uma noite e perde gente suficiente para odiar a própria sobrevivência.
 
 #### O Livro da Mancha publicado
 
@@ -7694,7 +7904,7 @@ A Mesa decide que Severin não poderá julgar qualquer rito ligado ao retorno de
 
 > **Eu não sou o último de vocês. Sou o primeiro depois de vocês.**
 
-> **O Sangue Soberano não se copiava. Quando tentavam roubá-lo, virava febre, dívida ou caminho de volta.**
+> **O Sangue Fundador não se copiava. Quando tentavam roubá-lo, virava febre, dívida ou caminho de volta.**
 
 > **O Eco Sanguíneo era uma coroa ouvida debaixo d’água: ainda reconhecível, mas incapaz de governar.**
 
@@ -7750,7 +7960,7 @@ A Mesa decide que Severin não poderá julgar qualquer rito ligado ao retorno de
 
 > **Quando os homens cobriram a Lua, a noite sangrou. Quando a Lua cobriu os homens, eles abriram os arquivos da própria monstruosidade.**
 
-> **A Lua Ferida devolveu os mortos. A Sombra da Aurora devolveu aos vivos a lembrança do que fizeram para continuar vivos.**
+> **A Lua Ferida devolveu os mortos. A Sombra Branca devolveu aos vivos a lembrança do que fizeram para continuar vivos.**
 
 > **A antiga ordem não era luz. Era sombra disciplinada.**
 
@@ -7907,7 +8117,7 @@ A Mesa decide que Severin não poderá julgar qualquer rito ligado ao retorno de
 
 **Os portões salvaram cidades e inventaram novos abandonados.**
 
-**A velha noite oferecia ordem com dentes. A Aurora oferecia salvação com porões. A Noite Sem Dono oferecia liberdade sem garantia de piedade.**
+**A velha noite oferecia ordem com dentes. A Ordem Branca oferecia salvação com porões. A Noite Sem Dono oferecia liberdade sem garantia de piedade.**
 
 **Quando os homens perderam o céu, consultaram os arquivos. Quando os animais perderam o chão, consultaram o medo.**
 
@@ -7993,7 +8203,7 @@ Rito de contenção avançada. O sangue é retirado em cortes pequenos e sucessi
 
 #### A Taça Invertida
 
-Versão secreta e agressiva da Prova da Taça. Não pergunta se o sangue é limpo. Ordena que ele se explique. O Sangue Soberano reage mal a essa exigência: pulsa, separa-se em camadas, forma fios, tenta sair do recipiente, como se recusasse a ser dividido em humano, vampírico, real, morto ou contaminado.
+Versão secreta e agressiva da Prova da Taça. Não pergunta se o sangue é limpo. Ordena que ele se explique. O Sangue Fundador reage mal a essa exigência: pulsa, separa-se em camadas, forma fios, tenta sair do recipiente, como se recusasse a ser dividido em humano, vampírico, real, morto ou contaminado.
 
 #### O Círculo das Testemunhas Cegas
 
@@ -8021,19 +8231,19 @@ Encenação pública do Ofício para transformar luto em prova de instabilidade.
 
 #### O Eco Sanguíneo
 
-Nome dado por estudiosos, vampiros e hereges a qualquer reverberação do Sangue Soberano fora de Severin. O Eco nasce quando o sangue dele atravessa outro corpo e deixa nele uma autoridade degradada: mais marca que herança, mais febre que trono. Pode fortalecer, curar, enlouquecer, vincular ou revelar caminhos ocultos, mas jamais cria outro soberano.
+Nome dado por estudiosos, vampiros e hereges a qualquer reverberação do Sangue Fundador fora de Severin. O Eco nasce quando o sangue dele atravessa outro corpo e deixa nele uma autoridade degradada: mais marca que herança, mais febre que trono. Pode fortalecer, curar, enlouquecer, vincular ou revelar caminhos ocultos, mas jamais cria outro soberano.
 
 O Primeiro Eco ainda lembra a fonte. O Segundo Eco lembra a lembrança. Depois, restam resíduos: corpos sensíveis a ritos, filhos com sonhos de castelo, feridas que fecham errado, sangue que escurece ao ouvir certos nomes. Famílias inteiras podem nascer de um erro desses sem nunca compreender por que sentem saudade de uma ruína.
 
 #### A Maré de Retorno
 
-Manifestação avançada do domínio sobre o próprio sangue. Quando o Coração Criador chama, todo Sangue Soberano Derramado Livre ainda vinculado a Severin pode regressar ao corpo. Gotas escorrem contra a inclinação, manchas se desprendem de tecido, fios escuros abandonam aço, lama e pedra. O retorno recompõe, mas também cobra. Cada porção traz consigo a impressão do que tocou.
+Manifestação avançada do domínio sobre o próprio sangue. Quando o Coração Criador chama, todo Sangue Fundador Derramado Livre ainda vinculado a Severin pode regressar ao corpo. Gotas escorrem contra a inclinação, manchas se desprendem de tecido, fios escuros abandonam aço, lama e pedra. O retorno recompõe, mas também cobra. Cada porção traz consigo a impressão do que tocou.
 
 A Maré de Retorno não alcança sangue convertido em Eco, metabolizado, destruído por rito ou selado por contenção bastante forte. Também não é cura tranquila. É o corpo soberano recusando perda com violência suficiente para quase se romper.
 
 #### A Taça Cardial
 
-Instrumento experimental do Ofício. Uma gota de Sangue Soberano roubado é colocada em uma taça de prata fria, ferro escuro e vidro interno, enquanto sinos pequenos tentam imitá-la a distância. O objetivo é localizar, estudar ou perturbar o Coração Criador. A taça não consegue produzir sangue novo, mas pode revelar arritmias, fraquezas, respostas de retorno ou momentos em que Severin está usando poder demais.
+Instrumento experimental do Ofício. Uma gota de Sangue Fundador roubado é colocada em uma taça de prata fria, ferro escuro e vidro interno, enquanto sinos pequenos tentam imitá-la a distância. O objetivo é localizar, estudar ou perturbar o Coração Criador. A taça não consegue produzir sangue novo, mas pode revelar arritmias, fraquezas, respostas de retorno ou momentos em que Severin está usando poder demais.
 
 #### O Sino Cardíaco
 
@@ -8114,15 +8324,15 @@ Nos arquivos, cada ramo eliminado era tratado como margem concluída. A família
 
 #### O Officium Chimaerarum
 
-Divisão secreta da antiga Ordem da Aurora dedicada à fabricação de quimeras de guerra. Reunia médicos de sangue, monges anatômicos, exorcistas, cirurgiões, alquimistas, carrascos e financiadores nobres. Oficialmente, estudava anatomia monstruosa e cura de pragas. Secretamente, perseguia o Opus Tertium.
+Divisão secreta da antiga Ordem Branca dedicada à fabricação de quimeras de guerra. Reunia médicos de sangue, monges anatômicos, exorcistas, cirurgiões, alquimistas, carrascos e financiadores nobres. Oficialmente, estudava anatomia monstruosa e cura de pragas. Secretamente, perseguia o Opus Tertium.
 
 #### O Opus Tertium
 
 A Obra Terceira. Projeto humano para criar uma síntese controlável: um corpo que reunisse força não humana, regeneração, resistência, obediência e lealdade às coroas. O projeto nunca alcançou verdadeira síntese. Produziu composições: corpos eficazes, quebrados, feitos de naturezas incompatíveis e guerra interna.
 
-#### As Chimaerae Aurorae
+#### As Chimaerae Albae
 
-Quimeras da Aurora. Criaturas híbridas fabricadas pela antiga ordem humana para enfrentar vampiros, demônios e bestas. Algumas venceram batalhas que as crônicas omitiram. Nenhuma foi feita para viver depois da guerra. Sem inimigo, procuravam inimigo. Sem campo de batalha, transformavam o mundo em campo de batalha.
+Quimeras Brancas. Criaturas híbridas fabricadas pela antiga ordem humana para enfrentar vampiros, demônios e bestas. Algumas venceram batalhas que as crônicas omitiram. Nenhuma foi feita para viver depois da guerra. Sem inimigo, procuravam inimigo. Sem campo de batalha, transformavam o mundo em campo de batalha.
 
 #### As Foveae Belli
 
@@ -8144,13 +8354,13 @@ Conjunto de leis urbanas criadas após a Lua Ferida: fechamento de portões ante
 
 #### A Guerra das Três Noites
 
-Nome dado ao conflito macro entre a Noite Antiga, a Aurora Profanada e a Noite Sem Dono. Não representa três exércitos fixos, mas três lógicas de sobrevivência: restauração, purificação e recusa de domínio.
+Nome dado ao conflito macro entre a Noite Antiga, a Ordem Branca Profanada e a Noite Sem Dono. Não representa três exércitos fixos, mas três lógicas de sobrevivência: restauração, purificação e recusa de domínio.
 
 #### A Noite Antiga
 
 Conjunto de forças ligadas à antiga civilização vampírica: casas nobres, servos vinculados, pactos régios, criaturas de corte e instituições que desejam restaurar forma ao mundo retornado.
 
-#### A Aurora Profanada
+#### A Ordem Branca Profanada
 
 Nome dado ao lado humano quando a defesa da espécie passa a depender de arquivos sujos, quimeras, purificações, contenções e métodos que os próprios humanos enterraram depois da última guerra.
 
@@ -8166,7 +8376,7 @@ Seu mecanismo acumula sangue simbólico na Lua a cada eclipse lunar. Quando a Te
 
 O rito não previa Severin.
 
-Por isso, ao funcionar através dele, não restaurou a antiga coroa de modo limpo. Criou Sangue Soberano.
+Por isso, ao funcionar através dele, não restaurou a antiga coroa de modo limpo. Criou Sangue Fundador.
 
 #### A Luna Vulnata
 
@@ -8226,7 +8436,7 @@ Seu horror é salvar Severin da fogueira para entregá-lo à mesa.
 
 #### Os Manípulos de Saneamento
 
-Equipes de campo da Aurora compostas por soldados, médicos de veia, notários, portadores de rede, tocadores de sino, condutores de cães de linhagem e executores de mandato. Não procuram glória. Procuram contenção funcional. Chegam quando a criatura ainda respira, quando o rumor ainda não virou doutrina e quando o papel precisa chegar antes da turba.
+Equipes de campo da Ordem Branca compostas por soldados, médicos de veia, notários, portadores de rede, tocadores de sino, condutores de cães de linhagem e executores de mandato. Não procuram glória. Procuram contenção funcional. Chegam quando a criatura ainda respira, quando o rumor ainda não virou doutrina e quando o papel precisa chegar antes da turba.
 
 Onde passam, muitas vezes há menos mortos.
 
@@ -8242,7 +8452,7 @@ Animais treinados para farejar diferenças de sangue. Podem distinguir sangue hu
 
 #### O Índice das Faltas de Suprimento
 
-Registro informal mantido por capitães honestos, contrabandistas da Aurora e dissidentes que já viram uma vila morrer por equipamento ruim. Lista sinos desafinados, sal falsificado, bacias rachadas, redes sem prata suficiente, cães instáveis, mordaças mal ajustadas e postos que ainda fingem capacidade de contenção. Em mãos de Severin, esse índice vale mais que mapa militar: mostra onde a máquina humana é forte, onde é mentira e onde uma vila será sacrificada por falta de inventário.
+Registro informal mantido por capitães honestos, contrabandistas da Ordem Branca e dissidentes que já viram uma vila morrer por equipamento ruim. Lista sinos desafinados, sal falsificado, bacias rachadas, redes sem prata suficiente, cães instáveis, mordaças mal ajustadas e postos que ainda fingem capacidade de contenção. Em mãos de Severin, esse índice vale mais que mapa militar: mostra onde a máquina humana é forte, onde é mentira e onde uma vila será sacrificada por falta de inventário.
 
 #### O Contra-Nome
 
@@ -8258,15 +8468,15 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 #### Instituições e alianças
 
-**Ordo Aurorae** — Ordem da Aurora. Nome solene da antiga ordem mundial humana. A ironia é essencial: ela se chamava Aurora, mas operava como sombra disciplinada.
+**Ordo Albus** — Ordem Branca. Nome solene da antiga ordem mundial humana. A ironia é essencial: ela se chamava Ordem Branca, mas operava como sombra disciplinada.
 
 **Foedus Coronarum** — Pacto das Coroas. Nome usado em tratados entre casas reais.
 
-**Concilium Cinerum** — Concílio das Cinzas. Reunião extraordinária dos reis e prelados para decidir se a Ordem da Aurora será reativada.
+**Concilium Cinerum** — Concílio das Cinzas. Reunião extraordinária dos reis e prelados para decidir se a Ordem Branca será reativada.
 
 **Concilium Regum** — Conselho dos Reis. Nome mais neutro, usado em proclamações públicas quando a palavra “cinzas” seria perigosa demais.
 
-**Corpus Aurorae** — Corpo da Aurora. Nome secreto para o conjunto completo dos arquivos, quando todas as partes são reunidas.
+**Corpus Album** — Corpo Branco. Nome secreto para o conjunto completo dos arquivos, quando todas as partes são reunidas.
 
 **Archiva Fracta** — Arquivos Partidos. Nome dos fragmentos documentais guardados separadamente por cada casa real.
 
@@ -8274,7 +8484,7 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Officium Puritatis** — Ofício da Pureza. Nome latino oficial do Ofício da Pureza.
 
-**Officium Sanguinis** — Ofício do Sangue. Nome antigo ou interno usado quando o órgão ainda era divisão militar-genealógica da Ordem da Aurora.
+**Officium Sanguinis** — Ofício do Sangue. Nome antigo ou interno usado quando o órgão ainda era divisão militar-genealógica da Ordem Branca.
 
 **Ritus Coronae Sepultae** — Rito da Coroa Sepulta. Nome vampírico-latino posterior ou de tradução humana para o mecanismo que aguardava a Lua de Sangue Plena e um herdeiro real puro; em Severin, recebeu sangue mestiço e produziu a Luna Vulnata.
 
@@ -8282,7 +8492,7 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Exstirpatio Lunae** — Extirpação da Lua. Nome secreto da caçada humana aos descendentes mestiços da Linhagem da Lua de Sangue.
 
-**Officium Chimaerarum** — Ofício das Quimeras. Divisão secreta da Ordem da Aurora responsável por fabricar híbridos de guerra.
+**Officium Chimaerarum** — Ofício das Quimeras. Divisão secreta da Ordem Branca responsável por fabricar híbridos de guerra.
 
 **Opus Tertium** — Obra Terceira. Nome do projeto humano de criar uma síntese controlável entre naturezas humanas e não humanas.
 
@@ -8361,7 +8571,7 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Cardiarches** — Cardiarca. Especialista em cadência cardíaca, usado contra o Coração Criador.
 
-**Notarius Belli** — Notário da Guerra. Escriba de campanhas da Ordem da Aurora.
+**Notarius Belli** — Notário da Guerra. Escriba de campanhas da Ordem Branca.
 
 **Camera Sigillorum** — Câmara dos Selos. Órgão responsável pela autenticação de mandados, certidões e autorizações.
 
@@ -8417,7 +8627,7 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Corpus Inclassificabile** — Corpo Inclassificável. Variante mais fria, usada em relatório de contenção.
 
-**Chimaerae Aurorae** — Quimeras da Aurora. Criaturas híbridas fabricadas por humanos durante a última guerra, tentativas fracassadas de uma terceira natureza controlável.
+**Chimaerae Albae** — Quimeras Brancas. Criaturas híbridas fabricadas por humanos durante a última guerra, tentativas fracassadas de uma terceira natureza controlável.
 
 **Bestiae Compositae** — Bestas Compostas. Termo técnico alternativo para quimeras instáveis, especialmente as que perderam linguagem.
 
@@ -8426,15 +8636,15 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Cryptae Chimaerarum** — Criptas das Quimeras. Nome técnico para câmaras de contenção sob igrejas e mosteiros.
 
-**Fundamenta Aurorae** — Fundações da Aurora. Termo usado para construções religiosas erguidas sobre infraestrutura de guerra da antiga Ordem.
+**Fundamenta Ordinis Albi** — Fundações da Ordem Branca. Termo usado para construções religiosas erguidas sobre infraestrutura de guerra da antiga Ordem.
 
 **Subterranea Sancta** — Subterrâneos Santos. Nome eclesiástico velado para porões de contenção sob espaços sagrados.
 
-**Bellum Trium Noctium** — Guerra das Três Noites. Expressão erudita para o conflito entre Noite Antiga, Aurora Profanada e Noite Sem Dono.
+**Bellum Trium Noctium** — Guerra das Três Noites. Expressão erudita para o conflito entre Noite Antiga, Ordem Branca Profanada e Noite Sem Dono.
 
 **Vetus Nox** — Noite Antiga. A restauração vampírica e suas formas de ordem.
 
-**Aurora Profanata** — Aurora Profanada. A defesa humana que recorre aos próprios métodos enterrados.
+**Ordo Albus Profanatus** — Ordem Branca Profanada. A defesa humana que recorre aos próprios métodos enterrados.
 
 **Nox Sine Domino** — Noite Sem Dono. Tudo que retorna ou resiste sem aceitar coroa vampírica nem jurisdição humana.
 
@@ -8446,7 +8656,7 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Luna Sanguinea** — Lua de Sangue. Evento ligado à antiga linhagem real vampírica, ao rito lunar, ao segundo nascimento de Severin e ao retorno do mundo antigo.
 
-**Umbra Aurorae** — Sombra da Aurora. Nome secreto e ritual do eclipse que desperta os Arquivos Partidos e a antiga ordem humana.
+**Umbra Alba** — Sombra Branca. Nome secreto e ritual do eclipse que desperta os Arquivos Partidos e a antiga ordem humana.
 
 **Eclipsis Coronarum** — Eclipse das Coroas. Nome de chancelaria para o mesmo evento.
 
@@ -8502,7 +8712,7 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Sanguis testatur, sed non semper veritatem dicit.** — O sangue testemunha, mas nem sempre diz a verdade.
 
-**Aurora non lux fuit, sed umbra ordinata.** — A Aurora não foi luz, mas sombra ordenada.
+**Albedo non innocentia fuit, sed umbra ordinata.** — A brancura não foi inocência, mas sombra ordenada.
 
 **Sub cruce multa combusta sunt.** — Sob a cruz, muitas coisas foram queimadas.
 
@@ -8651,7 +8861,7 @@ O Ofício o chamará de Caso Sângelună, Fonte Primária, Anomalia Soberana, Co
 
 A Igreja hostil poderá chamá-lo de Ungido Falso, Filho da Lua Profanada, Rei sem Sacramento, Cordeiro Invertido, Sinal de Sangue. A Igreja sincera talvez tema esses nomes, porque saberá que um anátema errado pode matar tanto quanto uma lâmina certa.
 
-A Aurora o chamará de alvo, foco, eixo de retorno, prioridade rubra, ameaça regencial, falso príncipe noctívago. Não deseja que o soldado pense em trono. Deseja que veja uma posição a ser neutralizada.
+A Ordem Branca o chamará de alvo, foco, eixo de retorno, prioridade rubra, ameaça regencial, falso príncipe noctívago. Não deseja que o soldado pense em trono. Deseja que veja uma posição a ser neutralizada.
 
 O povo o chamará como puder: homem da Lua Ferida, abismo que anda, morto das ruínas, rei sem castelo, aquele que veio depois dos monstros. O povo nomeia com medo e imagem. Às vezes acerta mais que os doutores.
 
