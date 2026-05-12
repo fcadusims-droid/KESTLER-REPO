@@ -664,6 +664,98 @@ Quando enfim alcança o ar aberto, a floresta está molhada, quebrada e silencio
 
 Parece apenas menos vazio de horrores.
 
+### 23B. A batalha das jurisdições dentro do sangue
+
+Severin não acordou quando o abismo se abriu.
+
+As criaturas sim.
+
+Elas tinham forma antiga para onde retornar. Vampiros, servos, armaduras, bestas, demônios pactuados, mortos de aldeia e horrores sem nome haviam sido presos, selados, enterrados ou reduzidos a espera. Quando a Luna Vulnata tocou a Fossa Coronaria e os selos se romperam, o mundo antigo encontrou portas. Correntes cederam. Túmulos respiraram. Pactos abriram os olhos. O que era prisão virou passagem.
+
+As criaturas saíram porque já sabiam, ainda que deformadas, o que eram.
+
+Severin não.
+
+Seu corpo jazia sob pedra, lama e ossos, esmagado no lugar onde a quinta nação deveria ter recebido uma coroa. O sangue que desceu de sua carne ainda era quente demais para pertencer aos mortos e antigo demais para ser recusado pelos reis. Quando tocou os esqueletos da Fossa Coronaria, o rito respondeu com a fome de uma fechadura que esperara séculos pela chave.
+
+Mas a chave não era limpa.
+
+O Ritus Coronae Sepultae procurou sangue puro. Procurou continuidade sem ruído, herdeiro sem rachadura, vampiro sem humanidade suficiente para contradizer os ossos. Esperava uma veia capaz de receber a antiga coroa como taça recebe vinho. Em vez disso, encontrou Severin: sangue humano, sangue vampírico bastardo, linhagem real adormecida, morte recente, culpa sobrevivente, vergonha doméstica e uma vontade que, no instante final, não pediu trono.
+
+Pediu fim.
+
+Por isso a maldição não soube terminá-lo depressa.
+
+Dentro do buraco, antes que Severin voltasse a abrir os olhos, começou uma batalha sem lâmina. Não entre exércitos, nem entre almas claramente separadas, mas entre jurisdições que disputavam o direito de dizer o que aquele sangue era.
+
+O sangue humano dizia: corpo.
+
+Dizia mãe, pai, irmãs, leite, febre, medo de vizinhos, mãos lavando panos de parto, pele ensinada a parecer comum, nome sussurrado dentro de uma casa que já não existia.
+
+O sangue vampírico dizia: linhagem.
+
+Dizia noite, fome, cura, dentes escondidos, olhos que conheciam o escuro antes da coragem, força contida até virar vergonha, herança negada por todos os lados.
+
+O sangue velho dos reis dizia: coroa.
+
+Dizia pacto, sala do trono, direito de comando, nomes verdadeiros, ossos que ainda se lembravam de sentenças, cinco soberanos reduzidos a arquivo branco dentro da terra e uma nação que se recusava a aceitar que fora abortada.
+
+A maldição dizia: recipiente.
+
+Dizia restauração, rito, plenitude, retorno, forma prevista, corpo adequado, obediência da carne ao desenho escrito por mortos que não conheceram Severin.
+
+A pedra dizia: castelo.
+
+Dizia órgão sem corpo, muralha sem pele, cisterna sem circulação, corredor sem passo, trono sem peso, arquitetura faminta por alguém que a fizesse voltar a pulsar.
+
+E a ferida dizia: culpa.
+
+Dizia fumaça, madeira cedendo, a voz da irmã mais nova chamando por ele, o calor da casa, a corrida, o alívio obsceno de continuar vivo, o desejo de desaparecer antes que o mundo tivesse outra chance de acusá-lo.
+
+Nenhuma dessas jurisdições venceu.
+
+Se o sangue dos reis tivesse dominado, Severin teria acordado como restauração: uma boca viva para uma soberania morta, um herdeiro limpo o bastante para devolver à noite a forma antiga de seus senhores. Se o sangue humano tivesse vencido sozinho, o rito teria apodrecido dentro de um cadáver e a Fossa Coronaria teria bebido apenas mais um morto. Se o sangue vampírico bastardo tivesse se separado, talvez surgisse apenas uma criatura irregular, forte, faminta e incompleta. Se a maldição tivesse imposto sua gramática por inteiro, a Lua Ferida teria fechado a porta em apocalipse.
+
+Mas o sangue não se separou.
+
+Também não se misturou como água suja em água limpa.
+
+Lutou.
+
+Coagulou em torno dos ossos. Recuou da prata velha. Voltou pelas frestas como se procurasse uma frase que ainda não existia. Entrou em contato com o sangue real preservado e não o aceitou como senhor. Tocou a humanidade de Severin e não a queimou como impureza. Encontrou a fome vampírica e não permitiu que ela se tornasse única lei. A maldição pressionou de cima para baixo, exigindo forma. O castelo pressionou de baixo para cima, exigindo coração. Os reis pressionaram de dentro dos ossos, exigindo boca.
+
+O corpo morto de Severin ficou entre todas essas exigências.
+
+Por dias, no fundo da ruína, ele não foi vivo nem cadáver suficiente para encerrar a disputa. A pele se recompôs e rasgou por dentro. Ossos voltaram ao lugar com memória de pedra. Veias se abriram como corredores e se fecharam como portas. O coração, primeiro, não bateu. Depois tremeu. Depois recusou o ritmo antigo que os reis tentavam impor. Depois falhou outra vez.
+
+A síntese não nasceu como bênção.
+
+Nasceu como impasse.
+
+Cada batimento tentado era uma audiência. Cada gota que regressava ao peito trazia uma decisão provisória. O sangue humano impedia que Severin se tornasse apenas coroa. O sangue vampírico impedia que ele voltasse a ser apenas homem. O sangue dos reis impedia que a morte o reclamasse sem resposta. A maldição impedia que nada acontecesse. O castelo impedia que a soberania ficasse sem arquitetura. A culpa impedia que qualquer poder parecesse inocente.
+
+Foi assim que surgiu a terceira coisa.
+
+Não por harmonia.
+
+Por impossibilidade de vitória total.
+
+O Sangue Soberano nasceu quando todas as jurisdições antigas falharam em possuir Severin por inteiro. Não era pureza restaurada. Não era humanidade preservada. Não era vampirismo corrigido. Não era obediência ao rito. Era uma decisão biológica tomada no limite: se nenhuma lei antiga podia conter aquele corpo, então o corpo fabricaria uma lei nova.
+
+O coração que voltou a bater não era o coração de Vaelrûn, nem dos outros reis, nem do homem que morrera pedindo fim.
+
+Era o Coração Criador.
+
+Por isso Severin acordou depois.
+
+Os monstros foram libertados no instante em que as prisões se abriram. Severin precisou ser inventado pelo conflito que as abriu. Enquanto o mundo acima gritava, queimava, fugia e contava seus primeiros desaparecidos, o rei sem castelo permanecia sob a terra, sendo disputado gota por gota por tudo que desejava nomeá-lo antes que ele pudesse respirar.
+
+Quando enfim abriu os olhos, o retorno já havia acontecido sem ele.
+
+Não porque chegara tarde ao próprio reino.
+
+Porque seu reino ainda estava aprendendo a caber em seu sangue.
+
 ### 34. Conflito interno central
 
 A ferida mais antiga de Severin é:
@@ -8435,6 +8527,194 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 **Clavem ad seram persecuti sunt.** — Perseguiram a chave até a fechadura.
 
 E, porque a chave era mestiça, a fechadura abriu sem completar o fim.
+
+
+---
+
+### 43B. A gramática dos nomes disputados
+
+Na velha noite, nenhum nome importante era simples.
+
+Um nome podia nascer na boca de uma mãe, ser escondido pelo pai, registrado por um escriba, consagrado por um sacerdote de sangue, alterado por uma corte, insultado por um inimigo, reduzido por um arquivo, proibido por uma lei e devolvido séculos depois por alguém que já não lembrava por que tremia ao ouvi-lo.
+
+Os vampiros antigos não acreditavam que nomear fosse descrever.
+
+Nomear era colocar uma coisa em seu lugar.
+
+Por isso a antiga civilização lunar tratava o nome como arquitetura. A pessoa tinha um nome de nascimento, mas a casa possuía o sangue. O sangue possuía a fase. A fase possuía a função. A função possuía o rito. O rito possuía a memória. E a memória, quando escrita em pedra, podia sobreviver ao rosto que a carregava.
+
+Um nobre podia ser chamado de muitas formas sem que nenhuma delas fosse mentira. O nome dado no berço pertencia à intimidade. O nome da casa pertencia à linhagem. O nome de sangue indicava a veia ritual de onde vinha. O nome de trono, quando havia trono, era aquele que a pedra obedecia. O título de fase dizia qual jurisdição lunar reconhecia sua autoridade. O epíteto da corte ensinava como deveria ser lembrado. O epíteto do inimigo ensinava como deveria ser temido. O nome de cripta dizia o que restou dele depois da morte.
+
+Entre humanos, essa multiplicidade pareceria vaidade.
+
+Entre vampiros, era governo.
+
+Um rei que possuísse apenas um nome podia ser amado, odiado ou assassinado. Mas um rei distribuído em títulos, ritos, arquivos, pactos, epítetos, pedras, juramentos e nomes póstumos tornava-se mais difícil de matar por completo. A lâmina alcançava o corpo. O fogo alcançava a carne. O esquecimento precisava vencer todos os nomes ao mesmo tempo.
+
+Por isso, mesmo depois da queda, os cinco reis continuaram pesando dentro da história.
+
+Havia seus nomes pessoais, usados por aqueles que podiam se lembrar deles sem ajoelhar. Havia seus nomes de casa, que pertenciam às fases. Havia seus títulos de soberania, preservados em inscrições que poucos ainda sabiam ler. Havia os epítetos que a corte preferia repetir. Havia os nomes humilhantes que os humanos escreveram depois de arrancar-lhes a carne. Havia, por fim, os nomes que os ossos ainda acreditavam possuir.
+
+Nas inscrições mais antigas, antes que a linguagem se tornasse lenda, os soberanos das quatro fases regulares e da quinta ferida podiam receber títulos técnicos, quase fossilizados pela liturgia.
+
+**Noctivex** era o título do rei ligado à Lua Nova, portador do Véu, senhor de arquivo, segredo, nome verdadeiro e silêncio de Estado.
+
+**Crescivex** era o título do rei ligado à Lua Crescente, portador da Carne, senhor da expansão, dos berços de lâmina, das fronteiras em marcha e da geração disciplinada de guerra.
+
+**Plenivex** era o título do rei ligado à Lua Cheia, portador do Sangue, senhor do cálice, do tributo, da abundância administrada e da presença pública da corte.
+
+**Decrevex** era o título do rei ligado à Lua Minguante, portador do Ferro, senhor da redução, da prisão, da sentença, da ceifa legal e do encerramento de linhagens.
+
+**Cruorvex** era o título que deveria pertencer à Lua de Sangue, não como fase comum, mas como exceção soberana: o rei da Quinta Ferida, a boca da Coroa, aquele que faria Véu, Carne, Sangue e Ferro girarem em torno de um centro.
+
+Esses nomes não eram usados em conversas comuns.
+
+Eram pesados demais.
+
+Um servo não olhava para Vaelrûn e dizia Cruorvex como quem chama alguém para uma sala. Um general não dizia Plenivex diante de Maelórian sem medir a própria garganta. Esses títulos pertenciam a inscrições, proclamações, ritos de coroação, pactos demoníacos, sentenças de alta corte e juramentos feitos onde a pedra tinha direito de escutar.
+
+No uso vivo, os nomes eram mais concretos e mais perigosos.
+
+Ildráven Nóvralith era lembrado como o Rei da Boca Velada, porque sua maior autoridade não estava em falar, mas em decidir quais bocas podiam existir sem serem ouvidas.
+
+Ravhast Crescoryn era chamado de Rei dos Berços de Lâmina, porque sua nação não gerava apenas filhos. Gerava futuro armado.
+
+Maelórian Plenavyr era o Rei do Cálice Pleno, porque nenhum império faminto marchava longe se a abundância não fosse medida, preservada e cobrada.
+
+Ghordrath Minguarvex era o Rei da Ceifa de Ferro, porque sua justiça começava onde outra autoridade decidia que algo deveria diminuir até caber numa corrente, numa cela ou numa vala.
+
+Vaelrûn Sângelună era o Rei da Quinta Ferida, porque sua coroa não chegou a completar o ciclo. Ele não herdou uma nação terminada. Herdou uma boca aberta no mapa.
+
+Depois da morte, cada um ganhou nomes novos.
+
+Os vampiros sobreviventes, quando ousavam recordar, preferiam nomes de luto: o Velado, o Crescente, o Pleno, a Ceifa, o Inacabado. Os humanos preferiam nomes de redução: amostra, tirano, cadáver régio, inimigo extinto, resto selado. O Ofício, quando aprendeu a escrever a vitória com frieza suficiente, não chamava os reis de reis. Chamava-os de exemplares, focos, matrizes, ossadas de alta periculosidade, fontes históricas de contaminação.
+
+Essa diferença importava.
+
+Um rei chamado de rei ainda podia exigir resposta.
+
+Um rei chamado de amostra podia ser aberto sobre uma mesa.
+
+A antiga corte também conhecia nomes que não pertenciam plenamente aos vivos.
+
+O **nome de cripta** era dado ao morto de linhagem quando sua memória precisava continuar dentro da casa. Não dizia apenas quem ele fora. Dizia qual parte dele deveria permanecer útil aos descendentes.
+
+O **nome de torpor** pertencia aos que entravam em sono longo, selamento, clausura ou espera ritual. Enquanto o corpo não caminhava, o nome trabalhava por ele. Um vampiro adormecido podia continuar assombrando a política se seu nome de torpor permanecesse em juramentos, cartas e ameaças.
+
+O **nome de retorno** nascia quando alguém despertava depois de tempo demais. Não era repetição do nome antigo. Era o nome dado ao que o tempo havia deixado de pé. Alguns acordavam menores que sua memória e recebiam nomes cruéis. Outros acordavam mais perigosos que sua lenda e recebiam nomes que as cortes evitavam pronunciar de noite.
+
+O **nome de fossa** era pior.
+
+Pertencia aos que saíam de lugares onde a morte, o selo e a espera haviam mastigado a identidade. Nem todo retornado da Fossa Coronaria lembrava seu nome de nascimento. Alguns lembravam apenas a última ordem. Outros, a última fome. Outros, a função. Outros, o crime pelo qual foram enterrados. Havia armaduras que respondiam ao nome da sentença que as moveu pela última vez. Havia servos que se apresentavam como corredor, porta, bandeja, lâmina, degrau. Havia bestas que não tinham nome, apenas cheiro de comando.
+
+A Fossa devolveu muitos corpos.
+
+Nem todos voltaram com pessoa suficiente para carregá-los.
+
+Quando a Luna Vulnata abriu o passado, esses nomes antigos acordaram junto das criaturas. Alguns vieram inteiros. Outros vieram mordidos. Outros vieram colados em funções que já não tinham castelo onde servir. A velha noite não retornou apenas como exército, mas como vocabulário quebrado.
+
+Um servo podia ajoelhar diante de Severin porque seu sangue reconhecia a coroa, mas chamá-lo pelo título errado.
+
+Um vampiro nobre podia recusar ajoelhar e, ainda assim, sentir o próprio sangue tropeçar ao ouvir Sângelună.
+
+Um demônio pactuado podia não reconhecer a pessoa, mas reconhecer a cláusula que o nome antigo carregava.
+
+Uma armadura viva podia ignorar Severin até que uma sílaba de comando escapasse de sua boca com a cadência dos mortos.
+
+Nenhum desses reconhecimentos era lealdade.
+
+Eram antigas linguagens tentando encontrar dono.
+
+O mundo humano respondeu com outra gramática.
+
+Para o Ofício da Pureza, nomes não existiam para honrar. Existiam para prender.
+
+O nome de nascimento era dado secundário. O nome de família era pista. O sobrenome verdadeiro era confissão. O nome de casa era risco genealógico. O nome de dentro era prova. O apelido popular era ruído. O nome de arquivo era o que importava.
+
+Uma criança podia chamar-se Mara antes de entrar na tenda do linhageiro. Depois da pena tocar o papel, tornava-se menor exposta a contato sanguíneo não certificado. Uma mãe podia ser mulher, viúva, parteira, fugitiva, testemunha, mas o Ofício preferia chamá-la de fonte de declaração instável. Um morto podia ter rosto, história e luto; no registro, podia virar cadáver de comportamento não confirmado.
+
+O Ofício não apagava nomes sempre.
+
+Às vezes fazia coisa mais eficiente: deixava o nome pequeno demais para salvar a pessoa da categoria escrita ao lado.
+
+O latim dos homens funcionava como grade. Não precisava ser entendido pelo povo. Precisava soar anterior à defesa. Um nome dito em latim parecia já ter sido julgado por uma autoridade mais antiga que a dor de quem o ouvia. Por isso o Ofício amava fórmulas: Sanguis Suspectus, Sanguis Damnatus, Corpus Inclassificabile, Forma Tertia Sanguinis, Natura Inclassificabilis. Cada expressão fazia a vida parecer problema técnico.
+
+Severin será um campo de guerra para essas línguas.
+
+Os Reis Mortos não o chamarão de Severin quando desejarem dominá-lo. Chamarão-no de recipiente, boca, herdeiro instável, bastardo útil, corpo de regência. Para eles, seu nome pessoal é obstáculo. O menino da casa queimada atrapalha a coroa morta.
+
+Os vampiros puristas o chamarão de **Maculatus**, o manchado, porque bastardia é uma palavra curta demais para o nojo que desejam preservar. Dirão Bastardo da Quinta Ferida quando quiserem reconhecer o perigo sem reconhecer a dignidade. Dirão Sangue Usurpador quando precisarem explicar por que suas próprias veias hesitam diante dele.
+
+Os vampiros pragmáticos o chamarão de Fonte, Coração, Chave ou Retorno Possível. Não por amor. Porque algumas cortes são menos religiosas que famintas. Aquilo que pode ordenar a ruína torna-se útil antes de tornar-se legítimo.
+
+O Ofício o chamará de Caso Sângelună, Fonte Primária, Anomalia Soberana, Corpo de Arquivo Vivo, reclamante de linhagem, Forma Tertia Sanguinis. Evitará chamá-lo de rei porque rei é palavra que pode gerar testemunha. Evitará chamá-lo de Severin porque pessoa é categoria difícil de queimar sem deixar culpa.
+
+A Igreja hostil poderá chamá-lo de Ungido Falso, Filho da Lua Profanada, Rei sem Sacramento, Cordeiro Invertido, Sinal de Sangue. A Igreja sincera talvez tema esses nomes, porque saberá que um anátema errado pode matar tanto quanto uma lâmina certa.
+
+A Aurora o chamará de alvo, foco, eixo de retorno, prioridade rubra, ameaça regencial, falso príncipe noctívago. Não deseja que o soldado pense em trono. Deseja que veja uma posição a ser neutralizada.
+
+O povo o chamará como puder: homem da Lua Ferida, abismo que anda, morto das ruínas, rei sem castelo, aquele que veio depois dos monstros. O povo nomeia com medo e imagem. Às vezes acerta mais que os doutores.
+
+Os portadores de Eco, quando não estiverem furiosos demais para falar, talvez digam apenas Severin.
+
+Esse será o nome mais perigoso.
+
+Porque nenhum título antigo, nenhum registro humano e nenhuma profecia pode possuir completamente alguém que ainda responde ao nome pelo qual uma irmã o chamou antes do fogo.
+
+A Mesa dos Nomes nascerá contra todas essas gramáticas e, por isso, precisará de uma própria.
+
+Não poderá fingir que nomes não têm poder. Essa inocência morreu antes da primeira ata. Também não poderá acreditar que devolver um nome basta para salvar alguém. Um assassino continua assassino mesmo depois de ser chamado pelo nome de infância. Um demônio verdadeiro pode usar intimidade como armadilha. Um vampiro nobre pode exigir seu nome antigo para recuperar privilégios de tributo. Um humano arrependido pode querer que seu nome seja dito apenas para que sua culpa pareça menor.
+
+A Mesa não devolve nome como absolvição.
+
+Devolve como começo de julgamento.
+
+Sua primeira regra não será que todo nome é sagrado. Será que nenhuma categoria pode chegar antes da pessoa sem ser contestada.
+
+Diante da Mesa, o nome de nascimento será perguntado quando houver alguém vivo capaz de oferecê-lo. O nome imposto será registrado como violência quando tiver sido usado para reduzir. O nome de crime será ouvido, mas não poderá apagar todos os outros. O nome de luto terá lugar. O nome recusado terá lugar. O nome esquecido não será preenchido por conveniência. O nome de fossa não será tratado como verdade final se ainda houver pessoa tentando atravessá-lo.
+
+Quando uma criatura disser “sou a Última Sentença do Rei Ghordrath”, a Mesa perguntará o que ela era antes da sentença.
+
+Quando um documento disser “menor exposta”, a Mesa perguntará quem a chamou para jantar, quem trançou seu cabelo, quem ouviu seu medo, quem assinou a mudança.
+
+Quando um vampiro disser “sou Plenavyr”, a Mesa perguntará quais vidas foram medidas para encher seu cálice.
+
+Quando um humano disser “sou puro”, a Mesa perguntará quem precisou ser chamado impuro para que essa palavra parecesse limpa.
+
+Quando Severin disser “sou a causa”, a Mesa perguntará se causa é o mesmo que crime.
+
+E quando alguém disser “rei”, a Mesa perguntará quem esse nome pretende proteger, quem pretende calar e quem terá direito de responder.
+
+Assim, a nova lei não destruirá os nomes antigos.
+
+Fará algo mais perigoso.
+
+Obrigará cada nome a comparecer diante daqueles que feriu.
+
+A antiga monarquia vampírica usava nomes para fixar lugar. O Ofício usa nomes para fixar culpa. A Mesa dos Nomes deverá usar nomes para devolver possibilidade sem apagar responsabilidade.
+
+Essa será a diferença entre coroa, arquivo e mesa.
+
+A coroa nomeia de cima.
+
+O arquivo nomeia de fora.
+
+A mesa exige que o nome sobreviva ao olhar de quem foi nomeado.
+
+Se algum reino nascer de Severin, seus primeiros títulos talvez não sejam Majestade, Cruorvex, Fonte ou Soberano.
+
+Talvez sejam outros, menores e mais difíceis.
+
+Aquele que pode ser contestado.
+
+Aquele cujo sangue não basta.
+
+Aquele que deve ouvir antes da sentença.
+
+Aquele que não pode colher um sonho e chamar isso de misericórdia.
+
+Aquele que recebeu nomes demais e, por isso, aprendeu que nenhum nome tem direito de matar sozinho.
+
 
 ---
 
