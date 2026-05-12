@@ -29,7 +29,7 @@ Um raio atinge as ruínas. O castelo desaba sobre ele.
 
 Severin morre.
 
-Seu sangue escorre pelas frestas da pedra, desce por câmaras soterradas e alcança os ossos selados dos últimos reis vampiros. Esses ossos estavam presos ali desde o fim da guerra, depois que a antiga Ordem humana enfraqueceu os soberanos com o vírus da Mortalha Branca, torturou-os, retirou-lhes a carne e jogou o que restou no poço central do castelo inacabado da quinta nação. Porém, antes do fim, um mago leal a Vaelrûn Sângelună lançara uma maldição de restauração: um dia, quando o sangue de um descendente real tocasse os ossos, a antiga autoridade retornaria.
+Seu sangue escorre pelas frestas da pedra, desce por câmaras soterradas e alcança os ossos selados dos últimos reis vampiros. Esses ossos estavam presos ali desde o fim da guerra, depois que a antiga Ordem Branca humana enfraqueceu os soberanos com o vírus da Mortalha Branca, torturou-os, retirou-lhes a carne e jogou o que restou no poço central do castelo inacabado da quinta nação. Porém, antes do fim, um mago leal a Vaelrûn Sângelună lançara uma maldição de restauração: um dia, quando o sangue de um descendente real tocasse os ossos, a antiga autoridade retornaria.
 
 O mago esperava o sangue de um vampiro puro.
 
@@ -109,7 +109,7 @@ Depois da Luna Vulnata, a guerra não pertence apenas a exércitos, castelos e c
 
 Os reis humanos dizem ter jurisdição sobre a segurança dos vivos.
 
-A Igreja diz ter jurisdição sobre alma, pecado, pacto e misericórdia.
+A Sé Branca diz ter jurisdição sobre alma, pecado, pacto, misericórdia e legitimidade das coroas.
 
 O Ofício da Pureza diz ter jurisdição sobre sangue suspeito, certidão, margem genealógica e corpo examinado.
 
@@ -2737,7 +2737,7 @@ Não à alma.
 
 Ao sangue.
 
-> **O sangue de Severin não era puro. Era soberano.**
+> **O sangue de Severin não era puro. Era fundador.**
 
 Mas soberania não significa estabilidade.
 
@@ -3851,6 +3851,442 @@ A sétima lei é a lei da definição. Quem define Severin tenta definir o mundo
 
 
 ## PARTE IV — Camada 4: A máquina humana de pureza, arquivo e fé
+
+### 24AA. A monarquia sagrada dos homens
+
+Antes da última guerra, os humanos não se compreendiam como povos unidos por uma única Cátedra.
+
+Compreendiam-se como reinos.
+
+Cada grande nação humana possuía coroa, sangue dinástico, templo de unção, genealogia oficial, exército jurado e uma narrativa própria de origem. O rei não era visto apenas como o homem mais alto da cadeia de comando. Era a cabeça visível de uma ordem que se dizia recebida de Deus. A terra tinha fronteira porque a coroa a continha. A lei tinha força porque o rei fora ungido. A sucessão importava porque o sangue real era tratado como fio por onde a autoridade descia sem se romper.
+
+Essa monarquia humana não era limpa, nem idêntica em todos os lugares. Havia reis piedosos e reis cruéis, rainhas regentes, principados eletivos, casas menores esmagadas por impérios maiores, guerras de sucessão, bastardias escondidas e sacerdotes que vendiam bênçãos por prata suficiente. Ainda assim, a ideia central era compartilhada: a coroa humana era um espelho terrestre da ordem divina.
+
+O rei governava homens porque homens possuíam alma diante de Deus.
+
+Por isso, para os sacerdotes antigos, a forma régia não era simples técnica política. Era rito. Era sacramento em torno de poder. Era uma maneira de dizer que a violência humana podia ser colocada sob lei, testemunha, juramento e responsabilidade.
+
+Os vampiros, antes de aprenderem essa linguagem, organizavam-se de modo mais irregular. Havia casas de sangue, clãs de caça, pactos pessoais, cortes pequenas em fortalezas isoladas, senhores que dominavam vales pelo medo, matriarcas que possuíam famílias humanas como despensa hereditária, linhagens que obedeciam apenas ao mais antigo ou ao mais cruel. Alguns grupos tinham etiqueta refinada. Outros viviam quase como bandos aristocráticos. Quase todos possuíam hierarquia. Poucos possuíam Estado.
+
+Eles tinham domínio.
+
+Ainda não tinham reino.
+
+A diferença parecia pequena até deixar de ser.
+
+Quando os vampiros observaram os homens por tempo suficiente, perceberam que a coroa fazia algo que a força nua não fazia. Ela sobrevivia à ausência. Um rei podia estar longe e ainda assim cobrar imposto. Um herdeiro podia nascer fraco e ainda assim manter exércitos ajoelhados. Um selo podia ordenar homens que jamais viram o rosto do soberano. Um arquivo podia fazer uma família obedecer a uma decisão escrita antes de seu avô nascer.
+
+Os vampiros aprenderam.
+
+Aprenderam que fome sem lei era massacre, mas fome com lei podia tornar-se império. Aprenderam que tributo regular alimentava melhor que caça caótica. Aprenderam que vassalagem produzia obediência mais duradoura que terror imediato. Aprenderam que castelos não serviam apenas para resistir a cerco; serviam para fazer a autoridade parecer inevitável. Aprenderam que um nome de casa, repetido em documentos, podia ser mais forte que a memória de um rosto.
+
+Então começaram a imitar.
+
+Não como alunos humildes.
+
+Como predadores descobrindo que a presa inventara uma ferramenta melhor.
+
+A primeira nação vampírica nasceu quando uma casa da noite deixou de tratar território como campo de caça e passou a tratá-lo como jurisdição. O senhor tornou-se rei. A fortaleza tornou-se castelo. A alimentação tornou-se direito. A servidão tornou-se estatuto. O medo tornou-se costume. O costume tornou-se lei. A lei tornou-se herança.
+
+A Igreja humana entendeu aquilo como blasfêmia.
+
+Não dizia apenas que os vampiros matavam homens. Isso já se sabia. Dizia que eles haviam roubado a forma que Deus dera aos homens para governar o mundo. Haviam tomado coroa, selo, brasão, sucessão, corte, arquivo e castelo, e colocado tudo a serviço de corpos que recusavam a morte, bebiam sangue e tratavam a humanidade como recurso.
+
+Para os teólogos da época, o vampiro coroado era mais ofensivo que o vampiro selvagem.
+
+O selvagem era ameaça.
+
+O coroado era paródia.
+
+A doutrina nascida daí recebeu muitos nomes. Nos sermões mais antigos, chamavam-na de **Doutrina da Coroa Usurpada**. Nos tratados posteriores, tornou-se **Doctrina Coronae Usurpatae**. Seu argumento era simples o bastante para caber na boca de um camponês e cruel o bastante para caber em uma guerra:
+
+> **A coroa pertence ao homem porque somente o homem pode responder por ela diante de Deus. Quando a noite usa coroa, não governa. Imita. E toda imitação do sagrado feita por aquilo que devora o homem é profanação.**
+
+Essa frase alimentou séculos de ódio.
+
+E também deu aos humanos uma certeza perigosa: se os vampiros podiam roubar a forma da monarquia, então qualquer coisa humana podia ser profanada quando separada da vigilância da fé.
+
+### 24AB. A profanação da coroa e a vitória impossível
+
+A guerra entre humanos e vampiros não começou apenas por fome, território ou vingança.
+
+Começou também por forma.
+
+Os humanos diziam combater monstros que haviam roubado a aparência de reinos. Os vampiros diziam ter superado a desordem humana, transformando a coroa em algo mais duradouro que carne mortal. Cada lado acusava o outro de mentira. Cada lado possuía razão suficiente para matar e vergonha suficiente para esconder.
+
+Quando as quatro nações lunares se consolidaram, a ofensa humana deixou de ser teológica em abstrato. Tornou-se cartográfica. Havia fronteiras vampíricas. Havia estradas vampíricas. Havia tratados entre casas da noite. Havia prisões de sangue, cortes de linhagem, fiscais de tributo, sacerdotes de sangue, arquivos de vassalagem e crianças humanas nascidas já com a data da primeira coleta registrada.
+
+A coroa vampírica funcionava.
+
+Esse foi o verdadeiro escândalo.
+
+Se a imitação tivesse falhado, a Igreja poderia chamá-la de delírio. Mas a imitação produziu estabilidade. Produziu exércitos. Produziu leis. Produziu infraestrutura. Produziu proteção obscena para aldeias que pagavam sangue em troca de sobreviver ao inverno. Produziu camponeses que, em segredo, às vezes temiam mais os libertadores humanos do que seus senhores noturnos.
+
+A Igreja não podia tolerar essa ambiguidade.
+
+Por isso a guerra santa contra as nações vampíricas foi ensinada como libertação da forma. Não bastava matar predadores. Era preciso arrancar a coroa de suas cabeças, quebrar seus castelos, invalidar seus registros, negar seus casamentos, destruir suas jurisdições e provar que nenhuma lei nascida da noite poderia ser reconhecida como verdadeira.
+
+A vitória humana, porém, exigiu métodos que corromperam a própria linguagem usada para justificá-la.
+
+Reis ungidos autorizaram pragas.
+
+Sacerdotes abençoaram tortura.
+
+Escribas transformaram crianças mestiças em estatística militar.
+
+Capitães da Ordem Branca sacrificaram vilas para atrasar ofensivas vampíricas.
+
+O Ofício nascente aprendeu que uma margem suspeita podia ser mais útil que uma absolvição honesta.
+
+Quando os cinco reis foram reduzidos a ossos e lançados no castelo inacabado da quinta nação, os humanos venceram. Mas a coroa humana saiu da guerra com a própria imagem rachada. Se os vampiros haviam profanado a monarquia por usá-la como noite organizada, os humanos a haviam profanado por usá-la como autorização para atrocidade santa.
+
+Os líderes religiosos perceberam o risco antes do povo.
+
+Se o mundo retornasse simplesmente ao regime anterior, alguém perguntaria qual rei assinou a Mortalha Branca. Qual coroa autorizou as fossas. Qual casa humana recebeu terras de aldeias exterminadas. Qual bispo abençoou o laboratório. Qual rainha financiou o caçador que depois queimou famílias mestiças por conveniência política.
+
+A monarquia ainda era necessária.
+
+Mas já não podia ser o centro sagrado.
+
+A solução foi uma transferência.
+
+Não uma abolição.
+
+Uma elevação aparente.
+
+A autoridade divina, disseram, deixaria de repousar plenamente sobre a cabeça dos reis e passaria a ser guardada pela Cátedra. A coroa continuaria existindo, mas como instrumento vigiado. O rei continuaria governando terras, exércitos, impostos e mercados. A Igreja passaria a governar aquilo que permitia ao rei chamar seu governo de legítimo.
+
+Nos documentos internos, esse movimento recebeu o nome de **Translatio Coronae ad Cathedram**.
+
+O povo aprenderia outro nome.
+
+**A Virada da Cátedra.**
+
+### 24AC. A Virada da Cátedra
+
+A Virada da Cátedra foi apresentada como revelação.
+
+Nas praças, os pregadores diziam que Deus permitira a vitória humana, mas também revelara a fragilidade da coroa isolada. Se a noite havia aprendido a usar reis, então nenhum rei deveria voltar a ser fonte final da ordem. A humanidade precisava de uma autoridade acima das coroas, capaz de guardar a fé comum, vigiar linhagens, julgar exceções e impedir que a forma régia fosse novamente roubada por aquilo que não era humano.
+
+A frase oficial atravessou reinos em muitas línguas:
+
+> **A coroa defendeu o homem enquanto pôde. Quando a noite aprendeu a usar coroa, Deus elevou a autoridade para a Cátedra.**
+
+Era uma frase perfeita.
+
+Consolava o povo, humilhava os reis sem destroná-los, escondia a culpa atrás de reforma e fazia qualquer resistência parecer saudade da velha vulnerabilidade. Quem perguntasse demais sobre os arquivos da guerra era acusado de querer reabrir a era das coroas profanadas. Quem desconfiasse da nova ordem era lembrado de que a noite voltara uma vez porque os homens confiaram demais em tronos separados.
+
+A mudança também era útil por outro motivo.
+
+Ela reorganizava a memória.
+
+A última guerra deixava de ser uma cadeia de decisões humanas, assinadas por reis, bispos, generais e escribas. Passava a ser uma travessia providencial entre duas eras. A era antiga, das coroas vulneráveis. A era nova, da Cátedra vigilante. O que havia no meio podia ser chamado de necessidade, provação, sacrifício, excesso lamentável ou mistério da sobrevivência.
+
+Nunca crime.
+
+A Virada da Cátedra não eliminou os reis humanos.
+
+Isso teria provocado guerra civil imediata.
+
+Fez algo mais duradouro. Rebaixou a monarquia de fonte sagrada para ofício reconhecido. Um rei ainda podia governar por herança, eleição nobre ou costume local. Mas sua soberania ficava incompleta sem unção da Sé, confirmação de linhagem, casamento validado, herdeiros reconhecidos, juramento público e comunhão com a Cátedra.
+
+Antes, o rei era ungido porque Deus o escolhera.
+
+Depois, o rei governava porque a Cátedra declarava que Deus ainda não retirara dele o direito de governar.
+
+A diferença mudou o mundo.
+
+Um rei desobediente podia manter muralhas, ouro e soldados. Mas a Sé podia negar sacramento à sua corte, invalidar seu casamento, questionar seus herdeiros, abrir inquérito sobre sangue antigo, interditar seu território, liberar súditos de juramentos e autorizar rivais a combatê-lo como ato de defesa da humanidade.
+
+A Cátedra não precisava possuir todos os exércitos.
+
+Bastava poder bendizer ou amaldiçoar os exércitos de todos.
+
+A partir desse momento, a ordem humana passou a viver em quatro mãos:
+
+A coroa governava o território.
+
+A Sé Branca governava a legitimidade.
+
+O Ofício da Pureza governava o sangue documentado.
+
+A Ordem Branca governava a exceção.
+
+Essa divisão salvou reinos.
+
+E transformou dúvida em pecado.
+
+### 24AD. A tríplice soberania da Sé Branca
+
+A Sé Branca não é apenas o lugar onde se senta o pontífice.
+
+Essa confusão interessa aos reis quando desejam reduzir a Cátedra a uma corte rival, e interessa aos revoltosos quando desejam imaginar que tomar uma cidade bastaria para destruir a ordem. Mas a força da Sé Branca está justamente em não ser uma coisa só.
+
+Ela possui três corpos.
+
+O primeiro é o **Pontífice da Cátedra Primeira**, chamado pelo povo de **Pontífice Branco**. É a pessoa viva, mortal, eleita em conclave, capaz de falar, abençoar, errar, tremer, adoecer, assinar e morrer. Sua voz pesa porque ocupa o ofício. Seu corpo, porém, não esgota a instituição. Quando morre, a Cátedra não morre com ele.
+
+O segundo é a **Sé Branca**, pessoa jurídica perpétua da Igreja humana. Ela possui selos, cúria, tribunais, arquivos, tesouro, legados, casas diplomáticas, direitos extraterritoriais e capacidade de firmar concordatas com reinos. Um pontífice pode ser fraco, santo, corrupto, assassinado ou manipulado. A Sé continua. Seus funcionários ainda escrevem. Seus arquivos ainda recordam. Seus tribunais ainda recebem apelações. Suas dívidas ainda vencem.
+
+O terceiro é a **Cidade da Cátedra**, o território sacro mínimo que garante à Sé independência visível. Não é grande o bastante para ser império. É grande o bastante para não ser propriedade de nenhum rei. Suas muralhas guardam a Basílica da Cátedra, os palácios da cúria, o Arquivo Apostólico das Linhagens, a Rota das Núpcias e Sucessões, o Tribunal da Assinatura, os cofres da Ordem Branca, as celas de contenção e as salas onde os eleitores são trancados até escolherem uma nova voz para a humanidade.
+
+Essa separação tornou a Sé quase impossível de decapitar.
+
+Matar o pontífice produz vacância, não fim.
+
+Invadir a Cidade da Cátedra produz escândalo, não anulação da Sé.
+
+Corromper um tribunal não apaga os arquivos das dioceses.
+
+Capturar um bispo não cala os legados.
+
+Queimar uma cópia do Livro das Veias apenas revela que existem outras.
+
+A Sé Branca aprendeu com a derrota dos vampiros. Castelos podem cair. Corpos podem ser esfolados. Reis podem virar ossos. Uma soberania que depende de uma única garganta termina no silêncio quando a garganta é cortada.
+
+Por isso a Cátedra distribuiu seus órgãos.
+
+A cabeça fica no pontífice.
+
+A memória, nos arquivos.
+
+A boca, nos legados.
+
+As mãos, nos tribunais.
+
+Os dentes, na Ordem Branca.
+
+O sangue frio, no Ofício da Pureza.
+
+E a alma, dizem os pregadores, em Deus.
+
+Os que conhecem os porões sabem que uma instituição pode continuar respirando muito tempo depois de esquecer onde termina a alma e começa o mecanismo.
+
+### 24AE. Como a Cátedra manda sem ser império
+
+A Sé Branca não administra todas as aldeias humanas.
+
+Não precisa.
+
+Ela governa as passagens pelas quais uma vida humana se torna reconhecida: nascimento, batismo, casamento, herança, sepultamento, juramento, coroação, absolvição, excomunhão, registro, dispensa, suspeita e memória.
+
+Um rei pode possuir o campo.
+
+A Cátedra possui a forma pela qual o campo entra na ordem de Deus.
+
+Um nobre pode possuir um filho.
+
+A Cátedra decide se esse filho é legítimo o bastante para herdar.
+
+Uma família pode jurar que seu sangue é limpo.
+
+O Ofício decide se essa limpeza merece selo, margem ou silêncio perigoso.
+
+Uma cidade pode fechar os portões.
+
+A Ordem Branca decide quando o fechamento deixa de ser defesa local e se torna quarentena sagrada.
+
+Os instrumentos mais temidos da Sé não são todos militares. Alguns são espirituais. Outros, jurídicos. Outros, administrativos. A excomunhão retira uma pessoa da comunhão visível da Igreja e, quando aplicada a um soberano, fere a base de sua obediência. Um rei excomungado não perde automaticamente suas muralhas, mas seus súditos passam a ouvir que a fidelidade a ele pode ser pecado. Seus rivais passam a chamar ambição de dever. Seus aliados começam a temer que negociar com ele contamine a própria legitimidade.
+
+O interdito é mais cruel porque atinge o território. Em um reino interditado, casamentos deixam de ser celebrados publicamente. Mortos aguardam rito em valas salgadas. Crianças nascem sob bênçãos incompletas. Sinos se calam. Procissões cessam. O povo, privado das formas que tornam a vida suportável diante da morte, volta-se contra o rei que provocou tal castigo.
+
+Há também a liberação dos juramentos. Quando a Sé declara que um governante quebrou a comunhão da humanidade, seus vassalos podem ser dispensados da obediência. Isso raramente depõe alguém sozinho. Mas transforma rebelião em penitência e traição em serviço santo.
+
+A Cátedra usa ainda instrumentos menos visíveis.
+
+Pode atrasar a confirmação de um casamento real até que uma fronteira seja cedida. Pode ordenar revisão de linhagem quando um príncipe se aproxima demais de uma casa suspeita. Pode aceitar uma apelação e congelar uma sucessão por anos. Pode reconhecer um bastardo conveniente. Pode recusar sepultamento consagrado a um carrasco útil depois que sua utilidade termina. Pode declarar que uma guerra entre dois reinos humanos deve cessar porque a noite se move nas fronteiras, ou que deve começar porque um deles abriga sangue condenado.
+
+O poder da Sé vive nesse intervalo.
+
+Ela não substitui os reis.
+
+Faz com que todos os reis precisem dela para parecerem mais que senhores armados.
+
+### 24AF. As Concordatas Brancas
+
+A relação entre a Sé Branca e os reinos humanos é escrita em tratados chamados **Concordatas Brancas**.
+
+Nenhum reino gosta de admiti-las como correntes.
+
+Nenhuma Sé gosta de admiti-las como negociação.
+
+Ambos mentem.
+
+Uma Concordata Branca define o ponto exato em que a coroa local e a Cátedra se penetram sem se destruir. Nela se registram a forma de coroação, a participação dos bispos, a validade civil dos casamentos celebrados pela Igreja, o direito da Sé de manter tribunais próprios, a imunidade de templos, a nomeação de prelados, a presença de legados pontifícios na corte, as contribuições para fundos de defesa, as condições de atuação da Ordem Branca e o grau de acesso do Ofício aos registros de nascimento, morte, casamento, adoção e bastardia.
+
+Reinos poderosos negociam exceções.
+
+Reinos fracos assinam obediência em linguagem bonita.
+
+Reinos de fronteira exigem mais soldados da Ordem Branca e entregam mais liberdade em troca. Reinos distantes fingem autonomia até precisarem que a Sé reconheça um herdeiro contestado. Cidades comerciais compram privilégios fiscais em troca de financiar hospitais, lazaretos, casas de contenção e cópias do Arquivo das Linhagens.
+
+A Concordata é o lugar onde a fé aprende contabilidade.
+
+Por meio dela, a Sé recolhe dízimos, décimos de guerra, óbolos, taxas de dispensa matrimonial, multas canônicas, rendas de benefícios e doações penitenciais. O dinheiro sustenta mosteiros, tribunais, legados, escolas de escribas, hospitais, fortalezas de fronteira, expedições da Ordem Branca, criptas de contenção, cópias de arquivos e silêncios muito caros.
+
+A população comum vê apenas parte disso.
+
+Vê freiras acolhendo órfãos de ataque noturno. Vê monges mantendo lazaretos onde revenants recentes são observados antes de serem enterrados. Vê sacerdotes registrando nascimentos para que filhos possam herdar terra. Vê cavaleiros da Ordem Branca protegendo estradas que nenhum rei patrulha. Vê sinos que às vezes realmente impedem os mortos de entrar.
+
+Por isso o povo não odeia a Sé de modo simples.
+
+Muitos dependem dela.
+
+A mesma mão que registra uma criança pode um dia classificá-la como risco.
+
+A mesma muralha que salva uma cidade pode deixar outra família do lado de fora.
+
+A mesma Concordata que impede um rei cruel de agir sem limite permite que a Ordem Branca atravesse uma fronteira sem pedir perdão.
+
+O sistema dura porque presta serviços que ninguém mais presta em escala semelhante.
+
+E porque cobra por eles em obediência.
+
+### 24AG. A Cúria Branca
+
+A Cúria Branca é o corpo administrativo da Sé.
+
+Não é conselho ornamental. É a máquina que permite a um pontífice mortal alcançar reinos que ele jamais pisará, famílias que jamais verá e corpos que talvez só conheça como tinta em relatório.
+
+A **Secretaria do Selo Branco** guarda a linguagem oficial. Chancela bulas, cartas, mandados, estatísticas, censuras, dispensas, reconhecimentos de coroa, anulações de rito e comunicações entre a Cidade da Cátedra e os reinos. Uma palavra que sai dela com selo errado pode invalidar casamento, guerra ou sepultamento.
+
+A **Câmara dos Reinos Fiéis** conduz a diplomacia. Seus legados vivem nas cortes humanas como embaixadores, confessores, espiões e testemunhas. Um legado da Sé não representa apenas a Cidade da Cátedra. Representa a comunhão humana inteira observando um rei específico. Suas cartas atravessam fronteiras com imunidade, e muitas vezes carregam mais verdade que os relatórios dos próprios ministros régios.
+
+O **Dicastério da Doutrina e dos Ritos** guarda a ortodoxia. Decide que práticas são fé, superstição, heresia, pacto, engano demoníaco ou remédio tolerável. Controla calendários, jejuns, bênçãos, fórmulas de contenção, listas de textos proibidos e o modo como o povo deve rezar diante de fenômenos que a Igreja ainda não entende.
+
+O **Dicastério dos Bispos e das Fronteiras** ergue, divide e extingue dioceses. Nomeia bispos, supervisiona metropolitas e cria jurisdições especiais em zonas de ameaça: dioceses de marcha, vicariatos de ruína, ordinariatos de campanha, prelazias de quarentena e capelanias de exército. É por ele que a Cátedra coloca olhos onde os reis prefeririam sombra.
+
+O **Tribunal da Assinatura** julga conflitos de competência, recursos máximos, abusos de tribunais inferiores e disputas entre Igreja, coroa, Ofício e Ordem Branca. Seus juízes raramente veem sangue. Veem pergaminho. Mas muitas mortes nascem do modo como um juiz decide qual órgão tinha direito de nomear um corpo.
+
+A **Rota das Núpcias e Sucessões** parece menos assustadora que os braços de guerra. Não é. Ela decide nulidades matrimoniais, legitimidade de herdeiros, impedimentos de sangue, validade de adoções nobres, bastardias reconhecidas e linhas sucessórias contestadas. Controlar casamento é controlar o futuro das coroas.
+
+A **Câmara da Economia da Fé** administra rendas, dízimos, bens e fundos de guerra. Em tempos de paz, financia escolas, hospitais, arquivos e embaixadas. Em tempos de Sombra Branca, move prata, sal, ferro litúrgico, pão, remédios, carvão, órfãos e cadáveres com a mesma caligrafia.
+
+O **Arquivo Apostólico das Linhagens** é o verdadeiro sistema nervoso. Recebe cópias de registros paroquiais, sentenças, batismos, casamentos, mortes, desaparecimentos, adoções, exumações, suspeitas, absolvições e margens. Toda pessoa oficialmente nascida dentro da comunhão humana deveria existir ali, ainda que como linha torta, lacuna ou mancha.
+
+O **Ofício da Pureza** é o braço que transforma suspeita em procedimento. Investiga, examina, lacra, classifica, recomenda quarentena, pede sentença e conserva dúvida quando a dúvida é politicamente útil.
+
+O **Magistério da Ordem Branca** regula as ordens militantes, hospitalares e de contenção. Em teoria, impede que a exceção devore a lei. Na prática, muitas vezes descobre tarde demais que seus próprios capitães já decidiram o que a lei precisará justificar depois.
+
+A Cúria Branca não é una por virtude.
+
+É una porque cada órgão precisa dos outros para completar o ato.
+
+O selo precisa do arquivo. O arquivo precisa da testemunha. A testemunha precisa do tribunal. O tribunal precisa da força. A força precisa da bula. A bula precisa do pontífice. O pontífice precisa que todos finjam, pelo menos em público, que ainda obedecem a Deus antes de obedecerem ao mecanismo.
+
+### 24AH. O Ofício, a Ordem e os braços da exceção
+
+Depois da Virada da Cátedra, o Ofício da Pureza e a Ordem Branca deixaram de ser apenas restos da guerra antiga.
+
+Foram reorganizados como órgãos da sobrevivência humana.
+
+O Ofício recebeu a linguagem da prova.
+
+A Ordem Branca recebeu a linguagem da emergência.
+
+O Ofício não precisava marchar em praça para controlar uma cidade. Bastava decidir quem podia atravessar o portão, quem podia casar, quem podia herdar, quem podia estudar, quem podia ser enterrado perto dos outros mortos e quem deveria permanecer como suspeita sem prazo. A Certidão de Sangue Limpo tornou-se uma segunda pele social. Quem a possuía podia existir com menos atrito. Quem a perdia descobria que a vida humana também depende de papel.
+
+A Ordem Branca, por sua vez, tornou-se o instrumento que a Sé usava quando a lei ordinária parecia lenta demais para o horror. Quarentenas lunares, purificações de bairro, escolta de relíquias, contenção de revenants, fechamento de criptas, inspeção de fossas, execução de criaturas classificadas como inimigas do gênero humano, intervenção em reinos que ocultavam focos sobrenaturais: tudo isso podia ser colocado sob sua jurisdição.
+
+Em teoria, a Ordem Branca só age sob mandato.
+
+Em prática, algumas noites terminam antes que a assinatura chegue.
+
+Por isso a Sé criou níveis de exceção.
+
+A **Vigília Local** permite que bispos e autoridades civis respondam a ameaça limitada.
+
+A **Vigília de Reino** permite suspender rotas, fechar portões, exigir provas de sangue e convocar forças da Ordem Branca dentro de uma nação.
+
+A **Vigília Universal** só pode ser declarada pelo Pontífice da Cátedra Primeira. Nesse estado, qualquer fronteira humana se torna secundária diante da sobrevivência comum. Exércitos podem ser convocados, dízimos extraordinários recolhidos, arquivos abertos, cidades seladas e reinos obrigados a cooperar.
+
+A Sé chama isso de misericórdia organizada.
+
+Os que foram trancados vivos dentro de uma quarentena usam nomes menos santos.
+
+A maior perversão desse sistema é que ele frequentemente funciona. Uma quarentena pode salvar três cidades. Um exame de sangue pode descobrir uma linhagem comprometida antes que um demônio use seu herdeiro como porta. Uma intervenção da Ordem Branca pode impedir que uma fossa da guerra acorde sob uma catedral cheia.
+
+O erro da Sé não é inventar todos os monstros.
+
+É aprender depressa demais a chamar de monstro tudo aquilo que torna a administração difícil.
+
+### 24AI. As fissuras da Sé Branca
+
+A Sé Branca parece una vista de fora porque seus ritos foram feitos para ocultar rachaduras.
+
+Por dentro, é um campo de guerra sem lâminas abertas.
+
+Os **Papalistas da Cátedra** defendem autoridade central forte. Para eles, a fragmentação das coroas permitiu a usurpação vampírica. Só uma voz acima dos reinos pode impedir que a humanidade seja vencida pela própria divisão.
+
+Os **Conciliaristas** afirmam que nenhum pontífice, por mais santo, deve carregar sozinho o direito de decidir a exceção. Desejam concílios de bispos, limites às Bulas Brancas e revisão das decisões de guerra por assembleias mais amplas. Os papalistas os acusam de enfraquecer a humanidade. Os reis os financiam quando convém.
+
+Os **Purificadores** acreditam que a guerra contra a noite não permite delicadeza. Para eles, uma aldeia duvidosa deve ser isolada antes de ser entendida. Uma linhagem suspeita deve ser cortada antes de produzir herdeiros. Um monstro que fala apenas aprendeu a atrasar a lâmina.
+
+Os **Confessionais** defendem que a verdade da última guerra precisa ser dita, mesmo que destrua santos, reis e tratados. Não rejeitam necessariamente a Sé. Temem que uma ordem fundada em arquivos falsos acabe produzindo aquilo que diz combater.
+
+Os **Arquivistas** confiam menos em sermões que em documentos. Acreditam que o mundo pode sobreviver se a memória sobreviver inteira. Por isso são perigosos para todos. Um arquivista honesto pode derrubar uma dinastia. Um arquivista corrupto pode inventar uma.
+
+Os **Legalistas Reais** são bispos, juízes e cardeais ligados às cortes. Não negam a Cátedra, mas desejam torná-la negociável. Falam em tradição local, privilégio antigo, autonomia litúrgica e prudência diplomática quando, muitas vezes, querem apenas proteger os pecados de seus patronos.
+
+Os **Militantes Brancos** vêm da Ordem. Muitos perderam irmãos em fortalezas, viram aldeias abertas por revenants, enfrentaram vampiros que sorriam durante a execução e demônios que usavam voz de criança. Para eles, a Cúria é lenta porque nunca cheirou uma cidade três dias depois de cair.
+
+Os **Místicos da Ferida** acreditam que a Luna Vulnata não foi apenas castigo, mas sinal de que Deus permitiu a quebra das categorias humanas. Alguns escondem mestiços. Outros veem em Severin não salvação, mas pergunta viva contra a arrogância da Cátedra.
+
+Nenhuma facção possui a verdade inteira.
+
+Nenhuma está livre de usar Deus como argumento para o próprio medo.
+
+É assim que a Sé Branca dura: não por ausência de conflito, mas por transformar conflito interno em procedimento, voto, parecer, segredo, concílio, sentença, bula e, quando tudo falha, silêncio.
+
+### 24AJ. O pecado de perguntar
+
+A maior vitória da Virada da Cátedra não foi jurídica.
+
+Foi imaginativa.
+
+Antes dela, um homem podia odiar seu rei e ainda se imaginar fiel a Deus. Depois dela, questionar a nova ordem tornou-se mais perigoso, porque a Sé não se apresentava como um trono entre tronos. Apresentava-se como a forma escolhida por Deus para impedir o retorno da noite coroada.
+
+A pergunta política passou a soar como risco espiritual.
+
+Por que o Ofício precisa dos nomes de crianças ainda no berço?
+
+Porque a noite entra pelas linhagens.
+
+Por que a Ordem Branca pode fechar uma cidade sem julgamento comum?
+
+Porque o atraso de uma assinatura já destruiu reinos.
+
+Por que o rei precisa pedir confirmação de casamento à Cátedra?
+
+Porque uma coroa sem vigilância já foi roubada por vampiros.
+
+Por que os arquivos da última guerra não podem ser abertos ao povo?
+
+Porque nem toda verdade deve ser entregue a quem não possui preparo para carregá-la sem ser seduzido pela noite.
+
+Cada resposta colocava Deus entre a instituição e a dúvida.
+
+Assim, a Sé não precisava dizer apenas “obedeça”. Dizia algo pior:
+
+> **Se você rejeita a Cátedra, talvez esteja abrindo caminho para que a noite volte a usar os instrumentos dos homens.**
+
+Essa frase sobreviveu porque tocava medo real.
+
+Os vampiros tinham usado coroa.
+
+Demônios tinham usado contrato.
+
+Mestiços tinham sido usados como prova e arma.
+
+Reis humanos tinham usado Deus para assinar atrocidades.
+
+O povo sabia que a ordem era necessária. Sabia também que a ordem podia matar. Entre o pânico da noite e o terror do arquivo, muitos escolheram o arquivo porque pelo menos o arquivo tinha fila, selo e promessa de recurso.
+
+Foi assim que uma máquina construída para esconder culpa tornou-se, para milhões, a única parede entre a casa e o escuro.
+
+E foi assim que a fé verdadeira, ainda viva em muitos corações, ficou presa dentro de uma instituição que aprendera a confundir proteção com posse.
+
+
 
 ### 24A. A última ordem mundial humana
 
@@ -7870,7 +8306,7 @@ A Mesa decide que Severin não poderá julgar qualquer rito ligado ao retorno de
 
 > **Ele era bastardo para os vivos e herdeiro para os mortos.**
 
-> **O sangue de Severin não era puro. Era soberano.**
+> **O sangue de Severin não era puro. Era fundador.**
 
 > **Os reis antigos mandavam por direito. Severin se impunha por natureza.**
 
@@ -8103,7 +8539,7 @@ A Mesa decide que Severin não poderá julgar qualquer rito ligado ao retorno de
 
 > **Ele não venceu o Protocolum rompendo todas as correntes. Venceu impedindo que qualquer carcereiro completasse a definição dele.**
 
-> **O sangue era soberano. A soberania, sem discernimento, era apenas violência organizada.**
+> **O sangue era fundador. Uma fundação sem discernimento era apenas violência organizada.**
 
 **A Lua não sarou. Apenas aprendeu a esconder a ferida atrás de fases familiares.**
 
@@ -8576,6 +9012,67 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 **Camera Sigillorum** — Câmara dos Selos. Órgão responsável pela autenticação de mandados, certidões e autorizações.
 
 **Capitulum Testium** — Capítulo das Testemunhas. Comissão que recolhe, compara e valida depoimentos.
+
+#### Sé Branca, Cátedra e direito pontifício
+
+**Translatio Coronae ad Cathedram** — Transferência da Coroa para a Cátedra. Nome interno da Virada da Cátedra, movimento pelo qual a autoridade sagrada deixou de repousar plenamente nas monarquias humanas e passou a ser guardada pela Sé Branca.
+
+**Conversio Cathedrae** — Virada da Cátedra. Nome litúrgico abreviado para a reorganização humana pós-guerra.
+
+**Sedes Alba** — Sé Branca. Entidade jurídica e espiritual permanente da Igreja humana, distinta da pessoa do pontífice e da Cidade da Cátedra.
+
+**Cathedra Prima** — Cátedra Primeira. Sede espiritual suprema da comunhão humana; também pode designar o ofício pontifício em linguagem solene.
+
+**Pontifex Albus** — Pontífice Branco. Chefe eleito da Cátedra Primeira, guardião visível da legitimidade humana.
+
+**Civitas Cathedrae** — Cidade da Cátedra. Território sacro mínimo da Sé Branca, sede da cúria, dos tribunais, do arquivo central, dos cofres e do conclave.
+
+**Conclavium Album** — Conclave Branco. Assembleia fechada dos eleitores da Sé após morte ou renúncia do pontífice.
+
+**Collegium Cathedrae** — Colégio da Cátedra. Corpo de eleitores e conselheiros superiores da Sé Branca.
+
+**Curia Alba** — Cúria Branca. Máquina administrativa central da Sé Branca.
+
+**Secretaria Sigilli Albi** — Secretaria do Selo Branco. Órgão de chancela, cartas, bulas, mandados, estatísticas e comunicações oficiais.
+
+**Camera Regnorum Fidelium** — Câmara dos Reinos Fiéis. Órgão diplomático da Sé, responsável por legados, concordatas, precedência e inteligência política.
+
+**Dicasterium Doctrinae et Rituum** — Dicastério da Doutrina e dos Ritos. Órgão de ortodoxia, liturgia, censura teológica e classificação ritual de fenômenos.
+
+**Dicasterium Episcoporum et Finium** — Dicastério dos Bispos e das Fronteiras. Órgão responsável por dioceses, bispos, metropolitas, jurisdições de marcha e zonas de contenção.
+
+**Tribunal Signaturae** — Tribunal da Assinatura. Suprema instância de competência, apelação e revisão administrativa da Sé.
+
+**Rota Nuptiarum et Successionum** — Rota das Núpcias e Sucessões. Tribunal especializado em casamentos, nulidades, bastardias, impedimentos, heranças e legitimidade dinástica.
+
+**Archivum Apostolicum Linearum** — Arquivo Apostólico das Linhagens. Arquivo central de nascimento, batismo, casamento, morte, adoção, suspeita, expurgo, absolvição e margem genealógica.
+
+**Concordata Alba** — Concordata Branca. Tratado entre a Sé Branca e um reino humano, regulando coroação, bispos, tribunais, casamento, impostos, arquivos, Ofício, Ordem Branca e direitos de exceção.
+
+**Bulla Alba** — Bula Branca. Decreto solene emitido pela Cátedra Primeira.
+
+**Doctrina Coronae Usurpatae** — Doutrina da Coroa Usurpada. Teoria teológica antiga segundo a qual os vampiros profanaram a forma régia ao adotar coroa, castelo, sucessão e direito.
+
+**Doctrina Coronae Profanatae** — Doutrina da Coroa Profanada. Doutrina pós-guerra segundo a qual a monarquia humana, embora ainda válida, não pode mais ser fonte final de legitimidade por ter sido profanada pela imitação vampírica e pelos crimes da vitória.
+
+**Doctrina Cathedrae Superioris** — Doutrina da Cátedra Superior. Princípio segundo o qual a Sé Branca guarda a legitimidade última das coroas humanas.
+
+**Doctrina Humanitatis Circumdatae** — Doutrina da Humanidade Cercada. Princípio de que ameaças sobrenaturais ultrapassam fronteiras e autorizam jurisdição supranacional da Sé.
+
+**Doctrina Exceptionis Albae** — Doutrina da Exceção Branca. Base jurídica para quarentenas, vigílias, intervenções da Ordem Branca e suspensão de garantias ordinárias em nome da sobrevivência humana.
+
+**Excommunicatio Regia** — Excomunhão Régia. Sanção contra soberano humano que rompe a comunhão da Sé, podendo liberar súditos de juramentos.
+
+**Interdictum Regni** — Interdito de Reino. Suspensão pública de ritos e sacramentos em território submetido a sanção da Cátedra.
+
+**Absolutio Iuramentorum** — Absolvição dos Juramentos. Ato pelo qual a Sé declara que vassalos e súditos não estão mais vinculados ao soberano condenado.
+
+**Vigilia Localis** — Vigília Local. Estado de resposta limitada a ameaça sobrenatural dentro de uma diocese, vila ou cidade.
+
+**Vigilia Regni** — Vigília de Reino. Estado de exceção reconhecido em escala nacional, com provas de sangue, fechamento de rotas e atuação ampliada da Ordem Branca.
+
+**Vigilia Universalis** — Vigília Universal. Estado máximo declarado pelo Pontífice Branco, no qual as fronteiras humanas cedem diante da sobrevivência comum.
+
 
 #### Doutrina e guerra religiosa
 
