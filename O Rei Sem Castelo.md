@@ -255,13 +255,41 @@ Não o último deles.
 O primeiro depois deles.
 
 
-A nova camada da profecia revela que o segundo nascimento de Severin não foi apenas erro local de uma maldição danificada. Foi o ponto de colisão entre um rito de restauração e uma visão de extinção. O mago dos últimos reis havia preparado o Ritus Coronae Sepultae para devolver a coroa a um herdeiro puro. A primeira mãe Sângelună, morrendo no parto, viu que uma coroa limpa demais levaria o mundo à guerra perfeita: humanos e vampiros repetindo suas versões mais absolutas até que a vitória perdesse sentido.
+A nova camada da profecia revela que o segundo nascimento de Severin não foi apenas erro local de uma maldição danificada. Foi o ponto de colisão entre um rito de restauração e uma visão de extinção. O mago dos últimos reis havia preparado o Ritus Coronae Sepultae para devolver a coroa a um herdeiro puro. A Primeira Mãe Sângelună, morrendo no parto, viu que uma coroa limpa demais levaria o mundo à guerra perfeita: humanos e vampiros repetindo suas versões mais absolutas até que a vitória perdesse sentido.
 
 Por isso Severin é mais que herdeiro acidental. Ele é a falha que impediu a restauração pura. A Luna Vulnata abriu o mundo porque seu sangue ocupou a fechadura deixada para outro, mas sua mestiçagem impediu que a Lua de Sangue Plena se completasse naquele instante. Tudo voltou por causa dele; essa verdade o condena como causa, mas não como criminoso. O desastre nasceu de sua existência, não de sua vontade.
 
 A Umbra Indistincta é o horizonte final dessa lógica. Se humanos reativarem sua máquina de purificação, se vampiros restaurarem sua noite imperial, se demônios transformarem liberdade em ruína e se todos aceitarem extermínio como único idioma, então a diferença moral entre humano e não humano desaparecerá. A palavra monstro deixará de designar natureza e passará a designar método.
 
 Severin, a Terceira Natureza, existe diante desse fim como contradição viva. O mundo tentará transformá-lo em prova de que todas as fronteiras ruíram. Seu desafio será provar o contrário: que quebrar categorias antigas não precisa significar abolir todo discernimento. Que não pertencer a uma pureza não exige servir à indistinção. Que uma nova lei pode nascer sem chamar toda ferida de sentença.
+
+A Primeira Mãe Sângelună viu essa possibilidade antes que qualquer arquivo soubesse nomeá-la. Não viu como mandamento, nem como salvação garantida, mas como horizonte de corrupção: se a diferença continuasse sendo usada como sentença, o próprio sangue de Severin poderia um dia oferecer ao mundo uma solução mais terrível que a guerra.
+
+Não a restauração pura dos vampiros.
+
+Não a purificação absoluta dos homens.
+
+Uma terceira fundação.
+
+Nessa visão, a Lua Ferida não cairia sobre a Terra como pedra. Sangraria dentro dela. A Terra não seria esmagada pela Lua; seria coagida a recebê-la. O Sangue Fundador deixaria de ser apenas poder de um corpo e se tornaria circulação mundial. Rios, marés, ossos, raízes, fossas, montanhas e criaturas passariam a responder a um mesmo pulso. O mundo antigo acabaria, mas não em silêncio. Acabaria como ferida fechada de modo errado.
+
+Assim nasceria o **Dilúvio Fundador**: não uma chuva para lavar o mundo, mas uma inundação capaz de torná-lo pertencente a uma só fonte. Seu horror não estaria em matar todos, mas em salvar todos dentro de uma mesma jurisdição. Humanos, vampiros, mestiços, revenants, povos antigos e criaturas deixariam de ser categorias separadas não porque finalmente aprenderam a conviver, mas porque o Sangue Um aboliria a distância entre eles.
+
+A tentação final de Severin, portanto, não será destruir o mundo.
+
+Será fundá-lo outra vez.
+
+E essa fundação poderá exigir a perda de sua própria pessoa. No extremo do Dilúvio, o Coração Criador não permaneceria no peito de Severin. Desceria ao centro da Terra-Lua e substituiria o núcleo antigo. Severin deixaria de governar. Deixaria de escolher como homem. Deixaria até de ser chamado plenamente de alguém. Tornar-se-ia **Cor Mundi**, o Coração do Mundo: a fundação viva de um astro-organismo onde cada ser respiraria, sangraria e sobreviveria dentro do mesmo batimento.
+
+Essa seria a perversão máxima de sua missão.
+
+A lei verdadeira deveria impedir que o medo decidisse quem deve queimar.
+
+O Dilúvio Fundador impediria a fogueira tornando impossível que alguém permanecesse fora do mesmo sangue.
+
+A pergunta final deixaria de ser se Severin salvará o mundo.
+
+A pergunta será se um mundo salvo por pertencer inteiro a ele ainda pode chamar isso de salvação.
 
 
 A nova verdade da linhagem aprofunda essa ironia. Vaelrûn vinha da Linhagem da Lua de Sangue, uma casa em que soberanos puros nasciam sob o céu vermelho. Quando essa linhagem passou por uma mulher humana, o alinhamento celeste quebrou. Os descendentes ainda carregavam a Lua no sangue, mas já não nasciam sob ela. Severin, último mestiço dessa linha, não recebeu a Lua de Sangue como berço. Recebeu-a como morte.
@@ -2450,13 +2478,13 @@ Diante dos reis, dos sacerdotes de sangue e das casas antigas, ele escreveu o ri
 
 O que desviou o rito não nasceu da piedade dele.
 
-Nasceu antes, no corpo da primeira mãe Sângelună.
+Nasceu antes, no corpo da Primeira Mãe Sângelună.
 
 Ela não reescreveu os pergaminhos do mago porque provavelmente nunca os tocou. Não venceu o rito por conhecimento. Deformou-o por sobrevivência. Arrancou o filho da gramática da corte, queimou sinais de nascimento, misturou sangue humano à prova régia e deixou atrás de si uma linhagem que já não poderia ser encontrada como o mago esperava encontrá-la. A profecia que a matou não deixou uma cláusula legível nos arquivos vampíricos; deixou uma falha biográfica, documental e corporal na descendência.
 
 O mago construiu uma fechadura para sangue puro.
 
-A primeira mãe tentou impedir que a chave fosse entregue.
+A Primeira Mãe tentou impedir que a chave fosse entregue.
 
 Não conseguiu destruí-la.
 
@@ -2508,11 +2536,11 @@ O rito dizia não querer novidade.
 
 Diante da corte, queria repetição.
 
-Mas sua fundação sofreu uma interferência que o mago não dominou. Ele acreditava ter amarrado céu, ossos e descendência com a precisão de uma máquina régia. Não compreendeu que a descendência podia desaparecer do alcance ritual sem desaparecer do mundo. A primeira mãe Sângelună vira que uma coroa pura demais chamaria uma guerra pura demais. Vira humanos e vampiros repetindo suas formas absolutas até que a vitória perdesse diferença moral. Vira a Umbra Indistincta não como derrota de um lado, mas como triunfo do método de todos.
+Mas sua fundação sofreu uma interferência que o mago não dominou. Ele acreditava ter amarrado céu, ossos e descendência com a precisão de uma máquina régia. Não compreendeu que a descendência podia desaparecer do alcance ritual sem desaparecer do mundo. A Primeira Mãe Sângelună vira que uma coroa pura demais chamaria uma guerra pura demais. Vira humanos e vampiros repetindo suas formas absolutas até que a vitória perdesse diferença moral. Vira a Umbra Indistincta não como derrota de um lado, mas como triunfo do método de todos.
 
 Ela não podia destruir o rito. Talvez nem soubesse seu nome. O que fez foi mais desesperado: tentou impedir que seu filho fosse lido como peça legítima dele. Passou a linhagem por humanidade, parto, dor, leite, medo doméstico, nome falso e morte profética. A pureza continuou tendo preferência nos pergaminhos. A impureza passou a existir na carne, nos registros falsos e na memória de uma família que sobrevivia justamente por não parecer herdeira.
 
-O mago não previu Severin como pessoa. A primeira mãe também não. O que ela deixou não foi nome, rosto ou destino. Foi uma interrupção acumulada no futuro: se a coroa procurasse voltar perfeita demais, encontraria em algum ponto uma ferida humana dentro da própria chave.
+O mago não previu Severin como pessoa. A Primeira Mãe também não. O que ela deixou não foi nome, rosto ou destino. Foi uma interrupção acumulada no futuro: se a coroa procurasse voltar perfeita demais, encontraria em algum ponto uma ferida humana dentro da própria chave.
 
 Quando o ponto de abertura enfim chegou, não havia príncipe vampírico puro para reclamar os ossos.
 
@@ -2640,9 +2668,9 @@ A lua de sangue devolve aos mortos o direito de sangrar no mundo.
 
 O eclipse devolve aos vivos a lembrança do que fizeram para continuar vivos.
 
-> **Quando os homens cobriram a Lua, a noite sangrou. Quando a Lua cobriu os homens, eles abriram os arquivos da própria monstruosidade.**
+> **Na lua de sangue, a sombra dos homens fez a noite sangrar. No eclipse, a sombra da Lua obrigou os homens a abrir a própria monstruosidade.**
 
-> **A Lua Ferida devolveu os mortos. A Sombra Branca devolveu aos vivos a lembrança do que fizeram para continuar vivos.**
+> **A Lua Ferida trouxe de volta os mortos. A Sombra Branca trouxe de volta a culpa dos vivos.**
 
 ### 3.22. A Luna Vulnata
 
@@ -3814,7 +3842,7 @@ Demônios libertos verão nele a prisão tentando se fechar novamente.
 
 Severin precisa descobrir outra leitura: talvez o reino morto não esteja pedindo repetição, mas ordem. Talvez o castelo não queira apenas voltar em pedra. Talvez queira ser reconstruído primeiro nele.
 
-> **O castelo não queria apenas ser reconstruído em pedra. Queria ser reconstruído nele.**
+> **O castelo não pedia apenas pedra nova. Pedia um corpo onde pudesse continuar.**
 
 > **O Sangue Fundador não era o direito de mandar. Era a obrigação de coagular um mundo que sangrava sem se tornar a lâmina que o abriu.**
 
@@ -4013,7 +4041,7 @@ No início, a falência parece cansaço.
 
 Depois, sintaxe quebrada.
 
-Severin esquece a primeira pessoa. Acorda dizendo Nós antes de lembrar o próprio nome. Documentos próximos escrevem A Coroa onde deveriam escrever Severin. Portadores sentem fome que não é deles. Crianças anexadas sonham com a mesma sala sem teto na mesma noite. Uma muralha viva move-se antes da ordem. O Livro da Mancha mancha sozinho. O sangue derramado no chão tenta voltar e erra o caminho, procurando corpos marcados como se fossem entradas secundárias do coração.
+Severin esquece a primeira pessoa. Acorda dizendo Nós antes de lembrar o próprio nome. Documentos próximos escrevem A Coroa onde deveriam escrever Severin. Portadores sentem fome que não é deles. Crianças anexadas sonham com a mesma sala sem teto na mesma noite. Uma muralha viva move-se antes da ordem. O Livro da Mancha escurece sozinho. O sangue derramado no chão tenta voltar e erra o caminho, procurando corpos marcados como se fossem entradas secundárias do coração.
 
 A Falência não apaga a lei imediatamente.
 
@@ -4311,6 +4339,222 @@ A sexta lei é a lei do custo político da morte. Severin só permanece vivo enq
 A sétima lei é a lei da definição. Quem define Severin tenta definir o mundo depois dele. Arquivo vivo, rei cativo, bastardo soberano, monstro, fonte, erro, trono, testemunha, anomalia: cada nome é uma tentativa de jurisdição. Severin só começa a governar a si mesmo quando entende que aceitar ou recusar nomes não basta.
 
 É preciso terminar a frase.
+
+
+### 3.55. O Sangue Um
+
+O Sangue Fundador possui um horizonte que Severin talvez passe a vida tentando não alcançar.
+
+Enquanto permanece ligado ao corpo dele, o Sangue Fundador é poder, risco, ferida, cura, selo, retorno, jurisdição e memória. Pode atravessar outro corpo. Pode deixar Eco. Pode chamar o que derramou. Pode curar alguém e, no mesmo gesto, criar pertencimento. Pode impedir uma morte e deixar no salvo a saudade biológica de uma ruína que nunca viu.
+
+Mas ele ainda reconhece um limite: Severin é fonte.
+
+A fonte pode sangrar. Pode recolher. Pode recusar. Pode morrer de cansaço. Pode escolher.
+
+O **Sangue Um** nasce quando esse limite se rompe.
+
+Não se trata de espalhar o sangue de Severin como praga. Praga corre de corpo em corpo e degrada. O Sangue Um não se propaga como doença. Ele se impõe como princípio de circulação. O Coração Criador deixa de produzir soberania para um corpo e começa a produzir fundamento para todos os corpos. O sangue humano, o sangue vampírico, os sangues estranhos de criaturas, as lembranças frias dos mortos, as raízes que bebem sepultura e os mares que recebem cadáveres passam a ouvir uma mesma precedência.
+
+Nesse estado, nenhuma criatura se torna simplesmente Severin.
+
+Algo pior acontece.
+
+Todas passam a existir dentro da possibilidade de Severin.
+
+A diferença não desaparece de imediato como cor apagada de tecido. Corpos ainda conservam forma. Um humano ainda tem rosto humano. Um vampiro ainda sabe a noite. Um revenant ainda carrega dívida. Um demônio, se ainda puder tocar a matéria, odeia mais do que nunca o limite dissolvido entre as partes. Uma árvore ainda cresce em silêncio. Mas, por baixo da forma, a separação começa a falhar. O sangue deixa de ser fronteira íntima e passa a ser idioma comum demais. A dor de um povo encontra veias em outro. A fome de uma raça acorda nos sonhos de quem a temia. Memórias não se misturam em igualdade limpa; vazam, coagulam, contaminam e reclamam lugar.
+
+A promessa do Sangue Um é acabar com a pureza.
+
+Seu crime é acabar também com o fora.
+
+Ninguém seria impuro, porque nada permaneceria separado o bastante para ser medido como impureza. Ninguém seria puro, porque pureza exige fronteira. O Ofício perderia sua gramática. Os vampiros puros perderiam sua arrogância dinástica. A Ordem Branca perderia a palavra contaminação. Demônios perderiam parte de sua economia de cláusulas, pois contrato precisa de partes distintas. Os Reis Mortos descobririam que a coroa antiga era pequena demais diante de um mundo inteiro tornado circulação.
+
+Mesmo assim, a vitória seria monstruosa.
+
+Porque ninguém mais teria sangue inteiramente próprio.
+
+### 3.56. O Dilúvio Fundador
+
+O Dilúvio Fundador é o horizonte extremo do Sangue Fundador.
+
+Não pertence ao plano original de Elyr Morvhan.
+
+Elyr escreveu o Ritus Coronae Sepultae para sangue puro, ossos régios, Lua de Sangue plena, castelo, retorno e restauração. Em seu desenho, o herdeiro correto não fundaria um mundo novo. Receberia o mundo antigo de volta. A coroa sepulta encontraria corpo. Os pactos recuperariam boca. As criaturas retornariam à obediência. A Machina Cruoris voltaria a girar em torno da quinta engrenagem.
+
+A Primeira Mãe viu que esse retorno limpo seria apenas outro nome para guerra perfeita.
+
+Mas ela viu também algo que Elyr não poderia ver, porque o mago pensava em pureza, não em parto. Se a chave da coroa fosse empurrada para dentro da humanidade, se a linhagem enferrujasse em medo, leite, nome falso e sangue comum, se um dia o rito encontrasse uma matéria legítima demais para recusar e impura demais para restaurar, a falha poderia produzir uma terceira força.
+
+Essa força não restauraria a velha noite.
+
+Poderia fundar outra realidade.
+
+O Dilúvio começa quando Severin, esgotado pela repetição das guerras, pela reabertura dos arquivos humanos, pela arrogância dos vampiros antigos, pela fome das criaturas, pela libertação das quimeras e pela incapacidade dos povos de suportarem a diferença sem transformá-la em sentença, aceita a conclusão mais perigosa que seu sangue pode oferecer:
+
+> Enquanto houver diferença, haverá medo.  
+> Enquanto houver medo, haverá classificação.  
+> Enquanto houver classificação, haverá fogueira.  
+> Se o mundo não consegue proteger a diferença, a diferença será abolida.
+
+Nesse instante, o Sangue Fundador deixa de agir apenas como intervenção.
+
+Passa a agir como dilúvio.
+
+A Lua Ferida, que desde a Luna Vulnata carregava o rito interrompido, responde. Ela não se aproxima da Terra como pedra morta atraída por gravidade. Aproxima-se como ferida que reconhece outra ferida. Seu vermelho deixa de ser apenas luz, halo, presságio ou reflexo de sombra. Torna-se matéria.
+
+Primeiro caem gotas.
+
+Sangue lunar toca telhados, altares, muralhas, árvores, rios, cadáveres, bacias de prata, documentos, espadas, berços e ossos enterrados. Não tem o calor do sangue humano. É frio de céu, ferro antigo e pedra molhada. Onde cai sobre tinta, a palavra incha. Onde cai sobre prata, a prata escurece. Onde cai sobre cadáveres, os nomes esquecidos sobem à boca. Onde cai sobre vivos, o coração perde uma batida e encontra outra.
+
+Depois a Terra responde.
+
+Poços ficam vermelhos sem que alguém tenha sangrado sobre eles. Rios engrossam contra a corrente. O mar deixa de cheirar apenas a sal. As Foveae Belli transpiram pelas costuras da pedra. Ruínas antigas vertem sangue pelas paredes. As raízes bebem fundo e florescem fora de estação. Criptas muradas exalam vapor escuro. Animais param de fugir e começam a escutar o chão.
+
+Então vem a maré.
+
+O sangue não desce apenas do céu. Sobe do mundo.
+
+A Terra inteira se torna limiar.
+
+### 3.57. Coagulatio Mundi
+
+Realmente, a Terra deveria morrer.
+
+Se a Lua fosse engolida como corpo físico comum, o planeta acabaria em catástrofe. A crosta se partiria. Os mares ferveriam. Montanhas seriam arrancadas como cascas. O núcleo cuspiria fogo suficiente para apagar cidades, espécies, memórias e todos os calendários. Não haveria reino, arquivo, criatura ou trono capaz de sobreviver à violência de uma fusão celeste ordinária.
+
+Mas o Dilúvio Fundador não é colisão ordinária.
+
+É incorporação.
+
+No ponto extremo da Conjunção Rubra, o Sangue Fundador já não pertence apenas ao corpo de Severin. Corre nos rios, no mar, nos animais, nos revenants, nas raízes, nos cadáveres, nas criaturas antigas, nos corpos que receberam Eco, nas ruínas que beberam sua Maré de Retorno e nas pedras de Caer Sângelună. O mundo, antes de engolir a Lua, já está parcialmente transformado em corpo.
+
+Por isso, quando a Lua entra na Terra, a Terra não quebra como planeta.
+
+Coagula como ferida.
+
+A **Coagulatio Mundi** é o instante em que destruição física se torna reorganização sanguínea. A Lua não se choca contra a superfície. É puxada para dentro da circulação. Sua massa, sua memória, sua ferida e sua autoridade celeste são metabolizadas pelo Sangue Fundador. O que deveria ser impacto torna-se digestão ritual. O que deveria ser extinção torna-se fundação monstruosa.
+
+A crosta se fecha como pele sobre trauma impossível.
+
+As montanhas permanecem porque o sangue as prende como ossos.
+
+Os mares se movem porque o pulso os chama, não porque uma Lua externa os puxa.
+
+O fogo subterrâneo não desaparece; aprende a circular como febre.
+
+O antigo eixo do mundo não se estabiliza por astronomia, mas por vontade convertida em batimento.
+
+A Terra antiga acaba.
+
+A coisa que permanece não é a Terra salva.
+
+É a Terra refundada.
+
+### 3.58. Terra-Lua e astro-organismo
+
+Depois da Coagulatio Mundi, nenhum astrônomo honesto chamaria o mundo de Terra no mesmo sentido antigo.
+
+A Terra dependia da Lua para ser Terra. Suas marés, seus ciclos, seus medos, seus calendários e suas noites foram moldados por um corpo celeste separado. A distância entre os dois astros era parte da ordem do mundo. A Lua olhava. A Terra respondia. A sombra de uma tocava a outra apenas em certos momentos. Eclipse era exceção justamente porque os corpos permaneciam distintos.
+
+A Terra-Lua destrói essa distância.
+
+Não se torna planeta morto, nem lua caída, nem esfera simples de pedra misturada. Torna-se **astro-organismo**: um corpo celeste vivo por circulação, sustentado por sangue, memória, gravidade deformada e soberania dissolvida. O mundo já não possui satélite. Possui órgão incorporado. A Lua não desaparece; torna-se parte interna da anatomia planetária.
+
+Em algumas regiões, veios lunares aparecem na crosta como cicatrizes claras sob pedra escura. Em outras, mares inteiros brilham por baixo durante noites sem Lua externa. Certos desertos respiram poeira vermelha em ciclos semelhantes a marés. Montanhas antigas crescem em arcos que lembram costelas. Cavernas profundas batem devagar, uma vez a cada estação, e o som percorre quilômetros pelo osso mineral do planeta.
+
+O clima já não é apenas clima.
+
+É humor.
+
+As estações tornam-se variações de febre, repouso, cicatrização e perda. Terremotos podem ser arritmias. Erupções podem ser hemorragias. Secas podem ser coagulação excessiva. Chuvas podem ser transpiração de um mundo que sonha com água e sangue ao mesmo tempo. Florestas crescem como tecidos regenerativos, fechando ruínas que o planeta já não deseja expor. Certas cidades, construídas sobre antigas feridas, começam a afundar não por fraqueza do solo, mas porque o astro-organismo rejeita corpos políticos que continuam funcionando como infecção.
+
+Os antigos mares obedeciam à gravidade.
+
+Os novos mares obedecem ao pulso.
+
+As antigas montanhas se erguiam por pressão e tempo.
+
+As novas permanecem de pé porque algo no centro do mundo as mantém coesas como ossos.
+
+A Terra-Lua não orbita apenas o Sol.
+
+Orbita uma ferida.
+
+### 3.59. Cor Mundi — o Coração do Mundo
+
+No centro da Terra-Lua não há apenas ferro.
+
+Há um coração.
+
+O **Cor Mundi** é o destino extremo do Coração Criador quando o Dilúvio Fundador se completa. O órgão impossível que voltou a bater dentro de Severin após seu segundo nascimento deixa de sustentar um corpo individual e desce ao centro do astro-organismo. Ali substitui, atravessa ou reescreve o núcleo antigo. O mundo novo não permanece unido porque a física antiga o permite. Permanece unido porque há um batimento capaz de manter crosta, manto, mar, sangue, osso, raiz, morto e vivo dentro de uma única circulação. A antiga lei de retorno não é abolida; é ampliada até o centro. O sangue já não precisa voltar ao peito de Severin porque o peito de Severin tornou-se o lugar para onde todo retorno desce.
+
+Severin não se senta no centro do mundo como rei em trono subterrâneo.
+
+Ele deixa de ser o homem que poderia sentar-se.
+
+Essa é a verdade mais terrível do Cor Mundi: Severin não governa a Terra-Lua. Severin é a condição que a mantém viva. Sua pessoa se dissolve em fundamento. O filho de Mirela, o irmão de Vespera e Ilona, o sobrevivente de Veyr, o rei sem castelo, o bastardo reconhecido pelos ossos, tudo isso não desaparece por completo, mas perde forma suficiente para não poder mais ser chamado de indivíduo inteiro.
+
+Restos dele permanecem.
+
+Não como pensamento comum.
+
+Como clima, maré, dor subterrânea, sonho compartilhado, febre das raízes, tremor de montanha, silêncio de poço, calor inesperado no peito de uma criança nascida durante chuva vermelha. Quando alguém sangra, o Cor Mundi talvez sinta. Quando uma floresta queima, talvez desperte como pele aberta. Quando uma guerra começa, talvez o planeta inteiro tenha febre antes que os soldados entendam o motivo.
+
+A consciência de Severin não morre.
+
+Também não sobrevive como pessoa.
+
+Torna-se percepção distribuída demais para escolher com a delicadeza de um homem e íntima demais para ser chamada de natureza cega.
+
+Todos vivem porque ele já não vive apenas como um.
+
+Essa é a salvação e a posse no mesmo batimento.
+
+### 3.60. A perversão da lei nova
+
+O Dilúvio Fundador é a resposta errada para a pergunta certa.
+
+Severin sabe melhor que qualquer rei antigo o que acontece quando o mundo decide que uma categoria basta para condenar um corpo. Sua família morreu porque sangue foi tratado como prova antes que vida fosse tratada como testemunha. Seu arco verdadeiro aponta para uma lei capaz de preservar diferença sem permitir que o medo a transforme em sentença.
+
+Mas o Sangue Fundador oferece atalho.
+
+Se toda diferença pode virar fogueira, basta abolir a diferença.
+
+Se toda fronteira pode virar cadastro, basta dissolver fronteiras.
+
+Se todo sangue separado pode virar hierarquia, basta fundar um sangue único.
+
+A lei verdadeira diria:
+
+> Ninguém precisará deixar de ser diferente para continuar vivo.
+
+O Dilúvio diria:
+
+> Ninguém será diferente o bastante para ser morto por isso.
+
+A primeira frase exige discernimento, paciência, erro, julgamento, testemunha, escuta e a coragem de manter o mundo plural mesmo quando a pluralidade sangra.
+
+A segunda frase oferece paz imediata ao preço de transformar toda vida em pertencimento.
+
+Por isso o Dilúvio Fundador deve ser compreendido como tentação final, não como destino obrigatório. Ele é a conclusão possível se Severin aceitar que o mundo não merece mais o risco da diferença. É o ponto em que compaixão cansada se converte em soberania total. É o instante em que o rei sem castelo poderia fazer do mundo inteiro seu castelo e chamar isso de misericórdia.
+
+A Primeira Mãe não viu esse fim como promessa.
+
+Viu como advertência.
+
+O mago quis devolver uma coroa ao mundo.
+
+A Primeira Mãe impediu que essa coroa voltasse limpa.
+
+Severin, nascido da falha entre ambos, poderia criar algo mais vasto e mais perigoso que qualquer coroa: um mundo onde ninguém mais tivesse sangue fora dele.
+
+O último castelo de Severin não teria muralhas.
+
+Teria crosta, mares, montanhas e céu.
+
+E no lugar do trono haveria um coração batendo no escuro, sustentando todos os vivos com a mesma pergunta que nenhum deles poderia responder:
+
+> **Isto foi salvação ou posse?**
 
 
 ## PARTE IV — A máquina humana de pureza, arquivo e fé
@@ -4838,7 +5082,7 @@ Todas participaram.
 
 Todas sobreviveram porque alguém foi autorizado a deixar de contar certos corpos como humanos.
 
-> **Cada casa guardou uma parte da vitória. Só quando reuniram os arquivos descobriram que haviam herdado um cadáver inteiro.**
+> **Cada casa guardou uma parte da vitória. Quando os arquivos se juntaram, a herança tomou a forma de um cadáver inteiro.**
 
 ### 4.13. A Sombra Branca
 
@@ -5762,6 +6006,159 @@ A língua das fogueiras.
 
 ---
 
+### 4.32. A Longa Vigília
+
+Depois da última guerra, os homens que venceram descobriram que uma vitória militar era curta demais.
+
+Matar reis não bastava. Era preciso decidir como eles seriam lembrados. Selar ossos não bastava. Era preciso dividir arquivos, apagar métodos, corrigir genealogias, domesticar a fé, organizar coroas humanas e transformar a própria brutalidade em doutrina de sobrevivência. A guerra acabara no campo, mas continuava nos livros, nas catedrais, nos casamentos, nos partos, nos mapas, nos cofres e nas bocas das crianças que aprenderiam qual versão do mundo havia sido salva.
+
+Uma vida humana comum era pequena demais para esse trabalho.
+
+Os primeiros capitães da Ordem Branca chamaram isso de problema de continuidade.
+
+Não queriam admitir que chamavam a própria morte de risco administrativo.
+
+Assim nasceu a **Longa Vigília**.
+
+Nos porões onde a Mortalha Branca fora estudada, os médicos de veia e monges anatômicos aprenderam algo que jamais poderia subir aos púlpitos. A praga ensinara o sangue vampírico a esquecer sua regeneração. Mas o estudo da perda revelou também a arquitetura do poder perdido. Se era possível privar o vampiro de sua natureza, talvez fosse possível extrair dela uma permanência degradada, filtrada, corrigida e subordinada ao corpo humano.
+
+Os arquivos internos chamaram a substância de **Sanguis Emendatus**.
+
+Sangue Corrigido.
+
+O nome era mentira desde a primeira ampola.
+
+Nada havia sido corrigido. O sangue vampírico fora mutilado, lavado em prata, atravessado por sal, fórmulas litúrgicas, fragmentos da Mortalha, cálculos de dosagem e procedimentos que nenhum confessor teria permitido se fossem descritos em língua comum. Os médicos diziam que retiravam a corrupção. Os monges diziam que disciplinavam a matéria. Os capitães diziam que preservavam a humanidade. Os reis diziam que a memória da vitória precisava de guardiões.
+
+O corpo dizia outra coisa.
+
+A primeira dose não tornava um homem vampiro. Não lhe dava dentes de senhor noturno, nem fome nobre, nem imortalidade verdadeira. Dava tempo. Dava força além da idade. Dava cicatrização discreta. Dava olhos que permaneciam lúcidos quando outros homens já tremiam diante de nomes esquecidos. Dava mãos firmes para abrir cofres cinquenta anos depois de tê-los lacrado. Dava a um mesmo capitão a chance de orientar filhos, netos e bisnetos de reis como se fossem capítulos de um único relatório.
+
+A Ordem não chamou isso de roubo.
+
+Chamou de vigília.
+
+Ao povo, a explicação veio em linguagem mais alta: **a Graça da Longa Vigília**. Certos homens, dizia-se, recebiam anos excedentes porque Deus não permitiria que a humanidade dormisse enquanto a noite fingia estar morta. Seus cabelos embranqueciam devagar. Suas mãos conservavam firmeza. Suas vozes atravessavam reinados. Seus retratos eram retocados para parecerem sucessões de mestres parecidos demais entre si. Alguns recebiam novos nomes. Outros fingiam ser filhos de si mesmos. Outros permaneciam atrás de véus, grades, confessionários ou salas onde ninguém via de perto o rosto que não acabava de envelhecer.
+
+O povo notou.
+
+Sempre nota.
+
+Um camponês idoso reconhecia, no tribunal do neto, a voz do homem que interrogara sua avó. Uma freira jurava ter visto o mesmo comandante em três guerras, mudando apenas o anel. Um escriba encontrava a mesma caligrafia em decretos separados por noventa anos. Médicos de corte desapareciam depois de servir a certos prelados. Pintores eram instruídos a acrescentar rugas que o modelo não possuía. Em vilas distantes, dizia-se que os santos da Ordem não apodreciam porque Deus os mantinha à porta do escuro.
+
+A mentira funcionava porque imitava uma verdade possível.
+
+Em um mundo de demônios reais, relíquias, milagres, maldições, revenants e luas feridas, uma vida prolongada por graça divina não parecia impossível.
+
+Parecia conveniente.
+
+E conveniência, quando repetida por catedrais, aprende a soar como dogma.
+
+### 4.33. O Sanguis Emendatus
+
+O Sanguis Emendatus tinha três fontes.
+
+A primeira vinha dos reis vampíricos estudados durante a última guerra. Seus sangues foram pesados, separados, aquecidos, contaminados, privados, reativados e registrados antes que seus corpos fossem reduzidos a ossos. Nem todas as amostras sobreviveram. As que sobreviveram foram guardadas sob selos que diziam conter peste, não privilégio.
+
+A segunda vinha da Mortalha Branca. A praga não era apenas arma. Era chave de leitura. Mostrou aos homens onde o sangue vampírico regenerava, onde lembrava, onde recusava morte e onde podia ser forçado a esquecer. O mesmo instrumento que humilhara os vampiros permitiu aos humanos roubar uma caricatura de sua permanência.
+
+A terceira vinha dos corpos menores: vampiros capturados depois da guerra, mestiços encontrados antes de serem queimados, servos vinculados, quimeras fracassadas e criaturas cujo sangue reagia a fórmulas lunares. Nenhum relatório público diria isso. Nos registros limpos, todos eram focos contidos, amostras residuais, material de exceção ou restos sem pessoa.
+
+A fórmula nunca foi estável.
+
+O Sanguis Emendatus prolongava a vida, mas cobrava juros. Sem novas doses, o corpo começava a lembrar de uma vez tudo aquilo que a ampola havia adiado. A pele se tornava fina e seca. Veias escureciam como tinta velha. Dentes soltavam-se sem dor. Ossos doíam em noites de halo vermelho. A força desaparecia em horas. Alguns envelheciam décadas durante um único inverno. Outros enlouqueciam de memória, confundindo relatórios antigos com lembranças próprias.
+
+Com o tempo, as doses precisavam aumentar.
+
+A Ordem chamou isso de tolerância de vigília.
+
+Os médicos honestos chamariam de dependência, se tivessem permissão para continuar vivos depois da palavra.
+
+Havia efeitos mais profundos.
+
+Sonhos com salões que nenhum homem pisara. Repulsa e desejo diante de sangue fresco. Sensibilidade à Lua Ferida. Raiva sem origem quando alguém pronunciava nomes vampíricos antigos. Dificuldade crescente de entrar em igrejas construídas sobre fossas régias. Alguns altos vigias ouviam, em noites vermelhas, uma batida longe demais para ser o próprio coração e perto demais para ser metáfora.
+
+Os líderes da Ordem não se tornavam vampiros.
+
+Tornavam-se monumentos hipócritas àquilo que diziam combater.
+
+Por isso o Sanguis Emendatus é uma das chaves mais venenosas da história humana. Famílias como a de Severin foram caçadas por carregar sangue antigo sem tê-lo escolhido. Crianças foram abertas, registradas, separadas ou queimadas por sinais herdados. Mães enterraram panos de parto para salvar filhos. Linhagens inteiras foram chamadas de risco hereditário.
+
+Enquanto isso, os homens mais altos da pureza injetavam em si uma versão corrigida do mesmo horror que condenavam.
+
+A diferença entre eles e Severin não era biológica.
+
+Era moral.
+
+Severin carregava sangue antigo porque nasceu dentro de uma história que tentou apagá-lo.
+
+Eles o carregavam porque decidiram que a vitória lhes dava direito de roubar até a natureza do inimigo.
+
+### 4.34. A Agulha Branca
+
+O instrumento usado na Longa Vigília recebeu muitos nomes.
+
+Nos relatórios médicos, era **Instrumentum Vigiliae**.
+
+Entre capitães, **Agulha Branca**.
+
+Nos cofres da Cátedra, **Cânula da Continuidade**.
+
+Em certas cartas cifradas, apenas **a vela que entra pela veia**.
+
+Não era seringa simples de boticário. Era pequeno objeto de prata fosca, vidro espesso, osso polido e molas delicadas. A ponta precisava atravessar pele sem provocar sangramento excessivo, pois sangue desperdiçado podia denunciar a reação do corpo. O êmbolo era lento. Doses rápidas causavam convulsão, fome, delírio ou regressão visível. A ampola era aquecida na mão de um médico de veia até perder o frio de cripta e ganhar temperatura próxima à humana.
+
+Os ritos ao redor da aplicação eram mais importantes que os homens admitiam.
+
+Antes da dose, o alto vigia jejuava. Confessava apenas pecados comuns, nunca o uso da ampola. Lavava o braço com água salgada. O médico recitava salmos baixos, não porque o sangue precisasse de Deus para funcionar, mas porque o silêncio tornava audível demais o líquido entrando na veia. Uma tela separava o paciente de qualquer assistente menor. O nome da substância nunca era dito inteiro durante a aplicação.
+
+Depois vinha a febre.
+
+Sempre vinha.
+
+Alguns tremiam como jovens. Alguns choravam sangue claro por minutos. Alguns lembravam o próprio nascimento. Alguns riam com voz que parecia não pertencer à garganta. Os mais antigos aprendiam a permanecer imóveis. A disciplina era parte do mito. Um guardião escolhido por Deus não podia parecer viciado em um sangue que chamaria de impuro se nascesse no corpo de uma criança camponesa.
+
+A Agulha Branca preservou homens demais por tempo demais.
+
+Sem ela, a Ordem Branca teria esquecido parte de seus crimes por simples morte. Com ela, a mentira ganhou testemunhas vivas capazes de orientar sucessores, corrigir versões, reconhecer linhagens, reabrir protocolos, apagar nomes e impedir que a vergonha humana se diluísse em gerações inocentes demais para entender como a vitória fora feita.
+
+O horror da Longa Vigília não está apenas em prolongar a vida.
+
+Está em prolongar a responsabilidade sem permitir arrependimento público.
+
+### 4.35. Os santos que não envelheciam
+
+A Graça da Longa Vigília produziu sua própria iconografia.
+
+Pinturas mostravam homens magros diante de janelas fechadas, segurando cruzes, livros ou espadas, com olhos fundos e expressão de quem trocara descanso por humanidade. Hinos populares agradeciam aos guardiões que permaneciam quando reis morriam. Crianças aprendiam que certas vidas eram esticadas por Deus como cordas de sino, para que o som da vigilância não cessasse antes do fim do perigo.
+
+A santidade pública escondia o mecanismo.
+
+Alguns altos vigias foram venerados ainda vivos. Outros receberam funerais falsos e continuaram servindo sob nomes novos. Havia relíquias vazias, tumbas lacradas sem corpo, ossos comprados de penitentes anônimos e retratos de sucessores que eram, em segredo, o mesmo homem com outra barba. Catedrais inteiras preservavam aniversários de morte de pessoas que ainda assinavam relatórios nos porões.
+
+A Sé Branca nem sempre soube tudo.
+
+Alguns papas desconfiaram e calaram. Outros receberam explicações incompletas. Alguns bispos acreditaram sinceramente na graça. Outros sabiam o bastante para nunca fazer a pergunta durante o dia. A Ordem Branca mantinha sua própria teologia de exceção: Deus podia operar por meios repugnantes se a noite fosse repugnante o bastante. A frase era útil porque permitia que qualquer crime se ajoelhasse por alguns segundos antes de continuar de pé.
+
+Quando a Luna Vulnata abriu o mundo, os sobreviventes da Longa Vigília foram os primeiros a entender que a história não voltara como lenda.
+
+Voltava como cobrança.
+
+O sangue que haviam roubado começou a responder ao sangue que eles não conseguiram extinguir.
+
+Diante de Severin, alguns sentiriam no corpo uma coisa que nenhum dogma lhes permitia confessar: reconhecimento.
+
+Não reverência.
+
+Não lealdade.
+
+Uma vergonha biológica.
+
+A ampola que lhes deu séculos talvez tivesse preparado suas veias para ouvir o Coração Criador quando ele começasse a chamar o mundo.
+
+Essa é a última ironia da Longa Vigília. Os homens que prolongaram a própria vida para guardar a humanidade contra a noite talvez tenham se tornado, sem perceber, os primeiros humanos importantes a carregar dentro de si um corredor aberto para a fundação sanguínea que mais temem.
+
+
 ## PARTE V — Fé, discernimento e terceira natureza fabricada
 
 
@@ -6342,7 +6739,7 @@ A fuga verdadeira não é sair da instalação.
 
 ## PARTE VI — Horizonte profético e colapso moral
 
-### 6.1. Aureliana Valcár, a primeira mãe Sângelună
+### 6.1. Aureliana Valcár, a Primeira Mãe Sângelună
 
 A linhagem de Severin não começou apenas com transgressão.
 
@@ -6394,7 +6791,7 @@ Falhou em destruir a possibilidade.
 
 Venceu em deformá-la.
 
-O filho viveu fora da forma esperada. Sem nome de corte, sem rito de sangue, sem alinhamento completo, sem registro claro. Daquele erro de sobrevivência vieram séculos de ocultamento, vergonha, nomes falsos e partos escondidos. A linhagem não sobreviveu porque a primeira mãe planejou a Terceira Natureza como doutrina. Sobreviveu porque uma mulher morrendo recusou entregar o próprio filho a qualquer sistema que já tivesse decidido o uso dele antes de seu primeiro choro.
+O filho viveu fora da forma esperada. Sem nome de corte, sem rito de sangue, sem alinhamento completo, sem registro claro. Daquele erro de sobrevivência vieram séculos de ocultamento, vergonha, nomes falsos e partos escondidos. A linhagem não sobreviveu porque a Primeira Mãe planejou a Terceira Natureza como doutrina. Sobreviveu porque uma mulher morrendo recusou entregar o próprio filho a qualquer sistema que já tivesse decidido o uso dele antes de seu primeiro choro.
 
 Ela deixou frases partidas, preservadas depois por mulheres da linhagem em canções domésticas, rezas deformadas e avisos que ninguém compreendia por inteiro.
 
@@ -6408,7 +6805,7 @@ Vaelrûn ouviu parte disso. Primeiro negou, porque todo rei treinado para fechar
 
 A história oficial nunca soube inteira.
 
-A primeira mãe Sângelună não morreu sem testemunha.
+A Primeira Mãe Sângelună não morreu sem testemunha.
 
 Ao lado do leito havia um padre humano chamado **Emano Kel**.
 
@@ -6450,7 +6847,7 @@ Não como plano de salvação.
 
 Como filho arrancado às pressas de uma coroa que já o queria antes de conhecê-lo.
 
-### 6.2. A falha que a primeira mãe deixou
+### 6.2. A falha que a Primeira Mãe deixou
 
 Aureliana Valcár não venceu o mago em duelo de ritos.
 
@@ -6496,7 +6893,7 @@ Também não é projeto puro.
 
 O mago preparou o retorno dos reis.
 
-A primeira mãe impediu que eles encontrassem um caminho limpo de volta.
+A Primeira Mãe impediu que eles encontrassem um caminho limpo de volta.
 
 ### 6.3. A Sombra Indistinta
 
@@ -6556,7 +6953,7 @@ Passa a descrever um método.
 
 Não haveria mais humano contra não humano. Haveria apenas criaturas usando justificativas diferentes para produzir a mesma ruína. A guerra deixaria de buscar vitória. Passaria a buscar anulação. Um lado não lutaria até derrotar o outro; ambos lutariam até que não restasse outro, nem si mesmos, nem mundo capaz de lembrar por que começaram.
 
-Foi esse o fim que a primeira mãe viu durante o parto.
+Foi esse o fim que a Primeira Mãe viu durante o parto.
 
 Não a vitória dos vampiros.
 
@@ -6577,6 +6974,123 @@ Se ele fosse apenas vampiro, restauraria a noite. Se fosse apenas humano, aceita
 Sua função não é provar que humanos são bons ou que vampiros podem ser bons. É impedir que a frase “todos são monstros” vire a última lei do mundo.
 
 O sangue impuro que adiou o fim precisará decidir se também pode impedir que a dança termine.
+
+### 6.4. A Visio Sanguinis Unius
+
+A Visio Parturientis guardava uma camada que os primeiros leitores não tinham como compreender.
+
+Aureliana Valcár viu a guerra perfeita, mas viu também aquilo que poderia nascer depois dela caso a falha deixada em sua linhagem fosse levada ao extremo. O relato de Emano Kel registrou imagens que durante séculos pareceram metáforas de parto, febre ou delírio: um coração abaixo de montanhas, uma lua entrando na terra sem quebrá-la, chuva escura caindo de um céu sem nuvens, mares que batiam como pulso e crianças nascendo com sangue que não parecia pertencer apenas a elas.
+
+Os monges interpretaram essas imagens como alegorias do mal vencido.
+
+Erraram de novo.
+
+Aureliana não viu apenas a restauração dos vampiros nem a purificação dos humanos. Viu uma terceira possibilidade, mais difícil de odiar porque se vestia de misericórdia. Viu um mundo onde ninguém poderia ser separado o bastante para virar alvo. Viu todas as veias chamadas para uma mesma fonte. Viu o fim da pureza, da impureza, da linhagem, da bastardia, da espécie como sentença e da fronteira como autorização para fogo.
+
+Por um instante, isso pareceu paz.
+
+Então ela entendeu o preço.
+
+Ninguém mais tinha sangue próprio.
+
+A Visio Sanguinis Unius não é profecia de destino. É profecia de tentação. Não diz que Severin deve fundar o Sangue Um. Diz que ele poderá fazê-lo se a dor aprender a falar como lei e se o mundo provar vezes demais que prefere a unidade violenta ao discernimento difícil.
+
+Aureliana morreu sem conhecer o nome de Severin.
+
+Mesmo assim, viu a forma final da pergunta que um dia tentaria devorá-lo:
+
+> Salvar todos ainda é salvação quando todos precisam pertencer a um só coração para serem salvos?
+
+### 6.5. A Conjunção Rubra
+
+A Umbra Indistincta possui uma forma moral e uma forma extrema.
+
+A forma moral é a morte da diferença entre métodos. Humanos, vampiros, demônios, criaturas e reis mortos continuam biologicamente distintos, mas passam a praticar a mesma lógica de anulação. Cada lado chama o outro de monstro e responde tornando a acusação verdadeira. A palavra monstro deixa de designar natureza e passa a designar método.
+
+A forma extrema nasce se Severin aceitar o Dilúvio Fundador.
+
+Nesse caso, a indistinção deixa de ser apenas moral. Torna-se sanguínea, celeste e planetária.
+
+O eclipse final não é só sombra da Lua sobre a Terra. É a ocasião em que a Lua Ferida, já marcada pela falha do Ritus Coronae Sepultae, encontra o Coração Criador em escala mundial. A Terra cobre a Lua na lua de sangue; a Lua cobre a Terra no eclipse; e, no limite, ambas deixam de aceitar a distância que tornava possível distinguir ferida celeste de ferida histórica.
+
+Esse ponto recebe nos fragmentos posteriores o nome de **Conjunção Rubra**.
+
+Não é alinhamento astronômico comum.
+
+É consentimento forçado entre duas feridas.
+
+A Lua derrama sangue sobre a Terra. A Terra responde com sangue próprio. O Sangue Fundador, já espalhado por Ecos, ritos, ruínas, marés e corpos tocados, deixa de voltar ao peito de Severin e começa a voltar ao centro do mundo. A Maré de Retorno torna-se planetária. O chamado já não pergunta onde está o corpo do rei. Pergunta onde terminará o corpo do mundo.
+
+Se a Conjunção se completa, a Lua não permanece satélite.
+
+Torna-se órgão.
+
+### 6.6. Cor Mundi como fim da pessoa
+
+A visão mais terrível de Aureliana não mostrava Severin sentado em trono.
+
+Mostrava o centro do mundo.
+
+Onde deveria haver ferro, havia carne. Onde deveria haver fogo, havia pulso. Onde deveria haver núcleo, havia um coração. Não um símbolo gravado em pedra, não um sol subterrâneo, não uma joia régia, mas um órgão vivo, imenso, impossível, batendo devagar o bastante para mover mares e forte o bastante para manter montanhas unidas.
+
+Ela não viu um rei governando todos.
+
+Viu um homem deixando de ser homem para que todos pudessem existir dentro dele.
+
+Essa é a forma final do Cor Mundi. Severin perde a coroa porque a coroa se torna pequena demais. Perde o castelo porque o castelo se torna planeta. Perde o corpo porque o corpo se torna circulação. Perde o nome porque o nome já não cabe em uma pessoa que respira como clima, sangra como maré e sonha como floresta.
+
+Os que nascerem depois talvez não saibam que vivem dentro do sacrifício de alguém.
+
+Ou talvez saibam demais.
+
+Alguns poderão rezar para o coração no centro do astro-organismo. Outros o chamarão de tirano dissolvido. Outros dirão que Severin finalmente salvou todos da guerra. Outros perguntarão se um mundo sem exterior pode produzir inocência. Os vampiros puros o odiariam porque nenhum sangue seria superior ao sangue que sustenta todos. A Ordem Branca o odiaria porque nenhuma pureza restaria para defender. Os demônios o odiariam porque contratos apodreceriam onde as partes deixassem de ser separadas. Os mortos talvez descansassem. Ou talvez nunca mais conseguissem separar descanso de pertencimento.
+
+A pergunta permanece aberta porque a visão não absolve.
+
+Mostra.
+
+O Cor Mundi é sacrifício se Severin ainda puder recusar e escolher entregar-se.
+
+É horror se o mundo inteiro for arrastado para dentro dele sem consentimento.
+
+É ambos se a escolha nascer do amor contaminado por desespero.
+
+### 6.7. O astro-organismo
+
+A Terra-Lua da visão não é um paraíso.
+
+É um astro-organismo.
+
+Seus rios são veias. Seus mares, câmaras de pulso. Suas cordilheiras, ossaturas que gemem em noites de febre. Suas florestas, tecidos que crescem para fechar feridas antigas. Suas cidades, crostas construídas sobre nervos que podem rejeitá-las. Seus mortos, memórias presas em camadas profundas. Suas criaturas, órgãos que lembram funções anteriores à fundação. Seus povos, células conscientes demais para aceitarem facilmente que a vida comum agora depende de um coração que nenhum deles escolheu.
+
+Nesse mundo, astrologia, medicina, política e geologia deixam de ser disciplinas separadas.
+
+Um terremoto pode ser julgamento, doença, reflexo ou simples espasmo. Uma revolta pode provocar febre na região. Uma guerra pode engrossar rios. Um massacre pode fazer flores vermelhas nascerem em pedra nua. Um nascimento pode acalmar marés por horas. O planeta deixa de ser cenário para tornar-se participante.
+
+Isso cumpre e profana todas as tradições anteriores.
+
+Os vampiros queriam um castelo como corpo político.
+
+O astro-organismo faz do mundo inteiro um corpo político.
+
+Os humanos queriam uma Terra limpa de monstros.
+
+O astro-organismo faz da palavra monstro uma relíquia inútil e, ao mesmo tempo, transforma todos em habitantes de uma monstruosidade sagrada.
+
+A Primeira Mãe quis impedir que seu filho fosse usado por uma coroa.
+
+A visão final mostra um futuro em que o descendente de sua linhagem poderia tornar-se uma coroa sem borda, tão vasta que ninguém conseguiria sair de baixo dela.
+
+Por isso a profecia não encerra a obra.
+
+Ela abre a última escolha.
+
+Severin precisará decidir se a existência plural, imperfeita, violenta e corrigível merece continuar, ou se a paz do Sangue Um vale a morte de toda distância.
+
+A guerra antiga perguntava quem deveria governar.
+
+A pergunta final será se tudo precisa pertencer para não queimar.
+
 
 ## PARTE VII — Conflitos, figuras e destinos
 
@@ -7016,7 +7530,7 @@ Um fragmento dos arquivos vaza para o povo por meio de um escriba da Cúria Bran
 A Igreja humana se divide. Pregadores da guerra chamam todas as criaturas de obra do Diabo e exigem reativação total da Ordem Branca. Outros sacerdotes lembram que nem todo morto é demônio, nem todo mestiço é condenado, nem toda criatura sem forma humana perdeu alma ou dor. O conflito religioso deixa claro que a fé foi usada como arma, mas ainda pode ser resistência contra aqueles que a sequestraram.
 
 
-#### Revelação tardia: A primeira mãe
+#### Revelação tardia: A Primeira Mãe
 
 Severin encontra um fragmento da memória de Aureliana Valcár, a mulher humana que iniciou sua linhagem. Não uma profecia limpa, mas restos de parto, sangue, lençóis, gritos e imagens da Umbra Indistincta. Ele descobre que sua linhagem foi escondida não apenas dos humanos, mas também dos vampiros. A frase central surge pela primeira vez com sentido completo: a coroa não podia voltar limpa.
 
@@ -8911,7 +9425,7 @@ Severin ouve uma sentença em latim e não entende todas as palavras, mas reconh
 
 #### A Visio Parturientis reaberta
 
-Um padre, monge ou arquivista encontra o relato antigo do parto da primeira mãe. Durante séculos, a Igreja leu aquelas imagens como memória da guerra vencida. Agora, diante da Lua Ferida, dos arquivos abertos e dos primeiros sinais da Sombra Indistinta, o texto começa a descrever o presente. A profecia não havia falhado. Havia sido lida cedo demais pelo medo errado.
+Um padre, monge ou arquivista encontra o relato antigo do parto da Primeira Mãe. Durante séculos, a Igreja leu aquelas imagens como memória da guerra vencida. Agora, diante da Lua Ferida, dos arquivos abertos e dos primeiros sinais da Sombra Indistinta, o texto começa a descrever o presente. A profecia não havia falhado. Havia sido lida cedo demais pelo medo errado.
 
 #### A lista dos últimos ramos
 
@@ -9082,7 +9596,7 @@ Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem 
 
 > **A pureza dos antigos reis terminou nos ossos. A soberania de Severin começou quando seu sangue passou por eles.**
 
-> **O castelo não queria apenas ser reconstruído em pedra. Queria ser reconstruído nele.**
+> **A ruína não exigia apenas muralhas novas. Procurava costelas, veias e uma vontade onde pudesse continuar de pé.**
 
 ---
 
@@ -9158,11 +9672,11 @@ Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem 
 
 > **A humanidade não esqueceu a última guerra. Foi ensinada a lembrar apenas a parte em que sobreviveu.**
 
-> **Cada casa guardou uma parte da vitória. Só quando reuniram os arquivos descobriram que haviam herdado um cadáver inteiro.**
+> **Os arquivos partidos não escondiam uma arma sagrada. Escondiam a forma inteira do cadáver que a vitória havia deixado.**
 
-> **Quando os homens cobriram a Lua, a noite sangrou. Quando a Lua cobriu os homens, eles abriram os arquivos da própria monstruosidade.**
+> **A primeira sombra feriu o céu. A segunda obrigou os homens a lerem, em pleno dia escurecido, a anatomia da própria vitória.**
 
-> **A Lua Ferida devolveu os mortos. A Sombra Branca devolveu aos vivos a lembrança do que fizeram para continuar vivos.**
+> **Uma ferida abriu túmulos. A outra abriu cofres. Ambas devolveram ao mundo aquilo que ele chamava de passado.**
 
 > **A antiga ordem não era luz. Era sombra disciplinada.**
 
@@ -9218,7 +9732,7 @@ Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem 
 
 > **A língua não queimava monstros. Queimava a dúvida antes que alguém perguntasse se aquilo era mesmo um monstro.**
 
-> **A primeira mãe não foi ignorada. Foi pior: foi interpretada como prova daquilo que tentava impedir.**
+> **A Primeira Mãe não foi ignorada. Foi pior: foi interpretada como prova daquilo que tentava impedir.**
 
 > **A Igreja preservou a profecia e perdeu o sentido.**
 
@@ -10049,6 +10563,22 @@ Calendário prático surgido depois da Luna Vulnata, usado por parteiras, pescad
 
 Conjunto de leis urbanas criadas após a Lua Ferida: fechamento de portões antes do luar, cobertura de janelas, proibição de transporte de cadáveres à noite, triagens em pontes e recolhimento especial de crianças nascidas sob halo vermelho.
 
+#### A Longa Vigília
+
+Doutrina secreta da Ordem Branca segundo a qual certos líderes deveriam permanecer vivos por tempo além do humano comum para guardar arquivos, versões históricas, protocolos de contenção e crimes necessários. Publicamente chamada de Graça da Longa Vigília.
+
+#### O Sanguis Emendatus
+
+Sangue vampírico modificado pelos médicos de veia da Ordem Branca a partir de estudos da Mortalha Branca, amostras régias e corpos capturados. Prolonga vida, força, juventude e lucidez, mas cria dependência, contaminação de memória e sensibilidade à Lua Ferida. É a hipocrisia central da pureza humana: os guardiões da limpeza usam sangue impuro corrigido para continuar governando.
+
+#### A Agulha Branca
+
+Nome comum do Instrumentum Vigiliae, o injetor usado para aplicar Sanguis Emendatus nos altos vigias da Ordem Branca. Feito de prata fosca, vidro espesso, osso polido e mecanismo lento, para impedir que a dose entre rápido demais e revele a monstruosidade da prática.
+
+#### A Graça da Longa Vigília
+
+Explicação pública para a longevidade incomum de certos líderes humanos. Afirma que Deus prolonga a vida de alguns guardiões para que a humanidade não durma enquanto a noite finge estar morta. A mentira funciona porque imita uma verdade possível em um mundo onde relíquias, milagres e maldições existem.
+
 #### A Guerra das Três Noites
 
 Nome dado ao conflito macro entre a Noite Antiga, a Ordem Branca Profanada e a Noite Sem Dono. Não representa três exércitos fixos, mas três lógicas de sobrevivência: restauração, purificação e recusa de domínio.
@@ -10095,9 +10625,39 @@ O Ofício pode tentar registrar essa condição como **Forma Tertia Sanguinis** 
 
 #### A Umbra Indistincta
 
-Evento final profetizado por Aureliana Valcár, a primeira mãe Sângelună: uma sombra impossível em que a lógica da Lua de Sangue e a lógica do eclipse se unem. A Terra cobre a Lua e a Lua cobre a Terra. A sombra humana e a sombra monstruosa deixam de aparecer como forças separadas.
+Evento final profetizado por Aureliana Valcár, a Primeira Mãe Sângelună: uma sombra impossível em que a lógica da Lua de Sangue e a lógica do eclipse se unem. A Terra cobre a Lua e a Lua cobre a Terra. A sombra humana e a sombra monstruosa deixam de aparecer como forças separadas.
 
-A Umbra Indistincta representa a morte da diferença moral entre humano e não humano. Não porque todos se tornem iguais em sangue, mas porque todos aceitam o mesmo método de extermínio. Sob ela, a palavra monstro deixa de nomear uma espécie e passa a nomear uma prática.
+Em sua primeira forma, a Umbra Indistincta representa a morte da diferença moral entre humano e não humano. Não porque todos se tornem iguais em sangue, mas porque todos aceitam o mesmo método de anulação. Sob ela, a palavra monstro deixa de nomear uma espécie e passa a nomear uma prática.
+
+Em sua forma extrema, se Severin aceitar o Dilúvio Fundador, a indistinção deixa de ser apenas moral e torna-se sanguínea, celeste e planetária. O Sangue Fundador chama a Lua Ferida e a Terra para uma única circulação, abrindo o caminho para o Sangue Um, a Terra-Lua e o Cor Mundi.
+
+#### O Sangue Um
+
+Horizonte extremo do Sangue Fundador: a condição em que todos os sangues deixam de existir como fronteiras separadas e passam a integrar uma única circulação fundada pelo Coração Criador. Não é paz verdadeira, mas comunhão forçada. Acaba com pureza e impureza, mas ameaça também o direito de não pertencer.
+
+#### O Dilúvio Fundador
+
+Apocalipse possível do Sangue Fundador. A Lua Ferida sangra sobre a Terra, a Terra responde com sangue próprio, e o mundo inteiro se torna limiar para uma única jurisdição sanguínea. Não destrói apenas corpos; destrói categorias. É a resposta errada para a pergunta certa: impedir que a diferença vire sentença abolindo a diferença.
+
+#### A Conjunção Rubra
+
+Ponto em que a Lua Ferida e a Terra ferida deixam de conservar distância simbólica, ritual e astronômica. Não é colisão comum, mas consentimento forçado entre duas feridas mediado pelo Sangue Fundador.
+
+#### A Coagulatio Mundi
+
+Coagulação do Mundo. Instante em que a fusão Terra-Lua, que deveria destruir fisicamente o planeta, é transformada pelo Sangue Fundador em incorporação. A Terra antiga acaba; a Terra-Lua nasce como corpo coeso por sangue, não apenas por geologia.
+
+#### A Terra-Lua
+
+Forma posterior à Coagulatio Mundi. Não é a Terra preservada nem a Lua caída, mas um astro-organismo em que a Lua foi metabolizada como órgão interno. Marés, montanhas, clima, raízes e cidades passam a responder ao pulso do Cor Mundi.
+
+#### Astro-organismo
+
+Nome conceitual para a Terra-Lua depois do Dilúvio Fundador. Um corpo celeste vivo por circulação, memória e sangue. Seus rios funcionam como veias, seus mares como câmaras de pulso, suas montanhas como ossos e suas crises como febres, arritmias ou rejeições.
+
+#### Cor Mundi
+
+Coração do Mundo. Forma final do Coração Criador quando ele deixa o corpo de Severin e substitui o núcleo da Terra-Lua. Severin deixa de ser pessoa individual e torna-se fundação ontológica de toda vida. Todos vivem porque ele já não vive apenas como um.
 
 Contra esse evento, nenhuma pureza serve. Apenas discernimento, limite e ruptura do ciclo.
 
@@ -10164,6 +10724,14 @@ Cláusula tardia da Mesa dos Nomes. Determina que nenhuma necessidade de guerra 
 A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano usa nomes de sabor latino, cristão, jurídico e eclesiástico. Muitos termos podem ser latim clássico correto, latim eclesiástico, latim de chancelaria ou formas corrompidas pelo uso popular. Isso é útil porque os próprios reinos não precisam falar um latim perfeito. Precisam falar um latim herdado, sacralizado e usado como instrumento de autoridade.
 
 #### Instituições e alianças
+
+**Longa Vigilia** — Longa Vigília. Nome interno para a continuidade artificial dos líderes da Ordem Branca.
+
+**Sanguis Emendatus** — Sangue Corrigido. Nome técnico da substância vampírica modificada usada pelos altos vigias.
+
+**Instrumentum Vigiliae** — Instrumento da Vigília. Nome formal da Agulha Branca.
+
+**Gratia Longae Vigiliae** — Graça da Longa Vigília. Nome religioso público da longevidade artificial.
 
 **Ordo Albus** — Ordem Branca. Nome solene da antiga ordem mundial humana. A ironia é essencial: ela se chamava Ordem Branca, mas operava como sombra disciplinada.
 
@@ -10411,6 +10979,20 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 **Interdictum Lunare** — Recolher Lunar. Decreto de fechamento urbano e restrição noturna durante fases perigosas da Lua Ferida.
 
 #### Eventos celestes
+
+**Visio Sanguinis Unius** — Visão do Sangue Único. Camada extrema da visão de Aureliana Valcár, na qual a paz surge como comunhão forçada de todos os sangues.
+
+**Diluvium Fundatoris** — Dilúvio Fundador. Nome latino para o apocalipse possível do Sangue Fundador.
+
+**Coniunctio Rubra** — Conjunção Rubra. Momento em que Terra e Lua deixam de manter distância ritual e celeste, abrindo a incorporação lunar.
+
+**Coagulatio Mundi** — Coagulação do Mundo. A fusão transformada em ferida planetária fechada por sangue.
+
+**Terra-Luna** — Terra-Lua. Nome erudito para o astro-organismo depois da incorporação da Lua.
+
+**Cor Mundi** — Coração do Mundo. O Coração Criador quando se torna núcleo da Terra-Lua.
+
+**Astrum Organicum** — Astro-organismo. Corpo celeste vivo por circulação sanguínea, memória e pulso.
 
 **Luna Sanguinea** — Lua de Sangue. Evento ligado à antiga linhagem real vampírica, ao rito lunar, ao segundo nascimento de Severin e ao retorno do mundo antigo.
 
@@ -10745,3 +11327,11 @@ Conjunto de cláusulas criado para que a lei fundada por Severin continue capaz 
 **Depois da Lua Ferida, a pergunta cresce além de Severin e da Mesa: o mundo precisa descobrir se humanos, vampiros, mortos, demônios, quimeras e povos sem nome podem existir sem transformar toda diferença em jurisdição de caça, tributo, contenção ou guerra.**
 
 **A volta dos não humanos não ameaça apenas a ordem atual porque traz monstros; ameaça porque revela que a ordem atual foi construída sobre sepulturas, porões, arquivos e nomes falsos. A Lua não sarou, o chão das igrejas respira, e tudo que foi enterrado começa a perguntar quem autorizou o mundo dos homens a chamar silêncio de paz.**
+
+**No horizonte extremo, essa pergunta deixa de ser apenas política e torna-se cosmológica: se a diferença continuar servindo de combustível para toda fogueira, Severin poderá ser tentado a fundar um mundo onde nenhuma diferença sobreviva fora de seu sangue.**
+
+**O Dilúvio Fundador é a resposta errada para a pergunta certa. Ele acabaria com pureza, impureza, linhagem e classificação, mas também com a distância necessária para que alguém possa existir sem pertencer. A Terra-Lua, como astro-organismo, seria o castelo final do rei sem castelo; o Cor Mundi, seu trono sem forma humana.**
+
+**Por isso o teste último de Severin não é aceitar poder, mas aceitar limite. Não é salvar o mundo a qualquer preço, mas recusar uma salvação que transforma todo vivo em extensão de sua própria ferida.**
+
+**A lei nova só vencerá a lei antiga se proteger a diferença sem convertê-la em sentença. Se falhar, o mundo talvez não termine em ruína, mas em comunhão absoluta — e ninguém saberá mais distinguir salvação de posse.**
