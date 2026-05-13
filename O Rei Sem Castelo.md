@@ -5,7 +5,31 @@
 
 ---
 
-## PARTE 0 — A ferida central
+## PARTE 0 — O coração da ferida
+
+### 0. Princípio da obra
+
+O mundo de Severin não é movido apenas por guerra, fome ou profecia.
+
+É movido por definição.
+
+Cada poder que sobreviveu à última guerra tenta decidir o que uma criatura é antes que ela fale. Os humanos chamam isso de pureza. Os vampiros chamam de linhagem. A Sé Branca chama de alma. A Ordem Branca chama de contenção. O Ofício chama de caso. Os reis mortos chamam de direito. O castelo chama de juramento. Os demônios chamam de cláusula.
+
+Severin nasce no lugar onde todas essas palavras falham.
+
+A ferida mais antiga dele é acreditar que nasceu errado. A ferida mais recente é acreditar que sobreviveu como covarde. Depois do segundo nascimento, surge a ferida que atravessa todas as outras: talvez o mundo estivesse certo em temê-lo.
+
+A obra inteira se organiza contra essa mentira e contra a tentação oposta. Severin não precisa provar que é puro. Não precisa provar que é humano o bastante, vampiro o bastante, inocente o bastante ou rei o bastante. Precisa descobrir que tipo de responsabilidade pode nascer de alguém cuja existência desmente as categorias que mataram sua família.
+
+A pergunta central não é se Severin merece a coroa.
+
+A pergunta é se alguém ferido pela lei antiga pode criar uma lei nova sem transformar a própria dor em tribunal.
+
+O sangue é a matéria dessa disputa. Antes de ser símbolo, ele é corpo: quente, metálico, espesso, sujo, vivo, testemunhal. Uma gota pode fechar uma ferida, abrir uma fossa, condenar uma família, salvar uma criança, falsificar uma genealogia, acordar um rei morto ou impedir que uma sentença permaneça limpa.
+
+Por isso o Sangue Fundador não é apenas poder.
+
+É responsabilidade em forma líquida.
 
 ### 1. Premissa essencial
 
@@ -17,9 +41,11 @@ Antes da queda, Vaelrûn Sângelună, rei da quinta nação inacabada e soberano
 
 Séculos depois, Severin Sângelună, um homem de 26 anos, carrega esse sangue sem entender seu verdadeiro peso. Ele nasceu em uma família que aprendeu a sobreviver apagando a si mesma. Desde criança, Severin foi ensinado a não correr rápido demais, a não se curar diante de ninguém, a não sorrir quando seus dentes parecessem errados, a não encarar o escuro como se ele fosse casa. Sua vida inteira foi uma contenção.
 
-Quando sua linhagem é descoberta, a vila que o viu crescer transforma medo em sentença. Sua mãe, seu pai e suas irmãs são queimados vivos. Severin foge. Talvez porque foi empurrado para longe. Talvez porque congelou. Talvez porque, no momento em que poderia morrer com eles, correu.
+Quando sua linhagem é descoberta, a vila que o viu crescer transforma medo em sentença. Sua mãe, seu pai e suas irmãs são queimados vivos. A mãe o empurra para a passagem escondida sob o assoalho. O pai fecha a saída por dentro. A irmã mais velha segura a porta tempo suficiente para que ele atravesse a lama debaixo da casa. A irmã mais nova chama por ele quando a fumaça já entrou no quarto.
 
-Para ele, não há diferença.
+Severin corre.
+
+A verdade objetiva tem mãos, gritos, madeira e calor. A memória dele não conserva essa misericórdia. Para Severin, o fato final permanece único.
 
 Ele sobreviveu. Eles não.
 
@@ -29,7 +55,7 @@ Um raio atinge as ruínas. O castelo desaba sobre ele.
 
 Severin morre.
 
-Seu sangue escorre pelas frestas da pedra, desce por câmaras soterradas e alcança os ossos selados dos últimos reis vampiros. Esses ossos estavam presos ali desde o fim da guerra, depois que a antiga Ordem Branca humana enfraqueceu os soberanos com o vírus da Mortalha Branca, torturou-os, retirou-lhes a carne e jogou o que restou no poço central do castelo inacabado da quinta nação. Porém, antes do fim, um mago leal a Vaelrûn Sângelună lançara uma maldição de restauração: um dia, quando o sangue de um descendente real tocasse os ossos, a antiga autoridade retornaria.
+Seu sangue escorre pelas frestas da pedra, desce por câmaras soterradas e alcança os ossos selados dos últimos reis vampiros. Esses ossos estavam presos ali desde o fim da guerra, depois que a antiga Ordem Branca humana enfraqueceu os soberanos com a praga fabricada da Mortalha Branca, torturou-os, retirou-lhes a carne e jogou o que restou no poço central do castelo inacabado da quinta nação. Porém, antes do fim, um mago leal a Vaelrûn Sângelună lançara uma maldição de restauração: um dia, quando o sangue de um descendente real tocasse os ossos, a antiga autoridade retornaria.
 
 O mago esperava o sangue de um vampiro puro.
 
@@ -143,9 +169,35 @@ Contra isso, a soberania de Severin não poderá ser apenas força.
 
 Terá de ser discernimento.
 
+### 2B. As camadas da verdade
+
+Nenhum povo conhece a história inteira.
+
+O povo comum sabe que a noite voltou, que as estradas ficaram perigosas, que a Lua não sarou e que qualquer sangue suspeito pode trazer soldados, sinos ou fogo. O medo popular é verdadeiro, mesmo quando escolhe alvos errados.
+
+O Ofício da Pureza sabe que linhagens mestiças sobreviveram à última guerra. Sabe ler margens, partos irregulares, curas rápidas demais, registros alterados e famílias que desapareceram de uma vila para reaparecer em outra com nome mais limpo. Não sabe, no início, que Severin é a fonte. Primeiro vê ruído. Depois repetição. Depois geometria.
+
+A Ordem Branca sabe mais do que admite. Sabe que a vitória humana não foi limpa. Sabe que a Mortalha Branca existiu, que corpos foram estudados, que a fé foi usada como autorização e que certas armas antigas foram guardadas para o dia em que a noite voltasse. Sua mentira pública é chamar sobrevivência de inocência.
+
+A Sé Branca sabe que o mal real existe, mas nem todos dentro dela aceitam que todo corpo estranho seja mal. Sua guerra interna nasce aí: entre os que desejam discernir e os que preferem uma palavra única, rápida e incendiária.
+
+Os vampiros antigos sabem que a quinta nação foi abortada antes da coroação. Sabem que Sângelună deveria ser eixo da Máquina do Sangue. Não sabem aceitar que o sangue capaz de reabrir a coroa tenha sobrevivido em uma linhagem que chamariam de vergonha.
+
+As criaturas libertas sabem menos por doutrina e mais por reação. Sentem precedência, pacto, fome, comando antigo, ausência de trono e oportunidade. Algumas reconhecem Severin antes de entenderem o que reconhecem.
+
+Severin, no começo, sabe menos que todos.
+
+Sabe fumaça.
+
+Sabe culpa.
+
+Sabe que seu corpo voltou errado.
+
+Sabe que, quando tenta salvar alguém, o mundo encontra outra razão para temê-lo.
+
 ---
 
-### 44. Núcleo final da obra
+### 3. Núcleo final da obra
 
 Severin Sângelună é um homem que nasceu em segredo, cresceu em contenção e sobreviveu à destruição da própria família. Durante toda a vida, acreditou que seu sangue era vergonha, que sua existência era erro e que seu maior ato foi covardia.
 
@@ -226,15 +278,21 @@ E talvez só não termine em ruína se esse homem descobrir que um reino também
 
 ---
 
-## PARTE I — Camada 1: Severin antes do mito
+## PARTE I — Severin antes do mito
 
 ### 7. O sobrenome Sângelună
 
-Sângelună é um nome antigo, preservado como marca e condenação. Em uma língua esquecida, pode ser lido como “sangue-lua”, “sangue da lua” ou “lua ensanguentada”. A família talvez use outro sobrenome em público, mas Sângelună é o nome verdadeiro, o nome de dentro da casa, o nome que não se escreve em contratos nem se pronuncia diante de sacerdotes.
+Sângelună é um nome antigo, preservado como marca e condenação. Em uma língua esquecida, pode ser lido como “sangue-lua”, “sangue da lua” ou “lua ensanguentada”.
+
+Em público, a família de Severin vive sob um sobrenome menor, herdado de registros falsos, casamentos corrigidos e batismos escritos para parecerem comuns. Esse nome público serve para comprar pão, assinar trabalho, atravessar portões e fingir que a casa pertence à vila como qualquer outra.
+
+Sângelună é o nome de dentro.
+
+Não aparece em contratos. Não é pronunciado diante de sacerdotes. Não é confiado a vizinhos. Não é ensinado como orgulho, mas como ferida que precisa permanecer coberta.
 
 Para os humanos, quando descoberto, soa como confissão.
 
-Para os vampiros antigos, quando ouvido, pode soar como impossibilidade.
+Para os vampiros antigos, quando ouvido, soa como impossibilidade.
 
 Para Severin, durante a maior parte da vida, é apenas mais uma prova de que nasceu marcado. Um nome que parece acusá-lo antes que ele fale. Um nome que junta sangue e lua, exatamente as duas coisas que sua família mais temia.
 
@@ -243,8 +301,6 @@ Depois do retorno, esse nome ganha outro peso. Não porque Severin tenha nascido
 Sângelună não é o anúncio de seu nascimento humano.
 
 É a assinatura de seu segundo nascimento.
-
----
 
 ### 8. O nascimento inválido
 
@@ -350,29 +406,33 @@ Aos 26 anos, Severin já era um homem acostumado a não ocupar espaço.
 
 Falava pouco. Observava portas. Evitava multidões. Media gestos. Pedia desculpas rápido demais. Ao entrar em qualquer lugar, calculava por onde fugiria se alguém gritasse. O corpo dele era jovem, mas sua atenção era de animal caçado.
 
-Ainda assim, não era vazio de afeto. Amava a família. Talvez trabalhasse com o pai. Talvez ajudasse a mãe em tarefas de cura discreta. Talvez fosse protetor demais com as irmãs. A vida era pequena, mas existia. Havia refeições. Havia piadas murmuradas. Havia noites em que, por alguns instantes, todos fingiam não estar com medo.
+Trabalhava com o pai em tarefas de reparo, madeira, cerca e pedra menor; trabalhos úteis o bastante para justificar mãos fortes, discretos o bastante para não exigir exibição. Ajudava a mãe em curas domésticas que nunca podiam parecer cura demais. Conhecia ervas, panos limpos, compressas, febres, cortes e o tempo exato que uma ferida precisava permanecer aberta para parecer humana.
 
-Severin não perde apenas pessoas. Perde o único lugar onde era amado mesmo sendo temido.
+Com as irmãs, era protetor até a sufocação. A mais velha odiava isso porque reconhecia nele o medo dos pais repetido com rosto jovem. A mais nova aceitava essa proteção como se fosse uma forma natural de amor, sem saber que Severin a vigiava como quem tenta impedir o mundo inteiro de olhar para ela tempo demais.
+
+A vida era pequena, mas existia. Havia refeições. Havia piadas murmuradas. Havia noites em que, por alguns instantes, todos fingiam não estar com medo.
+
+Severin não perde apenas pessoas.
+
+Perde o único lugar onde era amado mesmo sendo temido.
 
 Mesmo que a família o tenha criado com vergonha, ela também foi seu mundo inteiro. Por isso a destruição dela não é só luto. É o colapso de sua realidade.
-
----
 
 ### 13. A família de Severin
 
 #### O pai
 
-O pai de Severin é um homem endurecido pelo dever de esconder. Ele não precisa ser frio por falta de amor; sua dureza vem do pavor. Ele acredita que disciplina é a única forma de manter a família viva. Ensina Severin a mentir, a conter a respiração, a esconder dor, a nunca reagir primeiro.
+O pai de Severin é um homem endurecido pelo dever de esconder. Sua dureza não vem de falta de amor, mas de pavor disciplinado. Ele acredita que toda liberdade precisa ser calculada antes de existir. Ensina Severin a mentir, a conter a respiração, a esconder dor, a nunca reagir primeiro.
 
 Pode dizer frases como:
 
 > “Um homem comum pode se defender. Nós não. Quando um de nós levanta a mão, todos queimam.”
 
-Sua tragédia é amar o filho e, ao mesmo tempo, ensiná-lo a ter medo de si mesmo.
+Sua tragédia é amar o filho e, ao mesmo tempo, ensiná-lo a ter medo de si mesmo. Na noite da fogueira, é ele quem fecha a passagem por dentro depois que Severin desce. Esse gesto salva Severin e condena a memória de Severin a nunca aceitar salvação.
 
 #### A mãe
 
-A mãe de Severin é o coração ferido da casa. Talvez também carregue sangue humano-vampiro, e por isso o nascimento ensanguentado de Severin passou por ela. Ela entende o peso do corpo como segredo. Diferente do pai, tenta dar ternura ao filho, mas sua ternura nunca consegue expulsar completamente o medo.
+A mãe de Severin é o coração ferido da casa. Carrega sangue humano-vampiro em grau suficiente para que o nascimento ensanguentado dele tenha passado por seu corpo como mau presságio e prova. Ela entende o peso do corpo como segredo. Diferente do pai, tenta dar ternura ao filho, mas sua ternura nunca consegue expulsar completamente o medo.
 
 Ela pode dizer:
 
@@ -380,29 +440,49 @@ Ela pode dizer:
 
 Essa frase não cura. Fere de modo delicado.
 
-#### As irmãs
+Na noite da fogueira, é a mão dela que o empurra para a passagem sob o assoalho. Severin lembrará essa pressão no peito por anos, mas a lembrança virá deformada: não como último ato de amor, e sim como o instante em que seu corpo aceitou viver.
 
-As irmãs são fundamentais para a culpa dele.
+#### A irmã mais velha
 
-Uma pode ser mais velha ou próxima de sua idade, rebelde, cansada de viver escondida. Ela questiona o medo dos pais, desafia a lógica de se apagar para sobreviver e talvez diga aquilo que Severin nunca teve coragem:
+A irmã mais velha é a raiva que a casa tentou educar e nunca conseguiu domesticar por inteiro. Ela se parece demais com aquilo que todos temem: olhos atentos, orgulho rápido, pouca paciência para pedir desculpas por existir. Questiona o medo dos pais, desafia a lógica de se apagar para sobreviver e diz aquilo que Severin nunca teve coragem de dizer.
 
 > “Se precisamos fingir que não existimos, então que tipo de vida estão tentando proteger?”
 
-A outra pode ser mais nova, mais doce ou mais esperançosa. Para ela, Severin talvez seja proteção, quase um segundo pai. Sua morte será a memória que mais o destrói, porque ele se verá para sempre como alguém que não respondeu ao chamado dela.
+Ela ama Severin, mas despreza a obediência dele ao medo. Na noite da fogueira, segura uma porta por tempo suficiente para que a fumaça mude de quarto. Severin não verá isso com clareza. Saberá apenas que ouviu madeira, tosse e uma voz que não pediu socorro.
+
+#### A irmã mais nova
+
+A irmã mais nova é a inocência que a família ainda tentava preservar. Para ela, Severin é proteção, quase um segundo pai. Ela acredita nele de um modo que o constrange, porque Severin nunca acredita em si o bastante para receber essa confiança sem dor.
+
+Sua morte será a memória mais cruel.
+
+Não porque ela tenha morrido primeiro.
+
+Porque ela chamou por ele.
+
+A voz dela atravessará a fumaça, a terra, o segundo nascimento, as memórias dos reis e qualquer sala de pedra onde Severin tente se convencer de que já perdeu tudo que podia perder.
 
 As irmãs representam duas perdas: a raiva que ele reprimiu e a inocência que não conseguiu salvar.
-
----
 
 ### 14. A descoberta
 
 A descoberta da família nasce de uma rachadura acumulada, não de conveniência.
 
-A vila talvez já desconfiasse. Pequenos detalhes podem ter sido notados por anos: Severin não adoecia como os outros, a mãe conhecia ervas demais para ferimentos de sangue, uma irmã evitava o sol de verão, o pai nunca permitia que sacerdotes entrassem na casa, nenhum filho tinha cicatrizes onde deveria haver cicatrizes.
+A vila já desconfiava. Pequenos detalhes haviam sido notados por anos: Severin não adoecia como os outros, a mãe conhecia ervas demais para ferimentos de sangue, a irmã mais velha evitava o sol de verão, o pai nunca permitia que sacerdotes entrassem na casa, nenhum filho tinha cicatrizes onde deveria haver cicatrizes.
 
-A prova final pode vir de um acidente.
+A prova final vem em dia público.
 
-Uma irmã se fere em público. Um corte que deveria matá-la começa a fechar. Ou Severin, em um momento de desespero, levanta algo pesado demais para salvar alguém. Ou um caçador itinerante reconhece no olho dele o reflexo de linhagens antigas.
+A irmã mais nova se fere diante de testemunhas durante uma confusão no mercado, quando uma carroça perde o eixo e espalha madeira, ferro e animais assustados pela rua. O corte deveria abrir carne demais para que alguém continuasse de pé. Severin chega antes de pensar. Aperta a ferida com as mãos, não para curá-la, mas para escondê-la. O corpo dela, porém, trai a casa. A pele começa a fechar sob seus dedos.
+
+Uma mulher vê.
+
+Um menino vê.
+
+Um homem que devia ajudar recua fazendo o sinal branco.
+
+Severin percebe tarde demais que não está segurando apenas sangue.
+
+Está segurando prova.
 
 A partir daí, a vila muda.
 
@@ -429,13 +509,11 @@ Depois da primeira prova, veio a investigação.
 
 Um linhageiro chegou com dois homens de templo e uma pasta de couro envernizado. Não levantou a voz. Não precisou. Pediu o nome da avó materna. Pediu o registro do casamento. Pediu que a mãe de Severin explicasse por que nenhum dos filhos tinha cicatriz visível de infância. Perguntou ao pai por que a família evitava o templo nas celebrações de sangue. Chamou vizinhos um a um, sempre longe da casa, sempre em voz baixa, porque a vergonha dos outros fala melhor quando acredita estar protegida.
 
-Uma mulher lembrou que Severin caíra de uma árvore aos dez anos e no dia seguinte caminhava sem mancar. Um homem jurou que vira a irmã mais nova dele brincando ao pôr do sol sem piscar contra a escuridão. Uma parteira antiga negou saber do nascimento, mas negou rápido demais. Um menino disse que Severin nunca sangrava direito.
+Uma mulher lembrou que Severin caíra de uma árvore aos dez anos e no dia seguinte caminhava sem mancar. Um homem jurou que vira a irmã mais nova brincando ao pôr do sol sem piscar contra a escuridão. Uma parteira antiga negou saber do nascimento, mas negou rápido demais. Um menino disse que Severin nunca sangrava direito.
 
 A pasta do linhageiro engordou.
 
 Quando a sentença veio, já parecia que sempre estivera escrita.
-
----
 
 ### 15. A noite da fogueira
 
@@ -443,29 +521,35 @@ A família de Severin é queimada viva.
 
 A noite da fogueira é o centro traumático da obra. Seu horror vem mais da impotência do que da violência explícita: madeira rangendo, fumaça entrando por frestas, vozes da multidão, orações misturadas a insultos, o calor chegando antes das chamas aparecerem.
 
-A casa é cercada. Talvez chamem aquilo de purificação. Talvez haja um sacerdote, um caçador ou um magistrado local dando aparência legal ao assassinato. Talvez vizinhos que comeram à mesa da família estejam entre os que carregam tochas.
+A casa é cercada depois do terceiro sino. Chamam aquilo de purificação. Há um sacerdote para dar linguagem ao medo, um magistrado local para dar forma legal ao assassinato e o linhageiro para garantir que a morte pareça consequência de prova, não de pânico. Vizinhos que comeram à mesa da família estão entre os que carregam tochas.
 
-No pátio, antes da primeira tocha tocar a madeira, alguém leu a sentença. A voz não tremia. Chamou a família pelo sobrenome público primeiro, depois pelo nome de dentro, aquele que ninguém deveria conhecer. Enumerou sinais como se fossem crimes: ocultação de linhagem, falsificação de registro, fuga de teste de altar, parto irregular, suspeita de sangue antigo, contaminação doméstica.
+No pátio, antes da primeira chama tocar a madeira, alguém lê a sentença. A voz não treme. Chama a família pelo sobrenome público primeiro, depois pelo nome de dentro, aquele que ninguém deveria conhecer. Enumera sinais como se fossem crimes: ocultação de linhagem, falsificação de registro, fuga de teste de altar, parto irregular, suspeita de sangue antigo, contaminação doméstica.
 
-A multidão ouviu aquilo e se acalmou.
+A multidão ouve aquilo e se acalma.
 
-Era mais fácil queimar uma família quando o fogo vinha precedido por palavras oficiais.
+É mais fácil queimar uma família quando o fogo vem precedido por palavras oficiais.
 
-O pai tenta ganhar tempo. A mãe tenta proteger as filhas. Uma irmã grita de raiva. A outra chama por Severin.
+O pai tenta ganhar tempo. A mãe procura a passagem sob o assoalho. A irmã mais velha discute com os homens na porta até a primeira janela estourar de calor. A irmã mais nova começa a tossir antes de entender que a casa já está morrendo.
 
-E Severin foge.
+A mãe empurra Severin para baixo.
 
-A verdade objetiva pode ser complexa. Talvez a mãe o empurre por uma saída escondida. Talvez o pai ordene que ele corra. Talvez uma irmã segure a porta por segundos para que ele escape. Talvez ele tente voltar e o calor o derrube. Talvez ele simplesmente congele antes de correr.
+O pai fecha a tampa por dentro.
 
-Mas a memória dele não permitirá nuances.
+A irmã mais velha segura a porta.
+
+A irmã mais nova chama seu nome.
+
+Severin tenta voltar. O calor desce pela fresta como uma mão sem dedos. A fumaça o cega. A madeira acima range. Alguém grita para ele correr, mas a memória nunca preservará com certeza se foi ordem, súplica ou despedida.
+
+Então ele corre.
+
+A verdade objetiva possui nuances. A memória dele não permitirá nenhuma.
 
 Para Severin, o fato final é único:
 
 > **Eu corri. Eles queimaram. Eu vivi.**
 
 Essa frase o persegue mais que qualquer monstro.
-
----
 
 ### 16. A culpa sobrevivente
 
@@ -970,7 +1054,7 @@ Essa é a primeira lei de Severin, embora ele ainda não a saiba escrever.
 
 Nenhuma sentença será pura enquanto houver nome vivo antes dela.
 
-## PARTE II — Camada 2: Horror imediato após o abismo
+## PARTE II — O horror imediato após o abismo
 
 ### 21. O retorno das criaturas
 
@@ -1496,7 +1580,7 @@ Um vampiro antigo pode desprezá-lo como bastardo, mas sentir o próprio sangue 
 
 Um demônio pactuado pode reconhecer não o rei, mas a assinatura da maldição que o tornaria novamente vinculável.
 
-Os sinais possíveis:
+Os sinais do reconhecimento:
 
 - gestos herdados de reis que Severin nunca conheceu;
 - maneirismos mínimos, como tocar um dedo onde deveria haver anel;
@@ -1581,17 +1665,17 @@ E o sangue obedece.
 
 ### 32. A serva vampírica leal
 
-Uma personagem importante pode ser uma serva vampírica de um dos últimos reis.
+Uma das figuras centrais do retorno é uma serva vampírica de um dos últimos reis.
 
-Ela não precisa ser nobre. Na verdade, é mais forte se não for. Uma dama de sangue, guarda de câmara, espiã da corte ou criada íntima teria conhecido o rei de perto demais. Não apenas seus decretos, mas seus hábitos. O modo como ele segurava uma taça. O gesto antes de perder a paciência. O silêncio antes de uma sentença. A forma de olhar para alguém que mentia.
+Ela não é nobre. Essa é a força dela. Foi dama de sangue, guarda de câmara, espiã de corredor e criada íntima o bastante para conhecer o rei de perto demais. Não apenas seus decretos, mas seus hábitos. O modo como segurava uma taça. O gesto antes de perder a paciência. O silêncio antes de uma sentença. A forma de olhar para alguém que mentia.
 
-Quando essa serva encontra Severin, não o aceita.
+Quando encontra Severin, ela não o aceita.
 
 Ela o vigia.
 
-Talvez pretenda matá-lo.
+Sua primeira intenção é matá-lo se a prova falhar.
 
-Para ela, um bastardo confuso andando pelo mundo com sinais da coroa pode ser profanação. Se for falso, deve morrer. Se for falha da maldição, deve ser corrigido. Se for isca humana, deve ser eliminado.
+Para ela, um bastardo confuso andando pelo mundo com sinais da coroa é profanação. Se for falso, deve morrer. Se for falha da maldição, deve ser corrigido. Se for isca humana, deve ser eliminado antes que arraste o que resta da antiga noite para outra armadilha.
 
 Mas, enquanto o observa, começa a ver detalhes que não combinam com um impostor.
 
@@ -1603,40 +1687,37 @@ Severin se cala diante de uma ameaça, e por um instante seus olhos deixam de pa
 
 Mesmo assim, ela nega.
 
-A prova verdadeira vem pelo sangue. Durante uma tentativa de assassinato, ela fere Severin ou toca uma gota dele. O sangue dela reage antes de sua vontade. Não a mente. Não os joelhos. O sangue.
+A prova verdadeira vem pelo sangue. Durante uma tentativa de assassinato, ela fere Severin e toca uma gota dele. O sangue dela reage antes de sua vontade. Não a mente. Não os joelhos. O sangue.
 
-Ela pode largar a lâmina, não por piedade, mas porque algo dentro de seu corpo reconheceu precedência.
+A lâmina cai.
 
-Uma fala possível:
+Não por piedade.
+
+Por reconhecimento biológico.
+
+Ela diz:
 
 > “Meu sangue... ouviu o seu.”
 
-Essa personagem pode ter um arco próprio:
+Esse reconhecimento a enoja. Passou séculos acreditando que lealdade era virtude, disciplina, escolha e memória. Descobrir que suas veias podem se curvar antes de sua vontade a humilha. Por isso, sua primeira fidelidade a Severin vem com desprezo. Ela o protege porque desobedecer a ele exige dor física, não porque o respeita.
 
-- começa como assassina;
-- torna-se perseguidora e observadora;
-- aceita que Severin carrega os reis, mas não o respeita;
-- chama-o de bastardo, menino ou sombra do rei;
-- depois percebe que ele não é repetição de seu antigo senhor;
-- por fim, talvez o chame de “meu rei” não porque o sangue obrigou, mas porque Severin escolheu uma lei que os reis antigos nunca escolheriam.
+O arco dela separa reconhecimento de lealdade verdadeira.
 
-Esse arco é útil porque separa reconhecimento biológico de lealdade verdadeira. O sangue pode reconhecer. A escolha ainda precisa ser conquistada.
+No início, ela é assassina.
 
-A serva sabe disso melhor que qualquer um.
+Depois, perseguidora.
 
-Quando o sangue dela reconhece Severin, ela odeia o próprio corpo. Passou séculos acreditando que lealdade era virtude, disciplina, escolha e memória. Descobrir que suas veias podem se curvar antes de sua vontade a enoja. Por isso, sua primeira fidelidade a Severin talvez venha com desprezo. Ela pode protegê-lo não porque o respeita, mas porque desobedecer a ele exige dor física.
+Depois, guarda involuntária.
 
-O respeito, quando vier, será outra coisa.
+Depois, testemunha crítica.
 
-Mais rara.
+Depois, a primeira vampira antiga capaz de dizer que Severin carrega os reis sem pertencer a eles.
 
-Mais perigosa.
+Quando enfim o chamar de “meu rei”, isso não virá do sangue.
 
-Mais livre.
+Virá da escolha.
 
----
-
-## PARTE III — Camada 3: Verdade dinástica e sangue fundador
+## PARTE III — Verdade dinástica e Sangue Fundador
 
 ### 3. O mundo antes do retorno
 
@@ -1670,9 +1751,9 @@ A primeira grande arma dessa guerra não foi uma espada consagrada.
 
 Foi uma doença.
 
-Nos arquivos humanos, recebeu nomes frios: **Privatio Regenerationis Sanguinis**, **Morbus Privationis**, **Mortalha Branca**. Entre vampiros, ficou conhecida como **Cinza Fria**. O vírus não destruía de imediato. Fazia algo mais ofensivo: ensinava o sangue vampírico a esquecer sua própria superioridade. A regeneração falhava. A força diminuía. A fome deixava de restaurar. A imortalidade se tornava carne vulnerável.
+Nos arquivos humanos, recebeu nomes frios: **Privatio Regenerationis Sanguinis**, **Morbus Privationis**, **Mortalha Branca**. Entre vampiros, ficou conhecida como **Cinza Fria**. A Mortalha não destruía de imediato. Fazia algo mais ofensivo: ensinava o sangue vampírico a esquecer sua própria superioridade. A regeneração falhava. A força diminuía. A fome deixava de restaurar. A imortalidade se tornava carne vulnerável.
 
-O vírus chegou aos cinco reis, direta ou indiretamente. Nenhum permaneceu intacto.
+A praga chegou aos cinco reis, direta ou indiretamente. Nenhum permaneceu intacto.
 
 Quando perderam o que os tornava quase impossíveis de tocar, os reis foram caçados, separados, capturados, estudados, humilhados e torturados por homens que rezavam enquanto registravam cada reação. A Ordem não desejava apenas vencer. Desejava provar que os deuses da noite podiam ser reduzidos a matéria, que a coroa vampírica podia sangrar como animal em mesa.
 
@@ -1710,7 +1791,7 @@ A pureza de sangue era obsessão da nobreza vampírica. Linhagem significava leg
 
 Por isso, a união de Vaelrûn Sângelună com uma mulher humana foi algo que não poderia ser admitido.
 
-Talvez tenha sido amor. Talvez tenha sido fraqueza. Talvez tenha sido desafio à própria aristocracia vampírica. O certo é que dela nasceu uma criança que não cabia em nenhuma lei. Para protegê-la, ou para esconder a própria transgressão, Vaelrûn permitiu que essa descendência desaparecesse da história oficial.
+Foi amor e desafio, mas nenhum dos dois nasceu limpo. Vaelrûn amou uma mulher humana dentro de uma ordem que transformava sangue em hierarquia, tributo e destino. Amá-la não o absolveu da civilização que governava; desafiá-la não o tornou inocente diante dos humanos submetidos à velha noite. Dessa união nasceu uma criança que não cabia em nenhuma lei. Para protegê-la e para impedir que a própria corte transformasse a criança em escândalo, arma ou cadáver, Vaelrûn permitiu que essa descendência desaparecesse da história oficial.
 
 A ironia é que aquilo que os vampiros teriam chamado de vergonha foi justamente o que manteve vivo o sangue da coroa.
 
@@ -1952,7 +2033,7 @@ Tinha forma de febre.
 
 Os homens que a criaram chamaram-na, nos cadernos fechados, de **Privatio Regenerationis Sanguinis**. Em documentos de campanha, tornou-se **Morbus Privationis**. Entre soldados e médicos de guerra, era apenas **Mortalha Branca**. Os vampiros, quando enfim entenderam que aquilo não era praga comum, deram-lhe outro nome: **Cinza Fria**.
 
-O vírus não matava primeiro.
+A Mortalha não matava primeiro.
 
 Humilhava.
 
@@ -2780,6 +2861,33 @@ Assim, o Sangue Fundador nunca é apenas dom.
 É trono líquido.
 
 Essa soberania é uma das maiores ameaças políticas da história. Para os humanos, confirma o medo de que ele seja uma aberração capaz de violar corpos. Para os vampiros puros, destrói a ideologia da pureza: aquilo que eles chamariam de impuro possui uma autoridade que nenhum rei puro teve.
+
+### 27E. Limites absolutos do Sangue Fundador
+
+O Sangue Fundador é vasto, mas não é onipotente.
+
+Não cria outro Severin. O Coração Criador pode marcar, curar, ferir, chamar, selar, visitar e recolher. Não pode fabricar outro coração igual ao seu, porque a soberania nasceu de uma colisão irrepetível entre corpo morto, linhagem mestiça, ossos reais, rito quebrado, castelo ferido e vontade viva.
+
+Não controla uma mente livre como marionete. Pode pressionar o sangue, acordar medo, produzir hesitação, convocar memória corporal e impor precedência a certos vínculos antigos. Mas vontade consciente resiste, distorce, contesta e deixa retorno. Quando Severin força demais, não governa. Invade.
+
+Não cura sem custo. Toda cura feita por seu sangue deixa algo: frio, febre, dívida, sonho, dor, Eco, dependência, medo ou lembrança biológica da passagem. Um corpo salvo por Severin não volta ao mundo exatamente como saiu dele.
+
+Não ressuscita plenamente mortos encerrados. Pode dar fala breve a um revenant, convocar testemunho, restaurar movimento incompleto ou permitir encerramento. Não devolve vida comum a quem já terminou. Quando tenta fazer isso, o sangue encontra não casa, mas ruína.
+
+Não apaga trauma. Pode fechar pele, osso, veia e veneno. Não remove fumaça da memória. Não absolve quem sobreviveu. Não faz Severin esquecer a irmã chamando seu nome. Não faz um salvo esquecer que foi tocado por uma autoridade que entrou fundo demais.
+
+Não transforma intenção contaminada em milagre limpo. Se Severin cura com medo, o sangue aprende medo. Se salva com ódio, o corpo salvo pode carregar a forma desse ódio. Se protege querendo possuir, a proteção nasce com corrente dentro.
+
+Não substitui julgamento. O sangue reconhece, mas reconhecimento não é justiça. O sangue reage, mas reação não é prova final. O sangue pode saber que algo pertence a uma antiga jurisdição, mas não sabe sozinho se essa jurisdição merece continuar existindo.
+
+Não funda reino sem testemunha. A soberania pode nascer no escuro, mas a lei só entra no mundo quando alguém vê, ouve, responde, contesta, aceita ou se recusa. Uma ordem sem testemunha vira imposição. Uma cura sem consentimento vira anexação. Uma sentença sem nome vivo antes dela repete o Ofício em outra língua.
+
+Não prova que Severin está certo.
+
+Esse é seu limite mais perigoso.
+
+O sangue pode obedecer a ele mesmo quando ele erra.
+
 
 ---
 
@@ -4122,7 +4230,7 @@ A sétima lei é a lei da definição. Quem define Severin tenta definir o mundo
 É preciso terminar a frase.
 
 
-## PARTE IV — Camada 4: A máquina humana de pureza, arquivo e fé
+## PARTE IV — A máquina humana de pureza, arquivo e fé
 
 ### 24AA. A monarquia sagrada dos homens
 
@@ -5573,7 +5681,7 @@ A língua das fogueiras.
 
 ---
 
-## PARTE V — Camada 5: A terceira natureza fabricada
+## PARTE V — Fé, discernimento e terceira natureza fabricada
 
 
 ### 36E. O clero sincero e a Taça Quebrada
@@ -6151,7 +6259,7 @@ A fuga verdadeira não é sair da instalação.
 É impedir que qualquer facção termine a frase sobre o que ele é.
 
 
-## PARTE VI — Camada 6: Horizonte profético e colapso moral
+## PARTE VI — Horizonte profético e colapso moral
 
 ### 9A. A primeira mãe Sângelună
 
@@ -6391,7 +6499,7 @@ O sangue impuro que adiou o fim precisará decidir se também pode impedir que a
 
 ## PARTE VII — Conflitos, figuras e caminhos possíveis
 
-### 38. Antagonistas possíveis
+### 38. Figuras de conflito
 
 #### O caçador da fogueira
 
