@@ -651,7 +651,55 @@ Severin aprenderá que o horror do Ofício não está apenas em seus decretos.
 Está no fato de que toda atrocidade ali possui caligrafia.
 
 
-### 1.11. Severin no início da história
+### 1.11. Valerian Ors, o linhageiro da sentença
+
+Valerian Ors não entrou na história de Severin com tocha na mão.
+
+Entrou com pasta.
+
+Essa é a razão de seu horror. Homens com tochas podem ser lembrados como multidão, pânico, febre coletiva, rosto perdido na fumaça. Valerian não pertence a esse tipo de esquecimento. Ele chegou antes do fogo, dormiu sob teto pago pela vila, lavou as mãos em uma bacia comum, aceitou pão de pessoas que já haviam decidido sentir medo e transformou esse medo em sequência legível: nome, margem, testemunha, suspeita, confirmação, sentença.
+
+Não era velho. Também não era jovem o bastante para fingir precipitação. Tinha a idade perigosa dos homens que já aprenderam a chamar crueldade de método e ainda esperam promoção por fazê-lo bem. Usava luvas escuras, não por teatralidade, mas por hábito de ofício. Não tocava sangue sem pano. Não tocava papel sem limpar os dedos. Não tocava crianças quando podia pedir que a mãe as aproximasse da bacia.
+
+Valerian acreditava em contenção.
+
+Essa palavra o protegia de si mesmo.
+
+Em sua doutrina privada, o mundo não era dividido entre bons e maus, mas entre focos contidos e focos negligenciados. Uma família escondida não era apenas família. Era futuro sem registro. Uma criança que curava rápido demais não era apenas criança. Era linha provável de repetição. Uma mãe que queimava panos de parto não era apenas mãe. Era cúmplice de risco hereditário. Valerian não precisava odiar para condenar. Pelo contrário: orgulhava-se de condenar sem ódio.
+
+Esse orgulho era a forma mais limpa de sua monstruosidade.
+
+Na casa de Severin, não levantou a voz. Perguntou datas. Pediu nomes de avós. Comparou o registro de Mirela com um livro de batismos trazido de outra paróquia. Observou que Corvin respondeu depressa demais quando o sobrenome Darcov foi pronunciado em voz alta. Percebeu a maneira como Vespera olhava para a porta, não como quem desejava fugir, mas como quem desejava atacar primeiro. Notou Ilona antes de todos: a criança que tentou esconder a mão ferida no avental e esqueceu que o sangue no tecido secava devagar demais.
+
+Valerian não descobriu os Sângelună porque era gênio.
+
+Descobriu porque a máquina inteira já havia ensinado seus olhos a procurar famílias que se diminuíam para viver.
+
+Sua assinatura não foi gesto impulsivo. Foi caligrafia estável. Escreveu **Sângelună** com atenção, sem erro, como quem devolve a uma coisa seu nome correto no instante em que decide que esse nome deve morrer. No relatório, chamou a família de núcleo doméstico contaminante, portador de ocultação intergeracional, risco de regressão lunar e ameaça de transmissão simbólica. Nenhuma dessas expressões cheirava a carne queimada. Por isso funcionavam.
+
+Na noite da fogueira, Valerian ficou perto o bastante para ouvir a sentença e longe o bastante para não sentir o primeiro calor da casa.
+
+Essa distância define sua alma.
+
+Ele viu a multidão se acalmar quando o texto foi lido. Viu vizinhos relaxarem os ombros porque a morte deixara de parecer assassinato e passara a parecer consequência. Viu Mirela ser chamada pelo nome de dentro. Viu Corvin entender, antes do fogo, que a família já havia sido retirada do mundo humano pelo documento. Viu a janela de Ilona encher-se de fumaça.
+
+Depois registrou a execução como concluída.
+
+Não escreveu que uma criança chamou pelo irmão.
+
+Anos depois, se reencontrar Severin, Valerian não pedirá perdão de imediato. Essa seria uma mentira fácil. Primeiro tentará explicar. Dirá que o Ofício não cria medo, apenas o organiza. Dirá que famílias ocultas produzem guerras futuras. Dirá que a piedade local falha onde o registro central permanece. Dirá que, se cada linhageiro hesitasse diante de uma mãe, o mundo seria governado por berços perigosos e segredos hereditários.
+
+Severin ouvirá nele algo pior que maldade.
+
+Ouvirá coerência.
+
+Por isso Valerian é mais perigoso que o caçador que acendeu a tocha. O caçador pode ser morto como lembrança. Valerian precisa ser enfrentado como gramática. Se Severin apenas arrancar sua garganta, o Ofício escreverá outra versão. Se apenas o poupar, a assinatura continuará limpa demais. O confronto verdadeiro exigirá algo que Severin detesta: fazer Valerian ver os nomes que suas categorias engoliram sem permitir que essa visão vire absolvição barata.
+
+A sentença dos Sângelună começou na mão dele.
+
+A nova lei de Severin terá de passar por essa mão sem se tornar igual a ela.
+
+### 1.12. Severin no início da história
 
 Quando Severin chega à floresta, não está em busca de aventura. Não está cumprindo profecia. Não sabe que há ruínas reais por perto. Ele está vagando porque todos os caminhos humanos se fecharam.
 
@@ -673,7 +721,7 @@ Então o raio cai.
 
 ---
 
-### 1.12. A morte nas ruínas
+### 1.13. A morte nas ruínas
 
 O raio atinge uma parte instável do antigo castelo. A pedra responde como se esperasse aquele toque havia séculos. O teto desaba. Colunas partidas cedem. A chuva entra junto com poeira, lama e luz branca.
 
@@ -701,7 +749,7 @@ Desceu como se procurasse parentes.
 
 ---
 
-### 1.13. O despertar de Severin
+### 1.14. O despertar de Severin
 
 Severin acorda depois que as criaturas já partiram.
 
@@ -731,7 +779,7 @@ Parece seu corpo mentindo para o mundo outra vez.
 
 ---
 
-### 1.14. O homem no buraco
+### 1.15. O homem no buraco
 
 Quando Severin abre os olhos, o mundo não lhe oferece explicação.
 
@@ -771,7 +819,7 @@ Quando enfim alcança o ar aberto, a floresta está molhada, quebrada e silencio
 
 Parece apenas menos vazio de horrores.
 
-### 1.15. A batalha das jurisdições dentro do sangue
+### 1.16. A batalha das jurisdições dentro do sangue
 
 Severin não acordou quando o abismo se abriu.
 
@@ -863,7 +911,7 @@ Não porque chegara tarde ao próprio reino.
 
 Porque seu reino ainda estava aprendendo a caber em seu sangue.
 
-### 1.16. Conflito interno central
+### 1.17. Conflito interno central
 
 A ferida mais antiga de Severin é:
 
@@ -895,7 +943,7 @@ Essa contradição é a alma do personagem. Ele talvez seja justamente o único 
 
 ---
 
-### 1.17. O arco de Severin
+### 1.18. O arco de Severin
 
 #### Fase 1: O sobrevivente
 
@@ -939,7 +987,7 @@ Precisa escolher que tipo de lei nascerá de alguém que conhece os dois medos.
 
 ---
 
-### 1.18. Da assinatura à lei
+### 1.19. Da assinatura à lei
 
 O arco de Severin não começa com a aceitação da coroa.
 
@@ -999,7 +1047,7 @@ Severin começa procurando uma assinatura.
 
 Termina disputando o direito de assinar o mundo de outro modo.
 
-### 1.19. A primeira lei contra a classificação
+### 1.20. A primeira lei contra a classificação
 
 A primeira disputa de Severin contra o Ofício não nasce diante de uma fogueira acesa.
 
@@ -1626,7 +1674,7 @@ Só depois vem o medo.
 
 Um encontro com uma criatura antiga pode revelar isso com brutalidade.
 
-Uma entidade libertada das cisternas, chamada em registros mortos de Vhal Dravosk, talvez tenha servido aos reis como arma de peste antes de quebrar pacto, devorar aldeias tributárias e tentar corromper uma câmara de sangue. Severin nunca ouviu seu nome. Ainda assim, ao vê-la arrastar correntes secas e pronunciar que a coroa morreu, algo nele se endireita antes que sua mente acompanhe.
+Uma entidade libertada das cisternas, chamada em registros mortos de Vhal Dravosk, serviu aos reis como arma de peste antes de quebrar pacto, devorar aldeias tributárias e tentar corromper uma câmara de sangue. Severin nunca ouviu seu nome. Ainda assim, ao vê-la arrastar correntes secas e pronunciar que a coroa morreu, algo nele se endireita antes que sua mente acompanhe.
 
 Não é coragem. É reconhecimento herdado.
 
@@ -2287,7 +2335,7 @@ Se tivesse sido apenas astúcia familiar, o Ofício os teria encontrado antes. S
 
 A primeira ocultação foi documental.
 
-Em algum ponto da genealogia, um ancestral Sângelună morreu no papel antes de morrer no corpo. Talvez registrado como criança febril, talvez enterrado sob nome trocado, talvez declarado bastardo sem descendência para proteger uma mãe perseguida. A partir desse erro fabricado, todo ramo posterior cresceu em uma zona cega. O Ofício continuava procurando descendentes de uma árvore oficialmente cortada.
+Em algum ponto da genealogia, Miran Sângelună morreu no papel antes de morrer no corpo. Foi registrado como criança febril, enterrado nos livros sob o nome de um primo morto e declarado bastardo sem descendência para proteger a mãe perseguida. A partir desse erro fabricado, todo ramo posterior cresceu em uma zona cega. O Ofício continuava procurando descendentes de uma árvore oficialmente cortada.
 
 Nenhuma falsificação isolada teria bastado. Um nome falso apodrece quando muitas mãos o tocam. Por isso a segunda ocultação veio da Taça Quebrada e de seus equivalentes sem nome. Freiras que trocavam livros. Padres que corrigiam batismos. Coveiros que aceitavam enterrar um corpo sob o nome errado. Parteiras que queimavam panos antes que o cheiro chamasse perguntas. Monges que escreviam datas impossíveis com caligrafia suficientemente velha. Não havia grande conspiração protegendo os Sângelună. Havia atos pequenos, separados por anos, medo e distância. Cada gesto salvava um dia. Juntos, salvaram séculos.
 
@@ -2390,7 +2438,7 @@ Severin acorda como uma página queimada onde mãos antigas escreveram por cima 
 
 ### 3.18. A maldição da restauração
 
-A maldição foi lançada por um mago leal a Vaelrûn Sângelună. Ele previu que a nação poderia cair, que a imortalidade dos reis poderia ser arrancada e que a coroa poderia ficar sem cabeça. Para impedir o fim definitivo, criou uma magia de retorno baseada em três elementos:
+A maldição foi lançada por **Elyr Morvhan**, mago leal a Vaelrûn Sângelună. Ele previu que a nação poderia cair, que a imortalidade dos reis poderia ser arrancada e que a coroa poderia ficar sem cabeça. Para impedir o fim definitivo, criou uma magia de retorno baseada em três elementos:
 
 1. os ossos dos reis mortos;
 2. o sangue de um descendente real;
@@ -2434,7 +2482,7 @@ Reconheceu Severin, mas não o estabilizou. Deu-lhe precedência, mas não gover
 
 ### 3.19. O Ritus Coronae Sepultae
 
-O mago leal aos últimos reis não criou apenas uma maldição de retorno.
+Elyr Morvhan, mago leal aos últimos reis, não criou apenas uma maldição de retorno.
 
 Criou um rito de paciência.
 
@@ -2504,7 +2552,7 @@ Atrasou-o por existir errado.
 
 Sua humanidade contaminou a restauração vampírica. Seu sangue real contaminou a classificação humana. Sua morte abriu o mundo, mas sua mistura impediu que o céu se fechasse imediatamente em destino final. A Lua não voltou ao normal depois daquela noite porque o rito não foi concluído. Ficou marcada, vermelha por dentro, como se carregasse uma ferida que cada fase apenas escondia de modo diferente.
 
-Por isso os vampiros chamariam Severin de vergonha. Os humanos, de abominação. O Ofício, de anomalia. Os reis mortos, de instabilidade. Mas talvez a primeira mãe da linhagem tivesse visto a verdade antes de todos:
+Por isso os vampiros chamariam Severin de vergonha. Os humanos, de abominação. O Ofício, de anomalia. Os reis mortos, de instabilidade. Mas Aureliana Valcár viu antes de todos a verdade que nenhuma corte suportaria escrever:
 
 > **A maldição falhou. Por isso ainda havia futuro.**
 
@@ -6530,147 +6578,225 @@ Sua função não é provar que humanos são bons ou que vampiros podem ser bons
 
 O sangue impuro que adiou o fim precisará decidir se também pode impedir que a dança termine.
 
-## PARTE VII — Conflitos, figuras e caminhos possíveis
+## PARTE VII — Conflitos, figuras e destinos
 
 ### 7.1. Figuras de conflito
 
-#### O caçador da fogueira
+#### Branna Veyr, a caçadora da fogueira
 
-Um homem ou mulher que participou da morte da família de Severin e agora lidera a caça contra criaturas libertas. Pode acreditar sinceramente que fez o necessário. Para Severin, essa pessoa é memória viva da noite em que tudo acabou.
+Branna carregou tocha na noite em que a casa dos Darcov ardeu.
 
-#### O sacerdote da purificação
+Não foi a primeira a gritar. Não foi a primeira a lançar óleo. Isso a torna, para ela mesma, menos culpada do que os outros. Depois da Luna Vulnata, torna-se caçadora de criaturas libertas e ganha reputação por proteger estradas onde soldados não chegam. Mata bestas, revenants violentos e vampiros menores com eficiência brutal. O povo aprende a agradecê-la antes de perguntar o que ela fez quando ainda era apenas uma vizinha de Veyr.
 
-Figura religiosa que transforma medo em doutrina. Vê Severin como prova de que todo sangue mestiço deve ser eliminado. Pode ganhar poder político com o retorno dos monstros.
+Para Severin, Branna é a mão comum do massacre. Não a teoria. Não o arquivo. A mão.
 
-#### O nobre humano herdeiro dos vencedores
+Sua presença obriga a obra a encarar uma pergunta impura: uma pessoa que participou de uma atrocidade pode depois salvar vidas reais sem que uma coisa apague a outra?
 
-Descendente de famílias que destruíram o castelo. Mantém documentos escondidos sobre a verdadeira história da guerra, inclusive sobre a criança humana de Vaelrûn Sângelună. Sua riqueza veio da pilhagem vampírica, convertida em herança limpa por três gerações de testamentos, dotes e fundações piedosas.
+#### Padre Sarel Cren, o sacerdote da purificação
 
-#### O vampiro puro da velha corte
+Sarel deu linguagem ao medo de Veyr.
 
-Reconhece sinais da autoridade em Severin, mas não o considera digno. Pode tentar transformá-lo em fantoche, corrigir sua impureza, arrancar a humanidade dele ou substituí-lo por outro pretendente. Quando descobrir que o próprio sangue responde ao Sangue Fundador, seu desprezo pode virar pânico.
+Foi ele quem chamou a sentença de purificação diante da casa cercada. Foi ele quem rezou alto o suficiente para que os vizinhos ouvissem santidade onde havia pânico. Depois do retorno das criaturas, sua autoridade cresce. As cidades querem respostas rápidas, e Sarel oferece a mais antiga: tudo que sangra errado pertence ao fogo.
 
-#### A serva vampírica leal
+Ele não se vê como político. Essa é sua mentira. Cada sermão seu transforma discernimento em fraqueza, misericórdia em cumplicidade e dúvida em porta para o Diabo. Seu perigo é tornar simples aquilo que a obra insiste em manter difícil.
 
-Não precisa ser antagonista definitiva. Começa como ameaça, observadora e possível assassina. Ela serviu um dos últimos reis e reconhece primeiro os detalhes, não o título. Sua função narrativa é provar que Severin carrega ecos reais sem ser mera cópia deles.
+#### Lorde Edrik Arvenholt, o herdeiro dos vencedores
 
-#### O demônio liberto
+Edrik descende de uma casa humana que lucrou com a queda da velha noite. Seus vinhedos, fundações piedosas e casamentos limpos foram construídos sobre prata vampírica lavada em testamentos, dotes e doações ao templo.
 
-Entende antes de muitos que, se Severin aprender a comandar, a liberdade caótica das criaturas terminará. Por isso quer matá-lo enquanto ele ainda se vê como ninguém. Para esse demônio, o Pulso do Trono é uma corrente tentando se refazer.
+Nos cofres da família, guarda documentos sobre a guerra antiga: fragmentos da Mortalha Branca, rotas de pilhagem, nomes apagados de crianças mestiças e referências à descendência humana de Vaelrûn Sângelună. Edrik não matou Severin. Não queimou Veyr. Não escreveu a sentença. Mesmo assim, vive em uma casa onde o crime antigo virou piso encerado.
 
+Sua função é mostrar que herança também pode ser cadáver herdado.
 
-#### O exorcista do discernimento
+#### Drauvyr Plenavyr, o vampiro puro da velha corte
 
-Um sacerdote autorizado a lidar com possessões verdadeiras. Não é fanático, nem ingênuo. Conhece demônios, fraudes, histerias coletivas, doenças, traumas e pactos. Quando encontra Severin, recusa o diagnóstico fácil. Percebe que há reis mortos, memória intrusa e pressão sobrenatural, mas também uma vontade viva que ainda luta para escolher.
+Drauvyr reconhece sinais régios em Severin e os considera uma ofensa.
 
-Sua ameaça está na precisão. Ele talvez seja capaz de ferir Severin espiritualmente justamente porque não mente sobre ele.
+Para ele, a coroa não pode ter sotaque humano, culpa humana, hesitação humana ou fome misturada a compaixão. Aproxima-se de Severin com reverência formal e desprezo íntimo. Deseja educá-lo, isolá-lo, purgá-lo de humanidade e torná-lo forma aceitável da restauração.
 
-#### A abadessa da Taça Quebrada
+Quando seu próprio sangue hesita diante do Sangue Fundador, Drauvyr sente pânico pela primeira vez em séculos. A impureza que despreza possui autoridade sobre aquilo que ele chamava de nobre.
 
-Uma religiosa que coordena uma rede clandestina de fuga para mestiços, órfãos de purificação, filhos de servos vampíricos e testemunhas que o Ofício deseja apagar. Falsifica registros com a mesma mão que cura febres. Para Severin, ela pode ser salvação tardia e acusação insuportável: prova viva de que alguns humanos tentaram salvar crianças, mas não chegaram à casa dele.
+#### Nerissa Velkaryn, a serva vampírica leal
 
-#### O chanceler dos selos da Ordem Branca
+Nerissa foi dama de sangue, guarda de câmara e espiã de corredor de um dos últimos reis.
 
-Funcionário frio, quase invisível, que controla a validade dos mandados da Ordem Branca. Pode impedir massacres recusando selos ilegítimos; pode permitir atrocidades tornando-as juridicamente perfeitas. Não precisa tocar uma lâmina para decidir o destino de vilas inteiras.
+Ela conhece a realeza de perto demais para confundi-la com ornamento. Quando encontra Severin, vê falha antes de ver senhor. Vigia, testa, fere e quase mata. O reconhecimento não vem pela fé, mas pelo sangue: suas veias ouvem nele algo que sua vontade recusa.
 
-#### O demônio credor
+No início, protege-o porque desobedecer dói. Depois, protege-o porque escolhe. Sua lealdade final vale justamente porque nasce contra o automatismo do próprio sangue.
 
-Entidade pactuada que não se apresenta como fera, mas como cobrador de contrato. Traz nomes, cláusulas, penalidades e obrigações herdadas dos reis mortos. Seu objetivo não é destruir Severin imediatamente, mas fazê-lo reconhecer que a coroa reaberta ainda deve pagamentos antigos.
+#### Orvethiel, o demônio liberto
 
-#### O vampiro reformista
+Orvethiel sai do abismo sem desejo de voltar a servir.
 
-Um nobre antigo que deseja romper pactos infernais e substituir a predação desmedida por tratados regulados com humanos. Sua lucidez o torna atraente; sua dependência de sangue humano o torna moralmente perigoso. Ele quer um futuro melhor sem conseguir imaginar um futuro sem extração.
+Foi pactuado aos reis antigos, usado como conselheiro de peste e cláusula viva em guerras de sucessão. Entende antes de muitos que Severin não é apenas fugitivo. Se o Coração Criador aprender a comandar, antigas correntes podem ganhar voz nova. Por isso Orvethiel tenta matá-lo enquanto Severin ainda se vê como ninguém.
 
-#### O praefectus do tributo
+Para ele, o Pulso do Trono não é esperança.
 
-Antigo administrador do Fiscus Sanguinis, desperto depois do abismo. Não se considera cruel. Considera-se civilizado. Para ele, a fome sem lei é barbárie; a coleta regulada é governo. Pode tentar convencer Severin de que restaurar o tributo humano é a única forma de impedir massacres maiores.
+É coleira se lembrando da forma do pescoço.
 
-#### O filho do linhageiro
+#### Padre Amon Veyl, o exorcista do discernimento
 
-Herdeiro de um agente do Ofício que descobre sangue suspeito na própria família. Cresceu acreditando que pureza era dever público. Ao encontrar sua avó nos Livros das Veias, entende que seu pai caçava aquilo que carregava em casa. Sua crise pode abrir brecha na máquina ou torná-lo mais cruel.
+Amon é autorizado a lidar com possessões verdadeiras. Conhece demônios, fraudes, histerias coletivas, doenças, traumas e pactos.
 
-#### O eco do mago leal
+Quando encontra Severin, recusa o diagnóstico fácil. Percebe reis mortos, memória intrusa e pressão sobrenatural, mas também uma vontade viva que ainda luta para escolher. Sua ameaça está na precisão: ele fere Severin espiritualmente justamente porque não mente sobre ele.
 
-A consciência residual do mago que criou o **Ritus Coronae Sepultae**. Ele não preparou o retorno para Severin. Esperava um descendente vampírico puro, alguém capaz de receber os reis mortos sem resistência humana, restaurar a antiga corte, recolocar criaturas sob comando e reacender a nação vampírica como ela havia sido.
+Amon prova que a fé não precisa ser cega para ser perigosa; às vezes, a verdade parcial de um homem justo corta mais fundo que a mentira de um fanático.
 
-Para esse eco, Severin é falha de procedimento, contaminação do recipiente e desvio histórico. Talvez tente “corrigir” o segundo nascimento, arrancando dele a humanidade que impediu a restauração perfeita. Talvez acredite que o Sangue Fundador é uma degeneração do sangue real, não uma evolução. Talvez veja a Luna Sanguinea Plena como oportunidade desperdiçada: o ápice que deveria ter restaurado a coroa pura, mas que se deformou em Luna Vulnata ao receber sangue mestiço.
+#### Madre Sabela Niv, a abadessa da Taça Quebrada
 
-Seu perigo está em oferecer a Severin uma verdade quase irrecusável: se o rito tivesse funcionado corretamente, as criaturas teriam voltado sob ordem. Menos caos inicial, menos massacres dispersos, menos aldeias destruídas por monstros sem comando. O mago usará essa verdade para defender uma mentira maior: que pureza e controle eram a única forma de impedir o fim.
+Sabela coordena uma rede clandestina de fuga para mestiços, órfãos de purificação, filhos de servos vampíricos e testemunhas que o Ofício deseja apagar. Falsifica registros com a mesma mão que cura febres.
 
-#### O médico das veias
+Para Severin, ela é salvação tardia e acusação insuportável. Sua existência prova que alguns humanos tentaram salvar crianças. Também prova que não chegaram à casa dele.
 
-Um estudioso humano formado entre enfermarias, tribunais e templos. Não se vê como carrasco. Considera-se homem de ciência antiga, capaz de ler humores, febres, palidez, pulso, coagulação e manchas de pele como outros leem escrituras. Para ele, o sangue vampírico não é apenas pecado; é uma doença política.
+Sabela não oferece consolo limpo. Oferece uma pergunta: quantos foram salvos por mentiras santas, e quantos morreram porque a mentira chegou tarde?
 
-Ele pode tentar tratar Severin antes de condená-lo. Sangrias corretivas. Banhos quentes para expulsar frieza. Cautérios para acordar carne morta. Óleos santos aplicados em cortes que fecham rápido demais. Frascos, bacias graduadas, lâminas limpas, perguntas calmas.
+#### Cassian Vorst, o chanceler dos selos
 
-Seu horror está na delicadeza.
+Cassian controla a validade dos mandados da Ordem Branca.
+
+Pode impedir massacres recusando selos ilegítimos; pode permitir atrocidades tornando-as juridicamente perfeitas. Não toca lâmina. Não precisa. Seu instrumento é a autorização. Sua crueldade se manifesta como demora, exceção, carimbo, suspensão e linguagem exata demais para ser contestada por quem sangra.
+
+Cassian é a prova de que a mão que assina longe do campo também participa do campo.
+
+#### Achar Vellum, o demônio credor
+
+Achar não se apresenta como fera.
+
+Apresenta-se como cobrador.
+
+Traz nomes, cláusulas, penalidades e obrigações herdadas dos reis mortos. Seu objetivo não é destruir Severin imediatamente, mas fazê-lo reconhecer que a coroa reaberta ainda deve pagamentos antigos. Achar fala como tabelião e sorri como santo cansado, porque sabe que as melhores prisões começam com uma dívida reconhecida por necessidade.
+
+#### Lucarion Plenavyr, o vampiro reformista
+
+Lucarion deseja romper pactos infernais e substituir a predação desmedida por tratados regulados com humanos.
+
+Sua lucidez o torna atraente. Sua dependência de sangue humano o torna moralmente perigoso. Ele quer um futuro melhor sem conseguir imaginar um futuro sem extração. Defende repouso, limites, consentimento parcial, compensação e proteção das aldeias tributárias. Tudo isso é melhor que massacre livre.
+
+Ainda assim, continua sendo uma gaiola com administração mais honesta.
+
+#### Sorn Valec, o praefectus do tributo
+
+Sorn foi administrador do Fiscus Sanguinis.
+
+Desperta depois do abismo e encontra um mundo sem competência. Não se considera cruel. Considera-se civilizado. Para ele, fome sem lei é barbárie; coleta regulada é governo. Tentará convencer Severin de que restaurar o tributo humano é a única forma de impedir massacres maiores.
+
+Sorn é uma das tentações políticas mais perigosas da velha noite: a prisão que realmente protege.
+
+#### Marius Ors, o filho do linhageiro
+
+Marius é filho de Valerian Ors.
+
+Cresceu acreditando que pureza era dever público e que a assinatura do pai salvara vilas de horrores invisíveis. Quando encontra sangue suspeito na própria avó, descobre que a casa Ors também vivia sobre margem corrigida. Sua primeira reação não é compaixão. É pânico administrativo: se sua família é impura, então o arquivo inteiro pode estar errado.
+
+Marius pode abrir brecha na máquina porque conhece seus corredores por dentro. Também pode tornar-se mais cruel que o pai, tentando provar pureza justamente onde ela falhou.
+
+#### Elyr Morvhan, o eco do mago leal
+
+Elyr Morvhan criou o **Ritus Coronae Sepultae** para restaurar uma coroa pura.
+
+O que resta dele não aceita Severin como solução. Vê nele falha de procedimento, contaminação do recipiente e desvio histórico. Tentará corrigir o segundo nascimento arrancando de Severin a humanidade que impediu a restauração perfeita. Chamará o Sangue Fundador de degeneração do sangue real. Tratará a Luna Vulnata como oportunidade desperdiçada: o ápice que deveria ter restaurado a coroa pura, deformado por sangue mestiço.
+
+Seu perigo está em oferecer uma verdade quase irrecusável. Se o rito tivesse funcionado corretamente, as criaturas teriam voltado sob ordem. Menos caos inicial, menos massacres dispersos, menos aldeias destruídas por monstros sem comando. Morvhan usará essa verdade para defender uma mentira maior: que pureza e controle eram a única forma de impedir o fim.
+
+#### Iren Castrum, o médico das veias
+
+Iren estudou enfermarias, tribunais e templos.
+
+Não se vê como carrasco. Considera-se homem de ciência antiga, capaz de ler humores, febres, palidez, pulso, coagulação e manchas de pele como outros leem escrituras. Para ele, sangue vampírico não é apenas pecado; é doença política.
+
+Tratará Severin antes de condená-lo: sangrias corretivas, banhos quentes para expulsar frieza, cautérios para acordar carne morta, óleos santos aplicados em cortes que fecham rápido demais. Seu horror está na delicadeza.
 
 Ele chama tortura de diagnóstico.
 
-#### O usurpador enxertado
+#### Bastian Arvenholt, o usurpador enxertado
 
-Alguém descobre que o Sangue Fundador pode ser imitado por instantes se sangue real, sangue vampírico puro, sangue humano e fragmentos de ossos reais forem unidos em transfusão ritual. O resultado não cria rei. Cria empréstimo.
+Bastian descobre que o Sangue Fundador pode ser imitado por instantes se sangue real, sangue vampírico puro, sangue humano e fragmentos de ossos régios forem unidos em transfusão ritual.
 
-O usurpador enxertado pode comandar selos menores, enganar criaturas pouco conscientes e sentar-se no trono por algumas horas ou dias. Pode até provocar um Eco Sanguíneo artificial, forte o bastante para fazer uma armadura hesitar ou uma porta antiga abrir a primeira tranca. Mas o corpo começa a recusar a mentira. Veias escurecem sob a pele. Coágulos surgem onde não há ferida. Memórias falsas invadem a fala. O pulso alterna entre muitos ritmos. A pedra do castelo o aceita e rejeita ao mesmo tempo.
+O resultado não cria rei. Cria empréstimo.
 
-O sangue emprestado chama por Severin mesmo dentro do usurpador. Quanto mais o falso rei tenta reter a autoridade, mais o corpo se transforma em campo de disputa: o enxerto quer voltar à fonte, o sangue nativo quer sobreviver, os ossos roubados querem impor uma linhagem que já morreu.
+Bastian comanda selos menores, engana criaturas pouco conscientes e senta-se no trono por algumas horas. Depois o corpo começa a recusar a mentira. Veias escurecem sob a pele. Coágulos surgem onde não há ferida. Memórias falsas invadem a fala. O pulso alterna entre muitos ritmos. A pedra do castelo o aceita e rejeita ao mesmo tempo.
 
 Ele é prova viva de que soberania roubada não governa.
 
 Apodrece.
 
----
+#### Helian Voss, o redator da pureza
 
-#### O redator da pureza
+Helian é alto funcionário do Ofício.
 
-Um alto funcionário do Ofício que acredita que a verdade histórica é menos importante que a estabilidade das certidões. Para ele, Severin deve ser queimado não por ser culpado, mas por ser capaz de tornar culpados os arquivos humanos. Sua arma é a frase fria, o selo, a versão oficial. Quando mente, não parece conspirador. Parece funcionário preservando ordem.
+Acredita que a verdade histórica é menos importante que a estabilidade das certidões. Para ele, Severin deve ser queimado não por ser culpado, mas por ser capaz de tornar culpados os arquivos humanos. Sua arma é a frase fria, o selo, a versão oficial. Quando mente, não parece conspirador. Parece funcionário preservando ordem.
 
-#### O Analista de Lacunas
+#### Odrávia Dornacht, a Analista de Lacunas
 
-Não caça monstros. Caça diferenças.
+Odrávia não caça monstros.
 
-Sua mesa não tem tochas, lâminas ou relíquias expostas. Tem mapas, listas de mortos, curvas de fome, registros de febre, relatórios de triagem, compras de sal, rotas de refugiados e projeções de mortalidade. Ele percebe Severin antes de acreditar em Severin, porque uma região começa a apresentar vidas demais onde o Ofício esperava cadáveres.
+Caça diferenças.
 
-Para ele, misericórdia não é virtude. É interferência estatística. Não odeia os salvos. Odeia o fato de que alguém está salvando fora do registro.
+Sua mesa não tem tochas, lâminas ou relíquias expostas. Tem mapas, listas de mortos, curvas de fome, registros de febre, relatórios de triagem, compras de sal, rotas de refugiados e projeções de mortalidade. Percebe Severin antes de acreditar em Severin, porque uma região começa a apresentar vidas demais onde o Ofício esperava cadáveres.
 
-#### O Lavador de Óbito
+Para ela, misericórdia não é virtude. É interferência estatística. Não odeia os salvos. Odeia o fato de que alguém está salvando fora do registro.
 
-Pode ser aliado, criminoso ou ambos.
+#### Nero Sal, o Lavador de Óbito
 
-Sabe transformar cadáver em cobertura, cobertura em rota e rota em sobrevivência. Falsifica mortes para esconder anexados e, quando faltam mortes suficientes, precisa decidir quem não será salvo. Sua mão não acende fogueiras, mas escolhe ausências. É a figura que obriga Severin a descobrir que resistir ao Ofício também pode exigir contabilidade de cadáver.
+Nero transforma cadáver em cobertura, cobertura em rota e rota em sobrevivência.
 
-#### O analista de arquivo vivo
+Falsifica mortes para esconder anexados e, quando faltam mortes suficientes, decide quem continuará vivo no papel errado e quem precisará desaparecer de verdade. Sua mão não acende fogueiras, mas escolhe ausências. Obriga Severin a descobrir que resistir ao Ofício também pode exigir contabilidade de cadáver.
 
-Um especialista do Ofício que deseja Severin vivo, preso e consultável. Sabe que uma gota de sangue, uma frase em língua morta ou uma memória dos reis pode abrir selos, localizar pactos e revelar tesouros. Não se vê como carrasco. Vê-se como leitor. Sua delicadeza torna a tortura mais íntima.
+#### Elyas Quirin, o analista de arquivo vivo
 
-#### O cardiarca do Ofício
+Elyas deseja Severin vivo, preso e consultável.
 
-Um especialista raro que não estuda apenas sangue, mas cadência. Acredita que todo poder de Severin depende de um órgão-fonte e que, se o batimento for quebrado, a soberania perderá forma. Usa sinos cardíacos, agulhas de ferro frio, sal sob o esterno e taças cardiais para tentar ouvir, imitar ou interromper o Coração Criador. Não quer arrancá-lo de início. Quer aprender em que ritmo a coroa fabrica sangue.
+Sabe que uma gota de sangue, uma frase em língua morta ou uma memória dos reis pode abrir selos, localizar pactos e revelar tesouros. Não se vê como carrasco. Vê-se como leitor. Sua delicadeza torna a tortura mais íntima, porque trata cada grito como ruído útil ao texto.
 
-#### A Testemunha da Fogueira
+#### Dom Rauter Halv, o cardiarca do Ofício
 
-Uma jovem apresentada como possível sobrevivente da família Sângelună. Queimada, treinada, cheia de detalhes verdadeiros e identidade falsa. Pode ser mestiça de outra linhagem, vítima do próprio Ofício ou órfã condicionada. Sua função inicial é destruir Severin pela culpa; sua função posterior pode ser revelar que até a mentira usada contra ele tinha sangue real, medo real e uma pessoa real soterrada sob papel.
+Rauter não estuda apenas sangue.
 
-#### O legitimista de veludo
+Estuda cadência.
 
-Um vampiro antigo que protege Severin do Ofício por ultraje aristocrático, mas tenta transformá-lo em rei antigo. Não o tortura com ferro. Tortura-o com postura, rito, genealogia e a ideia de que humanidade é uma mancha a ser educada até desaparecer.
+Acredita que todo poder de Severin depende de um órgão-fonte e que, se o batimento for quebrado, a soberania perderá forma. Usa sinos cardíacos, agulhas de ferro frio, sal sob o esterno e taças cardiais para ouvir, imitar ou interromper o Coração Criador. Não quer arrancá-lo de início. Quer aprender em que ritmo a coroa fabrica sangue.
 
-#### O rei regente dentro do sangue
+#### Eliora Venn, a Testemunha da Fogueira
 
-Um dos reis mortos pode se destacar dos demais como voz dominante. Não precisa mentir sempre. Pelo contrário, oferece verdades úteis, nomes precisos, estratégias corretas e julgamentos que funcionam. Seu perigo está em usar a eficácia como prova de direito. Para ele, Severin é jovem demais para decidir. A coroa deve falar pelos ossos até que o bastardo aprenda a se calar.
+Eliora é apresentada como sobrevivente da família Sângelună.
 
----
+A mentira foi construída com crueldade técnica. Ela é mestiça de outro ramo apagado, queimada em uma purificação menor, treinada com detalhes verdadeiros retirados de arquivos e condicionada para responder como irmã perdida. Sua função inicial é destruir Severin pela culpa. Sua função posterior é revelar que até a mentira usada contra ele tinha sangue real, medo real e uma pessoa real soterrada sob papel.
 
+Eliora não é Ilona.
 
-#### O arquimédico das quimeras
+Esse fato não a torna falsa como dor.
 
-Um herdeiro intelectual do Officium Chimaerarum, convencido de que o Opus Tertium não fracassou por erro moral, mas por insuficiência técnica. Ao descobrir Severin, vê nele a prova de que a síntese era possível. Não o chama de milagre, nem de rei. Chama-o de resultado natural de um experimento que os homens quase souberam fazer.
+#### Lorde Vhalen Ardrask, o legitimista de veludo
 
-Seu objetivo não é apenas capturar Severin. É entender o centro que faltou às quimeras: o Coração Criador, o Sangue Fundador, a vontade capaz de organizar contradição. Para ele, Severin não é pessoa. É solução tardia.
+Vhalen protege Severin do Ofício por ultraje aristocrático.
 
-#### A quimera consciente
+Não suporta que mãos humanas toquem aquilo que carrega coroa. Sua proteção, porém, é outra prisão. Tenta transformar Severin em rei antigo por postura, rito, genealogia, etiqueta e vergonha. Não o tortura com ferro. Tortura-o com a ideia de que humanidade é uma mancha educável.
 
-Uma das Chimaerae Albae preservou linguagem, memória e rancor suficientes para compreender o que é. Não se vê como humana, criatura ou arma. Vê-se como tentativa abandonada. Ao encontrar Severin, talvez o odeie antes de entendê-lo, porque ele é aquilo que ela deveria ter sido: síntese sem costura, contradição com coração.
+#### Vaelrûn Sângelună, o rei regente dentro do sangue
+
+Vaelrûn torna-se a voz mais perigosa da Regência dos Ossos.
+
+Não mente sempre. Pelo contrário: oferece verdades úteis, nomes precisos, estratégias corretas e julgamentos que funcionam. Seu perigo está em usar eficácia como prova de direito. Para ele, Severin é jovem demais para decidir. A coroa deve falar pelos ossos até que o bastardo aprenda a se calar.
+
+Vaelrûn não quer apenas governar Severin.
+
+Quer convencê-lo de que obedecer será alívio.
+
+#### Magister Orlan Vey, o arquimédico das quimeras
+
+Orlan é herdeiro intelectual do Officium Chimaerarum.
+
+Está convencido de que o Opus Tertium não fracassou por erro moral, mas por insuficiência técnica. Ao descobrir Severin, vê nele a prova de que a síntese era possível. Não o chama de milagre, nem de rei. Chama-o de resultado natural de um experimento que os homens quase souberam fazer.
+
+Seu objetivo não é apenas capturar Severin. É entender o centro que faltou às quimeras: o Coração Criador, o Sangue Fundador, a vontade capaz de organizar contradição. Para Orlan, Severin não é pessoa.
+
+É solução tardia.
+
+#### Septima Alba, a quimera consciente
+
+Septima Alba preservou linguagem, memória e rancor suficientes para compreender o que é.
+
+Não se vê como humana, criatura ou arma. Vê-se como tentativa abandonada. Ao encontrar Severin, odeia-o antes de entendê-lo, porque ele é aquilo que ela deveria ter sido: síntese sem costura, contradição com coração.
 
 Pode dizer a ele:
 
@@ -6842,76 +6968,76 @@ O segundo arco força Severin a aceitar uma verdade que nenhum rei antigo precis
 
 Se algum reino nascer dele, começará ali, entre fugitivos febris, nomes corrigidos, crianças sonhando com câmaras que não escolheram e um homem que aprende a perguntar antes de usar a verdade que ele mesmo espalhou.
 
-#### Capítulo posterior: A Taça Quebrada
+#### Revelação tardia: A Taça Quebrada
 
 Severin encontra uma rede clandestina de clérigos, parteiras e escribas que protege crianças mestiças. A descoberta não lhe traz consolo imediato. Pelo contrário: saber que alguns foram salvos torna mais insuportável que sua família não tenha sido. O capítulo confronta compaixão humana real com limite humano real.
 
-#### Capítulo posterior: O exorcista que não mentiu
+#### Revelação tardia: O exorcista que não mentiu
 
 Um exorcista autorizado é chamado para declarar Severin possuído. Depois de observá-lo, recusa. Afirma que há vozes, memórias e mortos nele, mas não possessão comum. O Ofício se enfurece porque o diagnóstico preserva em Severin a condição de pessoa julgável.
 
-#### Capítulo posterior: A Prova que julgou a taça
+#### Revelação tardia: A Prova que julgou a taça
 
 O Ofício força Severin diante de uma Prova da Taça. Seu sangue não confirma pureza nem impureza; reage como soberania. A taça treme, o vinho se separa e o sangue volta à ferida antes que a sentença seja escrita. Pela primeira vez, uma instituição humana vê seu rito ser examinado pelo corpo que pretendia classificar.
 
-#### Capítulo posterior: O contrato que ainda cobrava
+#### Revelação tardia: O contrato que ainda cobrava
 
 Um demônio pactuado surge com uma cláusula antiga assinada pelos reis mortos. Não exige adoração. Exige cumprimento. Severin precisa decidir se a coroa que herdou também herdou obrigações que ele nunca aceitou.
 
-#### Capítulo posterior: O imposto de sangue
+#### Revelação tardia: O imposto de sangue
 
 Vampiros retornados tentam restaurar o Fiscus Sanguinis numa região devastada por bestas. Parte dos humanos aceita por medo, porque tributo medido parece melhor que morte aleatória. Severin precisa impedir a fome sem transformar proteção em cativeiro.
 
-#### Capítulo posterior: O julgamento do inumano
+#### Revelação tardia: O julgamento do inumano
 
 Uma criatura não humana é levada a tribunal. O Ofício deseja classificá-la como Hostis Generis Humani. Um clérigo sincero exige discernimento. Vampiros querem usá-la. Severin intervém não para absolvê-la, mas para impedir que seja condenada sem que ninguém descubra o que ela é.
 
-#### Capítulo posterior: A Maré de Retorno
+#### Revelação tardia: A primeira Maré de Retorno
 
 Depois de uma guerra vencida a custo brutal, Severin permanece de pé no campo onde seu sangue está espalhado por lama, lâminas, estandartes, dentes de criaturas e mãos mortas. O coração começa a bater depressa demais. Não por medo. Por chamado. O sangue derramado livre escuta o Coração Criador e volta para ele em fios, gotas e veios escuros. A vitória deixa de parecer conquista e se revela como uma cena de soberania física: o campo devolvendo ao rei aquilo que arrancou dele.
 
 ---
 
 
-#### Capítulo posterior: A Sombra Branca
+#### Revelação tardia: A Sombra Branca
 
 Depois da lua de sangue, vem o eclipse. Ao meio-dia, as capitais humanas escurecem. Cofres reais lacrados há séculos se abrem. Cada rei encontra apenas uma parte da verdade: mapa, lista, rito, sentença, propaganda, contabilidade ou juramento. Nenhum entende tudo sozinho. A antiga ordem humana começa a chamar seus herdeiros.
 
-#### Capítulo posterior: O Concílio das Cinzas
+#### Revelação tardia: O Concílio das Cinzas
 
-Os reis humanos se reúnem para montar os Arquivos Partidos. Ao juntar as peças, descobrem que seus ancestrais venceram a última guerra por meio de sacrifícios, massacres, pactos proibidos e manipulação da fé. A reunião deixa de ser estratégia militar e se torna julgamento hereditário. A pergunta central: reativar a Ordem Branca e sobreviver, ou recusar seus métodos e talvez condenar o mundo.
+Os reis humanos se reúnem para montar os Arquivos Partidos. Ao juntar as peças, descobrem que seus ancestrais venceram a última guerra por meio de sacrifícios, massacres, pactos proibidos e manipulação da fé. A reunião deixa de ser estratégia militar e se torna julgamento hereditário. A pergunta central: reativar a Ordem Branca e sobreviver, ou recusar seus métodos mesmo que essa recusa condene o mundo.
 
-#### Capítulo posterior: A primeira confissão pública
+#### Revelação tardia: A primeira confissão pública
 
 Um fragmento dos arquivos vaza para o povo por meio de um escriba da Cúria Branca que escolhe confissão em vez de obediência. A multidão descobre que a antiga vitória humana custou vidas inocentes deliberadamente sacrificadas. O povo que pedia proteção agora precisa decidir se aceita ser salvo por uma máquina feita para escolher quem ainda conta como humano.
 
-#### Capítulo posterior: A fé dividida
+#### Revelação tardia: A fé dividida
 
 A Igreja humana se divide. Pregadores da guerra chamam todas as criaturas de obra do Diabo e exigem reativação total da Ordem Branca. Outros sacerdotes lembram que nem todo morto é demônio, nem todo mestiço é condenado, nem toda criatura sem forma humana perdeu alma ou dor. O conflito religioso deixa claro que a fé foi usada como arma, mas ainda pode ser resistência contra aqueles que a sequestraram.
 
 
-#### Capítulo posterior: A primeira mãe
+#### Revelação tardia: A primeira mãe
 
-Severin encontra um fragmento da memória da mulher humana que iniciou sua linhagem. Não uma profecia limpa, mas restos de parto, sangue, lençóis, gritos e imagens da Umbra Indistincta. Ele descobre que sua linhagem talvez tenha sido escondida não apenas dos humanos, mas também dos vampiros. A frase central surge pela primeira vez com sentido completo: a coroa não podia voltar limpa.
+Severin encontra um fragmento da memória de Aureliana Valcár, a mulher humana que iniciou sua linhagem. Não uma profecia limpa, mas restos de parto, sangue, lençóis, gritos e imagens da Umbra Indistincta. Ele descobre que sua linhagem foi escondida não apenas dos humanos, mas também dos vampiros. A frase central surge pela primeira vez com sentido completo: a coroa não podia voltar limpa.
 
-#### Capítulo posterior: O Rito da Coroa Sepulta
+#### Revelação tardia: O Rito da Coroa Sepulta
 
 O eco do mago revela o funcionamento real da maldição. A Luna Vulnata não foi acidente; foi o ponto de abertura de séculos de acúmulo, mas não sua conclusão perfeita. Severin entende que ocupou o lugar destinado a um herdeiro puro e que, por causa disso, tudo voltou sem que o fim se completasse. A revelação não o transforma em vilão, mas torna sua inocência simples impossível.
 
 
-#### Capítulo posterior: A Exstirpatio Lunae
+#### Revelação tardia: A Exstirpatio Lunae
 
 Severin descobre que a morte de sua família não foi apenas denúncia local. Encontra listas, sobrenomes riscados e mapas de deslocamento mostrando que os Sângelună eram o último ramo da Linhagem da Lua de Sangue. A fogueira que ele lembrava como tragédia íntima era também a conclusão de uma caçada continental.
 
-#### Capítulo posterior: O Opus Tertium
+#### Revelação tardia: O Opus Tertium
 
 Os Arquivos Partidos revelam o Officium Chimaerarum. Os humanos não apenas combateram monstros; tentaram fabricar uma terceira natureza controlável. Severin entende que sua existência é a resposta que os experimentos humanos jamais conseguiram produzir.
 
-#### Capítulo posterior: As Fossas da Guerra
+#### Revelação tardia: As Fossas da Guerra
 
 Uma das Foveae Belli começa a acordar. Os reis humanos discutem se devem libertar as quimeras. Alguns acreditam que elas obedecerão aos selos ancestrais. Outros temem que reconheçam todos como inimigos. Nas profundezas, as quimeras sentem a guerra como quem sente o próprio coração voltar a bater.
 
-#### Capítulo final possível: A Sombra Indistinta
+#### Horizonte final: A Sombra Indistinta
 
 A Lua de Sangue e o eclipse deixam de ser eventos separados. A Terra cobre a Lua e a Lua cobre a Terra. Não há mais sombra humana contra sombra monstruosa: há uma única sombra vermelha onde todos os lados adotam o método do extermínio. Severin precisa impedir que a indistinção vire lei final, não provando que um lado é puro, mas recusando a lógica que transforma toda sobrevivência em licença para destruir.
 
@@ -8569,7 +8695,27 @@ Se não encontrar, a Umbra Indistincta não precisará cair do céu.
 
 Já estará praticada na terra.
 
-### 7.18. Momentos de ruptura emocional
+### 7.18. Ordem de revelação por livro
+
+O primeiro livro deve conhecer Severin antes de conhecer o mundo inteiro.
+
+A primeira revelação é corporal: ele morreu, voltou errado e seu sangue responde a coisas que sua mente não entende. A segunda é social: o Ofício não caça apenas monstros, mas organiza pessoas em categorias que matam antes da lâmina. A terceira é moral: salvar alguém com Sangue Fundador não devolve simplesmente vida; cria vínculo, dívida e Eco. A quarta é política: onde Severin tenta fugir, outros começam a tratá-lo como fonte, risco ou soberano.
+
+No primeiro livro, a história antiga deve aparecer como ruína, gesto, sonho e fragmento. O leitor pode ouvir Vaelrûn antes de compreendê-lo. Pode ver símbolos lunares antes de saber o Pentaculum. Pode temer a Mortalha Branca antes de conhecer seus cadernos. O foco permanece em Veyr, Arveth, Caer Sângelună, Caldrava, Mara, Nerissa, Valerian Ors, Odrávia Dornacht e a primeira formação dos Nomes Reivindicados.
+
+O segundo livro abre os cofres.
+
+A Sombra Branca, os Arquivos Partidos, a Ordem Branca, o Ritus Coronae Sepultae, Aureliana Valcár, Elyr Morvhan e o Officium Chimaerarum passam do rumor à prova. Severin deixa de ser apenas causa perseguida e torna-se objeto estratégico. Humanos tentam capturá-lo para ler a guerra antiga. Vampiros tentam purgá-lo para restaurar a coroa. Quimeras começam a reconhecer nele a síntese que lhes foi negada.
+
+O terceiro livro transforma refúgio em instituição.
+
+A Mesa dos Nomes, o Livro da Mancha, a Tesouraria dos Nomes, a Lei do Intervalo, a Trava do Fundador e a Regência de Intervalo surgem quando Severin descobre que não basta salvar corpos. Toda salvação continuada exige pão, regra, arquivo, punição, limite, auditoria e a possibilidade de dizer não ao próprio rei. A ameaça deixa de ser apenas externa. O reino nascente pode repetir o Ofício com outra cor se não aprender a julgar a si mesmo.
+
+O horizonte final pertence à Umbra Indistincta.
+
+Quando humanos, vampiros, demônios, quimeras, portadores e mortos adotarem o mesmo método de extermínio em nome da sobrevivência, a palavra monstro deixará de indicar natureza e passará a indicar procedimento. Severin só poderá impedir esse fim se provar, não por discurso, mas por lei viva, que quebrar categorias antigas não obriga o mundo a perder todo discernimento.
+
+### 7.19. Momentos de ruptura emocional
 
 #### O primeiro controle falho
 
@@ -8666,7 +8812,7 @@ Uma criatura antiga ajoelha-se sob correntes de sentença. Os reis querem termin
 
 > “A coroa que condenou sem ouvir não fala por mim.”
 
-#### O Tribunal das Cinzas
+#### O falso Tribunal das Cinzas
 
 O Ofício abre diante dele o relicário da casa queimada. Cinzas, botões, tecido, osso pequeno. Depois apresenta a Testemunha da Fogueira. Severin não sabe se a mentira é mentira suficiente. Precisa suportar a acusação sem violar o sangue dela para arrancar certeza.
 
@@ -8702,7 +8848,7 @@ Mais adiante, Severin encara os reis em um espaço interno feito de trono, ossos
 
 Severin envia o próprio sangue para dentro de alguém à beira da morte. O sangue entra como fio escuro, costura o que se rompeu, empurra veneno para fora e retorna pela ferida como se nunca tivesse pretendido ficar. A pessoa vive. Mas, dias depois, ouve nos sonhos o eco de um coração que não é o seu. A cura não deixou sangue fundador. Deixou passagem.
 
-#### A Maré de Retorno
+#### A primeira Maré de Retorno
 
 Após uma guerra, Severin para no centro do campo. Está ferido demais para continuar de pé, mas seu coração começa a bater como tambor subterrâneo. O sangue espalhado por barro, aço, pano, relva e ossos estremecem. Depois voltam. Não em beleza, mas em reivindicação. Cada gota traz o que tocou: ferrugem, lama, medo, calor de morte. O corpo de Severin se recompõe e treme, salvo pelo mesmo horror que o torna impossível.
 
@@ -9777,7 +9923,7 @@ Pequeno sino usado por linhageiros treinados para quebrar a cadência de palavra
 
 Rito de manipulação traumática. Mistura restos reais de uma purificação — cinza, madeira, ossos, tecido, metal doméstico — com documentos falsos e testemunhos repetidos. Não inventa lembrança do nada. Contamina lembranças existentes, confiando que a culpa complete a mentira.
 
-#### O Tribunal das Cinzas
+#### Rito do Tribunal das Cinzas
 
 Encenação pública do Ofício para transformar luto em prova de instabilidade. Relicários de família, autos de purificação, testemunhas treinadas e documentos frios são apresentados para provar que a justiça de um sobrevivente é apenas vingança em linguagem nobre.
 
@@ -9787,7 +9933,7 @@ Nome dado por estudiosos, vampiros e hereges a qualquer reverberação do Sangue
 
 O Primeiro Eco ainda lembra a fonte. O Segundo Eco lembra a lembrança. Depois, restam resíduos: corpos sensíveis a ritos, filhos com sonhos de castelo, feridas que fecham errado, sangue que escurece ao ouvir certos nomes. Famílias inteiras podem nascer de um erro desses sem nunca compreender por que sentem saudade de uma ruína.
 
-#### A Maré de Retorno
+#### Regra da Maré de Retorno
 
 Manifestação avançada do domínio sobre o próprio sangue. Quando o Coração Criador chama, todo Sangue Fundador Derramado Livre ainda vinculado a Severin pode regressar ao corpo. Gotas escorrem contra a inclinação, manchas se desprendem de tecido, fios escuros abandonam aço, lama e pedra. O retorno recompõe, mas também cobra. Cada porção traz consigo a impressão do que tocou.
 
