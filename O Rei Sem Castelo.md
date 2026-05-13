@@ -1537,11 +1537,11 @@ Esse horror deve acompanhar cada manifestação. Quanto mais útil for o conheci
 
 ### 31A. A língua traduzida pelo sangue
 
-Os vampiros antigos chamavam a língua de **Rhaevyra**.
+Os vampiros antigos chamavam a língua de **Veyrûm**.
 
-Não era língua de mercado, nem idioma feito para conversa leve entre janelas abertas. Nasceu para nomear, vincular, selar, testemunhar, acusar e pôr sangue dentro da lei. Um camponês tributário podia conhecer palavras soltas. Um servo de câmara podia reconhecer fórmulas de obediência. Um sacerdote de sangue podia lê-la em pedra, pulso e coágulo. Mas a Rhaevyra plena pertencia às cortes, aos pactos, aos arquivos vivos e aos salões onde uma palavra dita de modo correto podia mudar a condição de um corpo.
+Não era língua de mercado, nem idioma feito para conversa leve entre janelas abertas. Nasceu para nomear, vincular, selar, testemunhar, acusar e pôr sangue dentro da lei. Um camponês tributário podia conhecer palavras soltas. Um servo de câmara podia reconhecer fórmulas de obediência. Um sacerdote de sangue podia lê-la em pedra, pulso e coágulo. Mas o Veyrûm pleno pertencia às cortes, aos pactos, aos arquivos vivos e aos salões onde uma palavra dita de modo correto podia mudar a condição de um corpo.
 
-Quando um rei morto atravessa Severin e usa sua boca, a Rhaevyra não retorna intacta.
+Quando um rei morto atravessa Severin e usa sua boca, o Veyrûm não retorna intacto.
 
 Os reis não percebem isso no início. Entram em sua garganta como se entrassem em uma câmara conhecida. Procuram a cadência de decretos, a posição da língua contra os dentes, o peso exato dos nomes verdadeiros, a arrogância tranquila de quem nasceu para ser obedecido. Mas o sangue que sustenta a fala já não é o deles.
 
@@ -9072,21 +9072,21 @@ Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem 
 > **O mundo não precisava amar o monstro que o salvava. Precisava ter o direito de acusá-lo depois.**
 
 
-### 42A. A Rhaevyra
+### 42A. O Veyrûm
 
 A língua antiga dos reis não nasceu para conversar.
 
 Nas aldeias tributárias, humanos ouviam fragmentos dela como se ouvissem metal descendo dentro de um poço. Nas câmaras de pacto, demônios a respondiam com nomes que não possuíam garganta. Nos berçários de Crescoryn, crianças destinadas à guerra aprendiam comandos antes de aprenderem canções. Nos arquivos de Nóvralith, escribas copiavam palavras sem vogal para que apenas o sangue correto pudesse terminá-las. Nos salões de Plenavyr, uma fórmula de doação podia transformar cuidado em tributo. Nas fortalezas de Minguarvex, uma sílaba dita no ponto exato fechava correntes que nem a morte soltava.
 
-Os vampiros a chamavam de **Rhaevyra**.
+Os vampiros chamavam essa língua de **Veyrûm**.
 
-A tradução mais pobre seria “língua das veias”. A mais honesta talvez fosse “fala que corre até coagular”. Nenhuma das duas basta. Rhaevyra não designa apenas som. Designa o trajeto entre voz, traço e sangue; o instante em que uma palavra deixa de ser ar e passa a pesar sobre corpos.
+A tradução mais pobre seria “língua das veias”. A mais honesta talvez fosse “fala que corre até coagular”. Nenhuma das duas basta. Veyrûm não designa apenas som. Designa o trajeto entre voz, traço e sangue; o instante em que uma palavra deixa de ser ar e passa a pesar sobre corpos.
 
-Por isso a Rhaevyra nunca pertenceu totalmente aos poetas, embora pudesse ser bela. Pertencia aos juramentos, às coroações, às condenações, às adoções de sangue, aos pactos demoníacos, aos casamentos entre casas nobres, às declarações de guerra, às dívidas de tributo, aos nomes verdadeiros e aos sepultamentos que não podiam falhar.
+Por isso o Veyrûm nunca pertenceu totalmente aos poetas, embora pudesse ser belo. Pertencia aos juramentos, às coroações, às condenações, às adoções de sangue, aos pactos demoníacos, aos casamentos entre casas nobres, às declarações de guerra, às dívidas de tributo, aos nomes verdadeiros e aos sepultamentos que não podiam falhar.
 
 Na antiga noite, uma pessoa podia falar várias línguas.
 
-Mas só a Rhaevyra podia mudar aquilo que alguém era perante o sangue.
+Mas só o Veyrûm podia mudar aquilo que alguém era perante o sangue.
 
 Sua forma comum era falada por servos, guardas, mensageiros, famílias vassalas e mestiços escondidos. Essa forma comum perdeu complexidade ao longo dos séculos, tornou-se mais aberta, mais rápida, menos perigosa. Sobreviveu em cantigas truncadas, insultos domésticos, nomes de ferramentas, preces de parto, termos de ocultação e palavras que famílias como os Sângelună guardavam sem saber de onde vinham.
 
@@ -9094,13 +9094,13 @@ A forma alta permanecia outra coisa.
 
 Não bastava pronunciar. Era preciso saber qual corpo falava, por qual sangue, diante de quem, em que estado da ferida, sob qual testemunha e com qual consequência. Uma frase correta dita pela boca errada era fraude. Uma frase piedosa dita no aspecto errado podia virar sentença. Um nome incompleto podia deixar alguém preso entre pessoa e arquivo.
 
-A Rhaevyra não perguntava primeiro o que se dizia.
+O Veyrûm não perguntava primeiro o que se dizia.
 
 Perguntava quem sangrava por aquilo.
 
 ### 42B. Os três corpos da palavra
 
-Toda palavra ritual em Rhaevyra possui três corpos.
+Toda palavra ritual em Veyrûm possui três corpos.
 
 O primeiro é a **voz**. Ar, língua, dentes, garganta, pulso. A voz carrega o sentido que pode ser ouvido: nome, verbo, acusação, promessa, pedido, lamento. Sem voz, a palavra não entra no mundo dos vivos.
 
@@ -9112,7 +9112,7 @@ Os antigos resumiam isso em uma fórmula curta:
 
 > A voz abre. O traço lembra. O sangue cobra.
 
-Nem toda frase precisa dos três corpos. Uma mãe pode chamar o filho sem abrir veia. Um servo pode pedir água sem selo. Um soldado pode xingar um capitão sem alterar jurisdição. A Rhaevyra só exige o corpo inteiro da palavra quando a palavra pretende tocar a condição de alguém.
+Nem toda frase precisa dos três corpos. Uma mãe pode chamar o filho sem abrir veia. Um servo pode pedir água sem selo. Um soldado pode xingar um capitão sem alterar jurisdição. O Veyrûm só exige o corpo inteiro da palavra quando a palavra pretende tocar a condição de alguém.
 
 Nomear.
 
@@ -9138,13 +9138,13 @@ Essa tríade explica por que os vampiros puros temiam erros de pronúncia, por q
 
 ### 42C. Os estados do sangue
 
-A Rhaevyra não organiza a ação apenas pelo tempo.
+O Veyrûm não organiza a ação apenas pelo tempo.
 
 Tempo é coisa pobre demais para uma língua criada por seres que atravessavam séculos. O que importava não era somente se algo aconteceu antes, agora ou depois. O que importava era o estado do ato: aberto, fechando, selado, derramado, retornando, misturado, seco, infectado, emprestado.
 
 Cada verbo carrega um estado de sangue. Mudar a vogal de uma raiz pode mudar a condição jurídica daquilo que se diz.
 
-**Rhae**, o corrente, marca aquilo que ainda vive em fluxo. Ação aberta, pacto negociável, ferida ativa, pedido ainda não respondido. Uma promessa em Rhae ainda pode ser interrompida sem quebrar o mundo inteiro. Uma acusação em Rhae ainda pede testemunha.
+**Veyr**, o corrente, marca aquilo que ainda vive em fluxo. Ação aberta, pacto negociável, ferida ativa, pedido ainda não respondido. Uma promessa em Veyr ainda pode ser interrompida sem quebrar o mundo inteiro. Uma acusação em Veyr ainda pede testemunha.
 
 **Khaer**, o coagulante, marca o instante de fechamento. A decisão ainda não endureceu, mas já começou a prender. É o estado de audiências, juramentos em curso, pactos prestes a selar, sentenças que podem ser contestadas apenas antes da última pausa.
 
@@ -9152,29 +9152,29 @@ Cada verbo carrega um estado de sangue. Mudar a vogal de uma raiz pode mudar a c
 
 **Vass**, o derramado, marca perda, acusação e violência. Não é todo sangramento. É sangue tornado argumento. Quando uma frase entra em Vass, ela não diz apenas que houve ferida; exige que alguém responda por ela.
 
-**Rûn**, o retornante, marca restauração, recolhimento, revogação ou soberania de retorno. Era raro na Rhaevyra antiga, quase sempre ligado à recuperação de tributo, retorno de juramento ou chamada de vassalo. Em Severin, Rûn ganha força nova: o sangue que visita e volta, a Maré de Retorno, a sentença que regressa para ser julgada outra vez.
+**Rûn**, o retornante, marca restauração, recolhimento, revogação ou soberania de retorno. Era raro no Veyrûm antigo, quase sempre ligado à recuperação de tributo, retorno de juramento ou chamada de vassalo. Em Severin, Rûn ganha força nova: o sangue que visita e volta, a Maré de Retorno, a sentença que regressa para ser julgada outra vez.
 
 **Mêl**, o misto, marca pacto, casamento, adoção, contaminação, mistura de casas, anexação e vínculo que atravessa fronteira. Na corte antiga, Mêl era tratado com cuidado e desprezo. Servia para alianças controladas, nunca para igualdade. Em Severin, torna-se estado central: ser salvo por ele é muitas vezes entrar em Mêl sem ter pedido.
 
 **Skar**, o seco, marca arquivo, memória morta, lei antiga, testemunho encerrado, sangue que já não pulsa mas continua podendo acusar. A leitura de documentos antigos acontece em Skar. Os Reis Mortos adoram esse estado, porque nele a história parece obedecer sem respirar.
 
-**Naft**, o infecto, marca jurisdição corrompida, falso rito, nome manipulado, sentença contaminada, autoridade que finge validade enquanto espalha doença. O Ofício usa equivalentes próprios para chamar mestiços de infecção. A Rhaevyra mais antiga usava Naft para atos, não para naturezas. Severin precisará restaurar essa diferença.
+**Naft**, o infecto, marca jurisdição corrompida, falso rito, nome manipulado, sentença contaminada, autoridade que finge validade enquanto espalha doença. O Ofício usa equivalentes próprios para chamar mestiços de infecção. O Veyrûm mais antigo usava Naft para atos, não para naturezas. Severin precisará restaurar essa diferença.
 
 **Thren**, o transfundido, marca autoridade emprestada, fala delegada, dívida de sangue, poder recebido de outro corpo. Um servo falando por uma casa usa Thren. Um diplomata vampírico carregando autorização de seu rei usa Thren. Severin, quando permite que Vaelrûn assine por sua garganta, cai no Thren mais perigoso: fala com sangue vivo e vontade morta.
 
 Esses estados não são tempos. São diagnósticos.
 
-Uma criança ainda viva pode estar gramaticalmente em Skar se o Ofício já a transformou em arquivo morto. Um rei morto pode falar em Rhae se sua memória ainda age dentro de um corpo vivo. Um pacto antigo pode parecer Khor, mas revelar Naft quando se descobre que a testemunha foi comprada. Um nome dito em Mêl pode salvar uma pessoa e anexá-la no mesmo golpe.
+Uma criança ainda viva pode estar gramaticalmente em Skar se o Ofício já a transformou em arquivo morto. Um rei morto pode falar em Veyr se sua memória ainda age dentro de um corpo vivo. Um pacto antigo pode parecer Khor, mas revelar Naft quando se descobre que a testemunha foi comprada. Um nome dito em Mêl pode salvar uma pessoa e anexá-la no mesmo golpe.
 
-Por isso a Rhaevyra assusta quem tenta traduzi-la para línguas comuns.
+Por isso o Veyrûm assusta quem tenta traduzi-lo para línguas comuns.
 
-Ela não pergunta apenas quando.
+Ele não pergunta apenas quando.
 
 Pergunta em que estado de sangue a realidade está tentando se tornar lei.
 
 ### 42D. Raiz, osso e vogal
 
-Na escrita antiga, muitas palavras da Rhaevyra eram registradas sem vogais.
+Na escrita antiga, muitas palavras do Veyrûm eram registradas sem vogais.
 
 As consoantes eram chamadas de ossos. Guardavam a forma dura do significado: nome, sangue, selo, ferida, arquivo, pacto, retorno. As vogais eram chamadas de sangue. Entravam entre os ossos e decidiam se a palavra vivia, fechava, acusava, retornava, misturava ou apodrecia.
 
@@ -9182,7 +9182,7 @@ Por isso uma página sem vogais podia ser segura e perigosa ao mesmo tempo. Um e
 
 A raiz **VLN** pertence ao campo do nome, da identidade e da jurisdição.
 
-Em Rhae, torna-se **valan**: nome que ainda vive, nome pronunciado antes da sentença, nome aberto à resposta.
+Em Veyr, torna-se **valan**: nome que ainda vive, nome pronunciado antes da sentença, nome aberto à resposta.
 
 Em Khor, torna-se **vulun**: nome selado, identidade fixada, registro fechado.
 
@@ -9214,7 +9214,7 @@ O mesmo ocorre com outras raízes.
 
 **TNF** carrega transfusão, empréstimo e dependência.
 
-Os vampiros antigos acreditavam que dominar a Rhaevyra era conhecer as vogais corretas para cada osso.
+Os vampiros antigos acreditavam que dominar o Veyrûm era conhecer as vogais corretas para cada osso.
 
 Severin prova algo mais perigoso.
 
@@ -9224,7 +9224,7 @@ Pode sangrar uma nova.
 
 ### 42E. Pronomes de jurisdição
 
-Na Rhaevyra, o pronome não é inocente.
+No Veyrûm, o pronome não é inocente.
 
 Dizer “eu” exige informar de onde vem a autoridade desse eu. Um corpo pode falar por si. Por uma casa. Por uma coroa. Por um arquivo. Por um morto. Por um sangue emprestado. Por um povo anexado. Por uma dor que ainda não recebeu nome.
 
@@ -9238,7 +9238,7 @@ A forma alta nunca aceitou essa simplicidade.
 
 **Korun** é o eu-coroa: falo pela instituição que excede minha pessoa. Reis usavam Korun como veste natural. Em Severin, a forma é veneno doce. Quando diz Korun, a dor particular baixa. A culpa se afasta. A frase deixa de dizer “eu fiz” e passa a dizer “a Coroa determinou”.
 
-**Skaren** é o eu-arquivo: falo como registro, morto, testemunho seco ou representante de documento antigo. O Ofício gosta de imitar essa forma em latim e formulários, mas a Rhaevyra original tratava Skaren com cautela. Arquivo fala. Arquivo não respira.
+**Skaren** é o eu-arquivo: falo como registro, morto, testemunho seco ou representante de documento antigo. O Ofício gosta de imitar essa forma em latim e formulários, mas o Veyrûm original tratava Skaren com cautela. Arquivo fala. Arquivo não respira.
 
 **Threnun** é o eu-delegado: falo por sangue emprestado. Diplomatas, emissários, servos vinculados e pactuários usavam essa forma. Severin a usa quando permite que um rei morto complete sua frase. Cada uso torna mais difícil saber onde termina a delegação e começa a colonização.
 
@@ -9256,7 +9256,7 @@ Quando Vaelrûn sobe pela garganta de Severin, a primeira perda nem sempre é um
 
 ### 42F. Testemunho pelo sangue
 
-A Rhaevyra obriga a verdade a declarar sua origem.
+O Veyrûm obriga a verdade a declarar sua origem.
 
 Não basta dizer “aconteceu”. A língua pergunta: quem viu? Quem sangrou? Que corpo estava presente? Que arquivo preservou? Que mancha permitiu inferir? Que sonho invadiu a testemunha? Que sangue foi usado para validar a fala?
 
@@ -9282,13 +9282,13 @@ Também pode transformar uma criança em arquivo vivo.
 
 Por isso, na lei de Severin, nenhum Ech tem força de sentença enquanto o portador não acordar, disser o próprio nome e consentir em falar.
 
-A Rhaevyra antiga não possuía essa misericórdia.
+O Veyrûm antigo não possuía essa misericórdia.
 
 Precisou de uma criança dizendo “eu não quero sonhar sua casa” para que a língua começasse a aprender.
 
 ### 42G. Voz, pulso e registro
 
-A Rhaevyra não é pronunciada apenas com boca.
+O Veyrûm não é pronunciado apenas com boca.
 
 É pronunciada com pulso.
 
@@ -9314,7 +9314,7 @@ A **voz fundadora** não existia antes de Severin.
 
 Ela não é limpa. Não possui a regularidade dos reis mortos nem a neutralidade de um escriba. Sangra entre registros. Pode começar como testemunho e virar comando. Pode receber uma raiz seca e fazê-la voltar a circular. Pode quebrar a voz régia no meio de uma condenação e obrigar a frase a perguntar aquilo que nunca perguntara.
 
-Para vampiros puros, Severin fala Rhaevyra com erro humano.
+Para vampiros puros, Severin fala Veyrûm com erro humano.
 
 Para o sangue, ele fala com coração novo.
 
@@ -9322,7 +9322,7 @@ Essa é a ofensa.
 
 ### 42H. A Veyrath, escrita das veias
 
-A escrita alta da Rhaevyra chama-se **Veyrath**.
+A escrita alta do Veyrûm chama-se **Veyrath**.
 
 Não se parece com linhas humanas comuns. Não nasceu para atravessar a página como fileiras de soldados. Nasceu de outra lógica: artéria, ramo, capilar, retorno, nó, coágulo, ruptura.
 
@@ -9372,7 +9372,7 @@ Severin rompe o monopólio sem tornar a prática segura.
 
 Quando ele toca uma página, seu Sangue Fundador pode transformar uma marca pequena em evento impossível. Uma gota pode voltar. Um coágulo pode reabrir. Um nome seco pode sangrar outra vez. Uma sentença fechada pode revelar que foi selada sobre silêncio roubado.
 
-A Rhaevyra antiga dizia que sangue validava a palavra.
+O Veyrûm antigo dizia que sangue validava a palavra.
 
 Severin ensina que sangue também pode acusá-la.
 
@@ -9380,15 +9380,15 @@ Severin ensina que sangue também pode acusá-la.
 
 Em línguas comuns, erro de pronúncia pode produzir riso, confusão ou vergonha.
 
-Em Rhaevyra, erro pode produzir outro mundo.
+Em Veyrûm, erro pode produzir outro mundo.
 
-Uma vogal errada muda estado de sangue. Um nome que deveria estar em Rhae pode cair em Khor e ser selado antes de resposta. Uma sentença que deveria acusar em Vass pode entrar em Naft e contaminar a prova. Um pacto que deveria ser Mêl pode virar Thren, transformando vínculo entre iguais em autoridade emprestada. Uma pausa esquecida pode impedir coagulação; uma pausa colocada cedo demais pode cortar defesa.
+Uma vogal errada muda estado de sangue. Um nome que deveria estar em Veyr pode cair em Khor e ser selado antes de resposta. Uma sentença que deveria acusar em Vass pode entrar em Naft e contaminar a prova. Um pacto que deveria ser Mêl pode virar Thren, transformando vínculo entre iguais em autoridade emprestada. Uma pausa esquecida pode impedir coagulação; uma pausa colocada cedo demais pode cortar defesa.
 
 Por isso as cortes antigas treinavam crianças nobres com crueldade. Não para que falassem bonito. Para que nunca deixassem uma palavra escapar viva quando deveria estar morta.
 
 Havia mestres capazes de ouvir a primeira sílaba de um juramento e saber se uma casa pretendia trair outra antes da última gota cair. Havia escribas que enterravam erros deliberados em contratos, esperando que o sangue de um descendente ativasse o estado errado séculos depois. Havia pactos demoníacos construídos em torno de uma única pausa ambígua.
 
-A Rhaevyra não conhece erro inocente em registro alto.
+O Veyrûm não conhece erro inocente em registro alto.
 
 Conhece transformação.
 
@@ -9400,19 +9400,19 @@ O Ofício chama de instabilidade.
 
 A Mesa dos Nomes chamará de precedente.
 
-### 42K. A Rhaevyra e o Ofício
+### 42K. O Veyrûm e o Ofício
 
-Os humanos nunca dominaram a Rhaevyra.
+Os humanos nunca dominaram o Veyrûm.
 
 Dominaram restos.
 
 Durante a última guerra, a Ordem Branca capturou sacerdotes de sangue, escribas vampíricos, servos de arquivo, pactuários menores e documentos arrancados de câmaras que ainda estavam quentes. Aprenderam o bastante para ferir. Não o bastante para compreender.
 
-Converteram raízes em categorias. Vogais em indicadores de risco. Sobremarcas em testes de pureza. Nomes verdadeiros em campos de formulário. Onde a Rhaevyra perguntava estado de sangue, o Ofício escreveu classe. Onde perguntava testemunha, o Ofício escreveu procedência. Onde perguntava vínculo, escreveu contaminação. Onde a língua antiga possuía lugar para pacto, o Ofício viu prova de culpa.
+Converteram raízes em categorias. Vogais em indicadores de risco. Sobremarcas em testes de pureza. Nomes verdadeiros em campos de formulário. Onde o Veyrûm perguntava estado de sangue, o Ofício escreveu classe. Onde perguntava testemunha, o Ofício escreveu procedência. Onde perguntava vínculo, escreveu contaminação. Onde a língua antiga possuía lugar para pacto, o Ofício viu prova de culpa.
 
 Assim nasceu uma linguagem humana de captura.
 
-Não era Rhaevyra. Era sua autópsia administrativa.
+Não era Veyrûm. Era sua autópsia administrativa.
 
 Os linhageiros usam transliterações pobres, mas eficazes. Sabem reconhecer uma raiz de nomeação quando aparece em margem antiga. Sabem que certos círculos abertos indicam pessoa não resolvida. Sabem que uma linha de retorno pode invalidar uma sentença fechada. Sabem o suficiente para temer documentos que ainda não secaram depois de séculos.
 
@@ -9420,31 +9420,31 @@ Também sabem errar.
 
 Chamam Mêl de infecção quando não querem admitir pacto. Chamam Ech de contaminação quando não querem ouvir portador. Chamam Naft de pureza quando a fraude serve à própria jurisdição. Chamam Skar de verdade absoluta porque documentos secos não gritam.
 
-O Analista de Lacunas entende melhor que os inquisidores comuns. Para ele, a Rhaevyra não é superstição. É sistema concorrente de legibilidade. Ele não precisa falar a língua inteira. Basta perceber onde ela impede que o formulário feche.
+O Analista de Lacunas entende melhor que os inquisidores comuns. Para ele, o Veyrûm não é superstição. É sistema concorrente de legibilidade. Ele não precisa falar a língua inteira. Basta perceber onde ela impede que o formulário feche.
 
 Por isso, quando Severin começa a fazer nomes respirarem antes de categorias, o Ofício não vê apenas monstro.
 
 Vê gramática inimiga.
 
-### 42L. A Rhaevyra entre mestiços e escondidos
+### 42L. O Veyrûm entre mestiços e escondidos
 
-Depois da guerra, a Rhaevyra alta tornou-se perigosa demais para sobreviver inteira fora dos arquivos.
+Depois da guerra, o Veyrûm alto tornou-se perigoso demais para sobreviver inteiro fora dos arquivos.
 
 Entre famílias mestiças, restaram pedaços.
 
 Palavras para não sangrar diante de estranhos. Palavras para desacelerar cura. Palavras para chamar uma criança de volta quando ela olhava tempo demais para a Lua. Palavras usadas por parteiras antes de queimar panos. Palavras de carinho que, séculos antes, talvez tivessem sido títulos de vassalagem. Palavras de medo que já foram nomes de ritos.
 
-Os Sângelună talvez não soubessem que falavam restos de Rhaevyra.
+Os Sângelună talvez não soubessem que falavam restos de Veyrûm.
 
 Quando a mãe de Severin murmurava sobre feridas que precisavam parecer humanas, talvez usasse uma palavra antiga para “fechar devagar”. Quando o pai dizia que a casa precisava “esfriar” depois de visita do templo, talvez repetisse um termo de ocultação nascido em Nóvralith. Quando uma irmã provocava Severin por enxergar no escuro, talvez usasse, sem saber, um diminutivo que servos antigos davam a crianças de sangue noturno.
 
 Esse resto doméstico é importante.
 
-Porque Severin não encontra a Rhaevyra apenas nos reis mortos.
+Porque Severin não encontra o Veyrûm apenas nos reis mortos.
 
 Encontra também na cozinha perdida, no quarto do parto, nas advertências do pai, nas palavras que sua família usava para sobreviver sem conhecer sua própria antiguidade. Os reis lhe dão a língua como coroa. A família lhe deixou a língua como esconderijo.
 
-Quando as duas camadas se encontram em sua boca, a Rhaevyra deixa de pertencer apenas à velha noite.
+Quando as duas camadas se encontram em sua boca, o Veyrûm deixa de pertencer apenas à velha noite.
 
 Passa a carregar cinza de casa humana.
 
@@ -9452,19 +9452,19 @@ Passa a carregar cinza de casa humana.
 
 A Fala Fundadora não é outro idioma.
 
-É a Rhaevyra atravessada por Sangue Fundador.
+É o Veyrûm atravessado por Sangue Fundador.
 
 Antes de Severin, a língua conhecia hierarquia. Sabia fazer casas obedecerem. Sabia distinguir senhor, vassalo, fonte, tributo, morto, pacto, prisioneiro, arquivo, bastardo, inimigo. Sabia fechar. Sabia preservar. Sabia condenar. Sabia transformar sangue em forma de Estado.
 
 Não sabia o que fazer com uma soberania que nascia da mistura que a língua chamaria de erro.
 
-Quando Severin fala, a Rhaevyra encontra um corpo que não aceita suas categorias antigas sem luta. A raiz real desce pelos ossos dos reis, mas encontra culpa sobrevivente. A vogal de selo encontra memória de uma casa queimada por formulário. A voz régia tenta fechar, mas o sangue humano exige nome antes de categoria. O estado seco tenta citar a lei morta, mas o Coração Criador chama retorno.
+Quando Severin fala, o Veyrûm encontra um corpo que não aceita suas categorias antigas sem luta. A raiz real desce pelos ossos dos reis, mas encontra culpa sobrevivente. A vogal de selo encontra memória de uma casa queimada por formulário. A voz régia tenta fechar, mas o sangue humano exige nome antes de categoria. O estado seco tenta citar a lei morta, mas o Coração Criador chama retorno.
 
 Por isso a Fala Fundadora produz efeitos que os antigos considerariam impossíveis.
 
 Uma sentença em Khor pode ser puxada para Rûn se o sangue de Severin encontrar testemunha apagada.
 
-Um nome em Skar pode voltar a Rhae se ainda houver alguém vivo capaz de responder por ele.
+Um nome em Skar pode voltar a Veyr se ainda houver alguém vivo capaz de responder por ele.
 
 Um pacto em Mêl pode revelar se foi vínculo ou prisão.
 
@@ -9484,9 +9484,9 @@ Uma língua que pode reabrir sentenças injustas também pode abrir corpos demai
 
 ### 42N. Fórmulas, fragmentos e frases de sangue
 
-A Rhaevyra preserva fórmulas antigas, mas nenhuma fórmula permanece inocente depois de atravessar Severin.
+O Veyrûm preserva fórmulas antigas, mas nenhuma fórmula permanece inocente depois de atravessar Severin.
 
-**Valan rhae.**
+**Valan veyr.**
 
 O nome corre.
 
@@ -9502,7 +9502,7 @@ Entre vampiros antigos, marcava o encerramento de depoimento. Depois dela, negar
 
 A ferida infere.
 
-Expressão de campo para acusação sem testemunha direta, baseada em mancha, padrão, ausência e corpo encontrado. O Analista de Lacunas a usaria com prazer se falasse Rhaevyra sem desprezo.
+Expressão de campo para acusação sem testemunha direta, baseada em mancha, padrão, ausência e corpo encontrado. O Analista de Lacunas a usaria com prazer se falasse Veyrûm sem desprezo.
 
 **Mêl krava.**
 
@@ -9528,7 +9528,7 @@ Eu testemunho. Meu sangue responde. A Coroa espera.
 
 Essa tríade nasce depois da Mesa. Não vem dos reis. É fórmula de contenção: antes que Severin fale como Korun, deve haver On; antes que o sangue responda, deve haver testemunho; antes que a Coroa decida, deve haver intervalo.
 
-A frase mais importante da nova Rhaevyra talvez ainda não exista no começo da história.
+A frase mais importante do novo Veyrûm talvez ainda não exista no começo da história.
 
 Será escrita quando os anexados entenderem que podem falar dentro da jurisdição que os possui:
 
