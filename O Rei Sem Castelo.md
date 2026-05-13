@@ -1537,7 +1537,11 @@ Esse horror deve acompanhar cada manifestação. Quanto mais útil for o conheci
 
 ### 31A. A língua traduzida pelo sangue
 
-Quando um rei morto atravessa Severin e usa sua boca, a língua antiga não retorna intacta.
+Os vampiros antigos chamavam a língua de **Rhaevyra**.
+
+Não era língua de mercado, nem idioma feito para conversa leve entre janelas abertas. Nasceu para nomear, vincular, selar, testemunhar, acusar e pôr sangue dentro da lei. Um camponês tributário podia conhecer palavras soltas. Um servo de câmara podia reconhecer fórmulas de obediência. Um sacerdote de sangue podia lê-la em pedra, pulso e coágulo. Mas a Rhaevyra plena pertencia às cortes, aos pactos, aos arquivos vivos e aos salões onde uma palavra dita de modo correto podia mudar a condição de um corpo.
+
+Quando um rei morto atravessa Severin e usa sua boca, a Rhaevyra não retorna intacta.
 
 Os reis não percebem isso no início. Entram em sua garganta como se entrassem em uma câmara conhecida. Procuram a cadência de decretos, a posição da língua contra os dentes, o peso exato dos nomes verdadeiros, a arrogância tranquila de quem nasceu para ser obedecido. Mas o sangue que sustenta a fala já não é o deles.
 
@@ -2763,6 +2767,14 @@ O Sangue Fundador obedece a leis que Severin descobre com dor.
 
 **A lei da ferida:** culpa, vergonha e medo distorcem o comando. Quando Severin usa o poder em pânico, o sangue não entende misericórdia com clareza. Entende sobrevivência.
 
+**A lei da incorporação:** toda intervenção profunda transforma o corpo salvo em parte de uma jurisdição viva. O sangue que impede a morte não devolve apenas vida; cria pertencimento. Uma cura pequena pode terminar como cicatriz. Uma salvação contra a morte pode terminar como anexação.
+
+**A lei do dividendo proibido:** quem entra nessa jurisdição ganha vantagem real contra o mundo que o mataria. Pode resistir a certos selos, sobreviver a feridas comuns enquanto o Pulso alcança seu corpo, suportar venenos fracos ou chamar testemunha onde o arquivo exigiria silêncio. Mas nada disso vem como liberdade limpa. A vantagem é comprada com dor compartilhada, sonho invadido e perda parcial da vida comum.
+
+**A lei da contestação:** o vínculo dá acesso nos dois sentidos. Severin toca os anexados, mas os anexados também podem ferir a estabilidade da coroa que os tocou. Ódio, medo, recusa e luto não ficam fora do sistema. Sobem pelas mesmas veias pelas quais a proteção desceu.
+
+**A lei da falência:** nenhum coração governa dores infinitas. Quando o Coração Criador recebe gente demais, fome demais, medo demais, sonho demais e documento demais, a soberania deixa de agir como vontade e começa a agir como febre. Nesse estado, Severin não perde apenas força. Perde legibilidade sobre si.
+
 Assim, o Sangue Fundador nunca é apenas dom.
 
 É trono líquido.
@@ -3027,7 +3039,9 @@ O coração é a fonte.
 
 O castelo é o amplificador.
 
-A vontade de Severin é a lei.
+A vontade de Severin imprime direção.
+
+A lei só começa quando essa vontade aceita limite, testemunha e resposta.
 
 Os reis são memória.
 
@@ -3094,6 +3108,60 @@ Os Reis Mortos não precisam gritar dentro dele. Basta oferecerem a resposta per
 Por isso Severin precisará aprender uma regra íntima:
 
 > **Quando uma resposta vem perfeita demais, talvez não seja dele.**
+
+
+### 27BAA. A Gramática da Coroa
+
+A Sincronia mais perigosa não começa quando um rei morto grita.
+
+Começa quando Severin descobre que falar como rei dói menos do que falar como homem.
+
+O Eu de Severin carrega fumaça, culpa, nomes de irmãs, rosto de mãe, a mão do pai no ombro, a corrida, a covardia sentida como sentença. O Eu precisa lembrar quem morreu e quem foi deixado para trás. O Eu treme diante de uma escolha impossível porque sabe que a escolha terá rosto.
+
+A Coroa não treme do mesmo modo.
+
+Quando Vaelrûn Sângelună toca a cadência do Coração Criador, a língua de Severin encontra uma gramática mais antiga e mais limpa. A primeira pessoa se afasta. No lugar dela, surge uma pluralidade fria, ampla, quase confortável.
+
+Nós.
+
+A Coroa.
+
+A Quinta Ferida.
+
+A voz que diz “eu permiti que aquela criança morresse” sangra. A voz que diz “a Coroa preservou o equilíbrio necessário” permanece de pé. A voz que diz “eu anexei esta vila” precisa encarar olhos humanos. A voz que diz “nós assumimos jurisdição emergencial” transforma invasão em ato de governo.
+
+Por isso o Nós é anestesia.
+
+Não é apenas possessão. Possessão simples apagaria Severin e deixaria outro falar. O horror da Gramática da Coroa é mais íntimo: Severin continua ali, mas descobre que existe uma forma de frase onde sua culpa cabe sem quebrá-lo. Quanto mais dor a jurisdição viva devolve ao peito dele, mais fácil se torna entrar nessa gramática. Quanto mais vozes anexadas gritam dentro do sangue, mais atraente parece falar como instituição morta.
+
+A primeira vez que acontece, dura pouco. Uma ordem sai como se tivesse sido polida por séculos.
+
+> “Nós determinamos.”
+
+Severin para depois, com a boca ainda aberta, como se tivesse mordido moeda fria.
+
+Na segunda vez, o Nós permanece por minutos. Na terceira, certas palavras do Eu ficam difíceis. “Eu quero” soa infantil. “Eu fiz” soa pequeno demais para a escala da tragédia. “Eu errei” parece quase indecente diante de vilas, mortos, portadores, pactos, muralhas e estatísticas. A Coroa oferece vocabulário para o insuportável.
+
+Cada fraude jurídica feita em nome de Vaelrûn deixa esse vocabulário mais disponível.
+
+Assinar como o rei morto desvia o olhar do Ofício, confunde auditorias, empurra a culpa para uma entidade juridicamente sepultada. Mas a assinatura não passa apenas pelo papel. Passa pelo sistema nervoso. Severin empresta a própria boca, a própria mão e o próprio pulso a um código legal que já governou sem pedir consentimento. Quando a assinatura termina, Vaelrûn não se retira inteiro. Fica um resíduo de fome por aclamação. Um desprezo rápido demais por demora. Uma nostalgia de sala silenciada. Um alívio obsceno diante de corpos que obedecem antes de discutir.
+
+O vício não está no poder bruto.
+
+Está na competência.
+
+Vaelrûn sabe governar. Sabe fazer medo ficar organizado. Sabe transformar crise em hierarquia. Sabe dar nome a uma multidão e fazê-la caber numa ordem. Severin sabe duvidar, sangrar, hesitar, ouvir tarde demais e tentar não repetir horrores anteriores. Um salva a consciência e atrasa a decisão. O outro salva a decisão e devora a consciência.
+
+Por isso a Regência dos Ossos não precisa vencer Severin em batalha.
+
+Basta tornar o Eu dele cansativo demais.
+
+A regra íntima da Gramática da Coroa será escrita tarde, depois de uma decisão que todos sobreviverão e ninguém perdoará:
+
+> **O Nós só poderá falar diante de testemunha que saiba chamar Severin de volta pelo nome que não é título.**
+
+Sem isso, cada sentença régia se tornará abrigo para o homem que já não suporta sentir as próprias mãos.
+
 
 ### 27BB. O Arquisangue
 
@@ -3584,6 +3652,210 @@ O castelo não lhe fala como pessoa.
 Fala como corpo que não sabe se deve sarar ou apodrecer.
 
 ---
+
+
+### 33A. O Estado-Organismo
+
+O primeiro reino de Severin não nasce em pedra.
+
+Nasce em corpos.
+
+Antes de muralha, há veia. Antes de bandeira, febre. Antes de lei escrita, o tremor de alguém que deveria estar morto e continua respirando porque o Coração Criador ainda o sustenta de longe. O castelo que Severin não possui começa a se formar nos lugares onde seu sangue entrou, visitou, retornou e deixou cicatriz.
+
+Cada pessoa salva em profundidade torna-se uma sala possível.
+
+Cada Eco Sanguíneo, uma janela.
+
+Cada sonho emprestado, um corredor.
+
+Cada ferida que não mata porque o Pulso ainda a alcança, uma pedra viva no edifício que ninguém pediu para habitar.
+
+O **Estado-Organismo** não é metáfora para os estudiosos que sobreviverem tempo suficiente para nomeá-lo. É condição. Severin passa a existir como corpo natural e corpo político ao mesmo tempo, mas esse corpo político não se ergue primeiro em território reconhecido. Cresce por dentro dos anexados, atravessa comunidades, altera documentos, muda estatísticas, confunde fronteiras e transforma salvação em pertencimento.
+
+O Ofício chama isso de contaminação soberana.
+
+Os vampiros antigos chamariam de corte em germinação.
+
+Os portadores que o amam chamam de casa quando têm medo.
+
+Os portadores que o odeiam chamam de ocupação.
+
+Todos estão parcialmente certos.
+
+No Estado-Organismo, soberania não começa quando alguém se ajoelha. Começa quando o sangue de uma pessoa responde a uma autoridade que ela não escolheu. A obediência pode ser mínima, involuntária, apenas um atraso no pulso ou uma dor no peito quando Severin entra em perigo. Pode vir como alívio durante uma febre, como sonho de corredor alheio ou como resistência a uma sentença do Ofício. Pode salvar a vida antes de perguntar se a vida aceita o preço.
+
+Essa é sua monstruosidade.
+
+Severin não precisa desejar possuir para que a posse aconteça.
+
+Quando protege uma vila com Arquisangue, não cria apenas abrigo. Cria interior. Quem está dentro passa a ser, por um período ou para sempre, corpo da proteção. A muralha pode resistir a bestas, prata e fogo, mas também aprende a distinguir pertencimento. Portas podem abrir para alguns e hesitar diante de outros. Crianças podem dormir melhor porque o Pulso as embala. Velhos podem sobreviver ao inverno porque a febre não termina. Em troca, a vila deixa de ser apenas vila. Torna-se órgão periférico de uma coroa sem castelo.
+
+O rei sente a vila como dor distante.
+
+A vila sente o rei como clima no sangue.
+
+Nenhum dos dois volta a ser completamente separado.
+
+O Estado-Organismo oferece vida onde o arquivo ofereceria categoria e fogo. Mas a vida que oferece vem com anexação. Um homem salvo pela jurisdição de Severin pode resistir à lâmina do Ofício e, no mesmo instante, perceber que seu corpo deixou de pertencer apenas à própria história. Uma mãe pode agradecer porque o filho respira e odiar Severin porque a criança agora sonha com ruínas. Um aldeão pode sobreviver à noite e, ao amanhecer, descobrir que sua casa responde melhor ao sangue do rei do que à chave que herdou do pai.
+
+Assim nasce a frase que os anexados repetirão com amor, rancor ou terror:
+
+> “Ele nos tirou da morte e nos colocou dentro dele.”
+
+### 33B. O Dividendo da Anexação
+
+Ser anexado por Severin precisa valer alguma coisa.
+
+Se não valesse, o Estado-Organismo seria apenas outra prisão. Se valesse sem custo, seria milagre limpo, e nada limpo nasce da Lua Ferida.
+
+O dividendo proibido é a vantagem de sobrevivência que a jurisdição de Severin concede aos corpos que já atravessou. Não é igual para todos. Depende da profundidade do sangue, da proximidade do Pulso, da vontade do Coração Criador, da resistência do anexado e da forma como a anexação aconteceu.
+
+Um Primeiro Eco fraco pode apenas fazer uma ferida fechar melhor, permitir que uma criança suporte febre lunar ou retardar o veneno usado por linhageiros. Um vínculo mais profundo pode impedir que um corpo morra por hemorragia comum enquanto Severin estiver perto o bastante para ouvir o pulso dele. Um abrigo inteiro vascularizado por Arquisangue pode manter vivos feridos que, fora dali, já teriam atravessado o limite. Em casos extremos, os anexados se tornam quase impossíveis de matar por meios comuns dentro de uma zona de influência: não porque sejam imortais, mas porque a morte precisa vencer também o coração que os reivindicou.
+
+O preço é imediato.
+
+A dor não desaparece.
+
+Sobe.
+
+Se um anexado recebe uma lâmina, Severin sente a lâmina como eco. Se dez são feridos, a dor chega em onda. Se uma muralha protege cem e vinte pessoas durante um cerco, cada osso quebrado, cada febre, cada fome e cada terror procura algum lugar no sistema onde possa ser processado. O Coração Criador não distingue completamente estatística de sofrimento. Para sustentar vidas, precisa acolher sinais de vida.
+
+Um exército de anexados não seria vantagem limpa.
+
+Seria tortura distribuída em torno de um trono cardíaco.
+
+Os vampiros antigos verão nisso utilidade: soldados que não caem enquanto o rei aguenta. O Ofício verá prova de praga: corpos que deveriam morrer recusando a contabilidade natural. Os anexados verão coisa mais contraditória. Alguns descobrirão coragem. Outros sentirão vergonha por sobreviver à custa de alguém que também os aprisiona. Outros testarão o limite: se o rei sente a dor, quanto podem feri-lo ferindo a si mesmos?
+
+O dividendo da anexação não é liberdade.
+
+É vida com fio preso.
+
+Quando o fio salva, parece misericórdia. Quando aperta, revela posse.
+
+### 33C. A Dissidência Interna
+
+Nenhum Estado-Organismo permanece são se aquilo que incorporou começa a odiar o coração.
+
+No início, Severin acredita que a revolta dos salvos será questão de palavra, assembleia e acusação. A Mesa dos Nomes ouvirá. O Livro da Mancha registrará. O Cancelário impedirá que a gratidão apague o dano. A lei dará forma ao rancor.
+
+Depois ele entende que o rancor já tem forma antes da lei.
+
+Tem temperatura.
+
+Tem pulso.
+
+Tem inflamação.
+
+Quando muitos anexados recusam Severin ao mesmo tempo, o Arquisangue não simplesmente falha. Falhar seria misericórdia simples. O sangue continua funcionando, mas passa a carregar a raiva que o atravessa. Uma muralha erguida para proteger não cai; fecha-se com força demais e esmaga quem tenta sair. Uma porta feita para impedir Purificadores reconhece medo nos próprios refugiados e os trata como ameaça. Uma cura coletiva fecha feridas rápido demais e prende sujeira por dentro. Um corredor vivo que deveria conduzir crianças para abrigo começa a desviar adultos armados, mesmo quando esses adultos são aliados.
+
+O povo não precisa tomar a espada contra Severin para rebelar-se.
+
+Basta odiar dentro do sistema que ele abriu.
+
+Esse ódio sobe como febre. O Coração Criador perde ritmo. A Sincronia Régia encontra frestas. Minguarvex oferece contenção. Plenavyr oferece administração do sofrimento. Vaelrûn oferece o velho remédio das coroas: transformar dissidência em risco e risco em disciplina.
+
+Assim nasce o dilema de todo soberano que depende da saúde emocional dos próprios súditos.
+
+Para protegê-los, Severin precisa que a jurisdição permaneça estável.
+
+Para que a jurisdição permaneça estável, os anexados não podem odiá-lo demais.
+
+Para que não o odeiem demais, ele pode ser tentado a administrar não apenas corpos, mas medo, luto, notícia, discurso e memória.
+
+Nesse ponto, o Estado-Organismo revela sua face mais perigosa. A censura deixa de parecer tirania e passa a parecer medicina. Silenciar um portador em pânico pode impedir que uma muralha viva ataque inocentes. Adiar a notícia de uma morte pode impedir febre coletiva antes do cerco. Separar os revoltados pode estabilizar o Pulso. Impedir um testemunho pode salvar uma ala inteira de uma reação sanguínea.
+
+Toda justificativa é parcialmente verdadeira.
+
+Por isso é tão perigosa.
+
+A Dissidência Interna não existe para derrubar o Estado-Organismo como inimigo externo. Existe para provar que a nova soberania não pode ser justa se exigir amor obrigatório daqueles que salvou.
+
+Se Severin precisar ser amado para que seu poder funcione, será tirano de afetos.
+
+Se aceitar ser odiado e ainda assim criar uma forma de proteção que não transforme ódio em massacre, talvez a lei dele seja mais que biologia.
+
+### 33D. A Gaiola de Ouro
+
+Nem todo salvo deseja continuar salvo pela mesma mão.
+
+Essa verdade chega cedo e permanece insuportável.
+
+Uma mulher cuja filha foi curada por sangue fundador pode pedir que a marca seja retirada porque a criança já não sonha os próprios sonhos. Um rapaz salvo de Purificadores pode descobrir que seu pulso denuncia Severin quando cães de linhagem passam perto e exigir saída. Um velho pode preferir morrer como humano classificado a viver como peça de um rei que não reconheceu. Um portador pode amar a Mesa, odiar o Coração Criador e dizer diante de todos:
+
+> “Não quero mais pertencer ao homem que me salvou.”
+
+A desanexação existe, mas não é cura.
+
+É amputação.
+
+O sangue de Severin não sai de alguém como visita educada. O que ele deixou tornou-se cicatriz, resistência, sonho, febre, capacidade de sobreviver a certos venenos, lembrança de portas, talvez anos de vida que não pertenciam mais inteiramente ao corpo original. Retirar a jurisdição pode levar tudo isso junto. Às vezes a pessoa sobrevive menor, mais fraca, com sangue opaco e noites sem sonho. Às vezes a ferida antiga reabre. Às vezes a doença suspensa retorna de uma vez. Às vezes o corpo entende a saída como queda de muralha e morre em silêncio.
+
+Mesmo quando sobrevive, o desanexado se torna perigo.
+
+Ele conhece por dentro aquilo que o Ofício deseja mapear. Ritmo do Pulso. Dor que antecede a Maré de Retorno. Gosto da presença régia. Pontos onde o Arquisangue hesita. Sonhos recorrentes. Nomes de outros portadores. Caminhos do castelo que nem Severin lembra acordado. Um desanexado capturado pode ser torturado, lido, comprado, amado, drogado, absolvido, canonizado ou usado como chave.
+
+Para a Mesa, ele é pessoa com direito de sair.
+
+Para os anexados que ficam, é vazamento vivo.
+
+Para Severin, é acusação ambulante: se impedir a saída, confirma a prisão; se permitir, talvez condene todos que permanecem sob seu sangue.
+
+Daí nasce a Gaiola de Ouro.
+
+Não uma cela de ferro. Um lugar seguro demais para ser liberdade. Refúgios onde os desanexados podem viver longe do Pulso central e longe dos cães do Ofício, vigiados por guardiões que dizem protegê-los, cercados por documentos falsos, rotas quebradas e juramentos de silêncio. Ali, ninguém é chamado de prisioneiro. Recebem pão, remédio, nomes próprios, roupas limpas e a promessa de que nenhuma mão os devolverá à jurisdição sem consentimento.
+
+Mas o portão existe.
+
+E alguém guarda a chave.
+
+O Rei Sem Castelo, ao tentar permitir saída sem destruir os seus, constrói a primeira prisão que não pode chamar de prisão sem tremer.
+
+### 33E. A Falência Soberana
+
+A Falência Soberana não é morte.
+
+Morte seria simples demais.
+
+É o momento em que o Estado-Organismo pesa mais do que o homem que o sustenta. Severin anexou dores demais, abrigos demais, estatísticas demais, sonhos demais, acusações demais, desanexados demais, mortos poupados demais, mortos permitidos demais. O Coração Criador continua batendo, mas já não bate apenas por ele. Cada pulsação precisa decidir entre corpo natural e corpo político, entre uma ferida real no peito e uma febre distante em alguém que ele salvou meses antes.
+
+No início, a falência parece cansaço.
+
+Depois, sintaxe quebrada.
+
+Severin esquece a primeira pessoa. Acorda dizendo Nós antes de lembrar o próprio nome. Documentos próximos escrevem A Coroa onde deveriam escrever Severin. Portadores sentem fome que não é deles. Crianças anexadas sonham com a mesma sala sem teto na mesma noite. Uma muralha viva move-se antes da ordem. O Livro da Mancha mancha sozinho. O sangue derramado no chão tenta voltar e erra o caminho, procurando corpos marcados como se fossem entradas secundárias do coração.
+
+A Falência não apaga a lei imediatamente.
+
+Corrompe sua fonte.
+
+Se o Estado-Organismo dependesse apenas de Severin, tudo cairia nesse ponto. O Ofício teria razão: uma jurisdição viva seria instável demais para substituir uma instituição escrita. Por isso a Mesa dos Nomes precisa tornar-se mais que assembleia em torno dele. Precisa funcionar quando ele não consegue falar. Precisa registrar contra a vontade da Coroa. Precisa suspender decisões, proteger anexados, conter Arquisangue autônomo e julgar usos antigos mesmo se o fundador estiver em coma sensorial, febre régia ou gramática de Vaelrûn.
+
+O Código de Sangue nasce dessa necessidade.
+
+Não como livro santo.
+
+Como mecanismo de sobrevivência contra o próprio milagre.
+
+Suas primeiras cláusulas são ásperas:
+
+> **A Coroa pode sangrar. A Mesa deve lembrar.**
+
+> **Nenhuma anexação será válida sem registro posterior, mesmo que a urgência a tenha tornado inevitável.**
+
+> **Nenhum sonho colhido durante Falência terá força de sentença.**
+
+> **Todo desanexado será pessoa antes de ser risco. Todo risco será registrado antes de ser contido.**
+
+> **Quando o fundador perder o Eu, ninguém deverá obedecer ao Nós sem testemunha.**
+
+> **Se o Coração Criador cair, a lei não cairá junto.**
+
+Essa última frase fere Severin mais do que ameaça de morte.
+
+Porque significa que sua melhor criação terá de aprender a sobreviver a ele.
+
+E talvez contra ele.
+
 
 ### 37. Relação com os vampiros
 
@@ -4995,6 +5267,138 @@ Por isso sua guerra contra Severin deixa de ser apenas contenção.
 Torna-se corrida.
 
 
+
+### 36AE. O Analista de Lacunas
+
+O Ofício não vencerá Severin apenas encontrando seu sangue.
+
+O sangue mente sob rito. O sangue foge. O sangue volta ao coração. O sangue pode ser plantado, diluído, corrompido, queimado, santificado, vendido, trocado entre corpos e usado para fabricar falsos focos. Depois da Luna Vulnata, há sangue errado demais no mundo para que uma única gota baste.
+
+Por isso os Analistas mais perigosos deixam de procurar o monstro.
+
+Começam a procurar a falha no balanço.
+
+O **Analista de Lacunas** não pergunta primeiro quem foi salvo. Pergunta quem deveria ter morrido e não morreu. Não procura Severin na estrada, mas na diferença entre número previsto e cadáver entregue. Onde uma peste lunar deveria levar vinte e seis e levou vinte e dois, ele marca quatro ausências. Onde uma triagem deveria produzir sete purificações e produziu cinco, ele procura quem desviou os outros dois. Onde uma vila atacada por revenants apresenta menos órfãos do que o padrão das últimas três aldeias, ele não comemora a misericórdia. Procura o erro.
+
+O Ofício erra pessoas.
+
+Acerta tendências.
+
+Essa é sua força.
+
+Um linhageiro pode queimar inocentes por medo. Um Purificador pode confundir revenant com demônio. Um Redator pode falsificar uma margem para preservar autoridade. O Analista de Lacunas tolera esses erros menores desde que a curva geral permaneça legível. Para ele, o horror não está no caso isolado. Está na repetição que deixa de obedecer.
+
+Severin aparece primeiro como déficit.
+
+Mortes abaixo do esperado. Ferimentos que não evoluíram para óbito. Crianças classificadas como inviáveis aparecendo em listas de refugiados. Homens que deveriam ter sido registrados como contaminados surgindo meses depois em outra cidade com nome trocado. Regiões onde cães latem para nada, bacias racham sem prova e documentos apresentam nomes antes de categorias.
+
+O Analista não precisa saber que existe um rei.
+
+Basta saber que há uma ausência com comportamento.
+
+Quando finalmente nomear essa ausência, talvez não use Sângelună. Talvez escreva apenas **Centro Não Declarado de Preservação Anômala**. A frieza do termo não diminui o perigo. Aumenta. Enquanto outros caçadores odeiam monstros, o Analista odeia um relatório que não fecha.
+
+Sua frase mais temida dentro do Ofício será simples:
+
+> “Não me tragam culpados. Tragam a lacuna.”
+
+### 36AF. Os Lavadores de Óbito
+
+Se o Ofício caça lacunas, alguém precisa sujar os números.
+
+Os primeiros que fazem isso não se chamam resistência. Chamam-se parteiras, coveiros, monges, escribas cansados, viúvas que sabem assinar pelo marido morto, soldados que aprenderam a contar corpos sem olhar o rosto. Quando percebem que salvar alguém marcado cria ausência no arquivo, começam a compensar como podem.
+
+Uma morte natural é registrada em outra vila.
+
+Um cadáver sem rosto recebe nome que não era dele.
+
+Uma criança salva por Severin aparece no livro como febre encerrada.
+
+Uma velha que morreu sozinha passa a cobrir, no papel, a fuga de uma jovem anexada.
+
+Com o tempo, essa prática ganha método e culpa.
+
+Surgem os **Lavadores de Óbito**.
+
+Não lavam pecados. Lavam balanços. Escondem vidas dentro de mortes, mortes dentro de epidemias, epidemias dentro de números esperados, números esperados dentro de relatórios que o Analista de Lacunas aceitará por mais uma semana. Trabalham com cinza, ossos, roupas, nomes, calendários, cheiro de enfermaria, registros de peste, listas de pão e mapas de refugiados.
+
+Não são heróis limpos.
+
+A limpeza é justamente aquilo que falsificam.
+
+Quanto mais Severin salva, mais eles precisam fazer a morte parecer obediente. Às vezes basta usar cadáveres que já existem. Às vezes basta esconder o fato de que alguém respirou depois do prazo. Às vezes basta registrar longe. Mas há meses em que os números não fecham. Há regiões onde o Ofício espera cem mortos e Severin, a Mesa ou a Taça Quebrada tiram dez da boca da estatística. Dez vivos a mais são dez perguntas.
+
+Então nasce a Cota de Morte.
+
+Ninguém a escreve assim no começo.
+
+Seria monstruoso demais.
+
+Dizem ajuste. Dizem cobertura. Dizem preservação de rota. Dizem não podemos expor todos por causa de um nome. Dizem se o Analista perceber, queimarão quarenta. Dizem João já estava fraco. Dizem aquela família não era estratégica. Dizem Mara carrega informação que pode salvar um abrigo inteiro. Dizem não é matar, é não conseguir chegar.
+
+A Cota de Morte começa quando a resistência aceita que algumas vidas não serão desviadas do destino oficial para que outras continuem invisíveis.
+
+A primeira vez que Severin descobre, não entende de imediato.
+
+Um menino morreu sem cura numa noite em que havia sangue suficiente para tentar. O registro dele cobriu a ausência de alguém que Severin salvara dias antes. Os Lavadores não o mataram. Apenas não chamaram quem poderia impedir a morte. Quando Severin exige o nome da pessoa que decidiu, todos olham para o chão, porque a decisão não teve uma mão única. Foi uma soma de medo, cálculo, rota, tempo, fome e arquivo.
+
+O Ofício mata por categoria.
+
+A resistência começa a omitir por proporção.
+
+Severin odeia essa diferença.
+
+Depois descobre que talvez precise dela.
+
+### 36AG. A Guerra de Legibilidade
+
+A nova guerra não se vence apenas com esconderijos.
+
+Vence-se criando leituras ruins.
+
+A Mesa dos Nomes aprende a registrar para responsabilizar. O Ofício registra para classificar. Os Lavadores registram para confundir. O Analista de Lacunas lê ausências. O mercado negro lê oportunidade. Vampiros antigos leem vassalagem. Demônios leem cláusula. Cada grupo tenta fazer o mundo caber em sua forma de documento.
+
+Severin torna-se ponto cego não porque ninguém o veja.
+
+Porque cada leitura correta demais de uma parte dele mente sobre outra.
+
+Como morto, deveria estar encerrado. Como vivo, deveria ter certidão. Como rei, deveria ter castelo. Como bastardo, não deveria ter precedência. Como salvador, não deveria anexar. Como invasor, não deveria permitir Mesa. Como fonte, não deveria ser julgado por sua própria criação.
+
+A guerra de legibilidade é a luta para decidir qual dessas contradições será tratada como erro e qual será tratada como verdade.
+
+Por isso existem zonas onde o Ofício falha não por incompetência, mas por falta de mundo legível. Florestas onde mensageiros somem antes de entregar ata. Ruínas onde tinta não seca. Mosteiros que registram nascimentos em calendários impossíveis. Portos onde mortos devolvidos pelo rio possuem dois nomes. Cidades sob recolher lunar que aceitam documentos ao amanhecer e os negam ao crepúsculo. Aldeias protegidas por animais que atravessam pontes antes dos guardas decidirem.
+
+Nessas zonas, Severin respira por mais tempo.
+
+Não porque venceu a máquina.
+
+Porque a máquina ainda procura a gaveta certa.
+
+### 36AH. O mercado negro de jurisdição
+
+Toda nova forma de pertencimento cria contrabando.
+
+Quando os portadores de Eco deixam de ser rumor e se tornam categoria perseguida, aparece quem queira vendê-los. Um Eco fraco pode abrir uma fechadura menor. Um Eco profundo pode resistir a uma bacia de prata por tempo suficiente para fraudar triagem. Um anexado recém-curado pode servir de prova falsa de contato com Severin. Um desanexado pode valer mais que ouro para o Ofício, porque traz dentro do corpo o negativo do Pulso.
+
+Há famílias que vendem o sangue de um filho marcado para comprar passagem.
+
+Há nobres humanos que desejam uma segunda cidadania secreta caso a Ordem Branca perca a guerra.
+
+Há vampiros antigos que pagam por portadores para farejar o caminho até Severin.
+
+Há monges sem mosteiro que prometem desclassificação em troca de uma gota.
+
+Há médicos de veia que diluem Eco em frascos e vendem como vacina contra purificação.
+
+Há falsos anexados, cortados e treinados para tremer diante do nome Sângelună.
+
+O mercado chama isso de proteção, chave, prova, remédio ou passaporte.
+
+A Mesa chama de novo cativeiro.
+
+Severin percebe, tarde demais, que todo pertencimento capaz de salvar também pode ser comprado por quem deseja possuir.
+
+
 ### 36B. As cinzas usadas contra ele
 
 Depois que Severin revoga uma sentença antiga, o Ofício entende que chamá-lo apenas de monstro já não basta. Monstros não revogam. Monstros não julgam. Monstros não libertam uma criatura condenada quando poderiam escravizá-la.
@@ -6079,6 +6483,20 @@ Apodrece.
 #### O redator da pureza
 
 Um alto funcionário do Ofício que acredita que a verdade histórica é menos importante que a estabilidade das certidões. Para ele, Severin deve ser queimado não por ser culpado, mas por ser capaz de tornar culpados os arquivos humanos. Sua arma é a frase fria, o selo, a versão oficial. Quando mente, não parece conspirador. Parece funcionário preservando ordem.
+
+#### O Analista de Lacunas
+
+Não caça monstros. Caça diferenças.
+
+Sua mesa não tem tochas, lâminas ou relíquias expostas. Tem mapas, listas de mortos, curvas de fome, registros de febre, relatórios de triagem, compras de sal, rotas de refugiados e projeções de mortalidade. Ele percebe Severin antes de acreditar em Severin, porque uma região começa a apresentar vidas demais onde o Ofício esperava cadáveres.
+
+Para ele, misericórdia não é virtude. É interferência estatística. Não odeia os salvos. Odeia o fato de que alguém está salvando fora do registro.
+
+#### O Lavador de Óbito
+
+Pode ser aliado, criminoso ou ambos.
+
+Sabe transformar cadáver em cobertura, cobertura em rota e rota em sobrevivência. Falsifica mortes para esconder anexados e, quando faltam mortes suficientes, precisa decidir quem não será salvo. Sua mão não acende fogueiras, mas escolhe ausências. É a figura que obriga Severin a descobrir que resistir ao Ofício também pode exigir contabilidade de cadáver.
 
 #### O analista de arquivo vivo
 
@@ -8294,6 +8712,68 @@ A Mesa decide que Severin não poderá julgar qualquer rito ligado ao retorno de
 
 ## PARTE VIII — Linguagem, ritos e frases-guia
 
+
+#### A muralha que protegeu errado
+
+Severin ergue uma barreira de Arquisangue para impedir que Purificadores entrem em uma aldeia de portadores.
+
+A muralha obedece.
+
+Depois escuta o medo de dentro.
+
+Quando alguns aldeões tentam fugir para não pertencer ao rei, a muralha entende fuga como ruptura de proteção e fecha o caminho com espinhos de pedra viva. Ninguém do Ofício tocou aquelas pessoas. Foi o abrigo que as feriu. Severin entende ali que dissidência interna não derruba seu poder. Corrompe-o.
+
+#### O menino que pagou o balanço
+
+Uma criança que Severin poderia ter salvado morre de febre comum porque os Lavadores de Óbito precisavam de um óbito limpo naquela semana. O nome dela cobre a ausência de outro salvo mais estratégico para a resistência.
+
+Não houve lâmina.
+
+Não houve sentença.
+
+Houve omissão com finalidade.
+
+Quando Severin descobre, percebe que a resistência aprendeu a falar a língua do Ofício com sotaque de necessidade.
+
+#### O desanexado que virou mapa
+
+Um portador exige sair da jurisdição de Severin. A Mesa reconhece o direito. A desanexação o deixa fraco, mas vivo. Dias depois, cães de linhagem o encontram. O Ofício não precisa arrancar dele confissão inteira; basta medir o que falta no sangue para desenhar o contorno do Pulso.
+
+A liberdade de um torna-se risco para todos.
+
+Severin não sabe se deve resgatar, silenciar ou aceitar a consequência da lei que jurou respeitar.
+
+#### A primeira prisão sem nome de prisão
+
+Para proteger desanexados do Ofício e proteger anexados dos desanexados capturados, Severin autoriza um refúgio fechado.
+
+Tem pão.
+
+Tem remédio.
+
+Tem nomes próprios.
+
+Tem guardas na porta.
+
+Ninguém escreve cárcere no registro. Justamente por isso a Mesa exige audiência.
+
+#### O Nós que salvou a sala
+
+Durante uma crise, Severin não aguenta mais a dor dos anexados. A voz de Vaelrûn sobe como água fria. O Eu se parte por um instante. O Nós assume.
+
+A ordem é perfeita. A sala sobrevive. Ninguém morre.
+
+Depois, quando alguém pergunta o que ele decidiu, Severin percebe que não consegue dizer “eu”.
+
+#### A Falência Soberana
+
+Severin cai sem morrer.
+
+Os anexados continuam ligados, mas sem governo estável. Alguns entram em febre. Alguns sonham o mesmo sonho. Alguns sentem fome que vem do rei. O Arquisangue protege e ameaça na mesma pulsação. A Mesa precisa julgar uma ordem antiga dele enquanto o fundador não consegue formar a própria primeira pessoa.
+
+Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem ferido.
+
+
 ### 42. Frases-guia da obra
 
 > **Ele não despertou para governar. Despertou perdido, entre as ruínas de uma coroa que ninguém sabia que ainda existia.**
@@ -8558,6 +9038,503 @@ A Mesa decide que Severin não poderá julgar qualquer rito ligado ao retorno de
 **Quando os homens perderam o céu, consultaram os arquivos. Quando os animais perderam o chão, consultaram o medo.**
 
 **Nenhuma facção era pura o bastante para vencer sem se tornar método da Sombra Indistinta.**
+
+
+
+> **O Rei Sem Castelo construiu seu primeiro castelo dentro das veias de quem salvou.**
+
+> **Ser salvo por Severin era sobreviver à morte e acordar dentro de uma lei que não se havia escolhido.**
+
+> **O Ofício fazia arquivos mortos. Severin fazia anexados vivos. Nenhum dos dois devolvia o mundo como era.**
+
+> **A misericórdia dele tinha efeitos de Estado.**
+
+> **O Eu sofria. O Nós governava.**
+
+> **A Coroa era a forma gramatical da anestesia.**
+
+> **A muralha não caiu. Fez algo pior: obedeceu ao medo dos que estavam dentro.**
+
+> **A resistência não matou o menino. Apenas precisou que ele morresse. Essa diferença não consolou ninguém.**
+
+> **Toda vida salva fora do arquivo criava uma ausência que alguém precisaria explicar.**
+
+> **O Analista de Lacunas não procurava Severin. Procurava o lugar onde a morte prometida deixou de acontecer.**
+
+> **Todo desanexado era pessoa antes de ser risco. Todo risco, porém, tinha dentes.**
+
+> **A Gaiola de Ouro nasceu no dia em que Severin protegeu a liberdade trancando a porta.**
+
+> **Se o Coração Criador falhasse, a lei teria de continuar batendo sem ele.**
+
+> **Severin só seria diferente do Ofício se aceitasse ser julgado por aqueles que sua salvação possuiu.**
+
+> **O mundo não precisava amar o monstro que o salvava. Precisava ter o direito de acusá-lo depois.**
+
+
+### 42A. A Rhaevyra
+
+A língua antiga dos reis não nasceu para conversar.
+
+Nas aldeias tributárias, humanos ouviam fragmentos dela como se ouvissem metal descendo dentro de um poço. Nas câmaras de pacto, demônios a respondiam com nomes que não possuíam garganta. Nos berçários de Crescoryn, crianças destinadas à guerra aprendiam comandos antes de aprenderem canções. Nos arquivos de Nóvralith, escribas copiavam palavras sem vogal para que apenas o sangue correto pudesse terminá-las. Nos salões de Plenavyr, uma fórmula de doação podia transformar cuidado em tributo. Nas fortalezas de Minguarvex, uma sílaba dita no ponto exato fechava correntes que nem a morte soltava.
+
+Os vampiros a chamavam de **Rhaevyra**.
+
+A tradução mais pobre seria “língua das veias”. A mais honesta talvez fosse “fala que corre até coagular”. Nenhuma das duas basta. Rhaevyra não designa apenas som. Designa o trajeto entre voz, traço e sangue; o instante em que uma palavra deixa de ser ar e passa a pesar sobre corpos.
+
+Por isso a Rhaevyra nunca pertenceu totalmente aos poetas, embora pudesse ser bela. Pertencia aos juramentos, às coroações, às condenações, às adoções de sangue, aos pactos demoníacos, aos casamentos entre casas nobres, às declarações de guerra, às dívidas de tributo, aos nomes verdadeiros e aos sepultamentos que não podiam falhar.
+
+Na antiga noite, uma pessoa podia falar várias línguas.
+
+Mas só a Rhaevyra podia mudar aquilo que alguém era perante o sangue.
+
+Sua forma comum era falada por servos, guardas, mensageiros, famílias vassalas e mestiços escondidos. Essa forma comum perdeu complexidade ao longo dos séculos, tornou-se mais aberta, mais rápida, menos perigosa. Sobreviveu em cantigas truncadas, insultos domésticos, nomes de ferramentas, preces de parto, termos de ocultação e palavras que famílias como os Sângelună guardavam sem saber de onde vinham.
+
+A forma alta permanecia outra coisa.
+
+Não bastava pronunciar. Era preciso saber qual corpo falava, por qual sangue, diante de quem, em que estado da ferida, sob qual testemunha e com qual consequência. Uma frase correta dita pela boca errada era fraude. Uma frase piedosa dita no aspecto errado podia virar sentença. Um nome incompleto podia deixar alguém preso entre pessoa e arquivo.
+
+A Rhaevyra não perguntava primeiro o que se dizia.
+
+Perguntava quem sangrava por aquilo.
+
+### 42B. Os três corpos da palavra
+
+Toda palavra ritual em Rhaevyra possui três corpos.
+
+O primeiro é a **voz**. Ar, língua, dentes, garganta, pulso. A voz carrega o sentido que pode ser ouvido: nome, verbo, acusação, promessa, pedido, lamento. Sem voz, a palavra não entra no mundo dos vivos.
+
+O segundo é o **traço**. Linha, ramo, nó, fenda, mancha, direção. O traço prende a palavra ao mundo visível. Permite que ela seja copiada, contestada, arquivada, corrompida ou lida por alguém que não esteve presente. Sem traço, a palavra pode obrigar os presentes, mas morre depressa quando a memória se assusta.
+
+O terceiro é o **sangue**. Não como tinta comum, nem como enfeite sacrificial. O sangue altera o estatuto do que foi dito. Pode tornar uma fala testemunho, um testemunho dívida, uma dívida pacto, um pacto sentença, uma sentença ferida permanente. Sem sangue, uma frase pode significar. Com sangue correto, no lugar correto, ela pode vincular.
+
+Os antigos resumiam isso em uma fórmula curta:
+
+> A voz abre. O traço lembra. O sangue cobra.
+
+Nem toda frase precisa dos três corpos. Uma mãe pode chamar o filho sem abrir veia. Um servo pode pedir água sem selo. Um soldado pode xingar um capitão sem alterar jurisdição. A Rhaevyra só exige o corpo inteiro da palavra quando a palavra pretende tocar a condição de alguém.
+
+Nomear.
+
+Julgar.
+
+Vincular.
+
+Deserdar.
+
+Adotar.
+
+Selar.
+
+Perdoar.
+
+Anexar.
+
+Revogar.
+
+Nesses atos, som sem traço é vento. Traço sem sangue é cópia. Sangue sem voz é ferida. Só os três juntos fazem lei completa.
+
+Essa tríade explica por que os vampiros puros temiam erros de pronúncia, por que o Ofício da Pureza aprendeu a recolher documentos manchados antes de recolher cadáveres, e por que Severin, ao tocar uma página, às vezes conseguia fazer a tinta hesitar. A língua não vivia apenas na boca. Vivia também na superfície onde a boca tentava deixar prova.
+
+### 42C. Os estados do sangue
+
+A Rhaevyra não organiza a ação apenas pelo tempo.
+
+Tempo é coisa pobre demais para uma língua criada por seres que atravessavam séculos. O que importava não era somente se algo aconteceu antes, agora ou depois. O que importava era o estado do ato: aberto, fechando, selado, derramado, retornando, misturado, seco, infectado, emprestado.
+
+Cada verbo carrega um estado de sangue. Mudar a vogal de uma raiz pode mudar a condição jurídica daquilo que se diz.
+
+**Rhae**, o corrente, marca aquilo que ainda vive em fluxo. Ação aberta, pacto negociável, ferida ativa, pedido ainda não respondido. Uma promessa em Rhae ainda pode ser interrompida sem quebrar o mundo inteiro. Uma acusação em Rhae ainda pede testemunha.
+
+**Khaer**, o coagulante, marca o instante de fechamento. A decisão ainda não endureceu, mas já começou a prender. É o estado de audiências, juramentos em curso, pactos prestes a selar, sentenças que podem ser contestadas apenas antes da última pausa.
+
+**Khor**, o coagulado, marca aquilo que fechou. A sentença foi dada. O pacto prendeu. O nome entrou no registro. O sangue parou de correr naquela forma. Para desfazer Khor, não basta negar; é preciso cortar, dissolver ou apelar por rito próprio.
+
+**Vass**, o derramado, marca perda, acusação e violência. Não é todo sangramento. É sangue tornado argumento. Quando uma frase entra em Vass, ela não diz apenas que houve ferida; exige que alguém responda por ela.
+
+**Rûn**, o retornante, marca restauração, recolhimento, revogação ou soberania de retorno. Era raro na Rhaevyra antiga, quase sempre ligado à recuperação de tributo, retorno de juramento ou chamada de vassalo. Em Severin, Rûn ganha força nova: o sangue que visita e volta, a Maré de Retorno, a sentença que regressa para ser julgada outra vez.
+
+**Mêl**, o misto, marca pacto, casamento, adoção, contaminação, mistura de casas, anexação e vínculo que atravessa fronteira. Na corte antiga, Mêl era tratado com cuidado e desprezo. Servia para alianças controladas, nunca para igualdade. Em Severin, torna-se estado central: ser salvo por ele é muitas vezes entrar em Mêl sem ter pedido.
+
+**Skar**, o seco, marca arquivo, memória morta, lei antiga, testemunho encerrado, sangue que já não pulsa mas continua podendo acusar. A leitura de documentos antigos acontece em Skar. Os Reis Mortos adoram esse estado, porque nele a história parece obedecer sem respirar.
+
+**Naft**, o infecto, marca jurisdição corrompida, falso rito, nome manipulado, sentença contaminada, autoridade que finge validade enquanto espalha doença. O Ofício usa equivalentes próprios para chamar mestiços de infecção. A Rhaevyra mais antiga usava Naft para atos, não para naturezas. Severin precisará restaurar essa diferença.
+
+**Thren**, o transfundido, marca autoridade emprestada, fala delegada, dívida de sangue, poder recebido de outro corpo. Um servo falando por uma casa usa Thren. Um diplomata vampírico carregando autorização de seu rei usa Thren. Severin, quando permite que Vaelrûn assine por sua garganta, cai no Thren mais perigoso: fala com sangue vivo e vontade morta.
+
+Esses estados não são tempos. São diagnósticos.
+
+Uma criança ainda viva pode estar gramaticalmente em Skar se o Ofício já a transformou em arquivo morto. Um rei morto pode falar em Rhae se sua memória ainda age dentro de um corpo vivo. Um pacto antigo pode parecer Khor, mas revelar Naft quando se descobre que a testemunha foi comprada. Um nome dito em Mêl pode salvar uma pessoa e anexá-la no mesmo golpe.
+
+Por isso a Rhaevyra assusta quem tenta traduzi-la para línguas comuns.
+
+Ela não pergunta apenas quando.
+
+Pergunta em que estado de sangue a realidade está tentando se tornar lei.
+
+### 42D. Raiz, osso e vogal
+
+Na escrita antiga, muitas palavras da Rhaevyra eram registradas sem vogais.
+
+As consoantes eram chamadas de ossos. Guardavam a forma dura do significado: nome, sangue, selo, ferida, arquivo, pacto, retorno. As vogais eram chamadas de sangue. Entravam entre os ossos e decidiam se a palavra vivia, fechava, acusava, retornava, misturava ou apodrecia.
+
+Por isso uma página sem vogais podia ser segura e perigosa ao mesmo tempo. Um escriba de Nóvralith podia copiar raízes inteiras sem saber qual estado ativariam. Um nobre podia esconder um testamento deixando apenas o esqueleto das palavras. Um rei podia mandar gravar uma sentença em pedra sem vogal para que só seu sangue, anos depois, completasse o veredito.
+
+A raiz **VLN** pertence ao campo do nome, da identidade e da jurisdição.
+
+Em Rhae, torna-se **valan**: nome que ainda vive, nome pronunciado antes da sentença, nome aberto à resposta.
+
+Em Khor, torna-se **vulun**: nome selado, identidade fixada, registro fechado.
+
+Em Skar, torna-se **vilen**: nome arquivado, nome de morto, nome que pode ser citado mas não ouvido.
+
+Em Naft, perde vogal plena e endurece em **vln**: nome corrompido, classificação ilegítima, palavra usada para prender alguém em categoria falsa.
+
+Em Mêl, torna-se **velan**: nome vinculado a outro sangue, nome de casamento, pacto, anexação ou adoção.
+
+Em Rûn, torna-se **vaelun**: nome que retorna para julgamento, nome que a coroa antiga tentou fechar e o Sangue Fundador chama de volta.
+
+O mesmo ocorre com outras raízes.
+
+**KRV** carrega sangue, fonte, veia e soberania.
+
+**QLT** carrega testemunha, presença, escuta e confirmação.
+
+**SKR** carrega arquivo, morte registrada e memória seca.
+
+**PKT** carrega pacto, mistura, dívida e incorporação.
+
+**FSS** carrega ferida, derramamento, acusação e perda.
+
+**RTN** carrega retorno, reversão e chamado.
+
+**KGN** carrega coagulação, selo e fechamento.
+
+**NFT** carrega infecção, corrupção e falsa autoridade.
+
+**TNF** carrega transfusão, empréstimo e dependência.
+
+Os vampiros antigos acreditavam que dominar a Rhaevyra era conhecer as vogais corretas para cada osso.
+
+Severin prova algo mais perigoso.
+
+Às vezes, uma raiz não precisa receber a vogal antiga.
+
+Pode sangrar uma nova.
+
+### 42E. Pronomes de jurisdição
+
+Na Rhaevyra, o pronome não é inocente.
+
+Dizer “eu” exige informar de onde vem a autoridade desse eu. Um corpo pode falar por si. Por uma casa. Por uma coroa. Por um arquivo. Por um morto. Por um sangue emprestado. Por um povo anexado. Por uma dor que ainda não recebeu nome.
+
+A forma baixa, usada em fala comum, possui um eu simples. Os mestiços escondidos preservaram formas parecidas porque precisavam viver, mentir, comprar pão e chamar filhos sem transformar toda frase em documento.
+
+A forma alta nunca aceitou essa simplicidade.
+
+**On** é o eu-corpo: falo como pessoa presente, não como casa, trono ou arquivo. É fraco em tribunal, mas forte diante da Mesa dos Nomes, porque reconhece a existência viva antes da função.
+
+**Vaen** é o eu-sangue: falo por meu sangue próprio, assumindo custo e consequência. Um juramento em Vaen exige que a palavra toque o corpo do falante.
+
+**Korun** é o eu-coroa: falo pela instituição que excede minha pessoa. Reis usavam Korun como veste natural. Em Severin, a forma é veneno doce. Quando diz Korun, a dor particular baixa. A culpa se afasta. A frase deixa de dizer “eu fiz” e passa a dizer “a Coroa determinou”.
+
+**Skaren** é o eu-arquivo: falo como registro, morto, testemunho seco ou representante de documento antigo. O Ofício gosta de imitar essa forma em latim e formulários, mas a Rhaevyra original tratava Skaren com cautela. Arquivo fala. Arquivo não respira.
+
+**Threnun** é o eu-delegado: falo por sangue emprestado. Diplomatas, emissários, servos vinculados e pactuários usavam essa forma. Severin a usa quando permite que um rei morto complete sua frase. Cada uso torna mais difícil saber onde termina a delegação e começa a colonização.
+
+O plural é ainda mais perigoso.
+
+Há um nós que inclui quem escuta. Há um nós que exclui. Há um nós de casa. Há um nós de pacto. Há um nós de guerra. Há um nós de coroas mortas. Há um nós de anexados que falam contra o próprio rei.
+
+A Gramática da Coroa nasce aqui.
+
+O “Eu” sofre porque precisa caber em um corpo.
+
+O “Nós” governa porque distribui a culpa por uma instituição.
+
+Quando Vaelrûn sobe pela garganta de Severin, a primeira perda nem sempre é uma palavra antiga. Às vezes é apenas isto: Severin deixa de conseguir dizer On.
+
+### 42F. Testemunho pelo sangue
+
+A Rhaevyra obriga a verdade a declarar sua origem.
+
+Não basta dizer “aconteceu”. A língua pergunta: quem viu? Quem sangrou? Que corpo estava presente? Que arquivo preservou? Que mancha permitiu inferir? Que sonho invadiu a testemunha? Que sangue foi usado para validar a fala?
+
+A forma alta preserva vários modos de testemunho.
+
+**Veth** marca sangue próprio. O falante sangrou, foi ferido, curou, sofreu ou esteve corporalmente implicado no evento. Um testemunho em Veth tem peso alto porque o corpo se apresenta como prova. Também é perigoso porque trauma, dor e culpa podem distorcer o que o sangue quer transformar em verdade.
+
+**Qal** marca sangue alheio diante do falante. A pessoa viu outro corpo sangrar. É a forma de testemunhas de campo, curandeiros, carrascos, soldados, parteiras, mães que seguraram filhos, guardas que encontraram portas vermelhas.
+
+**Skar** marca arquivo. O falante não viu, mas lê vestígio estabilizado. Pode ser documento, osso, mancha preservada, registro de linhagem, pedra gravada, sangue seco em pano. Skar não é fraco. Mas é morto. Não responde se for mal interpretado.
+
+**Orn** marca inferência. Ninguém viu o ato. Restam marcas, ausência, cheiro, padrão, lacuna. O Analista de Lacunas trabalha quase sempre em Orn. Ele não precisa ver Severin. Precisa provar que a realidade deixou uma forma vazia onde uma morte deveria ter acontecido.
+
+**Ech** marca Eco. Não existia como forma nobre na língua antiga. Era superstição, anomalia ou doença. Depois de Severin, torna-se indispensável: sonho emprestado, dor compartilhada, lembrança que entrou por sangue alheio, testemunho que ninguém pediu para carregar.
+
+O Ofício odeia Ech porque não sabe se deve tratá-lo como prova, contaminação ou sintoma.
+
+A Mesa dos Nomes aprende a temê-lo por outro motivo.
+
+Um sonho de Eco pode salvar vidas.
+
+Também pode transformar uma criança em arquivo vivo.
+
+Por isso, na lei de Severin, nenhum Ech tem força de sentença enquanto o portador não acordar, disser o próprio nome e consentir em falar.
+
+A Rhaevyra antiga não possuía essa misericórdia.
+
+Precisou de uma criança dizendo “eu não quero sonhar sua casa” para que a língua começasse a aprender.
+
+### 42G. Voz, pulso e registro
+
+A Rhaevyra não é pronunciada apenas com boca.
+
+É pronunciada com pulso.
+
+Os antigos mestres de corte ensinavam que uma frase régia precisava cair sobre o batimento correto. O primeiro peso abria o fluxo. O segundo prendia a escuta. A pausa coagularia o sentido. Um erro de ritmo podia deixar um pacto sangrando nas bordas por gerações.
+
+Na fala comum, ninguém mantém essa precisão. Pessoas cansadas falam torto. Crianças engolem pausas. Mestiços escondidos reduzem consoantes para não chamar atenção. Servos dizem fórmulas de memória sem entender por que a garganta fecha em certos pontos.
+
+Na forma alta, cada registro possui som próprio.
+
+A **voz comum** é modal, falada sem pretensão de alterar estado. Serve para pedir, narrar, vender, insultar, amar, mentir e sobreviver. É a voz em que uma língua ainda pertence a pessoas.
+
+A **voz testemunhal** usa pequenas quebras glotais antes de nomes e depois de verbos de prova. Não embeleza. Marca cautela. Quem testemunha para a Mesa dos Nomes aprende essa voz: dizer o que viu sem transformar cada lembrança em sentença.
+
+A **voz seca** é soprada, baixa, quase exalada. Usada para ler mortos, arquivos, genealogias e leis que perderam corpo. Quando um escriba fala demais em voz seca, o salão parece perder calor.
+
+A **voz coagulante** é áspera e estreita. Fecha sílabas como quem fecha feridas com ferro. Usada em juramentos, selos, condenações e pactos finais. Vampiros antigos a admiravam porque nela a dúvida parecia ter vergonha de respirar.
+
+A **voz derramada** usa consoantes cortantes, pressão na garganta, estalos secos. É a voz de acusação, dívida de sangue, ruptura de parentesco, declaração de ferida. Um tribunal inteiro pode recuar quando alguém pronuncia uma raiz em Vass com voz derramada.
+
+A **voz régia** desce para o fundo da garganta. Não precisa ser alta. Sua força está na estabilidade. Um rei antigo podia falar quase em sussurro e fazer um salão inteiro perceber que cada pausa já estava decidida antes de todos nascerem.
+
+A **voz fundadora** não existia antes de Severin.
+
+Ela não é limpa. Não possui a regularidade dos reis mortos nem a neutralidade de um escriba. Sangra entre registros. Pode começar como testemunho e virar comando. Pode receber uma raiz seca e fazê-la voltar a circular. Pode quebrar a voz régia no meio de uma condenação e obrigar a frase a perguntar aquilo que nunca perguntara.
+
+Para vampiros puros, Severin fala Rhaevyra com erro humano.
+
+Para o sangue, ele fala com coração novo.
+
+Essa é a ofensa.
+
+### 42H. A Veyrath, escrita das veias
+
+A escrita alta da Rhaevyra chama-se **Veyrath**.
+
+Não se parece com linhas humanas comuns. Não nasceu para atravessar a página como fileiras de soldados. Nasceu de outra lógica: artéria, ramo, capilar, retorno, nó, coágulo, ruptura.
+
+A raiz de uma palavra é escrita como linha principal. Grossa, contínua, escura. Os antigos chamavam essa linha de artéria. Ela carrega os ossos do sentido: as consoantes.
+
+As vogais não ficam sempre entre os ossos. Podem aparecer como cortes, aberturas, pequenas curvas, marcas de pressão, pontos de cor ou ramos que alteram o estado da palavra. Um escriba ruim copia sons. Um escriba perigoso sabe onde uma vogal muda jurisdição.
+
+Ramos laterais indicam condições, testemunhas, exceções ou dependências. Quanto mais próximo o ramo está do início da artéria, mais cedo interfere na leitura. Quanto mais fino, mais subordinado. Quanto mais grosso, mais ameaça tornar-se cláusula principal.
+
+Nós cheios indicam pontos de vínculo. Um juramento sem nó pode ser belo, mas não prende. Um nó posto no lugar errado pode prender a pessoa errada.
+
+Linhas quebradas indicam ferida, exceção, interrupção, contestação ou linhagem rompida. Algumas casas vampíricas as tratavam como vergonha. A Mesa dos Nomes as tratará como necessidade. Uma lei sem lugar para linha quebrada vira lâmina.
+
+Círculos abertos indicam nomes não resolvidos. Pessoa não chamada. Morto sem testemunha. Criança ainda sem estatuto. Criatura designada apenas por crime. Fechar um círculo aberto com sangue é ato de nomeação. Fechá-lo sem testemunha é apropriação.
+
+Linhas de retorno voltam ao coração do texto. São raras em documentos antigos, porque os reis não gostavam de abrir caminho para revogação. Depois de Severin, tornam-se sinal fundamental: nenhuma sentença viva deve fingir que jamais poderá retornar ao julgamento.
+
+O Ofício tenta copiar a Veyrath em tabelas.
+
+Consegue o suficiente para ser perigoso.
+
+Perde o bastante para errar de modo monstruoso.
+
+### 42I. Sobremarcas hemáticas
+
+O sangue não substitui a frase.
+
+Altera sua força.
+
+Uma ordem escrita em tinta comum pode ser lida, copiada e arquivada. Com sangue, ela passa a carregar origem, custo, validade ou culpa. A pergunta muda. Não é apenas o que está escrito, mas quem se feriu para que aquilo pudesse obrigar.
+
+A gota fresca marca presença viva. Enquanto permanece úmida, o ato ainda respira. Pode ser contestado com rapidez, respondido diante de testemunhas, absorvido por rito ou chamado por quem tem direito de retorno.
+
+O coágulo marca fechamento. Um coágulo sobre o verbo performativo transforma promessa em juramento, acusação em demanda formal, nome em registro, pacto em vínculo. Não precisa ser grande. Às vezes um ponto escuro no lugar certo pesa mais que uma página inteira.
+
+O sangue seco marca arquivo. Preserva, mas já não pulsa. Pode provar que alguém falou. Não prova sozinho que falou justamente. O Ofício ama sangue seco porque sangue seco não interrompe uma interpretação.
+
+O sangue misturado marca Mêl. Casamento, anexação, pacto, cura profunda, comunhão, contaminação ou fraude. A forma depende de testemunha e intenção. Dois sangues juntos podem criar família. Podem criar prisão. Podem criar prova contra ambos.
+
+O sangue diluído marca apelo, lamento ou força diminuída. Em certas tradições vassalas, uma petição escrita com sangue misturado à água dizia: minha vida está aqui, mas não tenho força para transformá-la em sentença.
+
+O sangue enegrecido por rito marca Naft. Documento corrompido, poder falso, nome contaminado, cadeia de custódia quebrada, testemunha obrigada a sangrar contra a vontade. O Ofício produz Naft com frequência e chama de pureza porque seus instrumentos ainda brilham.
+
+Na tradição antiga, apenas certas pessoas podiam aplicar sobremarca. Reis, sacerdotes de sangue, cabeças de casa, pactuários reconhecidos, carrascos juramentados, parteiras de linhagem e escribas de câmara. A velha noite fingia que isso garantia ordem. Na verdade, garantia monopólio.
+
+Severin rompe o monopólio sem tornar a prática segura.
+
+Quando ele toca uma página, seu Sangue Fundador pode transformar uma marca pequena em evento impossível. Uma gota pode voltar. Um coágulo pode reabrir. Um nome seco pode sangrar outra vez. Uma sentença fechada pode revelar que foi selada sobre silêncio roubado.
+
+A Rhaevyra antiga dizia que sangue validava a palavra.
+
+Severin ensina que sangue também pode acusá-la.
+
+### 42J. Erro, ruptura e outra sentença
+
+Em línguas comuns, erro de pronúncia pode produzir riso, confusão ou vergonha.
+
+Em Rhaevyra, erro pode produzir outro mundo.
+
+Uma vogal errada muda estado de sangue. Um nome que deveria estar em Rhae pode cair em Khor e ser selado antes de resposta. Uma sentença que deveria acusar em Vass pode entrar em Naft e contaminar a prova. Um pacto que deveria ser Mêl pode virar Thren, transformando vínculo entre iguais em autoridade emprestada. Uma pausa esquecida pode impedir coagulação; uma pausa colocada cedo demais pode cortar defesa.
+
+Por isso as cortes antigas treinavam crianças nobres com crueldade. Não para que falassem bonito. Para que nunca deixassem uma palavra escapar viva quando deveria estar morta.
+
+Havia mestres capazes de ouvir a primeira sílaba de um juramento e saber se uma casa pretendia trair outra antes da última gota cair. Havia escribas que enterravam erros deliberados em contratos, esperando que o sangue de um descendente ativasse o estado errado séculos depois. Havia pactos demoníacos construídos em torno de uma única pausa ambígua.
+
+A Rhaevyra não conhece erro inocente em registro alto.
+
+Conhece transformação.
+
+Isso torna Severin perigoso de modo único. Sua fala fraturada não apenas falha. Às vezes cria caminhos que os antigos nunca licenciaram. Quando os reis mortos tentam usar sua boca para executar e sua humanidade quebra a cadência, a frase não morre. Muda. A condenação pode virar audiência. A posse pode virar testemunho. O nome usado para prender pode forçar a pergunta sobre quem teve direito de nomear primeiro.
+
+Os vampiros puros chamam isso de corrupção.
+
+O Ofício chama de instabilidade.
+
+A Mesa dos Nomes chamará de precedente.
+
+### 42K. A Rhaevyra e o Ofício
+
+Os humanos nunca dominaram a Rhaevyra.
+
+Dominaram restos.
+
+Durante a última guerra, a Ordem Branca capturou sacerdotes de sangue, escribas vampíricos, servos de arquivo, pactuários menores e documentos arrancados de câmaras que ainda estavam quentes. Aprenderam o bastante para ferir. Não o bastante para compreender.
+
+Converteram raízes em categorias. Vogais em indicadores de risco. Sobremarcas em testes de pureza. Nomes verdadeiros em campos de formulário. Onde a Rhaevyra perguntava estado de sangue, o Ofício escreveu classe. Onde perguntava testemunha, o Ofício escreveu procedência. Onde perguntava vínculo, escreveu contaminação. Onde a língua antiga possuía lugar para pacto, o Ofício viu prova de culpa.
+
+Assim nasceu uma linguagem humana de captura.
+
+Não era Rhaevyra. Era sua autópsia administrativa.
+
+Os linhageiros usam transliterações pobres, mas eficazes. Sabem reconhecer uma raiz de nomeação quando aparece em margem antiga. Sabem que certos círculos abertos indicam pessoa não resolvida. Sabem que uma linha de retorno pode invalidar uma sentença fechada. Sabem o suficiente para temer documentos que ainda não secaram depois de séculos.
+
+Também sabem errar.
+
+Chamam Mêl de infecção quando não querem admitir pacto. Chamam Ech de contaminação quando não querem ouvir portador. Chamam Naft de pureza quando a fraude serve à própria jurisdição. Chamam Skar de verdade absoluta porque documentos secos não gritam.
+
+O Analista de Lacunas entende melhor que os inquisidores comuns. Para ele, a Rhaevyra não é superstição. É sistema concorrente de legibilidade. Ele não precisa falar a língua inteira. Basta perceber onde ela impede que o formulário feche.
+
+Por isso, quando Severin começa a fazer nomes respirarem antes de categorias, o Ofício não vê apenas monstro.
+
+Vê gramática inimiga.
+
+### 42L. A Rhaevyra entre mestiços e escondidos
+
+Depois da guerra, a Rhaevyra alta tornou-se perigosa demais para sobreviver inteira fora dos arquivos.
+
+Entre famílias mestiças, restaram pedaços.
+
+Palavras para não sangrar diante de estranhos. Palavras para desacelerar cura. Palavras para chamar uma criança de volta quando ela olhava tempo demais para a Lua. Palavras usadas por parteiras antes de queimar panos. Palavras de carinho que, séculos antes, talvez tivessem sido títulos de vassalagem. Palavras de medo que já foram nomes de ritos.
+
+Os Sângelună talvez não soubessem que falavam restos de Rhaevyra.
+
+Quando a mãe de Severin murmurava sobre feridas que precisavam parecer humanas, talvez usasse uma palavra antiga para “fechar devagar”. Quando o pai dizia que a casa precisava “esfriar” depois de visita do templo, talvez repetisse um termo de ocultação nascido em Nóvralith. Quando uma irmã provocava Severin por enxergar no escuro, talvez usasse, sem saber, um diminutivo que servos antigos davam a crianças de sangue noturno.
+
+Esse resto doméstico é importante.
+
+Porque Severin não encontra a Rhaevyra apenas nos reis mortos.
+
+Encontra também na cozinha perdida, no quarto do parto, nas advertências do pai, nas palavras que sua família usava para sobreviver sem conhecer sua própria antiguidade. Os reis lhe dão a língua como coroa. A família lhe deixou a língua como esconderijo.
+
+Quando as duas camadas se encontram em sua boca, a Rhaevyra deixa de pertencer apenas à velha noite.
+
+Passa a carregar cinza de casa humana.
+
+### 42M. A Fala Fundadora
+
+A Fala Fundadora não é outro idioma.
+
+É a Rhaevyra atravessada por Sangue Fundador.
+
+Antes de Severin, a língua conhecia hierarquia. Sabia fazer casas obedecerem. Sabia distinguir senhor, vassalo, fonte, tributo, morto, pacto, prisioneiro, arquivo, bastardo, inimigo. Sabia fechar. Sabia preservar. Sabia condenar. Sabia transformar sangue em forma de Estado.
+
+Não sabia o que fazer com uma soberania que nascia da mistura que a língua chamaria de erro.
+
+Quando Severin fala, a Rhaevyra encontra um corpo que não aceita suas categorias antigas sem luta. A raiz real desce pelos ossos dos reis, mas encontra culpa sobrevivente. A vogal de selo encontra memória de uma casa queimada por formulário. A voz régia tenta fechar, mas o sangue humano exige nome antes de categoria. O estado seco tenta citar a lei morta, mas o Coração Criador chama retorno.
+
+Por isso a Fala Fundadora produz efeitos que os antigos considerariam impossíveis.
+
+Uma sentença em Khor pode ser puxada para Rûn se o sangue de Severin encontrar testemunha apagada.
+
+Um nome em Skar pode voltar a Rhae se ainda houver alguém vivo capaz de responder por ele.
+
+Um pacto em Mêl pode revelar se foi vínculo ou prisão.
+
+Um Naft escondido em documento puro pode escurecer diante da Mesa.
+
+Uma fórmula de execução pode falhar não por fraqueza, mas porque o Sangue Fundador pergunta quem foi ouvido antes da lâmina.
+
+Os reis mortos odeiam isso porque compreendem a gravidade. Severin não está apenas pronunciando mal. Está criando precedentes dentro da língua deles.
+
+O Ofício odeia por outro motivo. Se a Fala Fundadora se estabilizar, nenhum formulário humano poderá fingir que categoria vem antes de pessoa sem ser contestado pela própria estrutura da realidade.
+
+A Fala Fundadora não absolve Severin.
+
+Também pode invadir. Também pode anexar. Também pode impor nome onde havia recusa. Também pode usar testemunha para possuir. Por isso a Mesa dos Nomes precisará aprender a ouvir não apenas o que Severin diz, mas em que estado seu sangue fez a palavra entrar.
+
+Uma língua que pode reabrir sentenças injustas também pode abrir corpos demais.
+
+### 42N. Fórmulas, fragmentos e frases de sangue
+
+A Rhaevyra preserva fórmulas antigas, mas nenhuma fórmula permanece inocente depois de atravessar Severin.
+
+**Valan rhae.**
+
+O nome corre.
+
+Era fórmula usada antes de registrar criança nobre, enquanto o nome ainda podia receber casa, pacto e função. Na Mesa dos Nomes, torna-se outra coisa: nenhuma categoria será escrita antes que o nome ainda vivo seja ouvido.
+
+**Khor qalet.**
+
+A testemunha coagula.
+
+Entre vampiros antigos, marcava o encerramento de depoimento. Depois dela, negar testemunha era crime contra a corte. Severin a teme, porque uma testemunha pode coagular cedo demais se estiver sob medo.
+
+**Fass orn.**
+
+A ferida infere.
+
+Expressão de campo para acusação sem testemunha direta, baseada em mancha, padrão, ausência e corpo encontrado. O Analista de Lacunas a usaria com prazer se falasse Rhaevyra sem desprezo.
+
+**Mêl krava.**
+
+O sangue mistura.
+
+Fórmula de pacto, casamento, adoção e incorporação. Em Severin, torna-se uma das frases mais perigosas do mundo, porque pode significar salvação ou anexação.
+
+**Rûn vaelun.**
+
+O nome retorna.
+
+Quase heresia para os reis antigos quando aplicado a sentença fechada. Para Severin, é núcleo da nova lei: nomes apagados podem voltar ao julgamento.
+
+**Naft korun.**
+
+A coroa está infecta.
+
+Nenhum vampiro puro pronunciaria isso diante de trono. A frase existia como teoria para usurpação, não como acusação viva. Um dia, talvez, os anexados a digam contra Severin.
+
+**On qalet. Vaen nara. Korun espera.**
+
+Eu testemunho. Meu sangue responde. A Coroa espera.
+
+Essa tríade nasce depois da Mesa. Não vem dos reis. É fórmula de contenção: antes que Severin fale como Korun, deve haver On; antes que o sangue responda, deve haver testemunho; antes que a Coroa decida, deve haver intervalo.
+
+A frase mais importante da nova Rhaevyra talvez ainda não exista no começo da história.
+
+Será escrita quando os anexados entenderem que podem falar dentro da jurisdição que os possui:
+
+**Valan on. Khor não.**
+
+Meu nome vive. A sentença não fechou.
 
 
 ### 43. Ritos, leis e costumes do sangue
@@ -9424,6 +10401,54 @@ Aquele que recebeu nomes demais e, por isso, aprendeu que nenhum nome tem direit
 
 
 ---
+
+
+#### Estado-Organismo
+
+A forma inicial do reino de Severin quando sua soberania ainda não possui território estável. É composto por corpos anexados, Ecos Sanguíneos, zonas protegidas por Arquisangue, documentos alterados, sonhos compartilhados, dívidas de salvação e vínculos que respondem ao Coração Criador.
+
+Não é metáfora política. É organismo distribuído.
+
+#### Dividendo da Anexação
+
+Vantagem de sobrevivência concedida aos anexados pela jurisdição de Severin. Pode retardar morte, resistir a selos, sustentar feridos dentro do Pulso, proteger contra certas febres ou permitir testemunho onde o Ofício imporia categoria. Cobra dor compartilhada, rastreabilidade, sonho invadido e perda parcial de autonomia.
+
+#### Dissidência Interna
+
+Recusa coletiva dos anexados dentro da própria jurisdição. Não desliga necessariamente o Arquisangue; corrompe sua resposta. Proteções podem agir com violência autônoma, curas podem tornar-se brutais, portas podem prender aqueles que deveriam proteger e o Pulso pode interpretar medo como ordem.
+
+#### Gaiola de Ouro
+
+Refúgio fechado criado para desanexados ou portadores cujo conhecimento interno ameaça a segurança do Estado-Organismo. Possui alimento, cuidado e nomes próprios, mas também guardas, rotas controladas e impossibilidade prática de saída livre. É a primeira prisão que Severin constrói tentando não chamá-la de prisão.
+
+#### Desanexação
+
+Processo de retirada parcial da jurisdição de Severin sobre um corpo previamente anexado. Nunca é restauração simples. Pode remover proteção, reabrir feridas, devolver doenças suspensas, enfraquecer sangue, apagar resistência adquirida ou transformar o desanexado em mapa vivo para o Ofício.
+
+#### Analista de Lacunas
+
+Especialista do Ofício que caça inconsistências estatísticas, não monstros visíveis. Identifica Severin como centro ausente através de mortes abaixo do esperado, documentos que não fecham, focos de cura irregular, sobreviventes sem explicação e padrões de preservação anômala.
+
+#### Lavadores de Óbito
+
+Rede clandestina que falsifica, desloca ou redistribui registros de morte para esconder vidas salvas por Severin, pela Mesa, pela Taça Quebrada ou por outros refúgios. Quando não há cadáver suficiente para cobrir a lacuna, sua prática aproxima-se da Cota de Morte.
+
+#### Cota de Morte
+
+Princípio não declarado segundo o qual certas mortes precisam permanecer dentro da expectativa do Ofício para que outras vidas salvas não revelem o padrão de intervenção. Pode nascer como omissão, atraso, não resgate ou escolha estratégica. É uma das manchas mais profundas da resistência.
+
+#### Gramática da Coroa
+
+Forma de fala e pensamento em que Severin perde o Eu e passa a agir como Nós, A Coroa ou A Quinta Ferida. Surge com força após Sincronias com Vaelrûn ou fraudes jurídicas assinadas por matriz régia. Funciona como anestésico moral: o Nós suporta decisões que o Eu talvez não sobrevivesse a carregar.
+
+#### Falência Soberana
+
+Colapso do Estado-Organismo quando o Coração Criador não consegue processar a quantidade de dor, medo, anexação, dissidência, sonho, território, documento e memória régia que sustenta. Não equivale à morte de Severin, mas à perda de legibilidade do governo biológico. Exige que a Mesa e o Código de Sangue funcionem sem depender da lucidez do fundador.
+
+#### Código de Sangue
+
+Conjunto de cláusulas criado para que a lei fundada por Severin continue capaz de julgar a Coroa mesmo durante ausência, possessão, Falência Soberana, febre régia ou perda da primeira pessoa. Sua existência prova que a Mesa não é apenas confiança no rei, mas limite institucional contra ele.
+
 
 ### Síntese final
 
