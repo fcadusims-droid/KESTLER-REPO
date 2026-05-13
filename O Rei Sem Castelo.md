@@ -7,7 +7,7 @@
 
 ## PARTE 0 — O coração da ferida
 
-### 0. Princípio da obra
+### 0.1. Princípio da obra
 
 O mundo de Severin não é movido apenas por guerra, fome ou profecia.
 
@@ -31,7 +31,7 @@ Por isso o Sangue Fundador não é apenas poder.
 
 É responsabilidade em forma líquida.
 
-### 1. Premissa essencial
+### 0.2. Premissa essencial
 
 Durante séculos, o mundo acreditou que o antigo domínio dos vampiros havia sido destruído na última guerra contra os humanos. As quatro nações lunares ruíram, a quinta jamais terminou de nascer, e o castelo que deveria coroar a Lua de Sangue foi reduzido a ruínas e abandonado à floresta. As torres caíram, as muralhas se partiram, os salões foram invadidos por raízes, e o nome dos reis virou aviso contado em voz baixa.
 
@@ -39,9 +39,9 @@ Mas o sangue real nunca desapareceu.
 
 Antes da queda, Vaelrûn Sângelună, rei da quinta nação inacabada e soberano eleito da Linhagem da Lua de Sangue, teve um filho com uma mulher humana. Dessa união proibida nasceu uma linhagem mestiça: humana demais para ser aceita pelos vampiros puros, vampírica demais para ser tolerada pelos humanos. Essa linhagem sobreviveu escondida, geração após geração, não como nobreza, mas como vergonha. Seus descendentes não se chamavam herdeiros. Chamavam-se bastardos.
 
-Séculos depois, Severin Sângelună, um homem de 26 anos, carrega esse sangue sem entender seu verdadeiro peso. Ele nasceu em uma família que aprendeu a sobreviver apagando a si mesma. Desde criança, Severin foi ensinado a não correr rápido demais, a não se curar diante de ninguém, a não sorrir quando seus dentes parecessem errados, a não encarar o escuro como se ele fosse casa. Sua vida inteira foi uma contenção.
+Séculos depois, Severin Sângelună, um homem de 26 anos, carrega esse sangue sem entender seu verdadeiro peso. No papel, sua casa usava o sobrenome Darcov. Dentro das paredes, quando as janelas estavam fechadas e a noite parecia distante de qualquer ouvido humano, continuava sendo Sângelună. Ele nasceu em uma família que aprendeu a sobreviver apagando a si mesma. Desde criança, Severin foi ensinado a não correr rápido demais, a não se curar diante de ninguém, a não sorrir quando seus dentes parecessem errados, a não encarar o escuro como se ele fosse casa. Sua vida inteira foi uma contenção.
 
-Quando sua linhagem é descoberta, a vila que o viu crescer transforma medo em sentença. Sua mãe, seu pai e suas irmãs são queimados vivos. A mãe o empurra para a passagem escondida sob o assoalho. O pai fecha a saída por dentro. A irmã mais velha segura a porta tempo suficiente para que ele atravesse a lama debaixo da casa. A irmã mais nova chama por ele quando a fumaça já entrou no quarto.
+Quando sua linhagem é descoberta, a vila que o viu crescer transforma medo em sentença. Mirela, Corvin, Vespera e Ilona são queimados vivos. Mirela o empurra para a passagem escondida sob o assoalho. Corvin fecha a saída por dentro. Vespera segura a porta tempo suficiente para que ele atravesse a lama debaixo da casa. Ilona chama por ele quando a fumaça já entrou no quarto.
 
 Severin corre.
 
@@ -104,7 +104,7 @@ E Severin, o rei sem castelo, não sabe sequer quem é.
 
 ---
 
-### 2. Tom, gênero e atmosfera
+### 0.3. Tom, gênero e atmosfera
 
 A obra pertence à fantasia sombria, com horror gótico, tragédia familiar, mistério de identidade e guerra épica. O mundo parece antigo, ferido e culpado. Nada nele é completamente limpo. As vitórias humanas têm manchas. A glória vampírica tem ossos. As lendas foram suavizadas por quem sobreviveu para contá-las.
 
@@ -129,7 +129,7 @@ O mundo de Severin entende sangue como vida, documento, dívida, perigo e acusa�
 ---
 
 
-### 2A. A guerra das jurisdições
+### 0.4. A guerra das jurisdições
 
 Depois da Luna Vulnata, a guerra não pertence apenas a exércitos, castelos e criaturas. Pertence aos que afirmam ter direito de nomear.
 
@@ -169,7 +169,7 @@ Contra isso, a soberania de Severin não poderá ser apenas força.
 
 Terá de ser discernimento.
 
-### 2B. As camadas da verdade
+### 0.5. As camadas da verdade
 
 Nenhum povo conhece a história inteira.
 
@@ -197,7 +197,7 @@ Sabe que, quando tenta salvar alguém, o mundo encontra outra razão para temê-
 
 ---
 
-### 3. Núcleo final da obra
+### 0.6. Núcleo final da obra
 
 Severin Sângelună é um homem que nasceu em segredo, cresceu em contenção e sobreviveu à destruição da própria família. Durante toda a vida, acreditou que seu sangue era vergonha, que sua existência era erro e que seu maior ato foi covardia.
 
@@ -276,11 +276,34 @@ Por isso, quando as Foveae Belli começarem a acordar, a guerra deixará de ser 
 
 E talvez só não termine em ruína se esse homem descobrir que um reino também pode nascer diferente de seus reis.
 
+
+### 0.7. Ordem das cinzas
+
+A história recente de Severin obedece a uma sequência que nenhuma crônica pública aceita inteira.
+
+Primeiro veio a dormência: gerações de Sângelună escondidos sob sobrenomes menores, partos apagados, casamentos corrigidos e sinais fracos demais para parecerem destino.
+
+Depois veio a aproximação da Luna Vulnata. O sangue antigo ficou menos paciente. Ilona cicatrizou rápido demais no mercado. A vila de Veyr, que já desconfiava da família Darcov, encontrou prova onde antes tinha apenas rumor.
+
+Valerian Ors chegou antes do fogo. Montou a pasta, escreveu Sângelună onde só deveria haver Darcov e deu ao medo local uma forma capaz de parecer lei.
+
+Na terceira noite depois da sentença, a casa foi cercada. Mirela empurrou Severin para baixo. Corvin fechou a passagem. Vespera segurou a porta. Ilona chamou por ele.
+
+Severin fugiu para o norte, atravessando a lama da estrada velha de Arveth. Andou sem plano, sem comida suficiente, sem saber que a Lua já estava no limiar. A floresta o recebeu como recebe animais feridos: sem pergunta e sem misericórdia.
+
+Na noite da Luna Vulnata, encontrou as ruínas de Sângelună porque a tempestade o empurrou para o único abrigo que ainda conhecia seu sangue. Morreu sob pedra. Seu sangue desceu até a Fossa Coronaria. O rito acordou tarde, torto e incompleto.
+
+As criaturas saíram primeiro.
+
+Severin acordou depois.
+
+Essa diferença sustenta a culpa pública da obra: o mundo arde por causa dele antes que ele tenha a chance de escolher qualquer coisa.
+
 ---
 
 ## PARTE I — Severin antes do mito
 
-### 7. O sobrenome Sângelună
+### 1.1. O sobrenome Sângelună
 
 Sângelună é um nome antigo, preservado como marca e condenação. Em uma língua esquecida, pode ser lido como “sangue-lua”, “sangue da lua” ou “lua ensanguentada”.
 
@@ -302,7 +325,7 @@ Sângelună não é o anúncio de seu nascimento humano.
 
 É a assinatura de seu segundo nascimento.
 
-### 8. O nascimento inválido
+### 1.2. O nascimento inválido
 
 Severin nasceu em uma noite de lua comum.
 
@@ -316,7 +339,7 @@ Não significava que a criança não vivia.
 
 Significava que sua entrada no mundo era vista como errada.
 
-A mãe de Severin o segurou mesmo assim. O pai talvez tenha ficado em silêncio tempo demais. Uma das avós, se presente, pode ter chorado não de alegria, mas de medo. Panos foram queimados. A água do parto foi enterrada. Nenhum vizinho foi chamado. Nenhum sacerdote abençoou a criança.
+Mirela segurou Severin mesmo assim. Corvin ficou em silêncio tempo demais, não por rejeição, mas porque entendeu antes da alegria o tamanho da sentença que o berço podia carregar. Otilia, a avó materna, chorou não de alegria, mas de medo. Panos foram queimados. A água do parto foi enterrada. Nenhum vizinho foi chamado. Nenhum sacerdote abençoou a criança.
 
 Foi nessa noite que Severin começou a existir com uma sentença grudada à pele.
 
@@ -338,7 +361,7 @@ Enterrou uma prova. Ele cresce ouvindo que foi amado, mas também percebendo que
 
 ---
 
-### 10. Infância de Severin
+### 1.3. Infância de Severin
 
 A infância de Severin foi feita de pequenas proibições.
 
@@ -376,7 +399,7 @@ Não para viver.
 
 ---
 
-### 11. Adolescência contida
+### 1.4. Adolescência contida
 
 Na adolescência, o segredo deixou de ser apenas regra familiar e virou vergonha pessoal.
 
@@ -400,7 +423,7 @@ Ele sabia onde estavam todas.
 
 ---
 
-### 12. Vida adulta antes da queda
+### 1.5. Vida adulta antes da queda
 
 Aos 26 anos, Severin já era um homem acostumado a não ocupar espaço.
 
@@ -418,11 +441,11 @@ Perde o único lugar onde era amado mesmo sendo temido.
 
 Mesmo que a família o tenha criado com vergonha, ela também foi seu mundo inteiro. Por isso a destruição dela não é só luto. É o colapso de sua realidade.
 
-### 13. A família de Severin
+### 1.6. A família de Severin
 
-#### O pai
+#### Corvin, o pai
 
-O pai de Severin é um homem endurecido pelo dever de esconder. Sua dureza não vem de falta de amor, mas de pavor disciplinado. Ele acredita que toda liberdade precisa ser calculada antes de existir. Ensina Severin a mentir, a conter a respiração, a esconder dor, a nunca reagir primeiro.
+Corvin Darcov no papel, Corvin Sângelună dentro de casa, é um homem endurecido pelo dever de esconder. Sua dureza não vem de falta de amor, mas de pavor disciplinado. Ele acredita que toda liberdade precisa ser calculada antes de existir. Ensina Severin a mentir, a conter a respiração, a esconder dor, a nunca reagir primeiro.
 
 Pode dizer frases como:
 
@@ -430,9 +453,9 @@ Pode dizer frases como:
 
 Sua tragédia é amar o filho e, ao mesmo tempo, ensiná-lo a ter medo de si mesmo. Na noite da fogueira, é ele quem fecha a passagem por dentro depois que Severin desce. Esse gesto salva Severin e condena a memória de Severin a nunca aceitar salvação.
 
-#### A mãe
+#### Mirela, a mãe
 
-A mãe de Severin é o coração ferido da casa. Carrega sangue humano-vampiro em grau suficiente para que o nascimento ensanguentado dele tenha passado por seu corpo como mau presságio e prova. Ela entende o peso do corpo como segredo. Diferente do pai, tenta dar ternura ao filho, mas sua ternura nunca consegue expulsar completamente o medo.
+Mirela é o coração ferido da casa. Carrega sangue humano-vampiro em grau suficiente para que o nascimento ensanguentado de Severin tenha passado por seu corpo como mau presságio e prova. Ela entende o peso do corpo como segredo. Diferente de Corvin, tenta dar ternura ao filho, mas sua ternura nunca consegue expulsar completamente o medo.
 
 Ela pode dizer:
 
@@ -440,19 +463,19 @@ Ela pode dizer:
 
 Essa frase não cura. Fere de modo delicado.
 
-Na noite da fogueira, é a mão dela que o empurra para a passagem sob o assoalho. Severin lembrará essa pressão no peito por anos, mas a lembrança virá deformada: não como último ato de amor, e sim como o instante em que seu corpo aceitou viver.
+Na noite da fogueira, é a mão de Mirela que o empurra para a passagem sob o assoalho. Severin lembrará essa pressão no peito por anos, mas a lembrança virá deformada: não como último ato de amor, e sim como o instante em que seu corpo aceitou viver.
 
-#### A irmã mais velha
+#### Vespera, a irmã mais velha
 
-A irmã mais velha é a raiva que a casa tentou educar e nunca conseguiu domesticar por inteiro. Ela se parece demais com aquilo que todos temem: olhos atentos, orgulho rápido, pouca paciência para pedir desculpas por existir. Questiona o medo dos pais, desafia a lógica de se apagar para sobreviver e diz aquilo que Severin nunca teve coragem de dizer.
+Vespera é a raiva que a casa tentou educar e nunca conseguiu domesticar por inteiro. Ela se parece demais com aquilo que todos temem: olhos atentos, orgulho rápido, pouca paciência para pedir desculpas por existir. Questiona o medo dos pais, desafia a lógica de se apagar para sobreviver e diz aquilo que Severin nunca teve coragem de dizer.
 
 > “Se precisamos fingir que não existimos, então que tipo de vida estão tentando proteger?”
 
-Ela ama Severin, mas despreza a obediência dele ao medo. Na noite da fogueira, segura uma porta por tempo suficiente para que a fumaça mude de quarto. Severin não verá isso com clareza. Saberá apenas que ouviu madeira, tosse e uma voz que não pediu socorro.
+Vespera ama Severin, mas despreza a obediência dele ao medo. Na noite da fogueira, segura uma porta por tempo suficiente para que a fumaça mude de quarto. Severin não verá isso com clareza. Saberá apenas que ouviu madeira, tosse e uma voz que não pediu socorro.
 
-#### A irmã mais nova
+#### Ilona, a irmã mais nova
 
-A irmã mais nova é a inocência que a família ainda tentava preservar. Para ela, Severin é proteção, quase um segundo pai. Ela acredita nele de um modo que o constrange, porque Severin nunca acredita em si o bastante para receber essa confiança sem dor.
+Ilona é a inocência que a família ainda tentava preservar. Para ela, Severin é proteção, quase um segundo pai. Ela acredita nele de um modo que o constrange, porque Severin nunca acredita em si o bastante para receber essa confiança sem dor.
 
 Sua morte será a memória mais cruel.
 
@@ -462,9 +485,9 @@ Porque ela chamou por ele.
 
 A voz dela atravessará a fumaça, a terra, o segundo nascimento, as memórias dos reis e qualquer sala de pedra onde Severin tente se convencer de que já perdeu tudo que podia perder.
 
-As irmãs representam duas perdas: a raiva que ele reprimiu e a inocência que não conseguiu salvar.
+Vespera e Ilona representam duas perdas: a raiva que ele reprimiu e a inocência que não conseguiu salvar.
 
-### 14. A descoberta
+### 1.7. A descoberta
 
 A descoberta da família nasce de uma rachadura acumulada, não de conveniência.
 
@@ -472,7 +495,7 @@ A vila já desconfiava. Pequenos detalhes haviam sido notados por anos: Severin 
 
 A prova final vem em dia público.
 
-A irmã mais nova se fere diante de testemunhas durante uma confusão no mercado, quando uma carroça perde o eixo e espalha madeira, ferro e animais assustados pela rua. O corte deveria abrir carne demais para que alguém continuasse de pé. Severin chega antes de pensar. Aperta a ferida com as mãos, não para curá-la, mas para escondê-la. O corpo dela, porém, trai a casa. A pele começa a fechar sob seus dedos.
+Ilona se fere diante de testemunhas durante uma confusão no mercado, quando uma carroça perde o eixo e espalha madeira, ferro e animais assustados pela rua. O corte deveria abrir carne demais para que alguém continuasse de pé. Severin chega antes de pensar. Aperta a ferida com as mãos, não para curá-la, mas para escondê-la. O corpo dela, porém, trai a casa. A pele começa a fechar sob seus dedos.
 
 Uma mulher vê.
 
@@ -515,7 +538,7 @@ A pasta do linhageiro engordou.
 
 Quando a sentença veio, já parecia que sempre estivera escrita.
 
-### 15. A noite da fogueira
+### 1.8. A noite da fogueira
 
 A família de Severin é queimada viva.
 
@@ -529,15 +552,15 @@ A multidão ouve aquilo e se acalma.
 
 É mais fácil queimar uma família quando o fogo vem precedido por palavras oficiais.
 
-O pai tenta ganhar tempo. A mãe procura a passagem sob o assoalho. A irmã mais velha discute com os homens na porta até a primeira janela estourar de calor. A irmã mais nova começa a tossir antes de entender que a casa já está morrendo.
+Corvin tenta ganhar tempo. Mirela procura a passagem sob o assoalho. Vespera discute com os homens na porta até a primeira janela estourar de calor. Ilona começa a tossir antes de entender que a casa já está morrendo.
 
-A mãe empurra Severin para baixo.
+Mirela empurra Severin para baixo.
 
-O pai fecha a tampa por dentro.
+Corvin fecha a tampa por dentro.
 
-A irmã mais velha segura a porta.
+Vespera segura a porta.
 
-A irmã mais nova chama seu nome.
+Ilona chama seu nome.
 
 Severin tenta voltar. O calor desce pela fresta como uma mão sem dedos. A fumaça o cega. A madeira acima range. Alguém grita para ele correr, mas a memória nunca preservará com certeza se foi ordem, súplica ou despedida.
 
@@ -551,7 +574,7 @@ Para Severin, o fato final é único:
 
 Essa frase o persegue mais que qualquer monstro.
 
-### 16. A culpa sobrevivente
+### 1.9. A culpa sobrevivente
 
 Depois da fogueira, Severin deixa de se ver como pessoa. Ele se vê como resto.
 
@@ -573,7 +596,7 @@ Após a ressurreição, sua memória estará confusa, mas a culpa permanece como
 
 A memória de Severin não se partirá como vidro, em pedaços limpos que possam ser colados. Ela ficará mais parecida com cinza molhada: escapa entre os dedos, mancha tudo, sufoca quando se tenta respirar.
 
-Ele poderá esquecer a ordem dos acontecimentos, mas não o cheiro. Poderá não saber quem gritou primeiro, mas saberá o som de uma trave cedendo. Poderá não lembrar se a mãe o empurrou ou se ele correu antes de ser tocado, mas sentirá por anos a pressão de uma mão no peito. Em algumas noites, acordará com gosto de fumaça na boca e os braços procurando uma porta que não existe mais.
+Ele poderá esquecer a ordem dos acontecimentos, mas não o cheiro. Poderá não saber quem gritou primeiro, mas saberá o som de uma trave cedendo. Poderá não lembrar se Mirela o empurrou ou se ele correu antes de ser tocado, mas sentirá por anos a pressão de uma mão no peito. Em algumas noites, acordará com gosto de fumaça na boca e os braços procurando uma porta que não existe mais.
 
 O corpo lembrará antes da mente.
 
@@ -591,7 +614,7 @@ Severin não precisará inventar crueldade. O mundo lhe deu razões. A questão 
 
 ---
 
-### 16A. A assinatura da sentença
+### 1.10. A assinatura da sentença
 
 Depois da fogueira, Severin não deseja justiça.
 
@@ -613,7 +636,7 @@ A busca não o torna nobre.
 
 Torna-o perigoso.
 
-Quando encontra um arquivo do Ofício pela primeira vez, não procura a história do mundo. Procura a curva de uma letra. Quer saber se a mão que condenou sua mãe tremia. Quer saber se escreveu Sângelună com erro. Quer saber se o pai foi chamado de contaminado, se a irmã mais velha foi marcada como risco reprodutivo, se a mais nova teve nome próprio ou apenas categoria.
+Quando encontra um arquivo do Ofício pela primeira vez, não procura a história do mundo. Procura a curva de uma letra. Quer saber se a mão que condenou Mirela tremia. Quer saber se escreveu Sângelună com erro. Quer saber se Corvin foi chamado de contaminado, se Vespera foi marcada como risco reprodutivo, se Ilona teve nome próprio ou apenas categoria.
 
 A primeira vingança de Severin não é contra um exército.
 
@@ -628,7 +651,7 @@ Severin aprenderá que o horror do Ofício não está apenas em seus decretos.
 Está no fato de que toda atrocidade ali possui caligrafia.
 
 
-### 17. Severin no início da história
+### 1.11. Severin no início da história
 
 Quando Severin chega à floresta, não está em busca de aventura. Não está cumprindo profecia. Não sabe que há ruínas reais por perto. Ele está vagando porque todos os caminhos humanos se fecharam.
 
@@ -650,7 +673,7 @@ Então o raio cai.
 
 ---
 
-### 18. A morte nas ruínas
+### 1.12. A morte nas ruínas
 
 O raio atinge uma parte instável do antigo castelo. A pedra responde como se esperasse aquele toque havia séculos. O teto desaba. Colunas partidas cedem. A chuva entra junto com poeira, lama e luz branca.
 
@@ -678,7 +701,7 @@ Desceu como se procurasse parentes.
 
 ---
 
-### 23. O despertar de Severin
+### 1.13. O despertar de Severin
 
 Severin acorda depois que as criaturas já partiram.
 
@@ -708,7 +731,7 @@ Parece seu corpo mentindo para o mundo outra vez.
 
 ---
 
-### 23A. O homem no buraco
+### 1.14. O homem no buraco
 
 Quando Severin abre os olhos, o mundo não lhe oferece explicação.
 
@@ -748,7 +771,7 @@ Quando enfim alcança o ar aberto, a floresta está molhada, quebrada e silencio
 
 Parece apenas menos vazio de horrores.
 
-### 23B. A batalha das jurisdições dentro do sangue
+### 1.15. A batalha das jurisdições dentro do sangue
 
 Severin não acordou quando o abismo se abriu.
 
@@ -840,7 +863,7 @@ Não porque chegara tarde ao próprio reino.
 
 Porque seu reino ainda estava aprendendo a caber em seu sangue.
 
-### 34. Conflito interno central
+### 1.16. Conflito interno central
 
 A ferida mais antiga de Severin é:
 
@@ -872,7 +895,7 @@ Essa contradição é a alma do personagem. Ele talvez seja justamente o único 
 
 ---
 
-### 35. O arco de Severin
+### 1.17. O arco de Severin
 
 #### Fase 1: O sobrevivente
 
@@ -916,7 +939,7 @@ Precisa escolher que tipo de lei nascerá de alguém que conhece os dois medos.
 
 ---
 
-### 35A. Da assinatura à lei
+### 1.18. Da assinatura à lei
 
 O arco de Severin não começa com a aceitação da coroa.
 
@@ -976,7 +999,7 @@ Severin começa procurando uma assinatura.
 
 Termina disputando o direito de assinar o mundo de outro modo.
 
-### 35B. A primeira lei contra a classificação
+### 1.19. A primeira lei contra a classificação
 
 A primeira disputa de Severin contra o Ofício não nasce diante de uma fogueira acesa.
 
@@ -1056,7 +1079,7 @@ Nenhuma sentença será pura enquanto houver nome vivo antes dela.
 
 ## PARTE II — O horror imediato após o abismo
 
-### 21. O retorno das criaturas
+### 2.1. O retorno das criaturas
 
 Quando o abismo se abre, o passado não retorna em formação ordenada.
 
@@ -1084,7 +1107,7 @@ A antiga civilização vampírica voltava em sua glória e em sua vergonha. Não
 
 ---
 
-### 22. Tipos de criaturas libertadas
+### 2.2. Tipos de criaturas libertadas
 
 #### Vampiros antigos
 
@@ -1136,7 +1159,7 @@ Não são exatamente criaturas libertas, mas resíduos espirituais presos à mal
 ---
 
 
-### 22A. A escala do discernimento
+### 2.3. A escala do discernimento
 
 A palavra demônio foi uma das armas mais eficientes dos homens.
 
@@ -1174,7 +1197,7 @@ Em distinguir.
 
 ---
 
-### 24. O mundo após o abismo
+### 2.4. O mundo após o abismo
 
 O caos se espalha em ondas.
 
@@ -1204,7 +1227,7 @@ Os escondidos reconhecem outro nome: caça.
 
 ---
 
-### 25. A posição dramática de Severin
+### 2.5. A posição dramática de Severin
 
 Severin caminha pelo mundo como o centro de uma catástrofe que não sabe ter causado.
 
@@ -1237,7 +1260,7 @@ As perguntas que o movem no primeiro arco:
 
 ---
 
-### 25A. A invisibilidade pelo excesso de ruído
+### 2.6. A invisibilidade pelo excesso de ruído
 
 No primeiro tempo depois da Luna Vulnata, ninguém procura Severin como centro.
 
@@ -1286,7 +1309,7 @@ Depois, hipótese.
 Depois, alvo.
 
 
-### 25B. A Lua que não sarou
+### 2.7. A Lua que não sarou
 
 Depois da Luna Vulnata, a Lua continuou a mudar de fase.
 
@@ -1334,7 +1357,7 @@ Agora a noite estava escrita no céu.
 
 E não apagava.
 
-### 25C. A devolução do mundo aos não humanos
+### 2.8. A devolução do mundo aos não humanos
 
 Durante séculos, a superfície pertenceu aos homens porque os homens sobreviveram para escrever que a superfície lhes pertencia.
 
@@ -1382,7 +1405,7 @@ O Ofício queria uma palavra.
 
 O mundo devolveu uma multidão.
 
-### 25D. O colapso da ordem humana
+### 2.9. O colapso da ordem humana
 
 A ordem humana não caiu de uma vez.
 
@@ -1434,7 +1457,7 @@ Não com gargalhada maligna.
 
 Com atas, sinos, portões fechados e homens exaustos dizendo que não havia outra escolha.
 
-### 25E. O Calendário Quebrado
+### 2.10. O Calendário Quebrado
 
 Nenhum império sobrevive muito tempo quando perde confiança no próprio calendário.
 
@@ -1460,7 +1483,7 @@ Mesmo assim, as mães o seguiam.
 
 E, onde mães seguem um calendário que reis recusam assinar, a lei verdadeira já começou a mudar de mãos.
 
-### 25F. Os animais primeiros
+### 2.11. Os animais primeiros
 
 Antes dos teólogos, antes dos linhageiros, antes dos reis, os animais compreenderam que a ordem do mundo havia rachado.
 
@@ -1488,7 +1511,7 @@ A autoridade humana odiava isso.
 
 Não há nada que humilhe mais um decreto do que um povo que confia primeiro no medo de seus animais.
 
-### 25G. As cidades de recolher lunar
+### 2.12. As cidades de recolher lunar
 
 As cidades muradas não voltaram à ordem antiga.
 
@@ -1528,7 +1551,7 @@ E, ao sobreviver, ficaram menores por dentro.
 
 A cada noite, a muralha protegia um pouco mais e aprisionava um pouco mais. A cada portão fechado, a humanidade defendida ali dentro parecia mais dependente de abandonar alguém do lado errado da pedra.
 
-### 25H. Os refúgios impossíveis
+### 2.13. Os refúgios impossíveis
 
 Nem todos aceitaram a ordem das muralhas.
 
@@ -1558,7 +1581,7 @@ O mundo não voltaria a ser humano por inteiro.
 
 A pergunta era se conseguiria ser habitado sem que todo habitante precisasse virar senhor, presa ou prova.
 
-### 31. O reconhecimento gradual das criaturas
+### 2.14. O reconhecimento gradual das criaturas
 
 As criaturas não reconhecem Severin como rei imediatamente.
 
@@ -1619,7 +1642,7 @@ Esse horror deve acompanhar cada manifestação. Quanto mais útil for o conheci
 
 ---
 
-### 31A. A língua traduzida pelo sangue
+### 2.15. A língua traduzida pelo sangue
 
 Os vampiros antigos chamavam a língua de **Veyrûm**.
 
@@ -1663,7 +1686,7 @@ E o sangue obedece.
 
 ---
 
-### 32. A serva vampírica leal
+### 2.16. A serva vampírica leal
 
 Uma das figuras centrais do retorno é uma serva vampírica de um dos últimos reis.
 
@@ -1719,7 +1742,7 @@ Virá da escolha.
 
 ## PARTE III — Verdade dinástica e Sangue Fundador
 
-### 3. O mundo antes do retorno
+### 3.1. O mundo antes do retorno
 
 Muito antes de Severin nascer, humanos e vampiros travaram uma guerra que remodelou continentes, fronteiras e religiões. Os vampiros não eram apenas predadores escondidos em criptas. Eram uma civilização de nações, castelos, exércitos, leis, nobres, servos, carrascos, arquivos, ritos de sangue e pactos com criaturas que os humanos só conheciam por pesadelos.
 
@@ -1775,7 +1798,7 @@ Mas o rumor bastava para começar.
 
 ---
 
-### 4. A antiga civilização vampírica
+### 3.2. A antiga civilização vampírica
 
 A civilização vampírica não era uma única nação lisa e obediente.
 
@@ -1803,7 +1826,7 @@ Por isso a bastardia era tão intolerável. Um bastardo não ameaçava apenas um
 
 ---
 
-### 4B. Os dois corpos da coroa
+### 3.3. Os dois corpos da coroa
 
 Entre os vampiros antigos, o rei nunca foi apenas um corpo.
 
@@ -1847,7 +1870,7 @@ Severin recebeu os dois como ferida.
 
 ---
 
-### 4C. Feudalismo de sangue e direito de alimentação
+### 3.4. Feudalismo de sangue e direito de alimentação
 
 A antiga civilização vampírica não se sustentava apenas por caça.
 
@@ -1891,7 +1914,7 @@ Que tipo de ordem ainda é prisão mesmo quando impede a morte?
 
 ---
 
-### 4A. A Linhagem da Lua de Sangue
+### 3.5. A Linhagem da Lua de Sangue
 
 A casa de Vaelrûn Sângelună não era apenas uma dinastia entre outras.
 
@@ -1929,7 +1952,7 @@ Severin precisou sangrar com ela.
 
 Por isso o céu não recebeu um rei limpo. Recebeu uma contradição. A Lua ficou ferida, não plena.
 
-### 4D. As quatro fases e a quinta ferida
+### 3.6. As quatro fases e a quinta ferida
 
 As quatro nações antigas levavam nomes de linhagens lunares.
 
@@ -1955,7 +1978,7 @@ Isso a tornava intolerável.
 
 ---
 
-### 4E. A Machina Cruoris
+### 3.7. A Machina Cruoris
 
 A Máquina do Sangue não foi criada no pânico da guerra.
 
@@ -1993,7 +2016,7 @@ Uma máquina coroada talvez só pudesse ser adorada ou destruída junto com o mu
 
 ---
 
-### 4F. O Pentaculum Lunae
+### 3.8. O Pentaculum Lunae
 
 Vistas de cima, as cinco terras formavam uma figura que os vampiros chamavam de **Pentaculum Lunae**.
 
@@ -2025,7 +2048,7 @@ E assim a guerra santa começou antes que a quinta nação tivesse tempo de se c
 
 ---
 
-### 4G. A Mortalha Branca
+### 3.9. A Mortalha Branca
 
 A arma que abriu a guerra não tinha forma de espada.
 
@@ -2071,7 +2094,7 @@ Ensinar a monstros que seus corpos podiam ser usados como páginas.
 
 ---
 
-### 4H. A morte dos reis e a Fossa Coronaria
+### 3.10. A morte dos reis e a Fossa Coronaria
 
 Depois da tortura, os corpos dos cinco reis foram levados ao castelo inacabado de Sângelună.
 
@@ -2123,7 +2146,7 @@ E a vitória começaria a respirar.
 
 ---
 
-### 5. O castelo abandonado
+### 3.11. O castelo abandonado
 
 O castelo de Sângelună não morreu de uma vez.
 
@@ -2161,9 +2184,22 @@ O castelo não o recebeu como herdeiro em salão limpo.
 
 Recebeu-o como fossa.
 
+
+### 3.12. A primeira geografia da ferida
+
+A vila de Severin chama-se **Veyr** nos registros do Ofício e **Veira Baixa** na boca dos camponeses. Fica no limite entre lavoura pobre, mata úmida e estrada de madeira antiga, longe o bastante das capitais para que o medo local pareça costume, perto o bastante das rotas de triagem para que uma denúncia encontre mesa, pena e selo.
+
+Ao norte de Veyr começa a **Floresta de Arveth**, uma extensão de árvores velhas, valas cobertas, marcos de estrada apagados e pedras que os aldeões evitam sem lembrar por quê. Em tempo comum, uma carroça contorna Arveth em quatro dias. Um homem fugindo, ferido e sem rumo atravessa seus limites em duas noites e perde qualquer noção de distância antes da terceira.
+
+No coração encharcado de Arveth ficam as ruínas de **Caer Sângelună**, o castelo inacabado da quinta nação. Os humanos não mantinham guarda visível ali porque acreditavam que a própria ruína, a floresta, os selos profundos e a vergonha enterrada eram defesa suficiente. A Ordem Branca conhecia a localização em mapas lacrados; o Ofício local conhecia apenas rumores, avisos de não escavação e nomes de famílias que desapareceram perto demais das pedras.
+
+Ao sul, a primeira cidade murada que Severin alcança depois do despertar é **Caldrava**, uma cidade de portão triplo, mercado de gado, templo de bacias novas e cartório velho o bastante para ter esquecido quantas famílias matou por margem. Caldrava não é capital. Isso a torna mais útil. Ali a máquina humana aparece em escala compreensível: guardas cansados, linhageiros de campo, mães com documentos molhados, crianças em fila e homens bons demais para se chamarem carrascos enquanto obedecem.
+
+A oeste, nas estradas de pedra alta, ficam os postos mais antigos da Ordem Branca. A leste, os rios descem para portos onde o Calendário Ferido começa a valer mais que decreto. Entre Veyr, Arveth e Caldrava, o primeiro livro encontra sua forma: casa queimada, floresta sem testemunha, castelo sem trono e cidade que tenta transformar todos os sobreviventes em entrada de arquivo.
+
 ---
 
-### 6. A linhagem bastarda
+### 3.13. A linhagem bastarda
 
 A família de Severin descende de Vaelrûn Sângelună, rei da quinta nação inacabada, e de uma mulher humana. Contudo, essa verdade nunca foi tratada como honra. Nenhum antepassado se sentou à mesa dizendo: “somos herdeiros de reis”. O que se dizia era mais baixo, mais amargo e mais útil para sobreviver:
 
@@ -2191,7 +2227,7 @@ Havia técnica de desaparecimento.
 
 ---
 
-### 6A. A Exstirpatio Lunae
+### 3.14. A Exstirpatio Lunae
 
 Depois da última guerra, as coroas humanas ensinaram ao povo que a linhagem real vampírica havia terminado.
 
@@ -2243,7 +2279,7 @@ Perseguiram a chave até a fechadura.
 
 E, porque a chave era mestiça, a fechadura abriu sem completar o fim.
 
-### 6B. A dormência lunar
+### 3.15. A dormência lunar
 
 A sobrevivência dos Sângelună nunca foi simples sorte.
 
@@ -2280,7 +2316,7 @@ Durante séculos, caçaram uma vela apagada.
 Quando a chama enfim acendeu, chamaram aquilo de prova de que sempre souberam onde estava o fogo.
 
 
-### 9. O segundo nascimento
+### 3.16. O segundo nascimento
 
 O nascimento verdadeiro de Severin, no sentido mítico, não acontece no ventre da mãe.
 
@@ -2306,7 +2342,7 @@ Essa é uma das ironias centrais da obra: a família de Severin passou geraçõe
 
 ---
 
-### 9B. O renascimento desordenado
+### 3.17. O renascimento desordenado
 
 Severin não voltou como recém-nascido.
 
@@ -2352,7 +2388,7 @@ Dá-lhe desorientação sagrada.
 
 Severin acorda como uma página queimada onde mãos antigas escreveram por cima com sangue. Algumas frases ainda são suas. Outras usam sua letra sem pedir licença. A primeira jornada dele não é descobrir um destino. É descobrir quais palavras, dentro da própria pele, ainda pode chamar de próprias.
 
-### 19. A maldição da restauração
+### 3.18. A maldição da restauração
 
 A maldição foi lançada por um mago leal a Vaelrûn Sângelună. Ele previu que a nação poderia cair, que a imortalidade dos reis poderia ser arrancada e que a coroa poderia ficar sem cabeça. Para impedir o fim definitivo, criou uma magia de retorno baseada em três elementos:
 
@@ -2396,7 +2432,7 @@ Reconheceu Severin, mas não o estabilizou. Deu-lhe precedência, mas não gover
 
 ---
 
-### 19A. O Ritus Coronae Sepultae
+### 3.19. O Ritus Coronae Sepultae
 
 O mago leal aos últimos reis não criou apenas uma maldição de retorno.
 
@@ -2482,7 +2518,7 @@ A culpa dele é falsa como crime.
 
 Verdadeira como causa.
 
-### 20. A Lua Ferida
+### 3.20. A Lua Ferida
 
 A lua de sangue não marcou o nascimento biológico de Severin. Ela marcou seu segundo nascimento.
 
@@ -2518,7 +2554,7 @@ Os astrônomos dizem que é impossível.
 
 Nenhum deles sabe ainda que o mundo antigo reconheceu outro sangue — e que esse sangue, por ser mestiço, abriu o retorno sem permitir que o fim se completasse.
 
-### 20A. As Duas Sombras
+### 3.21. As Duas Sombras
 
 A lua de sangue e o eclipse solar não são apenas presságios diferentes.
 
@@ -2560,7 +2596,7 @@ O eclipse devolve aos vivos a lembrança do que fizeram para continuar vivos.
 
 > **A Lua Ferida devolveu os mortos. A Sombra Branca devolveu aos vivos a lembrança do que fizeram para continuar vivos.**
 
-### 20B. A Luna Vulnata
+### 3.22. A Luna Vulnata
 
 Nem toda lua de sangue possui o mesmo peso.
 
@@ -2602,7 +2638,7 @@ A Lua Ferida foi o nascimento de Severin como Terceira Natureza.
 
 E o início de tudo que a última guerra matou sem encerrar.
 
-### 26. As memórias dos últimos reis
+### 3.23. As memórias dos últimos reis
 
 As memórias dos reis não chegam completas.
 
@@ -2647,7 +2683,7 @@ Todo sangue tem testemunhas.
 
 ---
 
-### 26A. A Regência dos Ossos
+### 3.24. A Regência dos Ossos
 
 As memórias dos reis não são conselheiras.
 
@@ -2685,7 +2721,7 @@ O dia em que ele compreender isso, os mortos descobrirão que despertaram dentro
 
 ---
 
-### 26B. A fonte hostil dos reis
+### 3.25. A fonte hostil dos reis
 
 Quando Severin altera uma sentença antiga, os Reis Mortos não reagem como fantasmas ofendidos.
 
@@ -2756,7 +2792,7 @@ Os Reis Mortos se calam.
 E esse silêncio diz mais do que a memória.
 
 
-### 26C. Os cinco reis dentro do sangue
+### 3.26. Os cinco reis dentro do sangue
 
 Os Reis Mortos não falam em coro perfeito.
 
@@ -2790,7 +2826,7 @@ Severin carrega ambos como memória.
 
 ---
 
-### 27. O Sangue Fundador
+### 3.27. O Sangue Fundador
 
 Antes de morrer, Severin era sangue misto: humano e vampírico. Para sua família, isso era vergonha. Para os humanos, era corrupção. Para os vampiros puros, seria bastardização.
 
@@ -2862,7 +2898,7 @@ Assim, o Sangue Fundador nunca é apenas dom.
 
 Essa soberania é uma das maiores ameaças políticas da história. Para os humanos, confirma o medo de que ele seja uma aberração capaz de violar corpos. Para os vampiros puros, destrói a ideologia da pureza: aquilo que eles chamariam de impuro possui uma autoridade que nenhum rei puro teve.
 
-### 27E. Limites absolutos do Sangue Fundador
+### 3.28. Limites absolutos do Sangue Fundador
 
 O Sangue Fundador é vasto, mas não é onipotente.
 
@@ -2891,7 +2927,7 @@ O sangue pode obedecer a ele mesmo quando ele erra.
 
 ---
 
-### 27A. O Eco Sanguíneo
+### 3.29. O Eco Sanguíneo
 
 O Sangue Fundador não existe em Severin como vinho dentro de uma taça. Ele existe porque Severin existe. Nasceu de seu corpo morto, de sua linhagem mestiça, de sua culpa, dos ossos reais e da maldição que tentou restaurar uma pureza que já não podia voltar. Por isso, fora dele, não encontra repouso.
 
@@ -2949,7 +2985,7 @@ Coagula.
 
 ---
 
-### 27AA. O Eco como camuflagem, dívida e mapa
+### 3.30. O Eco como camuflagem, dívida e mapa
 
 Os primeiros Ecos não nascem como estratégia.
 
@@ -3000,8 +3036,7 @@ A rede que escondia Severin desenha sua ausência central. Cada corpo salvo torn
 O rastro de misericórdia começa a fechar cerco.
 
 
-
-### 27AB. Os sonhos emprestados
+### 3.31. Os sonhos emprestados
 
 O Eco não marca apenas a carne.
 
@@ -3093,7 +3128,7 @@ O rei que viola por urgência e depois tenta chamar urgência de misericórdia.
 
 A vergonha desse erro não extingue a Mesa dos Nomes. Dá-lhe sua cláusula mais dura: até o soberano deve ser julgado quando usa uma memória sem consentimento.
 
-### 27B. O Coração Criador
+### 3.32. O Coração Criador
 
 O Sangue Fundador não nasce das veias.
 
@@ -3156,7 +3191,7 @@ Os reis são memória.
 ---
 
 
-### 27BA. A Sincronia Régia
+### 3.33. A Sincronia Régia
 
 A **Sincronia Régia** é a capacidade do Coração Criador de alterar temporariamente sua cadência para acessar, ordenar e amplificar matrizes régias preservadas no Sangue Fundador.
 
@@ -3218,7 +3253,7 @@ Por isso Severin precisará aprender uma regra íntima:
 > **Quando uma resposta vem perfeita demais, talvez não seja dele.**
 
 
-### 27BAA. A Gramática da Coroa
+### 3.34. A Gramática da Coroa
 
 A Sincronia mais perigosa não começa quando um rei morto grita.
 
@@ -3271,7 +3306,7 @@ A regra íntima da Gramática da Coroa será escrita tarde, depois de uma decis�
 Sem isso, cada sentença régia se tornará abrigo para o homem que já não suporta sentir as próprias mãos.
 
 
-### 27BB. O Arquisangue
+### 3.35. O Arquisangue
 
 O **Arquisangue** é o Sangue Fundador em estado fundacional.
 
@@ -3304,7 +3339,7 @@ Severin não controla matéria.
 
 Desperta arquitetura que reconhece, ainda que de modo quebrado, uma precedência fundadora.
 
-### 27BC. Leis do Arquisangue
+### 3.36. Leis do Arquisangue
 
 O Sangue Fundador é a substância viva de Severin: sangue que cura, fere, sela, chama, marca, retorna e impõe precedência.
 
@@ -3383,7 +3418,7 @@ A lei da ferida continua valendo.
 
 O sangue entende intenção, mas intenção ferida distorce comando.
 
-### 27BD. Relação entre Sincronia Régia e Arquisangue
+### 3.37. Relação entre Sincronia Régia e Arquisangue
 
 A Sincronia Régia é soberania voltada para dentro.
 
@@ -3419,7 +3454,7 @@ Fundador de uma lei nova.
 > **Sincronia Régia é quando Severin aprende a fazer os reis baterem dentro dele sem ser possuído por eles.**  
 > **Arquisangue é quando Severin aprende a fazer a pedra bater fora dele sem restaurar o mundo que a pedra servia.**
 
-### 27C. A Terceira Natureza
+### 3.38. A Terceira Natureza
 
 Severin foi mestiço antes da morte.
 
@@ -3479,7 +3514,7 @@ A maior disputa sobre Severin não será por seu corpo.
 
 Será por sua definição.
 
-### 27D. O Sangue em Luto
+### 3.39. O Sangue em Luto
 
 O Sangue Fundador não é obediente por natureza fora de Severin.
 
@@ -3532,7 +3567,7 @@ Mesmo roubado, seu sangue continua procurando um modo de voltar para casa.
 E toda casa que o prende antes disso começa a apodrecer ao redor da saudade.
 
 
-### 28. O poder sobre o próprio sangue
+### 3.40. O poder sobre o próprio sangue
 
 A primeira camada do poder de Severin é o domínio sobre o próprio sangue. Essa é a parte mais natural, embora ele não a compreenda de início. O corpo aprende antes da mente.
 
@@ -3577,7 +3612,7 @@ Talvez esteja na fome que vem depois.
 
 ---
 
-### 29. O poder sobre o sangue dos outros
+### 3.41. O poder sobre o sangue dos outros
 
 A segunda camada é mais perigosa: Severin pode influenciar o sangue de outros corpos.
 
@@ -3644,7 +3679,7 @@ Esse poder deve ser tratado como vantagem e ameaça. Severin pode salvar uma vid
 
 ---
 
-### 30. Custos e riscos do Sangue Fundador
+### 3.42. Custos e riscos do Sangue Fundador
 
 O Sangue Fundador não é uma solução simples.
 
@@ -3695,7 +3730,7 @@ Severin logo entende que salvar pela força do sangue não é o mesmo que curar.
 
 ---
 
-### 33. O Pulso do Trono
+### 3.43. O Pulso do Trono
 
 Depois do segundo nascimento, Severin começa a sentir algo que não sabe nomear.
 
@@ -3762,7 +3797,7 @@ Fala como corpo que não sabe se deve sarar ou apodrecer.
 ---
 
 
-### 33A. O Estado-Organismo
+### 3.44. O Estado-Organismo
 
 O primeiro reino de Severin não nasce em pedra.
 
@@ -3810,7 +3845,7 @@ Assim nasce a frase que os anexados repetirão com amor, rancor ou terror:
 
 > “Ele nos tirou da morte e nos colocou dentro dele.”
 
-### 33B. O Dividendo da Anexação
+### 3.45. O Dividendo da Anexação
 
 Ser anexado por Severin precisa valer alguma coisa.
 
@@ -3840,7 +3875,7 @@ O dividendo da anexação não é liberdade.
 
 Quando o fio salva, parece misericórdia. Quando aperta, revela posse.
 
-### 33C. A Dissidência Interna
+### 3.46. A Dissidência Interna
 
 Nenhum Estado-Organismo permanece são se aquilo que incorporou começa a odiar o coração.
 
@@ -3882,7 +3917,7 @@ Se Severin precisar ser amado para que seu poder funcione, será tirano de afeto
 
 Se aceitar ser odiado e ainda assim criar uma forma de proteção que não transforme ódio em massacre, talvez a lei dele seja mais que biologia.
 
-### 33D. A Gaiola de Ouro
+### 3.47. A Gaiola de Ouro
 
 Nem todo salvo deseja continuar salvo pela mesma mão.
 
@@ -3918,7 +3953,7 @@ E alguém guarda a chave.
 
 O Rei Sem Castelo, ao tentar permitir saída sem destruir os seus, constrói a primeira prisão que não pode chamar de prisão sem tremer.
 
-### 33E. A Falência Soberana
+### 3.48. A Falência Soberana
 
 A Falência Soberana não é morte.
 
@@ -3965,7 +4000,7 @@ Porque significa que sua melhor criação terá de aprender a sobreviver a ele.
 E talvez contra ele.
 
 
-### 37. Relação com os vampiros
+### 3.49. Relação com os vampiros
 
 Para os vampiros antigos, Severin será uma afronta e um milagre.
 
@@ -4041,7 +4076,7 @@ Assim, Severin descobre que fugir dos humanos não significa encontrar abrigo en
 ---
 
 
-### 37A. Instituições da velha noite
+### 3.50. Instituições da velha noite
 
 A antiga civilização vampírica possuía tanta burocracia quanto os homens, apenas mais antiga, mais elegante e mais faminta.
 
@@ -4071,7 +4106,7 @@ Basta que alguém ainda obedeça à forma.
 
 ---
 
-### 37B. A necrobiopolítica do tributo humano
+### 3.51. A necrobiopolítica do tributo humano
 
 Os vampiros antigos não governavam humanos apenas pela morte.
 
@@ -4101,7 +4136,7 @@ Severin terá de perceber que um sistema não se torna justo apenas porque é me
 
 ---
 
-### 37C. Pactos, demônios e credores antigos
+### 3.52. Pactos, demônios e credores antigos
 
 Os demônios pactuados não veem a queda do castelo como fim de contrato.
 
@@ -4133,7 +4168,7 @@ O risco não é que Severin seja enganado por mentira óbvia.
 
 ---
 
-### 39. Regras da herança e dos poderes
+### 3.53. Regras da herança e dos poderes
 
 A herança de Severin deve despertar aos poucos. Isso evita que ele se torne poderoso demais rápido e preserva o mistério.
 
@@ -4199,7 +4234,7 @@ Elas o acusam.
 
 ---
 
-### 39A. Leis de leitura, consentimento e resposta
+### 3.54. Leis de leitura, consentimento e resposta
 
 A soberania de Severin obedece a regras que nenhuma facção compreende de imediato, porque cada uma tenta traduzi-la para seu próprio idioma.
 
@@ -4232,7 +4267,7 @@ A sétima lei é a lei da definição. Quem define Severin tenta definir o mundo
 
 ## PARTE IV — A máquina humana de pureza, arquivo e fé
 
-### 24AA. A monarquia sagrada dos homens
+### 4.1. A monarquia sagrada dos homens
 
 Antes da última guerra, os humanos não se compreendiam como povos unidos por uma única Cátedra.
 
@@ -4286,7 +4321,7 @@ Essa frase alimentou séculos de ódio.
 
 E também deu aos humanos uma certeza perigosa: se os vampiros podiam roubar a forma da monarquia, então qualquer coisa humana podia ser profanada quando separada da vigilância da fé.
 
-### 24AB. A profanação da coroa e a vitória impossível
+### 4.2. A profanação da coroa e a vitória impossível
 
 A guerra entre humanos e vampiros não começou apenas por fome, território ou vingança.
 
@@ -4342,7 +4377,7 @@ O povo aprenderia outro nome.
 
 **A Virada da Cátedra.**
 
-### 24AC. A Virada da Cátedra
+### 4.3. A Virada da Cátedra
 
 A Virada da Cátedra foi apresentada como revelação.
 
@@ -4396,7 +4431,7 @@ Essa divisão salvou reinos.
 
 E transformou dúvida em pecado.
 
-### 24AD. A tríplice soberania da Sé Branca
+### 4.4. A tríplice soberania da Sé Branca
 
 A Sé Branca não é apenas o lugar onde se senta o pontífice.
 
@@ -4442,7 +4477,7 @@ E a alma, dizem os pregadores, em Deus.
 
 Os que conhecem os porões sabem que uma instituição pode continuar respirando muito tempo depois de esquecer onde termina a alma e começa o mecanismo.
 
-### 24AE. Como a Cátedra manda sem ser império
+### 4.5. Como a Cátedra manda sem ser império
 
 A Sé Branca não administra todas as aldeias humanas.
 
@@ -4482,7 +4517,7 @@ Ela não substitui os reis.
 
 Faz com que todos os reis precisem dela para parecerem mais que senhores armados.
 
-### 24AF. As Concordatas Brancas
+### 4.6. As Concordatas Brancas
 
 A relação entre a Sé Branca e os reinos humanos é escrita em tratados chamados **Concordatas Brancas**.
 
@@ -4522,7 +4557,7 @@ O sistema dura porque presta serviços que ninguém mais presta em escala semelh
 
 E porque cobra por eles em obediência.
 
-### 24AG. A Cúria Branca
+### 4.7. A Cúria Branca
 
 A Cúria Branca é o corpo administrativo da Sé.
 
@@ -4554,7 +4589,7 @@ A Cúria Branca não é una por virtude.
 
 O selo precisa do arquivo. O arquivo precisa da testemunha. A testemunha precisa do tribunal. O tribunal precisa da força. A força precisa da bula. A bula precisa do pontífice. O pontífice precisa que todos finjam, pelo menos em público, que ainda obedecem a Deus antes de obedecerem ao mecanismo.
 
-### 24AH. O Ofício, a Ordem e os braços da exceção
+### 4.8. O Ofício, a Ordem e os braços da exceção
 
 Depois da Virada da Cátedra, o Ofício da Pureza e a Ordem Branca deixaram de ser apenas restos da guerra antiga.
 
@@ -4590,7 +4625,7 @@ O erro da Sé não é inventar todos os monstros.
 
 É aprender depressa demais a chamar de monstro tudo aquilo que torna a administração difícil.
 
-### 24AI. As fissuras da Sé Branca
+### 4.9. As fissuras da Sé Branca
 
 A Sé Branca parece una vista de fora porque seus ritos foram feitos para ocultar rachaduras.
 
@@ -4618,7 +4653,7 @@ Nenhuma está livre de usar Deus como argumento para o próprio medo.
 
 É assim que a Sé Branca dura: não por ausência de conflito, mas por transformar conflito interno em procedimento, voto, parecer, segredo, concílio, sentença, bula e, quando tudo falha, silêncio.
 
-### 24AJ. O pecado de perguntar
+### 4.10. O pecado de perguntar
 
 A maior vitória da Virada da Cátedra não foi jurídica.
 
@@ -4667,8 +4702,7 @@ Foi assim que uma máquina construída para esconder culpa tornou-se, para milh�
 E foi assim que a fé verdadeira, ainda viva em muitos corações, ficou presa dentro de uma instituição que aprendera a confundir proteção com posse.
 
 
-
-### 24A. A última ordem mundial humana
+### 4.11. A última ordem mundial humana
 
 Depois que as criaturas retornam, os reis humanos descobrem que a guerra antiga nunca foi apenas uma guerra entre um reino humano e uma nação vampírica. Foi uma guerra mundial.
 
@@ -4710,7 +4744,7 @@ Depois da vitória, a Ordem Branca foi dissolvida em público.
 
 Em segredo, foi dividida.
 
-### 24B. Os Arquivos Partidos das Coroas
+### 4.12. Os Arquivos Partidos das Coroas
 
 Nenhuma casa real guarda a verdade inteira sobre a última guerra.
 
@@ -4758,7 +4792,7 @@ Todas sobreviveram porque alguém foi autorizado a deixar de contar certos corpo
 
 > **Cada casa guardou uma parte da vitória. Só quando reuniram os arquivos descobriram que haviam herdado um cadáver inteiro.**
 
-### 24C. A Sombra Branca
+### 4.13. A Sombra Branca
 
 O retorno político da antiga ordem não começa com uma proclamação.
 
@@ -4814,7 +4848,7 @@ A pergunta da Sombra Branca não é apenas se os homens podem vencer outra guerr
 
 E se o povo tem o direito de recusar essa atrocidade mesmo que a recusa possa condená-lo.
 
-### 24D. As facções da reativação
+### 4.14. As facções da reativação
 
 Quando a existência dos Arquivos Partidos começa a vazar, os reinos humanos racham antes mesmo de marchar.
 
@@ -4833,7 +4867,7 @@ Nenhuma está limpa.
 O medo dá argumentos aos cruéis. A verdade dá armas aos desesperados. A memória dá razão aos revoltados. E as criaturas continuam vindo.
 
 
-### 24G. A Ordem Branca reativada
+### 4.15. A Ordem Branca reativada
 
 A Ordem Branca não era apenas um exército.
 
@@ -4883,7 +4917,7 @@ A pergunta não é se ainda sabe fazer isso.
 
 ---
 
-### 24H. A máquina militar da Ordem Branca
+### 4.16. A máquina militar da Ordem Branca
 
 A Ordem Branca não venceu a última guerra com coragem.
 
@@ -4926,7 +4960,7 @@ Não bravura.
 Procedimento armado.
 
 
-### 24I. A logística do sal, do sino e da fome
+### 4.17. A logística do sal, do sino e da fome
 
 A máquina militar da Ordem Branca não funciona sem suprimento.
 
@@ -4962,7 +4996,7 @@ A Ordem Branca não é invencível.
 
 É perigosa porque, quando funciona, funciona bem o bastante para convencer os vivos de que todo custo anterior era necessário.
 
-### 24J. A economia do sangue no colapso
+### 4.18. A economia do sangue no colapso
 
 O retorno da noite não destrói apenas corpos.
 
@@ -4999,7 +5033,7 @@ Severin precisa enfrentar essa verdade sem conforto. Derrubar o Ofício não enc
 A Mesa dos Nomes, se quiser sobreviver, precisará aprender a pesar pão junto com testemunho.
 
 
-### 36. Relação com os humanos
+### 4.19. Relação com os humanos
 
 Os humanos não são um bloco único, mas o sistema humano é culpado.
 
@@ -5033,7 +5067,7 @@ Enfrenta uma civilização que ensinou o medo a escrever.
 
 ---
 
-### 36A. O Ofício contra a memória
+### 4.20. O Ofício contra a memória
 
 Quando Severin começa a falar línguas mortas, citar nomes enterrados, reconhecer pactos apagados e contradizer arquivos humanos com memórias que não deveria possuir, o Ofício da Pureza deixa de tratá-lo como mestiço comum.
 
@@ -5079,7 +5113,7 @@ Torna-se guerra de semântica.
 
 ---
 
-### 36AA. O Protocolum Regis Captivi
+### 4.21. O Protocolum Regis Captivi
 
 O Ofício da Pureza não mantém Severin vivo por misericórdia.
 
@@ -5160,7 +5194,7 @@ O Protocolum não cai porque a máquina é fraca.
 Cai quando muitas mãos tentam provar que são donas dela.
 
 
-### 36AB. Resposta Óssea, Resposta Bastarda e o Exame da Primeira Resposta
+### 4.22. Resposta Óssea, Resposta Bastarda e o Exame da Primeira Resposta
 
 Quando Severin começa a recusar as respostas fáceis dos Reis Mortos, o Ofício interpreta sua maturidade como defeito.
 
@@ -5216,7 +5250,7 @@ Sua sobrevivência passa a depender de uma linha estreita:
 
 fazer o Ofício precisar de seu julgamento sem conseguir provar que seu julgamento é sabotagem.
 
-### 36AC. Odrávia Dornacht e a Responsio Integrata
+### 4.23. Odrávia Dornacht e a Responsio Integrata
 
 Entre os Analistas de Arquivo Vivo, poucos nomes despertam tanto desconforto quanto **Magistra Odrávia Dornacht**.
 
@@ -5304,7 +5338,7 @@ Nenhum dos dois chama isso de aliança.
 
 Chamam de necessidade.
 
-### 36AD. A Operatio Palimpsestum
+### 4.24. A Operatio Palimpsestum
 
 Quando a Mesa dos Nomes começa a sobreviver ao fogo, Odrávia compreende que destruí-la por força direta seria erro menor.
 
@@ -5375,8 +5409,7 @@ Por isso sua guerra contra Severin deixa de ser apenas contenção.
 Torna-se corrida.
 
 
-
-### 36AE. O Analista de Lacunas
+### 4.25. O Analista de Lacunas
 
 O Ofício não vencerá Severin apenas encontrando seu sangue.
 
@@ -5410,7 +5443,7 @@ Sua frase mais temida dentro do Ofício será simples:
 
 > “Não me tragam culpados. Tragam a lacuna.”
 
-### 36AF. Os Lavadores de Óbito
+### 4.26. Os Lavadores de Óbito
 
 Se o Ofício caça lacunas, alguém precisa sujar os números.
 
@@ -5458,7 +5491,7 @@ Severin odeia essa diferença.
 
 Depois descobre que talvez precise dela.
 
-### 36AG. A Guerra de Legibilidade
+### 4.27. A Guerra de Legibilidade
 
 A nova guerra não se vence apenas com esconderijos.
 
@@ -5482,7 +5515,7 @@ Não porque venceu a máquina.
 
 Porque a máquina ainda procura a gaveta certa.
 
-### 36AH. O mercado negro de jurisdição
+### 4.28. O mercado negro de jurisdição
 
 Toda nova forma de pertencimento cria contrabando.
 
@@ -5507,7 +5540,7 @@ A Mesa chama de novo cativeiro.
 Severin percebe, tarde demais, que todo pertencimento capaz de salvar também pode ser comprado por quem deseja possuir.
 
 
-### 36B. As cinzas usadas contra ele
+### 4.29. As cinzas usadas contra ele
 
 Depois que Severin revoga uma sentença antiga, o Ofício entende que chamá-lo apenas de monstro já não basta. Monstros não revogam. Monstros não julgam. Monstros não libertam uma criatura condenada quando poderiam escravizá-la.
 
@@ -5557,7 +5590,7 @@ Nesse julgamento, a resposta madura de Severin não é negar a dor.
 
 ---
 
-### 36C. A Cristandade usurpada
+### 4.30. A Cristandade usurpada
 
 Nesta obra, o cristianismo existe.
 
@@ -5605,7 +5638,7 @@ A pergunta religiosa da obra não é se Deus existe ou se o mal existe.
 
 A pergunta é quem ganhou o direito de falar em nome do bem quando todos aprenderam a matar.
 
-### 36D. A Ecclesia Militans e a língua dos homens
+### 4.31. A Ecclesia Militans e a língua dos homens
 
 O latim é a língua alta do lado humano.
 
@@ -5684,7 +5717,7 @@ A língua das fogueiras.
 ## PARTE V — Fé, discernimento e terceira natureza fabricada
 
 
-### 36E. O clero sincero e a Taça Quebrada
+### 5.1. O clero sincero e a Taça Quebrada
 
 Nem todo altar pertence ao Ofício.
 
@@ -5720,7 +5753,7 @@ E talvez essa seja uma das verdades que Severin mais terá dificuldade de perdoa
 
 ---
 
-### 36F. Exorcistas, discernimento e erro sagrado
+### 5.2. Exorcistas, discernimento e erro sagrado
 
 Os exorcistas verdadeiros não são os homens que gritam mais alto.
 
@@ -5758,7 +5791,7 @@ Para alguém que teme ser apenas recipiente dos reis, essa frase pode ferir mais
 
 ---
 
-### 36G. A Prova da Taça e o julgamento do sangue
+### 5.3. A Prova da Taça e o julgamento do sangue
 
 A Prova da Taça nasceu de uma perversão pequena o bastante para parecer piedosa.
 
@@ -5800,7 +5833,7 @@ Depois mandará fechar as portas.
 
 ---
 
-### 36H. O procedimento da pureza
+### 5.4. O procedimento da pureza
 
 O Ofício raramente começa com fogo.
 
@@ -5834,13 +5867,13 @@ O fogo parecia menos cruel quando vinha depois de tantos substantivos.
 
 ---
 
-### 36HA. O linhageiro que escreveu primeiro
+### 5.5. O linhageiro que escreveu primeiro
 
-O primeiro linhageiro que encontra Severin não se torna importante por compreendê-lo.
+O linhageiro que escreveu Severin antes que Severin conseguisse escrever a si mesmo chama-se **Valerian Ors**.
 
-Torna-se importante por registrá-lo antes que Severin consiga registrar a si mesmo.
+Foi ele quem montou a pasta da família Sângelună. Foi ele quem comparou batismos, interrogou parteiras, recolheu rumores, conferiu margens e levou o nome de dentro da casa para o papel onde a casa começou a morrer antes do fogo.
 
-Seu nome, em documentos de campo, pode ser **Valerian Ors**, linhageiro menor, homem de luvas sempre limpas e voz baixa o bastante para parecer razoável. Não carrega glória militar. Não lidera caçadores. Não grita diante de multidões. Sua força está em chegar depois do horror e decidir como o horror será lembrado.
+Valerian é um linhageiro menor, homem de luvas sempre limpas e voz baixa o bastante para parecer razoável. Não carrega glória militar. Não lidera caçadores. Não grita diante de multidões. Sua força está em chegar antes do horror, preparar sua gramática, e depois decidir como o horror será lembrado.
 
 Ele transforma ataque em ocorrência, sobrevivente em unidade, salvação em interferência, medo em dado, gratidão em testemunho comprometido. Onde outros veem sangue no chão, ele vê sequência. Onde uma mãe vê a filha respirando, ele vê cicatrização sem autorização. Onde Severin vê uma mão estendida tarde demais para compensar outra casa em chamas, Valerian vê contato sanguíneo não certificado.
 
@@ -5892,7 +5925,7 @@ Um homem sem memória sendo escrito por inimigos.
 
 E, lentamente, aprendendo a corrigir a mão deles.
 
-### 36I. Cargos do Ofício e da Ordem Branca
+### 5.6. Cargos do Ofício e da Ordem Branca
 
 O Ofício da Pureza possui muitos rostos porque prefere que ninguém saiba qual deles carrega a lâmina.
 
@@ -5928,7 +5961,7 @@ Basta que cada um faça sua parte.
 
 ---
 
-### 36J. A máquina dividida
+### 5.7. A máquina dividida
 
 O Ofício da Pureza parece uma instituição única porque fala com selos iguais.
 
@@ -5969,7 +6002,7 @@ Uma máquina com partes famintas umas das outras.
 Enquanto essas partes se mordem, Severin passa. Quando param de se morder, nasce o Protocolum Regis Captivi.
 
 
-### 24E. O Officium Chimaerarum e o Opus Tertium
+### 5.8. O Officium Chimaerarum e o Opus Tertium
 
 A antiga ordem humana não venceu apenas com exércitos, fé, arquivos e fogo.
 
@@ -6021,7 +6054,7 @@ As quimeras eram partes costuradas em guerra.
 
 Severin era uma guerra transformada em coração.
 
-### 24F. As Foveae Belli
+### 5.9. As Foveae Belli
 
 Quando a última guerra terminou, as quimeras não terminaram com ela.
 
@@ -6064,7 +6097,7 @@ A pergunta não é apenas se as quimeras se curvarão aos descendentes de seus c
 É o que elas reconhecerão como inimigo quando descobrirem que seus criadores também eram monstros.
 
 
-### 24FB. As igrejas sobre as fossas
+### 5.10. As igrejas sobre as fossas
 
 Nem toda igreja foi erguida para aproximar os homens do céu.
 
@@ -6100,7 +6133,7 @@ A terra chamava de prisão.
 
 As quimeras, quando sonhavam, chamavam de espera.
 
-### 24FC. O despertar sob o altar
+### 5.11. O despertar sob o altar
 
 Quando a Lua não sarou, as igrejas-abismo foram as primeiras a responder sem admitir resposta.
 
@@ -6132,7 +6165,7 @@ Esses sinais não indicavam santidade.
 
 Indicavam risco de abertura.
 
-### 24FD. A guerra que os corpos sentem
+### 5.12. A guerra que os corpos sentem
 
 As quimeras não despertam por ideologia.
 
@@ -6190,7 +6223,7 @@ Talvez perguntem apenas onde está o campo.
 
 E, se olharem bem para os homens que seguram as chaves, poderão reconhecer neles o mesmo método que foram feitas para destruir.
 
-### 24FE. Os porões santos
+### 5.13. Os porões santos
 
 O povo não conhece a palavra Foveae.
 
@@ -6218,7 +6251,7 @@ E o chão tinha fome de guerra.
 
 ---
 
-### 24FA. A colisão das ordens
+### 5.14. A colisão das ordens
 
 Quando o Protocolum Regis Captivi aprende a forma de Severin, ele deixa de enfrentar apenas homens.
 
@@ -6261,13 +6294,13 @@ A fuga verdadeira não é sair da instalação.
 
 ## PARTE VI — Horizonte profético e colapso moral
 
-### 9A. A primeira mãe Sângelună
+### 6.1. Aureliana Valcár, a primeira mãe Sângelună
 
 A linhagem de Severin não começou apenas com transgressão.
 
 Começou com um parto que ninguém conseguiu transformar em plano.
 
-A mulher humana que gerou o filho do rei Sângelună não se reduz a segredo de alcova, fraqueza do rei ou escândalo genealógico. Ela foi o primeiro corpo onde a guerra futura tocou o sangue. Enquanto o castelo ainda resistia, enquanto os exércitos humanos avançavam e os vampiros acreditavam que derrota ou restauração eram as únicas possibilidades, ela carregava no ventre uma terceira hipótese que ninguém sabia nomear.
+Aureliana Valcár, a mulher humana que gerou o filho do rei Sângelună, não se reduz a segredo de alcova, fraqueza do rei ou escândalo genealógico. Ela foi o primeiro corpo onde a guerra futura tocou o sangue. Enquanto o castelo ainda resistia, enquanto os exércitos humanos avançavam e os vampiros acreditavam que derrota ou restauração eram as únicas possibilidades, ela carregava no ventre uma terceira hipótese que ninguém sabia nomear.
 
 O parto foi terrível.
 
@@ -6315,7 +6348,7 @@ Venceu em deformá-la.
 
 O filho viveu fora da forma esperada. Sem nome de corte, sem rito de sangue, sem alinhamento completo, sem registro claro. Daquele erro de sobrevivência vieram séculos de ocultamento, vergonha, nomes falsos e partos escondidos. A linhagem não sobreviveu porque a primeira mãe planejou a Terceira Natureza como doutrina. Sobreviveu porque uma mulher morrendo recusou entregar o próprio filho a qualquer sistema que já tivesse decidido o uso dele antes de seu primeiro choro.
 
-Talvez ela tenha deixado apenas frases partidas, preservadas depois por mulheres da linhagem em canções domésticas, rezas deformadas e avisos que ninguém compreendia por inteiro.
+Ela deixou frases partidas, preservadas depois por mulheres da linhagem em canções domésticas, rezas deformadas e avisos que ninguém compreendia por inteiro.
 
 > **A lua será o nascimento. O eclipse será o fim.**
 
@@ -6323,15 +6356,15 @@ Talvez ela tenha deixado apenas frases partidas, preservadas depois por mulheres
 
 > **Quando a sombra voltar vermelha à Terra, ninguém vencerá.**
 
-Vaelrûn talvez tenha ouvido parte disso. Talvez tenha negado. Talvez tenha entendido tarde demais que a criança nascida daquela mulher não deveria pertencer nem à corte vampírica, nem aos caçadores humanos, nem ao mago que preparava a restauração. Talvez tenha escondido a linhagem por vergonha, amor, medo ou lucidez. Talvez tenha chamado isso de proteção quando, na verdade, também era incapacidade de encarar a criança que provava sua desobediência à própria lei.
+Vaelrûn ouviu parte disso. Primeiro negou, porque todo rei treinado para fechar um ciclo odeia ouvir que o ciclo precisa falhar. Depois entendeu tarde demais que a criança nascida de Aureliana não deveria pertencer nem à corte vampírica, nem aos caçadores humanos, nem ao mago que preparava a restauração. Escondeu a linhagem por vergonha, amor, medo e lucidez misturados. Chamou isso de proteção quando, na verdade, também era incapacidade de encarar a criança que provava sua desobediência à própria lei.
 
 A história oficial nunca soube inteira.
 
 A primeira mãe Sângelună não morreu sem testemunha.
 
-Ao lado do leito havia um padre humano.
+Ao lado do leito havia um padre humano chamado **Emano Kel**.
 
-Ele não sabia quem era o pai da criança. Não sabia que o sangue nascendo diante dele vinha do rei Sângelună. Talvez tivesse sido chamado por piedade, talvez por medo de possessão, talvez porque o parto se tornara perigoso demais para permanecer apenas entre mulheres, panos e silêncio. Para ele, aquela era uma humana agonizante em tempos de guerra, não a origem secreta de uma linhagem que um dia atravessaria a coroa sepulta.
+Ele não sabia quem era o pai da criança. Não sabia que o sangue nascendo diante dele vinha do rei Sângelună. Fora chamado por uma criada humana que temia possessão e não tinha autoridade para mandar chamar sacerdotes de sangue. Para ele, aquela era uma humana agonizante em tempos de guerra, não a origem secreta de uma linhagem que um dia atravessaria a coroa sepulta.
 
 Quando as visões começaram, ele fez o que homens de arquivo fazem diante do incompreensível.
 
@@ -6361,7 +6394,7 @@ Pertenciam ao presente.
 
 E outras, piores, ainda estavam por vir.
 
-Mas a primeira mãe Sângelună viu antes de todos aquilo que humanos e vampiros levariam séculos para descobrir: se a coroa voltasse pura, o mundo acabaria em uma guerra perfeita.
+Mas Aureliana Valcár viu antes de todos aquilo que humanos e vampiros levariam séculos para descobrir: se a coroa voltasse pura, o mundo acabaria em uma guerra perfeita.
 
 Por isso a linhagem nasceu escondida.
 
@@ -6369,9 +6402,9 @@ Não como plano de salvação.
 
 Como filho arrancado às pressas de uma coroa que já o queria antes de conhecê-lo.
 
-### 9C. A falha que a primeira mãe deixou
+### 6.2. A falha que a primeira mãe deixou
 
-A primeira mãe Sângelună não venceu o mago em duelo de ritos.
+Aureliana Valcár não venceu o mago em duelo de ritos.
 
 Não invadiu seu laboratório.
 
@@ -6381,7 +6414,7 @@ Ela provavelmente nem sabia onde ele estava guardado.
 
 O que fez foi menor, mais íntimo e mais difícil de desfazer: impediu que a descendência obedecesse sem ruído ao desenho de restauração. O Ritus fora escrito como equação régia. Ossos, lua, sangue, castelo, retorno. O mago calculou a derrota e preparou uma resposta para a derrota. Seu erro foi imaginar que a descendência obedeceria à arquitetura de seus pergaminhos como uma porta obedece a uma dobradiça.
 
-A primeira mãe não escreveu em pergaminho.
+Aureliana não escreveu em pergaminho.
 
 Escreveu na sobrevivência.
 
@@ -6405,7 +6438,7 @@ Uma avó enterrada sob sobrenome menor.
 
 Uma linhagem que sobreviveu deixando de parecer linhagem.
 
-Nenhum descendente compreendeu inteiramente essa interrupção. Para os Sângelună, era apenas vergonha, risco, bastardia. Para os vampiros puros, se soubessem, seria degeneração. Para os humanos, ameaça. Só a visão da primeira mãe sabia o que aquilo era: não uma salvação garantida, mas uma deformação suficiente para que a coroa, quando voltasse a procurar corpo, encontrasse resistência dentro da própria legitimidade que desejava usar.
+Nenhum descendente compreendeu inteiramente essa interrupção. Para os Sângelună, era apenas vergonha, risco, bastardia. Para os vampiros puros, se soubessem, seria degeneração. Para os humanos, ameaça. Só a visão de Aureliana sabia o que aquilo era: não uma salvação garantida, mas uma deformação suficiente para que a coroa, quando voltasse a procurar corpo, encontrasse resistência dentro da própria legitimidade que desejava usar.
 
 Por isso Severin não é acidente simples.
 
@@ -6417,9 +6450,9 @@ O mago preparou o retorno dos reis.
 
 A primeira mãe impediu que eles encontrassem um caminho limpo de volta.
 
-### 20C. A Sombra Indistinta
+### 6.3. A Sombra Indistinta
 
-A visão final da primeira mãe Sângelună não terminava na Lua Ferida.
+A visão final de Aureliana Valcár não terminava na Lua Ferida.
 
 Terminava com uma dança.
 
@@ -6499,7 +6532,7 @@ O sangue impuro que adiou o fim precisará decidir se também pode impedir que a
 
 ## PARTE VII — Conflitos, figuras e caminhos possíveis
 
-### 38. Figuras de conflito
+### 7.1. Figuras de conflito
 
 #### O caçador da fogueira
 
@@ -6511,7 +6544,7 @@ Figura religiosa que transforma medo em doutrina. Vê Severin como prova de que 
 
 #### O nobre humano herdeiro dos vencedores
 
-Descendente de famílias que destruíram o castelo. Mantém documentos escondidos sobre a verdadeira história da guerra, inclusive sobre a criança humana de Vaelrûn Sângelună. Sua riqueza talvez tenha vindo da pilhagem vampírica.
+Descendente de famílias que destruíram o castelo. Mantém documentos escondidos sobre a verdadeira história da guerra, inclusive sobre a criança humana de Vaelrûn Sângelună. Sua riqueza veio da pilhagem vampírica, convertida em herança limpa por três gerações de testamentos, dotes e fundações piedosas.
 
 #### O vampiro puro da velha corte
 
@@ -6645,7 +6678,7 @@ Pode dizer a ele:
 
 Sua função não é apenas combate. É obrigar Severin a encarar uma versão fabricada de sua própria condição: corpos que nunca tiveram chance de ser pessoas antes de serem armas.
 
-### 40. Primeiro arco: o homem no ruído
+### 7.2. Livro I — Primeiro arco: o homem no ruído
 
 A primeira travessia de Severin não começa como restauração de coroa.
 
@@ -6765,7 +6798,7 @@ Mas já se tornou sinal.
 
 E todo sinal, quando uma instituição aprende a lê-lo, vira alvo.
 
-### 40A. Segundo arco: os nomes que viraram trilha
+### 7.3. Livro I — Segundo arco: os nomes que viraram trilha
 
 Depois da fuga, Severin acredita por pouco tempo que corrigir o livro foi vitória.
 
@@ -6850,7 +6883,7 @@ Os reis humanos se reúnem para montar os Arquivos Partidos. Ao juntar as peças
 
 #### Capítulo posterior: A primeira confissão pública
 
-Um fragmento dos arquivos vaza para o povo. Talvez por um escriba, talvez por um sacerdote, talvez por um rei confessional, talvez por Severin. A multidão descobre que a antiga vitória humana custou vidas inocentes deliberadamente sacrificadas. O povo que pedia proteção agora precisa decidir se aceita ser salvo por uma máquina feita para escolher quem ainda conta como humano.
+Um fragmento dos arquivos vaza para o povo por meio de um escriba da Cúria Branca que escolhe confissão em vez de obediência. A multidão descobre que a antiga vitória humana custou vidas inocentes deliberadamente sacrificadas. O povo que pedia proteção agora precisa decidir se aceita ser salvo por uma máquina feita para escolher quem ainda conta como humano.
 
 #### Capítulo posterior: A fé dividida
 
@@ -6882,7 +6915,7 @@ Uma das Foveae Belli começa a acordar. Os reis humanos discutem se devem libert
 
 A Lua de Sangue e o eclipse deixam de ser eventos separados. A Terra cobre a Lua e a Lua cobre a Terra. Não há mais sombra humana contra sombra monstruosa: há uma única sombra vermelha onde todos os lados adotam o método do extermínio. Severin precisa impedir que a indistinção vire lei final, não provando que um lado é puro, mas recusando a lógica que transforma toda sobrevivência em licença para destruir.
 
-### 40B. Terceiro arco: o rei cativo e a colisão das ordens
+### 7.4. Livro II — Terceiro arco: o rei cativo e a colisão das ordens
 
 Quando o Ofício enfim aprende a ler a repetição de Severin, sua ameaça muda de forma.
 
@@ -6932,7 +6965,7 @@ A instalação deixa de ser máquina. Vira tribunal quebrado onde cada método a
 
 #### Capítulo: Quem quiser sair, diga seu nome
 
-Severin recupera uma fresta. Talvez uma gota de sangue caia da boca ferida. Talvez toque o nome de Mara no registro da ala. Talvez não consiga ordenar, apenas chamar. Não ativa os portadores como soldados. Não os transforma em braços do Coração Criador. Diz, com voz quebrada ou sangue tremendo na página:
+Severin recupera uma fresta. Uma gota de sangue cai da boca ferida e toca o nome de Mara no registro da ala. Ele não consegue ordenar. Apenas chama. Não ativa os portadores como soldados. Não os transforma em braços do Coração Criador. Diz, com voz quebrada ou sangue tremendo na página:
 
 > “Quem quiser sair, diga seu nome.”
 
@@ -6958,7 +6991,7 @@ O terceiro arco termina quando Severin deixa de fugir apenas com pessoas.
 
 Foge com a caligrafia dos crimes.
 
-### 40C. Quarto arco: a praça e a Mesa dos Nomes
+### 7.5. Livro II — Quarto arco: a praça e a Mesa dos Nomes
 
 A verdade não purifica o povo.
 
@@ -7020,7 +7053,7 @@ Há mesa.
 
 #### Capítulo: A Mesa dos Nomes
 
-A primeira Mesa dos Nomes talvez seja feita de uma porta arrancada de templo abandonado, tábuas de carroça, madeira de uma casa que não queimou por pouco. Sobre ela se colocam arquivos roubados, listas da Exstirpatio, testemunhos de portadores, confissões de linhageiros, mapas de fossas, nomes de quimeras, documentos vampíricos, registros de tributo humano e cartas de padres que esconderam crianças.
+A primeira Mesa dos Nomes é feita de uma porta arrancada de templo abandonado, tábuas de carroça e madeira de uma casa que não queimou por pouco. Sobre ela se colocam arquivos roubados, listas da Exstirpatio, testemunhos de portadores, confissões de linhageiros, mapas de fossas, nomes de quimeras, documentos vampíricos, registros de tributo humano e cartas de padres que esconderam crianças.
 
 A Mesa não é reino.
 
@@ -7290,7 +7323,7 @@ O melhor escriba da Mesa chega como homem quebrado.
 
 Traz nome falso, dedos manchados de tinta antiga e um saco de documentos que nenhum fugitivo comum deveria possuir. Diz ter servido aos Redatores. Diz ter visto crianças virarem margens. Diz não pedir perdão, apenas trabalho. No primeiro interrogatório, aceita o Peso de Suspeita Primário sem protestar. Isso o torna mais convincente.
 
-Chama-se talvez **Edran Voss**, embora a Mesa registre o talvez junto ao nome.
+Chama-se **Edran Voss**. A Mesa registra o nome, a origem incompleta e a suspeita junto dele.
 
 Edran salva vidas.
 
@@ -7338,15 +7371,15 @@ Não como vítima. Não como primeira criança salva. Não como Portadora de Pri
 
 Como acusada.
 
-Edran revela, com provas que a Mesa não pode descartar, que Mara apagou outro nome para sobreviver. Talvez tenha entregado o nome de uma criança portadora durante uma triagem. Talvez tenha trocado uma ficha de rota para que uma família humana fosse marcada como colaboradora do Ofício e servisse de desvio. Talvez tenha retirado do registro da Mesa o nome de alguém que ameaçava denunciar um esconderijo. Talvez tenha chamado uma quimera consciente de fera irrecuperável para justificar seu abandono em uma fuga.
+Edran revela, com provas que a Mesa não pode descartar, que Mara apagou outro nome para sobreviver. Aos doze anos, durante uma triagem do Ofício antes da Mesa existir, ela entregou o nome de **Sana Vel**, uma criança portadora que dividia esconderijo com ela. Fez isso para retirar **Jori**, o menino menor que chamava de irmão, da fila de prova naquela mesma noite. Sana foi levada para uma ala de observação e desapareceu dos registros públicos antes do amanhecer.
 
-O detalhe pode mudar.
+A ferida não é abstrata.
 
-A ferida não.
+Tem nome.
 
 Mara fez, em escala menor e sob terror real, aquilo que a Mesa nasceu para impedir.
 
-Transformou alguém em categoria para continuar viva.
+Transformou Sana em categoria para que Jori continuasse vivo.
 
 A tenda da Mesa fica sem ar.
 
@@ -7354,7 +7387,7 @@ Os portadores esperam que Severin proteja Mara. Os humanos esperam que ele prove
 
 Mara não pede para ser apagada.
 
-Treme. Chora talvez. Odeia Edran. Odeia Severin por obrigá-la a existir diante de todos. Odeia a criança que foi, se foi criança. Odeia a palavra sobrevivência por ser pequena demais para aquilo que fez.
+Treme. Chora. Odeia Edran. Odeia Severin por obrigá-la a existir diante de todos. Odeia Jori por ter sobrevivido através dela. Odeia Sana por ter um nome que não a deixa dormir. Odeia a criança que foi. Odeia a palavra sobrevivência por ser pequena demais para aquilo que fez.
 
 Então diz:
 
@@ -7364,11 +7397,11 @@ Severin tenta falar seu nome como proteção.
 
 Ela o corta:
 
-> “Foi por isso que você me salvou, não foi? Para eu ter nome. Então escreve o que eu fiz com ele.”
+> “Foi por isso que você me salvou, não foi? Para eu ter nome. Então escreve o que eu fiz com o dela.”
 
 O nome de Mara entra no Livro das Cinzas.
 
-Não como monstro. Não como traidora. Não como menor contaminada. Como pessoa responsável por um ato ainda cercado de coerção, medo, idade, consequência e versão. A Mesa registra a culpa possível, a ameaça sob a qual ela agiu, o nome apagado, as testemunhas, as lacunas, o vínculo dela com Severin, o risco de julgamento contaminado pelo amor que muitos lhe têm e pelo ódio que outros lhe devem.
+Não como monstro. Não como traidora. Não como menor contaminada. Como pessoa responsável por um ato cercado de coerção, medo, idade, consequência e escolha. A Mesa registra o nome de Sana Vel antes do nome de Mara. Registra Jori como vida salva por uma culpa alheia. Registra a ameaça sob a qual Mara agiu, as testemunhas, as lacunas, o vínculo dela com Severin, o risco de julgamento contaminado pelo amor que muitos lhe têm e pelo ódio que outros lhe devem.
 
 Severin entende ali que é mais fácil ser justo com o inimigo.
 
@@ -7376,7 +7409,7 @@ O inimigo já vive longe do coração.
 
 Mara está dentro da primeira lei.
 
-A sentença dela, quando vier, não deverá ser fogueira. Talvez reparação. Talvez perda de posição simbólica. Talvez busca pelo nome apagado. Talvez obrigação de servir no Livro das Falsas Cinzas, onde a mentira é estudada não para destruir quem mentiu, mas para impedir que o medo continue fabricando apagamentos.
+A sentença dela não será fogueira. Perde a posição simbólica de primeira protegida da Mesa. Passa a servir no Livro das Falsas Cinzas, onde a mentira é estudada não para destruir quem mentiu, mas para impedir que o medo continue fabricando apagamentos. Enquanto Sana não for encontrada viva, morta ou transformada em outro nome, Mara carregará a obrigação pública de procurá-la.
 
 A frase que fica na Mesa depois dessa noite não pertence a Severin sozinho.
 
@@ -7401,7 +7434,7 @@ Um rei sem castelo que começou a erguer, em lugar de muralhas, uma mesa onde ni
 
 ---
 
-### 40D. Quinto arco: a Tesouraria dos Nomes
+### 7.6. Livro III — Quinto arco: a Tesouraria dos Nomes
 
 A Mesa descobriu cedo que nomes não atravessam inverno sozinhos.
 
@@ -7539,7 +7572,7 @@ A Mesa aprendeu que a fome não encerrava dívidas. Apenas escolhia quais dívid
 
 ---
 
-### 40E. A Inflação de Sangue
+### 7.7. A Inflação de Sangue
 
 Odrávia compreendeu a Tesouraria antes de alguns membros da própria Mesa.
 
@@ -7617,7 +7650,7 @@ Algumas derrotas entram no corpo antes de entrarem no livro.
 
 ---
 
-### 40F. A Guerra da Tinta
+### 7.8. A Guerra da Tinta
 
 A Mesa nasceu sobre madeira, mas sobreviveu em tinta.
 
@@ -7711,7 +7744,7 @@ E isso o enojou mais do que qualquer cofre.
 
 ---
 
-### 40G. O Livro da Mancha
+### 7.9. O Livro da Mancha
 
 O Livro da Mancha nasceu pequeno.
 
@@ -7831,7 +7864,7 @@ Chamava de abandono.
 
 ---
 
-### 40H. A Lei do Intervalo
+### 7.10. A Lei do Intervalo
 
 A Cláusula de Exaustão calou a Mesa no pior momento.
 
@@ -7925,7 +7958,7 @@ E que o primeiro acusado, quase sempre, seria o rei.
 
 ---
 
-### 40I. O Cancelário e o Procurador
+### 7.11. O Cancelário e o Procurador
 
 O Cancelário da Mancha veio do Ofício.
 
@@ -7933,7 +7966,7 @@ Isso bastava para que metade da Mesa o odiasse.
 
 Ele conhecia a linguagem da absolvição. Sabia quando uma frase transformava tomada em preservação, atraso em prudência, confisco em restituição, coerção em contenção, morte em dano colateral, fome em custo operacional. Não precisava de espada. Carregava uma caneta de tinta vermelha escura e uma memória treinada para reconhecer o momento em que uma instituição começa a mentir usando palavras corretas.
 
-Seu nome talvez fosse **Tavian Ors**.
+Seu nome era **Tavian Ors**.
 
 No Ofício, escrevera pareceres que nunca acenderam uma tocha diretamente. Isso era o que o tornava perigoso. Ele sabia que a distância entre mesa e fogueira era curta o bastante para caber em um selo.
 
@@ -7941,7 +7974,7 @@ Quando chegou à Mesa, não pediu perdão. Pediu função.
 
 Severin quase o recusou.
 
-Mara, ainda viva, disse que talvez fosse útil ter perto alguém que soubesse como uma frase aprende a matar.
+Mara, ainda viva, disse que era útil ter perto alguém que soubesse como uma frase aprende a matar.
 
 Tavian tornou-se Cancelário porque ninguém confiava nele o suficiente para deixá-lo invisível.
 
@@ -7971,7 +8004,7 @@ O **Procurador dos Vivos**.
 
 Se o Cancelário perguntava com que direito, o Procurador perguntava quem morreria se a Mesa esperasse. Levava listas de doentes, rotas fechadas, crianças sem pão, portadores em febre, corpos que não aguentariam nova noite. Não falava em pureza. Falava em respiração.
 
-A primeira Procuradora talvez fosse **Iria Vhal**, ex-parteira de vila, humana, mulher que mentira em três batismos e perdera dois recém-nascidos porque chegou tarde demais com uma certidão falsa. Ela não tinha paciência para a beleza dos princípios quando alguém tremia de febre no chão.
+A primeira Procuradora foi **Iria Vhal**, ex-parteira de vila, humana, mulher que mentira em três batismos e perdera dois recém-nascidos porque chegou tarde demais com uma certidão falsa. Ela não tinha paciência para a beleza dos princípios quando alguém tremia de febre no chão.
 
 Iria e Tavian não eram opostos simples.
 
@@ -7997,7 +8030,7 @@ A Mesa não permitia que nem a letra da lei nem a voz da carne falassem sem deix
 
 ---
 
-### 40J. A Trava do Fundador
+### 7.12. A Trava do Fundador
 
 A Mesa só se tornou real quando preparou uma forma de deter Severin.
 
@@ -8055,7 +8088,7 @@ Também não a apagou.
 
 O primeiro uso da Trava veio depois da morte dela.
 
-O abrigo norte ardia. Os registros estavam espalhados na lama. A tinta contaminada cantara para os cães. O Ofício chegara com tochas, sinos cardíacos e bacias cobertas. Mara não morreu como mártir. Morreu com medo. Talvez tenha chamado Severin. Talvez tenha chamado a Mesa. Talvez só tenha chamado o nome que ela mesma colocara no Livro das Cinzas para não mentir mais.
+O abrigo norte ardia. Os registros estavam espalhados na lama. A tinta contaminada cantara para os cães. O Ofício chegara com tochas, sinos cardíacos e bacias cobertas. Mara não morreu como mártir. Morreu com medo. Chamou Severin primeiro. Depois, com a voz rasgada, chamou a Mesa. No fim, chamou Sana, o nome que ela mesma colocara no Livro das Cinzas para não mentir mais.
 
 Severin chegou tarde.
 
@@ -8089,7 +8122,7 @@ Depois disse:
 
 A testemunha que aceitou o refluxo não foi amiga de Severin.
 
-Talvez tenha sido **Noem**, um portador que detestava Mara pelo crime escrito no Livro das Cinzas. Talvez tenha sido alguém cuja irmã morreu por causa de um apagamento parecido com o dela. Talvez tenha sido justamente esse ódio que o tornou capaz de entender que vingança sem Mesa devoraria também os mortos que Mara havia ferido.
+Foi **Noem**, um portador que detestava Mara pelo crime escrito no Livro das Cinzas. A irmã dele morreu por causa de um apagamento parecido com o dela. Foi justamente esse ódio que o tornou capaz de entender que vingança sem Mesa devoraria também os mortos que Mara havia ferido.
 
 Noem abriu o próprio pulso.
 
@@ -8123,7 +8156,7 @@ E, por isso, real.
 
 ---
 
-### 40K. A Regência de Intervalo
+### 7.13. A Regência de Intervalo
 
 A Trava do Fundador criou outro terror.
 
@@ -8179,7 +8212,7 @@ Severin, justamente por isso, precisava ensinar.
 
 ---
 
-### 40L. Mara depois do fogo
+### 7.14. Mara depois do fogo
 
 A morte de Mara não encerrou Mara.
 
@@ -8263,9 +8296,9 @@ Quase.
 
 O Opus Quartum permaneceu fechado, não porque a Mesa era pura o bastante para recusá-lo, mas porque ninguém conseguiu provar que aceitar esperança produzida pelo Ofício não transformaria Mara em mais uma página usada para governar Severin.
 
-Talvez um dia o selo fosse aberto.
+Um dia o selo ainda poderia ser aberto.
 
-Se fosse, não seria pelo amor dele sozinho.
+Se abrisse, não seria pelo amor dele sozinho.
 
 Isso não o consolou.
 
@@ -8273,7 +8306,7 @@ A lei raramente consola aquilo que impede.
 
 ---
 
-### 40M. O Livro da Mancha roubado
+### 7.15. O Livro da Mancha roubado
 
 Odrávia não precisava falsificar o Livro da Mancha.
 
@@ -8363,7 +8396,7 @@ Era correto demais para parecer misericórdia.
 
 ---
 
-### 40N. O rei como objeto da lei
+### 7.16. O rei como objeto da lei
 
 A Mesa dos Nomes começou para devolver pessoas às categorias que as haviam devorado.
 
@@ -8438,8 +8471,7 @@ Está mais próximo de ser governável.
 E isso, para um homem feito de sangue fundador, talvez seja a forma mais dolorosa de esperança.
 
 
-
-### 40O. Sexto arco: a guerra das três noites
+### 7.17. Horizonte final — Sexto arco: a guerra das três noites
 
 Quando o retorno deixa de ser rumor e passa a ser mapa, a guerra já começou sem que nenhum rei a tenha declarado.
 
@@ -8537,7 +8569,7 @@ Se não encontrar, a Umbra Indistincta não precisará cair do céu.
 
 Já estará praticada na terra.
 
-### 41. Momentos de ruptura emocional
+### 7.18. Momentos de ruptura emocional
 
 #### O primeiro controle falho
 
@@ -8592,7 +8624,7 @@ Alguém antigo ou erudito ouve “Severin Sângelună” e percebe algo que ele 
 
 #### A lembrança corrigida
 
-Mais adiante, Severin pode descobrir que a família não o viu como covarde. Talvez a mãe o tenha mandado fugir. Talvez o pai tenha morrido aliviado por ele ter escapado. Essa revelação não apaga a culpa, mas quebra sua mentira central.
+Mais adiante, Severin descobre que a família não o viu como covarde. Mirela o mandou fugir. Corvin morreu aliviado por ele ter escapado. Vespera segurou a porta sem chamá-lo de volta. Ilona chamou seu nome porque era criança, não porque o condenava. Essa revelação não apaga a culpa, mas quebra sua mentira central.
 
 #### O castelo chamando
 
@@ -8652,7 +8684,7 @@ Entre vampiros, Severin descobre que cortesia também pode conter. Corrigem sua 
 
 #### O sangue que executa
 
-Severin encontra um linhageiro culpado por purificações. Poderia salvar. Não salva. Talvez impeça o sangue do homem de coagular. Talvez feche a mão e encerre a vida dele. O importante é que a cena não o santifique. A morte pode ser justa e ainda revelar algo terrível no executor.
+Severin encontra um linhageiro culpado por purificações. Poderia salvar. Não salva. Impede o sangue do homem de coagular e fica olhando tempo demais antes de deixá-lo morrer. O importante é que a cena não o santifique. A morte pode ser justa e ainda revelar algo terrível no executor.
 
 #### A segunda revogação
 
@@ -8743,9 +8775,9 @@ Severin encontra a Exstirpatio Lunae em arquivo fechado. Não há poesia no docu
 
 Uma Chimaera Alba desperta e encara Severin não como rei, mas como insulto vivo. Ela vê nele a síntese que os humanos tentaram fabricar com lâminas. Ele vê nela uma existência que nunca pôde escolher não ser arma. O encontro é menos triunfo e mais espelho: dois corpos chamados de erro por razões opostas.
 
-#### A mãe que morre vendo o fim
+#### Mirela, a mãe que morre vendo o fim
 
-Em sonho, sangue ou memória herdada, Severin vê a primeira mãe Sângelună durante o parto. Ela não fala como profeta. Ela sangra, agarra tecido, tenta explicar imagens que nenhum corpo humano deveria carregar e morre antes de terminar. O horror da cena está em perceber que a linhagem dele começou com uma mulher vendo uma guerra que ainda não existia.
+Em sonho, sangue ou memória herdada, Severin vê Aureliana Valcár durante o parto. Ela não fala como profeta. Ela sangra, agarra tecido, tenta explicar imagens que nenhum corpo humano deveria carregar e morre antes de terminar. O horror da cena está em perceber que a linhagem dele começou com uma mulher vendo uma guerra que ainda não existia.
 
 #### A Lua que aprendeu a sangrar
 
@@ -8882,7 +8914,7 @@ Os anexados continuam ligados, mas sem governo estável. Alguns entram em febre.
 Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem ferido.
 
 
-### 42. Frases-guia da obra
+### 8.1. Frases-guia da obra
 
 > **Ele não despertou para governar. Despertou perdido, entre as ruínas de uma coroa que ninguém sabia que ainda existia.**
 
@@ -9148,7 +9180,6 @@ Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem 
 **Nenhuma facção era pura o bastante para vencer sem se tornar método da Sombra Indistinta.**
 
 
-
 > **O Rei Sem Castelo construiu seu primeiro castelo dentro das veias de quem salvou.**
 
 > **Ser salvo por Severin era sobreviver à morte e acordar dentro de uma lei que não se havia escolhido.**
@@ -9180,7 +9211,7 @@ Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem 
 > **O mundo não precisava amar o monstro que o salvava. Precisava ter o direito de acusá-lo depois.**
 
 
-### 42A. O Veyrûm
+### 8.2. O Veyrûm
 
 A língua antiga dos reis não nasceu para conversar.
 
@@ -9206,7 +9237,7 @@ O Veyrûm não perguntava primeiro o que se dizia.
 
 Perguntava quem sangrava por aquilo.
 
-### 42B. Os três corpos da palavra
+### 8.3. Os três corpos da palavra
 
 Toda palavra ritual em Veyrûm possui três corpos.
 
@@ -9244,7 +9275,7 @@ Nesses atos, som sem traço é vento. Traço sem sangue é cópia. Sangue sem vo
 
 Essa tríade explica por que os vampiros puros temiam erros de pronúncia, por que o Ofício da Pureza aprendeu a recolher documentos manchados antes de recolher cadáveres, e por que Severin, ao tocar uma página, às vezes conseguia fazer a tinta hesitar. A língua não vivia apenas na boca. Vivia também na superfície onde a boca tentava deixar prova.
 
-### 42C. Os estados do sangue
+### 8.4. Os estados do sangue
 
 O Veyrûm não organiza a ação apenas pelo tempo.
 
@@ -9280,7 +9311,7 @@ Ele não pergunta apenas quando.
 
 Pergunta em que estado de sangue a realidade está tentando se tornar lei.
 
-### 42D. Raiz, osso e vogal
+### 8.5. Raiz, osso e vogal
 
 Na escrita antiga, muitas palavras do Veyrûm eram registradas sem vogais.
 
@@ -9330,7 +9361,7 @@ Severin prova algo mais perigoso.
 
 Pode sangrar uma nova.
 
-### 42E. Pronomes de jurisdição
+### 8.6. Pronomes de jurisdição
 
 No Veyrûm, o pronome não é inocente.
 
@@ -9362,7 +9393,7 @@ O “Nós” governa porque distribui a culpa por uma instituição.
 
 Quando Vaelrûn sobe pela garganta de Severin, a primeira perda nem sempre é uma palavra antiga. Às vezes é apenas isto: Severin deixa de conseguir dizer On.
 
-### 42F. Testemunho pelo sangue
+### 8.7. Testemunho pelo sangue
 
 O Veyrûm obriga a verdade a declarar sua origem.
 
@@ -9394,7 +9425,7 @@ O Veyrûm antigo não possuía essa misericórdia.
 
 Precisou de uma criança dizendo “eu não quero sonhar sua casa” para que a língua começasse a aprender.
 
-### 42G. Voz, pulso e registro
+### 8.8. Voz, pulso e registro
 
 O Veyrûm não é pronunciado apenas com boca.
 
@@ -9428,7 +9459,7 @@ Para o sangue, ele fala com coração novo.
 
 Essa é a ofensa.
 
-### 42H. A Veyrath, escrita das veias
+### 8.9. A Veyrath, escrita das veias
 
 A escrita alta do Veyrûm chama-se **Veyrath**.
 
@@ -9454,7 +9485,7 @@ Consegue o suficiente para ser perigoso.
 
 Perde o bastante para errar de modo monstruoso.
 
-### 42I. Sobremarcas hemáticas
+### 8.10. Sobremarcas hemáticas
 
 O sangue não substitui a frase.
 
@@ -9484,7 +9515,7 @@ O Veyrûm antigo dizia que sangue validava a palavra.
 
 Severin ensina que sangue também pode acusá-la.
 
-### 42J. Erro, ruptura e outra sentença
+### 8.11. Erro, ruptura e outra sentença
 
 Em línguas comuns, erro de pronúncia pode produzir riso, confusão ou vergonha.
 
@@ -9508,7 +9539,7 @@ O Ofício chama de instabilidade.
 
 A Mesa dos Nomes chamará de precedente.
 
-### 42K. O Veyrûm e o Ofício
+### 8.12. O Veyrûm e o Ofício
 
 Os humanos nunca dominaram o Veyrûm.
 
@@ -9534,7 +9565,7 @@ Por isso, quando Severin começa a fazer nomes respirarem antes de categorias, o
 
 Vê gramática inimiga.
 
-### 42L. O Veyrûm entre mestiços e escondidos
+### 8.13. O Veyrûm entre mestiços e escondidos
 
 Depois da guerra, o Veyrûm alto tornou-se perigoso demais para sobreviver inteiro fora dos arquivos.
 
@@ -9542,9 +9573,9 @@ Entre famílias mestiças, restaram pedaços.
 
 Palavras para não sangrar diante de estranhos. Palavras para desacelerar cura. Palavras para chamar uma criança de volta quando ela olhava tempo demais para a Lua. Palavras usadas por parteiras antes de queimar panos. Palavras de carinho que, séculos antes, talvez tivessem sido títulos de vassalagem. Palavras de medo que já foram nomes de ritos.
 
-Os Sângelună talvez não soubessem que falavam restos de Veyrûm.
+Os Sângelună não sabiam que falavam restos de Veyrûm.
 
-Quando a mãe de Severin murmurava sobre feridas que precisavam parecer humanas, talvez usasse uma palavra antiga para “fechar devagar”. Quando o pai dizia que a casa precisava “esfriar” depois de visita do templo, talvez repetisse um termo de ocultação nascido em Nóvralith. Quando uma irmã provocava Severin por enxergar no escuro, talvez usasse, sem saber, um diminutivo que servos antigos davam a crianças de sangue noturno.
+Quando Mirela murmurava sobre feridas que precisavam parecer humanas, usava uma palavra antiga para “fechar devagar”. Quando Corvin dizia que a casa precisava “esfriar” depois de visita do templo, repetia um termo de ocultação nascido em Nóvralith. Quando Vespera provocava Severin por enxergar no escuro, usava, sem saber, um diminutivo que servos antigos davam a crianças de sangue noturno.
 
 Esse resto doméstico é importante.
 
@@ -9556,7 +9587,7 @@ Quando as duas camadas se encontram em sua boca, o Veyrûm deixa de pertencer ap
 
 Passa a carregar cinza de casa humana.
 
-### 42M. A Fala Fundadora
+### 8.14. A Fala Fundadora
 
 A Fala Fundadora não é outro idioma.
 
@@ -9590,7 +9621,7 @@ Também pode invadir. Também pode anexar. Também pode impor nome onde havia re
 
 Uma língua que pode reabrir sentenças injustas também pode abrir corpos demais.
 
-### 42N. Fórmulas, fragmentos e frases de sangue
+### 8.15. Fórmulas, fragmentos e frases de sangue
 
 O Veyrûm preserva fórmulas antigas, mas nenhuma fórmula permanece inocente depois de atravessar Severin.
 
@@ -9636,7 +9667,7 @@ Eu testemunho. Meu sangue responde. A Coroa espera.
 
 Essa tríade nasce depois da Mesa. Não vem dos reis. É fórmula de contenção: antes que Severin fale como Korun, deve haver On; antes que o sangue responda, deve haver testemunho; antes que a Coroa decida, deve haver intervalo.
 
-A frase mais importante do novo Veyrûm talvez ainda não exista no começo da história.
+A frase mais importante do novo Veyrûm ainda não existe no começo da história.
 
 Será escrita quando os anexados entenderem que podem falar dentro da jurisdição que os possui:
 
@@ -9645,7 +9676,7 @@ Será escrita quando os anexados entenderem que podem falar dentro da jurisdiç�
 Meu nome vive. A sentença não fechou.
 
 
-### 43. Ritos, leis e costumes do sangue
+### 8.16. Ritos, leis e costumes do sangue
 
 #### O Ofício da Pureza
 
@@ -9860,7 +9891,6 @@ Quimeras Brancas. Criaturas híbridas fabricadas pela antiga ordem humana para e
 Fossas da Guerra. Prisões profundas onde as quimeras foram trancadas quando seus criadores não conseguiram destruí-las. Abismos, montanhas ocas, cisternas de sal, câmaras sem ar e fortalezas enterradas, colocadas em lugares onde humanos comuns não poderiam chegar vivos. As quimeras não dormem ali como prisioneiras comuns. Esperam a guerra voltar a dar sentido ao corpo.
 
 
-
 #### Os Porões Santos
 
 Nome popular para igrejas, mosteiros e catedrais construídos sobre Foveae Belli. O povo acredita que guardam santos, demônios derrotados ou relíquias perigosas. Em muitos casos, guardam quimeras humanas em contenção.
@@ -9919,7 +9949,7 @@ O Ofício pode tentar registrar essa condição como **Forma Tertia Sanguinis** 
 
 #### A Umbra Indistincta
 
-Evento final profetizado pela primeira mãe Sângelună: uma sombra impossível em que a lógica da Lua de Sangue e a lógica do eclipse se unem. A Terra cobre a Lua e a Lua cobre a Terra. A sombra humana e a sombra monstruosa deixam de aparecer como forças separadas.
+Evento final profetizado por Aureliana Valcár, a primeira mãe Sângelună: uma sombra impossível em que a lógica da Lua de Sangue e a lógica do eclipse se unem. A Terra cobre a Lua e a Lua cobre a Terra. A sombra humana e a sombra monstruosa deixam de aparecer como forças separadas.
 
 A Umbra Indistincta representa a morte da diferença moral entre humano e não humano. Não porque todos se tornem iguais em sangue, mas porque todos aceitam o mesmo método de extermínio. Sob ela, a palavra monstro deixa de nomear uma espécie e passa a nomear uma prática.
 
@@ -9983,7 +10013,7 @@ Nome recuperado pela Mesa dos Nomes quando uma criatura, pessoa, vila ou pacto f
 
 Cláusula tardia da Mesa dos Nomes. Determina que nenhuma necessidade de guerra apaga a responsabilidade de quem colhe memória sem consentimento. Nasceu depois que Severin quebrou o Voto do Nome Presente para salvar vivos em uma situação impossível. A Mesa não nega o resultado. Registra a violação junto dele. A lei de Severin só se torna diferente da lei antiga quando aceita escrever também os crimes do próprio fundador.
 
-### 43A. Nomenclatura latina do lado humano
+### 8.17. Nomenclatura latina do lado humano
 
 A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano usa nomes de sabor latino, cristão, jurídico e eclesiástico. Muitos termos podem ser latim clássico correto, latim eclesiástico, latim de chancelaria ou formas corrompidas pelo uso popular. Isso é útil porque os próprios reinos não precisam falar um latim perfeito. Precisam falar um latim herdado, sacralizado e usado como instrumento de autoridade.
 
@@ -10273,7 +10303,7 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Domus Lunae Sanguineae** — Casa da Lua de Sangue. Nome latino de chancelaria para a antiga linhagem real vampírica, usado por humanos em arquivos hostis ou eruditos.
 
-**Visio Parturientis** — Visão da Parturiente. Relato escrito pelo padre que testemunhou as visões da primeira mãe Sângelună durante o parto.
+**Visio Parturientis** — Visão da Parturiente. Relato escrito por Emano Kel, o padre que testemunhou as visões de Aureliana Valcár durante o parto.
 
 #### Fórmulas úteis
 
@@ -10323,7 +10353,7 @@ E, porque a chave era mestiça, a fechadura abriu sem completar o fim.
 
 ---
 
-### 43B. A gramática dos nomes disputados
+### 8.18. A gramática dos nomes disputados
 
 Na velha noite, nenhum nome importante era simples.
 
@@ -10437,7 +10467,7 @@ Os Reis Mortos não o chamarão de Severin quando desejarem dominá-lo. Chamarã
 
 Os vampiros puristas o chamarão de **Maculatus**, o manchado, porque bastardia é uma palavra curta demais para o nojo que desejam preservar. Dirão Bastardo da Quinta Ferida quando quiserem reconhecer o perigo sem reconhecer a dignidade. Dirão Sangue Usurpador quando precisarem explicar por que suas próprias veias hesitam diante dele.
 
-Os vampiros pragmáticos o chamarão de Fonte, Coração, Chave ou Retorno Possível. Não por amor. Porque algumas cortes são menos religiosas que famintas. Aquilo que pode ordenar a ruína torna-se útil antes de tornar-se legítimo.
+Os vampiros pragmáticos o chamarão de Fonte, Coração, Chave ou Retorno Incompleto. Não por amor. Porque algumas cortes são menos religiosas que famintas. Aquilo que pode ordenar a ruína torna-se útil antes de tornar-se legítimo.
 
 O Ofício o chamará de Caso Sângelună, Fonte Primária, Anomalia Soberana, Corpo de Arquivo Vivo, reclamante de linhagem, Forma Tertia Sanguinis. Evitará chamá-lo de rei porque rei é palavra que pode gerar testemunha. Evitará chamá-lo de Severin porque pessoa é categoria difícil de queimar sem deixar culpa.
 
@@ -10447,7 +10477,7 @@ A Ordem Branca o chamará de alvo, foco, eixo de retorno, prioridade rubra, amea
 
 O povo o chamará como puder: homem da Lua Ferida, abismo que anda, morto das ruínas, rei sem castelo, aquele que veio depois dos monstros. O povo nomeia com medo e imagem. Às vezes acerta mais que os doutores.
 
-Os portadores de Eco, quando não estiverem furiosos demais para falar, talvez digam apenas Severin.
+Os portadores de Eco, quando não estiverem furiosos demais para falar, dirão apenas Severin.
 
 Esse será o nome mais perigoso.
 
@@ -10493,9 +10523,9 @@ O arquivo nomeia de fora.
 
 A mesa exige que o nome sobreviva ao olhar de quem foi nomeado.
 
-Se algum reino nascer de Severin, seus primeiros títulos talvez não sejam Majestade, Cruorvex, Fonte ou Soberano.
+Se algum reino nascer de Severin, seus primeiros títulos não serão Majestade, Cruorvex, Fonte ou Soberano.
 
-Talvez sejam outros, menores e mais difíceis.
+Serão outros, menores e mais difíceis.
 
 Aquele que pode ser contestado.
 
@@ -10558,7 +10588,7 @@ Colapso do Estado-Organismo quando o Coração Criador não consegue processar a
 Conjunto de cláusulas criado para que a lei fundada por Severin continue capaz de julgar a Coroa mesmo durante ausência, possessão, Falência Soberana, febre régia ou perda da primeira pessoa. Sua existência prova que a Mesa não é apenas confiança no rei, mas limite institucional contra ele.
 
 
-### Síntese final
+### 8.19. Síntese final
 
 **Severin não precisa descobrir apenas que é rei; precisa descobrir se alguma forma de autoridade pode nascer de alguém que foi destruído por todas as autoridades anteriores.**
 
