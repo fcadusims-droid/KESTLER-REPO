@@ -300,6 +300,9 @@ E, porque a chave era mestiça, a fechadura abriu sem completar o fim.
 
 A outra herança humana é ainda mais obscena. Os reinos que diziam combater monstros tentaram fabricá-los. O Officium Chimaerarum e seu Opus Tertium buscaram criar uma síntese controlável, uma terceira natureza que reunisse o melhor de cada inimigo e ainda obedecesse às coroas. Nunca conseguiram. Criaram quimeras, composições de guerra, partes incompatíveis sem centro. Severin, nascido da falha de um rito, tornou-se aquilo que os laboratórios humanos jamais alcançaram: não um conjunto de partes, mas uma contradição com coração.
 
+
+A mentira pública dessas criaturas foi ainda mais eficiente que sua carne. Em muitos campos, a Ordem Branca não as apresentou como composições de laboratório, mas como anjos enviados para guardar os homens contra as forças do Diabo. A beleza branca, as asas, os halos e os cantos não nasceram de inocência. Nasceram de propaganda. O povo ajoelhava diante daquilo que, por dentro, continha bisturi, enxerto, sangue inimigo, obediência forçada e fome de guerra.
+
 Por isso, quando as Foveae Belli começarem a acordar, a guerra deixará de ser apenas retorno de criaturas antigas. Será também retorno das criaturas que os próprios humanos fizeram e enterraram. Elas não perguntarão quem é puro. Perguntarão onde está a guerra. E talvez, diante de Severin, reconheçam não rei, nem criador, mas a síntese que lhes foi prometida em carne e negada por lâmina.
 
 E talvez só não termine em ruína se esse homem descobrir que um reino também pode nascer diferente de seus reis.
@@ -1153,6 +1156,86 @@ Essa é a primeira lei de Severin, embora ele ainda não a saiba escrever.
 
 Nenhuma sentença será pura enquanto houver nome vivo antes dela.
 
+
+### 1.21. O corpo de Severin
+
+Severin não começa a história com a aparência de um rei escondido.
+
+Começa com a aparência de alguém educado para ocupar pouco espaço.
+
+Seu cabelo, antes da fogueira, é escuro, curto e irregular, aparado sem vaidade por necessidade doméstica. Longo demais chamaria atenção. Bem cuidado demais pareceria orgulho. O cabelo de Severin pertence ao mesmo regime de sua voz, de sua força e de seus dentes: existe apenas até o ponto em que não provoca pergunta. A barba, quando aparece, é sempre removida cedo. Não por refinamento, mas porque o rosto liso o torna mais jovem, mais comum, menos fácil de lembrar.
+
+Em Veyr, sua beleza não é nobre. É a beleza inquieta de um homem que tenta disfarçar a própria presença antes que alguém a nomeie. O rosto é fino, os olhos escuros demais quando a luz baixa, a boca contida para que os dentes não apareçam. As mãos pertencem ao trabalho: madeira, corda, pedra, calo e pequenos cortes mantidos abertos tempo suficiente para parecerem humanos. O corpo é forte, mas inclinado para dentro, como se a musculatura tivesse aprendido a pedir desculpas antes da boca.
+
+Depois da fogueira, sua aparência deixa de ser contenção e vira resto. O cabelo fica chamuscado em algumas partes, sujo de fumaça, chuva e lama. A pele guarda cinza onde o suor não consegue limpar. As roupas rasgadas parecem mais lembrança da casa do que proteção contra o frio. Ele não se olha em água parada porque qualquer reflexo parece acusação: o rosto que voltou a aparecer quando os outros já não podiam.
+
+Depois do segundo nascimento, o corpo muda de maneira menos teatral do que íntima.
+
+A pele esfria. A respiração perde urgência. Os ferimentos desaparecem rápido demais. Os olhos aprendem a escuridão antes que a mente aceite a mudança. E o cabelo, que deveria crescer de novo como cresce em qualquer sobrevivente, começa a obedecer a outra economia.
+
+O Sangue Fundador não entende o corpo como ornamento.
+
+Entende circulação, perda, retorno, prova e função.
+
+Cabelo, barba e pelos são matéria morta empurrada para fora. São corpo que deixou de receber sangue e ainda assim permanece como sinal. Para o homem comum, isso é natural. Para o Coração Criador, conforme amadurece, torna-se desperdício. Cada fio é uma memória de humanidade comum que o novo sangue não sabe sustentar sem custo. A princípio, Severin percebe apenas queda: fios escuros presos ao tecido, cabelos na palma depois de acordar, manchas lisas abrindo-se onde antes havia sombra. A barba deixa de nascer primeiro. Depois os pelos dos braços e do peito rareiam. As sobrancelhas afinam. Os cílios ficam curtos, quase insuficientes, deixando os olhos mais expostos, mais úmidos, mais difíceis de ignorar.
+
+Ele tenta esconder isso como escondeu tudo.
+
+Usa capuz. Raspa o que resta para que a perda pareça escolha. Evita que aliados vejam os tufos na água de lavar. Odeia a nudez nova do crânio, porque ela não lhe dá majestade. Dá vulnerabilidade. A cabeça sem cabelo parece ferida sem sangue. O rosto sem barba parece jovem demais e antigo demais ao mesmo tempo. O corpo sem pelos perde uma camada de humanidade pequena, banal, cotidiana; exatamente por isso a perda fere.
+
+Os Reis Mortos reconhecem a mudança de outro modo.
+
+Chamam-na, em silêncio satisfeito, de purificação de superfície.
+
+Severin odeia essa interpretação.
+
+O Ofício tentará nomeá-la como sintoma: alopecia soberana, falência folicular, regressão não humana, prova externa de contaminação cardial. Os vampiros puros a considerarão deformidade bastarda. Sacerdotes ignorantes poderão chamá-la de tonsura demoníaca. Mas nenhuma dessas palavras acerta o centro.
+
+A perda dos cabelos não torna Severin mais puro.
+
+Torna-o mais exposto.
+
+À medida que o Sangue Fundador passa de acidente para instrumento, o corpo de Severin deixa de produzir disfarces mortos e passa a exigir superfície viva. Sua pele torna-se lugar de passagem. Veias escuras aparecem em momentos de poder e desaparecem depois como inscrições sob água. O peito, onde o Coração Criador bate, torna-se eixo visual do corpo. O crânio nu não parece o de um asceta, nem o de um monge, nem o de um condenado raspado antes da execução. Parece a parte superior de uma estátua que decidiu respirar.
+
+No fim de sua transformação, Severin não terá cabelo, barba ou pelos visíveis. A ausência não será lisa no sentido confortável. Será ritual sem altar. O corpo parecerá ter removido tudo que não conduz sangue, tudo que não pode testemunhar, tudo que não participa do retorno. Sua nudez biológica não o tornará frágil aos olhos do mundo; tornará impossível fingir que ele é apenas um homem gasto por guerra.
+
+O rei sem castelo perderá até os ornamentos que poderiam fazê-lo parecer rei gótico, príncipe antigo ou santo sombrio.
+
+Restará uma forma mais seca e mais terrível.
+
+Um rosto sem moldura.
+
+Um corpo sem pelo.
+
+Uma pele onde o sangue, quando vier, não encontrará concorrência.
+
+### 1.22. A mudança da presença
+
+A primeira presença de Severin é evasiva.
+
+Ele entra nos lugares como quem já pediu desculpas por entrar. Mantém os ombros fechados. Escolhe canto, parede, porta, sombra. Suas roupas são de trabalho, gastas e escuras por praticidade: lã grossa, linho lavado demais, couro simples, botas que não anunciam passo. Nada nele deve parecer escolhido. Um homem lembrado demais vira pergunta; uma pergunta vira margem; uma margem vira fogo.
+
+Depois da ressurreição, a evasão começa a falhar.
+
+Não porque Severin deseje ser visto, mas porque o corpo novo ocupa o espaço antes de pedir autorização. A cabeça vira rápido demais ao menor som. A mão encontra o pulso de alguém antes que ele decida tocar. O olhar demora um instante a mais onde antes fugiria. Há momentos em que ele para diante de uma porta e o silêncio ao redor parece esperar que ele a abra.
+
+Durante a primeira jornada, ele ainda veste restos humanos: capa encontrada, casaco roubado de uma casa vazia, faixas para esconder feridas que já fecharam, tecido em torno da cabeça quando a queda dos cabelos começa. A aparência é a de um refugiado que não sabe que carrega uma coroa sem metal. Quanto mais tenta parecer comum, mais a tentativa denuncia esforço.
+
+Com o tempo, as roupas comuns passam a falhar de outro modo.
+
+Não rasgam apenas em combate. Pesam quando o Sangue Fundador sobe. A lã endurece com sangue que não seca direito. O linho cola à pele quando a Maré de Retorno chama gotas dispersas. Couro velho apodrece onde a soberania atravessa costura. Metais pequenos aquecem ou esfriam perto demais do coração. O corpo de Severin, pouco a pouco, deixa de aceitar vestimenta como cobertura externa e passa a exigir que a roupa responda à mesma pergunta que seu sangue responde:
+
+quem governa a superfície?
+
+Essa transição não o embeleza.
+
+Desumaniza sua silhueta antes de torná-la régia.
+
+No início, ele parece sobrevivente. Depois, morto incorreto. Depois, bastardo em fuga. Depois, ruína andando. Só mais tarde sua presença ganha a verticalidade austera de uma autoridade que não aprendeu conforto. Quando finalmente deixa de se encolher, não parece homem curado. Parece alguém que compreendeu que diminuir-se nunca impediu o mundo de queimar os seus.
+
+O corpo dele aprende a ficar de pé antes que a alma aceite governar.
+
+
 ## PARTE II — O horror imediato após o abismo
 
 ### 2.1. O retorno das criaturas
@@ -1222,9 +1305,19 @@ Algumas foram fabricadas pelos humanos.
 
 As **Chimaerae Albae**, Quimeras Brancas, não emergem inicialmente do abismo de Severin como os servos da antiga coroa. Elas permanecem presas em fossas, abismos e prisões impossíveis, construídas pela Ordem Branca depois que seus próprios criadores descobriram que não podiam matá-las. Foram feitas para ser síntese e falharam como síntese: corpos compostos de partes incompatíveis, escritos para guerra e incapazes de compreender paz como destino.
 
-Com a nova guerra se aproximando, começam a despertar no fundo do mundo.
+A mentira pública sobre elas era mais bela que os corpos.
 
-Não porque alguém as chamou.
+Em sermões, procissões e crônicas de campanha, muitas não foram chamadas de quimeras. Foram chamadas de **Anjos da Vigília**, **Custódios Brancos**, **milícia celeste enviada contra as forças do Diabo**. A antiga Ordem sabia que o povo não suportaria ver laboratórios, enxertos, ossos costurados, sangue inimigo e crianças desaparecidas como fundamento da vitória. Então deu asas ao horror. Deu halos às correntes. Deu pele de alabastro à carne incompatível. Fez a guerra parecer resposta do céu.
+
+A beleza era parte da contenção.
+
+De longe, uma Chimaera Alba podia parecer uma estátua viva: alta, branca, serena, alada, com rosto quase humano e luz pálida prendendo-se ao metal atrás da cabeça. De perto, a glória começava a errar. As penas eram lâminas de osso fino. O halo era anel de comando cravado na nuca. A pele branca vinha de cal, cera, sal e tecido preservado. O canto não saía de uma garganta, mas de várias passagens costuradas para produzir obediência como hino.
+
+Quando a nova guerra se aproxima, elas começam a despertar no fundo do mundo.
+
+Não porque Deus as chame.
+
+Não porque a Ordem ainda as comande.
 
 Porque a guerra voltou a falar a única língua que seus corpos entendem.
 
@@ -2968,13 +3061,70 @@ O Sangue Fundador obedece a leis que Severin descobre com dor.
 
 **A lei da falência:** nenhum coração governa dores infinitas. Quando o Coração Criador recebe gente demais, fome demais, medo demais, sonho demais e documento demais, a soberania deixa de agir como vontade e começa a agir como febre. Nesse estado, Severin não perde apenas força. Perde legibilidade sobre si.
 
+
+**A lei da superfície:** quando o Sangue Fundador aprende a obedecer sem se derramar inutilmente, procura ocupar a pele como território. Pode formar crostas, fios, lâminas, faixas, membranas e vestes vivas ao redor do corpo. Mas superfície não é ilusão. Toda roupa feita de sangue continua sendo sangue: pesa, pulsa, lembra, sente dano e cobra retorno.
+
 Assim, o Sangue Fundador nunca é apenas dom.
 
 É trono líquido.
 
 Essa soberania é uma das maiores ameaças políticas da história. Para os humanos, confirma o medo de que ele seja uma aberração capaz de violar corpos. Para os vampiros puros, destrói a ideologia da pureza: aquilo que eles chamariam de impuro possui uma autoridade que nenhum rei puro teve.
 
-### 3.28. Limites absolutos do Sangue Fundador
+
+### 3.28. A Vestidura Hemática
+
+A primeira roupa de sangue de Severin não nasce como majestade.
+
+Nasce como erro.
+
+Depois de uma ferida, o Sangue Fundador retorna depressa demais e não encontra apenas veia. Encontra pele, tecido, frio, medo e a vontade desesperada de esconder o corpo. Em vez de cair, o sangue se espalha em faixas escuras sobre o antebraço. Em vez de secar, engrossa. Em vez de escorrer, prende-se à pele como linho molhado que aprendeu a pulsar. Severin tenta arrancá-lo e sente dor, não na pele, mas no peito.
+
+A roupa estava ligada ao coração.
+
+No início, isso o repugna. O sangue que deveria permanecer dentro dele aparece fora, visível, quase obediente. Para alguém que passou a vida inteira escondendo sinais corporais, vestir a própria anomalia é uma violência. Ele cobre as primeiras manifestações com pano comum, raspa crostas antes que endureçam, evita olhar quando pequenas fibras vermelhas atravessam a manga rasgada e fecham um buraco no tecido.
+
+Mas o poder aprende pelo uso.
+
+Quando Severin deixa de tratar o sangue apenas como perda, o Sangue Fundador começa a obedecer à superfície com mais precisão. Primeiro vem como bandagem: envolve cortes, sela costelas, cobre a palma aberta. Depois como amarra: prende armas, fecha portas, ancora o corpo em pedra. Depois como proteção: endurece em placas finas sobre ombro, costelas e antebraço, não como metal, mas como coágulo disciplinado. Só muito mais tarde aparece como vestimenta.
+
+A **Vestidura Hemática** não é tecido imitado perfeitamente.
+
+É sangue organizado em forma social.
+
+Pode parecer manto, túnica, faixa, luva, bota, gola, véu curto, couraça flexível ou cauda de sombra escura dependendo da intenção que a chama. Sob luz fraca, lembra veludo negro com fundo vinho. Sob luz lunar, mostra veios internos, como se a roupa tivesse circulação própria. Perto demais, ninguém confunde com tecido: há cheiro metálico, calor irregular, pequenas contrações na bainha, fios de fibrina unindo camadas, superfície que escurece quando ouve uma ameaça.
+
+A Vestidura nunca é gratuita.
+
+Se alongada demais, enfraquece Severin. Se cortada, ele sente o golpe como ferida menor. Se queimada, o Coração Criador chama de volta aquilo que puder e vomita frio pelo que perdeu. Se alguém a toca com devoção, medo ou desejo, pode receber Eco. Se um inimigo a agarra, não segura apenas roupa; toca uma jurisdição viva.
+
+Por isso, a Vestidura não pode ser usada como ornamento constante no começo. Severin não possui controle suficiente. Em pânico, ela forma espinhos, nós, faixas sufocantes ou crostas que dificultam movimento. Em raiva, pode endurecer em lâminas onde ele queria apenas defesa. Em culpa, pode tentar cobrir o corpo inteiro como mortalha, não como manto. O sangue entende intenção, mas intenção em Severin raramente vem limpa.
+
+Com maturidade, a forma muda.
+
+Quando ele deseja esconder-se, a Vestidura se torna escura, baixa, quase sem brilho, fechada junto ao corpo como luto. Quando deseja julgar, sobe em gola alta, alonga-se pelas costas, desce em linhas severas e cria uma silhueta mais vertical do que qualquer capa comum. Quando precisa lutar, divide-se em camadas: uma junto à pele, outra em placas móveis, outra em fios prontos para prender, cortar ou chamar sangue derramado ao retorno. Quando deseja curar, perde majestade e vira faixa, compressa, manta, contato.
+
+A forma mais perigosa não é a armadura.
+
+É o traje de audiência.
+
+Nele, a Vestidura não ameaça de imediato. Apenas se organiza como lei. O sangue cobre Severin com sobriedade quase litúrgica: peito escuro, braços fechados, mãos parcialmente nuas, pescoço livre para a voz, crânio sem cabelo exposto acima de uma roupa que respira. Não há coroa. Não há joia. Não há bordado. Ainda assim, todos entendem que aquilo não foi costurado por alfaiate, servo ou reino.
+
+Foi produzido pela fonte.
+
+Esse é o ponto em que a aparência final de Severin deixa de depender de roupas humanas ou vampíricas. Ele não precisa do veludo dos reis antigos nem do couro gasto do fugitivo. Pode vestir a própria consequência. Pode entrar em uma sala sem castelo, sem coroa e sem brasão, coberto apenas pelo sangue que fundou sua condição.
+
+Os vampiros antigos veem blasfêmia e sucessão ao mesmo tempo. Um rei deveria receber manto. Severin produz o seu. Os humanos veem prova de monstruosidade: um homem vestido com sangue, sem pelo no corpo, sem vergonha suficiente para esconder a superfície. As quimeras, quando o veem assim, reconhecem uma diferença cruel. Elas foram vestidas de anjos por fora para esconder a guerra de dentro. Severin veste por fora aquilo que o mundo inteiro tentou colocar dentro de arquivos, fossas e sentenças.
+
+A Vestidura Hemática não é fantasia de poder.
+
+É a tese do corpo.
+
+O rei sem castelo não possui muralha, trono ou câmara acabada.
+
+Então a soberania aprende a cobri-lo.
+
+
+### 3.29. Limites absolutos do Sangue Fundador
 
 O Sangue Fundador é vasto, mas não é onipotente.
 
@@ -3003,7 +3153,7 @@ O sangue pode obedecer a ele mesmo quando ele erra.
 
 ---
 
-### 3.29. O Eco Sanguíneo
+### 3.30. O Eco Sanguíneo
 
 O Sangue Fundador não existe em Severin como vinho dentro de uma taça. Ele existe porque Severin existe. Nasceu de seu corpo morto, de sua linhagem mestiça, de sua culpa, dos ossos reais e da maldição que tentou restaurar uma pureza que já não podia voltar. Por isso, fora dele, não encontra repouso.
 
@@ -3061,7 +3211,7 @@ Coagula.
 
 ---
 
-### 3.30. O Eco como camuflagem, dívida e mapa
+### 3.31. O Eco como camuflagem, dívida e mapa
 
 Os primeiros Ecos não nascem como estratégia.
 
@@ -3112,7 +3262,7 @@ A rede que escondia Severin desenha sua ausência central. Cada corpo salvo torn
 O rastro de misericórdia começa a fechar cerco.
 
 
-### 3.31. Os sonhos emprestados
+### 3.32. Os sonhos emprestados
 
 O Eco não marca apenas a carne.
 
@@ -3204,7 +3354,7 @@ O rei que viola por urgência e depois tenta chamar urgência de misericórdia.
 
 A vergonha desse erro não extingue a Mesa dos Nomes. Dá-lhe sua cláusula mais dura: até o soberano deve ser julgado quando usa uma memória sem consentimento.
 
-### 3.32. O Coração Criador
+### 3.33. O Coração Criador
 
 O Sangue Fundador não nasce das veias.
 
@@ -3267,7 +3417,7 @@ Os reis são memória.
 ---
 
 
-### 3.33. A Sincronia Régia
+### 3.34. A Sincronia Régia
 
 A **Sincronia Régia** é a capacidade do Coração Criador de alterar temporariamente sua cadência para acessar, ordenar e amplificar matrizes régias preservadas no Sangue Fundador.
 
@@ -3329,7 +3479,7 @@ Por isso Severin precisará aprender uma regra íntima:
 > **Quando uma resposta vem perfeita demais, talvez não seja dele.**
 
 
-### 3.34. A Gramática da Coroa
+### 3.35. A Gramática da Coroa
 
 A Sincronia mais perigosa não começa quando um rei morto grita.
 
@@ -3382,7 +3532,7 @@ A regra íntima da Gramática da Coroa será escrita tarde, depois de uma decis�
 Sem isso, cada sentença régia se tornará abrigo para o homem que já não suporta sentir as próprias mãos.
 
 
-### 3.35. O Arquisangue
+### 3.36. O Arquisangue
 
 O **Arquisangue** é o Sangue Fundador em estado fundacional.
 
@@ -3415,7 +3565,7 @@ Severin não controla matéria.
 
 Desperta arquitetura que reconhece, ainda que de modo quebrado, uma precedência fundadora.
 
-### 3.36. Leis do Arquisangue
+### 3.37. Leis do Arquisangue
 
 O Sangue Fundador é a substância viva de Severin: sangue que cura, fere, sela, chama, marca, retorna e impõe precedência.
 
@@ -3494,7 +3644,7 @@ A lei da ferida continua valendo.
 
 O sangue entende intenção, mas intenção ferida distorce comando.
 
-### 3.37. Relação entre Sincronia Régia e Arquisangue
+### 3.38. Relação entre Sincronia Régia e Arquisangue
 
 A Sincronia Régia é soberania voltada para dentro.
 
@@ -3530,7 +3680,7 @@ Fundador de uma lei nova.
 > **Sincronia Régia é quando Severin aprende a fazer os reis baterem dentro dele sem ser possuído por eles.**  
 > **Arquisangue é quando Severin aprende a fazer a pedra bater fora dele sem restaurar o mundo que a pedra servia.**
 
-### 3.38. A Terceira Natureza
+### 3.39. A Terceira Natureza
 
 Severin foi mestiço antes da morte.
 
@@ -3590,7 +3740,7 @@ A maior disputa sobre Severin não será por seu corpo.
 
 Será por sua definição.
 
-### 3.39. O Sangue em Luto
+### 3.40. O Sangue em Luto
 
 O Sangue Fundador não é obediente por natureza fora de Severin.
 
@@ -3643,7 +3793,7 @@ Mesmo roubado, seu sangue continua procurando um modo de voltar para casa.
 E toda casa que o prende antes disso começa a apodrecer ao redor da saudade.
 
 
-### 3.40. O poder sobre o próprio sangue
+### 3.41. O poder sobre o próprio sangue
 
 A primeira camada do poder de Severin é o domínio sobre o próprio sangue. Essa é a parte mais natural, embora ele não a compreenda de início. O corpo aprende antes da mente.
 
@@ -3688,7 +3838,7 @@ Talvez esteja na fome que vem depois.
 
 ---
 
-### 3.41. O poder sobre o sangue dos outros
+### 3.42. O poder sobre o sangue dos outros
 
 A segunda camada é mais perigosa: Severin pode influenciar o sangue de outros corpos.
 
@@ -3755,7 +3905,7 @@ Esse poder deve ser tratado como vantagem e ameaça. Severin pode salvar uma vid
 
 ---
 
-### 3.42. Custos e riscos do Sangue Fundador
+### 3.43. Custos e riscos do Sangue Fundador
 
 O Sangue Fundador não é uma solução simples.
 
@@ -3806,7 +3956,7 @@ Severin logo entende que salvar pela força do sangue não é o mesmo que curar.
 
 ---
 
-### 3.43. O Pulso do Trono
+### 3.44. O Pulso do Trono
 
 Depois do segundo nascimento, Severin começa a sentir algo que não sabe nomear.
 
@@ -3873,7 +4023,7 @@ Fala como corpo que não sabe se deve sarar ou apodrecer.
 ---
 
 
-### 3.44. O Estado-Organismo
+### 3.45. O Estado-Organismo
 
 O primeiro reino de Severin não nasce em pedra.
 
@@ -3921,7 +4071,7 @@ Assim nasce a frase que os anexados repetirão com amor, rancor ou terror:
 
 > “Ele nos tirou da morte e nos colocou dentro dele.”
 
-### 3.45. O Dividendo da Anexação
+### 3.46. O Dividendo da Anexação
 
 Ser anexado por Severin precisa valer alguma coisa.
 
@@ -3951,7 +4101,7 @@ O dividendo da anexação não é liberdade.
 
 Quando o fio salva, parece misericórdia. Quando aperta, revela posse.
 
-### 3.46. A Dissidência Interna
+### 3.47. A Dissidência Interna
 
 Nenhum Estado-Organismo permanece são se aquilo que incorporou começa a odiar o coração.
 
@@ -3993,7 +4143,7 @@ Se Severin precisar ser amado para que seu poder funcione, será tirano de afeto
 
 Se aceitar ser odiado e ainda assim criar uma forma de proteção que não transforme ódio em massacre, talvez a lei dele seja mais que biologia.
 
-### 3.47. A Gaiola de Ouro
+### 3.48. A Gaiola de Ouro
 
 Nem todo salvo deseja continuar salvo pela mesma mão.
 
@@ -4029,7 +4179,7 @@ E alguém guarda a chave.
 
 O Rei Sem Castelo, ao tentar permitir saída sem destruir os seus, constrói a primeira prisão que não pode chamar de prisão sem tremer.
 
-### 3.48. A Falência Soberana
+### 3.49. A Falência Soberana
 
 A Falência Soberana não é morte.
 
@@ -4076,7 +4226,7 @@ Porque significa que sua melhor criação terá de aprender a sobreviver a ele.
 E talvez contra ele.
 
 
-### 3.49. Relação com os vampiros
+### 3.50. Relação com os vampiros
 
 Para os vampiros antigos, Severin será uma afronta e um milagre.
 
@@ -4152,7 +4302,7 @@ Assim, Severin descobre que fugir dos humanos não significa encontrar abrigo en
 ---
 
 
-### 3.50. Instituições da velha noite
+### 3.51. Instituições da velha noite
 
 A antiga civilização vampírica possuía tanta burocracia quanto os homens, apenas mais antiga, mais elegante e mais faminta.
 
@@ -4182,7 +4332,7 @@ Basta que alguém ainda obedeça à forma.
 
 ---
 
-### 3.51. A necrobiopolítica do tributo humano
+### 3.52. A necrobiopolítica do tributo humano
 
 Os vampiros antigos não governavam humanos apenas pela morte.
 
@@ -4212,7 +4362,7 @@ Severin terá de perceber que um sistema não se torna justo apenas porque é me
 
 ---
 
-### 3.52. Pactos, demônios e credores antigos
+### 3.53. Pactos, demônios e credores antigos
 
 Os demônios pactuados não veem a queda do castelo como fim de contrato.
 
@@ -4244,7 +4394,7 @@ O risco não é que Severin seja enganado por mentira óbvia.
 
 ---
 
-### 3.53. Regras da herança e dos poderes
+### 3.54. Regras da herança e dos poderes
 
 A herança de Severin deve despertar aos poucos. Isso evita que ele se torne poderoso demais rápido e preserva o mistério.
 
@@ -4310,7 +4460,7 @@ Elas o acusam.
 
 ---
 
-### 3.54. Leis de leitura, consentimento e resposta
+### 3.55. Leis de leitura, consentimento e resposta
 
 A soberania de Severin obedece a regras que nenhuma facção compreende de imediato, porque cada uma tenta traduzi-la para seu próprio idioma.
 
@@ -4341,7 +4491,7 @@ A sétima lei é a lei da definição. Quem define Severin tenta definir o mundo
 É preciso terminar a frase.
 
 
-### 3.55. O Sangue Um
+### 3.56. O Sangue Um
 
 O Sangue Fundador possui um horizonte que Severin talvez passe a vida tentando não alcançar.
 
@@ -4373,7 +4523,7 @@ Mesmo assim, a vitória seria monstruosa.
 
 Porque ninguém mais teria sangue inteiramente próprio.
 
-### 3.56. O Dilúvio Fundador
+### 3.57. O Dilúvio Fundador
 
 O Dilúvio Fundador é o horizonte extremo do Sangue Fundador.
 
@@ -4416,7 +4566,7 @@ O sangue não desce apenas do céu. Sobe do mundo.
 
 A Terra inteira se torna limiar.
 
-### 3.57. Coagulatio Mundi
+### 3.58. Coagulatio Mundi
 
 Realmente, a Terra deveria morrer.
 
@@ -4450,7 +4600,7 @@ A coisa que permanece não é a Terra salva.
 
 É a Terra refundada.
 
-### 3.58. Terra-Lua e astro-organismo
+### 3.59. Terra-Lua e astro-organismo
 
 Depois da Coagulatio Mundi, nenhum astrônomo honesto chamaria o mundo de Terra no mesmo sentido antigo.
 
@@ -4480,7 +4630,7 @@ A Terra-Lua não orbita apenas o Sol.
 
 Orbita uma ferida.
 
-### 3.59. Cor Mundi — o Coração do Mundo
+### 3.60. Cor Mundi — o Coração do Mundo
 
 No centro da Terra-Lua não há apenas ferro.
 
@@ -4510,7 +4660,7 @@ Todos vivem porque ele já não vive apenas como um.
 
 Essa é a salvação e a posse no mesmo batimento.
 
-### 3.60. A perversão da lei nova
+### 3.61. A perversão da lei nova
 
 O Dilúvio Fundador é a resposta errada para a pergunta certa.
 
@@ -6499,6 +6649,46 @@ As quimeras eram partes costuradas em guerra.
 
 Severin era uma guerra transformada em coração.
 
+
+#### O Opus Angelicum
+
+A fase mais bem-sucedida do Opus Tertium não foi a mais eficiente em combate.
+
+Foi a mais convincente aos olhos do povo.
+
+A Ordem Branca compreendeu que uma arma fabricada em laboratório assusta até seus aliados. Um monstro humano, mesmo obediente, ainda obriga a multidão a perguntar de onde veio, quem o autorizou, que corpo foi usado, que pecado o sustenta. Mas uma criatura bela, branca, alada e revelada diante de incenso pode suspender perguntas antes que nasçam.
+
+Assim surgiu o **Opus Angelicum**.
+
+Não era outro projeto separado da Obra Terceira. Era sua máscara litúrgica. A tentativa de fazer com que as quimeras parecessem menos como corpos compostos e mais como resposta divina. Os médicos de veia chamavam aquilo de otimização morfológica. Os monges anatômicos chamavam de adequação iconográfica. Os generais chamavam de moral de tropa. Os bispos cúmplices chamavam de prudência pastoral.
+
+O povo chamou de anjos.
+
+A aparência era o primeiro dogma.
+
+A pele deveria lembrar alabastro, não cadáver. As asas deveriam abrir em simetria suficiente para que ninguém contasse articulações demais. A face deveria conservar serenidade, ainda que a criatura não entendesse paz. O halo deveria brilhar atrás da cabeça, ocultando sua função verdadeira de aro de contenção, receptor de sino e trava de comando. O canto deveria soar como hino mesmo quando produzido por gargantas enxertadas para estabilizar respiração de guerra.
+
+A beleza não era misericórdia.
+
+Era censura visual.
+
+Quando uma Chimaera Alba era mostrada ao povo, ninguém via os tanques onde fora acordada, nem as costuras sob as asas, nem os nomes raspados de crianças usadas como base, nem os dentes de criatura escondidos atrás da boca humana, nem os ossos vampíricos reduzidos a suporte, nem os resíduos demoníacos exorcizados apenas o bastante para obedecer. Via-se branco, luz, asa, silêncio e verticalidade.
+
+Depois vinha o sermão.
+
+> “Vede. O Senhor enviou seus anjos para combater as forças do Diabo.”
+
+Essa frase venceu tantas batalhas quanto as lâminas.
+
+Ela absolvia antes da acusação. Se Deus enviara anjos, quem ousaria perguntar de que carne eram feitos? Se a criatura tinha asas, quem ousaria contar os corpos dentro dela? Se sua pele era branca, quem ousaria dizer que a vitória cheirava a sangue velho, cal e anestesia?
+
+A fé verdadeira não criou as Chimaerae Albae.
+
+Homens criaram.
+
+Depois vestiram a criação com a linguagem da fé para que o povo chamasse fabricação de milagre.
+
+
 ### 5.9. As Foveae Belli
 
 Quando a última guerra terminou, as quimeras não terminaram com ela.
@@ -6526,6 +6716,9 @@ Não em celas comuns, mas em abismos, fossas, câmaras sem ar, montanhas ocas, c
 Chamaram essas prisões de **Foveae Belli**.
 
 Fossas da Guerra.
+
+
+Quando a fossa guardava uma quimera de aparência angelical, os documentos mais cuidadosos evitavam até mesmo a palavra guerra. Chamavam o lugar de **Fovea Angelorum**, Fossa dos Anjos. A expressão parecia reverente. Era, na verdade, uma capa. Nenhum peregrino desconfiaria de uma cripta angelical. Nenhuma mãe sentiria que pisava sobre um laboratório sepultado se lhe dissessem que ali dormia um guardião celeste exausto depois de salvar a humanidade.
 
 Ali, as quimeras não esperaram salvação.
 
@@ -6578,7 +6771,89 @@ A terra chamava de prisão.
 
 As quimeras, quando sonhavam, chamavam de espera.
 
-### 5.11. O despertar sob o altar
+
+### 5.11. Os Anjos da Vigília
+
+Os nomes mudavam conforme a necessidade política.
+
+Nos arquivos do Officium Chimaerarum, eram Chimaerae Albae, Bestiae Compositae, séries de lote, matrizes de guerra, corpos de ensaio, variações de contenção. Nas cartas entre generais, eram recursos. Nas atas secretas da Ordem Branca, eram instrumentos de resposta assimétrica. Nos sermões, quando a guerra exigia beleza, recebiam outro nome.
+
+**Anjos da Vigília.**
+
+A palavra anjo não descrevia natureza.
+
+Descrevia uso.
+
+Um Anjo da Vigília era uma quimera construída para ser vista antes de ser entendida. Devia aparecer em momentos cuidadosamente preparados: depois de uma derrota humana, diante de muralhas sitiadas, no alto de escadarias de catedral, em procissões de guerra, sobre plataformas escondidas por incenso, descendo por mecanismos cobertos por panos brancos para que cordas parecessem luz. Algumas crônicas dizem que os anjos desciam do céu. Os mapas de manutenção mostram roldanas, passagens internas, túneis de elevação e braços de ferro sob torres de igreja.
+
+De longe, eram belos.
+
+Altos, claros, quase serenos. A pele parecia polida por oração. As asas abriam-se com a lentidão de vitral ganhando carne. O rosto, quando preservava rosto, era simétrico demais para a vida comum e manso demais para o que carregava dentro. Atrás da cabeça, o halo brilhava como auréola de prata ou ouro pálido. Em batalhas noturnas, a luz refletida nele permitia que soldados humanos acreditassem, por alguns instantes, que o céu havia escolhido lado.
+
+A distância certa era parte do milagre.
+
+Perto demais, a mentira perdia acabamento.
+
+As pálpebras nem sempre fechavam juntas. A pele de alabastro revelava suturas finas sob a cera. O halo rangia em pequenas correções de pressão. As penas, tocadas, não eram penas: lâminas de osso, placas de cartilagem, filamentos endurecidos por sal e sangue coagulado. Sob as costelas, às vezes, algo se movia contra o ritmo da respiração. Algumas possuíam uma segunda boca escondida sob o esterno, usada não para falar, mas para descarregar gritos que a face angelical não podia permitir.
+
+O canto era o pior.
+
+À distância, parecia coro.
+
+De perto, era anatomia.
+
+Gargantas enxertadas, câmaras de ressonância abertas atrás das clavículas, tubos orgânicos preservados com prata líquida e sal, pulmões adicionais que não pertenciam à mesma espécie. A Ordem descobriu que certos sons acalmavam tropas humanas e desorganizavam vampiros. Chamou isso de hino. As criaturas sentiam como comando atravessando carne.
+
+Em repouso, um Anjo da Vigília podia ficar imóvel por horas, mãos cruzadas, asas recolhidas, cabeça inclinada como santo triste. Crianças choravam diante dele e depois diziam que haviam visto luz. Mães tocavam a bainha do manto branco usado para cobrir as costuras da cintura. Soldados ajoelhavam antes de marchar. Alguns padres sinceros acreditaram no que viam, porque desejar milagre depois de meses de cadáveres é uma fraqueza humana compreensível.
+
+Em combate, a imagem quebrava.
+
+As asas abriam além da simetria permitida. Juntas escondidas deslocavam-se para dar alcance maior. A pele branca rachava em linhas vermelhas. O halo deixava de parecer glória e mostrava-se como freio. A face serena permanecia quase imóvel enquanto o corpo, abaixo dela, revelava braços suplementares, lâminas de osso, bocas de expulsão, costelas móveis e reflexos que nenhum anjo deveria possuir. O inimigo via monstro. O aliado via milagre em trabalho. A Ordem via eficácia.
+
+Nem todos os Anjos da Vigília eram inconscientes.
+
+Essa foi a segunda culpa.
+
+Alguns conservavam memória humana em camadas fundas: fragmento de nome, cheiro de pão, medo de água, a voz de uma irmã, um idioma que não servia para comando. Outros preservavam traços vampíricos, lembranças de fome, orgulho ou noite. Outros carregavam resíduos demoníacos exorcizados de modo incompleto, não fortes o bastante para governar o corpo, mas suficientes para odiar a prisão. A criatura resultante não sabia se era enviada, condenada, arma, mártir, monstro ou corpo roubado.
+
+A Ordem preferia que não soubesse.
+
+Por isso o halo não era apenas símbolo.
+
+Era fronteira.
+
+Segurava impulsos, media desobediência, recebia sinos, fechava memórias, interrompia movimentos e, quando necessário, queimava por dentro a parte do corpo que tentava perguntar demais. Quanto mais belo o halo, mais cuidadoso o mecanismo. Quanto mais perfeito o anjo, mais profunda a violência que o mantinha em forma.
+
+Depois da guerra, os Anjos da Vigília tornaram-se problema maior que as demais quimeras, porque o povo os havia amado.
+
+Não se tranca facilmente uma arma que foi chamada de bênção. Não se enterra sem escândalo aquilo diante do qual reis ajoelharam em pintura. A Ordem resolveu a contradição com sua técnica habitual: separou público e fundo. Acima, conservou imagens, hinos, festas de vitória e relatos de auxílio celestial. Abaixo, desceu os corpos reais para as **Foveae Angelorum**, fossas específicas sob igrejas e catedrais onde a arquitetura santa servia de tampa para o anjo fabricado.
+
+Assim nasceu uma das blasfêmias mais duráveis da vitória humana.
+
+O povo rezava diante de vitrais onde anjos brancos esmagavam demônios.
+
+Debaixo do mesmo piso, os anjos verdadeiros da propaganda dormiam presos em sal, ferro, cal, sino e escuridão, esperando que a guerra devolvesse sentido ao corpo que nunca deveria ter sido feito.
+
+Quando Severin encontrar uma dessas criaturas, ela talvez não o reconheça como rei.
+
+Talvez reconheça outra coisa.
+
+A síntese que seus criadores prometeram.
+
+A terceira natureza que não precisou de halo para ter centro.
+
+E talvez pergunte, com a voz bela demais e quebrada demais:
+
+> “Fomos enviados?”
+
+Severin não poderá responder sem feri-la.
+
+Porque a verdade será mais cruel do que qualquer sentença:
+
+foram fabricados.
+
+
+### 5.12. O despertar sob o altar
 
 Quando a Lua não sarou, as igrejas-abismo foram as primeiras a responder sem admitir resposta.
 
@@ -6610,7 +6885,7 @@ Esses sinais não indicavam santidade.
 
 Indicavam risco de abertura.
 
-### 5.12. A guerra que os corpos sentem
+### 5.13. A guerra que os corpos sentem
 
 As quimeras não despertam por ideologia.
 
@@ -6668,7 +6943,7 @@ Talvez perguntem apenas onde está o campo.
 
 E, se olharem bem para os homens que seguram as chaves, poderão reconhecer neles o mesmo método que foram feitas para destruir.
 
-### 5.13. Os porões santos
+### 5.14. Os porões santos
 
 O povo não conhece a palavra Foveae.
 
@@ -6677,6 +6952,9 @@ Conhece histórias.
 Dizem que há igrejas onde ninguém pode bater o pé três vezes diante do altar. Dizem que há conventos onde as noviças não podem cantar notas graves depois do crepúsculo. Dizem que algumas catedrais alimentam seus sinos com gordura animal para que o som saia mais pesado. Dizem que, em certas aldeias, todo sacerdote novo precisa dormir uma noite deitado sobre a pedra da cripta e, se acordar com os cabelos brancos, é aceito como pastor.
 
 Chamam esses lugares de **porões santos**.
+
+
+Depois que as histórias sobre Anjos da Vigília se misturaram ao medo das criptas, surgiu outro nome: **anjos de cal**. Não porque o povo soubesse da cal usada para preservar pele e mascarar decomposição, mas porque, em sonhos, as criaturas pareciam brancas demais, como santos pintados por mãos sem calor. Em algumas aldeias, dizia-se que se alguém encostasse o ouvido no piso da igreja durante a madrugada, poderia ouvir asas raspando pedra. Ninguém chamava aquilo de laboratório. A mentira antiga continuava trabalhando dentro do folclore.
 
 Ninguém sabe ao certo o que há neles. Alguns juram que guardam demônios derrotados. Outros dizem que santos antigos ainda respiram em sono penitente. Outros contam que os reis humanos enterraram anjos quebrados para que a humanidade pudesse vencer. Em tempos comuns, essas histórias serviam para assustar crianças longe de portas proibidas.
 
@@ -6696,7 +6974,7 @@ E o chão tinha fome de guerra.
 
 ---
 
-### 5.14. A colisão das ordens
+### 5.15. A colisão das ordens
 
 Quando o Protocolum Regis Captivi aprende a forma de Severin, ele deixa de enfrentar apenas homens.
 
@@ -10594,6 +10872,14 @@ Nome dado ao lado humano quando a defesa da espécie passa a depender de arquivo
 #### A Noite Sem Dono
 
 Nome amplo para revenants, demônios livres, povos de fronteira, quimeras conscientes, mestiços, espíritos e criaturas que recusam tanto a coroa vampírica quanto a classificação humana.
+
+#### A Tonsura Cardial
+
+Nome informal usado por alguns observadores para a perda progressiva de cabelo, barba e pelos no corpo de Severin conforme o Coração Criador amadurece. Não é voto religioso nem doença comum. O Sangue Fundador deixa de sustentar matéria morta de superfície e transforma a pele em território mais direto de passagem, leitura e manifestação.
+
+#### A Vestidura Hemática
+
+Roupa viva formada pelo Sangue Fundador ao redor do corpo de Severin. Pode assumir forma de manto, túnica, faixas, luvas, placas flexíveis, véus ou traje de audiência. Continua sendo sangue: pulsa, sente dano, cobra energia e pode marcar quem a toca. É a soberania cobrindo o rei sem castelo.
 
 #### O Ritus Coronae Sepultae
 
