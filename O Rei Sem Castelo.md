@@ -346,7 +346,7 @@ A regra fundamental é simples:
 
 > **O Sangue Fundador não cobra sofrimento. Cobra equivalência. E toda equivalência deixa cadáver, vazio, vínculo ou esquecimento.**
 
-Por isso a história não deve tratar Severin como solução para o colapso. Ele é também inflação, contaminação de métrica, crise de abastecimento, invalidade jurídica e dependência logística. Sua existência quebra a economia, a lei, a fé e a infraestrutura do mundo antes mesmo que ele aceite qualquer coroa.
+Por isso a história não deve tratar Severin como solução para o colapso. Ele é também inflação, contaminação de métrica, crise de abastecimento, invalidade jurídica e dependência logística. Sua existência quebra a economia, a lei, a fé e a infraestrutura do mundo antes mesmo que ele aceite qualquer coroa. Mesmo sua fuga tem custo: um Coração Criador que tenta desaparecer não se torna neutro; coagula vínculos, deixa marcas sem governo e entrega silêncio aos arquivos inimigos.
 
 ## PARTE I — Severin antes do mito
 
@@ -2041,7 +2041,7 @@ O sangue dele desceu até os ossos e voltou ao peito trazendo algo que a antiga 
 
 Em vez disso, criou uma terceira soberania.
 
-Severin recebeu o peso do corpo político sem ter sido educado para habitar nem o próprio corpo natural. Passou a vida tentando parecer menor, e a coroa morta tentou fazer dele extensão de um reino que devorava espaço. O castelo queria continuar nele. Os reis queriam falar nele. O sangue queria reconhecer nele aquilo que o mundo sempre negara.
+Severin recebeu o peso do corpo político sem ter sido educado para habitar nem o próprio corpo natural. Passou a vida tentando parecer menor, e a coroa morta tentou fazer dele extensão de um reino que devorava espaço. O castelo pressionava para continuar nele. Os reis pressionavam para falar nele. O sangue reconhecia nele aquilo que o mundo sempre negara.
 
 Por isso o título rei sem castelo não significa apenas ausência de fortaleza.
 
@@ -3225,7 +3225,7 @@ Vampiros puros sofrem a humilhação mais profunda. O sangue deles pode se forta
 
 Criaturas pactuadas recebem o Eco como faca de dois gumes. Podem ganhar força, romper selos menores ou recuperar nomes esquecidos. Mas cada nome recuperado também se torna mais audível para Severin. Aquilo que bebe dele carrega uma trilha de volta.
 
-Nos mortos, o Eco não restaura vida. Ele convoca encerramento. Um revenant pode ganhar fala por alguns minutos, lembrar quem o enterrou errado ou encarar a dívida que o mantém andando. Depois, o sangue fundador tenta abandonar o cadáver, porque mesmo seu eco sabe que aquele corpo já não é casa.
+Nos mortos, o Eco não restaura vida. Ele convoca encerramento. Um revenant pode ganhar fala por alguns minutos, lembrar quem o enterrou errado ou encarar a dívida que o mantém andando. Depois, o Eco Sanguíneo abandona o cadáver, porque aquele corpo já não oferece casa biológica para retorno.
 
 Por isso o Sangue Fundador é a substância mais cobiçada e mais inútil do mundo. Pode abrir portas, curar, corromper, marcar, fortalecer, enlouquecer e denunciar. Mas não pode fabricar outro Severin.
 
@@ -3477,7 +3477,7 @@ A diplomacia de Maelórian pode fazer Severin enxergar pessoas como recursos pre
 
 Existem três estágios principais.
 
-Na **Sincronia Reflexa**, o coração reage antes da mente. Severin entra em uma situação e, diante da pressão, o Sangue Fundador escolhe uma matriz útil. Ele percebe tarde demais que falou com uma voz mais antiga, calculou algo que não sabia calcular ou fez um gesto de rei morto.
+Na **Sincronia Reflexa**, o coração reage antes da mente. Severin entra em uma situação e, diante da pressão, o Sangue Fundador ativa a matriz de menor resistência. Ele percebe tarde demais que falou com uma voz mais antiga, calculou algo que não sabia calcular ou fez um gesto de rei morto.
 
 Na **Sincronia Guiada**, Severin aprende a chamar uma função, não um rei inteiro. Ele não convoca Maelórian, Ildráven, Ravhast, Ghordrath ou Vaelrûn como senhores. Procura uma necessidade: negociar sem ceder o centro, esconder sem mentir completamente, conter sem apagar, comandar sem transformar gente em matéria. O coração responde com uma cadência parcial.
 
@@ -3663,6 +3663,36 @@ O Arquisangue também não apaga culpa histórica. Se uma câmara foi usada para
 A lei da ferida continua valendo.
 
 O sangue entende forma, mas forma ferida distorce função.
+
+### 3.37A. Escala de massa e débito do Arquisangue
+
+O Arquisangue não exige números visíveis na narrativa, mas a bíblia precisa obedecer a uma régua interna.
+
+Um ato **mínimo** não constrói. Reacorda função. Uma fechadura antiga cede, uma laje reconhece passo, uma escada para de ruir durante alguns minutos. O custo vem de sangue físico, frio, dor no peito e pequenas lascas de memória sensorial. O entorno quase não percebe, mas animais podem farejar a pedra como se ela tivesse aberto um olho.
+
+Um ato **doméstico** recompõe objeto ou passagem: porta, batente, degrau, mesa de juramento, arco curto, parede interna. Precisa de matéria próxima: madeira quebrada, pedra caída, ferragem velha, cinza, água mineral, osso pequeno. Se falta matéria morta, toma calor de animais, seca ervas, azeda leite, mata insetos do solo ou rouba vitalidade de feridas abertas.
+
+Um ato **defensivo** ergue proteção parcial: portão, barricada, trecho de muralha, ponte curta, cisterna selada, corredor de fuga. O preço já aparece no mapa. Poços baixam, raízes escurecem, gado aborta, paredes vizinhas racham, cadáveres recentes perdem repouso. A estrutura protege uma noite e cobra semanas.
+
+Um ato **territorial** muda a condição de uma vila, fortaleza ou bairro. Uma muralha inteira, um salão grande, uma ponte de guerra, uma cripta acordada ou um abrigo vascularizado exigem solo fértil, ossadas acumuladas, pedra ritual, sangue coletivo ou anos de vitalidade condensada. A zona de débito pode alcançar campos, nascentes, pomares, animais, nascimentos e documentos locais. Depois disso, o Ofício consegue seguir o rastro pelo vazio deixado, não apenas pelo sangue usado.
+
+Um ato **régio** toca Caer Sângelună ou outra arquitetura soberana. Torre, arquivo, cisterna maior, sala do trono, muralha interna, corredor de juramento. O custo deixa de ser apenas matéria. A estrutura exige função. Pode pedir testemunhas, revogar propriedade, acordar velhos direitos, devolver voz a mortos ou reivindicar pessoas como habitantes antes que elas aceitem. Aqui Severin paga com Âncora Nuclear, limite corporal, memória de si ou risco de Estado-Organismo.
+
+Um ato **impossível** tentaria restaurar castelo inteiro, reabrir sistema de nação ou vascularizar território amplo. Não é construção. É fundação política em forma de catástrofe. Exigiria região inteira como equivalência: florestas sem aves, rios mornos, minas vitrificadas, cemitérios vazios de descanso, aldeias transformadas em órgãos periféricos e Severin pensando no plural antes de perceber que já não consegue encontrar o próprio singular.
+
+A regra prática é esta:
+
+> **Quanto mais bela a restauração, mais feio deve ser o vazio que ela deixa ao redor.**
+
+Um portão salvo pode custar um celeiro.
+
+Uma muralha salva pode custar uma colheita.
+
+Uma torre salva pode custar uma geração de nascimentos normais na terra em volta.
+
+Um castelo salvo pode custar a diferença entre abrigo e possessão.
+
+Por isso o Arquisangue deve ser usado pouco, visto com medo e lembrado como marca geográfica. Quando uma pedra volta a bater, algum lugar perto dela para de respirar.
 
 ### 3.38. Relação entre Sincronia Régia e Arquisangue
 
@@ -3994,6 +4024,32 @@ A sexta moeda é a identidade. Usos altos arrancam hábitos humanos: sono regula
 
 A escala nunca é limpa. Uma cura mínima pode custar só frio e fome. Uma cura mortal pode deixar Marca de Débito. Uma vila salva sem anexação pode custar uma âncora nuclear. Uma muralha pode comprar a noite com a fertilidade do solo. Uma cidade inteira protegida talvez exija que Severin pense por algumas horas no plural e volte incapaz de reconhecer onde o próprio corpo termina.
 
+### 3.43A.1. Âncoras Nucleares e Âncoras de Substituição
+
+A memória que Severin gasta não possui sempre o mesmo peso.
+
+Algumas lembranças são apenas arquivo: uma rota, um rosto visto uma vez, o gosto de um pão comprado em cidade estranha, a disposição de uma sala, a cor de uma capa. Perdê-las prejudica estratégia, mas não desmonta o homem.
+
+Outras são **Âncoras Nucleares**.
+
+Uma Âncora Nuclear sustenta identidade. Não guarda apenas fato. Guarda a razão íntima pela qual Severin ainda consegue reconhecer a si mesmo como alguém que foi amado antes de ser definido pelo mundo. Ilona chamando seu nome, Mirela empurrando sua mão contra o peito dele, Corvin dizendo que um gesto podia queimar todos, Vespera recusando a vida pequena demais, o cheiro da casa antes da fumaça, o próprio nome dito sem acusação: cada uma dessas lembranças mantém uma parte do homem Darcov/Sângelună presa à carne.
+
+Quando uma Âncora Nuclear é paga, Severin não esquece apenas uma cena. Perde a resposta humana que nascia dela. Pode saber que Ilona ria de certo modo, mas não sentir o alívio que a risada trazia. Pode recordar a frase de Mirela e não conseguir ouvir, por baixo dela, a ternura. A memória permanece como osso limpo depois que a carne foi retirada.
+
+Por isso as Âncoras Nucleares são finitas. Severin não tem um depósito infinito de humanidade antiga. Cada vez que salva sem possuir e paga com uma delas, compra liberdade alheia queimando uma parte da própria origem.
+
+Existem também **Âncoras de Substituição**.
+
+Elas nascem depois do segundo nascimento: Mara respirando quando deveria morrer, uma serva vampírica escolhendo lealdade contra o próprio sangue, um padre da Ordem da Ferida recusando denunciar, um ex-linhageiro entregando a chave de um arquivo, uma vila que permanece livre e ainda assim decide testemunhar por Severin. Essas âncoras não restauram a infância, nem devolvem Ilona, nem aquecem a casa queimada. Elas sustentam conduta, não identidade.
+
+Uma Âncora Nuclear lembra a Severin quem ele foi.
+
+Uma Âncora de Substituição lembra o que ele ainda pode escolher fazer.
+
+Essa diferença impede a cura fácil. Novos vínculos podem segurá-lo quando o passado falha, mas não recompõem o passado. Transformam a humanidade dele em disciplina, não em inocência. Quanto mais Âncoras Nucleares perde, mais Severin depende de testemunhas vivas, cartas, objetos e registros para não virar pura função soberana.
+
+A tragédia é que aceitar novas âncoras também cria risco. Quem se torna âncora de Severin pode ser usado contra ele, colhido pelo Protocolo, registrado pelo Ofício ou manipulado pela Chancelaria. Amar alguém depois do segundo nascimento nunca é apenas consolo. É abrir outra via por onde o mundo pode governar seu coração.
+
 ### 3.43B. Marca de Débito
 
 Toda pessoa salva em profundidade por Severin carrega consequência.
@@ -4080,6 +4136,34 @@ O Sangue Fundador cobra equivalência.
 
 Mas o mundo foi construído para interromper equivalências.
 
+### 3.43F. A impossibilidade de desaparecer
+
+Severin desejará sumir.
+
+Esse desejo não contradiz sua soberania. Nasce antes dela. Ele foi criado para sobreviver escondendo o corpo, contendo a voz, evitando bacia, janela, templo, festa, briga e pergunta. Depois da fogueira, desaparecer parece menos covardia que retorno ao único método de sobrevivência que conheceu. Uma caverna, uma cisterna seca, uma ruína sem testemunha: qualquer lugar onde ninguém peça decisão pode parecer misericórdia.
+
+Mas, depois do segundo nascimento, desaparecer deixa de ser gesto privado.
+
+O Coração Criador não é apenas órgão de Severin. É ponto de circulação de vínculos, marcas, dívidas, ecos, sentenças abertas, criaturas sem comando e fragmentos de castelo. Se ele tenta permanecer fora de tudo, essas linhas não se desfazem. Retêm-se. O sangue não deseja que ele volte, nem o ama, nem o odeia, nem pensa em reino. Ele apenas obedece à própria lei: soberania sem circulação vira doença.
+
+Essa condição recebe, entre médicos de veia e monges da Ordem da Ferida, o nome de **Síndrome da Abdicação Cardial**.
+
+O primeiro sintoma é a **retenção de Pulso**. Severin sente pressão atrás das costelas, veias escurecidas, gosto de ferro na língua, insônia, tremor nas mãos, batimentos duplos e calor acumulado no peito como sangue impedido de sair. Não são ordens. São congestionamentos de vínculos não respondidos. Cada marcado em febre, cada selo que falha, cada criatura antiga sem limite, cada sentença do Ofício escrita sem contestação engrossa o pulso retido.
+
+O segundo sintoma é o movimento somático involuntário. Severin decide ficar, mas acorda de pé na entrada da caverna. Dorme sempre virado para a direção do castelo. Arranha pedra durante o sono e encontra, ao despertar, linhas que lembram rotas para Caldrava, Arveth ou Elcár. Gotas secas no chão formam setas, mapas truncados ou nomes incompletos. O corpo não caminha por ele, mas prepara caminhos como febre prepara suor.
+
+O terceiro sintoma é a amplificação dos Reis Mortos. A ausência de decisão não cria liberdade. Cria sala vazia. Onde Severin não decide, a gramática antiga se oferece: restaure, recolha, puna, classifique, vincule, marche. Os reis não precisam possuí-lo para ganhar força. Basta que a vontade viva se retire tempo suficiente para que as formas antigas pareçam as únicas formas disponíveis.
+
+O quarto sintoma é a **necrose de jurisdição**. Pessoas marcadas adoecem sem saber por quê. Pequenas proteções feitas por ele se desmancham. Testemunhas perdem força diante do Ofício. Criaturas que hesitavam voltam a atacar. O Protocolo colhe salvos sem resistência. A Chancelaria começa a falar por Severin porque Severin não fala. O silêncio dele vira matéria política nas mãos de todos.
+
+Assim, a fuga também se torna governo.
+
+Antes da Luna Vulnata, esconder-se podia proteger uma família. Depois dela, esconder-se abandona vínculos que já existem. Severin pode escolher a caverna. Pode recusar a coroa. Pode tentar tornar-se ninguém. Mas o custo dessa abdicação não recai apenas sobre ele. Recai sobre todos os lugares onde seu sangue deixou rastro e sobre todos os inimigos que aproveitam o vácuo para escrever no lugar dele.
+
+A regra é cruel:
+
+> **Severin pode abdicar como homem, mas seu corpo não consegue abdicar como Coração Criador sem adoecer o mundo ao redor. O Coração Criador parado não abdica: coagula.**
+
 ### 3.44. O Pulso do Trono
 
 Depois do segundo nascimento, Severin começa a sentir algo que não sabe nomear.
@@ -4088,7 +4172,7 @@ Não é uma profecia clara.
 
 Não é uma voz dizendo “reconstrua meu reino”.
 
-É uma pressão ancestral. Uma atração física e espiritual. Uma saudade por corredores onde ele nunca andou. Uma dor quando vê ruínas. Um incômodo quando criaturas antigas vagam sem lei. Como se cada monstro solto fosse uma veia aberta no mundo, e seu sangue soubesse que deveria fechá-la.
+É uma pressão ancestral. Uma atração física e espiritual. Uma saudade por corredores onde ele nunca andou. Uma dor quando vê ruínas. Um incômodo quando criaturas antigas vagam sem lei. Como se cada monstro solto fosse uma veia aberta no mundo, e o Coração Criador sofresse a pressão de uma circulação interrompida.
 
 Esse fenômeno pode ser chamado de **Pulso do Trono**.
 
@@ -5618,6 +5702,10 @@ Essa falha é mais perigosa que uma condenação.
 
 Um impuro pode ser queimado. Um teste quebrado coloca todos na fila sob suspeita.
 
+O Erro Soberano não derruba Caldrava inteira de uma vez. Derruba zonas. Um portão externo perde função porque três bacias racharam. Um mercado fecha porque ninguém aceita Promessas de Sangue emitidas naquela manhã. Um templo suspende casamentos até substituir a prata. Uma fila de refugiados vira quarentena porque a falha contaminou a confiança, não apenas o instrumento. A cidade continua funcionando por dentro, mas passa a operar em compartimentos: bairro nobre preservado, portão interditado, laboratório interessado, mercado nervoso, arquivo sobrecarregado.
+
+Por isso Severin não “entra” em Caldrava por força. Sua presença, se exposta no lugar errado, desliga a alfândega. Para atravessar o portão, precisa de corrupção, silêncio comprado, distração de crise ou interesse de uma facção que prefira deixá-lo circular. O primeiro acesso à cidade deve ser menos vitória que contaminação institucional: alguém decidiu não registrar uma rachadura porque lucrava mais com a próxima.
+
 ### 4.18B. Linchamento Métrico
 
 Quando uma bacia dá Erro Soberano em público, a multidão não pensa em Sangue Fundador.
@@ -5654,6 +5742,40 @@ O Protocolo não quer que Severin pare de salvar.
 
 Quer que ele salve sem aprender quem colhe depois.
 
+O rosto político mais visível desse sistema é **Lorde Iacob Verent**, ministro sanitário de Caldrávia e patrono clandestino das Casas Rubro-Brancas. Em público, Verent financia bacias, quarentenas, proteção de órfãos e reforço das alfândegas. Em privado, assina autorizações de colheita sobre corpos marcados, compra silêncio de médicos de veia e vende longevidade estabilizada à nobreza que declara odiar todo sangue impuro.
+
+A mão técnica do Protocolo pertence à **Doutora Maura Silex**, anatomista de linhagem e antiga aluna da Ordem Branca. Ela não fala como fanática. Fala como alguém que acredita estar impedindo colapso civilizacional. Para ela, uma criança marcada por Severin não é criança em primeiro lugar. É amostra rara de adaptação ao Erro Soberano. Um camponês salvo de hemorragia não é testemunha. É resposta fisiológica ambulante. Uma mulher curada por Soberania de Testemunha é prova de que liberdade e vínculo podem ser separados em laboratório.
+
+As Casas Rubro-Brancas funcionam como hospitais de exceção. Recebem feridos, refugiados e marcados com promessa de tratamento. Depois separam os úteis dos descartáveis. Os descartáveis saem com certidão limpa demais. Os úteis desaparecem em alas sem janela, onde a prata é usada menos para punir do que para medir saturação, coagulação e resistência.
+
+O Protocolo tem uma doutrina própria:
+
+> **Se Severin é risco público, seu rastro é recurso público.**
+
+Essa frase permite que nobres rejuveneçam com soro de marcado, que soldados recebam doses de resistência antes de marchas lunares, que noivas de casas decadentes sejam tratadas contra esterilidade dinástica e que governadores comprem meses de vida durante a crise. Quanto mais Severin salva, mais o Protocolo finge que sua monstruosidade precisa ser administrada em benefício dos homens.
+
+Essa facção deve parecer útil o bastante para corromper aliados. Pode oferecer remédio contra Marca de Débito, esconder crianças do Ofício, retirar pessoas de linchamentos métricos e proteger uma vila de triagem pública. Depois cobra com corpo, sangue, silêncio e desaparecimento.
+
+O horror do Protocolo não está em odiar Severin.
+
+Está em precisar que ele continue sendo compassivo.
+
+### 4.18D. A guerra fria de Caldrávia
+
+Caldrávia não é uma maldade unificada. É uma máquina com dentes brigando entre si.
+
+O Ofício da Pureza quer classificar Severin, fixá-lo, registrar sua forma e transformar cada interferência dele em prova de contaminação. Para o Ofício, um Severin preso, definido e reduzido a caso seria triunfo: a anomalia viraria categoria e a categoria viraria precedente.
+
+O Protocolo Rubro-Branco quer outra coisa. Quer Severin vivo, móvel e incompleto. Um Severin que circula salva corpos, deixa Marcas de Débito, produz material raro e irriga a população com adaptações que laboratório nenhum consegue fabricar sozinho. Um Severin fixado cedo demais como monstro absoluto pode fechar a lavoura que o Protocolo deseja colher.
+
+Por isso há uma guerra civil fria dentro do Estado.
+
+Relatórios desaparecem antes de chegar ao Ofício. Quarentenas são abertas tarde demais para que marcados escapem e cedo o bastante para que médicos do Protocolo os encontrem. Escribas recebem ordens contraditórias. Guardas de alfândega são pagos para fingir que uma bacia não rachou. Linhageiros são denunciados por excesso de zelo quando atrapalham uma extração. Casas Rubro-Brancas escondem crianças marcadas do fogo público apenas para colocá-las em salas sem janela.
+
+O governo caldraviano sustenta as duas facções porque precisa das duas. O Ofício mantém pânico legível. O Protocolo transforma pânico em recurso. Quando colaboram, fazem-no por conveniência provisória. Quando sabotam um ao outro, chamam isso de prioridade de Estado.
+
+Severin pode explorar essa fratura, mas não sem sujar as mãos. Às vezes, a única porta aberta para salvar uma testemunha será uma porta aberta pelo Protocolo. Às vezes, impedir um Escriba-Carrasco exigirá aceitar a ajuda de gente que deseja colher os salvos depois. Caldrávia deve obrigá-lo a entender que nem toda oposição ao Ofício é aliada da liberdade.
+
 ### 4.19. Relação com os humanos
 
 Os humanos não são um bloco único, mas o sistema humano é culpado.
@@ -5671,6 +5793,12 @@ Com o Sangue Fundador, essa tensão aumenta. Se ele estanca o sangue de uma cria
 A pergunta não é se ele tem motivos para odiar humanos. Ele tem.
 
 A pergunta é se permitirá que esse ódio escreva suas leis.
+
+Nem todo humano quer ser salvo por ele.
+
+Alguns recusam sua cura por fé. Preferem morrer com nome limpo a viver com Marca de Débito. Outros recusam por cálculo: um pai pode afastar a filha da mão de Severin porque uma criança marcada perde casamento, entrada em cidade e sepultamento legal. Uma velha pode cuspir sangue e pedir que a deixem terminar, porque sobreviveu a uma fogueira pública e sabe que viver como prova é outra forma de execução. Um soldado ferido pode quebrar os próprios dedos para impedir Severin de tocar o pulso e, depois, agradecer a Deus por morrer sem vínculo.
+
+Essa resistência civil é essencial. Severin não deve ser odiado apenas por instituições. Deve encontrar pessoas comuns que entendem perfeitamente o que sua ajuda custa e ainda assim dizem não. A recusa delas fere mais que a perseguição, porque obriga Severin a distinguir compaixão de invasão.
 
 As leis humanas dão a esse ódio muitos rostos.
 
@@ -5752,6 +5880,22 @@ Por isso a guerra contra o Ofício não é apenas guerra de espadas.
 
 É corrida de canetas.
 
+### 4.20A.1. Rastros passivos e informantes involuntários
+
+Os Escribas-Carrascos não são onipresentes.
+
+O Ofício não vê tudo. Não possui espelhos celestes, olhos em cada estrada ou mensageiros rápidos o bastante para chegar a toda cura antes da primeira respiração. Sua velocidade depende de infraestrutura: informantes, postos de triagem, cães de linhagem, Cartas de Eco confiscadas, parteiras compradas, padres assustados e marcas deixadas nos próprios salvos.
+
+A Marca de Débito torna-se, com o tempo, o instrumento mais cruel dessa logística.
+
+Ela não transmite mapa perfeito nem confissão completa. Mas pode emitir padrões: febre ao cruzar prata, sonho recorrente com ruínas, sangue que escurece em bacia antes da hora, nome que borra em registro, animais que reagem ao mesmo cheiro, crianças marcadas que repetem palavras de uma língua que nunca aprenderam. O Ofício aprende a ler esses sinais como meteorologia de contaminação.
+
+Assim, cada pessoa que Severin salva pode tornar-se rastro passivo contra ele. Não por traição. Por corpo. Um curado entra em cidade, a bacia hesita, o guarda anota, o Escriba compara três casos, a rota de Severin começa a aparecer como constelação de sintomas.
+
+A Chancelaria tenta esconder os marcados. O Protocolo tenta recolhê-los. O Ofício tenta transformá-los em rede involuntária de denúncia.
+
+A compaixão de Severin passa a deixar pegadas nos corpos que sobreviveram a ela.
+
 ### 4.20B. A Liturga do Definitivo
 
 A arma máxima dos Escribas-Carrascos é a **Liturga do Definitivo**.
@@ -5801,6 +5945,30 @@ Uma lembrança preservada com palavras erradas pode fazer Severin amar aquilo qu
 Quem escreve a história de Severin para Severin governa parte de Severin.
 
 Por isso sua relação com os aliados nunca deve ser confortável.
+
+A Chancelaria, por isso, deve ter fissuras internas desde cedo.
+
+**Sor Anselmo Vey**, monge da Ordem da Ferida, acredita que registros afetivos precisam ser preservados sem alteração, ainda que a verdade torne Severin incontrolável. Para ele, uma memória dolorosa é menos perigosa que uma memória útil demais.
+
+**Lídia Rauth**, ex-linhageira do Ofício, discorda. Ela sabe como uma frase muda uma execução. Sabe que todo arquivo é arma antes de ser abrigo. Quando Severin retorna da Sístole Nula sem acesso imediato ao afeto, Lídia às vezes escolhe que carta entregar primeiro, que testemunha aproximar, que detalhe omitir até depois de uma decisão militar. Não se vê como traidora. Vê-se como alguém impedindo que um homem ferido entregue uma cidade inteira ao próprio remorso.
+
+**Mara**, se sobreviver como marcada e testemunha, torna-se o ponto que nenhuma teoria resolve. Para a Chancelaria, ela é prova viva de salvação sem posse. Para Severin, pode tornar-se Âncora de Substituição. Para o Ofício, é contaminação. Para o Protocolo, material. Se a Chancelaria a proteger demais, transforma a criança em símbolo. Se protegê-la de menos, confirma que testemunhas são consumíveis.
+
+O custo político da Chancelaria é simples: ela deseja que Severin permaneça útil à ambiguidade que a protege. Um Severin plenamente definido destruiria a razão de existir da rede. Um Severin sem memória pode ser guiado. Um Severin com memória inteira pode rejeitar tutela, perdoar quem a Chancelaria precisa expor ou matar quem ela precisa preservar como testemunha.
+
+A ameaça mais íntima não é inventar mentiras. É escolher verdades.
+
+Se Ilona atrapalha uma negociação com Aurel, alguém pode atrasar a carta que reacenderia sua lembrança. Se a culpa por uma vila arruinada impede Severin de enfrentar Caldrávia, alguém pode arquivar o testemunho dos mortos em caixa selada. Se Mara se torna âncora forte demais, alguém pode protegê-la de modo tão absoluto que ela deixa de ser criança e vira relicário vivo da causa. A Chancelaria não precisa apagar Severin. Basta administrar a ordem em que ele se reencontra.
+
+Por isso Severin terá de enfrentar também seus aliados. Em algum ponto, precisará abrir o próprio arquivo, ler as omissões e decidir se prefere uma memória incompleta que o manteve funcional ou uma verdade inteira capaz de quebrá-lo.
+
+Assim, a rede que preserva Severin também pode editá-lo. Uma versão dele será guardada em cartas. Outra, em testemunhos. Outra, em relatórios estratégicos. Outra, no corpo dos marcados. Se essas versões divergirem, Severin terá de decidir em qual arquivo confiar enquanto sua própria memória afetiva falha.
+
+A Chancelaria da Ferida não deve ser conforto.
+
+Deve ser a pergunta mais íntima da guerra documental:
+
+> **Quem tem o direito de guardar a verdade de alguém quando esse alguém já não consegue senti-la inteira?**
 
 ### 4.21. O Protocolum Regis Captivi
 
@@ -6559,7 +6727,7 @@ Essa é a última ironia da Longa Vigília. Os homens que prolongaram a própria
 
 A crise humana se organiza, no primeiro ciclo depois da Luna Vulnata, em quatro blocos de força.
 
-**Caldrávia** é o bloco da triagem, da cera branca, das Promessas de Sangue e dos cartórios de emergência. Sua burocracia precisa de Severin para entender o Erro Soberano e o odeia porque ele quebra o monopólio da métrica. Dentro dela, o Ofício deseja classificação, enquanto o Protocolo Rubro-Branco deseja extração.
+**Caldrávia** é o bloco da triagem, da cera branca, das Promessas de Sangue e dos cartórios de emergência. Sua burocracia precisa de Severin para entender o Erro Soberano e o odeia porque ele quebra o monopólio da métrica. Dentro dela, o Ofício deseja classificação, enquanto o Protocolo Rubro-Branco deseja extração; os dois colaboram em público e sabotam-se em segredo. A cidade não colapsa como muralha única. Colapsa por zonas: alfândega paralisada, mercado nervoso, templo sem prata confiável, laboratório interessado e arquivo tentando fingir continuidade.
 
 **Aurel** é o bloco da Sé Branca. Suas catedrais, mosteiros e escolas de exorcismo discutem se Severin é abominação, ferida, milagre suspeito ou testemunha de crime humano. A Sé Oficial quer definição; a Ordem da Ferida insiste no discernimento. Precisam dele porque a Luna Vulnata tornou insuficiente a linguagem antiga da salvação e da danação. Odeiam-no porque sua existência obriga a fé a admitir zonas intermediárias.
 
@@ -6601,6 +6769,10 @@ Não são soldados baratos. São decretos mortos colocados para andar.
 
 Cada autômato é feito de madeira leve, argila branca, linho endurecido, fios de prata baixa, cera inscrita e placas de sal. Não possui sangue, sonho ou medo. Por isso atravessa zonas onde o Pulso falha e onde humanos adoeceriam de memória seca.
 
+Essa vantagem tem corpo. Autômatos de Linho são lentos, pesados quando molhados e quebradiços quando secos demais. Precisam ser reumedecidos a cada seis horas com albumina, água de cal e sangue humano comum coagulado em tiras, não como circulação viva, mas como cola sacrificial que mantém o linho dócil às inscrições. Se a mistura falha, as juntas rangem, a argila abre fissuras, a prata baixa corta os próprios fios e o autômato começa a repetir o último gesto até se despedaçar.
+
+Fogo os destrói rápido. Chuva os torna instáveis. Lama prende suas pernas. Escadas estreitas os atrasam. Ambiguidade gramatical os paralisa, mas a falha física vem antes: são máquinas de arquivo, não caçadores perfeitos. Para enviá-los longe, o Ofício precisa de comboios, manutenção, sangue comum, rodas, lona, técnicos e decretos suficientes para manter a ordem andando sem desabar sob o próprio peso.
+
 O custo que os move chama-se **Amputação Administrativa**.
 
 Um decreto não apenas perde validade ao animar a máquina. A função social que ele sustentava enfraquece na jurisdição de origem. Se um Decreto de Propriedade move autômatos, casas podem ser invadidas e disputas de posse deixam de encontrar juiz estável. Se um Decreto de Sepultamento é consumido, enterros perdem reconhecimento. Se um Decreto de Testemunho alimenta um carrasco de argila, declarações civis ficam suspensas. Se um Decreto de Casamento vira força mecânica, uniões entram em sombra legal até novo selo.
@@ -6608,6 +6780,22 @@ Um decreto não apenas perde validade ao animar a máquina. A função social qu
 O Ofício automatiza a ordem ao custo da civilização.
 
 É isso que a Chancelaria usa contra eles em praça pública: não a acusação de que são monstros, mas a prova de que estão destruindo as próprias leis para fingir que as protegem.
+
+O custo precisa aparecer em gente comum.
+
+Quando o Ofício consome três Decretos de Casamento para mover autômatos até uma fossa interditada, a cidade não percebe primeiro as máquinas. Percebe que noivos esperando há meses perdem data, dote e reconhecimento. Uma mulher grávida descobre que seu filho pode nascer fora da proteção genealógica porque o selo da união entrou em sombra legal. Um viúvo tenta registrar herança e ouve que a propriedade conjugal está suspensa até nova confirmação.
+
+Quando um Decreto de Sepultamento move Carrascos de Argila pelo Arquivo Seco, os mortos pagam. Enterros feitos naquela semana não fecham direito. Revenants menores levantam não por maldição antiga, mas porque a lei que deveria reconhecer o descanso foi usada como combustível administrativo.
+
+Quando um Decreto de Testemunho anima escoltas de linho, pessoas vivas pagam. Depoimentos deixam de valer. Uma parteira que poderia salvar uma família mestiça é tratada como voz sem peso. Um coveiro que viu corpos do Protocolo desaparecerem não consegue registrar o que sabe. O Ofício chama isso de suspensão temporária.
+
+O povo chama de roubo da própria vida civil.
+
+Essa é a cena que deve acompanhar os Autômatos de Linho: não apenas figuras brancas atravessando sal e arquivo, mas casamentos desfeitos, mortos inquietos, propriedades abertas, testemunhas caladas e famílias que odeiam Severin porque a máquina usada para caçá-lo também desmontou a vida delas.
+
+A Chancelaria não vence essa discussão chamando os autômatos de monstruosos.
+
+Vence quando mostra a amputação deixada para trás.
 
 ## PARTE V — Fé, discernimento e terceira natureza fabricada
 
@@ -7976,6 +8164,8 @@ O primeiro Linchamento Métrico nasce sem monstro à vista.
 
 Severin percebe que sua simples proximidade pode destruir a confiança que mantinha pessoas assustadas longe do fogo.
 
+A passagem pelo portão não vem por heroísmo. Vem por corrupção. Um agente menor, pago pela Chancelaria ou pelo Protocolo, decide não registrar a primeira rachadura da bacia. O silêncio dura poucos minutos e custa caro: alguém inocente é deslocado para outra fila, um guarda recebe prata baixa demais para uma traição limpa, e a cidade ganha uma falha administrativa por onde Severin entra sem ser absolvido.
+
 #### Capítulo 8B: O Escriba-Carrasco
 
 Antes que a Chancelaria tenha nome, um Escriba-Carrasco chega à tenda. Não pergunta quem foi salvo. Pergunta quem tocou quem, quem viu, quem ouviu, quem estava perto da bacia quando a prata cedeu. Sua pena corre mais rápido do que as bocas dos refugiados. Mara deixa de ser apenas criança ferida e começa a virar contaminação documentada.
@@ -9198,7 +9388,7 @@ A partir daí, toda contenção passou por auditoria.
 
 Não antes. Antes seria morte por hesitação. Depois.
 
-Quem Severin viu primeiro? Quem o trauma dele reconheceu como ameaça? Quem ficou livre para ferir porque o sangue escolheu outro corpo? Ele salvou uma criança humana antes de um portador por tática ou por medo de parecer parcial? Travou os seus com mais força porque sabia que sobreviveriam melhor à dor? Poupou humanos por culpa de ser chamado monstro? Poupou portadores por amor?
+Quem Severin viu primeiro? Quem o trauma dele reconheceu como ameaça? Quem ficou livre para ferir porque a equivalência priorizou outro corpo? Ele salvou uma criança humana antes de um portador por tática ou por medo de parecer parcial? Travou os seus com mais força porque sabia que sobreviveriam melhor à dor? Poupou humanos por culpa de ser chamado monstro? Poupou portadores por amor?
 
 A auditoria não devolvia mortos.
 
@@ -10689,7 +10879,7 @@ Não basta dizer “aconteceu”. A língua pergunta: quem viu? Quem sangrou? Qu
 
 A forma alta preserva vários modos de testemunho.
 
-**Veth** marca sangue próprio. O falante sangrou, foi ferido, curou, sofreu ou esteve corporalmente implicado no evento. Um testemunho em Veth tem peso alto porque o corpo se apresenta como prova. Também é perigoso porque trauma, dor e culpa podem distorcer o que o sangue quer transformar em verdade.
+**Veth** marca sangue próprio. O falante sangrou, foi ferido, curou, sofreu ou esteve corporalmente implicado no evento. Um testemunho em Veth tem peso alto porque o corpo se apresenta como prova. Também é perigoso porque trauma, dor e culpa podem distorcer aquilo que o sangue organiza como verdade corporal.
 
 **Qal** marca sangue alheio diante do falante. A pessoa viu outro corpo sangrar. É a forma de testemunhas de campo, curandeiros, carrascos, soldados, parteiras, mães que seguraram filhos, guardas que encontraram portas vermelhas.
 
@@ -11305,6 +11495,18 @@ Coração do Mundo. Forma final do Coração Criador quando ele deixa o corpo de
 
 Contra esse evento, nenhuma pureza serve. Apenas discernimento, limite e ruptura do ciclo.
 
+#### A Síndrome da Abdicação Cardial
+
+Condição que surge quando Severin tenta desaparecer ou permanecer sem ação por tempo prolongado depois do segundo nascimento. Não é o Sangue Fundador escolhendo por ele, mas a consequência de um Coração Criador recusando circulação. Produz retenção de Pulso, movimentos somáticos involuntários, amplificação dos Reis Mortos e necrose de jurisdição. A fuga continua possível, mas deixa de ser neutra.
+
+#### A Guerra Fria de Caldrávia
+
+Conflito interno entre o Ofício da Pureza e o Protocolo Rubro-Branco. O Ofício quer fixar Severin como categoria monstruosa; o Protocolo quer mantê-lo vivo e circulante para colher marcados, soros e respostas fisiológicas. Ambos pertencem ao mesmo Estado, colaboram em público e sabotam-se em segredo.
+
+#### Os Rastros Passivos
+
+Sinais involuntários emitidos por pessoas marcadas por Severin: febres diante de prata, sonhos com ruínas, nomes que borram em documentos, reações animais, cicatrizes lunares e padrões de coagulação. Não são confissão nem mapa perfeito, mas permitem ao Ofício reconstruir rotas de salvação como constelações de sintomas.
+
 #### O Voto do Nome Presente
 
 Prática nascida entre portadores de Eco, não nos arquivos de nenhuma igreja ou corte. Quando alguém acorda de sonho emprestado, febre dinástica ou memória que não pertence ao próprio corpo, não é interrogado de imediato. Primeiro diz o nome. Depois o lugar. Depois reconhece a própria mão. Depois escolhe se falará.
@@ -11408,7 +11610,7 @@ Rito jurídico de fixação absoluta. Lê, testemunha, inscreve e sela uma categ
 
 Custo social dos Autômatos de Linho. Um decreto usado como força mecânica enfraquece a função civil que sustentava: propriedade, casamento, sepultamento, testemunho ou trânsito.
 
-### 8\.17\. Nomenclatura latina do lado humano
+### 8.17. Nomenclatura latina do lado humano
 
 A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano usa nomes de sabor latino, cristão, jurídico e eclesiástico. Muitos termos podem ser latim clássico correto, latim eclesiástico, latim de chancelaria ou formas corrompidas pelo uso popular. Isso é útil porque os próprios reinos não precisam falar um latim perfeito. Precisam falar um latim herdado, sacralizado e usado como instrumento de autoridade.
 
