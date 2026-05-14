@@ -332,6 +332,22 @@ Essa diferença sustenta a culpa pública da obra: o mundo arde por causa dele a
 
 ---
 
+### 0.8. A regra de ferro sob a névoa
+
+A obra pode falar em sangue, lua, fumaça, osso e arquivo com linguagem ritual. Mas, por baixo de cada imagem, deve haver consequência.
+
+Nenhum poder de Severin age como milagre solto. Tudo que o Sangue Fundador toca entra em equivalência: algo fecha porque outra coisa se abre; uma ferida para de sangrar porque uma memória perde calor; uma muralha sobe porque um poço morre; uma pessoa é salva porque passa a carregar rastro; uma definição é revogada porque outra testemunha aceita pagar o risco de ouvi-la.
+
+O Sangue Fundador não é vontade oculta. Não possui desejo, moral ou compaixão. Ele reconhece, vincula, restaura, cobra e retorna. Severin não luta contra uma voz do sangue. Luta contra leis íntimas que preferem continuidade à liberdade, posse à perda, restauração à distância e forma à ambiguidade.
+
+Essa distinção sustenta a agência dele. Os Reis Mortos oferecem gramática antiga. O Ofício oferece definição monstruosa. A Chancelaria oferece memória registrada, sempre editável. O sangue oferece equivalência. Severin decide qual preço aceita pagar e quando deve ferir a si mesmo para impedir que uma salvação vire domínio.
+
+A regra fundamental é simples:
+
+> **O Sangue Fundador não cobra sofrimento. Cobra equivalência. E toda equivalência deixa cadáver, vazio, vínculo ou esquecimento.**
+
+Por isso a história não deve tratar Severin como solução para o colapso. Ele é também inflação, contaminação de métrica, crise de abastecimento, invalidade jurídica e dependência logística. Sua existência quebra a economia, a lei, a fé e a infraestrutura do mundo antes mesmo que ele aceite qualquer coroa.
+
 ## PARTE I — Severin antes do mito
 
 ### 1.1. O sobrenome Sângelună
@@ -1190,6 +1206,8 @@ Chamam-na, em silêncio satisfeito, de purificação de superfície.
 Severin odeia essa interpretação.
 
 O Ofício tentará nomeá-la como sintoma: alopecia soberana, falência folicular, regressão não humana, prova externa de contaminação cardial. Os vampiros puros a considerarão deformidade bastarda. Sacerdotes ignorantes poderão chamá-la de tonsura demoníaca. Mas nenhuma dessas palavras acerta o centro.
+
+Entre observadores posteriores, a transformação receberia um nome menos religioso e mais preciso: **Tonsura Cardial**.
 
 A perda dos cabelos não torna Severin mais puro.
 
@@ -2997,11 +3015,13 @@ Severin carrega ambos como memória.
 
 ### 3.27. O Sangue Fundador
 
-Antes de morrer, Severin era sangue misto: humano e vampírico. Para sua família, isso era vergonha. Para os humanos, era corrupção. Para os vampiros puros, seria bastardização.
+Antes de morrer, Severin era sangue misto: humano e vampírico. Para sua família, isso era vergonha. Para os humanos, corrupção. Para os vampiros puros, bastardização.
 
 Depois da morte, a natureza desse sangue muda.
 
-Quando o sangue de Severin escorre pelas ruínas, ele atravessa os ossos puros dos últimos reis e alcança vestígios de sangue real preservado nas profundezas do castelo. A maldição tenta usar esse contato para restaurar a autoridade antiga. Mas o sangue que ela encontra não é puro. Também não é fraco. Ele carrega humanidade, herança vampírica, sofrimento, morte recente e legitimidade real.
+Quando o sangue de Severin escorre pelas ruínas, atravessa os ossos puros dos últimos reis e alcança vestígios de sangue real preservado nas profundezas do castelo, a maldição tenta restaurar a autoridade antiga. Mas o sangue que ela encontra não é puro. Também não é fraco. Carrega humanidade, herança vampírica, sofrimento, morte recente, legitimidade real e uma vontade que, no instante final, não pediu trono.
+
+Pediu fim.
 
 A magia não o purifica.
 
@@ -3011,9 +3031,9 @@ Não lava dele o humano.
 
 Não completa nele um vampiro antigo.
 
-Ela cria uma terceira coisa: **Sangue Fundador**.
+Cria uma terceira coisa: **Sangue Fundador**.
 
-O Sangue Fundador não é uma mistura suja. É uma síntese impossível. Ele contém o que humanos e vampiros consideravam incompatível e, por isso mesmo, ultrapassa os dois. Não é superior por pureza, mas por precedência. Seu corpo passa a carregar um sangue que o sangue humano e o sangue vampírico reconhecem como forma maior de si mesmos.
+O Sangue Fundador não é uma mistura suja. É uma síntese impossível. Contém o que humanos e vampiros consideravam incompatível e, por isso mesmo, ultrapassa os dois. Não é superior por pureza, mas por precedência. O sangue humano e o sangue vampírico reagem a ele como se encontrassem uma forma anterior a suas próprias categorias.
 
 Essa é a diferença fundamental entre Severin e os reis antigos.
 
@@ -3029,47 +3049,51 @@ Ao sangue.
 
 > **O sangue de Severin não era puro. Era fundador.**
 
-Mas soberania não significa estabilidade.
+Mas fundar não significa querer.
 
-O Sangue Fundador obedece a leis que Severin descobre com dor.
+O Sangue Fundador não possui vontade própria. Não deseja reino, vingança, misericórdia ou domínio. Não escolhe inocentes. Não odeia culpados. Não é conselheiro, demônio interno, santo líquido nem herança sábia. É uma física mística nascida de corpo, ossos, maldição, ruína e ferida.
 
-**A lei do corpo:** sangue usado é sangue perdido. Mesmo quando retorna, cobra frio, sede, tremor, fome, confusão ou colapso. O corpo não aceita que um rei gaste vida sem dívida.
+Ele reconhece condições e executa consequências.
 
-**A lei do coração:** o Sangue Fundador não nasce nas veias. As veias apenas o conduzem. A fonte é o Coração Criador, o órgão impossível que voltou a bater quando o coração morto de Severin recebeu, através dos ossos reais, o pulso interrompido dos últimos reis.
+Reconhece forma. Reconhece sangue. Reconhece dívida. Reconhece nome apagado. Reconhece vínculo. Reconhece matéria disponível. Reconhece testemunha. Reconhece sentença. Reconhece aquilo que foi quebrado e aquilo que aceita ser refeito.
 
-**A lei da origem:** só Severin produz Sangue Fundador pleno. Outros corpos podem carregá-lo por instantes, adoecer com seu Eco ou apodrecer tentando imitá-lo. Nenhum outro corpo possui o batimento capaz de fabricar a soberania.
+Depois cobra.
 
-**A lei da intenção:** o sangue segue a vontade de Severin antes de seguir a forma do rito. Quando enviado para curar, cura. Quando enviado para ferir, fere. Quando enviado para selar, sela. Mas o sangue não distingue bondade de posse; distingue comando, medo, desejo e necessidade. Uma intenção contaminada por culpa ou ódio pode transformar misericórdia em invasão.
+As leis centrais são estas.
 
-**A lei do limiar:** sem sangue exposto, a influência é pressão. Com sangue exposto, torna-se intervenção. Com sangue misturado, torna-se vínculo. Com sangue bebido, torna-se memória. O Eco não nasce por mancha ou toque externo. Precisa que o sangue atravesse uma fronteira: ferida, boca, veia, ventre, pacto ou rito.
+**A lei do coração:** o Sangue Fundador não nasce nas veias. As veias apenas o conduzem. A fonte é o Coração Criador, o órgão impossível que voltou a bater quando o coração morto de Severin recebeu, através dos ossos reais, o pulso interrompido dos últimos reis. Só esse coração produz Sangue Fundador pleno.
 
-**A lei do retorno:** todo Sangue Fundador derramado conserva memória da fonte. Enquanto não for metabolizado, destruído por rito ou degradado além do limiar, pode ser chamado de volta pelo Coração Criador.
+**A lei da equivalência:** nada é restaurado sem preço proporcional. Dor, frio, febre e fome são sintomas, não moeda principal. A moeda real pode ser sangue, massa, memória, hábito humano, autonomia, fertilidade, jurisdição ou identidade. O poder não cobra sofrimento. Cobra troca.
 
-**A lei do resíduo:** quando o sangue retorna, nem sempre leva consigo tudo o que despertou. O corpo tocado pode guardar Eco Sanguíneo: não o sangue fundador em si, mas a lembrança biológica de ter sido atravessado por ele.
+**A lei da matéria:** nada nasce do vazio. Sangue fecha carne usando carne. Arquisangue ergue pedra usando pedra, osso, raiz, ferro, cadáver, solo, água ou vida próxima. Quando a matéria é insuficiente, o poder procura outra fonte. É assim que uma muralha pode salvar uma vila e matar seus poços.
 
-**A lei do rito:** autoridade não é completa sem testemunha. O sangue pode reconhecer Severin sozinho na escuridão, mas o mundo só se dobra quando alguém vê, nomeia, teme ou aceita.
+**A lei do reconhecimento:** restaurar exige saber o que a coisa era antes da perda. Uma ferida precisa ser lida como corpo. Uma porta, como passagem. Um nome, como pessoa. Uma lei, como relação. Se Severin não compreende o que toca, o sangue pode fechar errado, anexar demais, curar como quem prende ou reconstruir como quem devora.
 
-**A lei da pedra:** o castelo amplifica o que o corpo não aguenta. Longe das ruínas, Severin é uma ferida andando. Dentro delas, é uma veia ligada a um cadáver imenso.
+**A lei do limiar:** sem sangue exposto, a influência é pressão. Com sangue exposto, torna-se intervenção. Com sangue misturado, torna-se vínculo. Com sangue recebido, torna-se Eco. O poder só atravessa fronteiras reais: ferida, boca, veia, ventre, pacto, rito, inscrição ou testemunho.
 
-**A lei da ferida:** culpa, vergonha e medo distorcem o comando. Quando Severin usa o poder em pânico, o sangue não entende misericórdia com clareza. Entende sobrevivência.
+**A lei do retorno:** todo Sangue Fundador derramado conserva memória da fonte. Enquanto não for metabolizado, salgado, queimado, ritualizado, soterrado em prata ou degradado além do limiar, pode ser chamado de volta pelo Coração Criador. O que ele tocou, porém, nem sempre volta limpo. Pode trazer medo, resíduo, memória alheia ou culpa biológica.
 
-**A lei da incorporação:** toda intervenção profunda transforma o corpo salvo em parte de uma jurisdição viva. O sangue que impede a morte não devolve apenas vida; cria pertencimento. Uma cura pequena pode terminar como cicatriz. Uma salvação contra a morte pode terminar como anexação.
+**A lei do resíduo:** quando o sangue retorna, nem sempre leva consigo tudo que despertou. O corpo tocado pode guardar Eco Sanguíneo, não o sangue fundador em si, mas a lembrança biológica de ter sido atravessado por ele. Esse Eco pode proteger, adoecer, denunciar, viciar ou chamar.
 
-**A lei do dividendo proibido:** quem entra nessa jurisdição ganha vantagem real contra o mundo que o mataria. Pode resistir a certos selos, sobreviver a feridas comuns enquanto o Pulso alcança seu corpo, suportar venenos fracos ou chamar testemunha onde o arquivo exigiria silêncio. Mas nada disso vem como liberdade limpa. A vantagem é comprada com dor compartilhada, sonho invadido e perda parcial da vida comum.
+**A lei do rito:** autoridade não se fixa sem testemunha. O sangue pode reconhecer Severin sozinho na escuridão, mas o mundo só se dobra quando alguém vê, ouve, nomeia, teme, registra ou aceita. A Fala Soberana exige testemunha, custo e inscrição. Sem isso, é apenas força passando pelo ar.
 
-**A lei da contestação:** o vínculo dá acesso nos dois sentidos. Severin toca os anexados, mas os anexados também podem ferir a estabilidade da coroa que os tocou. Ódio, medo, recusa e luto não ficam fora do sistema. Sobem pelas mesmas veias pelas quais a proteção desceu.
+**A lei da incorporação:** toda intervenção profunda transforma o salvo em parte de uma jurisdição viva. Uma cura pequena pode deixar cicatriz. Uma salvação contra a morte pode criar pertencimento. O sangue que impede a morte não devolve apenas vida; deixa marca de débito.
+
+**A lei da contestação:** vínculo nunca corre em um sentido só. Severin toca os marcados, mas os marcados também sobem até ele. Ódio, medo, dor, recusa, gratidão, luto e desejo podem ferir a estabilidade da coroa pelas mesmas vias em que a proteção desceu.
+
+**A lei da revogação:** impor é mais fácil que soltar. Vincular é mais barato que libertar. Dominar é mais simples que reconhecer autonomia. Quando Severin salva sem possuir, o preço recai sobre ele com mais força.
+
+**A lei da superfície:** quando o Sangue Fundador aprende a obedecer sem se derramar inutilmente, procura ocupar a pele como território. Pode formar crostas, fios, lâminas, faixas, membranas e vestes vivas. Mas superfície não é ornamento. Toda roupa feita de sangue continua sendo sangue: pesa, pulsa, lembra, sente dano e cobra retorno.
 
 **A lei da falência:** nenhum coração governa dores infinitas. Quando o Coração Criador recebe gente demais, fome demais, medo demais, sonho demais e documento demais, a soberania deixa de agir como vontade e começa a agir como febre. Nesse estado, Severin não perde apenas força. Perde legibilidade sobre si.
-
-
-**A lei da superfície:** quando o Sangue Fundador aprende a obedecer sem se derramar inutilmente, procura ocupar a pele como território. Pode formar crostas, fios, lâminas, faixas, membranas e vestes vivas ao redor do corpo. Mas superfície não é ilusão. Toda roupa feita de sangue continua sendo sangue: pesa, pulsa, lembra, sente dano e cobra retorno.
 
 Assim, o Sangue Fundador nunca é apenas dom.
 
 É trono líquido.
 
-Essa soberania é uma das maiores ameaças políticas da história. Para os humanos, confirma o medo de que ele seja uma aberração capaz de violar corpos. Para os vampiros puros, destrói a ideologia da pureza: aquilo que eles chamariam de impuro possui uma autoridade que nenhum rei puro teve.
+E um trono líquido pode salvar como quem invade.
 
+Essa soberania ameaça todos os sistemas. Para os humanos, confirma o medo de uma aberração capaz de violar corpos e métricas. Para os vampiros puros, destrói a ideologia da pureza: aquilo que chamariam de impuro possui autoridade que nenhum rei puro teve. Para Severin, o horror é mais íntimo. Cada uso prova que ele pode fazer aos outros, em nome da salvação, aquilo que o mundo fez com sua família em nome da lei: transformar pessoas em consequência de uma definição.
 
 ### 3.28. A Vestidura Hemática
 
@@ -3536,7 +3560,7 @@ Sem isso, cada sentença régia se tornará abrigo para o homem que já não sup
 
 O **Arquisangue** é o Sangue Fundador em estado fundacional.
 
-Ele não existia antes de Severin. Nenhum vampiro antigo o nomeou, porque nenhum vampiro antigo podia produzi-lo. Os reis antigos tinham castelos como corpos políticos, câmaras de sangue, pactos arquitetônicos, muralhas ritualizadas e tronos capazes de sustentar autoridade. Mas seus sangues não criavam arquitetura nova. Eles governavam estruturas que já reconheciam a coroa.
+Ele não existia antes de Severin. Nenhum vampiro antigo o nomeou, porque nenhum vampiro antigo podia produzi-lo. Os reis antigos possuíam castelos como corpos políticos, câmaras de sangue, pactos arquitetônicos, muralhas ritualizadas e tronos capazes de sustentar autoridade. Mas seus sangues não criavam arquitetura nova. Eles governavam estruturas que já reconheciam a coroa.
 
 Severin é diferente.
 
@@ -3550,12 +3574,21 @@ Invade a estrutura e pergunta ao mundo mineral:
 
 > **O que você era antes de ser ruína?**
 
-O Arquisangue entra em rachaduras, fundações, runas, metais, ossos enterrados, cisternas, portas, corredores, salões e câmaras de juramento. Procura vestígios de função. Onde encontra memória arquitetônica, estabelece circulação. Onde encontra circulação, impõe ritmo. Onde impõe ritmo, a estrutura começa a responder ao Coração Criador.
+Mas a pergunta não cria matéria.
 
-> **O Arquisangue não constrói como pedreiro.  
-> Funda como coração.**
+O Arquisangue não ergue castelo do nada. Entra em rachaduras, fundações, runas, metais, ossos enterrados, cisternas, portas, corredores, salões e câmaras de juramento. Procura vestígios de função. Onde encontra memória arquitetônica, estabelece circulação. Onde encontra circulação, impõe ritmo. Onde impõe ritmo, a estrutura começa a responder ao Coração Criador.
 
 Pedras se procuram como ossos. Portões se fecham como mandíbulas. Escadarias reaparecem como veias abertas. Muralhas se recompõem como pele cicatrizando mal. Runas acendem como nervos. Torres não sobem simplesmente; lembram a obrigação de vigiar. Cisternas não enchem apenas de água; voltam a circular memória, sangue e comando.
+
+> **O Arquisangue não constrói como pedreiro. Funda como coração.**
+
+Essa fundação, porém, é predatória.
+
+Toda arquitetura fundada pelo Sangue cria uma **zona de débito**. Um portão refeito pode secar as ervas junto à soleira. Uma ponte pode puxar cálcio de ossadas enterradas sob a estrada. Uma muralha pode matar colheitas no raio de uma légua. Uma torre pode deixar o solo sem insetos, as vacas sem leite e os poços com gosto metálico. Um castelo inteiro exigiria matéria de região inteira: pedra, floresta, ferro, cadáver, animal, água, memória e sangue.
+
+A beleza da restauração é proporcional à feiura do vazio que deixa ao redor.
+
+Por isso Caer Sângelună não pode simplesmente voltar em glória. Reerguê-lo cedo demais seria declarar guerra contra a própria terra. O castelo não pediria apenas pedra. Pediria equivalência.
 
 O Arquisangue só funciona plenamente em estruturas com vínculo soberano ou ritual: castelos das antigas nações vampíricas, câmaras juramentadas, fortalezas de sangue, criptas régias, muralhas vinculadas a pacto, fundações da Machina Cruoris ou lugares onde o corpo político da antiga noite deixou marca real.
 
@@ -3563,86 +3596,73 @@ Ele não permite que Severin controle qualquer casa, ponte ou pedra comum.
 
 Severin não controla matéria.
 
-Desperta arquitetura que reconhece, ainda que de modo quebrado, uma precedência fundadora.
+Desperta arquitetura que reconhece, ainda que de modo quebrado, uma precedência fundadora. E toda arquitetura despertada cobra o direito de existir com alguma coisa que antes estava viva, fértil, lembrada ou livre.
 
 ### 3.37. Leis do Arquisangue
-
-O Sangue Fundador é a substância viva de Severin: sangue que cura, fere, sela, chama, marca, retorna e impõe precedência.
-
-O Arquisangue é um estado desse sangue.
-
-Surge quando o Coração Criador converte o Sangue Fundador em sangue de fundação, capaz de entrar na pedra e fazer arquitetura funcionar como extensão de corpo político.
 
 Todo Arquisangue é Sangue Fundador.
 
 Nem todo Sangue Fundador é Arquisangue.
 
-O Arquisangue exige três condições.
+O Arquisangue exige quatro condições.
 
-A primeira é **intenção fundacional**. Severin precisa, consciente ou inconscientemente, desejar dar forma, abrigo, defesa, julgamento, contenção ou retorno a uma estrutura.
+A primeira é **intenção fundacional**. Severin precisa desejar, consciente ou inconscientemente, dar forma, abrigo, defesa, julgamento, contenção ou retorno a uma estrutura.
 
-A segunda é **estrutura receptiva**. A arquitetura precisa carregar algum vestígio de rito, coroa, sangue, juramento ou função antiga.
+A segunda é **estrutura receptiva**. A arquitetura precisa carregar vestígio de rito, coroa, sangue, juramento, ruína soberana ou função antiga.
 
-A terceira é **custo de circulação**. O sangue precisa sair de Severin ou se projetar a partir dele em quantidade suficiente para estabelecer veias temporárias na pedra.
+A terceira é **matéria disponível**. Pedra, terra, madeira, osso, ferro, raiz, cadáver, água mineral, poeira de construção, relíquia quebrada ou corpo vivo precisam estar ao alcance da equivalência. Sem matéria, não há construção. Há saque.
+
+A quarta é **custo de circulação**. O sangue precisa sair de Severin ou projetar-se a partir dele em quantidade suficiente para estabelecer veias temporárias na estrutura.
 
 O primeiro estágio é o **Reconhecimento**. A estrutura percebe Severin. Runas brilham. Portas tremem. O chão pulsa. A ruína parece escutar. Ainda não há reconstrução; há resposta.
 
 O segundo estágio é a **Infiltração**. O sangue entra nas fissuras e alcança fundações, selos, ossos, metais e câmaras. Não se espalha como água. Espalha-se como sistema nervoso procurando membros perdidos.
 
-O terceiro estágio é a **Vascularização**. A estrutura ganha circulação. O castelo deixa de ser bloco morto e passa a responder por zonas: portão, muralha, cisterna, salão, cripta, torre, arquivo. Cada área acorda como órgão.
+O terceiro estágio é a **Vascularização**. A estrutura ganha circulação. O castelo deixa de ser bloco morto e passa a responder por zonas: portão, muralha, cisterna, salão, cripta, torre, arquivo.
 
-O quarto estágio é a **Recomposição**. Pedras se erguem, ferro se endireita, madeira morta range, escadarias surgem, salões se fecham contra a chuva, brasões sangram nas paredes. A estrutura não volta limpa. Volta costurada.
+O quarto estágio é a **Exação de Massa**. A ruína cobra matéria. Primeiro toma o que pertence a ela: pedras caídas, ferragens antigas, ossadas próprias, madeira apodrecida, água presa. Depois, se a fome arquitetônica continuar, começa a buscar o entorno: raiz, gado, solo fértil, cadáveres de vila, memória de casa, até sangue vivo se Severin não interromper.
 
-O quinto estágio é o **Mandato de Pedra**. Severin não apenas reergue uma parte da arquitetura, mas impõe função. Uma muralha protege. Um portão recusa entrada. Uma sala exige testemunha. Uma câmara sela. Um corredor conduz apenas quem o sangue permite.
+O quinto estágio é a **Recomposição**. Pedras se erguem, ferro se endireita, madeira morta range, escadarias surgem, salões se fecham contra a chuva, brasões sangram nas paredes. A estrutura não volta limpa. Volta costurada.
 
-O estágio final é o **Retorno ou Colapso**. O Arquisangue precisa retornar ao Coração Criador ou degradar. Se Severin sustenta a estrutura além do limite, o castelo começa a beber dele. Se recolhe cedo demais, a arquitetura pode ruir, dormir ou permanecer deformada.
+O sexto estágio é o **Mandato de Pedra**. Severin não apenas reergue uma parte da arquitetura; impõe função. Uma muralha protege. Um portão recusa entrada. Uma sala exige testemunha. Uma câmara sela. Um corredor conduz apenas quem o sangue permite.
 
-O Arquisangue é mais caro que a Sincronia Régia porque exige que Severin estenda sua soberania para fora do corpo.
+O estágio final é o **Retorno ou Colapso**. O Arquisangue precisa retornar ao Coração Criador ou degradar. Se Severin sustenta a estrutura além do limite, a arquitetura começa a beber dele. Se recolhe cedo demais, pode ruir, dormir ou permanecer deformada.
 
-Ele pode perder sangue, calor, memória, equilíbrio e senso de limite corporal. Quanto maior a estrutura, maior a sensação de que seu corpo deixou de terminar na pele. Pode sentir uma torre como costela, uma muralha como braço, uma cisterna como pulmão, uma sala do trono como segundo coração.
+O Arquisangue é mais caro que a Sincronia Régia porque exige que Severin estenda sua soberania para fora do corpo. Ele pode perder sangue, calor, memória, equilíbrio e senso de limite corporal. Quanto maior a estrutura, maior a sensação de que seu corpo deixou de terminar na pele. Pode sentir uma torre como costela, uma muralha como braço, uma cisterna como pulmão, uma sala do trono como segundo coração.
 
 Isso é útil.
 
 E monstruoso.
 
-O risco não é apenas Severin comandar o castelo.
-
-É o castelo começar a responder como se tivesse direito sobre ele.
-
 A arquitetura antiga possui memória de função. Um castelo não quer apenas ficar de pé. Quer guardar, julgar, excluir, abrigar, vigiar, prender, coroar. Quando o Arquisangue entra nele, essas funções podem despertar antes que Severin as compreenda.
 
 Ele pode querer erguer uma muralha para proteger refugiados.
 
-O castelo pode fechar também a saída.
+A muralha pode fechar também a saída.
 
-Ele pode querer abrir um salão.
+Ele pode querer salvar uma vila de bestas.
 
-O salão pode exigir juramento.
+O muro pode matar o poço que manteria a vila viva no inverno.
 
 Ele pode querer restaurar uma ponte.
 
 A ponte pode reconhecer antigos direitos de passagem e recusar humanos sem nome.
 
-Ele pode querer reativar uma cripta.
+Ele pode querer abrir uma cripta.
 
 A cripta pode chamar os mortos que ainda se consideram parte da corte.
 
-Por isso o Arquisangue não é mera restauração. É disputa de jurisdição entre Severin e a arquitetura.
+Por isso o Arquisangue não é mera restauração. É disputa de jurisdição entre Severin, a arquitetura e a terra que paga por ela.
 
-> **Severin dá coração à ruína.  
-> A ruína tenta lembrar a ele para que servia um coração régio.**
-
-O Arquisangue não cria castelo do nada. Precisa de fundação, memória, osso, pedra juramentada ou vestígio de corpo político.
+> **Severin dá coração à ruína. A ruína tenta lembrar a ele para que servia um coração régio.**
 
 O Arquisangue não restaura pureza. Tudo que reergue volta marcado pela natureza de Severin: mestiço, ferido, novo, contraditório. Um castelo levantado por ele não será reprodução perfeita da antiga glória vampírica. Será arquitetura fundadora bastarda.
 
-O Arquisangue não apaga culpa histórica. Se uma câmara foi usada para tortura, ela pode voltar carregando ecos disso. Se uma muralha protegeu senhores que exploravam aldeias, pode resistir a ser usada como refúgio. Se um salão serviu para sentenças injustas, pode exigir que Severin o reescreva com lei nova antes de obedecer plenamente.
-
-O Arquisangue não obedece bem ao pânico. Se Severin usa esse estado dominado por culpa, medo ou ódio, a estrutura pode responder de modo brutal: trancar inocentes, esmagar inimigos rendidos, levantar espinhos de ferro, abrir fossas antigas, convocar armaduras que ele não queria despertar.
+O Arquisangue também não apaga culpa histórica. Se uma câmara foi usada para tortura, volta carregando ecos disso. Se uma muralha protegeu senhores que exploravam aldeias, resiste a virar refúgio. Se um salão serviu para sentenças injustas, exige que Severin o reescreva com lei nova antes de obedecer plenamente.
 
 A lei da ferida continua valendo.
 
-O sangue entende intenção, mas intenção ferida distorce comando.
+O sangue entende forma, mas forma ferida distorce função.
 
 ### 3.38. Relação entre Sincronia Régia e Arquisangue
 
@@ -3955,6 +3975,110 @@ Severin logo entende que salvar pela força do sangue não é o mesmo que curar.
 Às vezes é apenas impedir que a morte termine a frase.
 
 ---
+
+### 3.43A. Economia de equivalência
+
+Os custos do Sangue Fundador não devem ser pensados como castigo moral, mas como contabilidade do mundo.
+
+A moeda menor é o sangue físico: volume, calor, pressão, fome, dor e recomposição. Serve para cortes, estancamentos, leitura de pulso, pequenas proteções e retorno superficial.
+
+A segunda moeda é a contaminação sensorial. Ao tocar sangue alheio, Severin não recebe informação limpa. Recebe resíduos: medo sem contexto, desejo sem rosto, culpa sem frase, último gosto na boca, memória muscular de violência, ternura que não é sua, nojo, vício, fome, luto. Ler um assassino pode deixar a mão dele sabendo como o golpe entrou. Ler uma mãe enlutada pode fazê-lo procurar, por horas, uma criança que não lhe pertence.
+
+A terceira moeda é a memória. Não apenas arquivo apagado, mas mutilação cognitiva. Quando uma lembrança de Ilona é gasta, Severin não perde só imagem ou som. Perde o gatilho afetivo que aquela lembrança acendia. Pode saber que a risada dela importava e, ainda assim, encontrar dentro de si um lugar sem resposta. O vazio é funcional: ele decide pior onde antes o amor decidia por ele.
+
+A quarta moeda é a massa. Ferida exige carne. Ponte exige matéria. Muralha exige pedra, raiz, osso, ferro ou vida próxima. Onde falta matéria morta, a equivalência procura matéria viva.
+
+A quinta moeda é a jurisdição. Toda cura profunda pergunta se o salvo será apenas salvo ou também incluído. A inclusão protege, mas vincula. A recusa preserva autonomia, mas desloca o custo para Severin.
+
+A sexta moeda é a identidade. Usos altos arrancam hábitos humanos: sono regular, sabor do pão, reflexo de respirar, vergonha diante da nudez, necessidade de piscar, calor de uma lembrança, familiaridade com o próprio nome. Severin não se torna menos humano porque ganha poder. Torna-se menos humano porque paga com os gestos pequenos que faziam a humanidade parecer natural.
+
+A escala nunca é limpa. Uma cura mínima pode custar só frio e fome. Uma cura mortal pode deixar Marca de Débito. Uma vila salva sem anexação pode custar uma âncora nuclear. Uma muralha pode comprar a noite com a fertilidade do solo. Uma cidade inteira protegida talvez exija que Severin pense por algumas horas no plural e volte incapaz de reconhecer onde o próprio corpo termina.
+
+### 3.43B. Marca de Débito
+
+Toda pessoa salva em profundidade por Severin carrega consequência.
+
+A **Marca de Débito** não é sempre visível. Pode ser uma veia escura que aparece sob lua ferida, uma cicatriz que pulsa diante de prata, um sonho recorrente com escadarias molhadas, sangue que coagula em padrão errado, temperatura corporal baixa, nome que borra em documentos do Ofício ou animais que farejam a pessoa como se ela tivesse passado por uma morte que não terminou.
+
+O Ofício aprende a rastrear essas marcas.
+
+A Sé debate se são graça, pacto ou contaminação.
+
+A Chancelaria tenta escondê-las.
+
+Os curados podem odiar Severin por isso. Foram arrancados da morte, mas ganharam rastro. Conseguem respirar, mas talvez não casar. Conseguem andar, mas talvez não entrar em cidade. Conseguem lembrar do toque que os salvou e amaldiçoá-lo por tê-los tornado legíveis.
+
+A melhor forma de Severin proteger alguém, às vezes, é nunca tocar essa pessoa.
+
+Essa verdade o destrói mais do que a acusação dos inimigos.
+
+### 3.43C. Soberania de Testemunha e Vassalagem Sanguínea
+
+Há duas formas principais de Severin salvar coletivos.
+
+A primeira é a **Vassalagem Sanguínea**. Severin salva e vincula. Os marcados recebem proteção remota, Pulso, resistência limitada a certos selos, aviso em sonho, coesão diante de medo e alguma defesa contra registros do Ofício. Em troca, perdem parte da vida comum. Sonham com o castelo. Sentem dor que não é deles. Podem obedecer antes de escolher. Em crise, o corpo ouve Severin como se ele fosse clima.
+
+A segunda é a **Soberania de Testemunha**. Severin salva sem possuir. Nomeia os salvos como testemunhas, não como seus. A ferida fecha o bastante para impedir a morte, mas não cria proteção remota estável. A vila permanece livre e vulnerável. Não recebe o Dividendo da Anexação. O preço recai sobre Severin: memória, sangue, calcificação, hábito humano ou perda de afeto.
+
+Não há salvação total.
+
+Testemunha salva a pessoa da posse.
+
+Vassalagem salva a pessoa da vulnerabilidade.
+
+Quando Severin escolhe testemunha, vende o passado para não ser dono do futuro. Quando escolhe vassalagem, salva corpos ao risco de criar o primeiro esboço do Dilúvio Fundador.
+
+### 3.43D. Sístole Nula e Obsidiana Cardial
+
+A **Sístole Nula** é a interrupção voluntária ou forçada do Coração Criador.
+
+Não é defesa espiritual. Não é botão de reset. Não é expulsão dos Reis Mortos. É interrupção hidráulica do Sangue Fundador.
+
+Quando Severin para o próprio coração, o fluxo cessa. Vínculos ativos enfraquecem. Curas param. Comandos caem. Arquisangue perde coesão. A Vestidura Hemática amolece ou racha. A Maré de Retorno se interrompe.
+
+O preço é a **Obsidiana Cardial**.
+
+Sem pulso, o Sangue Fundador começa a vitrificar dentro das veias, formando uma substância negra, lisa e cortante. Até cinco segundos, surgem dormência e queda térmica. Até quinze, microcalcificações. Até trinta, dor ao mover dedos, língua e olhos. Até sessenta, placas negras sob a pele e rigidez parcial. Depois disso, Severin corre risco de permanecer consciente dentro de um corpo que não responde.
+
+Acima do limite, nasce a ameaça da **Estátua Cardial**: corpo imóvel, consciência ativa, coração transformado em núcleo de obsidiana viva.
+
+A Sístole Nula também produz **Isquemia da Memória**. O evento permanece, mas o acesso espontâneo ao afeto congela. Severin lembra que alguém importava, mas não sente de imediato por quê. Lembra que uma luta aconteceu, mas perde o peso do motivo. Lembra uma traição, mas a dor chega atrasada ou não chega.
+
+Por isso ele passa a depender de registros externos, objetos, cartas, cicatrizes e testemunhas para reabrir afetos que antes surgiam sozinhos.
+
+Essa dependência o salva.
+
+E o torna vulnerável.
+
+Quem escreve a história de Severin para Severin governa parte de Severin.
+
+### 3.43E. Bloqueadores técnicos do Sangue Fundador
+
+O mundo não é conivente com Severin.
+
+Há substâncias, sons, inscrições e condições capazes de bloquear, deformar ou atrasar seu poder.
+
+**Sal** dispersa reconhecimento e rompe continuidade de Pulso. Não destrói o sangue, mas impede jurisdição estável.
+
+**Prata pura** corta leitura sanguínea. Agulhas, bacias e lâminas de margem não vencem Severin por força; impedem nomeação precisa.
+
+**Água salgada** dissolve Eco e prejudica retorno. Portos são zonas difíceis para o Sangue Fundador.
+
+**Cinza da Mortalha Branca** força o sangue a esquecer a própria regeneração por curto período.
+
+**Sinos brancos** e **Sinos de Abafamento** quebram cadência cardíaca, atrapalham a Fala Soberana e impedem que vibração mística se fixe no ar.
+
+**Ferro frio de Minguarvex** ancora matéria e dificulta Arquisangue. É usado para impedir que estruturas acordadas mudem de forma.
+
+**Papel de Sal de Elcár** dissolve tinta feita com Sangue Fundador e impede contra-inscrição estável.
+
+**Fogueira legalizada** une violência, testemunha e inscrição. Um corpo queimado após sentença pública não morre apenas de fogo; tenta ser fixado em categoria.
+
+**Mordaça de Silêncio Social** não cala apenas a boca de Severin. Declara contaminado qualquer humano que aceite ouvi-lo em Fala Soberana. Sem ouvinte legítimo, a palavra perde mundo onde pousar.
+
+O Sangue Fundador cobra equivalência.
+
+Mas o mundo foi construído para interromper equivalências.
 
 ### 3.44. O Pulso do Trono
 
@@ -5474,6 +5598,61 @@ Severin precisa enfrentar essa verdade sem conforto. Derrubar o Ofício não enc
 
 A Mesa dos Nomes, se quiser sobreviver, precisará aprender a pesar pão junto com testemunho.
 
+### 4.18A. Moeda, métrica e confiança pública
+
+A economia humana depois da Luna Vulnata passa a circular em três níveis.
+
+A moeda comum é a **cera branca**: discos, fitas ou lacres de cera endurecida, fibra, sal fino e selo municipal. Compra pão, hospedagem, ferramentas simples e entrada menor em mercados. Infla depressa. Falsifica-se com facilidade. Quando o medo aumenta, a cera perde valor antes do trigo.
+
+A moeda forte é a **prata baixa**: contas, fragmentos, pó, lâminas ou pequenos lingotes de prata impura. Paga escolta, contenção, suborno, bacias, agulhas, mordaças, passagens de fronteira e impostos de guerra. Sua escassez governa a brutalidade. Quando uma cidade fica sem prata, passa a confiar menos em prova e mais em fogo.
+
+A moeda biopolítica são as **Promessas de Sangue**. Não compram pão diretamente. Compram o direito de existir sem suspeita imediata: entrada em cidade, contrato de casamento, sepultamento legal, tratamento médico, licença de viagem, acesso a guilda, autorização para parto assistido e prova de linhagem suficiente para dormir dentro da muralha.
+
+Severin não falsifica Promessas de Sangue.
+
+Quebra a métrica que lhes dá sentido.
+
+Seu sangue não aparece como limpo nem impuro. Nas bacias de prata, provoca **Erro Soberano**: a prata escurece rápido demais, o óleo coagula em desenho irregular, o reagente satura, a taça racha por dentro ou a tinta do registro se recusa a produzir categoria estável. O instrumento não acusa. Falha.
+
+Essa falha é mais perigosa que uma condenação.
+
+Um impuro pode ser queimado. Um teste quebrado coloca todos na fila sob suspeita.
+
+### 4.18B. Linchamento Métrico
+
+Quando uma bacia dá Erro Soberano em público, a multidão não pensa em Sangue Fundador.
+
+Pensa que a prata foi corrompida.
+
+Pensa que o Diabo entrou na métrica.
+
+Pensa que ninguém pode provar mais nada.
+
+Então começa o **Linchamento Métrico**.
+
+Primeiro, exigem repetir o teste. Depois exigem cortar mais fundo. Depois acusam o guarda que segurou a taça, a mãe que chorou, o padre que hesitou, a criança que não sangrou o bastante, o mercador que trouxe prata ruim, o refugiado que olhou para a porta no momento errado. O pânico não procura verdade. Procura restaurar confiança pelo sacrifício mais próximo.
+
+Severin torna o mundo mais violento não apenas por assustá-lo.
+
+Torna-o mais violento porque retira das pessoas a ferramenta que usavam para provar que eram seguras.
+
+O Erro Soberano rouba a inocência técnica do mundo.
+
+### 4.18C. O Protocolo Rubro-Branco como vampirismo industrial
+
+O Protocolo Rubro-Branco não deseja apenas capturar Severin.
+
+Deseja cultivar seu rastro.
+
+Cada pessoa curada por ele, cada corpo com Marca de Débito, cada tecido que reage à prata, cada criança que sonha com ruínas e continua viva torna-se material de estudo, soro, enxerto, privilégio ou arma. Para o Protocolo, os marcados são lavouras móveis. Severin semeia por compaixão; eles colhem por método.
+
+Esse vampirismo industrial não se apresenta como noite antiga. Usa luvas humanas, aventais limpos, livros de dose, quartos brancos e palavras como estabilização, vigília, continuidade, defesa dinástica e necessidade de Estado.
+
+Um aliado pode ajudar Severin a fugir de Caldrava e, na semana seguinte, vender a rota dos curados que ele deixou para trás.
+
+O Protocolo não quer que Severin pare de salvar.
+
+Quer que ele salve sem aprender quem colhe depois.
 
 ### 4.19. Relação com os humanos
 
@@ -5554,6 +5733,74 @@ Contra ele, a caça deixa de ser apenas guerra de lâminas.
 Torna-se guerra de semântica.
 
 ---
+
+### 4.20A. Escribas-Carrascos
+
+Os Escribas-Carrascos são a forma mais veloz do Ofício.
+
+Não chegam primeiro com lâmina.
+
+Chegam com mesa dobrável, papel de sal, bacia portátil, agulha de prata, cera branca, régua genealógica e tinteiro de cinza. Sua função não é matar antes de todos. É escrever antes de todos.
+
+Quando Severin salva alguém, eles registram contaminação antes que a Chancelaria registre salvação. Quando uma vila é protegida por Arquisangue, registram zona de débito antes que testemunhas falem em refúgio. Quando uma criança marcada respira, registram contato sanguíneo não certificado antes que a mãe consiga dizer nome.
+
+A velocidade é a arma.
+
+Se o Escriba-Carrasco chega primeiro, a realidade social começa a obedecer à sua definição. Portões fecham. Casamentos suspendem. Sepultamentos são negados. Curados tornam-se suspeitos. Testemunhas viram contaminados por audição. A folha não precisa ser justa para funcionar; precisa circular antes da contrafolha.
+
+Por isso a guerra contra o Ofício não é apenas guerra de espadas.
+
+É corrida de canetas.
+
+### 4.20B. A Liturga do Definitivo
+
+A arma máxima dos Escribas-Carrascos é a **Liturga do Definitivo**.
+
+Ela não busca provar. Busca fixar.
+
+O procedimento exige acusado presente ou representado por sangue, testemunhas oficiais, sentença lida em voz pública, inscrição corporal, documento selado, registro de margem e envio ao arquivo central. Quando aplicada a um suspeito comum, transforma ambiguidade em destino social. Quando aplicada a Severin, tentaria fixá-lo como monstro, contaminação soberana, não-pessoa, fonte de ameaça e corpo sem direito de testemunho.
+
+A Liturga do Definitivo não venceria o Coração Criador por força. Tentaria cercá-lo por definição.
+
+Se a frase for aceita por testemunhas suficientes, o mundo social começa a tratar Severin como aquilo que foi dito. O Sangue Fundador, que reconhece sentença, testemunha e inscrição, encontra a categoria circulando e reage contra ela. Assim se fecha o ciclo mais cruel do Ofício.
+
+O Ofício nomeia.
+
+A sociedade teme.
+
+O sangue reage.
+
+A reação confirma o Ofício.
+
+### 4.20C. A Chancelaria da Ferida
+
+A Chancelaria da Ferida nasce para impedir que esse ciclo se feche.
+
+Não é reino. Não é igreja. Não é inocência organizada. É uma rede de ex-linhageiros desertores, monges dissidentes, parteiras, coveiros, médicos de veia, tabeliães queimados, vampiros alfabetizados em Veyrûm e sobreviventes marcados.
+
+Sua primeira função é produzir contra-registro.
+
+Severin salva; eles escrevem antes que o Ofício corrompa o ato.
+
+Severin perde memória; eles guardam o porquê.
+
+Uma criança é marcada; eles preservam nome, circunstância e testemunha para que a Marca de Débito não vire automaticamente prova de vassalagem.
+
+A Chancelaria não tenta provar que Severin é bom. Tenta preservar o **Escudo de Ambiguidade**. Enquanto ele puder ser sobrevivente, testemunha, vítima de sentença ilegal, anomalia sob discernimento, não-humano não demoníaco ou soberania não classificada, o Sangue Fundador não se acomoda plenamente à forma monstruosa que o Ofício tenta impor.
+
+Mas a Chancelaria também é perigosa.
+
+Depois da Sístole Nula, depois de perdas afetivas, depois de memórias queimadas, Severin passa a depender de registros externos para lembrar por que certas pessoas importam. Quem controla esses registros controla parte de sua alma operacional.
+
+Uma omissão pode mudar uma decisão.
+
+Uma carta atrasada pode salvar uma estratégia e matar uma vila.
+
+Uma lembrança preservada com palavras erradas pode fazer Severin amar aquilo que não amou ou esquecer aquilo que prometeu proteger.
+
+Quem escreve a história de Severin para Severin governa parte de Severin.
+
+Por isso sua relação com os aliados nunca deve ser confortável.
 
 ### 4.21. O Protocolum Regis Captivi
 
@@ -6308,6 +6555,59 @@ A ampola que lhes deu séculos talvez tivesse preparado suas veias para ouvir o 
 
 Essa é a última ironia da Longa Vigília. Os homens que prolongaram a própria vida para guardar a humanidade contra a noite talvez tenham se tornado, sem perceber, os primeiros humanos importantes a carregar dentro de si um corredor aberto para a fundação sanguínea que mais temem.
 
+### 4.36. Geografia política da crise
+
+A crise humana se organiza, no primeiro ciclo depois da Luna Vulnata, em quatro blocos de força.
+
+**Caldrávia** é o bloco da triagem, da cera branca, das Promessas de Sangue e dos cartórios de emergência. Sua burocracia precisa de Severin para entender o Erro Soberano e o odeia porque ele quebra o monopólio da métrica. Dentro dela, o Ofício deseja classificação, enquanto o Protocolo Rubro-Branco deseja extração.
+
+**Aurel** é o bloco da Sé Branca. Suas catedrais, mosteiros e escolas de exorcismo discutem se Severin é abominação, ferida, milagre suspeito ou testemunha de crime humano. A Sé Oficial quer definição; a Ordem da Ferida insiste no discernimento. Precisam dele porque a Luna Vulnata tornou insuficiente a linguagem antiga da salvação e da danação. Odeiam-no porque sua existência obriga a fé a admitir zonas intermediárias.
+
+**Minguar** é o bloco das minas tomadas de Minguarvex. Guarda prata baixa, ferro frio e sal de contenção. Suas galerias começaram a acordar com nomes vampíricos, máquinas antigas e mortos de mineração. Precisam de Severin para selar o que a prata não contém mais. Odeiam-no porque o Arquisangue esteriliza solo, vitrifica minério e pode devolver às minas memória de seus antigos senhores.
+
+**Lyr** é o bloco dos rios, portos e comércio. Suas cidades entendem água salgada como defesa, rota e mercadoria. Vendem passagem, silêncio, ambiguidade e documentos de trânsito. Precisam de Severin porque marcados, refugiados e curados passam por suas rotas. Odeiam-no porque cada rastro dele atrai Ordem Branca, bloqueio, embargo e colapso de confiança comercial.
+
+As rotas que mantêm esses blocos de pé são frágeis.
+
+A **Rota da Prata Baixa** leva minério de Minguar para bacias, agulhas, mordaças e portões de Caldrávia.
+
+A **Rota do Sal de Contenção** parte da Salmoura de Elcár e alimenta cidades muradas, templos e alfândegas.
+
+A **Rota da Cera Branca** sai dos mosteiros de Aurel e sustenta selos, casamentos, sepultamentos e sentenças.
+
+A **Rota do Gado Certificado** abastece testes de comparação, exércitos e mercados famintos.
+
+A **Rota dos Arquivos** liga cartórios regionais ao Arquivo Seco de Elcár.
+
+A **Rota das Promessas de Sangue** transporta certificados biopolíticos, noivos, órfãos, parturientes, cadáveres e suspeitos.
+
+Toda sabotagem produz dano civil.
+
+Sabotar prata reduz contenção, mas aumenta linchamentos por falta de teste confiável.
+
+Sabotar sal permite que o Pulso atravesse melhor, mas também facilita revenants, demônios e pactos soltos.
+
+Sabotar cera enfraquece o Ofício, mas suspende casamentos, heranças, sepultamentos e propriedades.
+
+Sabotar gado certificado derruba a comparação sanguínea, mas cria fome.
+
+A guerra de Severin não pode ignorar logística. Justiça que não sabe proteger ponte, pão, poço e documento será chamada de luxo por quem dorme com crianças atrás de portão fechado.
+
+### 4.37. Autômatos de Linho e Amputação Administrativa
+
+O Arquivo Seco de Elcár e certos setores do Ofício usam **Autômatos de Linho**.
+
+Não são soldados baratos. São decretos mortos colocados para andar.
+
+Cada autômato é feito de madeira leve, argila branca, linho endurecido, fios de prata baixa, cera inscrita e placas de sal. Não possui sangue, sonho ou medo. Por isso atravessa zonas onde o Pulso falha e onde humanos adoeceriam de memória seca.
+
+O custo que os move chama-se **Amputação Administrativa**.
+
+Um decreto não apenas perde validade ao animar a máquina. A função social que ele sustentava enfraquece na jurisdição de origem. Se um Decreto de Propriedade move autômatos, casas podem ser invadidas e disputas de posse deixam de encontrar juiz estável. Se um Decreto de Sepultamento é consumido, enterros perdem reconhecimento. Se um Decreto de Testemunho alimenta um carrasco de argila, declarações civis ficam suspensas. Se um Decreto de Casamento vira força mecânica, uniões entram em sombra legal até novo selo.
+
+O Ofício automatiza a ordem ao custo da civilização.
+
+É isso que a Chancelaria usa contra eles em praça pública: não a acusação de que são monstros, mas a prova de que estão destruindo as próprias leis para fingir que as protegem.
 
 ## PARTE V — Fé, discernimento e terceira natureza fabricada
 
@@ -6347,6 +6647,28 @@ Só poderá dizer:
 E talvez essa seja uma das verdades que Severin mais terá dificuldade de perdoar: nem toda falha é traição. Algumas são apenas limite.
 
 ---
+
+### 5.1A. A Ordem da Ferida
+
+Dentro da Sé Branca, a dissidência mais perigosa não começa com simpatia por Severin.
+
+Começa com discernimento.
+
+A **Ordem da Ferida** sustenta uma tese que a Sé Oficial considera quase insuportável:
+
+> **Nem toda ferida que não vem de Deus vem necessariamente do Diabo; algumas feridas são testemunhos de crimes humanos ainda não julgados.**
+
+Se um padre da Ordem da Ferida vê Severin salvar uma criança sem forma sagrada reconhecida, a lei oficial exige denúncia. A Ordem, porém, não corre primeiro para a fogueira. Recolhe testemunha. Observa a marca. Pergunta se houve posse, Eco, cura real, vínculo, pacto ou contaminação. Em vez de chamar tudo de milagre ou demônio, tenta descobrir o que a ferida está dizendo.
+
+Isso não torna seus membros aliados simples.
+
+Alguns desejam proteger Severin. Outros desejam usá-lo para julgar a Sé. Outros temem que ele seja prova viva de que a Igreja precisará confessar crimes para continuar falando de verdade. Quase todos sabem que, se errarem, salvarão uma abominação ou entregarão uma vítima.
+
+Por isso a Ordem da Ferida é ponte e faca.
+
+Sem ela, Severin não encontra testemunhas humanas capazes de ouvi-lo sem reduzi-lo imediatamente a Diabo.
+
+Com ela, sua história entra nos arquivos da fé.
 
 ### 5.2. Exorcistas, discernimento e erro sagrado
 
@@ -7645,6 +7967,22 @@ Em uma aldeia meio destruída, um demônio pactuado brinca com sobreviventes com
 #### Capítulo 8: A triagem
 
 O grupo chega a uma cidade murada. O Ofício da Pureza opera sob pressa, chuva e medo. Refugiados são classificados em filas: entrada, observação, contenção, purificação preventiva. Severin vê pessoas sendo separadas não por crimes, mas por margens: cicatrizes ausentes, sobrenomes ruins, partos não declarados, feridas que fecharam cedo demais.
+
+#### Capítulo 8A: A bacia que rachou
+
+Na fila da triagem, uma Promessa de Sangue é testada perto demais de Severin. A prata não acusa pureza nem impureza. Racha. O óleo escurece em veios que lembram raízes sob pele. A multidão não entende o Erro Soberano; entende que a ferramenta de segurança falhou. Guardas exigem novos cortes. Refugiados recuam uns dos outros. Uma mulher acusa o próprio marido antes que alguém acuse o filho.
+
+O primeiro Linchamento Métrico nasce sem monstro à vista.
+
+Severin percebe que sua simples proximidade pode destruir a confiança que mantinha pessoas assustadas longe do fogo.
+
+#### Capítulo 8B: O Escriba-Carrasco
+
+Antes que a Chancelaria tenha nome, um Escriba-Carrasco chega à tenda. Não pergunta quem foi salvo. Pergunta quem tocou quem, quem viu, quem ouviu, quem estava perto da bacia quando a prata cedeu. Sua pena corre mais rápido do que as bocas dos refugiados. Mara deixa de ser apenas criança ferida e começa a virar contaminação documentada.
+
+Severin entende que a próxima batalha não será contra a besta da estrada.
+
+Será contra a primeira frase escrita.
 
 #### Capítulo 9: Mara antes de menor
 
@@ -10149,6 +10487,18 @@ Nesse dia, a lei descobre se era instituição ou apenas confiança em um homem 
 > **O mundo não precisava amar o monstro que o salvava. Precisava ter o direito de acusá-lo depois.**
 
 
+> **O sangue não queria. Reconheceu. E reconhecer, naquele mundo, já era começar a cobrar.**
+
+> **A muralha salvou a vila da noite e matou o poço antes do inverno.**
+
+> **A caneta chegou antes da gratidão. Por isso a criança salva acordou contaminada.**
+
+> **Severin podia proteger todos como seus. O horror começava na palavra seus.**
+
+> **A bacia não acusou ninguém. Rachou. E a rachadura condenou a fila inteira.**
+
+> **Quem guardava as memórias dele guardava também a chave de sua misericórdia.**
+
 ### 8.2. O Veyrûm
 
 A língua antiga dos reis não nasceu para conversar.
@@ -10828,6 +11178,14 @@ Quimeras Brancas. Criaturas híbridas fabricadas pela antiga ordem humana para e
 
 Fossas da Guerra. Prisões profundas onde as quimeras foram trancadas quando seus criadores não conseguiram destruí-las. Abismos, montanhas ocas, cisternas de sal, câmaras sem ar e fortalezas enterradas, colocadas em lugares onde humanos comuns não poderiam chegar vivos. As quimeras não dormem ali como prisioneiras comuns. Esperam a guerra voltar a dar sentido ao corpo.
 
+#### As Foveae Angelorum
+
+Fossas dos Anjos. Subcategoria das Foveae Belli construída sob igrejas, catedrais e mosteiros para aprisionar Chimaerae Albae de aparência angelical. Publicamente, são associadas a relíquias, santos, guardiões celestes ou demônios derrotados. Secretamente, funcionam como prisões de contenção para os Anjos da Vigília, usando a arquitetura santa como tampa para uma arma fabricada.
+
+#### O Opus Angelicum
+
+Fase do Opus Tertium dedicada à fabricação de quimeras com aparência angelical. Seu objetivo não era apenas militar, mas litúrgico e propagandístico: transformar armas biológicas em sinais visíveis de suposta aprovação divina. Dele nasceram os Anjos da Vigília, belos o bastante para serem adorados de longe e monstruosos o bastante para justificar sua prisão sob pedra consagrada.
+
 
 #### Os Porões Santos
 
@@ -11005,7 +11363,52 @@ Nome recuperado pela Mesa dos Nomes quando uma criatura, pessoa, vila ou pacto f
 
 Cláusula tardia da Mesa dos Nomes. Determina que nenhuma necessidade de guerra apaga a responsabilidade de quem colhe memória sem consentimento. Nasceu depois que Severin quebrou o Voto do Nome Presente para salvar vivos em uma situação impossível. A Mesa não nega o resultado. Registra a violação junto dele. A lei de Severin só se torna diferente da lei antiga quando aceita escrever também os crimes do próprio fundador.
 
-### 8.17. Nomenclatura latina do lado humano
+
+#### Erro Soberano
+
+Falha de métrica produzida quando o Sangue Fundador entra em contato com instrumentos criados para distinguir sangue limpo e sangue impuro. A bacia não condena. Satura. Racha. Escurece. Recusa categoria.
+
+#### Linchamento Métrico
+
+Pânico público causado pela falha de um instrumento de pureza. Quando a prova deixa de provar, a multidão tenta restaurar segurança sacrificando o suspeito mais próximo.
+
+#### Marca de Débito
+
+Rastro deixado por cura profunda do Sangue Fundador. Pode aparecer como cicatriz lunar, veia escura, sonho de ruína, reação à prata, nome borrado em documento ou temperatura corporal alterada. Salva e denuncia ao mesmo tempo.
+
+#### Sístole Nula
+
+Interrupção do Coração Criador para suspender fluxo, vínculo, cura, comando ou Arquisangue. Produz risco de Obsidiana Cardial e Isquemia da Memória.
+
+#### Obsidiana Cardial
+
+Vitrificação negra do Sangue Fundador nas veias durante ausência de pulso. Pode causar rigidez, placas sob a pele, perda de mobilidade e, em extremo, Estátua Cardial consciente.
+
+#### Soberania de Testemunha
+
+Forma de intervenção em que Severin salva sem anexar. Preserva liberdade do salvo, mas retira o Dividendo da Anexação e desloca o custo para Severin.
+
+#### Vassalagem Sanguínea
+
+Forma de salvação com vínculo. Protege de longe, mas cria dependência, sonho compartilhado, risco de obediência biológica e pertencimento parcial.
+
+#### Chancelaria da Ferida
+
+Rede de contra-registro formada por desertores, monges dissidentes, parteiras, coveiros, médicos de veia, tabeliães queimados e sobreviventes marcados. Registra salvação antes que o Ofício registre contaminação.
+
+#### Escriba-Carrasco
+
+Agente do Ofício treinado para registrar antes de julgar. Sua pena transforma cura em contaminação, testemunha em risco e sobrevivência em margem.
+
+#### Liturga do Definitivo
+
+Rito jurídico de fixação absoluta. Lê, testemunha, inscreve e sela uma categoria para impedir ambiguidade. Contra Severin, tentaria transformá-lo em monstro definitivo diante do mundo.
+
+#### Amputação Administrativa
+
+Custo social dos Autômatos de Linho. Um decreto usado como força mecânica enfraquece a função civil que sustentava: propriedade, casamento, sepultamento, testemunho ou trânsito.
+
+### 8\.17\. Nomenclatura latina do lado humano
 
 A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano usa nomes de sabor latino, cristão, jurídico e eclesiástico. Muitos termos podem ser latim clássico correto, latim eclesiástico, latim de chancelaria ou formas corrompidas pelo uso popular. Isso é útil porque os próprios reinos não precisam falar um latim perfeito. Precisam falar um latim herdado, sacralizado e usado como instrumento de autoridade.
 
@@ -11047,7 +11450,11 @@ A nomenclatura humana segue uma lógica diferente da vampírica. O lado humano u
 
 **Opus Tertium** — Obra Terceira. Nome do projeto humano de criar uma síntese controlável entre naturezas humanas e não humanas.
 
+**Opus Angelicum** — Obra Angélica. Fase propagandística e litúrgica do Opus Tertium dedicada à criação de quimeras brancas com aparência de anjos.
+
 **Foveae Belli** — Fossas da Guerra. Prisões profundas onde as quimeras foram trancadas depois da última guerra.
+
+**Foveae Angelorum** — Fossas dos Anjos. Subcategoria das Foveae Belli sob igrejas, catedrais e mosteiros, usada para conter os Anjos da Vigília.
 
 #### Documentos, provas e registros
 
