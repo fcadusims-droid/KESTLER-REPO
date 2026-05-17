@@ -1,35 +1,8 @@
 # O Rei Sem Castelo
-## Bíblia de Worldbuilding — versão v4: despertar, arquivo e engrenagem inicial
+## Bíblia de Worldbuilding
 
 > **“Ele nasceu duas vezes. A primeira, entre panos escondidos e mãos tremendo de medo. A segunda, entre ossos reais, pedra quebrada e uma lua tão vermelha que até os mortos se lembraram de respirar.”**
 
-
----
-
-## Nota editorial da revisão v4 — corpo, morto, arquivo
-
-Esta versão consolida a engrenagem inicial do Livro I. O foco deixa de ser a exposição ampla da cosmologia e passa a operar por causalidade física e documental:
-
-**carne → osso → pedra → nome → memória → superfície → vestígio → arquivo.**
-
-O começo da obra não deve parecer destino explicado. Deve parecer corpo falhando, mundo reagindo e arquivo tentando fechar a margem. Severin não desperta como escolhido, rei consciente ou criatura já estabilizada. Desperta como uma máquina biológica mal recomposta, operada por sangue que prioriza retorno, circuito e equivalência antes de qualquer intenção moral.
-
-A sequência canônica inicial passa a ser:
-
-1. Severin acorda na Fossa Coronaria e tenta respirar.
-2. O ar falha como centro da vida; o sangue retorna primeiro.
-3. A recomposição usa lama, caliça, pó de osso, raiz e resíduo mineral.
-4. A voz humana não funciona sem ar útil; qualquer Fala alta sem sopro opera por vibração hemática, óssea ou mineral.
-5. O primeiro morto menor não ensina filosofia: repete uma tarefa quebrada.
-6. Severin devolve presença mínima a Toma e paga com a perda parcial do timbre de Ilona.
-7. A saída da Fossa exige alavanca hidráulica, pedra pressurizada e cunha de morto nomeado.
-8. A superfície não o queima como vampiro comum; satura seus sentidos com excesso de vida dispersa.
-9. A palma mineralizada drena seiva por instabilidade, não por maldição de necrose.
-10. Valerian Ors percebe o fenômeno não como revelação mística, mas como erro em deslocamento entre Veyr, Arveth e Caer Sângelună.
-
-Regra de revisão para os capítulos iniciais:
-
-> **Nada deve ser explicado antes de deixar marca. Nada deve receber nome técnico antes de ser sentido como falha do corpo ou do papel.**
 
 ---
 
@@ -375,35 +348,6 @@ A regra fundamental é simples:
 > **O Sangue Fundador não cobra sofrimento. Cobra equivalência. E toda equivalência deixa cadáver, vazio, vínculo ou esquecimento.**
 
 Por isso a história não deve tratar Severin como solução para o colapso. Ele é também inflação, contaminação de métrica, crise de abastecimento, invalidade jurídica e dependência logística. Sua existência quebra a economia, a lei, a fé e a infraestrutura do mundo antes mesmo que ele aceite qualquer coroa. Mesmo sua fuga tem custo: um Coração Criador que tenta desaparecer não se torna neutro; coagula vínculos, deixa marcas sem governo e entrega silêncio aos arquivos inimigos.
-
-
-### 0.9. Engrenagem canônica do Livro I
-
-O primeiro livro deve manter escala baixa antes de abrir a cosmologia. Severin não começa como centro declarado da guerra, mas como erro corporal andando entre ruínas, estrada e papel.
-
-A pergunta dominante do Livro I é:
-
-> **Severin consegue encontrar quem assinou a sentença da família sem transformar a própria dor em lei de vingança?**
-
-O Livro I deve ser organizado por uma engrenagem simples:
-
-**Severin acorda errado → encontra um morto esquecido → deixa vestígios → Valerian percebe o erro → o Ofício começa a caçada → Mara vira prova viva do milagre invasivo → Severin aprende que salvar também pode registrar, vincular e condenar.**
-
-O começo não deve acionar de imediato a grande profecia, o Sangue Um, Cor Mundi, Dilúvio Fundador ou Umbra Indistincta. Essas camadas pertencem ao horizonte. No primeiro livro, a verdade deve aparecer como sintoma: uma bacia que racha, uma árvore drenada, uma ficha que não fecha, uma criança salva que perde o direito de parecer comum, uma pedra que devolve nome baixo.
-
-A terminologia ativa do Livro I deve permanecer estreita. Nomes centrais: Severin, Sângelună, Veyr, Arveth, Caer Sângelună, Caldrava, Ofício da Pureza, linhageiro, Valerian Ors, Mara, Sivra, Toma, Eco Sanguíneo e Luna Vulnata. Os demais termos devem aparecer como sombra, fragmento, documento incompleto ou efeito sem explicação.
-
-A cada capítulo inicial, aplicar a fórmula:
-
-1. Severin quer algo concreto.
-2. O corpo ou o mundo falha contra esse desejo.
-3. O sangue responde de modo útil e perigoso.
-4. Alguém ou algo paga equivalência.
-5. O Ofício transforma vestígio em leitura.
-6. Severin termina com menos inocência e mais responsabilidade.
-
-O eixo do começo é **corpo contra arquivo**. Severin sente. Valerian lê. Severin deixa marcas por medo. Valerian transforma marcas em vetor. Severin tenta fugir de definições. O Ofício transforma a fuga em origem.
-
 
 ## PARTE I — Severin antes do mito
 
@@ -924,84 +868,63 @@ Quando enfim alcança o ar aberto, a floresta está molhada, quebrada e silencio
 Parece apenas menos vazio de horrores.
 
 
-### 1.15A. Cânone físico do despertar
+### 1.15A. O corpo recolhido
 
-O despertar de Severin deve obedecer à regra central da versão v4:
+Severin não acorda respirando.
 
-> **Ele não acorda respirando. Acorda sendo recolhido.**
+Acorda sendo recolhido.
 
-A mente dele desperta presa à fumaça de Veyr. O corpo antigo tenta tossir, puxar ar, expulsar a morte pela garganta. O corpo novo não responde nessa ordem. O Coração Criador interpreta o problema principal não como falta de oxigênio, mas como dispersão de circuito: sangue espalhado em pedra, lama, osso e fresta.
+A mente volta presa à fumaça de Veyr. O corpo antigo tenta tossir, puxar ar, expulsar a morte pela garganta. O corpo novo não responde nessa ordem. O Coração Criador interpreta a primeira ameaça não como falta de oxigênio, mas como dispersão de circuito: sangue espalhado em pedra, lama, osso e fresta.
 
 Por isso a primeira resposta não é pulmonar.
 
 É hemática.
 
-O ar pode existir ao redor dele e ainda assim não ser prioridade. O peito pode se expandir sem que venha alívio. A glote pode tentar abrir e encontrar lama. A garganta pode mover-se sem produzir voz. O horror inicial não é somente estar sufocado. É perceber que o corpo não entra em falência com a urgência de um corpo humano.
+O ar existe ao redor dele e, ainda assim, não ocupa o centro. O peito se expande sem que venha alívio. A glote tenta abrir e encontra lama. A garganta se move sem produzir voz. O horror inicial não está apenas na sufocação, mas no fato de que o corpo não entra em falência com a pressa de um corpo humano.
 
 Quando o sangue retorna, não volta limpo. Traz consigo o meio por onde passou: caliça, limo, areia negra, pó de osso, água estagnada, raiz morta e resíduo mineral. A primeira cura de Severin não recompõe carne ideal. Sela feridas com amálgama da Fossa.
 
-As primeiras cicatrizes devem ter fundo acinzentado, rigidez fina, dor mineral e sensação de caliça presa sob a derme. A pele não parece restaurada. Parece lacrada com entulho.
+As primeiras cicatrizes têm fundo acinzentado, rigidez fina, dor mineral e sensação de caliça presa sob a derme. A pele não parece restaurada. Parece lacrada com entulho.
 
-Regra de prosa:
+A primeira visão no escuro também não é visão clara. É leitura sinestésica de densidades: linhas que pesam nos olhos como metal na língua, manchas frias que ardem como sal em carne aberta, restos orgânicos guardando temperatura abafada como brasas sob cinza. Severin não cataloga minerais. Sofre o mundo como excesso de matéria.
 
-- não usar “Sangue Fundador” na percepção imediata de Severin;
-- não transformar a visão no escuro em habilidade limpa;
-- não etiquetar o horror com frases explicativas;
-- não permitir voz pulmonar se não houver deslocamento de ar;
-- mostrar primeiro o erro físico, depois a interpretação.
+A fala alta sem ar pertence a outra ordem. A voz humana precisa de ar. A voz régia precisa de meio: sangue, osso, pedra, ferro, dente, água espessa, bacia ou corpo receptor. Quando a Fala Herdada ou a Fala Fundadora atravessam Severin sem sopro, vibram nos ossos, nos dentes, nas lajes ou no sangue dos ouvintes.
 
-A primeira visão no escuro não é uma visão noturna clara. É leitura sinestésica de densidades: linhas que pesam nos olhos como metal na língua, manchas frias que ardem como sal em carne aberta, restos orgânicos que guardam temperatura abafada como brasas sob cinza. Severin não cataloga minerais. Sofre o mundo como excesso de matéria.
+O primeiro instinto humano de Severin é respirar.
 
-A fala alta sem ar deve ser tratada como vibração, não como voz comum. A voz humana precisa de ar. A voz régia precisa de meio: sangue, osso, pedra, ferro, dente, água espessa, bacia ou corpo receptor. Quando a Fala Herdada ou a Fala Fundadora atravessarem Severin sem sopro, elas devem vibrar nos ossos, nos dentes, nas lajes ou no sangue dos ouvintes.
+O primeiro instinto do Coração Criador é retornar.
 
-A regra final do despertar é:
+### 1.15B. A pressão da Fossa
 
-> **O primeiro instinto humano de Severin é respirar. O primeiro instinto do Coração Criador é retornar.**
+A primeira força de Severin não se parece com força muscular sobrenatural.
 
-### 1.15B. Alavanca hidráulica da Fossa
-
-A primeira força de Severin não deve parecer força muscular sobrenatural.
-
-Quando ele tenta mover uma laje, os braços falham. O corpo ainda lembra ferramentas humanas: ombro, bíceps, palma, oficina de Veyr, tora de madeira. A pedra não responde a isso. A laje permanece inteira.
+Quando tenta mover uma laje, os braços falham. O corpo ainda lembra ferramentas humanas: ombro, bíceps, palma, oficina de Veyr, tora de madeira. A pedra não responde a isso. A laje permanece inteira.
 
 O que responde é a pressão.
 
-O sangue infiltrado nas microfissuras da pedra não age como cola. Aderência pura apenas arrancaria a carne da mão e prenderia Severin ainda mais. O mecanismo correto é hidráulico: o Coração Criador pulsa, injeta fluido nas fissuras, aumenta a pressão interna do mineral e desloca o centro de tensão da laje. A pedra cede por dentro antes de ceder ao braço.
+O sangue infiltrado nas microfissuras da pedra não age como cola. Aderência pura arrancaria a carne da mão e prenderia Severin ainda mais. O mecanismo é hidráulico: o Coração Criador pulsa, injeta fluido nas fissuras, aumenta a pressão interna do mineral e desloca o centro de tensão da laje. A pedra cede por dentro antes de ceder ao braço.
 
-Quando a rocha “sua” vermelho, não é porque pedra gere sangue. O líquido que mina dela pertence ao que a Fossa guardou: sangue de Severin derramado durante a morte recente, resíduos escuros presos aos ossos régios, sangue antigo saturado na porosidade da fundação. A pedra verte porque está sendo evacuada pela pressão cardial do novo circuito.
+Quando a rocha sua vermelho, o sangue não nasce da pedra. O líquido que mina dela pertence ao que a Fossa guardou: sangue de Severin derramado durante a morte recente, resíduos escuros presos aos ossos régios, sangue antigo saturado na porosidade da fundação. A pedra verte porque está sendo evacuada pela pressão cardial do novo circuito.
 
-Custos físicos imediatos:
+A pressão cobra no corpo: dor nas têmporas e atrás dos dentes, arritmia pesada sob o esterno, rasgos repetidos na palma, calcificação temporária dos tendões e perda parcial de sensibilidade térmica nos braços.
 
-- dor nas têmporas e atrás dos dentes;
-- arritmia pesada sob o esterno;
-- rasgos repetidos na palma;
-- calcificação temporária dos tendões;
-- perda parcial de sensibilidade térmica nos braços.
+O sangue não empurra como músculo.
 
-Regra:
+Infiltra, pressuriza, racha e desloca.
 
-> **O sangue não empurra como músculo. Infiltra, pressuriza, racha e desloca.**
+### 1.15C. Toma, o morto de fundação
 
-### 1.15C. Toma, o primeiro morto menor
+O primeiro morto encontrado por Severin não é vampiro nobre, demônio, besta ou servo régio. É um morto menor: uma pessoa reduzida a função, soterrada pela arquitetura e apagada pelo registro.
 
-O primeiro morto encontrado por Severin não deve ser vampiro nobre, demônio, besta ou servo régio. Deve ser um morto menor: uma pessoa reduzida a função, soterrada pela arquitetura e apagada pelo registro.
-
-Nome canônico: **Toma**.
+Seu nome é **Toma**.
 
 Toma foi servente, carregador de pedra ou trabalhador de fundação em Caer Sângelună. Seu corpo foi incorporado à base da ruína como caliça humana, sem registro digno, sem genealogia, sem lugar entre reis e monstros. A Fossa não contém apenas horrores régios. Contém também gente usada como matéria de obra.
 
 Toma não conversa. Não entrega tema em frases limpas. Não age como fantasma sábio. Ele é mecanismo quebrado.
 
-Sua manifestação inicial:
+Aparece de joelhos na lama, repetindo uma tarefa residual: ergue o mesmo bloco, solta, espera, recomeça. A mandíbula seca produz sílabas por fricção de dentes e osso, não por ar. As órbitas não olham; a umidade da Fossa preenche os buracos com limo parado. O automatismo só se interrompe quando a vibração do Coração Criador atravessa a estrutura comum da Fossa.
 
-- de joelhos na lama;
-- repetindo uma tarefa residual;
-- erguendo o mesmo bloco, soltando, esperando, recomeçando;
-- mandíbula seca produzindo sílabas por fricção de dentes e osso, não por ar;
-- ausência de olhos úteis;
-- automatismo interrompido apenas quando a vibração do Coração Criador atravessa a estrutura comum da Fossa.
-
-A fala de Toma deve ser mutilada:
+A fala de Toma vem mutilada:
 
 > “...nome... ficou... cima?”
 
@@ -1011,58 +934,41 @@ Ou:
 
 Ele não observa a magia de Severin. Sofre a interferência dela. O pulso que passa pelas lajes interrompe seu ciclo porque ambos — Severin e Toma — estão tocando o mesmo corpo mineral do castelo.
 
-Função narrativa de Toma:
+Toma revela a verdade mais baixa da Fossa: os mortos menores não são demônios automáticos. Muitos são corpos apagados, tarefas interrompidas, nomes que ficaram fora do inventário.
 
-1. provar que os mortos menores não são demônios automáticos;
-2. mostrar que a Fossa é arquivo de corpos apagados;
-3. obrigar Severin a escolher entre fugir e reconhecer um resto humano;
-4. introduzir a primeira transação de equivalência entre nome e memória.
+### 1.15D. Nome por timbre
 
-### 1.15D. A primeira transação: nome por timbre
-
-Severin não deve usar conscientemente a Fala Fundadora nesse momento. Ele ainda não possui domínio, gramática ou consentimento claro sobre o preço. O primeiro ato moral deve ser consciente no impulso e involuntário no mecanismo.
-
-Ele escolhe não abandonar Toma.
+Severin não usa conscientemente a Fala Fundadora no encontro com Toma. Ainda não possui domínio, gramática ou consentimento claro sobre o preço. O primeiro ato moral nasce como impulso: ele não abandona o morto sem nome.
 
 O sangue decide como cobrar.
 
 A transação não liberta Toma em sentido limpo. Não há ascensão, luz ou gratidão. O que acontece é menor e mais perigoso: Toma deixa de ser tarefa sem nome e passa a ser morto contado.
 
-A equivalência é simétrica:
+A equivalência é simétrica. Toma perdeu o nome. Severin paga com uma experiência de ser chamado pelo nome.
 
-- Toma perdeu o nome;
-- Severin paga com uma experiência de ser chamado pelo nome.
+O custo é a perda parcial do timbre de Ilona chamando por Severin na fogueira. Ele continua sabendo que Ilona chamou. Continua sabendo que ela morreu. Continua carregando a culpa. Mas a textura íntima da voz — a curva, o calor, a forma como o nome saía dela — fica corroída.
 
-O custo canônico é a perda parcial do timbre de Ilona chamando por Severin na fogueira. Ele continua sabendo que Ilona chamou. Continua sabendo que ela morreu. Continua carregando a culpa. Mas a textura íntima da voz — a curva, o calor, a forma como o nome saía dela — fica corroída.
+A memória histórica permanece.
 
-Isso não apaga a memória histórica. Mutila a memória afetiva.
+A memória afetiva fica mutilada.
 
-Regra:
-
-> **Nomear alguém pode alterar a arquitetura do mundo, mas a arquitetura cobra memória.**
+Nomear alguém pode alterar a arquitetura do mundo, mas a arquitetura cobra memória.
 
 Toma não é salvo. É inscrito o bastante para terminar a tarefa interrompida.
 
-### 1.15E. A cunha de Toma e a saída da Fossa
+### 1.15E. A cunha do morto contado
 
 A tarefa residual de Toma nunca foi erguer pedra por loucura. Era uma função de construção interrompida. A repetição preservou o gesto, mas perdeu o nome que daria conclusão ao gesto.
 
 Quando Severin devolve presença mínima a Toma, o morto não se torna aliado consciente. Seu automatismo muda de ciclo. Ele encaixa o bloco como cunha sob a laje exterior, sustentando o ponto correto para que a pressão sanguínea de Severin desloque a pedra.
 
-A saída, portanto, nasce de duas forças:
-
-1. **moral:** Severin escolhe não abandonar o morto sem nome;
-2. **física:** o sangue pressuriza a pedra e Toma executa a função arquitetônica que sua morte havia interrompido.
+A saída nasce de duas forças: o gesto moral de não abandonar um morto sem nome e o mecanismo físico de sangue pressurizando a pedra enquanto Toma executa a função arquitetônica que sua morte havia interrompido.
 
 O primeiro gesto de dignidade gera vantagem material, mas cobra memória.
 
-Regra:
+Os mortos menores não são apenas inimigos. Muitos são funções interrompidas.
 
-> **Os mortos menores não são apenas inimigos. Muitos são funções interrompidas.**
-
-O capítulo inicial deve terminar sem catarse. Severin alcança a superfície carregando três perdas novas: o corpo humano como centro, a limpeza da própria pele e o timbre inteiro de Ilona.
-
-
+Severin alcança a superfície carregando três perdas novas: o corpo humano como centro, a limpeza da própria pele e o timbre inteiro de Ilona.
 
 ### 1.16. A batalha das jurisdições dentro do sangue
 
@@ -2330,47 +2236,39 @@ A pergunta seria quando, exatamente, seguir deixara de ser curiosidade.
 E por que nenhum dos dois parecia disposto a dar nome à resposta.
 
 
-
 ### 2.18. A superfície como excesso de vida
 
-A primeira saída de Severin da Fossa não deve ser alívio.
+A primeira saída de Severin da Fossa não é alívio.
 
 O mundo exterior não o recebe como sobrevivente. A floresta o atinge como meio vivo demais.
 
 A Fossa era escura, úmida, mineral, morta, saturada de caliça, sangue antigo, limo, osso e ar pesado. A floresta de Arveth é o inverso: ar aberto, pólen, seiva, fungo, folhas transpirando, insetos quentes, aves pequenas, raízes em circulação, água vegetal em movimento. Para Severin, isso não é refúgio. É overdose de biosfera.
 
-O sol fraco da manhã não deve queimá-lo como vampiro comum. Isso reduziria sua Terceira Natureza a regra antiga. O sol opera de outro modo: destrói o mapa de densidades que ele usava na Fossa sem devolver visão humana normal. A superfície se torna clarão de frequências biológicas, um ruído de umidade e calor vivo que achata formas comuns.
+O sol fraco da manhã não o queima como vampiro comum. Sua Terceira Natureza não obedece a essa regra antiga. O sol opera de outro modo: destrói o mapa de densidades que ele usava na Fossa sem devolver visão humana normal. A superfície se torna clarão de frequências biológicas, um ruído de umidade e calor vivo que achata formas comuns.
 
-Regra:
+A superfície não o fere por luz.
 
-> **A superfície não o fere por luz. Fere por excesso de vida dispersa.**
+Fere por excesso de vida dispersa.
 
 O ar também não o salva. Fora da Fossa, Severin consegue inspirar um pouco. Os pulmões expandem, limpam restos de barro e executam a coreografia antiga da respiração. Mas o oxigênio não reacende o centro do corpo. O Coração Criador não reconhece o ar como fundamento da vida. Respirar torna-se maneirismo muscular, hábito de infância, imitação de humanidade.
 
-Essa é uma quebra psicológica decisiva:
+Agora ele pode respirar, mas respirar não o devolve a si mesmo.
 
-> **agora ele pode respirar, mas respirar não o devolve a si mesmo.**
+A locomoção na floresta nasce errada. Sem teto comprimindo os ombros, sem parede mineral guiando o corpo, o espaço aberto desorganiza seu eixo. Ele alterna sensação de leveza absurda e peso mineral. Os músculos respondem atrasados. O sangue tenta ajudar antes da vontade.
 
-A locomoção na floresta deve parecer errada. Sem teto comprimindo os ombros, sem parede mineral guiando o corpo, o espaço aberto desorganiza o eixo de Severin. Ele alterna sensação de leveza absurda e peso mineral. Seus músculos respondem atrasados. O sangue tenta ajudar antes da vontade.
-
-Ao tocar uma árvore, a palma cinzenta não “mata planta” por necromancia. A mecânica é capilar. A cicatriz mineralizada está seca, rachando sob o ar vivo. A caliça e o sangue retornado precisam de solvente orgânico para estabilizar a recomposição. Ao encostar na casca úmida, a derme puxa seiva e umidade. A casca escurece. Folhas novas murcham nas bordas.
+Ao tocar uma árvore, a palma cinzenta não mata a planta por necromancia. A mecânica é capilar. A cicatriz mineralizada está seca, rachando sob o ar vivo. A caliça e o sangue retornado precisam de solvente orgânico para estabilizar a recomposição. Ao encostar na casca úmida, a derme puxa seiva e umidade. A casca escurece. Folhas novas murcham nas bordas.
 
 Não há intenção.
 
 Há estabilização predatória involuntária.
 
-Regra:
+Severin não drena por maldade. Drena porque seu corpo tenta impedir que a própria recomposição rache no ar aberto.
 
-> **Severin não drena por maldade. Drena porque seu corpo tenta impedir que a própria recomposição rache no ar aberto.**
+A primeira lei corporal nasce sem palavras: não tocar o vivo diretamente.
 
-A primeira regra corporal que ele aprende sem nomear é:
+Por isso Severin cobre as palmas com lama, musgo morto ou folhas caídas. A lama funciona como luva ruim. Quando seca, racha. Quando racha, a pele cinzenta volta a procurar umidade. Esse improviso acompanha seus primeiros deslocamentos e deixa os primeiros vestígios que o Ofício encontrará.
 
-> **não tocar o vivo diretamente.**
-
-Por isso Severin cobre as palmas com lama, musgo morto ou folhas caídas. A lama funciona como luva ruim. Quando seca, racha. Quando racha, a pele cinzenta volta a procurar umidade. Esse improviso deve acompanhar seus primeiros deslocamentos e fornecer os primeiros vestígios que o Ofício encontrará.
-
-A floresta se torna primeira testemunha. Uma árvore com cinco marcas cinzentas, folhas jovens murchas e caliça presa na casca será lida depois não como milagre ou monstro, mas como **contato**.
-
+A floresta se torna primeira testemunha. Uma árvore com cinco marcas cinzentas, folhas jovens murchas e caliça presa na casca será lida depois não como milagre ou monstro, mas como contato.
 
 ## PARTE III — Verdade dinástica e Sangue Fundador
 
@@ -4584,22 +4482,19 @@ Mas o mundo foi construído para interromper equivalências.
 
 ### 3.43E.1. Bloqueadores em suporte de prova
 
-Os bloqueadores técnicos devem aparecer em cena antes de serem explicados como doutrina. O Ofício entende parte da circuitaria sanguínea justamente porque aprendeu a observar onde ela falha.
+O Ofício compreende parte da circuitaria sanguínea porque aprendeu a observar onde ela falha.
 
-**Prata pura** corta leitura com mais limpeza. Ela cria zonas de silêncio no reconhecimento, impedindo que o sangue leia continuidade, nome ou fluxo. Bacias, agulhas e lâminas de margem usam prata pura quando o objetivo é separar sinal de ruído.
+**Prata pura** corta leitura com mais limpeza. Cria zonas de silêncio no reconhecimento, impedindo que o sangue leia continuidade, nome ou fluxo. Bacias, agulhas e lâminas de margem usam prata pura quando o objetivo é separar sinal de ruído.
 
 **Prata baixa**, por ser liga impura, produz reação mais doente. Misturada com ferro, cobre ou metal comum, não corta apenas; irrita. Quando sangue de Severin ou Eco ativo encosta em prata baixa, a borda do contato pode vitrificar, calcificar ou formar crosta preta. A circuitaria tenta recuar do metal contaminado, interrompendo contração, retorno ou leitura naquela extremidade.
 
-Em uma fita de prova, isso aparece como anatomia da contenção: a mancha continua puxando fibras no centro, mas morre nas bordas tocadas pelo grampo de prata baixa. Para o Ofício, essa diferença é útil. A prata pura silencia. A prata baixa denuncia o esforço do sangue ao rejeitar a contenção.
+Em uma fita de prova, a diferença aparece como anatomia da contenção: a mancha continua puxando fibras no centro, mas morre nas bordas tocadas pelo grampo de prata baixa. Para o Ofício, essa reação é útil. A prata pura silencia. A prata baixa denuncia o esforço do sangue ao rejeitar a contenção.
 
-**Vidro neutro** é usado para isolar amostras sem oferecer alimento, madeira, fibra viva ou porosidade mineral. Não bloqueia por si só; impede que a amostra encontre continuidade fácil.
+**Vidro neutro** isola amostras sem oferecer alimento, madeira, fibra viva ou porosidade mineral. Não bloqueia por si só; impede que a amostra encontre continuidade fácil.
 
-**Sal seco** preserva folha, pele, tecido e cabelo contaminados por contato, mas dispersa reconhecimento se misturado diretamente ao sangue. Por isso o Ofício guarda folha murcha em envelope de sal e sangue em vidro. Confundir suporte e bloqueador pode destruir a prova.
+**Sal seco** preserva folha, pele, tecido e cabelo contaminados por contato, mas dispersa reconhecimento quando misturado diretamente ao sangue. Por isso o Ofício guarda folha murcha em envelope de sal e sangue em vidro. Confundir suporte e bloqueador pode destruir a prova.
 
-Regra de cena:
-
-> **Todo bloqueador deve deixar efeito visível: silêncio, crosta, dispersão, calcificação, recuo, quebra de cadência ou falha de leitura.**
-
+Todo bloqueador deixa efeito visível: silêncio, crosta, dispersão, calcificação, recuo, quebra de cadência ou falha de leitura.
 
 ### 3.43F. A impossibilidade de desaparecer
 
@@ -6364,21 +6259,23 @@ A compaixão de Severin passa a deixar pegadas nos corpos que sobreviveram a ela
 
 ### 4.20A.2. Valerian Ors e o erro em deslocamento
 
-Valerian não deve funcionar como vilão passivo de mesa. Sua ameaça nasce da capacidade de ver vetor onde outros veem incidentes.
+Valerian não é ameaça passiva de gabinete. Seu perigo nasce da capacidade de ver vetor onde outros veem incidentes.
 
 Depois da Luna Vulnata, o mundo produz ruído demais. Há monstros, mortos, febres, bacias rachadas, animais em pânico, documentos molhados, refugiados sem certidão, sangue irregular e cidades incapazes de processar todos os casos. Nesse excesso, um analista comum procura categorias conhecidas: vampiro, revenant, demônio, contaminado, possesso, foco local.
 
 Valerian procura repetição.
 
-O início de sua caçada deve nascer de três anomalias físicas de papel:
+Sua caçada começa com três anomalias físicas de papel.
 
-1. **Auto de Cinzas de Veyr.** A execução dos Darcov/Sângelună não fecha a contabilidade dos corpos. Mirela, Corvin, Vespera e Ilona aparecem como restos identificáveis ou prováveis. Severin aparece como linha raspada três vezes: presumido consumido, ausente em cinzas úteis, fuga provável para a mata de Arveth. Para Valerian, isso não é tragédia. É uma assinatura sem cadáver.
+A primeira é o **Auto de Cinzas de Veyr**. A execução dos Darcov/Sângelună não fecha a contabilidade dos corpos. Mirela, Corvin, Vespera e Ilona aparecem como restos identificáveis ou prováveis. Severin aparece como linha raspada três vezes: presumido consumido, ausente em cinzas úteis, fuga provável para a mata de Arveth. Para Valerian, isso não é tragédia. É uma assinatura sem cadáver.
 
-2. **Fita de Sangue da estrada velha de Arveth.** A amostra recolhida em raiz seca não seca como sangue comum. Contrai o tecido para dentro, como se tentasse retornar a um centro ausente. Ao ser presa com prata baixa, a borda de contato vitrifica em crosta negra. Para Valerian, isso indica retorno hidráulico ativo, não vazamento comum.
+A segunda é a **Fita de Sangue da estrada velha de Arveth**. A amostra recolhida em raiz seca não seca como sangue comum. Contrai o tecido para dentro, como se tentasse retornar a um centro ausente. Ao ser presa com prata baixa, a borda de contato vitrifica em crosta negra. Para Valerian, isso indica retorno hidráulico ativo, não vazamento comum.
 
-3. **Decalque de Fundação de Caer Sângelună.** Enviado por posto avançado da Ordem na Diocese de Marcha de Arveth, colhido na soleira exterior das ruínas antes do desabamento interno se tornar inacessível. O papel traz pó de caliça no verso e marcas baixas de servente: TOM—, TO—, TOMA. Não são runas régias. São nomes de obra que nenhum inventário nobre preservou.
+A terceira é o **Decalque de Fundação de Caer Sângelună**, enviado por um posto avançado da Ordem na Diocese de Marcha de Arveth e colhido na soleira exterior das ruínas antes do desabamento interno se tornar inacessível. O papel traz pó de caliça no verso e marcas baixas de servente: TOM—, TO—, TOMA. Não são runas régias. São nomes de obra que nenhum inventário nobre preservou.
 
-Valerian não conclui que Severin despertou. Não conclui que há Sangue Fundador. Não conclui rei. Conclui geometria:
+Valerian não conclui que Severin despertou. Não conclui que há Sangue Fundador. Não conclui rei.
+
+Conclui geometria:
 
 **Veyr → estrada velha de Arveth → Caer Sângelună.**
 
@@ -6386,28 +6283,17 @@ A palavra fria é:
 
 > **erro em deslocamento.**
 
-Sua primeira ordem não deve ser purificação complementar. Deve ser reabertura metodológica:
+Sua primeira ordem não é purificação complementar. É reabertura metodológica:
 
 > “Reabram Veyr. Não como execução. Como origem.”
 
-Isso torna Valerian antagonista ativo. Severin busca a assinatura que matou sua família. Valerian busca o corpo que impediu a sentença de fechar. Um procura quem escreveu o passado. O outro procura o erro que continua escrevendo o presente.
+Severin busca a assinatura que matou sua família. Valerian busca o corpo que impediu a sentença de fechar. Um procura quem escreveu o passado. O outro procura o erro que continua escrevendo o presente.
 
-Método de campo de Valerian:
+Valerian envia linhageiros de campo, um medidor, um guia de Arveth e guardas mínimos. Sangue deve ir para vidro neutro. Folhas murchas, para sal seco. Amostras não tocam madeira. Distâncias são medidas a partir de Veyr. Árvores com exação de seiva recebem fita branca. Nenhum relatório usa a palavra demônio antes da medição.
 
-- enviar linhageiros de campo, não tropa heróica;
-- usar medidor, guia de Arveth e guardas mínimos;
-- recolher sangue em vidro neutro;
-- guardar folha murcha em sal seco;
-- não apoiar amostra em madeira;
-- medir distância a partir de Veyr;
-- marcar árvores com exação de seiva;
-- não chamar de demônio antes de medir;
-- procurar o que o caminho perdeu para continuar aberto.
+Quem chega com espada encontra monstro.
 
-Frase estrutural:
-
-> **Quem chega com espada encontra monstro. Quem chega com régua encontra origem.**
-
+Quem chega com régua encontra origem.
 
 ### 4.20B. A Liturga do Definitivo
 
@@ -8767,54 +8653,6 @@ Mas já se tornou sinal.
 
 E todo sinal, quando uma instituição aprende a lê-lo, vira alvo.
 
-
-### 7.2A. Engrenagem revisada dos três primeiros capítulos
-
-Esta seção substitui a lógica anterior dos capítulos iniciais sempre que houver conflito de versão. O primeiro arco deve começar mais físico, mais baixo e mais documental.
-
-#### Capítulo 1 revisado: A Fossa Coronaria
-
-Severin acorda tentando tossir, não tentando reinar. A garganta abre antes dos olhos. Há lama, caliça e sangue na boca. O ar não entra como salvação. O peito pode expandir, mas o Coração Criador prioriza retorno hemático.
-
-O sangue espalhado nas frestas volta para o corpo, trazendo pó de osso, limo, caliça e matéria da Fossa. A primeira cicatrização é amálgama mineral. A palma fecha cinza por baixo da pele. A voz humana falha porque não há ar útil. A visão no escuro não clareia: torna-se leitura dolorosa de densidades.
-
-Ao tentar mover a laje, Severin falha como homem. A força real nasce por alavanca hidráulica: sangue infiltrado, pressão cardial, pedra rachando por dentro. A rocha verte sangue antigo porque a pressão expulsa o que estava saturado nos poros da Fossa.
-
-Ele encontra Toma, morto menor de fundação, repetindo uma tarefa residual. Toma não conversa. Emite sílabas por fricção de mandíbula. Severin tenta fugir, mas escolhe não abandonar o morto sem nome. O sangue transforma esse impulso em transação: devolve presença mínima a Toma e cobra o timbre exato de Ilona chamando Severin na fogueira.
-
-Toma encaixa a cunha. Severin pressuriza a laje. A saída se abre. Severin alcança a superfície com corpo recomposto, memória mutilada e mãos que já não podem tocar o vivo sem custo.
-
-#### Capítulo 2 revisado: Mesa de origem
-
-O capítulo abre com Valerian Ors, não com explicação histórica. Ele recebe três anomalias de suporte:
-
-- Auto de Cinzas de Veyr com ausência de cadáver de Severin;
-- Fita de Sangue da estrada velha de Arveth com contração de retorno;
-- Decalque de Fundação de Caer Sângelună com TOM— / TO— / TOMA.
-
-Valerian não adivinha. Mede vetor. Veyr, estrada velha, ruína. Ele define o fenômeno como erro em deslocamento e reabre Veyr como origem.
-
-O contraste de temperatura é essencial. Valerian toca papel, vidro, prata baixa, caliça e margem. Severin toca lama, casca, musgo e ar inútil.
-
-No mesmo capítulo, alternar para Severin na superfície. O ar entra sem devolver humanidade. A luz da manhã satura sua leitura de densidades com ruído biológico. A floresta não é refúgio, é excesso de vida. Ao tocar uma árvore para se levantar, a palma mineralizada puxa seiva por instabilidade capilar. Ficam cinco marcas cinzentas, folhas novas murchas e caliça na casca.
-
-Severin cobre as mãos com lama e segue o caminho menos vivo: solo batido, pedra antiga, madeira morta, estrada velha de Arveth. Ele não escolhe Caldrava como herói. É conduzido por necessidade de meio estável e por sons humanos distantes.
-
-O capítulo fecha com a equipe de campo encontrando a árvore. O medidor vê contato, não garra. O Ofício transforma desorientação física em prova.
-
-Frase de fechamento possível:
-
-> “Não morte vegetal. Contato.”
-
-#### Capítulo 3 revisado: O caminho menos vivo
-
-Severin se desloca pela estrada velha de Arveth porque o corpo tolera melhor matéria compactada e morta do que floresta respirando. A lama nas mãos racha; ele reaplica. A cada toque errado, algo vivo paga microequivalência.
-
-Ele encontra os primeiros rastros de criaturas libertas: correntes arrastadas, sangue velho demais para chuva, pegadas profundas, árvores quebradas por força que não procurava comida. O mundo já foi atravessado antes dele.
-
-Ao longe surgem sinais de Caldrava: sino, fumaça, roda, animal, fila. Severin quer evitar humanos. O corpo sobrevivente precisa deles. Essa tensão conduz ao arco dos refugiados e da triagem.
-
-
 ### 7.3. Livro I — Segundo arco: os nomes que viraram trilha
 
 Depois da fuga, Severin acredita por pouco tempo que corrigir o livro foi vitória.
@@ -10586,23 +10424,6 @@ Se não encontrar, a Umbra Indistincta não precisará cair do céu.
 
 Já estará praticada na terra.
 
-
-### 7.17A. Lista operacional da revisão do Livro I
-
-Prioridades de desenvolvimento antes de expandir novas camadas de lore:
-
-1. Fixar Capítulo 1 pela sequência Fossa → Toma → cunha → superfície.
-2. Fixar Capítulo 2 pela sequência mesa de Valerian → vetor → superfície de Severin → árvore marcada.
-3. Manter Valerian como caçador ativo por procedimento, não vilão de espera.
-4. Desenvolver Mara como espelho incômodo: salva por Severin, marcada por Eco, transformada em falso positivo pelo Ofício.
-5. Desenvolver Sivra com objetivo próprio: reabrir ou destruir a lógica da Rasura de Nome, recusando vassalagem biológica mesmo quando se aproxima de Severin.
-6. Desenvolver os Reis Mortos como sintomas somáticos, não como conselho mental em turnos.
-7. Criar mapa funcional de Veyr, estrada velha de Arveth, Caer Sângelună, posto avançado da Ordem e Caldrava.
-8. Criar linha do tempo absoluta da fogueira, fuga, Luna Vulnata, despertar, primeira marca vegetal, envio dos linhageiros e chegada a Caldrava.
-9. Criar tabela de custos do Sangue Fundador em uso de cena: cura, nomeação, leitura, alavanca hidráulica, toque vivo e correção documental.
-10. Reduzir terminologia ativa no Livro I. O leitor deve sentir os sistemas antes de receber seus nomes altos.
-
-
 ### 7.18. Ordem de revelação por livro
 
 O primeiro livro deve conhecer Severin antes de conhecer o mundo inteiro.
@@ -11537,28 +11358,15 @@ Essa é a ofensa.
 
 A voz comum permanece mecânica. Exige passagem de ar pela garganta, vibração das pregas vocais, boca, língua e pressão pulmonar. Se os pulmões estão cheios de lama, se a glote está bloqueada ou se o peito não desloca ar útil, Severin não fala como homem. Pode mover a mandíbula, tensionar o pescoço, estalar a cartilagem, raspar dente contra dente, mas não produz voz pulmonar.
 
-Essa regra deve ser preservada para manter a precisão física do começo.
-
-A Fala Herdada, a Fala Régia e a Fala Fundadora podem operar sem ar apenas quando encontram outro meio de condução:
-
-- osso;
-- dente;
-- sangue;
-- pedra;
-- ferro;
-- água espessa;
-- bacia;
-- corpo receptor;
-- laje saturada por sangue antigo.
+A Fala Herdada, a Fala Régia e a Fala Fundadora atravessam outra anatomia. Sem sopro, procuram meio de condução: osso, dente, sangue, pedra, ferro, água espessa, bacia, corpo receptor ou laje saturada por sangue antigo.
 
 Nesses casos, a fala não soa como voz soprada. Ela vibra. Pode bater atrás dos dentes, tremer no crânio de quem ouve, fazer o sangue do ouvido pesar, atravessar a palma encostada na pedra ou produzir sílabas por fricção óssea em mortos sem pulmão.
 
-Regra:
+A voz humana precisa de ar.
 
-> **A voz humana precisa de ar. A voz régia precisa de meio.**
+A voz régia precisa de meio.
 
-Isso distingue mudez física de autoridade hemática. No começo, Severin pode estar incapaz de gritar e, ainda assim, seu sangue pode fazer uma laje responder. Essa diferença deve permanecer desconfortável. A autoridade nasce antes da fala consciente.
-
+Essa diferença separa mudez física de autoridade hemática. No começo, Severin pode estar incapaz de gritar e, ainda assim, seu sangue pode fazer uma laje responder. A autoridade nasce antes da fala consciente.
 
 ### 8.9. A Veyrath, escrita das veias
 
@@ -12853,24 +12661,3 @@ Conjunto de cláusulas criado para que a lei fundada por Severin continue capaz 
 **Por isso o teste último de Severin não é aceitar poder, mas aceitar limite. Não é salvar o mundo a qualquer preço, mas recusar uma salvação que transforma todo vivo em extensão de sua própria ferida.**
 
 **A lei nova só vencerá a lei antiga se proteger a diferença sem convertê-la em sentença. Se falhar, o mundo talvez não termine em ruína, mas em comunhão absoluta — e ninguém saberá mais distinguir salvação de posse.**
-
----
-
-## Registro de edição v4 — alterações aplicadas
-
-Esta cópia incorpora as seguintes mudanças estruturais:
-
-- adicionada nota editorial da revisão v4;
-- criado o eixo canônico do Livro I em 0.9;
-- adicionadas as seções 1.15A–1.15E sobre despertar hidráulico, alavanca da Fossa, Toma, primeira transação e cunha;
-- adicionada a seção 2.18 sobre superfície como excesso de vida e sucção capilar involuntária;
-- adicionada a seção 3.43E.1 sobre bloqueadores técnicos em suporte de prova, incluindo prata baixa, vidro e sal;
-- adicionada a seção 4.20A.2 sobre Valerian Ors e o erro em deslocamento;
-- adicionada a seção 8.8A sobre voz sem ar e condução hemática;
-- adicionada a seção 7.2A com engrenagem revisada dos três primeiros capítulos;
-- adicionada a seção 7.17A com lista operacional da revisão do Livro I;
-- ajustada a descrição do despertar em 1.14 para remover leitura limpa e cura limpa.
-
-Cânone resultante para o começo:
-
-> **Severin não desperta como rei. Desperta como circuito ferido. O mundo não o persegue porque entende o que ele é. Persegue porque tudo que ele toca começa a virar prova.**
