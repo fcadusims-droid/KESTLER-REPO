@@ -198,7 +198,7 @@ The crowd had faces. The torches had hands. The priest had a voice. But the deat
 
 ---
 
-## IV. The Death and Second Birth
+## III. The Death and Second Birth
 
 ### 1. Flight to Arveth
 
@@ -299,7 +299,7 @@ Then it charges equivalence.
 
 ---
 
-## V. Rules of the Founding Blood
+## IV. Rules of the Founding Blood
 
 ### 1. Source: The Creator Heart
 
@@ -337,7 +337,7 @@ It charges equivalence.
 
 Nothing comes from nothing.
 
-Blood closes flesh using flesh. Archblood raises stone using stone, bone, root, iron, corpse, soil, water, or nearby life. If matter is insufficient, the power searches for another source.
+Blood closes flesh using flesh. Founding Blood raises stone using stone, bone, root, iron, corpse, soil, water, or nearby life. If matter is insufficient, the power searches for another source.
 
 A wall may save a village and kill its wells.
 
@@ -539,7 +539,7 @@ Abdication remains morally possible. Severin is not metaphysically forced to rul
 
 ---
 
-## VI. Severin's Body After the Return
+## V. Severin's Body After the Return
 
 ### 1. First Awakening
 
@@ -601,15 +601,20 @@ This establishes the law: dignity can create practical advantage, but architectu
 
 ### 5. Surface Shock
 
-The outside world does not feel like relief.
+The surface is not relief after the Fossa. It is biological assault.
 
-The Fossa was mineral, dead, compressed. The forest is excessive life: pollen, sap, insects, fungi, leaf moisture, roots in circulation. Severin experiences the surface as biological overload.
+The Fossa was compressed, mineral, wet, dead, and saturated with lime, bone dust, stagnant water, old blood, and sealed air. The forest is the opposite: sap, pollen, spores, insects, bird heat, leaf transpiration, fungi, wet bark, worms, roots drinking beneath soil. Severin does not step into open air and feel free. He steps into too much life moving in too many directions at once.
 
-Sunlight does not burn him like a conventional vampire. It destroys the density-map he used underground without restoring ordinary sight. The surface injures him through dispersed life.
+Sunlight does not burn him according to the old vampire rule. It injures by scattering the density-map he formed underground. In the Fossa, darkness gave him pressure, mass, fissure, channel. Under daylight, the living world becomes dispersed information without hierarchy. He sees too much without understanding enough.
 
-When he touches a living tree, he does not curse it by intent. His mineralized skin pulls moisture and sap to stabilize itself. Leaves darken. Young growth wilts.
+The first rule of the surface is not do not enter the sun.
 
-The first bodily rule becomes: do not touch the living directly.
+It is do not touch the living directly until the body learns restraint.
+
+When Severin's bare hand touches a young tree, he does not curse it by intention. His mineralized skin and unstable blood attempt to stabilize by drawing moisture and sap. Leaves blacken at the edges. The tree lives, but it remembers him badly.
+
+
+---
 
 He covers his hands with mud, dead moss, or cloth.
 
@@ -629,41 +634,21 @@ The proper working term is Tonsura Cardial: the body removing what does not cond
 
 ### 7. Hematic Vestiture
 
-At first, Severin's blood forms external bands by accident: dark strips over the arm, crusted protection, living bandage, failed concealment.
-
-Later, it becomes controlled surface:
+At first it is accident: a black-red band over a torn arm, a crusted glove, a living bandage, a membrane over the sternum. Later it becomes controlled surface:
 
 - bandage;
 - binding;
 - shield;
 - flexible armor;
+- cord;
+- veil;
+- blade;
 - mantle;
 - hearing surface;
 - court garment;
 - war vestment.
 
-The most dangerous form is not armor but audience attire: the blood organizing Severin's body into a shape that makes refusal, testimony, and judgment physically present.
-
-
-### 8. The Surface as Excess of Life — Expanded Rule
-
-The surface is not relief after the Fossa. It is biological assault.
-
-The Fossa was compressed, mineral, wet, dead, and saturated with lime, bone dust, stagnant water, old blood, and sealed air. The forest is the opposite: sap, pollen, spores, insects, bird heat, leaf transpiration, fungi, wet bark, worms, roots drinking beneath soil. Severin does not step into open air and feel free. He steps into too much life moving in too many directions at once.
-
-Sunlight does not burn him according to the old vampire rule. It injures by scattering the density-map he formed underground. In the Fossa, darkness gave him pressure, mass, fissure, channel. Under daylight, the living world becomes dispersed information without hierarchy. He sees too much without understanding enough.
-
-The first rule of the surface is not do not enter the sun.
-
-It is do not touch the living directly until the body learns restraint.
-
-When Severin's bare hand touches a young tree, he does not curse it by intention. His mineralized skin and unstable blood attempt to stabilize by drawing moisture and sap. Leaves blacken at the edges. The tree lives, but it remembers him badly.
-
-
-### 9. Hematic Vestiture as Political Body
-
-
-At first it is accident: a black-red band over a torn arm, a crusted glove, a living bandage, a membrane over the sternum. Later it becomes tool: shield, cord, veil, blade, mantle, court garment, listening surface. At full maturity it becomes political body.
+At full maturity it becomes political body.
 
 Armor is not its most dangerous form. Armor admits war. The most dangerous form is audience attire: blood arranged into a garment that makes judgment visible.
 
@@ -675,12 +660,11 @@ To White Chimerae, it is the cruelest contrast. They were dressed as angels by h
 
 To Severin, the Vestiture is never purely majestic. It remains touchable blood. It feels cuts, remembers contact, transmits witness, and demands return.
 
+He covers his hands with mud, dead moss, or cloth.
 
----
+## V-A. Caldrava
 
-## VI-A. Caldrava
-
-### 1. Caldrava
+### 1. The City
 
 Caldrava is not a capital. That makes it useful.
 
@@ -754,7 +738,7 @@ First law:
 
 ---
 
-## VIII. The World After the Abyss
+## VI. The World After the Abyss
 
 ### 1. Luna Vulnata
 
@@ -850,7 +834,7 @@ They ask the main political question of the series: can a world be inhabited wit
 
 ---
 
-## IX. Creatures and Returned Powers
+## VII. Creatures and Returned Powers
 
 ### 1. Vampires Ancient
 
@@ -973,7 +957,7 @@ They force the world to learn discernment.
 
 ---
 
-## X. The Jurisdiction War
+## VIII. The Jurisdiction War
 
 ### 1. Core Jurisdictions
 
@@ -1020,7 +1004,7 @@ It means refusing the laziness that kills before judging.
 
 ---
 
-## XI. Human Institutions
+## IX. Human Institutions
 
 ### 1. The Sacred Monarchies
 
@@ -1099,7 +1083,7 @@ It is discernment versus administrative sanctity.
 
 ---
 
-## XI-A. Human Administrative Horror: Offices, Logistics, and Black Markets
+## IX-A. Human Administrative Horror: Offices, Logistics, and Black Markets
 
 ### 1. The Curia Alba
 
@@ -1192,7 +1176,7 @@ The Chancery's first rule should echo Severin's first law:
 
 ---
 
-## XII. Vampire Civilization
+## X. Vampire Civilization
 
 ### 1. The Four Lunar Nations and the Fifth Wound
 
@@ -1264,7 +1248,7 @@ This is the central irony: what vampire purity would have called shame preserved
 
 ---
 
-## XIII. The Human Victory and Its Crimes
+## XI. The Human Victory and Its Crimes
 
 ### 1. The White Shroud
 
@@ -1324,7 +1308,7 @@ As the Luna Vulnata approached, the blood became less patient. Signs surfaced. I
 
 ---
 
-## XIV. Language, Crown, and Speech
+## XII. Language, Crown, and Speech
 
 ### 1. Veyrûm
 
@@ -1379,7 +1363,7 @@ Core rule:
 
 ---
 
-## XIV-A. Appendix: Veyrûm, Blood Speech, and Ritual Grammar
+## XII-A. Appendix: Veyrûm, Blood Speech, and Ritual Grammar
 
 ### 1. Pronouns of Jurisdiction
 
@@ -1435,7 +1419,7 @@ Possible ritual formula functions:
 
 ---
 
-## XV. Severin's Character Arc
+## XIII. Severin's Character Arc
 
 ### 1. The Four Internal Lies
 
@@ -1507,7 +1491,7 @@ He ends by disputing who may sign the world differently.
 
 ---
 
-## XVI. Key Characters by Narrative Function
+## XIV. Key Characters by Narrative Function
 
 ### 1. Severin Sângelună
 
@@ -1519,6 +1503,7 @@ Core tension: he may be the only person able to contain part of the disaster, bu
 
 Function: institutional antagonist; the hand of the Office; grammar of procedural violence.
 
+He believes in containment, stability, and controlled risk. His danger is not sadism but coherence: he can perform cruelty without hatred, which makes his violence harder to name and harder to stop. Killing him satisfies rage but cannot defeat the Office that produced him.
 
 ### 3. Sivra
 
@@ -1553,6 +1538,7 @@ Her key line:
 
 Function: child witness; first law against classification; long-term consequence of salvation.
 
+Her case demonstrates that Severin's help can become another jurisdiction: she is saved, then classified, then used as evidence against him. Her presence in the story after the rescue proves that mercy without release creates debt, and that debt can be weaponized.
 
 ### 6. Padre Amon Veyl
 
@@ -1599,7 +1585,7 @@ A creature made by humans to be a false third nature. Her encounter with Severin
 
 ---
 
-## XVI-A. Secondary Cast by Narrative Function
+## XIV-A. Secondary Cast by Narrative Function
 
 | Character | Function | Best Use |
 |---|---|---|
@@ -1624,7 +1610,7 @@ A creature made by humans to be a false third nature. Her encounter with Severin
 
 ---
 
-## XVII. Major Faction Table
+## XV. Major Faction Table
 
 | Faction | Wants | Fears | Uses | Relationship to Severin |
 |---|---|---|---|---|
@@ -1642,7 +1628,7 @@ A creature made by humans to be a false third nature. Her encounter with Severin
 
 ---
 
-## XIX. The Final Horizon
+## XVI. The Final Horizon
 
 ### 1. Umbra Indistincta
 
@@ -1722,7 +1708,7 @@ Cor Mundi beats inside them.
 
 ---
 
-## XXI. Scene Engines
+## XVII. Scene Engines
 
 ### 1. The Classification Scene
 
@@ -1811,11 +1797,13 @@ Purpose: show language as jurisdiction, not ornament.
 
 ---
 
-## XXIII. Glossary of Core Terms
+## XVIII. Glossary of Core Terms
 
 ### Blood and Sovereignty
 
 **Founding Blood** — the third blood created when Severin's mixed blood, royal bones, death, and failed restoration curse formed a new sovereign condition.
+
+**Third Nature** — the condition Severin embodies and that the White Chimerae were designed to replicate: a synthesis that is neither purely human nor purely vampire but a distinct and functional third category. Severin's Third Nature arises from contradiction and carries a heart. The Chimerae were assembled by design and carry only command.
 
 **Creator Heart** — the organ-source that produces Founding Blood and calls it back.
 
@@ -1897,7 +1885,7 @@ Purpose: show language as jurisdiction, not ornament.
 
 ---
 
-## XXIV. Final Working Thesis
+## XIX. Final Working Thesis
 
 The world did not fall because a cruel king returned.
 
