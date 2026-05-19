@@ -27,7 +27,7 @@ It is responsibility in liquid form.
 
 ### 2. One-Sentence Premise
 
-A hidden half-human descendant of a destroyed vampire dynasty is burned out of his family, dies in the ruins of the unfinished blood-moon castle, and awakens as the source of a new kind of blood that can either break the old categories of the world or found a more terrible order than any before it.
+A hidden half-human descendant of a destroyed vampire dynasty is burned out of his family, executed by local men at the ruins of the unfinished blood-moon castle, and awakens as the source of a new kind of blood that can either break the old categories of the world or found a more terrible order than any before it.
 
 ### 3. Emotional Question
 
@@ -45,7 +45,7 @@ Can Severin use authority without repeating the logic that killed his family: de
 
 The mode is dark fantasy with gothic horror, dynastic tragedy, mystery of identity, political theology, body horror, archive horror, and epic war.
 
-The world should feel old, wounded, guilty, and administratively violent. Castles are root-choked. Roads are too empty after sunset. Villages lower their shutters when strangers arrive. Temples ring bells more from fear than faith. Noble houses polish their arms above cellars full of burned documents. The human victory over the vampire dominions was real, but not clean. The vampire civilization was real, but not noble. Every legend has been edited by whoever survived to recite it.
+The world feels old, wounded, guilty, and administratively violent. Castles are root-choked. Roads are too empty after sunset. Villages lower their shutters when strangers arrive. Temples ring bells more from fear than faith. Noble houses polish their arms above cellars full of burned documents. The human victory over the vampire dominions was real, but not clean. The vampire civilization was real, but not noble. Every legend has been edited by whoever survived to recite it.
 
 Severin does not begin as a villain or a savior. He begins as a ruined man who learned to apologize for existing. His outer horror — monsters, dead kings, broken castles, blood moons — must mirror his inner horror: shame, guilt, fractured memory, hatred, fear of being seen, and a desire to disappear.
 
@@ -115,7 +115,7 @@ Core line:
 
 > A common man may defend himself. We cannot. When one of us raises a hand, all of us burn.
 
-On the night of the fire, Corvin closes the hidden passage from inside the house, saving Severin and making Severin's memory of survival unbearable.
+On the night of the fire, Corvin's voice reaches Severin through smoke, but not as command or comfort — as sound that refuses to stop. The exact words dissolve. The fact of the voice persists. A man still speaking when speaking should have been impossible.
 
 #### Mirela Sângelună / Mirela Darcov
 
@@ -125,7 +125,7 @@ Core line:
 
 > You are not wrong, Severin. But the world will use everything in you as proof that you are.
 
-She pushes Severin into the hidden passage beneath the floor. In his memory, that touch becomes not only love but accusation: the instant his body accepted survival.
+In the fire, Severin tries to reach her first and fails. In his memory, that failure becomes the fixed point: not what she did, but what his hands could not. The accusation is not her voice. It is the distance the house put between them at the last moment.
 
 #### Vespera
 
@@ -135,7 +135,7 @@ Core line:
 
 > If we must pretend we do not exist, what kind of life are they protecting?
 
-She holds the door during the fire long enough for Severin to escape.
+In the fire, she is near the door when the first beam gives way. The door she was holding was not an exit. It was the last line between the men outside and the family inside.
 
 #### Ilona
 
@@ -258,21 +258,53 @@ The public sentence lists:
 
 The crowd becomes calmer after hearing the document. It is easier to burn a family when the fire is preceded by official words.
 
-Corvin tries to buy time. Mirela searches for the passage under the floor. Vespera argues with the men at the door until the first window bursts from heat. Ilona begins coughing before understanding that the house is already dying.
+The house does not become flame all at once. First it becomes heat. Then smoke. Then doors that cannot be opened. Then rooms that no longer belong to the living.
 
-Mirela pushes Severin down. Corvin seals the passage. Vespera holds the door. Ilona calls his name.
+Severin does not escape before the burning.
 
-Severin runs.
+He burns with them.
 
-He tries to go back. The heat descends through the crack like a hand without fingers. The smoke blinds him. The wood above creaks. Someone shouts at him to run, but the memory will never preserve with certainty whether it was command, plea, or farewell.
+He tries to reach Mirela first and fails because the ceiling between them lowers in sparks. He hears Corvin shouting through smoke but cannot tell whether the words are command or pain. Vespera is near the door when the first beam gives way. Ilona calls his name from somewhere that should have been only a few steps away and becomes unreachable as if the house had grown larger inside the fire.
 
-Then he runs.
+Severin tries to save them in the only ways a desperate body understands: hands on burning wood, shoulder against a door, teeth clenched against smoke, fingers closing around arms that are no longer where memory insists they should be.
 
-The objective truth contains hands, smoke, heat, commands, mercy, and sacrifice.
+His skin opens. His hair catches. Cloth fuses to wounds. The body that had spent twenty-six years hiding its difference refuses the mercy of ordinary death.
 
-Severin's memory keeps one sentence:
+That refusal becomes the worst part.
+
+A common man would have fallen.
+
+Severin keeps moving.
+
+He does not know how he leaves the house. Later memory will offer him versions: a collapsed wall, a window broken by heat, a side passage beneath the floor, his mother's hand, his father's shout, Vespera pushing him, Ilona's voice pulling him back and away at once. None of them will remain stable.
+
+The objective truth contains fire, hands, smoke, commands, mercy, failure, and a body that would not die when it should have.
+
+His memory keeps one sentence:
 
 > I ran. They burned. I lived.
+
+When Severin comes out of the house, he is already burning.
+
+Some in the crowd step back.
+
+Some make the white sign.
+
+Some say he is already dead.
+
+But fear does not always let the dead leave.
+
+A few men follow him into the dark: neighbors, local guards, sons of families who had carried torches, men who had been told all evening that hesitation would make them accomplices. They do not understand bloodlines, buried kings, or lunar ruins. They understand only that something condemned has escaped the fire.
+
+So Severin runs.
+
+He runs with burns across flesh that should have surrendered. He runs with smoke in his lungs, melted cloth on his skin, blood drying too quickly and then opening again. He runs because the body still wants to live even after the soul has stopped agreeing.
+
+Behind him, the house falls inward.
+
+Inside it, his family becomes ash.
+
+Behind him, footsteps continue.
 
 ### 7. The Survivor's Guilt
 
@@ -283,10 +315,10 @@ Before it, he believed he was born wrong. After it, he comes to believe he survi
 His guilt has several layers:
 
 - guilt for carrying the blood that condemned the family;
-- guilt for failing to protect them;
-- guilt for having run;
+- guilt for failing to reach them in the fire;
+- guilt for having run while his body refused to fail;
 - guilt for breathing while they became ash;
-- guilt for perhaps feeling, at the bottom of it, relief at being alive.
+- guilt for perhaps feeling, at the bottom of it, relief at still being here.
 
 That last is the cruelest. Survivors often hate in themselves the instinct that kept them alive. Severin cannot forgive his own body for having run.
 
@@ -294,7 +326,7 @@ Fire becomes a trigger. Smoke, burning wood, screams behind doors, the smell of 
 
 His memory will not break like glass, in clean pieces that can be glued back. It will be more like wet ash: it escapes between the fingers, stains everything, suffocates when one tries to breathe it.
 
-He may forget the order of events but not the smell. He may not know who screamed first but will know the sound of a beam giving way. He may not remember whether Mirela pushed him or whether he ran before being touched, but he will feel for years the pressure of a hand on his chest. On some nights he will wake with the taste of smoke in his mouth and his arms reaching for a door that no longer exists.
+He may forget the order of events but not the smell. He may not know who screamed first but will know the sound of a beam giving way. He may not remember whether Mirela reached him before the ceiling fell, or whether he reached her, or whether the last touch he remembers was hers at all. He will feel for years a pressure against the chest — too high for a hand, too low for smoke — and will not always know whether it belongs to the fire or to what came after. On some nights he will wake with the taste of smoke in his mouth and his arms reaching for a door that no longer exists.
 
 The body will remember before the mind.
 
@@ -318,21 +350,87 @@ This search gives shape to the survivor. He learns to steal folders before comma
 
 ### 1. Flight to Arveth
 
-After the fire, Severin drifts north into the Forest of Arveth. He is not seeking prophecy, adventure, throne, or revenge. He is a fugitive whose body still wants to survive even while his mind asks to end.
+After the fire, Severin does not seek prophecy, adventure, throne, or revenge.
 
-The storm drives him into the ruins of Caer Sângelună, the unfinished castle of the fifth vampire nation.
+He seeks only distance.
 
-He does not recognize it as origin.
+He crosses into the Forest of Arveth with burns that should have killed him before dawn. His blood keeps him alive badly. It closes what should remain open, opens what should close, preserves pain where mercy would have allowed collapse. Severin does not experience survival as hope. He experiences it as betrayal by the body.
 
-He sees shelter.
+The forest receives him without pity.
 
-There, among roots, broken stone, and old seals, he asks whatever is listening to end him.
+Branches tear at fused cloth. Rainwater touches exposed flesh and feels like knives. Mud enters wounds. Every step should be the last, and every step is not. He does not know whether he is running from the men behind him, from the house, from Ilona's voice, or from the obscene fact that his heart continues.
 
-The lightning falls.
+The men follow longer than they should have.
 
-The castle collapses.
+They are not knights of an ancient order. They are not scholars of forbidden blood. They are not keepers of the old maps.
 
-Severin dies.
+They are local men with blades, torches, fear, and enough righteousness to continue after the shouting has stopped. One is a guard attached to the magistrate. One is the brother of a woman who testified. One had eaten at the Darcov table years before and now needs the family to have been monstrous so that his own cowardice can remain clean.
+
+They do not know where Severin is leading them.
+
+Neither does Severin.
+
+The storm drives them deeper north.
+
+He reaches the ruins of Caer Sângelună without knowing their name.
+
+To Severin, they are not origin. Not inheritance. Not throne. They are only broken shelter: old walls eaten by roots, black stone under moss, arches collapsed into earth, pieces of a castle that the forest has been slowly swallowing for centuries.
+
+To the men behind him, the place is only a godless ruin. A bad place. A place where something like Severin would hide.
+
+The fifth nation is not revealed to anyone.
+
+It waits under their feet.
+
+Severin crawls beneath a broken span of stone where rain cannot reach directly. There, among roots, ash, old mortar, and the smell of wet leaves, his body finally begins to fail. For a moment, he believes the forest will finish what the fire did not.
+
+Then the men find him.
+
+They do not hold a trial. The trial has already been read.
+
+They do not ask his name. The name has already condemned him.
+
+They drag him out far enough to see his face in torchlight. One of them says he should have burned with the others. Another says not to touch the blood. Another says to end it before it heals.
+
+Severin tries to speak.
+
+Smoke answers first.
+
+He tries to rise.
+
+His body, traitorous to the end, almost obeys.
+
+That is what frightens them most.
+
+The blade enters beneath the ribs and drives into the heart.
+
+Not as offering.
+
+Not as rite.
+
+Not as prophecy.
+
+Only as sentence.
+
+The old heart opens.
+
+Blood strikes the stone beneath him.
+
+It does not spread like ordinary blood. It finds cracks. It enters them. Warm, dark, and too alive, it descends through roots, mortar, old channels, and forgotten seams in the unfinished castle.
+
+The men step back.
+
+One says a prayer too late.
+
+One drops the blade.
+
+One watches the blood disappear into the stone and understands nothing except that the ground has accepted it.
+
+Severin falls against the ruin and finally stops running.
+
+Below him, in the Fossa Coronaria, the royal bones receive what the rite has awaited for centuries.
+
+But the blood is not what the rite expected.
 
 ### 2. The Fossa Coronaria
 
@@ -340,7 +438,7 @@ Beneath the castle lies the Fossa Coronaria, the central pit where the last five
 
 The Fossa is not only a tomb. It is the deposit of human victory: kings, servants, beasts, pact-bound entities, dead workers, failed witnesses, useful monsters, and bodies the victors could neither confess nor release.
 
-When Severin's blood runs through cracks in the stone, it reaches the royal bones.
+When the blood of Severin's pierced heart runs through cracks in the stone, it reaches the royal bones.
 
 It did not fall like water. First it came alive, too red against the cold stone. Then it thickened at the edges, forming thin fibrin threads that clung to worn runes like small roots. Where it should have dried, it remained warm. Where it should have darkened, it shone from within. The stone, which for centuries had drunk only rain, rust, and rot, accepted that substance like a forgotten language.
 
@@ -358,20 +456,51 @@ Elyr Morvhan, the loyal mage of Vaelrûn Sângelună, designed the Ritus Coronae
 
 The rite was meant to return the old authority.
 
+It was not meant to begin with a local execution performed by men who did not know the name of the stone beneath their boots.
+
 Instead, it collides with Severin:
 
 - human blood;
 - vampire blood;
 - royal inheritance;
-- recent death;
+- execution by human blade;
+- a heart opened by sentence, not offering;
 - survivor's guilt;
-- a body crushed under castle stone;
+- a body burned beyond ordinary survival;
 - a mind already burned from within;
-- a final request not for power, but for an end.
+- a final condition not of coronation, but of terror, refusal, and an end.
 
 The curse cannot complete itself cleanly. The castle does not rise in glory. It collapses inward. The abyss opens. Ancient creatures return before their king awakens.
 
 The old world comes back without command.
+
+### 3-A. The Delayed Return
+
+The rite did not fail all at once.
+
+It failed in sequence.
+
+The creatures returned first because they were easier for the old architecture to recognize. A living armor needed only its last command. A war beast needed hunger, territory, and blood-scent. A castle servant needed function. A pact-bound entity needed clause. An unfinished dead needed an opening.
+
+Severin required decision.
+
+If the blood that reached the royal bones had belonged to a pure vampire of the correct line, the Ritus Coronae Sepultae would have restored the sovereign before the buried world could scatter. The king would have awakened with name, crown, chain of command, and recognized right. The creatures would have returned as a political body: servants, soldiers, monsters, and contracts reorganized around a central will.
+
+But the blood that reached the bones was mixed.
+
+Human enough to deny the form. Vampire enough to activate it. Royal enough to open the tomb. Bastard enough to corrupt clean restoration. Burned enough to carry panic. Executed enough to carry sentence. Wounded enough to infect the call with refusal, guilt, and the desire for an end.
+
+So the rite restored first what it still knew how to restore.
+
+Then it became trapped in Severin.
+
+While creatures climbed, crawled, remembered broken commands, and crossed the limits of the buried world, Severin remained below — not as a sleeping king, but as an argument in flesh. The ritual did not crown him. The blood did not release him. The bones did not possess him. Death did not keep him.
+
+He did not rise with the creatures because no existing form could yet contain him.
+
+The creatures were restored.
+
+Severin had to be decided.
 
 ### 4. The Battle of Jurisdictions Inside the Blood
 
@@ -387,7 +516,7 @@ The curse says vessel: restoration, ritual, completion, obedience to a form writ
 
 The castle says architecture: wall, corridor, cistern, oath, organ without body.
 
-The wound says guilt: smoke, running, Ilona's voice, the obscene relief of living.
+The wound says guilt: smoke, running, Ilona's voice, the blade, the sentence delivered by men who did not know what they were touching, and the obscene fact of still being here to remember it.
 
 No jurisdiction wins.
 
@@ -575,6 +704,40 @@ In sovereign failure, Severin does not merely lose strength.
 He loses legibility to himself.
 
 
+### 13-A. Law of the Insufficient Vessel
+
+The Creator Heart does not merely empower Severin's body.
+
+It outgrows it.
+
+At first, the body is enough. A wound closes. A hand bleeds. A pulse answers. A small act of restoration can be contained inside flesh, vein, nerve, and pain.
+
+But the Founding Blood does not remain local when the debts it assumes cease to be local. Every rescue, bond, Echo, witness, unfinished name, protected body, opened grave, altered document, and answered plea increases the scale of what the Creator Heart is asked to contain.
+
+A body can hold blood.
+
+It cannot hold a people.
+
+It cannot hold a city.
+
+It cannot hold every wound that has mistaken salvation for ownership.
+
+When the Creator Heart receives more relation than Severin's body can bear, it begins seeking larger surfaces. First skin. Then vestiture. Then architecture. Then territory. Then world.
+
+This is not growth as glory.
+
+It is growth as failure of boundary.
+
+The body changes because it is no longer sufficient as the border between Severin's will and the consequences of his blood. Hair is shed because it does not conduct. Skin becomes surface because surface must answer. Blood becomes garment because clothing is the first architecture a body wears. Stone, door, wall, river, record, and grave begin to respond because the heart is searching for a body large enough to carry what Severin has not yet learned to release.
+
+The danger is not that Severin becomes stronger.
+
+The danger is that the distinction between Severin and what he has saved becomes harder to defend.
+
+A sovereign may rule from a body.
+
+A failed sovereign becomes the body others are forced to live inside.
+
 ### 14. Absolute Limits of the Founding Blood
 
 The Founding Blood must never become a universal solution. Its horror depends on limitation as much as power.
@@ -684,6 +847,8 @@ He does not know he died.
 
 He does not know he opened the abyss.
 
+He remembers the blade before he remembers resurrection. Not clearly. Not as sequence. As pressure beneath the ribs. As torchlight over wet stone. As a sentence delivered by men who did not know what their sentence had touched. When his hand finds his chest, the wound is closed, but not healed in any human sense. Beneath the sealed flesh something answers too deeply, as if the heart had not been repaired but replaced by a judgment still learning how to beat.
+
 He does not know that while he was being remade, the world above began to burn.
 
 When a stone tears his palm during the climb, the cut opens with ordinary pain. But the blood hesitates at the edge of the wound like an animal called by name. It does not flow immediately. First it pulses. Then it retracts. Dark and bright threads seal flesh with a speed that feels repugnant. The metallic smell rises stronger than it should.
@@ -776,7 +941,7 @@ The king without a castle loses even the ornaments that might have made him appe
 
 Severin's first presence is evasive.
 
-He enters places like someone who has already apologized for entering. Shoulders closed. He chooses corners, walls, doors, shadows. His clothes are work clothes, worn dark by practicality — thick wool, over-washed linen, simple leather, boots that do not announce their step. Nothing in him should appear chosen. A man remembered too easily becomes a question; a question becomes a margin; a margin becomes fire.
+He enters places like someone who has already apologized for entering. Shoulders closed. He chooses corners, walls, doors, shadows. His clothes are work clothes, worn dark by practicality — thick wool, over-washed linen, simple leather, boots that do not announce their step. Nothing about him appears chosen. A man remembered too easily becomes a question; a question becomes a margin; a margin becomes fire.
 
 After the resurrection, evasion begins to fail.
 
@@ -820,7 +985,122 @@ To White Chimerae, it is the cruelest contrast. They were dressed as angels by h
 
 To Severin, the Vestiture is never purely majestic. It remains touchable blood. It feels cuts, remembers contact, transmits witness, and demands return.
 
-He covers his hands with mud, dead moss, or cloth.
+---
+
+### 8. Cardial Escalation
+
+Severin's transformation is not a clean ascent into power.
+
+It is the visible record of a body losing the argument that it can remain only a body.
+
+The Creator Heart matures in stages, each one solving one limitation while creating a greater danger.
+
+#### First Stage: Body That Does Not Know Its Name
+
+At first, Severin appears as a survivor badly returned.
+
+The Fossa has sealed him with ruin. Lime, black sand, bone dust, stagnant water, dead root, mineral grit, and royal residue remain in the first repairs. The body is functional, but not clean. His scars are not reminders of wounds. They are places where the world below helped decide what still counted as him.
+
+He covers himself because he still thinks concealment is possible.
+
+At this stage, the horror is intimate: cuts close wrong, touch harms living things, daylight scatters him, and his body continues to prove accusations he wants to deny.
+
+The body is still trying to look like a man.
+
+It is already failing.
+
+#### Second Stage: Conductive Body
+
+As the Creator Heart stabilizes, Severin's body begins removing what it cannot use.
+
+Hair, beard, and body hair thin, fail, and disappear. This is not beautification, purification, or holy sign. It is a biological economy. The body preserves what conducts blood, witness, pressure, return, and sensation. It abandons what no longer participates in the circuit.
+
+The change humiliates Severin before it frightens others.
+
+He loses ordinary human surface. The beard that could have aged him, the hair that could have framed his face, the small animal warmth of the body — all of it recedes. What remains is too exposed. The skull looks less crowned than uncovered. The face appears too young and too ancient simultaneously.
+
+Others will name this according to their own fear. The Office will call it external proof. Priests will call it demonic tonsure. Ancient vampires will call it bastard deformity. The dead kings will call it surface purification.
+
+Severin will know it first as another form of being unable to hide.
+
+#### Third Stage: Vestured Body
+
+When skin is no longer enough, blood begins to organize beyond the skin.
+
+The full mechanics and political significance of the Hematic Vestiture are described in §V.7. What matters here is its function within the escalation arc.
+
+The Vestiture is the moment when the Creator Heart stops treating the skin as its final limit. Blood begins to organize itself as a jurisdiction rather than a fluid. It moves outward not to decorate or to armor, but because the internal body has become too small a container for what the heart is managing.
+
+Severin does not choose this. He tears the early formations away. They return. Eventually he stops tearing.
+
+The progression — accident, symptom, tool, garment, court vestment — is not growth in the heroic sense. It is the body admitting that it can no longer conduct sovereignty from inside flesh alone.
+
+At this stage, other people begin to read his body as policy.
+
+That reading is not wrong.
+
+#### Fourth Stage: Architectural Body
+
+Eventually, even blood on skin is too small.
+
+The Creator Heart begins to use architecture as an auxiliary body. This does not mean Severin commands stone like a simple elementalist. It means stone, door, wall, bridge, cistern, grave, root, and corridor begin to answer pressure when the heart needs a larger chamber.
+
+A sealed door may swell like a valve. A cracked wall may darken along lines that resemble veins. A floor may remember where blood once fell. A corridor may lengthen when Severin hesitates to judge. A ruined chamber may become warmer when witnesses speak true names. A bridge may rise to save refugees and leave the nearby well dry.
+
+The architectural response is never free. Stone requires stone. Water requires water. If a wall saves one group, something elsewhere may weaken. If a chamber holds too many marked people under Severin's protection, the floor may begin pulsing in a rhythm not entirely his.
+
+At this stage, the body has begun outsourcing containment.
+
+The castle was the first warning. It will not be the last.
+
+#### Fifth Stage: Jurisdictional Body
+
+The most dangerous expansion is not physical. It is relational.
+
+Those marked by Echo, those saved from death, those released from misclassification, those named by Severin, those protected by his blood, and those wounded by his failure become part of a living field of contestation.
+
+Severin begins to feel fear that is not his. Names arrive before faces. Documents bleed before he reads them. Marked wounds ache when he abandons a region. A child's nightmare in one city may strike him as pressure beneath the sternum days away. A crowd of Echo carriers may create secondary beats inside him, none individually strong, together almost impossible to ignore.
+
+This is the stage where mercy becomes politically dangerous.
+
+Not because mercy is false, but because mercy without release becomes geography. A saved person can become a point. A group of saved people can become a route. A route can become a domain. A domain can become a body that did not consent to being part of him.
+
+At this stage, Severin must learn that saving is not complete until the saved can stand outside the saving force.
+
+#### Sixth Stage: Territorial Body
+
+When the Creator Heart bears too many active relations, territory begins to behave as if it is being recruited into circulation.
+
+Wells answer before people do. Bells fall out of rhythm when Severin enters a city already heavy with Echo. Animals form routes around places he has abandoned. Rainwater gathers in red-brown veins along roads he crossed. Old blood in battlefield soil warms under the wrong moon.
+
+A village saved too completely may sleep under one shared dream. A district may become calmer in his presence and feverish after his departure.
+
+This is the beginning of a terrifying temptation: if a wider body can reduce suffering, why should the heart remain small?
+
+Severin will be offered this argument in many forms. A vampire will call it restoration. A priest may call it providence. A desperate mother may call it mercy. A demon will call it efficiency. The dead kings will call it kingship.
+
+The Creator Heart will not call it anything. It will only beat.
+
+#### Seventh Stage: World-Body
+
+This stage remains horizon, nightmare, and near-catastrophe until the final movement of the story.
+
+If Severin fails to preserve distance, the Creator Heart seeks the only body large enough to contain all claims: the world itself.
+
+Rivers become veins. Roads become capillaries. Cities become chambers. Graves become closed vessels. Mountains behave like bone. Forests transmit pulse through root. The Wounded Moon ceases to be only sign and becomes the open celestial wound through which terrestrial circulation tries to complete itself.
+
+This is Cor Mundi.
+
+Not rule above the world. Rule inside it.
+
+A tyrant can be resisted because he sits somewhere. A heart is harder to refuse when it beats inside the body that keeps one alive.
+
+The final horror of Severin's transformation is not monstrosity of appearance. It is intimacy without permission.
+
+The question is not whether Severin can become powerful enough to save the world.
+
+The question is whether he can prevent salvation from needing a body larger than himself.
+
 
 ## V-A. Caldrava
 
@@ -1008,7 +1288,7 @@ Caldrava has three burial grounds and one unsanctioned strip.
 
 **The Unsanctioned Strip** runs between the river embankment and the abandoned mill on the Low Shore. It is not in any official register. The graves are marked with whatever the family could find: river stones, carved wood, once a boot filled with packed earth and a name scratched into the leather. The bodies buried here have not been cleared by a death-washer, which means their burial status is technically illegal and means that if they return as revenants, the family is legally responsible for the return.
 
-Three revenants from the Unsanctioned Strip have returned in the two years since the Luna Vulnata. One was destroyed by a soldier who filed a report describing the encounter as a standard post-Vulnata revenant incident. The report does not mention the name scratched in the boot leather near the grave. The name was Henric.
+Three revenants from the Unsanctioned Strip have returned in the two years since the Luna Vulnata. One was destroyed by a soldier who filed a report describing the encounter as a standard post-Vulnata revenant incident. The report does not mention the name scratched in the boot leather near the grave. The name was Vasil Crem. It does not appear in any official register.
 
 ---
 
@@ -1118,8 +1398,6 @@ The moon becomes the first public defeat of human order: something everyone can 
 
 In the first weeks after the Luna Vulnata, no one searches for Severin as center.
 
-The world bleeds from too many places simultaneously. Villages appear empty: doors open, cauldrons still warm, cradles overturned, animals dead or fled. On the roads, carts are found with broken wheels and blood marks dragged into the forest. Walled cities reactivate night watches. Temples relight sacred furnaces. Hunter orders, nearly obsolete, begin receiving money, recruits, and authority again.
-
 In this excess, Severin passes.
 
 Not because he is invisible. Because everyone is suspect.
@@ -1190,7 +1468,7 @@ Horses refuse roads where demons negotiated — not where demons killed. Where t
 
 Dogs bark at people returning from incomplete burials while those people are still alive. After certain moons, they sniff cradles and lie before them like guards against something that might emerge from within, not enter through the door.
 
-Cats disappear from houses near the Foveae Belli. They return with pale powder on their fur and eyes too dark, as if they saw movement beneath the altar.
+Cats disappear from houses near the Foveae Belli and do not return the same. The specific signs of what they encountered in the pits are described in the White Chimerae section.
 
 Pigs scream when fed scraps from towns where the Office burned suspects en masse. Chickens refuse to scratch in the ash of legal pyres.
 
@@ -1277,7 +1555,7 @@ Creatures bred, bound, or deformed for combat.
 
 They have little ideology. They follow hunger, territory, blood scent, and old command reflexes.
 
-They should be used for immediate physical horror and proof that the old world returned without law.
+They represent immediate physical horror and proof that the old world returned without command.
 
 ### 5. Castle Servants
 
@@ -1354,7 +1632,199 @@ Signs that a Fovea Belli is waking:
 
 A White Chimera does not ask who is pure. Its body asks where the war is.
 
-Septima Alba, or any conscious chimera, must expose the central contrast: Severin is a contradiction with a heart; the chimera is an answer assembled by knife.
+Septima Alba, or any conscious chimera, embodies the central contrast: Severin is a contradiction with a heart; the chimera is an answer assembled by knife.
+
+### 7B. The Seven Principal White Chimerae
+
+The White Chimerae were never a mass-produced army.
+
+They were apex instruments.
+
+Seven principal specimens survived long enough to be named in internal White Order documentation. Public doctrine never admitted their number. Propaganda transformed fragments of them into icons, angels, battlefield miracles, and saintly interventions. The truth remained distributed across sealed reports, war-pit inventories, command liturgies, and burial exemptions.
+
+The seven are divided into three classes:
+
+1. the three Archangelic Chimerae;
+2. the two Cherubic Chimerae;
+3. the two Tartarean Failures.
+
+The Church called them angels when the public needed hope. The laboratories called them specimens when the body needed repair. The White Order called them assets when the capital needed to survive.
+
+### 7C. The Archangelic Chimerae
+
+The three Archangelic Chimerae were the most successful synthesis of battlefield function and post-war iconography.
+
+They were humanoid enough to be seen as persons from a distance, beautiful enough to be mistaken for sanctity, and terrible enough to command armies in the final phases of the vampire war.
+
+Their wings were not divine. They were engineered structures: bone, preserved nerve, reinforced tendon, grafted membrane, command-sensitive tissue, and white preservation compounds layered to resemble purity.
+
+Their light was not grace. It was manufactured surface radiance: a dermal luminosity produced by alchemical grafts, mineralized skin, reflective tissue, and controlled internal heat.
+
+Their hymns were not prayer. They were command protocols moving through altered lungs, throat channels, resonance chambers, and embedded liturgical machinery.
+
+The Church named the radiance grace. The White Order named it function.
+
+**The Michaelic Chimera** — designed for direct war, aerial execution, dueling immense creatures, breaking enemy morale, and destroying high-threat targets. Its liturgical state resembled the warrior angel. Its martial state revealed the execution architecture beneath the icon: blade-wings, exposed command halo, multi-jointed assault limbs, and a body unable to recognize peace once war saturated the field.
+
+**The Gabrielic Chimera** — designed for command, transmission, battlefield synchronization, terror hymns, and mass obedience. Its voice could carry orders across armies, fracture enemy formation, induce panic, or coordinate lesser chimera functions. In liturgical state it appeared as messenger and herald. In martial state it became a choir of coercion.
+
+**The Raphaelic Chimera** — designed for battlefield preservation, forced stabilization, surgical recomposition, and the maintenance of useful troops beyond ordinary survivability. Its apparent gentleness made it one of the most disturbing specimens. It did not heal in order to restore peace. It healed in order to keep war operational.
+
+These three possessed the highest degree of regulated self-control among the White Chimerae. They could interpret command, distinguish priority targets, and return to liturgical stillness after battle under proper handling.
+
+This was not morality.
+
+It was successful engineering.
+
+### 7D. The Cherubic Chimerae
+
+The two Cherubic Chimerae were not made to lead armies.
+
+They were made so the capital could not fall.
+
+Colossal, multi-winged, multi-faced, and larger than many dragons of the old war, they functioned as living fortifications. During the last war, they rested above, beside, or within the sacred capital's highest defensive architecture, folded into shapes the public could mistake for holy guardians, mountain-like angels, or impossible statues.
+
+Their liturgical state was stillness.
+
+Their martial state was siege.
+
+When dormant, a Cherubic Chimera could appear as a sleeping monument: vast white wings folded like walls, faces closed, eyes hidden beneath pale lids, a low hymn moving through the body like wind in stone.
+
+When awakened, the icon opened. Wings became barriers, blades, and killing planes. Hidden eyes opened across the body. Multiple mouths produced layered command tones. Limbs unfolded from places that should have been only feather, light, and sacred mass.
+
+The Cherubic Chimerae were designed to answer threats too large for ordinary armies: dragons; titanic war beasts; siege entities; old vampire engines; mass revenant events; capital breach scenarios; enemies whose bodies were themselves battlefields.
+
+The Archangelic Chimerae could win battles.
+
+The Cherubic Chimerae were built to prevent the capital from becoming a battlefield at all.
+
+### 7E. The Tartarean Failures
+
+Two principal specimens never achieved angelic state.
+
+They could not be made beautiful. They could not be made still. They could not be given a stable public form, a usable hymn, or a liturgical mask.
+
+Internal records called them failed third-nature prototypes, incompatible celestial bodies, or non-iconographic synthesis events. Later sealed documents used the simpler name: **Tartarean Failures.**
+
+They were not sent to the battlefield.
+
+They were sent below it.
+
+Unlike the Archangelic Chimerae, the Tartarean Failures did not resemble angels, saints, guardians, or divine weapons. They were horrendous hybrids of human tissue, enemy matter, beast architecture, preserved organs, command fragments, failed obedience structures, and experimental holiness without form.
+
+They did not merely disobey.
+
+They made command anatomically impossible.
+
+One specimen answered orders by multiplying the target category until everything nearby became enemy. Another refused target distinction entirely and treated all movement as continuation of war. Neither could enter post-war quietude. Neither could be shown to soldiers, priests, or civilians without destroying the lie that the Opus Angelicum had produced holy guardians.
+
+The Church could not execute them. The White Order could not control them. So they were imprisoned in the deepest containment vaults beneath the old war architecture, in prisons later called the **Tartarus Vaults.**
+
+Their imprisonment required the three Archangelic Chimerae working together. The Michaelic body forced physical containment. The Gabrielic body imposed command silence. The Raphaelic body prevented the failures from dying in ways that would release their corrupted tissue into the vault.
+
+The official record says the Tartarean specimens were never deployed because the war ended before their sanctification was complete.
+
+The sealed record says they were never sanctified because there was nothing in them that could be made to resemble peace.
+
+### 7F. Liturgical State and Martial State
+
+The White Chimerae were built with two incompatible requirements.
+
+During war, they had to terrify enemies, command armies, break monsters, defend capitals, and continue fighting under conditions that would destroy ordinary bodies.
+
+After war, they had to resemble victory.
+
+This required two states.
+
+**Liturgical State** is the post-war or dormant condition. The chimera becomes still, quiet, luminous, iconographic, and almost peaceful. This state allowed the Church to preserve, conceal, worship, transport, or bury them without admitting what they were. In this form, soldiers remembered them as angels. Priests painted them as guardians. Later generations built sanctuaries over their pits and called the tremor beneath the altar holy resonance.
+
+**Martial State** is the true design. It activates under war conditions: blood saturation, command hymns, mass fear, direct threat, capital breach, dragon-signature, enemy classification, or combat trauma. In this state, beauty opens into function. Wings become weapons. Halos become command-rings. Light becomes exposed mechanism. Hymns become coercive protocols. Serenity becomes target acquisition.
+
+The danger is not that a chimera becomes monstrous.
+
+The danger is that the monster was always the function, and the angel was the storage form.
+
+A White Chimera does not know peace.
+
+It knows only the absence of an assigned war.
+
+### 7G. The White Cantors
+
+During the last war, the White Order maintained specialists capable of directing the Archangelic and Cherubic Chimerae. They were known as the **White Cantors.**
+
+The public believed them to be military chaplains, exorcists, or battlefield choir-masters. In truth, they were handlers trained in command hymns, resonance keys, halo injunctions, blood permissions, bell calibrations, and emergency shutdown rites.
+
+Their tools included:
+
+- command syllables hidden inside hymns;
+- bells tuned to specific chimera tissues;
+- gestures corresponding to embedded halo-rings;
+- blood-authorized orders;
+- control rods carried as relics;
+- liturgical phrases stripped of mercy and used as keys;
+- resonance charts for each principal specimen;
+- emergency burial commands in case of partial rebellion.
+
+The extinction of the old White Cantors is one reason the modern Church fears and desires the Chimerae in equal measure.
+
+Some hymns survived. Most meanings did not. Some priests still sing fragments during feast days, unaware that the melody was once a leash. Some bells still produce reactions beneath sealed altars. Some sanctuaries were built over Foveae Belli not because the Church remembered what slept below, but because the old songs made the ground feel holy.
+
+The modern Church inherited icons.
+
+It did not inherit full control.
+
+### 7H. The Michaelic Breach
+
+The event later known publicly as the Sacrifice of Saint Michael was not a miracle.
+
+It was an authorized deployment.
+
+A blood-red dragon, swollen by contact with Founding Blood, turned toward the sacred capital during a period when the highest leaders of the human order were gathered within its walls: crowns, cardinals, military commanders, archivists, relic-keepers, and representatives of the White See.
+
+The dragon was interpreted publicly as infernal sign. Internally, the White Order classified it as a capital-breach event.
+
+The Michaelic Chimera was released.
+
+The decision was not made in ignorance. The surviving protocols warned of post-target continuation risk: the possibility that, after destroying the designated enemy, the chimera would remain in martial state and continue seeking war among the living.
+
+The risk was accepted.
+
+The capital had to survive.
+
+The road to it could be sacrificed.
+
+To the people below, the event looked like scripture becoming sky. A red dragon crossed the clouds. A white winged figure rose against it. Bells rang. Priests shouted that Michael had descended. Crowds fell to their knees before they understood whether they were praying or hiding.
+
+The battle was real.
+
+The interpretation was not.
+
+The Michaelic Chimera killed the dragon. Then the lie split open.
+
+Saturated with the dragon's Founding Blood and unable to return to liturgical stillness, the chimera remained in martial state. With the primary target dead, its body searched for continuation of war. It found movement, blood, fear, and noise. Civilians became battlefield. Refugees became interference. Witnesses became hostile mass.
+
+The angel began to kill.
+
+Severin reached the chimera through the blood it had received from the dragon. The Founding Blood remembered its source and opened a threshold through the wound. Severin did not defeat the chimera from outside. He entered its internal jurisdiction: command-rings, forced hymns, grafted nerves, white preservation compounds, angelic architecture, and the remnants of whatever personhood had been consumed by the Opus Angelicum.
+
+The battle moved away from public sight.
+
+That absence saved the Church.
+
+The people saw the dragon die. They saw the angel corrupted. They saw both vanish into distance. They did not see Severin destroy the chimera from within.
+
+The White See acted quickly. The official account declared that Michael had slain the Devil, but the Devil's blood had corrupted the angelic vessel. Rather than spread corruption among the faithful, Michael carried the infernal blood away and died in sacrifice.
+
+This explanation preserved everything the Church needed preserved: the dragon remained the Devil; the chimera remained an angel; the massacre became corruption; the corruption became martyrdom; the Founding Blood became the Blood of the Devil; Severin's intervention disappeared from the story.
+
+The world remembered an angel sacrificing itself.
+
+The archives remembered an asset behaving according to known risk.
+
+The survivors remembered the angel killing after the dragon fell.
+
+Severin remembered the inside of a manufactured heaven.
+
 
 ### 8. Echoes of the Kings
 
@@ -1572,7 +2042,7 @@ Execution scribes copy sentences into public registers. Their handwriting may de
 
 Margin-keepers maintain genealogical annotations that outlive the accused. A single suspicion mark beside a grandmother's baptism may condemn descendants not yet born.
 
-These figures should appear in scenes. A world becomes real when its cruelty has clerks, washers, porters, witnesses, bell-ringers, and tired people asking where to stack the forms.
+The world becomes real when its cruelty has clerks, washers, porters, witnesses, bell-ringers, and tired people asking where to stack the forms.
 
 ### 5. Metric Lynching
 
@@ -1609,9 +2079,60 @@ Its danger is obvious: an anti-Office can become an Office with different saints
 
 Its necessity is also obvious: without records, every atrocity becomes rumor, and every rumor can be burned again.
 
-The Chancery's first rule should echo Severin's first law:
+The Chancery's first rule echoes Severin's first law:
 
 > Name before category. Witness before sentence. Release before possession.
+
+
+### 8. The Twelve Concordat Nations
+
+Humanity is divided into twelve major nations, each with its own crown, language, nobility, military traditions, regional saints, borders, rivalries, and local memory.
+
+They are not one empire.
+
+They are something more durable.
+
+They are twelve political bodies governed by one sacred grammar.
+
+The White See does not administer every road, tax, port, harvest, prison, or army directly. It does not need to. Its power is deeper than ordinary monarchy. It governs the conditions under which human authority is recognized as legitimate.
+
+A king may inherit through blood, but his crown requires recognition.
+
+A marriage may occur before witnesses, but its validity requires sacramental record.
+
+A child may be born breathing, but personhood enters law through baptism, registration, and purity status.
+
+A corpse may be loved by a family, but burial requires ecclesiastical clearance.
+
+A city may close its gates, but the clauses defining who may be left outside come from Concordat law.
+
+The twelve nations speak different languages, but they sign the same categories.
+
+Their local cultures differ: coastal rites, mountain saints, river funerals, military customs, food, dress, folk calendars, dialects, and ancestral grudges. But above these differences stands the White See's shared legal-theological architecture:
+
+- purity law;
+- sacramental legitimacy;
+- blood certification;
+- Concordat emergency clauses;
+- Office jurisdiction over lineage;
+- White Order authority during species-war conditions;
+- standardized demonological categories;
+- Church-controlled marriage, burial, and inheritance recognition;
+- public doctrine on vampires, half-bloods, revenants, demons, and contamination.
+
+This produces the central paradox of human civilization after the vampire war:
+
+Humanity is politically divided but spiritually centralized.
+
+The crowns compete.
+
+The Chair defines the terms of competition.
+
+The result is not cultural uniformity, but juridical uniformity. A fisherman in one nation and a noblewoman in another may pray in different accents, eat different bread, curse different enemies, and sing different cradle songs. But if either is suspected of blood irregularity, the forms that reach their doors will look almost identical.
+
+The world is not ruled by one king.
+
+It is ruled by the same sentence translated twelve times.
 
 ---
 
@@ -1816,7 +2337,7 @@ Human speech needs air. Royal blood-speech needs medium.
 
 When Severin speaks without breath, the voice may travel through teeth, bone, blood, water, iron, page-fiber, a basin surface, or another person's pulse. This is why a sentence may be heard by a wounded person whose ears are covered, or felt by a revenant as pressure in the jaw.
 
-Breathless speech should be rare and frightening. It proves that Severin's authority is not theatrical voice. It is conducted force.
+Breathless speech is rare and therefore frightening. It proves that Severin's authority is not theatrical voice. It is conducted force.
 
 ### 3. The Vein Script
 
@@ -1887,11 +2408,13 @@ His kindness does not clean his appearance. When he stops a child's bleeding, th
 
 #### Phase 1 — The Survivor
 
-After the fire, Severin wants to stop existing. His motion is not heroic; it is residual survival.
+After the fire, Severin does not want to stop existing. His body makes that choice impossible. He burns, flees, is executed, and then wakes in a hole that is not a grave. His motion is not heroic. It is the motion of something that has been refused the mercy of ending.
+
+He carries guilt for the fire. He later carries a different guilt for the blade — not for the act itself, but for the fact that his body absorbed the sentence and refused to comply. The execution was meant to be final. His blood made it a threshold instead. That transformation, from sentence to origin, is something he will spend years trying not to become responsible for.
 
 #### Phase 2 — The Dead Man Awake
 
-He wakes in the Fossa, altered, confused, and bodily wrong. He does not understand death, resurrection, or responsibility.
+He wakes in the Fossa altered, confused, and bodily wrong — with a sealed wound in his chest that answers too deeply, blood in his veins that tastes like borrowed time, and no language for what was done to him or what was done in return. He does not understand execution, resurrection, or responsibility.
 
 #### Phase 3 — The Man Who Helps Badly
 
@@ -1967,7 +2490,7 @@ Core tension: he may be the only person able to contain part of the disaster, bu
 
 Function: institutional antagonist; the hand of the Office; grammar of procedural violence.
 
-Fully described in §II.5. His narrative function here: the confrontation with Valerian is not about revenge. It is about forcing the language of procedural violence to see what it has swallowed — without granting that sight the status of absolution.
+Valerian does not understand himself as a monster. He understands himself as a method. The confrontation Severin must eventually have with him is not about revenge — it is about forcing the language of procedural violence to name what it consumed, without allowing that naming to become absolution. The Office cannot be defeated by killing Valerian. It can only be made briefly visible through him.
 
 ### 3. Sivra
 
@@ -2479,6 +3002,39 @@ The family does not sleep easily. They have done nothing. The document arrived b
 
 **Cardial Abdication Syndrome** — pathological state created when Severin refuses conscious responsibility while active bonds persist.
 
+**Law of the Insufficient Vessel** — principle by which the Creator Heart begins inside Severin's body but seeks larger surfaces as the Founding Blood accumulates too many bonds, debts, Echoes, witnesses, and saved lives. Its stages move from body to skin, vestiture, architecture, jurisdiction, territory, and finally the possible world-body of Cor Mundi.
+
+**Cardial Escalation** — the visible and metaphysical progression of Severin's body as it becomes less able to contain the scale of the Creator Heart. Not a heroic power-up, but the progressive failure of the body as boundary.
+
+**The Twelve Concordat Nations** — the twelve major human nations, politically distinct but juridically subordinated to the same White See legal-theological architecture. They compete as crowns but sign the same categories.
+
+**Archangelic Chimerae** — the three humanoid White Chimerae modeled on the archangels: Michaelic (war and execution), Gabrielic (command and terror hymns), and Raphaelic (forced healing and battlefield preservation).
+
+**Michaelic Chimera** — Archangelic Chimera designed for direct war, aerial execution, and high-threat target destruction. Its liturgical state resembled the warrior angel. Its martial state revealed blade-wings, exposed command halo, and a body unable to recognize peace.
+
+**Gabrielic Chimera** — Archangelic Chimera designed for command, battlefield communication, terror hymns, and army synchronization. In martial state it became a choir of coercion.
+
+**Raphaelic Chimera** — Archangelic Chimera designed for forced healing, battlefield preservation, and surgical recomposition. It healed not to restore peace but to keep war operational.
+
+**Cherubic Chimerae** — two colossal White Chimerae designed as living fortifications for the sacred capital. In liturgical state they resembled vast sleeping monuments. In martial state they became siege engines.
+
+**Tartarean Failures** — two failed White Chimera prototypes that never achieved angelic state and were imprisoned in the Tartarus Vaults. One multiplied enemy categories until everything nearby became target. The other refused target distinction entirely.
+
+**Tartarus Vaults** — deepest containment prisons beneath the old war architecture, built to hold the Tartarean Failures and related chimera bodies that could not be sanctified, displayed, controlled, or safely destroyed.
+
+**White Cantors** — extinct or nearly extinct White Order handlers trained to direct the White Chimerae through command hymns, resonance keys, halo injunctions, blood-authorized orders, and emergency shutdown rites. The modern Church inherited chimera icons but not full Cantor control.
+
+**Liturgical State** — dormant or post-war form of a White Chimera, in which the body becomes still, luminous, and iconographic. Allowed the Church to preserve, conceal, and display Chimerae as holy guardians.
+
+**Martial State** — active war-form of a White Chimera, in which angelic appearance opens into weaponized anatomy: blade-wings, command halos, coercive hymns, and target-acquisition protocols.
+
+**The Michaelic Breach** — sealed White Order name for the authorized deployment of the Michaelic Chimera against the Blood Dragon, and the subsequent massacre caused by post-target martial continuation. Publicly known as the Sacrifice of Saint Michael.
+
+**The Sacrifice of Saint Michael** — public Church account of the Michaelic Breach, falsely presenting the event as Michael's martyrdom after corruption by the Devil's blood. Erases the chimera massacre and Severin's intervention from the story.
+
+**Blood Dragon** — a dragon or dragon-class war creature transformed by contact with Founding Blood, creating a continental apocalyptic image publicly interpreted as the Devil by the White See.
+
+
 ### Human Institutions
 
 **White See** — distributed religious sovereignty over legitimacy, soul, sacrament, and crown recognition.
@@ -2536,6 +3092,49 @@ The family does not sleep easily. They have done nothing. The document arrived b
 **One Blood** — false reconciliation by universal belonging to Severin's blood.
 
 **Conjunction Rubra** — threshold at which the Wounded Moon bleeds into terrestrial circulation.
+
+## Arc One Working Principle: The Days of Return
+
+Arc One is not the Caldrava arc.
+
+It is the survival arc.
+
+Severin wakes after the creatures have already returned. The world is not yet globally collapsed, but local regions are entering chaos. The old war has come back in fragments: war beasts, living armor, village revenants, castle servants, pact-bound entities, and things that remember commands without remembering the kingdoms that issued them.
+
+Severin is not yet a king. He is not yet a political actor. He is a burned, executed, resurrected survivor moving through a region where the dead war has begun walking again.
+
+The revelation of Arc One: the old war has returned without command, and Severin is biologically implicated in it.
+
+He is not merely surviving the returning creatures. Some of them hesitate before him. Some recognize something in his blood. None fully obey him. This recognition is too small to be doctrine and too large to be coincidence.
+
+Caldrava appears late in Arc One as rumor, destination, and administrative horizon. It is not the subject of Arc One — it is the horizon at the end of Arc One, and the full stage of Arc Two.
+
+Arc One begins with survival horror.
+
+It ends with the first sign that chaos is becoming procedure.
+
+---
+
+## Method of the Matrix Revelation
+
+Each arc pays one major truth and seeds several future truths in incomplete form.
+
+A major element may appear before its arc, but only as shadow, name, symptom, rumor, object, or local function. It should not reveal its full scale until the arc devoted to it.
+
+The four stages of revelation:
+
+1. **Shadow** — the reader senses an effect without understanding it.
+2. **Name** — the reader hears the term but does not know the scale.
+3. **Local Function** — the reader sees how it affects a scene, person, or city.
+4. **True Scale** — the reader understands the real historical, metaphysical, or political weight.
+
+Do not hide the world.
+
+Hide the scale.
+
+Each arc answers one central question: after this arc, what is the one thing the reader can never ignore again?
+
+If the answer contains several unrelated revelations, the arc is overburdened.
 
 ---
 
