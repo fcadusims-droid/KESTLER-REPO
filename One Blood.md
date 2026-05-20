@@ -935,7 +935,7 @@ The proper working term is Tonsura Cardial: the body removing what does not cond
 
 At the end of the transformation, Severin will have no hair, beard, or visible body hair. The absence will not be smooth in any comfortable sense. It will be ritual without altar. His biological nakedness will not make him appear fragile to the world. It will make it impossible to pretend he is merely a man worn down by war.
 
-The king without a castle loses even the ornaments that might have made him appear a gothic prince or dark saint. What remains is a drier and more terrible form: a face without frame, a body without surface ornament, a skin where blood, when it comes, will find no competition.
+Severin loses even the ornaments that might have made him appear a gothic prince or dark saint. What remains is a drier and more terrible form: a face without frame, a body without surface ornament, a skin where blood, when it comes, will find no competition.
 
 ### 6-A. The Transformation of Presence
 
@@ -1019,9 +1019,11 @@ The change humiliates Severin before it frightens others.
 
 He loses ordinary human surface. The beard that could have aged him, the hair that could have framed his face, the small animal warmth of the body — all of it recedes. What remains is too exposed. The skull looks less crowned than uncovered. The face appears too young and too ancient simultaneously.
 
-Others will name this according to their own fear. The Office will call it external proof. Priests will call it demonic tonsure. Ancient vampires will call it bastard deformity. The dead kings will call it surface purification.
+Each observer will name the change according to what they need it to mean. Their specific diagnoses — institutional, theological, vampiric, royal — are detailed in §V.6 Tonsura Cardial.
 
-Severin will know it first as another form of being unable to hide.
+What matters here in the escalation arc is this: Severin experiences the loss as exposure before he experiences it as transformation. He does not feel himself becoming powerful. He feels himself becoming visible in a way he spent his entire life preventing.
+
+The second stage does not produce a new body. It removes the cover story of the old one.
 
 #### Third Stage: Vestured Body
 
@@ -1634,6 +1636,8 @@ A White Chimera does not ask who is pure. Its body asks where the war is.
 
 Septima Alba, or any conscious chimera, embodies the central contrast: Severin is a contradiction with a heart; the chimera is an answer assembled by knife.
 
+The full taxonomy of principal specimens — their classes, functions, states, and handlers — is documented in the sections that follow.
+
 ### 7B. The Seven Principal White Chimerae
 
 The White Chimerae were never a mass-produced army.
@@ -1981,7 +1985,7 @@ Its weakness is scale. Mercy is slower than panic.
 
 Christianity in this world is not false.
 
-Its usurpation is monstrous.
+Its usurpation is monstrous. The full structure of this usurpation — its historical origin, its doctrinal contradictions, its internal factions, and its narrative consequences — is developed in §IX-B: The Crisis of the White Word.
 
 Demons exist. Malediction exists. Possession exists. But human institutions learned to call anything unwanted demonic when judgment was inconvenient.
 
@@ -2133,6 +2137,371 @@ The result is not cultural uniformity, but juridical uniformity. A fisherman in 
 The world is not ruled by one king.
 
 It is ruled by the same sentence translated twelve times.
+
+## IX-B. The Crisis of the White Word
+
+### 1. Core Principle
+
+The Church did not lose faith because God ceased to exist.
+
+It lost confidence in its own voice.
+
+During the last war against the vampires, humanity came close to defeat. Cities fell, lineages were consumed, human kings wavered, borders collapsed, and the White See saw the concrete possibility of a world where the night would have its own law, throne, and sacrament.
+
+It was in that moment that the Church began to alter language.
+
+Not all at once. Not as declared apostasy. Not with laughter from evil men.
+
+First, an exception.
+
+Then a clause.
+
+Then a liturgical formula adapted for military purposes.
+
+Then a pious lie to preserve public hope.
+
+Then a containment protocol described as pastoral care.
+
+Then a weapon called a miracle.
+
+Then a Chimera called an angel.
+
+Centuries later, the Church inherited a tradition contaminated by its own survival. The problem is not that the Word of Christ disappeared. The problem is that it was covered by layers of human language written during panic.
+
+The new war exposes the wound.
+
+The White See discovers it no longer knows with certainty where the Gospel ends and where the protocol begins.
+
+### 2. The Original Wound
+
+In the last war, part of the ecclesiastical leadership concluded that faith alone would not be sufficient to save humanity. Defeat seemed too close. The vampires had states, armies, tribute, memory, pacts, and a functional political machine. The night was not chaos. The night had governance.
+
+Faced with this, some Church leaders concluded that human survival required instruments that common doctrine did not authorize.
+
+So the following were created or legitimized:
+
+- the White Shroud;
+- extreme containment protocols;
+- archive falsifications;
+- artificial expansion of the category of "demon";
+- systematic persecution of mixed lineages;
+- the Exstirpatio Lunae;
+- the Foveae Belli;
+- the Opus Angelicum;
+- the White Chimerae;
+- the transformation of war experiments into sacred icons.
+
+The Church won.
+
+But it won carrying a question no one wanted to ask:
+
+*If we used the language of God to hide what we did from fear, can the victory still be called holy?*
+
+### 3. The Doctrinal Problem
+
+The crisis is not simply political. It is theological, liturgical, institutional, and spiritual.
+
+The White See possesses contradictory documents, all sealed as legitimate.
+
+An ancient text says no body should be condemned without discernment.
+
+A war protocol says ambiguous bodies may be transferred to White Order custody without common judgment.
+
+A later commentary affirms that this protocol was "extraordinary expression of divine will in time of necessity."
+
+A hymn speaks of guardian angels.
+
+The internal archive reveals that the "angels" were Chimerae built from flesh, command, anatomical halos, obedience, and enemy remains.
+
+A sermon declares that white light purifies.
+
+A war inventory shows that the same "white light" was, in certain cases, preservative compound, lime, salt, mineralized skin, and visual propaganda.
+
+The central scandal:
+
+*The Church still possesses the Word. But it also possesses centuries of human phrases dressed in sacred authority.*
+
+In the new war, every decision becomes suspect.
+
+Releasing the Chimerae: obedience to ancient protection, or repetition of a sin?
+
+Reactivating the White Order: prudence, or moral surrender?
+
+Classifying Severin as demon: discernment, or administrative fear?
+
+Seeing the Founding Blood as divine sign: faith, or new idolatry?
+
+### 4. The New War and the Exposure of the Crisis
+
+When the Luna Vulnata wounds the sky and the dead powers return, the Church tries to respond using its own tradition. But the tradition responds with broken voices.
+
+Ancient prayers produce unexpected effects.
+
+Forgotten hymns awaken structures beneath altars.
+
+Consecrated bells resonate with embedded military commands.
+
+Angelic relics respond as dormant armaments.
+
+Young priests discover that certain litanies used at funerals were, originally, containment instructions.
+
+Bishops find different versions of the same decree.
+
+Honest exorcists notice that demonological categories were expanded to include beings that were not demons.
+
+The White Order insists the old protocols exist because they worked.
+
+The Broken Chalice — described in full at §IX.6 — responds that working does not prove sanctity.
+
+The Curia tries to preserve unity.
+
+Cities burn.
+
+The question ceases to be academic:
+
+*If the Church hesitates, people die. If the Church acts with old methods, it may repeat the reason the world is wounded.*
+
+### 5. Severin as Disputed Sign
+
+The appearance of Severin divides the Church.
+
+For the institutional majority, he is a crisis: impure blood, irregular sovereignty, returned dead, vampire lineage, possible demon, possible king, possible source of contamination.
+
+But one part of the Church begins to interpret him differently.
+
+They do not see him simply as a saint. That would be too easy.
+
+They see him as a **wounded answer**.
+
+For them, Severin did not come to replace Christ, nor to found a new religion, nor to purify the world through blood. He came as a sign of correction: a living wound sent to expose the false words the Church placed over the true Word.
+
+The Founding Blood frightens this faction because it does what the Church should have done and failed to do:
+
+- it forces names to appear before categories;
+- compels documents to hesitate;
+- reveals that salvation can become possession;
+- exposes that angels can be weapons;
+- shows that the condemned body can still carry testimony;
+- forces the Church to confront the difference between discernment and classification.
+
+Their interpretation can be summarized:
+
+*God did not send Severin to govern the Church. God permitted Severin so the Church could see what its own words had done.*
+
+This interpretation remains dangerous because it still tries to define Severin before he can speak. Even when they call him a divine sign, they are still making him a function.
+
+For Severin, this is not consolation.
+
+It is another form of tribunal.
+
+### 6. The Factions of the Crisis
+
+#### 6.1. Orthodox Concordatarians
+
+The Orthodox Concordatarians argue that the acts of the last war were necessary and therefore legitimized by survival.
+
+For them, the human victory is evidence of providential approval. If God had rejected the methods used, he would have permitted the fall of humanity.
+
+Their central phrase:
+
+> The victory preserved the living. The preserved living is sufficient testimony.
+
+They support reactivation of old protocols, expansion of blood tests, the containment of Severin, and, if necessary, controlled use of the Chimerae.
+
+They do not consider themselves cruel. They consider themselves the only adults in a Church overtaken by belated guilt.
+
+#### 6.2. The Reactivated White Order
+
+The White Order does not debate theological purity as a priority. It thinks in survival.
+
+For its officers, the question is not whether the Chimerae are holy. The question is whether a city will stand without them.
+
+Their central phrase:
+
+> Innocence does not hold walls.
+
+They know more than they say. They know that many old weapons were hidden under sacred language. But for them, revealing truth during war would be suicidal luxury.
+
+They see Severin as threat and resource: something that perhaps needs to be captured, studied, drained, used, or prevented from becoming the center of a new order.
+
+#### 6.3. The Broken Chalice
+
+The Broken Chalice — described in full at §IX.6 — represents the most difficult response in the doctrinal crisis.
+
+It does not deny that monsters exist.
+
+It does not deny that demons exist.
+
+It does not deny that Severin is dangerous.
+
+But it affirms that the Church's greatest sin was substituting discernment for automatic category.
+
+Their central phrase:
+
+> If evil is real, calling everything evil is blasphemy against truth.
+
+They resist the release of the Chimerae, protect half-bloods, hide witnesses, preserve alternative archives, and attempt to prevent the Church from using war as excuse to repeat the previous war.
+
+They do not worship Severin. They do not absolve him either. They demand that he be heard before he is named.
+
+#### 6.4. Penitents of the Wounded Word
+
+This is the new faction born from the crisis.
+
+They interpret Severin as a sign of divine correction. Not as Christ, not as full saint, but as a wound sent to reveal the corruption of ecclesiastical language.
+
+Their central phrase:
+
+> When our words ceased to witness, God permitted blood to witness.
+
+They believe the Founding Blood exposes what the archives hid. For them, Severin is terrible because truth is also terrible when it arrives late.
+
+The danger of this faction is that it may transform Severin into an object of involuntary veneration. They may call him Witness of the Blood, Wounded Word, Heart of Correction, or Sign of the Wounded Moon.
+
+This must horrify Severin.
+
+Because he recognizes that even adoration can be another form of capture.
+
+#### 6.5. The Silent Curia
+
+The Silent Curia is not exactly a doctrinal faction. It is a faction of institutional preservation.
+
+They know that contradictions exist. They know archives were altered. They know the public cult of the Chimerae was built on lies. They know the White Order guards old crimes.
+
+But they believe that revealing this would destroy the Church at the moment humanity needs it most.
+
+Their central phrase:
+
+> The truth that breaks the altar during war serves the enemy.
+
+They do not necessarily want to release the Chimerae. They also do not want to reform the Church too quickly. They want to control the narrative, delay confessions, manage scandals, and prevent open schism.
+
+They are dangerous because they can appear moderate while burying truth a second time.
+
+### 7. Narrative Function
+
+This crisis serves four principal functions.
+
+First, it prevents the Church from being only a flat antagonist. The Church becomes an institution with guilt, real faith, fear, corruption, courage, cowardice, and internal dispute.
+
+Second, it deepens the central theme: the difference between naming and judging. The Church named weapons as angels, methods as miracles, containment as mercy, and fear as discernment. Now it must pay for that.
+
+Third, it creates tension around the White Chimerae. Releasing them is not only a military decision. It is an ontological confession. If the Church uses the Chimerae, it admits its angels were weapons. If it does not, perhaps entire cities fall.
+
+Fourth, it creates a new kind of danger for Severin. He will not only be hunted as monster or king. He may also be venerated as a sign. And being venerated is still being defined by others.
+
+### 8. Scene Matrix: The Council of Three Texts
+
+An emergency council convenes after the fall of a city.
+
+Three documents lie on the table.
+
+The first is an ancient gospel, open to a passage about mercy, judgment, and truth.
+
+The second is a protocol from the last war authorizing the release of a Chimera in case of urban collapse.
+
+The third is a theological commentary, written decades later, affirming that the protocol was "extraordinary expression of divine will in time of necessity."
+
+A bishop reads the three in silence.
+
+Then reads them again.
+
+Then notices that the third document uses words from the first to justify the opposite of the first.
+
+He asks:
+
+> When did this enter doctrine?
+
+No one answers.
+
+Not because everyone is hiding something.
+
+But because no one present knows.
+
+This is the scene that crystallizes the crisis. The Church is not only lying. The Church has inherited lies so old that some of them already carry the smell of tradition.
+
+### 9. Scene Matrix: The Hymn That Was a Key
+
+During an emergency mass, a choir sings an ancient hymn asking for protection against the night.
+
+The church trembles.
+
+At first, the faithful believe it is a miracle.
+
+Candles tilt without wind.
+
+Below the altar, metal responds.
+
+An unused old bell vibrates.
+
+A priest notices that the melody is not calling grace.
+
+It is emitting a command.
+
+The hymn was a containment key.
+
+Below the altar there is a Fovea Belli.
+
+The congregation is singing a leash without knowing it.
+
+This scene exposes the crisis physically: the Church's liturgy contains fossilized war.
+
+### 10. Scene Matrix: Severin Refuses the Altar
+
+The Penitents of the Wounded Word find Severin after he exposes a White See falsification or prevents a Chimera from massacring civilians.
+
+They kneel.
+
+Not from fear.
+
+From reverence.
+
+They call him a sign.
+
+They say God permitted him to correct the Church.
+
+They say his blood witnesses where men lied.
+
+Severin answers:
+
+> Do not make my wound the voice of God.
+
+This scene is essential because it prevents the new faction from being simply "the good ones." They may be closer to truth than the Orthodox Concordatarians, but they still risk using Severin as symbolic instrument.
+
+### 11. Consequence for the White See
+
+The crisis may evolve into internal schism.
+
+Not necessarily an immediate formal rupture, but a fracture of obedience.
+
+Some temples continue following the old Concordats.
+
+Others refuse to hand suspects to the Office of Purity.
+
+Some bishops authorize reactivation of White Order protocols.
+
+Others declare that any use of the Chimerae without public confession is sacrilege.
+
+Some priests begin removing suspect angelic images.
+
+Others reinforce propaganda to preserve popular faith.
+
+The people notice.
+
+And when the people notice that the Church no longer speaks with one voice, the war changes nature.
+
+Before, the question was: *What does the Church command?*
+
+After the crisis, it becomes: *Which Church still deserves to be obeyed?*
+
+### 12. Condensed Formulation
+
+The Crisis of the White Word began when the new war forced the White See to open the archives of the last. There, current leaders discovered that not all received tradition was doctrine, not every recorded miracle was a miracle, and not every venerated angel was an angel. During the previous war, the Church — fearing human extinction — permitted protocols, lies, weapons, and exceptions to be written in sacred language. Centuries later, no one knew with certainty where the Word of Christ ended and where the word of the terrified man began.
+
+The appearance of Severin deepened the fracture. For some, he was demon, contamination, heir of the enemy, and crisis of creation. For others, he was a terrible answer: not savior, but witness; not messiah, but wound sent to expose the falsifications of holy language. The Founding Blood did what the Church had forgotten: it put the name before the category, the body before the process, the witness before the sentence.
+
+That interpretation did not free Severin. It only offered him another prison. Where the Office called him case, vampires called him king, and demons called him clause, part of the Church began calling him sign. But a sign can also be used. And Severin, who had been burned by a sentence, would not easily allow himself to be transformed into an altar.
+
 
 ---
 
@@ -2565,9 +2934,13 @@ A human institutional mind able to see that Severin is not a single anomaly but 
 
 ### 12. Septima Alba
 
-Function: conscious White Chimera.
+Function: conscious White Chimera; the most important surviving specimen of the Archangelic class.
 
-A creature made by humans to be a false third nature. Her encounter with Severin forces the question: what is the difference between a synthesis with a heart and a synthesis assembled by knife?
+Of the seven principal White Chimerae described in §VII.7B-7G, Septima Alba is the one that retained — or developed — something the Opus Angelicum never intended: the ability to distinguish between her own function and her own experience of that function. Whether this constitutes personhood is one of the questions her encounter with Severin forces into the open.
+
+She is not the Michaelic Chimera's capacity for war, the Gabrielic Chimera's capacity for command, or the Raphaelic Chimera's capacity for preservation. She is the case where the engineering produced a witness to itself.
+
+Her encounter with Severin is the sharpest version of the contrast the document has been building: Severin is a contradiction with a heart. The chimera is an answer assembled by knife. The difference is not that she is evil and he is not. The difference is that she has no origin that was not designed, and he has no design that was not broken.
 
 
 ---
@@ -2610,7 +2983,7 @@ A creature made by humans to be a false third nature. Her encounter with Severin
 | Vampire Reformists | negotiate survival after collapse | old pure houses reclaiming everything | tribute reform, protected villages, legal compromise | possible model and temptation |
 | Demons | exploit clauses and panic | revocation, true discernment | contracts, bargains, inherited debts | creditor, rival, interpreter |
 | Revenants | closure, name, heat, recognition | being misclassified as demon | haunting, repetition, bodily return | test of discernment |
-| White Chimerae | war because war is their language | peace without function | anatomy, command rings, false sanctity | failed mirror of Third Nature |
+| White Chimerae | the assigned war to return | the absence of war without a new function | anatomy, command rings, Liturgical State as propaganda, Martial State as weapon, Foveae Belli as reserve | failed mirror of Third Nature; Severin is what the Opus Tertium attempted and could not build |
 | Border Peoples | territory, restitution, distance | human expansion returning | local bargains, terrain, old rites | proof that monster is a lazy word |
 
 ---
@@ -2649,7 +3022,7 @@ Severin ceases to rule as a person.
 
 He becomes Cor Mundi: the Heart of the World.
 
-This is the maximum corruption of his arc. He does not become a tyrant seated above everyone. He becomes the living foundation inside everyone.
+This is the maximum corruption of his arc. He does not become a tyrant seated above everyone. He becomes the living foundation inside everyone. The full physical and metaphysical progression toward this state is mapped in §V.8 Cardial Escalation, specifically the Seventh Stage: World-Body. Cor Mundi is not a sudden event. It is the destination of a journey that begins with a sealed wound in the chest and ends with the world unable to remain exterior to the body that healed it.
 
 Final question:
 
@@ -2719,7 +3092,7 @@ Purpose: establish discernment.
 
 A true demon offers a clean contract with humane language.
 
-Purpose: show evil as interpretation, not only violence.
+Purpose: show that the most effective form evil takes is reasonable clause — and that reasonable language is not evidence the evil is merely misunderstood.
 
 ### 5. The Vampire Order That Protects
 
@@ -2760,9 +3133,11 @@ Purpose: show that bureaucracy creates its own criminal ecology.
 
 ### 11. The Chimera Under the Altar
 
-A holy building contains a sleeping human-made monster.
+A holy building contains a White Chimera in Liturgical State — dormant, folded, still, luminous, and indistinguishable from sacred architecture. The tremor beneath the altar is called holy resonance by the clergy above it. The warmth in the stone is called the presence of grace. The low hymn moving through the walls at night is called the voice of the saints.
 
-Purpose: collapse propaganda, sanctity, architecture, and war crime into one reveal.
+Something triggers Martial State. The angel opens.
+
+Purpose: collapse propaganda, sanctity, architecture, and war crime into one reveal. The icon was always the storage form. The weapon was always the truth.
 
 ### 12. The Abdication Fever
 
@@ -3036,6 +3411,14 @@ The family does not sleep easily. They have done nothing. The document arrived b
 
 
 ### Human Institutions
+
+**Crisis of the White Word** — the theological and institutional fracture triggered when the new war forces the White See to open archives from the last. The Church discovers that protocols, weapons, and lies were written in sacred language and have been transmitted as tradition. The fracture produces five internal factions with incompatible responses.
+
+**Orthodox Concordatarians** — Church faction that defends the last war's methods as providentially legitimized by survival. They support reactivation of old protocols and containment of Severin.
+
+**Penitents of the Wounded Word** — new Church faction that reads Severin as a divine sign of correction — not a saint, but a wound sent to expose falsifications of holy language. Dangerous because they still seek to define him before he speaks.
+
+**Silent Curia** — Church faction of institutional preservation. Knows the contradictions exist but believes revealing them during war would destroy the Church when humanity needs it most.
 
 **White See** — distributed religious sovereignty over legitimacy, soul, sacrament, and crown recognition.
 
