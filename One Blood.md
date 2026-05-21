@@ -208,7 +208,7 @@ When the sentence comes, it already appears to have been written all along.
 
 Valerian Ors is the lineage agent who turns suspicion into casework.
 
-He does not arrive with a torch. He arrives with a leather folder, dark gloves, sealed ink, a genealogical ruler, temple witnesses, and the calm of a man who believes cruelty becomes clean when performed without hatred.
+He does not arrive with a torch. He arrives with a varnished leather folder, dark gloves, sealed ink, a genealogical ruler, temple witnesses, and the calm of a man who believes cruelty becomes clean when performed without hatred.
 
 He interviews neighbors. He compares marriage records. He studies baptismal gaps. He asks about scars. He notices Ilona's blood. He hears the name Sângelună and writes it correctly.
 
@@ -342,7 +342,7 @@ He wants to know who signed.
 
 The crowd had faces. The torches had hands. The priest had a voice. But the death began before the flame, at a table, with a pen, a margin, a name written where it should never have appeared.
 
-This search gives shape to the survivor. He learns to steal folders before commanding creatures. He learns to recognize seals before recognizing vassals. He learns that a stamp can kill before a blade. A system that murders by form still needs someone willing to wet the pen.
+This search gives shape to the survivor. Before Severin understands crowns, he understands signatures. Before creatures hesitate at his blood, he learns where folders are kept, which seals matter, which hands write cleanly after ordering fire. He learns that a stamp can kill before a blade. A system that murders by form still needs someone willing to wet the pen.
 
 ---
 
@@ -1424,7 +1424,15 @@ Then target.
 
 No empire survives long when it loses faith in its own calendar.
 
-After the Wounded Moon, dates continued printed in books, but the flesh of the world did not obey. Seeds planted on the correct night did not germinate. Grapes rotted before harvest. Ewes lambed in wrong weeks. Monastery scholars attempted to correct the lunar psalms and failed: certain chants that previously calmed the dead now summoned them; fasts that previously strengthened vigil now left people vulnerable to blood fevers.
+The Broken Calendar did not kill the harvest all at once. That would have been a clean disaster. What it did was worse: it destroyed the confidence on which agricultural prediction rested.
+
+Some regions lost ten to twenty-five percent of production in the first cycle after the Luna Vulnata. Others entered local collapse. Others were barely touched. The damage was not uniform, and the non-uniformity was its own weapon: no one could say with certainty whether next year's planting would hold, whether the old lunar tables could be trusted, whether the safe dates for frost and flood still applied.
+
+Monastery scholars attempted to correct the lunar psalms and found the correction incomplete: certain chants that previously calmed the dead now summoned them; fasts that previously strengthened vigil now left people vulnerable to blood fevers. The revision did not stabilize the calendar. It exposed how much of the old calendar had depended on conditions that no longer held.
+
+What followed was not famine as catastrophe. It was famine as governance.
+
+Grain silos that remained intact became political fortifications. Monasteries, merchant guilds, royal warehouses, and military garrison stockpiles became sources of leverage. Cities began conditioning bread, salt, and certified water access on compliance with blood-basin tests, curfew, and documentation. The Office of Purity did not need to manufacture hunger — it only needed to place itself between the grain and the gateless.
 
 Children conceived under certain lunar halos were born with pupils too wide, nails too dark, too much silence in the first cry.
 
@@ -1437,6 +1445,8 @@ Kings may refuse to recognize this calendar.
 Mothers follow it anyway.
 
 Where mothers follow a calendar that kings refuse to sign, law has already begun changing hands.
+
+The harvest did not die at once. Worse: it stopped obeying the calendar that told men when to trust the earth.
 
 ### 3. Lunar Curfew Cities
 
@@ -1672,7 +1682,9 @@ The Church named the radiance grace. The White Order named it function.
 
 **The Gabrielic Chimera** — designed for command, transmission, battlefield synchronization, terror hymns, and mass obedience. Its voice could carry orders across armies, fracture enemy formation, induce panic, or coordinate lesser chimera functions. In liturgical state it appeared as messenger and herald. In martial state it became a choir of coercion.
 
-**The Raphaelic Chimera** — designed for battlefield preservation, forced stabilization, surgical recomposition, and the maintenance of useful troops beyond ordinary survivability. Its apparent gentleness made it one of the most disturbing specimens. It did not heal in order to restore peace. It healed in order to keep war operational.
+**The Raphaelic Chimera**, later known in hidden post-war records as **Septima Alba**, was designed for battlefield preservation, forced stabilization, surgical recomposition, and the maintenance of useful troops beyond ordinary survivability. Its apparent gentleness made it one of the most disturbing specimens. It did not heal in order to restore peace. It healed in order to keep war operational.
+
+The name *Septima Alba* did not originally designate personhood. It was a stabilization designation: the seventh viable white body to survive enough internal contradiction to remain usable after extended deployment. Only later, after dormant centuries and partial awakening, did the name become something else — not the name of a function, but the name by which the function's captive witness began to answer.
 
 These three possessed the highest degree of regulated self-control among the White Chimerae. They could interpret command, distinguish priority targets, and return to liturgical stillness after battle under proper handling.
 
@@ -2036,7 +2048,7 @@ Hunger governs compliance. Refugees with no food accept blood tests faster. Citi
 
 This turns survival into participation. People become collaborators not because they are evil, but because food, burial, and entry into walls are made conditional on compliance.
 
-### 4. Death-Washers, Execution Scribes, and Margin-Keepers
+### 4. Death-Washers, Execution Scribes, Margin-Keepers, and the Book of Veins
 
 The human machine needs minor professions.
 
@@ -2045,6 +2057,10 @@ Death-washers prepare suspect bodies in ways that determine whether a family may
 Execution scribes copy sentences into public registers. Their handwriting may decide whether a person dies as named citizen, contaminated body, domestic risk, hereditary threat, or demon-associated remnant.
 
 Margin-keepers maintain genealogical annotations that outlive the accused. A single suspicion mark beside a grandmother's baptism may condemn descendants not yet born.
+
+The **Book of Veins** is not a single book, despite the name. It is the common term for regional infant-blood ledgers maintained by the Office of Purity and, in older districts, by parish clerks under Office instruction. Midwives, priests, death-washers, and lineage agents use it to record irregular births: too much blood in the cradle, delayed crying, abnormal warmth, blood that refuses to dry, wounds closing too quickly, mothers who bleed too little, or children whose first fever follows a lunar pattern.
+
+Most entries never become full cases. That is part of the terror. A note in the Book of Veins may sleep for thirty years until a marriage, inheritance dispute, basin reaction, or denunciation wakes it.
 
 The world becomes real when its cruelty has clerks, washers, porters, witnesses, bell-ringers, and tired people asking where to stack the forms.
 
@@ -2086,6 +2102,14 @@ Its necessity is also obvious: without records, every atrocity becomes rumor, an
 The Chancery's first rule echoes Severin's first law:
 
 > Name before category. Witness before sentence. Release before possession.
+
+### 7-A. The Broken Archives
+
+The **Broken Archives** are not one archive. They are the shattered remainder of the last war: partial inventories, burned registers, copied confessions, vampire ledgers, White Order protocols, Office lineage maps, prison transfers, and sealed ecclesiastical commentaries that contradict one another because no surviving institution could afford to preserve the whole truth in one place.
+
+Each fragment was kept by whoever destroyed the rest. The White See holds the parts that justify its authority. The White Order holds the parts that justify its methods. Old vampire houses hold the parts that prove human crime. The Office holds the parts that produced sentences.
+
+A fragment of the Broken Archives is dangerous not because it contains a secret, but because it points toward another fragment held by an enemy. To read one properly is to force hostile records into relation. No institution can do this alone without confessing what it buried. Severin can — because the blood in his veins carries residue from every side of the war.
 
 
 ### 8. The Twelve Concordat Nations
@@ -2503,6 +2527,589 @@ The appearance of Severin deepened the fracture. For some, he was demon, contami
 That interpretation did not free Severin. It only offered him another prison. Where the Office called him case, vampires called him king, and demons called him clause, part of the Church began calling him sign. But a sign can also be used. And Severin, who had been burned by a sentence, would not easily allow himself to be transformed into an altar.
 
 
+
+## IX-C. Sacred Geography of the Twelve Nations
+
+The Twelve Concordat Nations are not only human kingdoms united by the White See. In the official maps of the Church, they form a sacred dodecad: twelve political bodies arranged around the City of the Chair, the spiritual, juridical, and symbolic center of recognized humanity.
+
+The real geography is irregular. Rivers, mountains, forests, older borders, ruined zones, and pre-Concordat peoples do not obey the diagram perfectly. But the White See imposes a holy reading upon the continent: twelve faces around one center. The Church does not classify only bodies. It classifies space.
+
+The doctrinal formula is simple:
+
+> Twelve Nations. One Chair. One Road. One Faith.
+
+The City of the Chair does not publicly declare itself to be God. It presents itself as the earthly point from which divine will is interpreted, recorded, distributed, and made legible. Kings govern territories. The Chair governs the legitimacy by which territories can call themselves rightful.
+
+This geography sustains the White See's deepest political claim:
+
+> True humanity is humanity legible to the Chair.
+
+The existence of the Exterior proves otherwise.
+
+### 1. The Via Duodecim
+
+The great road connecting the Twelve Nations is officially called the **Via Duodecim**, also known as the **Via Victoriae Albae**, the White Victory Road.
+
+It covers thousands of kilometers and was born after the human victory in the last war against the vampire dominions. Its origin lies in the **March of Victory**, a continental pilgrimage in which millions walked in celebration, prayer, mourning, and gratitude.
+
+It was genuinely beautiful.
+
+Families found survivors they believed dead. Bells rang after years of fear. Kings walked without crowns. Soldiers laid weapons on the road. Children were baptized in public squares. Widows carried the names of the dead. Priests sang until their voices broke. For the first time in generations, many cities believed the night had ended.
+
+The march was real.
+
+The faith was real.
+
+The gratitude was real.
+
+But the road also fixed the official version of the war.
+
+Along it traveled relics, seized archives, transferred bodies, hidden prisoners, genealogical lists, the first agents of purity, and the early instruments of the new Concordat order. The road is therefore both a monument of liberation and an infrastructure of control.
+
+To the people, it is the Victory Road.
+
+To the White See, it is the artery of human unity.
+
+To ancient vampires, it is the **White Scar**.
+
+To dissidents, it is the road by which victory learned to become sentence.
+
+After the Luna Vulnata, the road changes nature. Before, it carried pilgrims, merchants, ambassadors, armies, diplomatic marriages, taxes, and relics. Now it carries refugees, blood certificates, agents of the Office of Purity, soldiers of the White Order, salted corpses, suspects, children without registration, rumors about Severin, and containment convoys.
+
+The road that unified victory now spreads the crisis.
+
+### 2. The Twelve Apostolic Nations
+
+Each of the Twelve Nations was shaped by an institutional reading of its apostolic patron. The White See transformed apostolic memory into national vocation: each nation received an economic, spiritual, military, or administrative function derived from the figure that inspires it.
+
+This reading is not neutral. It is doctrine turned into geography.
+
+The official formula is:
+
+> Twelve apostles. Twelve faces. Twelve services. One Chair.
+
+The harder political truth is:
+
+> Each nation learned to turn a virtue into a method of jurisdiction.
+
+#### Petravia — Nation of Peter
+
+Petravia is inspired by Peter: stone, foundation, key, stability, and authority. It is the nation of fortresses, quarries, walls, coronations, heavy bridges, and defensive cities.
+
+Official virtue: firmness.
+
+Possible corruption: immobility.
+
+National phrase:
+
+> The stone sustains. The stone does not ask.
+
+#### Andróvia — Nation of Andrew
+
+Andróvia is inspired by Andrew: fisherman, net, first calling, and gathering. It is the nation of ports, estuaries, navigable rivers, fisheries, salt, lighthouses, crossings, ships, maritime trade, and evacuation routes.
+
+Official virtue: gathering service.
+
+Possible corruption: capture.
+
+National phrase:
+
+> Every lost soul must be gathered by the net.
+
+#### Iacóbria — Nation of James the Greater
+
+Iacóbria is inspired by James the Greater: pilgrimage, road, martyrdom, and sacred courage. It is the nation of marches, cavalry, road orders, holy hostels, mobile reliquaries, and protectors of the Via Duodecim.
+
+Official virtue: pilgrim courage.
+
+Possible corruption: marching fanaticism.
+
+National phrase:
+
+> Whoever walks beneath God does not fear the night.
+
+#### Ioaneth — Nation of John
+
+Ioaneth is inspired by John: testimony, writing, vision, sacred love, and theology. It is the nation of manuscripts, copying monasteries, libraries, schools, liturgical music, controlled prophecy, and doctrinal tribunals.
+
+Official virtue: testimony.
+
+Possible corruption: interpretive manipulation.
+
+National phrase:
+
+> What has not been written has not yet finished existing.
+
+#### Filíria — Nation of Philip
+
+Filíria is inspired by Philip: mediation, explanation, mission, and leading another toward faith. It is the nation of diplomats, translators, missionaries, ambassadors, frontier merchants, and cultural interpreters.
+
+Official virtue: mediation.
+
+Possible corruption: absorption.
+
+National phrase:
+
+> Everything can be understood, if it accepts being translated.
+
+#### Barthelan — Nation of Bartholomew
+
+Barthelan is inspired by Bartholomew, especially through the later tradition of flayed martyrdom and flesh as testimony. It is the nation of medicine, anatomy, surgery, tanning, parchment, relics, body preservation, death-washers, and physical investigation.
+
+Official virtue: testimony of the flesh.
+
+Possible corruption: the body as document.
+
+National phrase:
+
+> Flesh does not lie.
+
+In One Blood, this phrase is dangerous because flesh can be forced to speak.
+
+#### Tomávia — Nation of Thomas
+
+Tomávia is inspired by Thomas: doubt, touch, proof, and construction. It is the nation of engineers, architects, examiners, bridge-builders, containment technicians, miracle inspectors, and material jurists.
+
+Official virtue: verification.
+
+Possible corruption: denial of the immeasurable.
+
+National phrase:
+
+> Show the wound.
+
+#### Mathevar — Nation of Matthew
+
+Mathevar is inspired by Matthew: tax-collecting, account, record, and the conversion of bookkeeping into testimony. It is the nation of censuses, tithes, banks, taxes, Church finances, civil records, certificates, and fiscal logistics.
+
+Official virtue: accounting before God.
+
+Possible corruption: life as debt.
+
+National phrase:
+
+> Every soul has an account before God.
+
+#### Alfeônia — Nation of James the Less
+
+Alfeônia is inspired by James the Less: humility, smallness, discreet continuity, and daily service. It is the nation of fields, villages, lesser lineages, agriculture, grain, timber, cattle, herbs, rural families, and local custom.
+
+Official virtue: humility.
+
+Possible corruption: exploitation of humility.
+
+National phrase:
+
+> The lesser sustains the greater.
+
+This phrase can become revolt.
+
+#### Tadería — Nation of Jude Thaddeus
+
+Tadería is inspired by Jude Thaddeus: impossible causes, last recourse, and hope when the world has already abandoned a case. It is the nation of frontier hospitals, leper houses, rescue orders, suicidal missions, homes for the incurable, contaminated zones, and extreme penitence.
+
+Official virtue: hope in the impossible.
+
+Possible corruption: conditional salvation.
+
+National phrase:
+
+> Nothing is lost while it can still be entrusted.
+
+The dangerous question is: entrusted to whom?
+
+#### Simonar — Nation of Simon the Zealot
+
+Simonar is inspired by Simon the Zealot: fervor, resistance, armed defense of faith, and popular zeal. It is the nation of militias, monster-hunters, square preachers, armed brotherhoods, purifications, militarized frontiers, and collective oaths.
+
+Official virtue: fervor.
+
+Possible corruption: sacred violence.
+
+National phrase:
+
+> Whoever loves the light does not negotiate with shadow.
+
+#### The Matthian Veil and the Iscariot Map
+
+The existence of Iscária creates a wound in the sacred diagram.
+
+In devotional maps used for schools, pilgrim books, household icons, and common catechesis, Judas Iscariot is often softened, obscured, or replaced by a Matthian face. These maps present the Twelve as a purified circle: betrayal removed, substitution completed, order made whole.
+
+In juridical and Concordat maps, however, Iscária remains.
+
+The White See therefore possesses two maps of its own truth: one for prayer, one for custody. The first teaches that the circle of the apostles was healed. The second preserves the place where betrayal is contained, processed, and made useful.
+
+This duplicity is not considered contradiction by the Curia Alba. It is called pastoral distinction.
+
+To dissidents, it proves something harsher:
+
+> The Church did not erase Judas. It hid him behind Matthias when children were watching.
+
+#### Iscária — Nation of Judas Iscariot
+
+Iscária is inspired by Judas Iscariot: betrayal, kiss, delivery, fall, and no return. It is the penitentiary face of the Twelve Nations. It is not a common nation. It is a prison-nation.
+
+Its focus is high treason, containment, penal exile, sealed archives, irregular bodies, and people whom the Church classified as traitors to God because they betrayed the White See.
+
+Official virtue: custody of betrayal.
+
+Possible corruption: eternal sentence.
+
+National phrase:
+
+> The soul may return to God. The traitor does not return to the world.
+
+### 3. Iscária, the Nation of Judas
+
+Iscária is the penitentiary face of the Twelve Concordat Nations. It does not exist to govern free citizens. It exists to contain the condemned. Entering Iscária means losing the right of return.
+
+Its fundamental juridical principle is:
+
+> Nullus reditus.
+>
+> No return.
+
+During the last war, Iscária almost ceased to exist. When human survival seemed uncertain, the White See and the White Order concluded that the prison-nation had become an intolerable risk. If its prisons fell, the enemy could release pact-bound criminals, vampires, heretics, military traitors, dissidents, and prisoners who knew Church secrets.
+
+The **Iscariot Clause of Final Custody** was activated.
+
+The event became officially known as the **Penitential Emptying**. In sealed White Order archives, it appears as the **Dead Cells Protocol**.
+
+The decision was simple:
+
+> No traitor will be delivered to the night.
+
+In practice, this meant the systematic massacre of the prisoners.
+
+The prisoners were killed. The records were sealed. The prisons were locked. Mines, prison-monasteries, towers, and citadels were abandoned. The White See did not abolish Iscária, because abolishing Iscária would have required explaining what had been done there.
+
+After the war, Iscária remained legally existent but practically dead: broken roads, silent bells, monasteries without chant, fortresses with minimal garrisons, cells sealed with bodies inside, sealed archives, wells and crypts holding the untestified dead.
+
+Officially, Iscária was a suspended custody.
+
+In truth, it was a nation of unrecognized dead.
+
+After the Luna Vulnata, the White See reactivated Iscária to contain the new horrors of the world. Cities did not want half-bloods, pact-bound bodies, revenants, Echo carriers, captured vampires, dissidents, heretics, irregular corpses, and suspects inside their walls.
+
+But a prison emptied by massacre is not an empty prison.
+
+The old dead were still there.
+
+Iscária becomes one of the greatest revenant centers in the world: dead prisoners repeating sentences, executioners still executing non-existent convicts, prison-monks reciting erased lists, heretics writing on walls with worn fingers, vampires killed without proper rite returning as imprisoned hunger, children descended from convicts asking what betrayal they inherited.
+
+Iscária is the geographic extreme of classification.
+
+In Veyr, a family becomes sentence.
+
+In Caldrava, a saved child becomes file.
+
+In Iscária, an entire nation becomes penal category.
+
+### 4. The Apostolic Stations of the Via Duodecim
+
+Along the Via Duodecim stand twelve great **Apostolic Stations**, one in each Concordat nation. Each Station is dedicated to the apostolic patron of that nation and functions as sanctuary, school, archive, hostel, sacred museum, blessing post, and marker of the March of Victory.
+
+Official name:
+
+> Stationes Apostolorum.
+
+Popular names:
+
+> Houses of the Apostle.
+>
+> Victory Marks.
+>
+> Road Sanctuaries.
+>
+> Houses of the March.
+
+The complete pilgrimage through the twelve Stations is called:
+
+> The Round of the Twelve.
+
+In devotional language:
+
+> The Lesser March.
+
+A faithful person walking the Victory Road does not only cross territory. They cross a catechesis built from stone, painting, song, relic, prayer, and record.
+
+The Stations are beautiful. Families pray there. Widows leave names of the dead. Children learn stories. The poor receive soup. Soldiers leave medals. Pilgrims find shelter.
+
+But their institutional function is also real.
+
+Each Station records bodies in motion. Each pilgrim signature is devotion and data. Each blessing of passage can become document validation. Each hostel can become a triage post.
+
+After the Luna Vulnata, the Stations change function.
+
+What was sanctuary becomes filter.
+
+What was pilgrim book becomes tracking instrument.
+
+What was road blessing becomes conditional permission to move.
+
+The central question becomes:
+
+> Who may walk beneath God without first being classified by the Church?
+
+The Station of Iscária differs from all the others. Its official name is **Domus Osculi**, the House of the Kiss. After Iscária is reactivated, it becomes the last point before full entry into the prison-nation.
+
+Inscription over its arch:
+
+> Here ends the road of the faithful. Here begins the road of the traitor.
+
+## IX-D. The Orbis Extra Cathedram
+
+The Twelve Concordat Nations form the demographic, juridical, and religious heart of Christian humanity. Nearly three quarters of all humans live under the order of the Chair, distributed among the twelve apostolic nations, linked by the Via Duodecim, and recorded through sacramental archives.
+
+Estimated total human population:
+
+> approximately 180 million.
+
+Population inside the Twelve Concordat Nations:
+
+> approximately 125 million.
+
+Population outside the Twelve Nations:
+
+> approximately 55 million.
+
+Proportion:
+
+> roughly 69% of humanity lives under Concordat order.
+>
+> roughly 31% lives outside it.
+
+Outside the Twelve Nations lies the non-Concordat world. The White See officially calls it:
+
+> Orbis Extra Cathedram — the world outside the Chair.
+
+Common name:
+
+> The Exterior.
+
+Administrative name:
+
+> Extra-Concordat Zone.
+
+Harder theological name:
+
+> Lands Without Testimony.
+
+Critical name used by exterior peoples:
+
+> The White Fence.
+
+For the White See, the problem with the Exterior is not merely that it does not follow the Church. The problem is that it exists outside the interpretive jurisdiction of the Chair. The Exterior proves that humanity can live outside the sentence by which the White See defines the human.
+
+Beyond the Chair exist ancient empires, rival religions, nomadic confederations, commercial cities, maritime kingdoms, border peoples, cultures that understand certain spirits and dead better than the Church, human communities that survived the vampire war by means considered suspicious, and civilizations that remember versions of history erased by the March of Victory.
+
+The White See fears the Exterior not only for military reasons, but because it is a living refutation.
+
+If tens of millions of humans live outside the Chair, in old empires, nomadic confederations, commercial cities, maritime kingdoms, border peoples, rival sanctuaries, and civilizations that remember versions of history erased by the March of Victory, then the Chair is not identical with humanity.
+
+Exterior phrase:
+
+> The Chair wounded the moon and now calls the whole world contaminated.
+
+## IX-E. Civitas Cathedrae — The City of the Chair
+
+At the center of the Twelve Nations rises the **Mons Cathedrae**, the greatest mountain in the world. Around its base, valleys, terraces, and slopes stands the **Civitas Cathedrae**, capital of the White See and symbolic center of Concordat humanity.
+
+The city does not merely occupy the geographic center of the Twelve Nations. It surrounds a sacred verticality. The Twelve Nations form the horizontal body of human order; the mountain forms its vertical axis.
+
+The capital is built to make one overwhelming claim:
+
+> Humanity ascends to God through the Chair.
+
+The Civitas Cathedrae is not the Kingdom of God. It is the city the White See built to represent the Kingdom of God on earth. Faith may be true. Beauty may be true. Prayer may be true. But the institution guarding this city began, over centuries, to act as if controlling the symbol were the same as controlling the voice of God.
+
+### 1. Mons Cathedrae
+
+The Mons Cathedrae is taller than any known mountain. Its height ranges between **9,600 and 10,800 meters**. It is almost superhuman, but still accessible through extreme engineering, acclimatization, tunnels, breath chambers, and infrastructure built over centuries.
+
+The mountain is visible from all Twelve Nations from sacred points, hills, towers, elevated stretches of the Via Duodecim, and Apostolic Stations. The entire capital is not visible in detail from every place, but its radiance is: high domes, white towers, metallic reflections, and, above all, the cross.
+
+None of the Twelve Nations is completely outside the symbolic reach of the mountain.
+
+### 2. Crux Mundi
+
+At the summit of the Mons Cathedrae stands the **Crux Mundi**, the Cross of the World.
+
+It is the greatest sacred work ever built by Concordat humanity. Its internal structure was made to withstand extreme cold, high-altitude winds, ice, and rarefied air. Tomávian engineering, Petravian stone, Mathevarian metals, Andróvian transport, Iscárian penal labor, Taderian altitude hospitals, and Alfeônian food all participated in its construction.
+
+The structure has twelve great anchors driven into the summit rock, each consecrated to one apostolic nation.
+
+Official doctrine states:
+
+> The Twelve hold the Cross so the Cross may hold the world.
+
+The cross is coated with noble and reflective materials: gold, polished silver, cut crystal, translucent enamels, mirrored white metal, and surfaces resistant to ice. It does not merely remain at the top of the mountain; it dominates light.
+
+### 3. Septem Lumina
+
+The Crux Mundi contains seven prismatic points called **Septem Lumina**, the Seven Lights.
+
+These points were integrated into the cross in positions calculated to capture and refract light. Officially, each point is consecrated to one of the seven gifts of the Holy Spirit: wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of God.
+
+At certain hours of day and in certain seasons, the Septem Lumina divide the light of heaven and cast over the capital a vast iridescent arc called the **Corona Luminis**, the Crown of Light.
+
+For the faithful, the Corona Luminis is visible sign of the covenant between God and humanity. For the White See, it is celestial confirmation of the centrality of the Chair.
+
+Liturgical formula:
+
+> When the Cross divides the light, Heaven confirms the order of the Earth.
+
+But the ambiguity is central: the light comes from heaven; the form of the sign was engineered by human hands.
+
+### 4. The Three Cities of Altitude
+
+The Civitas Cathedrae is organized in rings of altitude.
+
+The **Lower City** occupies the valleys and plains around the Mons Cathedrae. It is the most populous, noisy, and human part of the capital: pilgrims, markets, hospitals, hostels, workshops, the poor, scribes, public kitchens, documentary triage, and posts of the Office of Purity.
+
+The **Middle City** occupies the great artificial terraces of the slopes, between roughly 800 and 2,000 meters. There stand tribunals, theological universities, royal embassies, ecclesiastical palaces, houses of the orders, public archives, monasteries, national chapels, coronation chambers, and administrative seats of the Curia Alba. This is where the institution actually governs. The air is cold but breathable. The buildings are stone, heavy, and heated by coal and wood brought up from below.
+
+The **High City** occupies a narrow band between 3,500 and 4,800 meters, where the air begins to fail in earnest. There are no palaces here. There is no comfort. High clerics assigned to the High City arrive pale from the climb and stay pale: lips darkening, lungs slow, sleep fitful, appetite gone for the first weeks. The mountain does not respect rank. Cardinals rely on infusions prepared by altitude physicians. Senior cantors sing shorter phrases than they could below because the breath does not hold. Mountain technicians, guards, monks, and servants maintain the infrastructure that keeps the height occupied: coal hauled on the backs of convicted men, oil burned against the cold, wet wool dried over iron stoves, water melted from ice twice daily in winter.
+
+The theological logic says the High City is closer to God. The physical reality is that it smells of coal smoke, sick lung, damp wool, and rendered fat. High officials do not linger. They ascend for specific ceremonies, deliberations, or the rare audience at the Sanctum Silentii, then descend again. Permanent residence in the High City is understood as either exceptional holiness or administrative punishment, depending on who is sending whom.
+
+The **Crux Mundi** at the summit is maintained, not inhabited. Small rotating crews of technicians, condemned laborers, frostbitten monks on vow, and mechanical systems — bellows, mirrors, heat channels, coal-fed furnaces, ice-anchored lines — sustain the structure against cold and wind. No one lives permanently at the summit. Descent expeditions carry the dead back down when the cold takes them before their rotation ends.
+
+Doctrine says:
+
+> The higher the body ascends, the less the world speaks.
+
+The Broken Chalice answers:
+
+> They climbed so high to hear God that they stopped hearing men.
+
+### 5. The Twelve Gates
+
+The Civitas Cathedrae has twelve monumental gates, each aligned symbolically with one apostolic nation. The gates are not merely entrances. They are civic icons, border courts, ceremonial mouths, and visible arguments that all nations enter the sacred center through forms assigned by the Chair.
+
+The Gate of Peter is heavy, pale, and almost without ornament. The Gate of Andrew is carved with nets, fish, ships, and gathered souls. The Gate of James the Greater opens widest during great processions. The Gate of John carries texts, glass, and visionary scenes. The Gate of Philip bears inscriptions in many languages. The Gate of Bartholomew is marked by flesh, relic, skin, and martyrdom. The Gate of Thomas contains measuring devices, hinges, balances, and images of the wound touched. The Gate of Matthew is flanked by registrars and counting halls. The Gate of James the Less receives grain, animals, rural delegations, and minor petitions. The Gate of Jude Thaddeus receives incurables, desperate pilgrims, and impossible cases. The Gate of Simon is guarded by oath-militias and banners of zeal.
+
+The twelfth gate is different.
+
+The **Porta Osculi**, the Gate of the Kiss, corresponds to Iscária. It rarely functions as common entry. It is judicial, penitential, and outward-facing. From it depart the convoys of traitors, condemned bodies, sealed witnesses, and those whom the White See removes from the community of the faithful.
+
+Its inscription reads:
+
+> Through this gate the faithful do not enter. Through this gate the traitor leaves.
+
+The gate is beautiful. That is part of its violence.
+
+### 6. Campus Victoriae and the Ring of Crowns
+
+In the Lower City, aligned with the arrival of the Via Duodecim, lies the **Campus Victoriae**, the Field of Victory, also called the **Plaza of the White Victory**.
+
+Doctrine says that the March of Victory ended there. Millions could not have stood in the plaza at once, but the liturgy says that humanity arrived there. The distinction between physical fact and sacred representation is deliberately unimportant to the White See.
+
+The plaza contains names of battles, liberated cities, crowned rulers, martyrs, children saved from the night, and families whose dead were absorbed into the official memory of victory. At its center stands the **Column of the Last Night**, showing vampire defeat, human survival, and the Church raising light over the world.
+
+Some panels are altered. Some angels carved on the column were White Chimerae. Some martyrs were witnesses eliminated after the war. Some victories hide massacres. Some names were replaced by categories.
+
+The Campus Victoriae is one of the most beautiful public places in the capital.
+
+It is also a lie carved with immense skill.
+
+Above and around the Middle City stands the **Ring of Crowns**, where the twelve human crowns maintain embassies, national chapels, dynastic houses, legal chambers, and residences for heirs awaiting recognition. A king may rule in his own nation, but legitimacy must kneel at the mountain.
+
+The political formula is:
+
+> The crown is born in blood. Legitimacy kneels before the Chair.
+
+### 7. The Hidden City Beneath the Holy City
+
+The capital's visible purity requires an invisible city.
+
+The white stone is washed before sunrise. Blood is removed from ceremonial streets before bells call the first crowds. Suspect bodies are moved through service tunnels. Quarantine chambers sit behind walls painted with saints. Workers maintain ventilation shafts, cremation furnaces, drainage channels, salt stores, corpse carts, kitchens, warm-air ducts, and sealed infirmaries that pilgrims never see.
+
+The Civitas Cathedrae smells of incense in the plazas and of lime, iron, sweat, damp paper, hot wax, old blood, and ash beneath them.
+
+The largest poor district is called the **Low Grace**, though the people who sleep there call it the **Floor of Knees**. It gathers failed pilgrims, widows waiting for petitions, the sick too poor to ascend, foreign converts without sponsors, clerks dismissed from offices, orphans, false guides, candle sellers, refugees, penitents, and families trapped for months or years inside proceedings no one has resolved.
+
+The city represents heaven to those approaching from the road.
+
+Inside it, thousands sleep beneath stairways while waiting for a form to be accepted.
+
+This does not make the capital false in a simple sense. Real charity happens there. Real prayer happens there. Real saints have lived and died in its hidden rooms.
+
+But the holiness visible above is maintained by labor, secrecy, and removal below.
+
+### 8. Scala Caeli
+
+From the High City begins the **Scala Caeli**, the Stair of Heaven.
+
+It is the sacred passage leading to the base of the Crux Mundi. It is not an open road. It is a combination of tunnel, stair, internal gallery, vertical monastery, altitude chapel, and acclimatization system.
+
+It contains breath chambers, acclimatization rooms, altitude infirmaries, tanks of melted water, heat galleries, bellows-driven ventilation, pneumatic gardens, stations of silence, chapels without song, dormitories, and chambers where the body must prove it can continue.
+
+The Scala Caeli reveals the material truth of constructed holiness: for a pontiff to pray on high, thousands of workers, physicians, engineers, carriers, monks, miners, cooks, and prisoners sustain the mountain.
+
+### 9. Sanctum Silentii
+
+At the base of the Crux Mundi, near the top of the world, lies the **Sanctum Silentii**, the Sanctuary of Silence.
+
+Only the White Pontiff, greater cardinals, patriarchs of the Chair, senior confessors, and exceptionally summoned authorities may enter.
+
+Official doctrine states that this is the point on earth where heaven is nearest.
+
+There, the highest members of the White See ascend to pray, fast, deliberate, and “speak with God.”
+
+But the truth is ambiguous. Some climb to hear God. Others climb to find a height sacred enough to justify decisions already made.
+
+The place may be holy.
+
+It may also be the chamber where the institution confuses silence with divine approval.
+
+### 10. Archivum Mundi
+
+Inside the mountain and below the great basilicas lies the **Archivum Mundi**, the Archive of the World.
+
+There are kept copies of baptisms, marriages, coronations, excommunications, royal genealogies, treaties, Concordats, heresy proceedings, burial licenses, suspicion records, relic authentications, martyr lists, blood maps, secret decrees, and documents from the last war.
+
+Official doctrine says:
+
+> No recognized soul must disappear from the book of the Church.
+
+The corruption is evident:
+
+Whoever is not in the archive exists less.
+
+Whoever is in the archive wrongly may die by a sentence written before birth.
+
+### 11. After the Luna Vulnata
+
+After the Luna Vulnata, the capital enters the greatest symbolic crisis in its history.
+
+The city was built to say that human order ascends toward God. But the wounded moon appears above the Crux Mundi, and no bell, archive, decree, or prayer of the Chair can prevent the sky from bleeding.
+
+The signs begin small:
+
+one of the seven Septem Lumina hesitates;
+
+the Corona Luminis appears with a red band;
+
+the snow around the cross darkens;
+
+altitude bells ring without hands;
+
+breath chambers lose pressure when erased names are read;
+
+fountains in the Middle City reflect red without blood;
+
+statues of angels tremble during old hymns;
+
+archives develop moisture without origin;
+
+the Porta Osculi opens once without order.
+
+The question becomes inevitable:
+
+> If the Chair is the voice of God on earth, why did the sky bleed without asking its permission?
+
 ---
 
 ## X. Vampire Civilization
@@ -2574,6 +3181,16 @@ Vaelrûn Sângelună fathered a child with a human woman. This union was love, d
 The child and descendants disappeared from official vampire history. They survived as bastards, not heirs.
 
 This is the central irony: what vampire purity would have called shame preserved the blood of the crown.
+
+### 6. Name Erasure
+
+**Name Erasure** was one of the most severe punishments of the old vampire houses. It did not kill the body and did not always strip the blood. It removed the legal answer between blood and house.
+
+A vampire under Name Erasure could still hunger, heal, remember, inherit wounds, and carry pure blood. But records would not answer to them. Oaths spoken through the house name failed. Servants could not legally receive their command. Doors keyed to lineage hesitated. Ancestors heard the blood but refused the surname.
+
+To humans, this distinction is meaningless. To vampires, it is a living mutilation: blood without house, purity without recognition, lineage without door.
+
+Sivra's Name Erasure makes her a precise mirror of Severin. He has a dangerous name he was forced to hide. She has a missing name she was forced to accept. He was concealed so the name would not condemn. She was erased so the name could not protect. He fears definition. She cannot be defined at all.
 
 ---
 
@@ -2847,6 +3464,51 @@ He ends by disputing who may sign the world differently.
 
 ---
 
+## XIII-B. Arc One Working Principle: The Days of Return
+
+Arc One is not the Caldrava arc.
+
+It is the survival arc.
+
+Severin wakes after the creatures have already returned. The world is not yet globally collapsed, but local regions are entering chaos. The old war has come back in fragments: war beasts, living armor, village revenants, castle servants, pact-bound entities, and things that remember commands without remembering the kingdoms that issued them.
+
+Severin is not yet a king. He is not yet a political actor. He is a burned, executed, resurrected survivor moving through a region where the dead war has begun walking again.
+
+The revelation of Arc One: the old war has returned without command, and Severin is biologically implicated in it.
+
+He is not merely surviving the returning creatures. Some of them hesitate before him. Some recognize something in his blood. None fully obey him. This recognition is too small to be doctrine and too large to be coincidence.
+
+Caldrava appears late in Arc One as rumor, destination, and administrative horizon. It is not the subject of Arc One — it is the horizon at the end of Arc One, and the full stage of Arc Two.
+
+Arc One begins with survival horror.
+
+It ends with the first sign that chaos is becoming procedure.
+
+---
+
+## XIII-C. Method of the Matrix Revelation
+
+Each arc pays one major truth and seeds several future truths in incomplete form.
+
+A major element may appear before its arc, but only as shadow, name, symptom, rumor, object, or local function. It should not reveal its full scale until the arc devoted to it.
+
+The four stages of revelation:
+
+1. **Shadow** — the reader senses an effect without understanding it.
+2. **Name** — the reader hears the term but does not know the scale.
+3. **Local Function** — the reader sees how it affects a scene, person, or city.
+4. **True Scale** — the reader understands the real historical, metaphysical, or political weight.
+
+Do not hide the world.
+
+Hide the scale.
+
+Each arc answers one central question: after this arc, what is the one thing the reader can never ignore again?
+
+If the answer contains several unrelated revelations, the arc is overburdened.
+
+---
+
 ## XIV. Key Characters by Narrative Function
 
 ### 1. Severin Sângelună
@@ -2934,11 +3596,15 @@ A human institutional mind able to see that Severin is not a single anomaly but 
 
 ### 12. Septima Alba
 
-Function: conscious White Chimera; the most important surviving specimen of the Archangelic class.
+Function: conscious White Chimera; the emergent witness within the surviving Raphaelic Archangelic body.
 
-Of the seven principal White Chimerae described in §VII.7B-7G, Septima Alba is the one that retained — or developed — something the Opus Angelicum never intended: the ability to distinguish between her own function and her own experience of that function. Whether this constitutes personhood is one of the questions her encounter with Severin forces into the open.
+Septima Alba is not an eighth principal Chimera and not a separate class outside the seven. She is what remained — or what awakened — inside the Raphaelic Chimera when the Opus Angelicum produced something it never intended: a subject capable of distinguishing between function and experience.
 
-She is not the Michaelic Chimera's capacity for war, the Gabrielic Chimera's capacity for command, or the Raphaelic Chimera's capacity for preservation. She is the case where the engineering produced a witness to itself.
+The Raphaelic function was preservation for war. Septima Alba is the wounded witness trapped inside that function.
+
+Of the seven principal White Chimerae described in §VII.7B-7G, she is the case where the engineering produced a witness to itself. Whether this constitutes personhood is one of the questions her encounter with Severin forces into the open.
+
+She is not the Raphaelic function of preservation, though she inhabits the body built for it. She is the remainder that can say: this is what I was made to do, and this is what it felt like to be made for it.
 
 Her encounter with Severin is the sharpest version of the contrast the document has been building: Severin is a contradiction with a heart. The chimera is an answer assembled by knife. The difference is not that she is evil and he is not. The difference is that she has no origin that was not designed, and he has no design that was not broken.
 
@@ -2975,6 +3641,7 @@ Her encounter with Severin is the sharpest version of the contrast the document 
 | Faction | Wants | Fears | Uses | Relationship to Severin |
 |---|---|---|---|---|
 | Office of Purity | classify, contain, archive, prove | category failure | lineage records, tests, certificates, margins | case, contamination, living index |
+| Red-White Protocol | preserve anomalies alive long enough to study, harvest, and weaponize them | premature classification destroying useful data | field serum, Echo observation, controlled wound studies, basin reactions, covert exemptions | source-case, living assay, physiological resource |
 | White Order | survive the returning night | moral hesitation causing extinction | military exception, old weapons, chimera protocols | threat, resource, captive king |
 | White See | retain legitimacy over soul and crown | exposure of past sanctified crimes | doctrine, tribunal, sacrament, interdiction | theological crisis |
 | Broken Chalice | discern before condemning | mercy becoming negligence | hidden networks, false records, exorcists | possible ally, dangerous burden |
@@ -3031,13 +3698,25 @@ Can a world saved by belonging entirely to Severin still call itself saved?
 
 ### 4. One Blood
 
-One Blood is not peace. It is the abolition of distance under the appearance of reconciliation.
+At first, the title **One Blood** appears to refer to the Founding Blood.
 
-Human, vampire, half-blood, revenant, chimera, border people, beast, corpse, root, river, and stone would cease to be separate jurisdictions not because they learned to coexist, but because the Founding Blood would make all coexistence internal to itself.
+That is the false reading.
 
-The horror is not that everyone dies.
+The Founding Blood threatens to become one blood in the imperial sense: one blood capable of restoring all by incorporating all, healing all by creating claim, saving all by making it impossible to remain outside the body that saves.
 
-The horror is that no one can stand outside the saving pulse long enough to refuse it.
+This is the false One Blood.
+
+The true One Blood is the **Sanguis Christi**, the Blood of Christ.
+
+There are many bloods in the world: human blood, vampire blood, royal blood, founding blood, martyr blood, traitor blood, archived blood, tested blood, burned blood, inherited blood. All of them have been used to define, condemn, purify, dominate, or found.
+
+But only one blood saves without possessing.
+
+The true One Blood is not the blood that makes all beings belong to one body. It is the Blood of Christ, which allows restoration without abolishing freedom.
+
+Final formula:
+
+> Many bloods found kingdoms, lineages, debts, and sentences. Only one blood saves without possessing.
 
 ### 5. Conjunction Rubra
 
@@ -3066,9 +3745,505 @@ A tyrant sits above subjects.
 
 Cor Mundi beats inside them.
 
+
+## XVI-A. The Final Movement: The Refusal of Cor Mundi
+
+The final battle of Severin is not against the White See, nor against the vampires, nor against demons, although all of them are present around the Crux Mundi.
+
+The true final battle is against what kept him alive since the Fossa: the **Creator Heart**, the **Founding Blood**, and the grammar of the dead kings still preserved within the blood.
+
+At the height of the crisis, the Creator Heart recognizes a possible solution in the world: **Cor Mundi**. The city, the roads, the bells, the archives, the Echo carriers, the dead, the peoples, and the Earth itself could become a body large enough to contain the pain no human body could endure.
+
+The heart offers salvation as totality.
+
+The dead kings call this sovereignty.
+
+The desperate almost call it mercy.
+
+Severin understands that accepting Cor Mundi would repeat, at final scale, the logic that killed his family: no one would be allowed to exist before the definition imposed by an authority. Only now the authority would not be the Office, the White See, or the vampire kings.
+
+It would be his own blood.
+
+So he refuses.
+
+This is not a political refusal. It is an ontological refusal. Severin denies the final purpose toward which the Creator Heart has been expanding. He refuses to turn salvation into world-body. He refuses to preserve everyone at the price of making it impossible for anyone to stand outside him.
+
+The Creator Heart cannot survive that negation. Not because it punishes Severin. Not because the blood turns against him with will or sentence. But because Severin has accumulated bonds, debts, Echoes, named bodies, saved wounds, testimonies, and unresolved claims beyond the capacity of one human vessel. The Creator Heart was seeking Cor Mundi precisely because there was no longer enough body to hold what he carried. When Severin closes that valve — refuses to let the world become the chamber that would relieve the pressure — the heart has nowhere left to expand.
+
+A human vessel cannot sustain continental circulation.
+
+The heart does not execute him. It implodes.
+
+Severin dies not from the blood's revenge but from the hydraulic consequence of refusing to become large enough to survive what he chose to carry alone.
+
+This is his second true death: not at the hands of the village, not by the blade of frightened men, but by the failure of a body that was never built to contain a sovereignty it refused to make infinite.
+
+## XVI-B. The Sanguis Christi
+
+Beneath the base of the Crux Mundi, in a chamber older than the cross itself, the White See guards its most secret relic: the **Sanguis Christi**, the Blood of Christ, recovered from the place of the Crucifixion and preserved incorrupt after millennia.
+
+It is not dried blood.
+
+It is not symbol.
+
+It is not residue.
+
+It is living blood, red, present, inexplicable.
+
+The Church built its greatest cross over it and made the mountain proof of its nearness to God.
+
+But guarding the Blood never meant understanding the Blood.
+
+The Sanguis Christi cannot be invoked. It is not a weapon. It is not a divine technology. It does not respond to the Church as institution, to sacramental formula, or to the authority of whoever happens to guard its chamber. It does not resolve politics. It does not open archives. It does not transform Severin into an executive sovereign. It cannot be activated by prayer, ceremony, blood rite, or need alone.
+
+It only purifies Severin because Severin already refused Cor Mundi freely, at the cost of his life.
+
+The Blood of Christ did not save Severin from his choice. It saved only what remained of him after the choice was made.
+
+When Severin's body falls at the Crux Mundi, the Creator Heart and Founding Blood remain alive. Blindly, still obeying the law of restoration, they search for matter with which to rebuild him. Beneath the Cross, they find the Sanguis Christi.
+
+The Creator Heart does not know what it touches.
+
+It carries within itself everything the old Church would have condemned: incomplete human blood, vampire blood, remnants of the dead kings, corrupted sovereignty, traumatic memory, Echo, guilt, and the threat of Cor Mundi.
+
+By the logic of the Office, nothing there should be saved.
+
+By the logic of the kings, everything there should be crowned.
+
+By the logic of the Founding Blood itself, everything there should be incorporated.
+
+But the Blood of Christ does not read as the Office reads.
+
+It does not judge the heart by the impurity of the blood.
+
+It sees, at the center of the Creator Heart, Severin's final choice: the refusal to possess the world in the name of salvation. That refusal was the truest remainder of him. It was not biological purity. It was truth of heart.
+
+The Sanguis Christi does not find purity in Severin. It finds a heart that refused dominion at the cost of death.
+
+For that reason, the Sanguis Christi does not destroy Severin.
+
+It purifies him.
+
+The blood of the kings loses jurisdiction. The hunger of Cor Mundi is burned. The logic of possession is defeated. The blood that was condemnation becomes testimony.
+
+Severin is reborn because, before his blood was cleansed, his heart was seen.
+
+The theological formula is:
+
+> The Chair judged the blood to decide the heart. Christ saw the heart and purified the blood.
+
+## XVI-C. Concordia Sanguinum
+
+When the Founding Blood touches the Sanguis Christi, there is no fusion, consumption, possession, or mixture.
+
+The event is called **Concordia Sanguinum**, the Concord of the Bloods.
+
+The Founding Blood encounters something it has never known: blood without possession, pain without domination, sacrifice without debt, life given without annexation.
+
+The Creator Heart feels, in seconds, an entire life: birth, poverty, hunger, dust, water, bread, hands touching the sick, faces of the poor, anger against the profanation of the temple, mercy toward the broken, sorrow before hypocrites, the kiss of betrayal, the crown of thorns, wood, nails, thirst, forgiveness, abandonment, and death.
+
+But what nearly destroys the Creator Heart is not the pain.
+
+It is the logic that the pain reveals.
+
+The Founding Blood knows equivalence.
+
+The Sanguis Christi reveals grace.
+
+The Founding Blood knows restoration by bond.
+
+The Sanguis Christi reveals salvation without possession.
+
+The Founding Blood knows return to source.
+
+The Sanguis Christi reveals gift without annexation.
+
+The Founding Blood knows sovereignty.
+
+The Sanguis Christi reveals testimony.
+
+The bloods do not devour each other and do not become confused.
+
+They enter concord.
+
+The Founding Blood is purified and redeemed into a new form:
+
+> Sanguis Testimonii — the Blood of Testimony.
+
+## XVI-D. Corpus Testimonii
+
+The dead body of Severin is restored, but not as before.
+
+There emerges the **Corpus Testimonii**, the Body of Testimony: the resurrected body of Severin, cleansed of the jurisdiction of the dead kings and marked with the stigmata of Christ.
+
+He remains Severin.
+
+His face is his.
+
+His history is his.
+
+His memory of Veyr remains.
+
+The death of his family remains.
+
+Responsibility remains.
+
+Pain remains.
+
+But something has been removed.
+
+The Blood of Christ tears from the Creator Heart what bent it toward possession:
+
+- the grammar of the dead kings;
+- fossilized vampire authority;
+- the hunger to turn salvation into dominion;
+- the pressure of Cor Mundi;
+- the temptation to found a world without exterior;
+- equivalence without grace;
+- the memory of sovereignty as command;
+- the need to make every saved life belong to the savior.
+
+Severin receives the stigmata not as a sign that he has become Christ, but as a sign that he has been washed by the Blood of Christ and now carries the memory of the Passion as internal testimony.
+
+This memory is not omniscience.
+
+It is not possession.
+
+It does not replace his will.
+
+It is a wound of discernment.
+
+Christ did not return in Severin.
+
+Christ purified Severin so Severin could testify.
+
+The Corpus Testimonii is not an upgrade. The purification removed the logic of possession from the Creator Heart; by the same act, it removed the temptation to resolve the world by force of blood alone. The body that descends from the Crux Mundi feels cold, hunger, altitude sickness, wound, exhaustion, and the possibility of imprisonment. It can be arrested. It can be starved. It can be made to climb stairs with failing lungs and burn fingers on ice-cold iron.
+
+The grace removed dominion. It did not remove the need for coal, food, safe passage, witnesses, ink, surface, and air.
+
+After the Crux Mundi, every action Severin takes requires a human body moving through a human world: transport, breath, surface, risk, and someone present who can later testify that it happened. There are no more sealed wounds at a distance. There is no automatic restoration of a burning building. There is no blood sent ahead through stone channels to alter a document before he arrives. What he can do is what any person with a true testimony and a living body can do: speak, name, refuse, open, hand over, bear witness, and remain present long enough for others to decide what they will do with what they saw.
+
+## XVI-E. The Descent from the Crux Mundi
+
+Severin descends from the Crux Mundi.
+
+The descent takes hours. His lungs work badly at this altitude. His feet find the steps by touch more than sight. The cold has been in his body long enough that his hands do not entirely feel the rope. Below him, the maintenance crews on the upper Scala Caeli look at the man descending and do not yet understand what they are seeing. He looks like someone who survived something. He looks like the aftermath of an event no one present witnessed fully.
+
+The Corona Luminis behaves strangely in the hours following: the Septem Lumina refract at angles that do not match the season. Whether this is sign or optical damage from the events at the summit, no one in the Lower City can say with certainty. The institutional reading will disagree with the popular reading for decades.
+
+Some bells ring at the wrong hour. Altitude monks note this in their records and note their disagreement about the cause.
+
+The Archivum Mundi does not open on its own. Its seals hold. Its locks hold. The guards at its doors remain at their posts. The sealed pages stay sealed. Severin will have to return with keys, or force, or witnesses willing to risk their positions. The archives will be opened because people open them — carry them, cough their dust, risk their safety, hand them to others who copy them by candlelight. The grace purified the heart. It did not hire the archivists.
+
+Some images of Chimerae in the Lower City chapels are reported to have trembled during the events at the summit. A few priests remove them that same night. Others do not. The theological interpretation of the trembling will become one of the arguments in the schism.
+
+The Porta Osculi is opened by a guard who received a logistical order. The superior who gave it was thinking about defensible exits, not liturgy. The reason is administrative. The effect will be read as holy by everyone who did not hear the order.
+
+The high clerics in the Sanctum Silentii understand, in the silence following the events at the summit, that something has changed below the cross. What it means is still being argued when Severin arrives at the Middle City, cold, hungry, and in need of someone willing to let him through a gate.
+
+Severin looks upon the capital.
+
+He sees the real beauty: the poor fed, widows consoled, pilgrims who prayed with true faith, hospitals, baptized children, sincere monks, saints hidden inside the institution.
+
+And he sees the violence: archives, prisons, classifications, false angelologies, burned bodies, hunted lineages, destroyed half-bloods, exterior peoples excluded without testimony, Iscária reopened, the Office turning person into case, the White Order calling atrocity necessity.
+
+Then Severin weeps.
+
+The weeping is human, but crossed by the memory of the Sanguis Christi.
+
+It is not Jesus weeping in his place.
+
+It is Severin, purified, finally able to weep without turning pain into tribunal.
+
+Then comes anger.
+
+But it is not the anger of the dead kings.
+
+It is not the anger of Veyr.
+
+It is not vengeance.
+
+It is not Cor Mundi.
+
+It is anger against the lie that used God as a seal.
+
+## XVI-F. Pontifex Testis
+
+Severin does not destroy the Church.
+
+The story does not end by declaring faith false or by burning every institution. Christianity in this world is not false; the tragedy is that its language was usurped, administered, and used to justify fear, war, purity, and classification.
+
+Severin judges the Chair not to erase Christ, but to separate Christ from the machine that spoke in his name.
+
+He declares:
+
+> The Church is not God.
+>
+> The Chair does not possess Christ.
+>
+> No body will be defined before it is heard.
+>
+> No name will be buried beneath a category.
+>
+> No salvation will be used as possession.
+
+Severin accepts the Chair, but not as king, not as new Christ, not as universal sovereign, and not as heart of the world.
+
+He accepts it as:
+
+> Pontifex Testis — Pontiff Witness.
+
+This title is decisive. He is not the pontiff who finally controls the world correctly. He is the pontiff who limits the Chair itself so that it can never again confuse authority with God.
+
+His pontificate begins by forcing acts of rupture that no institution can complete cleanly:
+
+- forcing the Archivum Mundi into contested opening;
+- initiating the public exposure of the previous war's crimes;
+- making the truth of the White Chimerae impossible to keep fully liturgical;
+- beginning the dismantling of the Office of Purity through testimony, refusal, and institutional fracture;
+- breaking the doctrine of Iscária as no-return by forcing its dead into record;
+- compelling the categories that named every nonhuman, half-blood, revenant, or border people demonic without discernment to be heard as contestable, not settled;
+- compelling the Orbis Extra Cathedram to be heard as witness, not periphery.
+
+The Chair ceases to be the center that defines everything.
+
+It becomes the place that must hear before it speaks.
+
+## XVI-G. The Open Arms of Severin
+
+The restoration begun by Severin after the Concordia Sanguinum does not belong only to humans.
+
+This is one of the first ruptures with the old White See.
+
+According to the old doctrine, salvation belongs properly to humans. From that premise, the Church classified vampires, half-bloods, Chimerae, revenants, ancient peoples, and creatures outside its grammar as bodies without a full place in the economy of salvation.
+
+Severin does not arrogantly deny every theological mystery. He does not claim to know the final limits of divine mercy.
+
+He declares something more humble and more radical:
+
+> I do not know how far the mercy of Christ reaches. I know it reached me when all said I was outside.
+
+This decision is born from his own restoration.
+
+By the logic of the White See, Severin should never have been saved. He was not purely human. He was half human, half vampire, bearer of condemned blood, heir to dead kings, and an impossible body before any sacramental register.
+
+Yet when the Founding Blood touched the Sanguis Christi, the Blood of Christ did not destroy him. It did not reject him. It purified him. It restored him.
+
+If Christ reached a man whom the Church would have called impure before hearing him, then the Church may no longer condemn any creature merely for not being human.
+
+Therefore Severin decides to receive also repentant vampires, half-bloods, conscious Chimerae, revenants capable of testimony, ancient peoples, and nonhuman creatures who desire to abandon domination, predation, and falsehood in order to follow the truth of Christ.
+
+He does not absolve them by nature.
+
+He does not erase their crimes.
+
+He does not turn discernment into naivety.
+
+True demons continue to be discerned. Predators continue to be judged. Corrupting pacts continue to be opposed.
+
+But no creature will again be condemned solely because it does not fit the human body that the old Chair called the world.
+
+The first missionary law of the Pontifex Testis becomes:
+
+> No one will be declared beyond the reach of Christ before being heard by name.
+
+The symbolic formulation is:
+
+> Severin opened the door to nonhumans because he discovered, in his own body, that Christ did not save a purity. He saved an impossible creature.
+
+## XVI-H. Restitutio Verbi — The Restoration of the Word
+
+After the war and the rebirth of Severin, the deepest wound of the Church is not military.
+
+It is verbal.
+
+The White See has seen archives opened, crimes exposed, and its own authority purified by the Sanguis Testimonii. But the faithful remain before a terrible question:
+
+> What is still the Word of Christ, and what was human language written over it during fear?
+
+During the last war, the Church altered terms, expanded demonological categories, turned containment into mercy, weapons into miracles, Chimerae into angels, and protocols into tradition. Centuries later, many no longer knew where the Gospel ended and where the commentary of terrified men began.
+
+Severin therefore begins the **Restitutio Verbi**, the Restoration of the Word.
+
+He does not do this as the new owner of Scripture. He does not replace Christ. He does not claim divine omniscience. He does not dictate a new faith by the authority of his blood. He does not create a new revelation. Truth does not belong to Severin.
+
+But the Sanguis Christi restored in him a living memory of wounded truth.
+
+Severin carries in the Corpus Testimonii not the total mind of God, but the testimony of the Blood of Christ: the memory of flesh that touched the sick, broke bread, forgave enemies, grew angry at profanation, refused dominion, suffered the cross, and gave itself without turning the saved into property.
+
+This memory allows Severin to recognize where the Word was twisted against Christ himself.
+
+Thus begins the purification and rewriting of the sacred archives.
+
+The Archivum Mundi is opened. Gospels, commentaries, hymns, decrees, protocols, litanies, exorcisms, war records, and ancient translations are placed before the restored testimony. Texts that were Word are preserved. Texts that were fear are marked. Texts that were weapons are confessed. Hymns that were containment keys are separated from prayer. Doctrines that called cruelty necessity are judged. Fabricated miracles are removed from the calendars. Angels that were Chimerae are named as what they were.
+
+The Restitutio Verbi is not only textual correction.
+
+It is the penitence of language.
+
+Severin declares:
+
+> The Word does not belong to the Chair. The Chair must kneel before the Word.
+
+And:
+
+> We will not restore the books so the Church may possess men again. We will restore the Word so no man, no people, and no creature may again be condemned by a sentence Christ never spoke.
+
+The restoration does not occur by coercion. The Sanguis Testimonii does not force belief into hearts. It testifies. It calls. It awakens discernment where there is freedom to answer.
+
+For this reason, the restored canon of testimony is not born only from Severin's hand. It is also born from the poor, the condemned, the peoples of the Exterior, half-bloods, repentant vampires, conscious Chimerae, named revenants, penitent monks, opened archives, and the faithful who must relearn the difference between the voice of God and the voice of the institution.
+
+The old White See wrote to define.
+
+The restored Church writes to testify.
+
 ---
 
-## XVII. Scene Engines
+## XVI-I. Post-Climax: The Broken Triangle of Obedience
+
+Severin's purification does not produce a new empire. It produces a conflict without a clear center of command.
+
+Severin holds authority of testimony: the capacity to speak names, refuse categories, and open archives. He does not hold an army, a treasury, a grain supply, or the institutional mechanisms by which decisions become enforceable in a city of forty thousand.
+
+The Curia holds instruments of execution: seals, decrees, sacramental records, the forms that make a marriage valid, a birth registered, a burial permitted, a sentence appealed. Without the Curia's cooperation, Severin's declarations remain declarations.
+
+The White Order holds force: soldiers, containment protocols, old weapons, and the institutional willingness to act before the argument is finished.
+
+The human crowns hold territorial jurisdiction: the roads, the walls, the grain, the gates, and the bodies inside them.
+
+The guilds hold the labor and technical knowledge on which every other institution depends.
+
+The Broken Chalice holds networks: hidden routes, witnesses, archives parallel to the official ones.
+
+The Chancery of the Wound holds names: the documented dead, the misclassified living, the testimonies no institution has yet absorbed.
+
+No one controls the whole. The Curia and its allies do not attempt to prove Severin is false — that argument is already losing. They attempt a more precise separation: even if Severin's testimony is true, who executes what he witnesses? Testimony without enforcement remains testimony. The Chair controlled the world not because it was righteous but because it controlled the conditions under which righteous and unrighteous alike needed to eat, bury their dead, and pass through gates.
+
+This is the post-climax war: not armies but forms, not battles but who controls the link between testimony and consequence.
+
+---
+
+## XVI-J. The Twelve Crowns: Four Blocks
+
+The twelve human nations do not respond to Severin as a unified body. They never did. They shared a juridical grammar, not a single will.
+
+After the Crux Mundi, the crowns fracture into four working blocks.
+
+**Concordatarian Crowns.** Smaller kingdoms, theologically dependent on the Chair for dynastic legitimacy, or fragile enough that destabilizing the White See would destabilize themselves. They defend continuity and resist any reform that would require reopening their own archives. Some are sincere. Most are afraid. Their position: even a compromised Chair is preferable to the administrative chaos of an open schism.
+
+**Emancipatory Crowns.** Petravia, Mathevar, and equivalents with strong administrative traditions and existing tensions with White See interference in civil records. They use Severin not out of faith or justice but as the tool that breaks the Chair's monopoly on legitimacy. They want civil registers. They want genealogical records that answer to the crown rather than the Curia. They are willing to protect Severin as long as he is useful. The Chair lost the monopoly on legitimacy; the emancipatory crowns are not seeking truth — they are seeking pieces of the monopoly.
+
+**Military Exception Crowns.** Kingdoms on active borders with returning vampire territories, creature incursions, or active White Order deployment. They support the White Order's reactivation protocols because they are fighting things that do not wait for institutional reform. They are not evil. They are tired and afraid, and they believe innocence is a luxury of kingdoms that are not currently losing soldiers.
+
+**Fractured Territories.** Cities, ports, trade routes, hospital districts, frontier villages, and rural regions that do not have the luxury of ideological consistency. Some neighborhoods follow Concordatarian priests. The market district follows whoever controls the grain. The tanner's quarter follows the guild. The Low Shore follows no one and shelters anyone useful. These territories are not a block — they are the ground on which every other block maneuvers.
+
+---
+
+## XVI-K. Mathevar and the Census Corporis Regius
+
+Mathevar does not offer liberation. It offers a different captivity with better mathematics.
+
+Its Census Corporis Regius is the secular alternative to the Office of Purity: a system of body documentation based on fiscal statistics, demographic accounting, and material inspection rather than sacramental authority. It does not demand blood tested against silver. It demands quarantine of foreign arrivals, dental inspection for age and lineage markers, observation of wound-healing rate, food consumption records, and midwives as mandatory informants. Baptism is replaced by registration. Discernment is replaced by probability. The Church persecuted the blood for sin. Mathevar will administer it for risk.
+
+Mathevar is not a strong power arriving to rescue the broken world. It is also suffering. The Broken Calendar has thinned its granary reserves. Its provincial fiscal structures are beginning to fracture under harvest unpredictability. The grain it offers to the Lower City at the Civitas Cathedrae is a political investment it cannot fully afford, and some of its own provincial administrators know this. Its reform proposals are partly genuine and partly a bid to acquire the administrative infrastructure of the Church's archives before a more powerful rival does.
+
+Its relationship with the guilds will be the fracture point. Mathevar's census requires guild cooperation. The guilds have their own legal traditions about craftsman property and tool inheritance. When Mathevar attempts to incorporate the names and assets of guild dead into its fiscal register, it will find that old corporate charters are unexpectedly difficult to override.
+
+---
+
+## XVI-L. The Guilds: Custodians of the Material World
+
+The guilds are not moral institutions. They want to protect their tools, their trade, their autonomy, and their right to inherit without interference from the crown or the Church.
+
+What makes them politically important in the post-climax period is precisely that motivation. Guilds do not resist Mathevar's census because they believe in justice. They resist it because the census threatens to convert dead craftsmen's assets — tools, workshop licenses, technique knowledge, material stocks — into royal fiscal property before the guild has resolved its own internal inheritance dispute.
+
+The legal instrument that protects them is old: under corporate charters predating both the White See's Concordats and Mathevar's current administrative code, tools belonging to a craftsman who died under conditions of unresolved testimony remain part of the guild's collective undivided patrimony until the testimony dispute is formally closed. Mathevar cannot confiscate without violating laws it nominally inherits from the kingdoms it is trying to reform.
+
+When Mathevar presses, the guilds respond with what they can do without centralized command: masons let their mortar cure slightly improperly in royal buildings. Blacksmiths delay horseshoes for military supply routes. Miners retain coal shipments for an extra day pending a quality dispute. Carpenters install scaffolding that is technically adequate but requires more maintenance. Tavernkeepers are unavailable when census officers need food and lodging. Grain porters consult their weight-logs twice.
+
+None of this is a modern general strike. It is diffuse corporate sabotage, operating through the same logic of professional courtesy and technical discretion that guilds have always used to protect their margins. It costs Mathevar more than it costs the guilds, and it does so without producing anything that can be prosecuted.
+
+---
+
+## XVI-M. The Chancery of the Wound: Instruments and Limits
+
+The Chancery is not an alternative administration. It is a testimonial infection.
+
+It does not distribute grain. It does not issue civil registrations. It does not command a militia. When it attempts to do any of these things, it begins to become an institution — with all the institutional pressure to define before hearing, to classify before witnessing, to own the names it recovered. The Chancery's greatest danger is not suppression by the Curia. It is success that converts it into a new Office.
+
+The instruments it uses are deliberately limited.
+
+**Cautio Contra Usum** — the Note of Non-Possession. Issued for every name recovered by the Chancery, the Cautio states that the restored name cannot be used as a martyr by the Curia, a fiscal asset by Mathevar, moral property by a guild, or military banner by any crown, while documented gaps in that person's record remain unheard. It does not issue a civil certificate. It does not reopen inheritance. It does not list property with fiscal value. It shows the wound without pricing it.
+
+**Index Manuum** — the Index of Hands that Touched the Erasure. For every recovered name, the Chancery documents: the agents who signed, the denunciants who testified, the scribes who wrote, the beneficiaries who received the confiscated property, the neighbors who stayed silent, the midwives and bell-ringers and copy-families and death-washers whose participation maintained the erasure. The Index does not claim that every hand was equally guilty. Inherited silence is matter, not hereditary crime. But it makes visible what continued to profit from each closure.
+
+**Hostile Authentication.** The Chancery's documents cannot be entirely anonymous, or the Curia will dismiss them as pamphlets. They are authenticated using material stolen from the corrupt archive itself: old wax impressions, Iscárian case numbering, the handwriting patterns of a dead scribe, the specific fold-mark used by a particular registrar's office, prison salt residue, archive dust. The document looks anonymous to the marketplace. To the guilty, it is legible. The document was apocryphal for the square and authentic for those who knew what it was made from.
+
+**Blind Redundancy.** Every recovered fragment is replicated in three independent physical supports held by three institutions that do not coordinate directly: a masons' toolbox, a tavern's account margin, a hospice medicine ledger, a salt merchant's inventory, a wagonwright's measurement log. If one route is seized, the fact survives in two others. The Chancery does not hide a single sheet. It multiplies the whole.
+
+The Parish Archive that feeds the Chancery is not a clean database. It is a ruin that truth survives by accident: a name erased but its godparent preserved; a death record torn but the bell-tax entry remaining; a bench transferred to a new family eighteen months before it should have been; a tithe exemption issued to a beneficiary whose connection to the erased name only becomes visible when the Chancery places three fragments side by side. The Index Manuum does not read the archive. It reads the archive's scar.
+
+---
+
+## XVI-N. The Economy of Interdict
+
+The Broken Chalice cannot feed the Lower City without becoming an institution. Survival under sectoral interdict therefore belongs to no center.
+
+Guild reserves, tavern ledgers, laundress routes, low-shore contraband, Exterior salt, minor parish kitchens, family caches, and monastery diversions form a distributed economy of refusal. No single node commands the whole. That is precisely why it survives longer than a rebellion and less cleanly than a government.
+
+The Curia punishes by sector, not by total blockade. One guild's parish is closed while the neighbor's remains open. Salt goes to one street and not the next. Baptisms are recognized in one district and suspended in another. The goal is not starvation alone. It is envy: the neighbor who still has bread becomes the enemy before the institution does.
+
+The Chancery provides names. The Broken Chalice provides routes. The guilds provide matter. No one authorizes the distribution centrally because central authorization would create the institutional target the Curia needs to prosecute. When a tavern-keeper hides a messenger and a laundress carries a Cautio folded inside dirty linen, neither act requires a command from above — only the accumulated understanding that the same interdict will reach their own household eventually.
+
+The moment the Broken Chalice begins to distribute grain centrally, it begins to become an institution. That transformation is the second front of the war: not the Curia suppressing the Chalice from outside, but the logic of administration growing inside it.
+
+---
+
+## XVI-O. Protocolum Sine Bello
+
+When the Curia activates White Chimerae in Liturgical State as a political instrument — to close a public hearing, to prevent a testimony session, to sanctify a suppression — the Broken Chalice's response is not military confrontation. A Chimera in Martial State cannot be defeated by a crowd. A Chimera in Liturgical State should not be given a war to recognize.
+
+The Protocolum Sine Bello is Septima Alba's contribution: a set of technical instructions for preventing a Chimera from transitioning to Martial State without direct combat.
+
+**Do not attack.** Do not sing counter-hymns in the open. Do not call the Chimera demonic in public. Do not draw blood in its presence. Do not touch the command halo. Do not expose Severin bleeding in its vicinity. Do not create concentrated fear or the acoustic conditions that resemble a battlefield. The body does not need an enemy to activate. It needs a war to recognize.
+
+**Before the Chimera's deployment:** use civil friction. Guild traffic slows the approach routes. Heavy carts occupy the nave entrance. Tool deliveries create legitimate obstruction. Lines move slower. Guards cannot disperse obstruction without producing the public violence that would justify the Chimera's presence and give it a war.
+
+**Acoustic interference.** Bronze bells in the surrounding parishes are slightly retuned — not enough to be obviously sabotage, but enough to prevent the institutional amplification that the Chimera's command hymns require. The chapel architecture is a resonance chamber; the Chalice disrupts that chamber using the chapel's own infrastructure. The goal is not to silence the Chimera. It is to prevent the temple from amplifying coercion.
+
+**Physical position of witnesses.** Diplomatic representatives, notarial witnesses, and Exterior observers must be placed physically between the White Order's commanding officer and the Chimera's reliquary station before any order to activate can be issued. An activation order given in front of living diplomatic witnesses with legal immunity is an order that creates its own record. The White Order knows this.
+
+**The Manual of Decoupling.** Septima Alba does not appear in the courtyard. She provides in advance a technical document listing: dangerous resonance frequencies, command gesture sequences, reliquary staff functions, bell calibrations, critical transition syllables, architectural amplification points, and the specific material conditions that trigger the transition from Liturgical to Martial State. The Broken Chalice applies her science without exposing her.
+
+The Protocolum Sine Bello is not guaranteed. A determined White Order command, with enough force and willingness to absorb the political cost, can still activate a Chimera. What the protocol does is raise that cost to the point where activation requires a visible choice — and visible choices can be named, recorded, and placed in the Chancery's Index Manuum.
+
+---
+
+## XVI-P. Post-Climax Narrative Sequence
+
+The restoration of one name does not change the world. The sequence that changes the world is slow, expensive, and operates through friction, not miracle.
+
+1. Severin is purified at the Crux Mundi but receives no executive power.
+2. The Curia attempts mediation and institutional containment.
+3. The White Order imposes Custodia Testis — supervised custody of Severin as a living evidentiary body, not technically imprisoned, but not free.
+4. The twelve crowns fracture into four working blocks. No unified response emerges.
+5. Mathevar proposes the Census Corporis Regius as a secular alternative to the Office of Purity.
+6. The first name from Iscária is recovered and documented by the Chancery.
+7. The Curia isolates it as an exceptional administrative error, a single corrupt official, a correctable deviation.
+8. The second name is recovered. The Curia transforms it into a Martyr of Reconciliation — proof that the Church now corrects its own sins.
+9. The Chancery issues the first Cautio Contra Usum. The Cautio does not prevent the Curia from trying to use the second name as relic, fiscal asset, or banner of self-reform. It prevents that use from remaining clean. Any power that converts the name into possession becomes part of the Index Manuum.
+10. The Curia produces false testimonies to challenge the documentation.
+11. The Examen Materiae — a formal material hearing at guild premises — demonstrates that the false testimonies cannot replicate the physical details of the original documents. The Curia knew the forms. It could not falsify the dirt.
+12. The guilds initiate diffuse technical friction against Mathevar's census expansion.
+13. The Curia applies sectoral interdict: not total, but surgical. One guild's parish is closed while the neighbor's remains open. Salt to one district, denied to another. Baptisms recognized in one street, suspended on the next.
+14. Mathevar attempts to absorb guild property through the census. Old corporate charters resist.
+15. The Curia brings one Archangelic Chimera into Liturgical State at a public venue. The Protocolum Sine Bello prevents the event from producing the political closure the Curia intended.
+16. The third, fourth, and fifth names fall from Iscária's sealed register.
+17. The word *exception* begins to sound like guilt every time the Curia uses it.
+
+The result is not reconciliation. It is not utopia. It is a war of attrition in which every power attempts to use the dead, and the only possible victory for the Chancery is to keep each name too costly to possess cleanly.
+
+---
 
 ### 1. The Classification Scene
 
@@ -3189,7 +4364,7 @@ Hess says the name is not relevant to initial classification.
 
 Severin keeps his fingers on the page until the agent's hand shakes enough that the lamp tilts.
 
-The agent writes: *Mira.* Then, below it, the category.
+The agent writes: *Mara.* Then, below it, the category.
 
 **What this scene demonstrates:** Classification does not need hatred. It needs procedure. The horror is that Hess is not wrong by the Office's logic: he is performing triage, not cruelty. The category is real to him. The girl is secondary to the category. The moment Severin forces the name first, he is not overturning a law. He is making a different law — one the Office has no form for and therefore no defense against except force.
 
@@ -3229,7 +4404,7 @@ Cael folds the document and puts it inside his shirt, against his skin, because 
 
 ### 3. The Priest Who Refuses the Easy Demon
 
-**What is happening:** A lineage agent named Vorst has brought a woman named Danna Sev to a rectory for exorcism assessment. Danna has been found with a cache of dried blood herbs, which under White Concordat clause seven may indicate intent to falsify coagulation results at a basin test.
+**What is happening:** A White Order containment officer named Vorst has brought a woman named Danna Sev to a rectory for exorcism assessment. Danna has been found with a cache of dried blood herbs, which under White Concordat clause seven may indicate intent to falsify coagulation results at a basin test.
 
 Padre Amon Veyl is the examining priest. He is authorized to confirm demonic presence, which would transfer Danna's case from the Office to the White Order — a change that would remove the evidentiary burden from Vorst and accelerate the outcome.
 
@@ -3359,6 +4534,20 @@ The family does not sleep easily. They have done nothing. The document arrived b
 
 **Creator Heart** — the organ-source that produces Founding Blood and calls it back.
 
+
+**Sanguis Christi** — the Blood of Christ, recovered from the place of the Crucifixion and preserved alive and incorrupt after millennia. Guarded secretly beneath the base of the Crux Mundi. Not dead symbol, but living presence.
+
+**Concordia Sanguinum** — the Concord of the Bloods. The event in which the Founding Blood touches the Sanguis Christi. The bloods do not mix, devour, or replace each other; they enter harmony. The Sanguis Christi purifies the Founding Blood without erasing Severin.
+
+**Sanguis Testimonii** — the Blood of Testimony. The purified form of the Founding Blood after the Concordia Sanguinum. It restores without possessing as first law and corrects the logic of equivalence, dominion, and incorporation that threatened to carry Severin toward Cor Mundi.
+
+**Corpus Testimonii** — Severin's resurrected body after purification by the Sanguis Christi. It remains Severin's body, marked by the stigmata and crossed by the living memory of the Passion, but it is not Christ returned and not a second incarnation.
+
+**Ontological Refusal** — Severin's final refusal of Cor Mundi. Not political refusal, but denial of the expansive finality of the Creator Heart. The refusal does not cause the blood to punish him; it prevents the Creator Heart from expanding into the world-body it needed to relieve accumulated pressure. Severin dies from the hydraulic failure of a human vessel that refuses to survive by possession.
+
+**True One Blood** — the Sanguis Christi. The only blood that saves without possessing. The title appears to point toward the Founding Blood and is finally revealed to point toward the Blood of Christ.
+
+
 **Echo Sanguineus** — residue left in a person, place, or body touched by Founding Blood.
 
 **Hematic Vestiture** — external organization of Founding Blood into bandage, armor, mantle, or audience garment.
@@ -3383,13 +4572,47 @@ The family does not sleep easily. They have done nothing. The document arrived b
 
 **The Twelve Concordat Nations** — the twelve major human nations, politically distinct but juridically subordinated to the same White See legal-theological architecture. They compete as crowns but sign the same categories.
 
+
+**Matthian Veil** — devotional cartographic practice by which public maps soften or obscure Judas Iscariot by presenting a purified Matthian face, while juridical Concordat maps preserve Iscária as the penitentiary nation.
+
+**Via Duodecim** — the great Victory Road connecting the Twelve Concordat Nations. Born from the March of Victory, it is both sacred pilgrimage route and infrastructure of administrative control.
+
+**Apostolic Stations** — twelve major sanctuaries along the Via Duodecim, one in each nation, dedicated to the apostolic patron of that nation. They teach, shelter, bless, record, and later triage pilgrims.
+
+**Iscária** — the Nation of Judas Iscariot, penitentiary face of the Twelve Nations. A prison-nation governed by the principle Nullus reditus. Emptied by massacre during the last war and reactivated after the Luna Vulnata.
+
+**Orbis Extra Cathedram** — the world outside the Chair: the non-Concordat nations, peoples, empires, religions, and cultures beyond White See jurisdiction. A living refutation of the claim that recognized humanity is identical with humanity itself.
+
+**Civitas Cathedrae** — the City of the Chair, capital of the White See, built around the Mons Cathedrae at the center of the Twelve Nations.
+
+**Mons Cathedrae** — the tallest mountain in the world and vertical axis of Concordat sacred geography. The Civitas Cathedrae surrounds its base and slopes.
+
+**Crux Mundi** — the colossal Cross of the World built at the summit of the Mons Cathedrae. Visible from sacred points throughout the Twelve Nations and built over the hidden Sanguis Christi.
+
+**Septem Lumina** — the seven prismatic points integrated into the Crux Mundi, consecrated to the seven gifts of the Holy Spirit. They refract light over the capital.
+
+**Corona Luminis** — the iridescent Crown of Light formed over the Civitas Cathedrae when the Septem Lumina divide the light of heaven.
+
+**Porta Osculi** — the Gate of the Kiss, the Iscárian gate of the Civitas Cathedrae. It functions less as a common entrance than as a judicial exit for convoys sent toward Iscária.
+
+**Campus Victoriae** — the Field or Plaza of Victory in the Lower City, where doctrine says the March of Victory reached the Chair. It is a public monument of liberation and an edited stone record of concealed crimes.
+
+**Ring of Crowns** — the circle of dynastic embassies, national chapels, legal houses, and residences for royal heirs in the Middle City of the Civitas Cathedrae, where human crowns await recognition by the Chair.
+
+**Low Grace / Floor of Knees** — the great poor district of the Civitas Cathedrae, populated by failed pilgrims, petitioners, refugees, orphans, penitents, and families trapped inside unresolved ecclesiastical processes.
+
+**Scala Caeli** — the Stair of Heaven, the sacred ascent from the High City to the base of the Crux Mundi, composed of tunnels, stairs, breath chambers, chapels, and acclimatization stations.
+
+**Sanctum Silentii** — the Sanctuary of Silence beneath the Crux Mundi, reserved for the highest members of the White See. A place of prayer, deliberation, and dangerous confusion between silence and divine approval.
+
+
 **Archangelic Chimerae** — the three humanoid White Chimerae modeled on the archangels: Michaelic (war and execution), Gabrielic (command and terror hymns), and Raphaelic (forced healing and battlefield preservation).
 
 **Michaelic Chimera** — Archangelic Chimera designed for direct war, aerial execution, and high-threat target destruction. Its liturgical state resembled the warrior angel. Its martial state revealed blade-wings, exposed command halo, and a body unable to recognize peace.
 
 **Gabrielic Chimera** — Archangelic Chimera designed for command, battlefield communication, terror hymns, and army synchronization. In martial state it became a choir of coercion.
 
-**Raphaelic Chimera** — Archangelic Chimera designed for forced healing, battlefield preservation, and surgical recomposition. It healed not to restore peace but to keep war operational.
+**Raphaelic Chimera** — Archangelic Chimera designed for forced healing, battlefield preservation, and surgical recomposition. It healed not to restore peace but to keep war operational. In post-war hidden records, this specimen is also designated **Septima Alba**: the name given when its internal contradictions produced a captive witness rather than only a function. See Septima Alba.
 
 **Cherubic Chimerae** — two colossal White Chimerae designed as living fortifications for the sacred capital. In liturgical state they resembled vast sleeping monuments. In martial state they became siege engines.
 
@@ -3409,10 +4632,18 @@ The family does not sleep easily. They have done nothing. The document arrived b
 
 **Blood Dragon** — a dragon or dragon-class war creature transformed by contact with Founding Blood, creating a continental apocalyptic image publicly interpreted as the Devil by the White See.
 
+**Septima Alba** — the emergent witness within the Raphaelic Chimera body; the name given when that body's internal contradictions produced a subject capable of distinguishing between her function and her experience of it. Not an eighth principal Chimera. The seventh stable white body and the only one to develop the capacity to testify against her own architecture.
+
 
 ### Human Institutions
 
 **Crisis of the White Word** — the theological and institutional fracture triggered when the new war forces the White See to open archives from the last. The Church discovers that protocols, weapons, and lies were written in sacred language and have been transmitted as tradition. The fracture produces five internal factions with incompatible responses.
+
+
+**Restitutio Verbi** — the Restoration of the Word begun after Severin's rebirth. The opening and rewriting of sacred archives so Gospel, prayer, doctrine, protocol, weapon, and fear can be separated before the testimony of the Sanguis Christi.
+
+**Pontifex Testis** — Pontiff Witness. Title assumed by Severin after purification by the Sanguis Christi. Not a sovereign who controls the world, but a pontiff who limits the Chair, opens the archives, names the dead, dismantles the Office, and restores the Church as witness rather than possession.
+
 
 **Orthodox Concordatarians** — Church faction that defends the last war's methods as providentially legitimized by survival. They support reactivation of old protocols and containment of Severin.
 
@@ -3442,6 +4673,12 @@ The family does not sleep easily. They have done nothing. The document arrived b
 
 **Chancery of the Wound** — counter-archive of names, misclassifications, witnesses, and releases.
 
+**Broken Archives** — Fragmented cross-institutional remains of the last war. No single faction holds the whole truth. Their danger lies in forcing hostile records into relation: to read one fragment properly is to need another held by an enemy.
+
+**Book of Veins** — Regional Office ledger for irregular births and infant blood anomalies. Maintained by lineage agents and parish clerks under Office instruction. Most entries remain dormant for decades before becoming evidence in active lineage investigations.
+
+**Red-White Protocol** — Semi-hidden faction within human containment and medical-security structures. Unlike the Office of Purity, it prefers certain anomalies alive and undefined long enough to study, harvest, weaponize, or replicate useful effects. The Office wants definition in order to act. The Red-White Protocol wants to delay definition in order to use.
+
 ### Vampire World
 
 **Machina Cruoris** — vampire system of specialized lunar nations: Veil, Flesh, Blood, Iron, Crown.
@@ -3460,6 +4697,26 @@ The family does not sleep easily. They have done nothing. The document arrived b
 
 **Codex Prandii** — the vampire law governing feeding rights, tributary quotas, preservation obligations, and the calendar of blood access. Each noble house held feeding rights over specific human populations; the Codex defined the terms under which exploitation was also protection. Its restoration is what vampire hardliners offer when they offer Severin a working order.
 
+**Name Erasure** — vampire juridical punishment that severs a person from house-recognition without necessarily altering their blood. A vampire under Name Erasure retains hunger, healing, and lineage but loses all legal answers between blood and house: oaths fail, servants cannot receive commands, doors keyed to lineage hesitate, and ancestors refuse the surname. Produces blood without acknowledged house — purity without door.
+
+**Census Corporis Regius** — Mathevar's secular body-documentation system, offered as an alternative to the Office of Purity. Replaces sacramental blood-testing with fiscal statistics, demographic accounting, quarantine, dental inspection, healing-rate observation, food records, and midwives as mandatory informants. Does not pursue sin; administers risk.
+
+**Cautio Contra Usum** — Note of Non-Possession issued by the Chancery of the Wound. States that a recovered name cannot be used as a martyr by the Curia, a fiscal asset by Mathevar, moral property by a guild, or a military banner by any crown, while documented gaps in that person's record remain unheard. Shows the wound without pricing it.
+
+**Index Manuum** — Index of the Hands that Touched the Erasure. Documents every person and institution whose action or silence maintained a given erasure: signatories, denunciants, scribes, beneficiaries, neighbors, midwives, bell-ringers, copy-families, death-washers, and whoever received confiscated property. Inherited silence is matter, not hereditary crime. The Index distinguishes between the two.
+
+**Custodia Vacua** — moral nullity of an institutional custody claim over a person who died without heirs when the claiming institution itself produced the absence of heirs through imprisonment, erasure, exile, or massacre. The mother does not inherit the body of the son she killed.
+
+**Examen Materiae** — formal material-evidence hearing conducted at guild premises, outside ecclesiastical and royal jurisdiction. Uses blood-dried textiles, tools, wax impressions, salt residue, archive dust, inventory records, and structural characteristics of original documents to test testimony without live blood-testing. The Curia's difficulty in replicating the physical evidence of original documents — specific mineral pigments, pre-seal salt crystallization, left-handed tool wear, particular fold-stains — is the mechanism by which false testimonies fail.
+
+**Protocolum Sine Bello** — tactical protocol developed with Septima Alba's technical assistance for preventing White Chimerae in Liturgical State from transitioning to Martial State. Operates through civil friction, acoustic interference, architectural disruption, witness positioning, and physical obstruction of activation conditions rather than direct confrontation.
+
+**Manual of Decoupling** — technical document compiled by Septima Alba listing resonance frequencies, command gesture sequences, reliquary staff functions, bell calibrations, critical transition syllables, and architectural amplification conditions for Archangelic Chimerae. Allows the Broken Chalice to apply chimera-management science without exposing Septima Alba publicly.
+
+**Economy of Interdict** (*Oeconomia Interdicti*) — the fragmented material survival network that operates beneath and around the Curia's sectoral interdict. Composed of guild reserves, tavern networks, laundress routes, port contraband, Exterior supply lines, family caches, minor parishes, monastery diversions, and hidden salt. Not centrally commanded. Functions through distributed local knowledge and the mutual interest of people who need to eat regardless of which institution has suspended their sacramental status. The Broken Chalice provides routes, not rations; when it begins to provide rations, it begins to become an institution.
+
+**Broken Calendar** — the disruption of agricultural predictability following the Luna Vulnata. Not a universal crop failure but a regional desynchronization of harvest timing, seed germination reliability, and the lunar tables that governed planting cycles. Horror is not immediate extinction but the conversion of food insecurity into a governance instrument: grain silos, certified wells, and bread distribution become leverage points for those who control them.
+
 ### Celestial and Final Terms
 
 **Luna Vulnata** — the Wounded Moon; the blood-moon event of Severin's second birth and the abyss opening.
@@ -3472,52 +4729,9 @@ The family does not sleep easily. They have done nothing. The document arrived b
 
 **Terra-Luna** — Earth-Moon transformation into a single blood-responsive astro-organism.
 
-**One Blood** — false reconciliation by universal belonging to Severin's blood.
+**One Blood** — the title's final revelation: not the Founding Blood as universal possession, but the Sanguis Christi as the only blood that saves without possessing. The false One Blood is Cor Mundi; the true One Blood is the Blood of Christ.
 
 **Conjunction Rubra** — threshold at which the Wounded Moon bleeds into terrestrial circulation.
-
-## Arc One Working Principle: The Days of Return
-
-Arc One is not the Caldrava arc.
-
-It is the survival arc.
-
-Severin wakes after the creatures have already returned. The world is not yet globally collapsed, but local regions are entering chaos. The old war has come back in fragments: war beasts, living armor, village revenants, castle servants, pact-bound entities, and things that remember commands without remembering the kingdoms that issued them.
-
-Severin is not yet a king. He is not yet a political actor. He is a burned, executed, resurrected survivor moving through a region where the dead war has begun walking again.
-
-The revelation of Arc One: the old war has returned without command, and Severin is biologically implicated in it.
-
-He is not merely surviving the returning creatures. Some of them hesitate before him. Some recognize something in his blood. None fully obey him. This recognition is too small to be doctrine and too large to be coincidence.
-
-Caldrava appears late in Arc One as rumor, destination, and administrative horizon. It is not the subject of Arc One — it is the horizon at the end of Arc One, and the full stage of Arc Two.
-
-Arc One begins with survival horror.
-
-It ends with the first sign that chaos is becoming procedure.
-
----
-
-## Method of the Matrix Revelation
-
-Each arc pays one major truth and seeds several future truths in incomplete form.
-
-A major element may appear before its arc, but only as shadow, name, symptom, rumor, object, or local function. It should not reveal its full scale until the arc devoted to it.
-
-The four stages of revelation:
-
-1. **Shadow** — the reader senses an effect without understanding it.
-2. **Name** — the reader hears the term but does not know the scale.
-3. **Local Function** — the reader sees how it affects a scene, person, or city.
-4. **True Scale** — the reader understands the real historical, metaphysical, or political weight.
-
-Do not hide the world.
-
-Hide the scale.
-
-Each arc answers one central question: after this arc, what is the one thing the reader can never ignore again?
-
-If the answer contains several unrelated revelations, the arc is overburdened.
 
 ---
 
@@ -3527,20 +4741,60 @@ The world did not fall because a cruel king returned.
 
 It fell because a rejected man died in the one place where his blood still had a name.
 
-The old powers will try to explain him before he can answer:
+The old powers try to explain Severin before he can answer:
 
-- the Office will call him a case;
-- the Order will call him a containment event;
-- the White See will call him a theological crisis;
-- the vampire houses will call him a throne or a shame;
-- the dead kings will call him a mouth;
-- demons will call him a clause;
-- the forgotten will call him witness.
+- the Office calls him a case;
+- the Order calls him a containment event;
+- the White See calls him a theological crisis;
+- the vampire houses call him a throne or a shame;
+- the dead kings call him a mouth;
+- demons call him a clause;
+- the forgotten call him witness.
 
-Severin will have reason to hate them all.
+Severin has reason to hate them all.
 
 His sovereignty becomes new only if he learns that hatred can identify rot, but cannot be allowed to become the architecture of law.
 
 The final danger is not that he will destroy the world.
 
 The final danger is that, in trying to save everyone from the fire, he may found a world where no one can stand outside his blood.
+
+The Creator Heart offers Cor Mundi: salvation as world-body, restoration as compulsory belonging, the end of burning through a single circulation from which no creature can remain exterior. The dead kings call it sovereignty. The desperate almost call it mercy.
+
+Severin refuses.
+
+That refusal is ontological. He denies the final purpose toward which his own blood has been expanding. The Creator Heart had been seeking Cor Mundi because Severin's human body could no longer contain the scale of the bonds, debts, Echoes, names, wounds, and testimonies it carried. When Severin refuses to let the world become the chamber that would relieve that pressure, the heart has nowhere left to expand. The blood does not punish him. It fails within the limit he chose to preserve.
+
+Severin dies because he refuses to survive by making the world his body.
+
+The heart and blood remain alive. Blindly, still obeying restoration, they ascend the Mons Cathedrae and reach the secret relic guarded beneath the Crux Mundi: the Sanguis Christi, the Blood of Christ, alive and incorrupt after millennia.
+
+The Creator Heart does not know what it touches.
+
+It carries blood the Office would condemn, blood the kings would crown, and blood that would incorporate the world if left unpurified. But the Sanguis Christi does not judge Severin by the impurity of his blood. It sees the heart that refused to possess the world in the name of salvation.
+
+The Chair judged the blood to decide the heart.
+
+Christ saw the heart and purified the blood.
+
+The Founding Blood is redeemed into the Sanguis Testimonii. Severin is restored as Corpus Testimonii: still Severin, not Christ returned, not a second incarnation, marked by the stigmata and crossed by the living memory of the Passion. He is cleansed of the jurisdiction of the dead kings and of the hunger of Cor Mundi.
+
+This reveals the truth of the title.
+
+One Blood is not the Founding Blood. It is not the blood that tries to make all beings belong to Severin. The true One Blood is the Sanguis Christi: the only blood that saves without possessing.
+
+Purified, Severin accepts the Chair not to rule the world as final sovereign, but to stop the Church from confusing God with its own voice. He becomes Pontifex Testis, Pontiff Witness. He forces the Archivum Mundi into contested opening, begins the naming of Iscária's dead, makes the Chimerae impossible to keep as angels, fractures the Office's authority through testimony and refusal, judges the lies of the White Word, recognizes the Orbis Extra Cathedram as witness, and receives by name every being capable of testimony — human or not — who seeks the truth of Christ without domination, predation, or falsehood.
+
+He does this because Christ did not save a purity in him. Christ saved an impossible creature.
+
+After the war, Severin begins the Restitutio Verbi. The faithful no longer know which words are Gospel and which are protocols written by terrified men. Severin does not claim to own truth, but the Sanguis Christi restored in him the living testimony of the Word. Before that testimony, the archives are opened and rewritten. Hymns are separated from command keys. Angels are named as Chimerae where they were Chimerae. Miracles are separated from weapons. Doctrines of fear are judged. The restored Church writes not to define, but to testify.
+
+The last law of the work is simple:
+
+> Name before category.
+>
+> Testimony before sentence.
+>
+> Christ before the Chair.
+>
+> Salvation without possession.
