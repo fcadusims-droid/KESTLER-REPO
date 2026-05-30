@@ -71,7 +71,7 @@ But characters in actual scenes speak with their bodies, their exhaustion, their
 
 The test: if a line of dialogue could be inscribed on a wall without any context and still make sense as a saying, it is probably too clean for a scene. In a room with cold hands and a structural problem, a character speaks to the problem.
 
-The example from point 14 applies as a general principle: instead of *Your blood does not touch the beds. Only the joints.* — a character in the scene says: *Leave the bucket on the floor and take three steps back. I don't want a drop of that on the cloth where the children will sleep. Mix it into the lime in the corner, seal the wood, and clean your hands on the straw.*
+The example applies as a general principle: instead of *Your blood does not touch the beds. Only the joints.* — a character in the scene says: *Leave the bucket on the floor and take three steps back. I don't want a drop of that on the cloth where the children will sleep. Mix it into the lime in the corner, seal the wood, and clean your hands on the straw.*
 
 The same information. The same restraint. The difference is that the second version has a bucket, a floor, three steps, cloth, children, lime, a corner, wood, and straw. It is in a room. The first version is in a principle.
 
@@ -2063,7 +2063,7 @@ Some believe their transformation was a blessing. They hold to this not because 
 
 Others understand only later that they were offered before they could choose. The monk who volunteered at nineteen, after a life of learning that suffering for the Church is glory — was that a free choice? The orphan raised by an order from birth — did they know how to say no? The dying patient who accepted transformation — was it faith, or was death the only alternative? These are not rhetorical questions. They have specific answers for specific people, and those answers require discernment, not category.
 
-These creatures expand the central theme of the work. The question is not: are chimeras human or monsters? The question is: who was this person before the function, what was done to their body, what did they choose, what was imposed on them, and what name do they accept carrying now?
+These creatures sharpen the central question of One Blood. The question is not: are chimeras human or monsters? The question is: who was this person before the function, what was done to their body, what did they choose, what was imposed on them, and what name do they accept carrying now?
 
 ### 7K. The Sacramental Crisis
 
@@ -3205,7 +3205,7 @@ Beyond the Chair exist ancient empires, rival religions, nomadic confederations,
 
 The White See fears the Exterior not only for military reasons, but because it is a living refutation.
 
-If tens of millions of humans live outside the Chair, in old empires, nomadic confederations, commercial cities, maritime kingdoms, border peoples, rival sanctuaries, and civilizations that remember versions of history erased by the March of Victory, then the Chair is not identical with humanity.
+If tens of millions of humans live outside the Chair, then the Chair is not identical with humanity.
 
 Exterior phrase:
 
@@ -3387,7 +3387,7 @@ The city was built to say that human order ascends toward God. But the wounded m
 
 The signs begin small:
 
-one of the seven Septem Lumina hesitates;
+one of the Septem Lumina hesitates;
 
 the Corona Luminis appears with a red band;
 
@@ -3919,11 +3919,11 @@ Whether she was a Voluntaria Lucis — a volunteer in some early phase of the pr
 
 She is not the Raphaelic function of preservation, though she inhabits the body built for it. She is the remainder that can say: this is what I was made to do, and this is what it felt like to be made for it.
 
-Her encounter with Severin is the sharpest version of the contrast the document has been building: Severin is a contradiction with a heart. Septima is a function that began to witness its own fabrication. The difference is not that she is evil and he is not — it is that she has no origin that was not designed, and he has no design that was not broken.
+Her encounter with Severin is the sharpest version of a contrast that runs through One Blood: Severin is a contradiction with a heart. Septima is a function that began to witness its own fabrication. The difference is not that she is evil and he is not — it is that she has no origin that was not designed, and he has no design that was not broken.
 
 Severin cannot use her as a symbol of chimeric suffering. She may hate him. She may see him as proof that the Church failed to produce what it set out to make — and that what it set out to make was always the wrong goal. She may want liberation. She may want to be left alone. Some of those desires may coexist. That is not a problem. That is the correct condition for real discernment rather than administration.
 
-What Septima wants — outside the symbolic function the narrative assigns her — is harder to say cleanly. She may want silence, in the specific sense of no more command hymns. She may want sleep without resonance monitoring. She may want one of her preserved components, one function built into her anatomy that she cannot disengage, to be surgically removed if that is possible, or formally witnessed as not her choice if it is not. She may want to know the name of the person from whom the voluntary component of her construction came — the person who was, in some phase of the Opus, a Voluntaria Lucis — and whether that person had family who survived. She may want none of these things and want instead to be left alone to do whatever work she does now without being made into a lesson. She will not perform her testimony for Severin's benefit. If she testifies, it will be because she decided to, not because it serves the plot of someone else's redemption.
+What Septima wants is harder to say cleanly. She may want silence, in the specific sense of no more command hymns. She may want sleep without resonance monitoring. She may want one of her preserved components, one function built into her anatomy that she cannot disengage, to be surgically removed if that is possible, or formally witnessed as not her choice if it is not. She may want to know the name of the person from whom the voluntary component of her construction came — the person who was, in some phase of the Opus, a Voluntaria Lucis — and whether that person had family who survived. She may want none of these things and want instead to be left alone to do whatever work she does now without being made into a lesson. She will not perform her testimony for Severin's benefit. If she testifies, it will be because she decided to.
 
 
 ---
@@ -4208,29 +4208,37 @@ A human vessel cannot sustain continental circulation.
 
 The heart does not execute him. It implodes.
 
-The Corpus Fundans dissolves. The planetary circulation that the Coniunctio Rubra had begun to build collapses back into Severin's failing body. What remains is not the world-organ the Creator Heart sought to become. What remains is a dying man on cold stone near the base of the Crux Mundi, with a heart contracting toward its last beats and blood following its oldest law: return to source.
+The Corpus Fundans dissolves. The planetary circulation that the Coniunctio Rubra had begun to build collapses back into Severin's failing body. The Creator Heart, which for years had been the impossible organ at the center of everything he was, ruptures inward. The chest opens. Where the Creator Heart was, there is now a cavity — not a clean wound, not a surgical absence, but a hollow that the body does not know how to close, because what occupied it was never ordinary.
 
-Severin dies not from the blood's revenge but from the hydraulic consequence of refusing to become large enough to survive what he chose to carry alone.
+Severin dies.
+
+Not symbolically. He dies. The chest remains open. The Founding Blood, losing its source, disperses without destination.
 
 This is his second true death: not at the hands of the village, not by the blade of frightened men, but by the failure of a body that was never built to contain a sovereignty it refused to make infinite.
 
-## XVI-B. The Sanguis Christi
+## XVI-B. The Sanguis Christi and the Cor Imitationis
 
 Beneath the base of the Crux Mundi, in a chamber older than the cross itself, the White See guards its most secret relic: the **Sanguis Christi**, the Blood of Christ.
 
 It is not dried blood. It is not symbol. It is not residue. It is living blood, red, present, inexplicable.
 
-Christ belongs to the internal chronology of One Blood. The Incarnation of the Logos occurred in this world. The White See built its authority on a truth it later contaminated with protocols, war, archives, and fear. This is the source of the institution's tragedy — not that it was cynically false from the beginning, but that it genuinely believed it was protecting the Word while it buried the Word under its own governance. Its most dangerous bureaucrats do not think: *we are betraying Christ.* They think: *we are protecting the Logos from contamination.* That belief is what makes them spiritually tragic rather than simply corrupt.
+But the institution could not preserve living blood in a vessel that did not move. So, over centuries, engineers of sacred things — goldsmiths, theologians, liturgical clockmakers, and custodians of the Crux Mundi — built the vessel the blood required. They called it the **Cor Imitationis**: the Heart of Imitation.
 
-The Sanguis Christi is not a tool imported from outside the world's logic. It is the criterion by which the world's logic is judged — the one thing the Founding Blood cannot absorb because it operates by a law the Founding Blood has no category for: saving without possessing.
+It was a mechanical heart. White metal on the outside, darkened gold at the joints, internal silver in the channels. Microscopic valves. Small gears and interlocking chambers designed to keep the Sanguis Christi in perpetual circulation — systole and diastole, intake and release, the rhythm of a living organ reproduced in precision metalwork. While it remained in the reliquary, the heart beat by mechanism. The gears turned. The valves opened. The blood passed through.
+
+The sound was exact, reverent, almost alive. But it was still machine.
+
+The White See believed it had preserved the highest sign of Christ's mercy. And it had — but in the manner the institution preserved everything: as custody that was also containment. The Cor Imitationis did not produce grace. It maintained the blood in a form the institution could manage. The machine was support. The miracle never belonged to the gears.
+
+This is the Cor Imitationis as an inversion of the White Chimerae: the Chimerae were living bodies transformed into machines of false sanctity; the Cor Imitationis was a machine built to imitate a sacred organ. One was flesh made mechanism. The other was mechanism awaiting the moment it would become a living organ.
+
+Christ belongs to the internal chronology of One Blood. The Incarnation of the Logos occurred in this world. The White See built its authority on a truth it later contaminated with protocols, war, archives, and fear. Its most dangerous bureaucrats do not think: *we are betraying Christ.* They think: *we are protecting the Logos from contamination.* That belief is what makes them spiritually tragic rather than simply corrupt.
+
+The Sanguis Christi is the criterion by which the world's logic is judged — the one thing the Founding Blood cannot absorb because it operates by a law the Founding Blood has no category for: saving without possessing.
 
 The Church built its greatest cross over it and made the mountain proof of its nearness to God.
 
-But guarding the Blood never meant understanding the Blood.
-
-The Sanguis Christi cannot be invoked. It is not a weapon. It is not a divine technology. It does not respond to the Church as institution, to sacramental formula, or to the authority of whoever happens to guard its chamber. It does not resolve politics. It does not open archives. It does not transform Severin into an executive sovereign. It cannot be activated by prayer, ceremony, blood rite, or need alone.
-
-It only purifies Severin because Severin already refused Cor Mundi freely, at the cost of his life.
+But guarding the Blood never meant understanding the Blood. And the machine that kept the Blood in circulation never controlled the Blood.
 
 The Blood of Christ did not save Severin from his choice. It saved only what remained of him after the choice was made.
 
@@ -4238,7 +4246,7 @@ The theological formula is:
 
 > *The Chair judged the blood to decide the heart. Christ saw the heart and purified the blood.*
 
-The mechanics of what follows — the Corpus Regum Caducum, the Laceratio Sigilli, the Ictus Memoriae Christi, the Arrhythmia Gratiae, the Revocatio Sanguinis Fundatorii, and the Ortus Testimonii — are described in §XVI-C. Concordia Sanguinum.
+What follows is described in §XVI-C.
 
 ## XVI-C. Concordia Sanguinum — The Blood That Witnesses
 
@@ -4372,181 +4380,207 @@ The Sanguis Christi does not offer superior force. It offers an impossible logic
 
 The organ that nearly transformed the world into a body learns, for the first time, that saving does not require incorporation. This nearly destroys it.
 
-### 8. The Purification
+### 8. The End of the Founding Blood
 
-The purification is not aesthetic cleansing. Not whitening. Not erasure of vampire blood. Not Severin's return to simple humanity. Not denial of his history.
+The Sanguis Christi does not purify the Founding Blood into a holier version of itself.
 
-It is the removal of the logic of possession.
+It ends it.
 
-The Sanguis Christi does not find purity in Severin. It finds his choice.
+The Founding Blood attempts to use the Sanguis Christi as restoration material. It fails. It attempts to respond to the Sanguis Christi as a superior source. It fails. It attempts to transform the contact into continuity. It fails.
 
-*The Chair judged the blood to decide the heart. Christ saw the heart and purified the blood.*
+The Sanguis Christi does not compete as stronger blood. It judges. And the judgment is not absolution — it is the exposure of the possessive logic at the root of the Founding Blood as a system. Every law the Founding Blood operated by — equivalence, bond, return, incorporation, jurisdiction — meets something that operates by none of those laws. The contact does not convert. It forecloses.
 
-The purification occurs in layers.
+The Founding Blood dies as a system. Not converted into a holy version of itself. Ended.
 
-First, the jurisdiction of the ancient kings is annulled. Second, the hunger of Cor Mundi is burned. Third, the impulse to transform salvation into dominion is removed. Fourth, equivalence without grace is broken. Fifth, the Founding Blood stops seeking return as property. Sixth, the possessive bonds scattered across the world begin to dissolve. Seventh, the blood ceases to be Sanguis Fundationis and becomes:
+The Creator Heart, already ruptured, loses the last of its authority. The blood that made Severin a sovereign source, a center of return, a possible world-body — ceases. The Echo bonds that connected him to every person he saved dissolve without ceremony. The passive traces in rivers and wells and bells and old scars lose their agency. The creatures that hesitated at his presence no longer feel the pull. The architecture that answered his blood becomes ordinary stone. The debt-map of his jurisdictions closes.
 
-> **Sanguis Testimonii** — the Blood of Testimony.
+The world does not feel a healing. It feels an absence. Some experience relief. Others experience panic because the force that sustained them has simply stopped. Cities saved by blood must now survive by stone, labor, testimony, and cooperation. The Revocatio is not a gift. It is the end of a dependency that should never have been created.
 
-There is no fusion between the bloods. No consumption. No confused mixture. The Sanguis Christi remains the Sanguis Christi. The Founding Blood does not become the Blood of Christ. What happens is concordance: the inferior, wounded, contradictory, historical, and dangerous blood is purified by the logic of the blood that saves without possessing.
+The Moon, drawn toward Earth during the Coniunctio Rubra, loses the channel that pulled it. The approach stops. The orbit begins, slowly, to recompose.
 
-This is why the event is called Concordia Sanguinum — concord of the bloods — and not fusion of the bloods.
+### 9. The Girl
 
-### 9. Revocatio Sanguinis Fundatorii — The Revocation of the Founding Blood
+During the battle in the Civitas Cathedrae, before the Coniunctio Rubra reaches its peak, Severin saves a girl.
 
-When the Creator Heart is purified, the active presence of the old Founding Blood begins to withdraw from the world.
+She is not a symbol of innocence. She is dirty from the stone dust of corridors under military occupation. She is frightened in the specific way a child is frightened when the adults around her are moving too fast and none of them are explaining anything. She may be slightly wounded — a cut from a falling plaster, a bruised knee from a fall on the steps. She is hungry. She is lost.
 
-This moment is called **Revocatio Sanguinis Fundatorii** — the Revocation of the Founding Blood.
+Severin finds her in a lower corridor of the Civitas Cathedrae where soldiers and clergy are moving in opposite directions and no one is paying attention to the floor level. He does not save her as sovereign. He sees a child before he sees a function. He tells her to hide — somewhere safe, away from the noise, lower if she has to, just away from the passages where men with weapons are deciding things.
 
-This does not erase history. Does not undo all consequences. Does not render the world innocent. Does not remove scars. Does not automatically resurrect all the dead. Does not undo human decisions.
+He does not give her a name for the place. He trusts the instruction to work the way instructions work on children: imperfectly, according to the child's own understanding of safety.
 
-What disappears is the presence of the Founding Blood as jurisdiction.
+She goes down.
 
-Echo carriers cease to belong to Severin's involuntary map. Saved people cease to carry biological claim. Shared dreams stop. Saved wounds no longer respond to his pulse. Documents stop bleeding when Severin suffers. Return Tide routes close. Architecture sustained only by Founding Blood falls. Blood bridges collapse if there is insufficient real stone beneath. Walls raised by pure intervention dissolve. Hematic traces in rivers, wells, bells, graves, and archives dry or lose agency.
+Not where authority would have sent her. Where her fear tells her the noise is least. She moves through service passages and maintenance tunnels and the lower galleries of the reliquary structure until the sound of the battle is muffled by stone and depth. In the lowest accessible chamber near the base of the Crux Mundi, she finds warmth, and quiet, and something in the wall she cannot see.
 
-The world feels an absence. Some experience healing. Others experience loss. Others enter panic because the force that sustained them has disappeared. Some cities saved by blood must now learn to survive by stone, labor, food, testimony, and cooperation.
+Something beating.
 
-This matters: grace does not replace history. It removes possession.
+She does not know what it is. She sits near it because it is the only thing in the building that sounds like it is not afraid.
 
-The Moon, which during the Coniunctio Rubra had been drawing toward Earth to form Terra-Luna, loses the sanguine channel that pulled it. The approach ceases. The orbit, violated by the event, begins slowly to recompose. The Luna Vulnata does not disappear as if nothing happened — but the catastrophe of Cor Mundi is interrupted.
+### 10. The Body and the Heart
 
-The Moon ceases to be organ. It returns to being wound. And a wound can be witnessed without becoming someone's body.
+When the Concordia Sanguinum ends and the Founding Blood closes as a system, the chamber shifts. Locks that were held by the blood-pressure of the reliquary mechanism release. A panel the girl had been leaning against opens inward.
 
-### 10. The Stabilized Heart
+She does not enter because she is brave. She enters because children in enclosed dark spaces follow sound when everything else is silent.
 
-After the Arrhythmia Gratiae, the Creator Heart stops.
+Inside the reliquary chamber, the Cor Imitationis sits in its housing. The gears still turn. The blood still circulates. The sound is the same sound she heard through the wall — precise, metallic, almost alive. She watches it for a long moment, the way children watch mechanical things: not to understand the mechanism but to understand whether it is going to do something else.
 
-The chamber falls silent.
+Then she goes up.
 
-No kings. No Cor Mundi. No Founding Flood. No body of Severin. No voice of Christ.
+She follows the passages back toward the base of the Crux Mundi the way water finds the lowest surface, which in a mountain means going both up and down depending on the passage. At the edge of the summit structure, near the place where the Corpus Fundans dissolved and the floor is darkened with the residue of what happened, she finds Severin.
 
-Only the heart on the ground.
+She knows him. He is the man who told her to hide.
 
-Then it beats once.
+He is dead. His chest is open. There is nothing inside it.
 
-That first pulse is not command. It is testimony.
+She goes back down.
 
-The second pulse does not call the world. It calls Severin.
+She comes back carrying the Cor Imitationis. It is heavy for a child. The metal is warm from its own circulation. The gears still turn against her palms. She carries it the way children carry things that are too big for them: with both arms, leaning into the weight, not gracefully.
 
-The third does not seek dominion. It seeks body.
+### 11. The Prayer
 
-For the first time, the Creator Heart pumps blood without founding jurisdiction. The blood that leaves it does not attempt to conquer stone, archive, river, or wound. It does not expand to remake Cor Mundi. It does not seek to annex the saved. It does not call Echo carriers back.
+She places the Cor Imitationis in the cavity in Severin's chest.
 
-It gathers around the heart as matter obedient to another logic.
+She does not know the Concordia Sanguinum. She does not know the Ictus Memoriae Christi or the Exauctoratio Regum or any of the names that will be given to what happened here. She does not know that the blood inside the mechanical heart once circulated in the body of Christ. She does not know that every power in the world spent years trying to define, use, covet, or destroy the man lying in front of her.
 
-Not restoration by possession.
+She knows that he told her to hide and she hid, and now he has no heart.
 
-Restoration by testimony.
+The prayer is not liturgical. It is not in Veyrûm. It is not a blood rite or a sacramental formula or a recognized invocation.
+
+*You told me to hide. I hid. Come back.*
+
+Or something close to that. The exact words are hers. They do not command the miracle. They give testimony — the testimony of a person who recognized another person before recognizing a function.
+
+She is the only one in the entire arc of this story who comes to Severin without wanting anything from him.
 
 ## XVI-D. Corpus Testimonii
 
-### 11. Ortus Testimonii — The Birth of Testimony
+### 12. The Miracle
 
-The Sanguis Testimonii begins to form a new body.
+When the Cor Imitationis enters the cavity in Severin's chest, the dead flesh does not consume it. It does not reject it. It receives it.
 
-This moment is called the **Ortus Testimonii** — the Birth of Testimony.
+The mechanical heart does not stop being metal. The gears remain. The valves remain. The artificial form remains. But the way it beats changes.
 
-First comes the chest. Not as armor. As a vulnerable place of breathing.
+In the reliquary, it beat because the machine moved the blood.
 
-Then the ribs. Then the throat. Then the face.
+Now, in the body of Severin, it beats because it is alive.
 
-The face is Severin's.
+The sound changes. Before: gear, pressure, return. After: pulse, contraction, warmth, hesitation.
 
-This must be preserved. Not the idealized face of a king. Not the fabricated face of a saint. Not the face of Christ. Severin's face.
+The metal learns life. Not as an upgrade. As a miracle.
 
-His history remains: Veyr, the burned family, Ilona, Mirela, Corvin, Vespera, the fire, the flight, the blade, the Fossa, Mara, Caldrava, the dead, the archives, the guilt, the refusal. The new body is not erasure of the old. It is purification of what in the old wanted to possess.
+The Sanguis Christi passes through Severin's body once — from the new heart outward through chest, ribs, arms, hands, legs, feet, side, throat, skull, and back. It moves as a single wave of testimony: not a gift of power, not a transfer of sovereignty, not a new jurisdiction. A witnessing. The blood of Christ passes through the body of a man who refused to possess the world and leaves behind what it always leaves behind: the memory of the Passion.
 
-Then come the hands. In the hands appear the stigmata. Then the feet. Then the side.
+The memory is not clear and organized. It arrives as body. Wood and weight. Thirst and the specific sensation of iron against the bones of the wrist. Abandonment in the form of silence from a sky that could have spoken and did not. Forgiveness spoken from inside pain before the pain was finished. The specific texture of having given everything without making the recipients of that giving into property.
 
-The stigmata do not declare that Severin became Christ. That interpretation would be theological and narrative error. They declare that Severin's body was washed by the Blood of Christ and now carries, as internal testimony, the memory of the Passion. The memory is not omniscience. It is not possession. It does not replace his will. It is a wound of discernment.
+It is not pleasant. It is not glory. It is the bodily knowledge that this is what it feels like to give life without founding claim.
 
-The Corpus Testimonii is not an upgrade. The purification removed the logic of possession from the Creator Heart; by the same act, it removed the temptation to resolve the world by force of blood alone.
+The stigmata appear: the marks of the nails in the palms and feet, the mark of the lance in the side. They do not appear as wounds. They appear as completed testimony — scars that already healed, already witnessed, already answered.
 
-Severin still feels cold. Still feels hunger. Still can bleed. Still can be arrested. Still can climb stairs with failing lungs. Still needs food, shelter, witnesses, paper, a key, a voice, air, and time.
+### 13. What Severin Loses
 
-Before, the Founding Blood could alter a structure from a distance. Now, Severin must be present. Before, he could save while leaving claim. Now, he can only witness, touch, speak, open, refuse, and remain long enough for others to decide what they will do with what they saw.
+He does not regenerate. If he cuts his hand, the wound stays open until it closes the way wounds close in ordinary bodies: slowly, with risk of infection, imperfectly.
 
-The grace removed dominion. It did not remove the need for coal, food, safe passage, witnesses, ink, surface, and air. After the Crux Mundi, every action Severin takes requires a human body moving through a human world: transport, breath, surface, risk, and someone present who can later testify that it happened.
+If he bleeds, the blood falls like blood. It does not hesitate at the edge of the wound. It does not retract. It does not pulse with recognition. It falls.
 
-Christ did not return in Severin.
+He cannot command blood. Cannot impose pressure on matter. Cannot form Hematic Vestiture. Cannot call his own blood back from where it has fallen. Cannot found jurisdiction over anyone he saves. Cannot impose Echo. Cannot read the cartography of his bonds because there are no bonds. Cannot be the center of creatures, dead, documents, or cities.
 
-Christ purified Severin so Severin could testify.
+He cannot make himself harder to kill than an ordinary man.
 
-### 12. The Awakening
+If he is cold, he needs shelter. If he is exhausted, he can fall. If someone stabs him, he can die from it.
 
-Severin wakes.
+The Creator Heart is gone. The Founding Blood is gone. The sovereignty built from centuries of compressed royal memory, executed body, and impossible survival — gone.
+
+What remains is the mortal man inside the impossible history.
+
+### 14. What Severin Keeps
+
+He keeps the stigmata.
+
+He keeps the bodily memory of the Sanguis Christi's passage — not as a voice, not as ongoing guidance, not as a hotline to divine knowledge, but as the specific physical impression of what it is like to have been in the presence of grace without being owned by it.
+
+He keeps the Cor Testimonii in his chest, beating.
+
+He keeps the memory of having refused Cor Mundi — not as pride, but as the specific knowledge of what was offered and what it would have cost.
+
+He keeps his history: Veyr, the fire, Ilona, Mirela, Corvin, Vespera, the Fossa, Mara, Caldrava, the dead, the archives, the guilt, the blood, the things that were done in his name that he did not authorize, the things that were done in his name that he did authorize and should not have.
+
+He keeps responsibility.
+
+He keeps the possibility of choosing without his blood choosing for him.
+
+The memories of the Passion that arrived through the Sanguis Christi are not a bank of knowledge he can consult. They are impressions: wood, thirst, iron, abandonment, forgiveness, the particular silence of a sky that could have intervened and did not. They do not speak. They inform the quality of his attention. When he looks at a person who has been classified before being heard, he feels something that is not only his own experience. When he encounters an institution that confuses God with its own governance, he recognizes the specific shape of the error with a precision that is not only his.
+
+He does not become Christ. He does not become a new incarnation. He becomes a witness who carries, in the body, the testimony of what he survived and what passed through him.
+
+### 15. The Cor Testimonii
+
+The name changes.
+
+While it was in the reliquary, the mechanical heart was called by the White See the **Cor Imitationis** — the Heart of Imitation. It imitated a sacred organ. It maintained blood in a form the institution could manage.
+
+After the miracle, that name no longer fits.
+
+The heart no longer imitates. It lives.
+
+Its new name is **Cor Testimonii** — the Heart of Testimony.
+
+The White See built an imitation. The girl, without knowing what she was doing, delivered testimony. The grace transformed function into life.
+
+Cor Imitationis is the institutional name — the name of what the Church built and kept and administered. Cor Testimonii is the name of what it became when a child placed it in the chest of a dead man who had refused to save the world by owning it.
+
+The Church will not easily accept this. From an institutional perspective, the result is intolerable: a child without office touched the highest relic; the secret heart left the reliquary; Severin was resurrected outside an authorized rite; the Sanguis Christi acted without the Chair's permission; the miracle did not confirm the White See. It humiliated it.
+
+The institution will try to reinterpret. Some will say Severin stole the relic. Others will say the girl was deceived. Others will try to canonize the girl to recover narrative control. Others will try to deny that the mechanical heart was real. Others will say the miracle proves the White See was always correct.
+
+But the event contradicts all of it.
+
+The greatest relic of the White See became a living heart only when it left the institutional reliquary and was placed by a child in the chest of a man who refused to possess the world.
+
+### 16. The Awakening
+
+Severin opens his eyes.
 
 Not screaming. Not in terror. Not as a king. Not as a god. Not with a proclamation.
 
-He opens his eyes with tears. Not violent weeping. Not theatrical catharsis. Silent tears.
+The girl is still there. She is sitting near him on the stone, her arms around her knees, the way children sit when they are waiting and do not know what they are waiting for. She is still dirty from the corridors. She is still hungry.
 
-Because in that instant, the center of his wound was touched without being classified.
+He looks at her.
 
-For his entire life, everyone attempted to decide what he was before hearing him.
+She looks at him.
 
-The Office saw a case. The White See saw a crisis. The vampires saw a lineage. The kings saw a crown. The demons saw a clause. The Creator Heart saw a possibility of restoration. The Founding Blood saw jurisdiction.
+Neither of them says anything for a moment.
 
-The Sanguis Christi saw the choice.
+Then she says, in the direct way children address adults when the adult has done something complicated: *You were gone for a while.*
 
-It did not first judge the composition of the blood. It saw the heart that refused to possess the world.
+Severin opens his mouth and finds that it works. He is cold. The stone is very hard. His chest hurts around the Cor Testimonii — not catastrophically, but the specific ache of something new inside something old. He is hungry in the ordinary, unelevated way a body is hungry after a long time without food.
 
-This is why Severin weeps. Not because he became pure. But because he was seen.
+He does not have a speech. He does not make an announcement. He does not rise with restored sovereignty.
 
-And because he now carries a memory that is not his but does not possess him: the earthly memory of Christ, from birth to the Cross. That memory does not speak for him. Does not govern his body. Does not substitute his consciousness. It remains as a wound of discernment.
+He asks her name.
 
-When Severin looks at the world after this, he does not see with omniscience.
+She tells him.
 
-He sees with testimony.
+He remembers it. For the first time in his life, he remembers a name without his blood mapping it as a relation, a debt, a bond, a claim, or a jurisdiction. He remembers it the way a person remembers a name: because he chose to.
 
-He knows, in the blood, something the Founding Blood could never teach: saving someone does not confer right over what was saved.
+### 17. Canonical Summary
 
-### 13. Theological Consequence
+After refusing Cor Mundi, Severin dies. The Creator Heart ruptures. The chest opens. The Founding Blood, losing its source, searches for living matter and finds the Sanguis Christi inside the Cor Imitationis — the mechanical heart built by the White See to keep the Blood of Christ in circulation.
 
-The Concordia Sanguinum does not prove that Severin was pure.
+The Sanguis Christi cannot be incorporated. It judges. Through the Ictus Memoriae Christi, the earthly memory of Christ moves through the Founding Blood. Through the Exauctoratio Regum, the ancient kings' authority over the blood ends. Through the Arrhythmia Gratiae, the Creator Heart faces the logic of grace and fails to absorb it. The Founding Blood does not become a holier version of itself. It ends as a system.
 
-It proves that purity was the wrong question.
+The Revocatio Sanguinis Fundatorii is not a purification. It is the cessation of the Founding Blood's jurisdiction over the world: Echo bonds dissolve, saved wounds lose their pulse-response, architecture built only by blood falls, the Moon's approach toward Earth stops.
 
-The old world asked: What blood is this? Of which lineage? Of which category? Of which risk? Of which threat? Of which jurisdiction?
+During the battle in the Civitas Cathedrae, Severin had saved a girl. She hid near the base of the reliquary structure. After the Founding Blood ended and the reliquary chamber opened, she found the Cor Imitationis. She found Severin's body. She placed the mechanical heart in the empty chest and said something simple — the prayer of a child who recognized the man who told her to hide.
 
-The Sanguis Christi answers otherwise: What heart chose not to possess? What wound refused to become a tribunal? What power accepted death rather than transform salvation into dominion?
+The heart changes. Metal, but no longer machine. It beats as a living organ.
 
-This is why the theological formula of the Concordia Sanguinum remains:
+The Sanguis Christi passes through Severin's body once, as a single wave of testimony. The stigmata appear. Severin wakes — mortal, without powers, without the Founding Blood, without the Creator Heart.
 
-> *The Chair judged the blood to decide the heart. Christ saw the heart and purified the blood.*
+He has the Cor Testimonii in his chest. He has his history. He has the bodily memory of the Passion. He has the possibility of choosing without his blood choosing for him.
 
-### 14. Metaphysical Consequence
+The first heart made Severin survive death and nearly possess the world.
 
-After the Concordia Sanguinum, the old Founding Blood no longer exists as an active force.
-
-It cannot found Cor Mundi. Cannot annex the saved. Cannot call all Echo back. Cannot clothe Severin in hematic sovereignty. Cannot transform mercy into territory.
-
-What remains is the Sanguis Testimonii.
-
-This blood does not found empires. Does not create a world-body. Does not compel belief. Does not substitute discernment. Does not resolve politics. Does not open all archives alone. Does not undo human work.
-
-It witnesses.
-
-It permits Severin to recognize where the Word was falsified, where mercy became containment, where rite became weapon, where the angel was a Chimera, where the category killed the person, where the institution confused God with its own voice.
-
-This is why, afterward, the Restitutio Verbi can begin. Severin carries not the total mind of God, but the testimony of the Blood of Christ: memory of flesh that touched the sick, broke bread, forgave enemies, refused dominion, suffered the Cross, and gave itself without transforming the saved into property.
-
-### 15. Canonical Summary
-
-The Concordia Sanguinum begins when Severin dies after refusing Cor Mundi. His body falls at the Crux Mundi, but the Creator Heart and Founding Blood continue. Without a sufficient body, the blood forms the Corpus Regum Caducum, a temporary carcass resembling a composite of the ancient vampire kings, because their grammar still inhabits the blood: crown, pact, lineage, hunger, and command.
-
-Guided by the law of restoration, the Creator Heart searches for matter to rebuild Severin and breaks the seal of the Sanguis Christi beneath the Crux Mundi in the Laceratio Sigilli. It does not know what it touches. It attempts to read the Blood of Christ as resource, source, or living matter. The contact produces the Ictus Memoriae Christi: the earthly memory of Christ, from birth to crucifixion, moves through the Founding Blood.
-
-That memory is not omniscience, not the return of Christ, not possession. It is living testimony. The Founding Blood can receive it only because its own nature carries memory, source, residue, and contact. But what it receives is not simple information: it is the embodied logic of a life given without possession.
-
-First, that memory dismisses the ancient kings in the Exauctoratio Regum. Their authority over the blood is annulled. Then it reaches the Creator Heart. The heart enters the Arrhythmia Gratiae, beating, failing, stopping, and returning as the logic of equivalence, bond, and incorporation is confronted by grace.
-
-The Sanguis Christi does not mix with the Founding Blood, does not consume it, and is not consumed. The bloods enter concordance. The Founding Blood is purified and becomes Sanguis Testimonii.
-
-With this, all active claims of the old Founding Blood in the world are revoked in the Revocatio Sanguinis Fundatorii. Echo carriers cease to belong to Severin's map. Structures made of blood fall. The Moon ceases its approach toward Earth. The possessive presence of the Founding Blood disappears from the world, though the historical scars remain.
-
-Then the stabilized Creator Heart pumps the Sanguis Testimonii and forms the Corpus Testimonii through the Ortus Testimonii: the restored body of Severin, still Severin, with his history and his pain, but cleansed of the kings' jurisdiction and marked by the stigmata of Christ.
-
-Severin wakes without screaming. He wakes with tears — because for the first time, his heart was seen before his blood was condemned.
+The second heart made Severin lose the world and return to life.
 
 ## XVI-E. The Descent from the Crux Mundi
 
@@ -4682,7 +4716,7 @@ After the war and the rebirth of Severin, the deepest wound of the Church is not
 
 It is verbal.
 
-The White See has seen archives opened, crimes exposed, and its own authority purified by the Sanguis Testimonii. But the faithful remain before a terrible question:
+The White See has seen archives opened, crimes exposed, and its own authority confronted by what happened at the Crux Mundi. But the faithful remain before a terrible question:
 
 > What is still the Word of Christ, and what was human language written over it during fear?
 
@@ -4714,7 +4748,7 @@ And:
 
 > We will not restore the books so the Church may possess men again. We will restore the Word so no man, no people, and no creature may again be condemned by a sentence Christ never spoke.
 
-The restoration does not occur by coercion. The Sanguis Testimonii does not force belief into hearts. It testifies. It calls. It awakens discernment where there is freedom to answer.
+The restoration does not occur by coercion. Severin does not force belief into hearts. He testifies. He calls. The Cor Testimonii in his chest does not command — it bears witness. Where there is freedom to answer, the testimony finds it.
 
 For this reason, the restored canon of testimony is not born only from Severin's hand. It is also born from the poor, the condemned, the peoples of the Exterior, half-bloods, repentant vampires, conscious Chimerae, named revenants, penitent monks, opened archives, and the faithful who must relearn the difference between the voice of God and the voice of the institution.
 
@@ -4858,7 +4892,7 @@ The thirty nights are the shelf life of the salted repair. After that, someone w
 
 ---
 
-## XVI-M. The Chancery of the Wound: Instruments and Limits
+## XVI-M-2. The Chancery of the Wound: Instruments and Limits
 
 The Chancery is not an alternative administration. It is a testimonial infection.
 
@@ -5057,7 +5091,7 @@ He remembers where the door was, but not its exact height. He rebuilds the kitch
 
 On some days he stops work because memory arrives before strength. On others he works until his hands bleed — not because he needs to prove something, but because the human body still learns by repetition.
 
-This is the final inversion of the work.
+This is the final inversion of Severin's arc.
 
 Severin does not rebuild Caer Sângelună. Does not rebuild the Crux Mundi. Does not found a new capital. Does not raise a basilica. Does not construct a throne.
 
@@ -5112,13 +5146,11 @@ He is alone because he chose not to possess anyone, and chose not to be possesse
 > Severin died alone.
 > But he did not die abandoned.
 
-Or, in a form more integrated with the central theme:
-
 > He died without official witness, without record, without court. But not without presence.
 
-### 8. Structural Meaning of the Epilogue
+### 8. What the House Means
 
-This epilogue closes all the major vectors of the work.
+The epilogue closes the arc through inversion.
 
 Severin was born as hidden evidence. He dies as an unarchived person.
 
@@ -5405,13 +5437,13 @@ Padre Amon says: *Its name was not on the stone.*
 
 ### 6. The Document That Arrived First
 
-**What is happening:** On the fourteenth day of the eighth month, a sealed letter from the Office of Purity arrives at the home of the Vrann family in the town of Ceth.
+**What is happening:** On the fourteenth day of the eighth month, a sealed letter from the Office of Purity arrives at the home of the Sathe family in the town of Ceth.
 
 The letter is addressed to the head of household. It informs him that based on genealogical review of marriage records filed in the parish of Saint Marten between thirty and fifty years prior, a suspicion annotation has been placed against the family line. The annotation will remain pending civil review. In the interim, the family is requested to present themselves at the district blood-basin station within seven days for standard verification. Failure to present will constitute evidence of flight, which may be used in any subsequent proceeding.
 
 The letter is signed by a sub-registrar. It is stamped with the Office seal. The handwriting is clean.
 
-Davan Vrann reads it twice. He is forty-three years old. He has never owned anything irregular. His children have never healed wrong in public. His wife's family is from three towns away and has clean papers going back forty years.
+Davan Sathe reads it twice. He is forty-three years old. He has never owned anything irregular. His children have never healed wrong in public. His wife's family is from three towns away and has clean papers going back forty years.
 
 He calls his wife. She reads it. She asks what suspicion annotation means.
 
@@ -5506,13 +5538,17 @@ This is the correct question. The abstract theology of Cor Mundi, Coniunctio Rub
 **Creator Heart** — the organ-source that produces Founding Blood and calls it back.
 
 
-**Sanguis Christi** — the Blood of Christ, recovered from the place of the Crucifixion and preserved alive and incorrupt after millennia. Guarded secretly beneath the base of the Crux Mundi. Not dead symbol, but living presence.
+**Sanguis Christi** — the Blood of Christ, recovered from the place of the Crucifixion within this world's sacred history and preserved alive and incorrupt after millennia. Guarded secretly beneath the base of the Crux Mundi. Not dead symbol, but living presence.
 
-**Concordia Sanguinum** — the Concord of the Bloods; the event that follows Severin's death after the refusal of Cor Mundi. The Creator Heart, still obeying the law of restoration, forms the Corpus Regum Caducum and searches for matter. In the Laceratio Sigilli, it ruptures the seal beneath the Crux Mundi and contacts the Sanguis Christi. The Ictus Memoriae Christi, the Exauctoratio Regum, and the Arrhythmia Gratiae follow, culminating in the purification of the Founding Blood into the Sanguis Testimonii and the Revocatio Sanguinis Fundatorii. The bloods do not mix, devour, or replace each other; they enter concordance. The Sanguis Christi does not find purity in Severin — it finds the heart that refused to possess the world.
+**Concordia Sanguinum** — the event that follows Severin's death after the refusal of Cor Mundi. The Creator Heart ruptures, leaving the chest open. The Founding Blood, seeking matter for restoration, contacts the Sanguis Christi inside the Cor Imitationis. Through the Ictus Memoriae Christi, the Exauctoratio Regum, and the Arrhythmia Gratiae, the logic of the Founding Blood is judged and ended. The Founding Blood does not become a holier version of itself — it ends as a system. A girl whom Severin saved earlier in the battle places the Cor Imitationis in the empty chest. The mechanical heart begins to beat as a living organ. The Sanguis Christi passes through Severin once as testimony of resurrection. The Cor Testimonii is born.
 
-**Sanguis Testimonii** — the Blood of Testimony; the purified form of the Founding Blood after the Concordia Sanguinum. It does not found empires, create world-body, compel belief, or substitute discernment. It witnesses: it permits Severin to recognize where the Word was falsified, where mercy became containment, where the angel was a Chimera, where the category killed the person. It cannot resolve politics or open archives alone. It can only be present, speak, name, refuse, and remain long enough for others to decide what they will do with what they saw.
+**Sanguis Testimonii** — a term that appeared in early interpretations of the Concordia Sanguinum event. Later understanding corrected it: the Founding Blood was not purified into a holier form. It ended as a system. What remains in Severin after the Concordia Sanguinum is not the Founding Blood in a new state — it is the Cor Testimonii and the bodily memory of the Sanguis Christi's passage. The term is preserved in institutional theological documents as a failed attempt to describe what happened before the mechanics were fully understood.
 
-**Corpus Testimonii** — Severin's restored body formed in the Ortus Testimonii after the Concordia Sanguinum. Still Severin: his face, his history, his pain, his responsibility. Cleansed of the jurisdiction of the dead kings and marked by the stigmata of Christ — not as a sign that he became Christ, but as testimony that his body was washed by the Blood of Christ. Feels cold, hunger, fatigue, wound, and imprisonment. Requires food, air, witnesses, and surface. Every action after the Crux Mundi requires physical presence.
+**Corpus Testimonii** — Severin's restored body after the Concordia Sanguinum. The miracle occurs through the Cor Testimonii placed in his chest by the girl. Still Severin: his face, his history, his pain, his responsibility. Marked by the stigmata of Christ — not a sign that he became Christ, but that the Blood of Christ passed through him as testimony. Fully mortal: no regeneration, no blood command, no Hematic Vestiture, no Echo, no jurisdictional founding. If cut, the wound stays open. If stabbed, he can die. Every action requires physical presence, transport, breath, and the cooperation of other people.
+
+**Cor Imitationis** — the Heart of Imitation; the mechanical reliquary built by the White See to keep the Sanguis Christi in perpetual circulation. White metal exterior, darkened gold at joints, internal silver channels, microscopic valves, small gears and chambers replicating the rhythm of a living heart. While in the reliquary, it beat by mechanism. It maintained the Blood but did not produce grace. The machine was support; the miracle never belonged to the gears. An inversion of the White Chimerae: where the Chimerae were living bodies made into machines of false sanctity, the Cor Imitationis was a machine built to imitate a sacred organ.
+
+**Cor Testimonii** — the Heart of Testimony; the Cor Imitationis after the miracle. The mechanical heart placed by the girl in the empty chest of Severin, which began to beat as a living organ rather than a mechanism. It remains metal — the gears remain, the valves remain — but the mode of beating changed from machine-driven to alive. Cor Imitationis was the institutional name for what the Church built. Cor Testimonii is the name of what it became when a child placed it in the chest of a man who had refused to save the world by owning it.
 
 **Corpus Regum Caducum** — the Decadent Body of the Kings; the temporary structure formed by the Founding Blood around the Creator Heart after Severin's death, before the Laceratio Sigilli. Resembles a composite of the five ancient vampire kings because their grammar still inhabits the blood: crown, pact, lineage, hunger, command. Not a resurrection of the kings. A provisional carcass of blood and residual jurisdiction that dissolves after the Exauctoratio Regum.
 
@@ -5524,9 +5560,9 @@ This is the correct question. The abstract theology of Cor Mundi, Coniunctio Rub
 
 **Arrhythmia Gratiae** — the Arrhythmia of Grace; the crisis of the Creator Heart when the Sanguis Christi reaches it directly. The heart beats in incompatible rhythms — Severin's, the dead kings', a child in the womb, someone nailed to wood, a subterranean bell — because the logic of equivalence, bond, and incorporation it has always obeyed is confronted by the impossible logic of the Sanguis Christi: giving life without producing possession. The organ that nearly transformed the world into a body learns, for the first time, that saving does not require incorporation. This nearly destroys it.
 
-**Revocatio Sanguinis Fundatorii** — the Revocation of the Founding Blood; the withdrawal of the old Founding Blood's active presence from the world after the Concordia Sanguinum. Echo carriers cease to belong to Severin's involuntary map. Saved people lose biological claim. Shared dreams stop. Hematic structures fall. The Moon ceases its approach toward Earth. The historical scars remain; what disappears is jurisdiction. Grace does not replace history. It removes possession.
+**Revocatio Sanguinis Fundatorii** — the cessation of the Founding Blood's active jurisdiction following the Concordia Sanguinum. Not a purification — the Founding Blood ends as a system. Echo bonds dissolve. Saved people lose biological claim. Shared dreams stop. Architecture sustained only by Founding Blood falls. The Moon ceases its approach toward Earth. The historical scars of what the Founding Blood did remain; what ends is its ongoing agency.
 
-**Ortus Testimonii** — the Birth of Testimony; the moment the stabilized Creator Heart pumps the Sanguis Testimonii and forms the Corpus Testimonii. First the chest, then the ribs, throat, face — Severin's face — then hands with stigmata, feet, side. The formation ends with Severin waking with tears: not because he became pure, but because for the first time his heart was seen before his blood was condemned.
+**Ortus Testimonii** — a term in older institutional records for Severin's resurrection after the Concordia Sanguinum. The mechanism it described (the Sanguis Testimonii forming a new body) was later understood incorrectly. What actually occurred: the girl placed the Cor Imitationis in the empty chest; the mechanical heart began to beat as a living organ; the Sanguis Christi passed through Severin's body once as testimony. The name persists informally as a shorthand for the resurrection event, even though the mechanism it originally named was not what happened.
 
 **Ontological Refusal** — Severin's final refusal of Cor Mundi. Not political refusal, but denial of the expansive finality of the Creator Heart. The refusal does not cause the blood to punish him; it prevents the Creator Heart from expanding into the world-body it needed to relieve accumulated pressure. Severin dies from the hydraulic failure of a human vessel that refuses to survive by possession.
 
@@ -5672,7 +5708,7 @@ This is the correct question. The abstract theology of Cor Mundi, Coniunctio Rub
 
 **Chancery of the Wound** — counter-archive of names, misclassifications, witnesses, and releases.
 
-**Broken Archives** — Fragmented cross-institutional remains of the last war. No single faction holds the whole truth. Their danger lies in forcing hostile records into relation: to read one fragment properly is to need another held by an enemy.
+**Broken Archives** — fragmented cross-institutional remains of the last war. No single faction holds the whole truth. Their danger lies in forcing hostile records into relation: to read one fragment properly is to need another held by an enemy.
 
 **Book of Veins** — Regional Office ledger for irregular births and infant blood anomalies. Maintained by lineage agents and parish clerks under Office instruction. Most entries remain dormant for decades before becoming evidence in active lineage investigations.
 
@@ -5774,23 +5810,23 @@ Severin refuses.
 
 That refusal is ontological. He denies the final purpose toward which his own blood has been expanding. The Creator Heart had been seeking Cor Mundi because Severin's human body could no longer contain the scale of the bonds, debts, Echoes, names, wounds, and testimonies it carried. When Severin refuses to let the world become the chamber that would relieve that pressure, the heart has nowhere left to expand. The blood does not punish him. It fails within the limit he chose to preserve.
 
-Severin dies because he refuses to survive by making the world his body. The Corpus Fundans dissolves. The planetary circulation collapses back into his failing body.
+Severin dies because he refuses to survive by making the world his body. The Creator Heart ruptures. The chest opens. The Founding Blood, losing its source, forms the Corpus Regum Caducum — the last reflex of ancient vampire sovereignty — and searches for matter. In the Laceratio Sigilli, it contacts the Sanguis Christi inside the Cor Imitationis: the mechanical heart the White See built to keep the Blood of Christ in perpetual circulation.
 
-The Creator Heart does not cease. Without a sufficient body, the Founding Blood coagulates around it and forms the Corpus Regum Caducum — the last reflex of ancient vampire sovereignty inside the blood. Blind, still obeying the law of restoration, the heart searches for matter. In the Laceratio Sigilli, it ruptures the seal beneath the Crux Mundi and contacts the Sanguis Christi.
+The Creator Heart does not know what it touches. It tries to use the Sanguis Christi as restoration material. It fails. The Ictus Memoriae Christi moves through the Founding Blood — the earthly memory of Christ, from birth to crucifixion. The Exauctoratio Regum annuls the ancient kings' residual authority. The Arrhythmia Gratiae confronts the Creator Heart with the one logic it cannot absorb.
 
-The Creator Heart does not know what it touches.
+The Founding Blood does not become a holier version of itself. It ends as a system.
 
-The Ictus Memoriae Christi moves through the Founding Blood: the earthly memory of Christ, from birth to crucifixion — not omniscience, not possession, but the embodied logic of a life given without producing claim over what was saved. The Exauctoratio Regum annuls the ancient kings' residual authority over the blood. Then the Arrhythmia Gratiae strikes the Creator Heart directly: the organ that nearly transformed the world into a body learns, for the first time, that saving does not require incorporation.
+During the battle in the Civitas Cathedrae, Severin had saved a girl. She hid near the base of the reliquary structure. After the Founding Blood ended, the reliquary chamber opened. She found the Cor Imitationis — still beating — and Severin's body with the empty chest. She carried the mechanical heart back. No voice commanded her. No light told her what to do. She could have stayed hidden. She placed it in the cavity. Her prayer was simple: the prayer of a child who recognized the man who told her to hide.
 
-The bloods enter concordance — Concordia Sanguinum. The Founding Blood is purified into Sanguis Testimonii. The Revocatio Sanguinis Fundatorii withdraws the old blood's active presence from the world: Echo carriers are freed, possessive bonds dissolve, the Moon ceases its approach toward Earth.
+The heart changed. Metal, still. But no longer machine — alive.
 
-The stabilized Creator Heart pumps the Sanguis Testimonii and, in the Ortus Testimonii, forms the Corpus Testimonii. Severin wakes with tears — not because he became pure, but because his heart was seen before his blood was condemned.
+The Sanguis Christi passed through Severin's body once, as testimony of resurrection. The stigmata appeared. He woke — mortal, without powers, without the Founding Blood, without the Creator Heart.
 
 The Chair judged the blood to decide the heart.
 
 Christ saw the heart and purified the blood.
 
-The Founding Blood is redeemed into the Sanguis Testimonii. Severin is restored as Corpus Testimonii: still Severin, not Christ returned, not a second incarnation, marked by the stigmata and crossed by the living memory of the Passion. He is cleansed of the jurisdiction of the dead kings and of the hunger of Cor Mundi.
+What the Cor Imitationis carried became the Cor Testimonii — no longer the Heart of Imitation, but the Heart of Testimony. Severin is restored as Corpus Testimonii: still Severin, not Christ returned, not a second incarnation. Fully mortal. Marked by the stigmata and the bodily memory of the Passion. Carrying in his chest the heart that the White See built to imitate, which became real when a child placed it in the body of a man who had refused to possess the world.
 
 This reveals the truth of the title.
 
@@ -5808,7 +5844,7 @@ There he lives his final years. There he dies. Without throne, without title, wi
 
 The world tried to decide what he was before he could speak. At the end, there is no one there to name him. And this is not erasure. It is peace.
 
-The last law of the work is simple:
+The last law is simple:
 
 > Name before category.
 >
