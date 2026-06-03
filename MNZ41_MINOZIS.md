@@ -2216,6 +2216,22 @@ Squadron 6AMEꓤƎꓥO9, read in radio traffic as "Six-AME Over-Nine," is an exp
 
 The unit's specialization is the undeclared war: false-flag attacks, corporate proxy conflicts, and the contested spaces where formal military structures built around sovereignty and declared war no longer apply. Its loyalty is bonded to the ISAF ideal rather than to any one nation, which the Initiative considers its principal defense against infiltration, corruption, and desertion.
 
+### 18.1.1 Home Platform — ISN *Albatross*
+
+North Point Air Base is the squadron's administrative home and shore establishment, but the unit is not land-based in practice. 6AMEꓤƎꓥO9 is forward-deployed aboard **ISN *Albatross*** (hull designation CVN-X1), the ISAF Revival Initiative's sole multinational carrier and the physical expression of the program's entire logic: a sovereign-flagged warship belonging to no single nation, crewed by personnel seconded from former adversaries, answerable to the ISAF council rather than to any national admiralty.
+
+| Field | Data |
+|---|---|
+| Name | ISN *Albatross* (CVN-X1) |
+| Type | Conventional-takeoff CATOBAR fleet carrier |
+| Operator | ISAF Revival Initiative (multinational crew) |
+| Air Wing | Composite; mixed-origin airframes, no single national standard |
+| Status | Forward-deployed, rotating theaters; home port North Point |
+
+*Albatross* was assembled from a hull originally laid down for an Osean fleet carrier and completed under joint funding after the Lighthouse War, which is why its air wing is a deliberate patchwork rather than a clean national fleet. The wing flies whatever its multinational pilots were certified on — Osean and ISAF-standard Super Hornets, a small number of F-35C Lightnings, and a handful of foreign-origin airframes maintained at considerable logistical cost. This is operationally inefficient and politically essential: the mixed deck is the point. A carrier that can launch an Emmerian-trained pilot in an American-built stealth fighter alongside a Yuktobanian-Osean dual national in a Super Hornet is the Initiative's argument made physical.
+
+The name was not chosen lightly. The albatross is the bird that follows ships for thousands of miles without landing — and, in the old sailors' superstition, the omen whose killing curses the vessel that did it. The crew take both meanings. The ship has no homeland to return to; like the squadron it carries, it simply stays aloft over the water, belonging to no shore.
+
 ## 18.2 Why a Multinational Unit
 
 The post-Lighthouse settlement left three threats that no single state could address alone, and that recur throughout this file as the same forces that produced MINOZIS, Morgenstern, and the General Resource recovery interest.
@@ -2236,6 +2252,7 @@ The four profiles below follow the same standard applied to the principal subjec
 | Callsign | Six |
 | Age | 31 (born 1998) |
 | Nationality | Osean |
+| Aircraft | F/A-18E Super Hornet (single-seat) |
 | Position | Element 1, paired with Nine |
 
 Holloway was raised in Oured, the Osean capital, the only child of a single mother who served as an aerospace engineer for the Osean Defense Forces. His father died in an experimental aircraft testing accident in 2002, when Holloway was four; he retains no clear memory of him. With his mother frequently absent for work, he was raised largely by his paternal grandmother, a former aviation mechanic who taught him both music and machines. He entered the North Osea Aviation Academy in 2018 during the final phase of the Lighthouse War, graduating with mediocre theoretical marks and exceptional practical scores.
@@ -2250,6 +2267,8 @@ Operationally, Holloway presents as irreverent, chaotic, and disengaged. This pr
 
 His combat speech is clipped and self-interrupting, layered with slang and obscure cultural reference, and he characteristically laughs at his own joke before finishing it. He wears a beaded necklace he made at twelve — the last object he made alongside his grandmother before her stroke — on every flight. He maintains a sound system in his aircraft that reads as a joke and functions as emotional regulation under pressure.
 
+He flies the F/A-18E Super Hornet by preference, having declined a stealth-platform transition twice. The choice is psychologically legible: the Super Hornet is the rugged, forgiving, non-stealth workhorse of the deck, a machine that absorbs abuse and improvisation and brings the pilot home anyway. He flies it the way he presents himself — as something unserious and disposable — and conceals inside that presentation a man who has memorized the airframe's every limit and flies it closer to the edge, more precisely, than any stealth pilot would dare.
+
 ### 18.3.2 Hina Nichika — "Nine"
 
 | Field | Data |
@@ -2258,6 +2277,7 @@ His combat speech is clipped and self-interrupting, layered with slang and obscu
 | Callsign | Nine |
 | Age | 29 (born 2000) |
 | Nationality | Yuktobanian / Osean (dual) |
+| Aircraft | F/A-18E Super Hornet (single-seat) |
 | Position | Element 2, paired with Six |
 
 Nichika was born in Bana City, Yuktobania, in 2000. In 2010, at the end of the Circum-Pacific War, her family fled to Osea under persecution directed at suspected pro-peace collaborators. Her memories of that crossing — cold, hunger, fear — are central to her psychology. Her parents found working-class employment in an Osean electronics-component factory, and she grew up in a Yuktobanian immigrant community on the coast, where she faced sustained xenophobia. She entered the ISAF Aviation Academy in 2022 on an academic-merit scholarship, the first in her family to complete higher education.
@@ -2272,6 +2292,8 @@ Her dominant trait is performative optimism — charisma maintained as social ar
 
 In combat she and Holloway operate with near-telepathic coordination, communicating through a private vocabulary of slang and invented terms. She keeps the callsign "Nine" — a Yuktobanian lucky number — as the single public thread to her cultural origin, and sings melancholic Yuktobanian songs only when she believes she is unobserved.
 
+She flies the same F/A-18E as Holloway, a deliberate pairing that lets the two operate as a single distributed instrument. Her airframe is the only visibly non-regulation aircraft in the wing: she has had the leading edges and tail trimmed in pink, a standing irritant to deck inspectors that her squadron leader has quietly ruled within tolerance. The color is the same reclamation as the streaks in her hair — pink is the one hue absent from the gray-and-olive palette of every war she has lived through, and putting it on a frontline fighter is the most public, least deniable statement she allows herself: that the refugee they tried to make invisible is flying a war machine they cannot fail to see.
+
 ### 18.3.3 Victor James Rowan — "Over"
 
 | Field | Data |
@@ -2280,6 +2302,7 @@ In combat she and Holloway operate with near-telepathic coordination, communicat
 | Callsign | Over |
 | Age | 35 (born 1994) |
 | Nationality | Emmerian |
+| Aircraft | F-35C Lightning II |
 | Position | Squadron Leader, Element 3, paired with AME |
 
 Rowan was born in Gracemeria, Emmeria, in 1994, into a military family three generations deep — a general grandfather, a colonel father, a major uncle. He was raised under severe discipline, with daily physical training beginning at eight, and entered a young-cadet military academy between thirteen and sixteen. In 2011, at seventeen, his father was killed in a post-Circum-Pacific War stabilization operation. He served as a young officer during the Emmeria-Estovakia War of 2015–2016 and witnessed the liberation of Gracemeria, graduated with highest honors in 2016, and served as a tactical officer and advanced combat instructor in the Emmerian Air Force until 2023, when the ISAF Revival program recruited him specifically as an experimental squadron leader and senior multinational doctrine instructor.
@@ -2294,6 +2317,8 @@ His dominant trait is hypercontrol, organized around the conviction that if ever
 
 His speech is short, formal, and militarized; he avoids contractions and slang entirely and maintains a flat affect regardless of circumstance. He keeps his grandfather's mechanical pocket watch on every duty rotation, and — contradicting his minimalism in all other things — maintains a detailed personal diary, eight volumes deep, in which he processes the emotions he will not show. He memorizes the birthdays, fears, and preferences of every member while refusing to acknowledge doing so, and verifies privately that all of them returned safely after every mission.
 
+He flies the F-35C Lightning II, and the fit is exact. The aircraft rewards precisely the disposition he has built his life around: sensor fusion over instinct, information dominance over improvisation, the engagement won before the merge through discipline and preparation rather than reflex in the turn. It is the most doctrinally controlled way to fight that exists on the deck, and he flies it flawlessly. The same trait that makes him lethal in it is the one his profile flags as a liability — a pilot whose strength is never being surprised is, by construction, the pilot least prepared for the engagement that doctrine did not anticipate.
+
 ### 18.3.4 Katehild Eirhei — "AME"
 
 | Field | Data |
@@ -2302,6 +2327,7 @@ His speech is short, formal, and militarized; he avoids contractions and slang e
 | Callsign | AME |
 | Age | 32 (born 1997) |
 | Nationality | Usean (North Point) |
+| Aircraft | Rafale M |
 | Position | Element 4, paired with Over |
 
 Eirhei was born in 1997 in North Point, Usea. In 1999, at two, her family survived the Ulysses impact; her hometown was severely damaged and never fully recovered. As the eldest of three siblings, she assumed a maternal role early, under the strain of post-Ulysses parental trauma — a psychiatric-nurse mother and a civil-engineer father working on reconstruction. She trained classical ballet to a semi-professional level as an escape from the post-disaster environment, and completed an accelerated bachelor's degree in clinical psychology in three years. In 2018, during the Lighthouse War, her sixteen-year-old sister died by suicide while Eirhei was at a recital. In 2020 she abandoned both dance and clinical practice and entered the ISAF Academy.
@@ -2316,6 +2342,8 @@ Her dominant trait is hyperactive empathy — she experiences others' emotions a
 
 Her speech is soft and near-musical, built on genuine open questions, patient pauses, and a sophisticated emotional vocabulary; under stress it compresses into short clinical sentences. She wears small silver earrings, her sister's final gift, given two weeks before the death, and never removes them — a standing protocol exception her squadron leader permits without comment.
 
+She flies the Rafale M, the only foreign-origin airframe in the core flight and the hardest to keep supplied — an omnirole fighter that does every job competently rather than any single job best, asked to be everything to everyone on a deck built around other aircraft. The parallel to its pilot is not subtle, and she is the one member fully aware of it. This is the distinction that separates Eirhei from the rest of the unit and keeps the four profiles from collapsing into a single repeated shape. Holloway, Nichika, and Rowan each mask a wound without fully seeing the mask; their self-deceptions are load-bearing precisely because they are not examined. Eirhei is a trained clinical psychologist. She can name every mechanism in her own file — the martyrdom, the displaced grief, the worth contingent on rescuing others — with the same fluency she uses on everyone else, and she does it anyway. Her pathology is not blindness. It is a clear-eyed choice to spend herself, made by the one person in the unit equipped to know exactly what it costs. That is a more dangerous condition than ignorance, because insight has not bought her the ability to stop, and it means the standard intervention — making the subject see the pattern — will not work on her. She already sees it.
+
 ## 18.4 Unit Dynamics
 
 The formal hierarchy runs Rowan, then Holloway, then Nichika, then Eirhei. The emotional hierarchy inverts it almost completely: Eirhei sits at the center, then Nichika, then Holloway, with Rowan orbiting at the edge. On mission the unit functions as a single instrument; off mission it resembles a dysfunctional family with deep mutual attachment.
@@ -2328,11 +2356,29 @@ The unit assembled in late 2026 with considerable friction — Rowan resisting t
 
 After every mission Eirhei convenes a circle in which each member names one thing they felt. Holloway always jokes; Nichika is always honest; Rowan always passes until, eventually, he offers something — usually that the mission was adequate.
 
+### 18.4.1 Reference Engagement — Operation GLASS FERRY, October 2028
+
+The unit's combat character is best illustrated by a single documented action, included here because the bar-table dynamic described above behaves very differently at four hundred knots.
+
+In October 2028, 6AMEꓤƎꓥO9 was tasked to interdict a corporate-proxy convoy moving stolen ADF-11F drone-control modules through the San Salvacion neutral corridor before they reached a buyer assessed as a neo-Belkan cell. The complication was civilian: the convoy had been deliberately routed through a refugee transit column, betting that ISAF rules of engagement would not permit a strike with non-combatants in the blast footprint.
+
+The recovered mission audio is a compressed portrait of all four.
+
+Rowan, reading the same feed, called the strike off — doctrine was unambiguous, the civilian density exceeded threshold, and he began to compose the abort. Holloway, who had already dropped low for the run, saw what the protocol could not: the drone modules were on the lead three vehicles, physically separable from the column if someone was willing to fly a gun pass close enough to take only those, in a window of perhaps nine seconds, at a risk profile no doctrine would authorize. He did not ask. He called "Double or Nothing" — the first time in the engagement anyone had — and committed.
+
+What the audio captures next is the unit working as designed. Nichika, without a verbal command, was already in the cover position his maneuver would require, because she had heard the tone in his voice before he finished the word. Eirhei, on the same channel, did the thing she does: she translated. To Rowan she said only "Over — he sees the separation, trust the read," compressing a justification the abort logic could not contain into five words a commander could act on. And Rowan, who by every line of his own profile should have held the abort, did not. He gave one word — "Cleared" — and let his second take a shot that command would never have signed.
+
+Holloway took the three lead vehicles and nothing else. The refugee column was untouched. The modules were destroyed. The after-action review recorded a successful interdiction with zero civilian casualties and noted, in the dry register of such things, an "out-of-doctrine engagement authorized by on-scene commander discretion."
+
+The engagement is retained in this annex for a specific reason. It is the precise inverse of the dynamic that produced MINOZIS. Here a system of four humans, each carrying the exact hesitations their profiles describe, produced — through trust, translation, and a commander willing to override his own rigidity for the length of one word — a decision that was both faster than doctrine and more humane than doctrine. It is the case study for what the gap between the correct order and the human cost can produce when the people inside it are permitted to close it themselves. Whether the same four would hold together against an enemy engineered to widen that gap rather than reward its closing is the open question this entire annex exists to flag.
+
 ## 18.5 Callsigns and Insignia
 
-The four callsigns encode a single phrase. Read in sequence — 6, AME, OVER, 9 — they spell out "Game Over," with the six standing for the sixth letter of the alphabet and the nine closing the line. The individual meanings layer onto that structure.
+The four callsigns encode a single phrase. Read in sequence — 6, AME, OVER, 9 — they spell out "Game Over," with the six standing for the sixth letter of the alphabet and the nine closing the line. The squadron treats this as a joke about enemy fate: game over for whatever they are sent to kill. But the phrase carries a second reading none of them intended and all of them have since noticed, because it sits inside the same historical moment as everything else in this file. These are among the last human aces — the final generation to fight in the cockpit before autonomy displaces the role. "Game Over" is also the era's epitaph. The pilots who chose it as a boast are the pieces being removed from the board. MINOZIS, Morgenstern, and the drone remnants they hunt are all the same announcement from the other direction: the human game is ending, and these four spelled it across their own aircraft without knowing they were reading the future.
 
-Six (Holloway) carries a deliberate double reading: the high-reward number in dice, matching his approach, and the mortuary sense of "six feet under," a dark joke about death that masks a real fear of dying in a cockpit. Nine (Nichika) is a Yuktobanian lucky number and her one public cultural thread, also carrying connotations of completeness — pointedly ironic for someone who has felt incomplete since the crossing. Over (Rowan) derives from the radio sign-off and signals his instinct to close emotional connections and keep distance, while remaining unable to give "over" to his own feeling. AME (Eirhei) reads three ways: rain, in the sense of the element that both nurtures and drowns; a poetic compression of Katehild to Kate to AME; and an Old Norse root associated with soul or spirit — fitting for the member who is the unit's emotional weather, sustaining it and occasionally being submerged by it.
+The individual meanings layer onto that structure.
+
+Six (Holloway) carries a deliberate double reading: the high-reward number in dice, matching his approach, and the mortuary sense of "six feet under," a dark joke about death that masks a real fear of dying in a cockpit. Nine (Nichika) is a Yuktobanian lucky number and her one public cultural thread, also carrying connotations of completeness — pointedly ironic for someone who has felt incomplete since the crossing. Over (Rowan) derives from the radio sign-off and signals his instinct to close emotional connections and keep distance, while remaining unable to give "over" to his own feeling. AME (Eirhei) is, on its surface, simply the audible core of her name — Katehild compresses to Kate and then to the three letters that anchor the insignia's center. But she chose it for a private reason recorded only in her academy file: in her family's Nordic line the syllable echoes an old word for the breath or spirit that leaves the body at death, and she took the callsign in the year she stopped dancing, after the sister whose breath she arrived twenty-three minutes too late to keep. She has never explained this to the unit. They believe it is just the middle of her name. It is, and it is also the thing she carries that none of them can read — the same way she sits at the literal center of the insignia and the emotional center of the squadron while remaining the member no one fully sees.
 
 The squadron insignia renders two dice in motion, thrown and tumbling in opposite directions: one showing six, wreathed in orange and red flame; the other showing nine, burning pink. Between them the lettering AMEꓤƎꓥO completes the sequence 6AMEꓤƎꓥO9 in metallic type. Behind the dice sit four aces, one of each suit — four of a kind, one ace for each member. The unofficial motto is "Double or Nothing," used operationally as a code for total commitment, the point at which retreat is no longer an option.
 
@@ -2344,7 +2390,7 @@ Each member carries the insignia personally. Nichika has added real rhinestones 
 
 ## 18.6 Operational Context and Loyalty Risk
 
-The squadron occupies the corporate-transition period between the Lighthouse War and the eventual consolidation of the megacorporations. In that window Belkan technology circulates on the black market, General Resource and Neucom build power without yet acting openly, nation-states are weakened but not obsolete, and the wars are gray — undeclared, proxied, deniable. The unit sits on the frontier between the old world of war between nations and the emerging world of war between corporations and diffuse ideologies. They are, in effect, among the last conventional aces before automation displaces the role entirely — the same displacement Belyaev spent fourteen years warning about, arriving from the opposite end of the same period.
+The squadron occupies the corporate-transition period between the Lighthouse War and the eventual consolidation of the megacorporations. In that window Belkan technology circulates on the black market, General Resource and Neucom build power without yet acting openly, nation-states are weakened but not obsolete, and the wars are gray — undeclared, proxied, deniable. The unit sits on the frontier between the old world of war between nations and the emerging world of war between corporations and diffuse ideologies, tasked to fight the orphaned weapons of the previous age while the age that will make their own role obsolete assembles itself around them.
 
 The active belligerents of the era overlap substantially with the threat environment described throughout this file. Technologically, the squadron contends with Belkan drone remnants — ADF-11F Ravens, MQ-101s, replicated Z.O.E. systems — and with the early, indirect weapons supply of consolidating corporate actors. Ideologically, it faces neo-Belkan extremists still pursuing the old borderless vision, anti-ISAF nationalists in Erusea and Estovakia who read the Revival Initiative as disguised imperialism, and corporate elements probing the limits of private versus state power.
 
