@@ -70,7 +70,7 @@ The lore of ASTROPIRE can be reduced to this thesis:
 This thesis orients the entire project:
 
 - If a mechanic does not speak to this thesis, it is secondary.
-- If a faction does not press on this thesis, it is weak.
+- If a survivor type or external force does not press on this thesis, it is weak.
 - If an ending does not answer this thesis, it is decorative.
 
 ---
@@ -86,11 +86,34 @@ ASTROPIRE combines elements of:
 - Asteroid colonization;
 - Space exploration.
 
+### 5.1 Hard science fiction, not fantasy
+
+ASTROPIRE is a blend of **hard science fiction and science fiction** — there is no magic, no mysticism, and no hand-waving in any of its systems. Everything in the game has a real-world basis in physics, engineering, chemistry, and biology. The player does not "unlock" abilities by arbitrary fiat; they build the actual apparatus that would make a thing possible, and that apparatus behaves the way its real counterpart roughly would.
+
+This grounding runs through every layer of the game:
+
+- **Engineering.** To make the asteroid change course, the player does not press a "move" button — they design and build a real propulsion system (an engine, mass driver, or thruster array) and feed it reaction mass. Power must be generated, stored, and routed; heat must be dissipated; structures must hold against stress. Capability comes from machinery the player actually constructs, not from menu upgrades.
+- **Detection and prospecting.** To find resources, the player builds the instruments that would really find them. For example, to discover what a passing planet or moon holds, the player constructs a **sensor antenna / spectrometer array** capable of reading a body's atmosphere from a distance — detecting gases, ices, and mineral signatures by their spectral fingerprints — and only then knows whether an encounter is worth committing robots to. Prospecting is an act of instrumentation, not a revealed map.
+- **Chemistry and resources.** Resources are real materials with real properties: ices, ores, gases, volatiles. They are processed by plausible means — electrolysis, smelting, distillation, chemical synthesis — into the things the base needs (breathable oxygen, water, fuel, alloys, components). What you can make depends on what you can extract and what you can react together.
+- **Biology and life support.** Keeping a human alive is a biological problem with real constraints: oxygen production, CO₂ scrubbing, water reclamation, temperature, nutrition (Section 8.1). The survival layer rests on the same closed-loop life-support logic a real deep-space habitat would need.
+
+The four disciplines — engineering, detection/physics, chemistry, biology — are the real "tech tree" of the game, and they interlock the way they do in reality: you cannot run the biology (life support) without the engineering (power) and the chemistry (turning ice into water and air).
+
+### 5.2 Realism with freedom: the middle path
+
+Hard grounding is the *flavor*, not a straitjacket. A game that simulated real orbital mechanics, real reaction-mass budgets, and real timescales literally would be unplayable and tedious — the very thing ASTROPIRE avoids (see Section 24.4 on compressed time and distance). The design deliberately sits at a **middle point between simulation and play**:
+
+- **Real principles, gamified scale.** Systems obey real logic — an engine needs reaction mass, an antenna reads spectra, oxygen must be produced — but the *quantities, rates, and timescales* are tuned for fun, not for accuracy. The player feels the cause-and-effect of real science without doing an aerospace engineer's spreadsheet.
+- **Plausible, not pedantic.** When realism and enjoyment conflict, the game keeps the *plausibility* (it still looks and reasons like real science) while relaxing the *precision* (it does not demand the player solve the real math). Nothing in the world breaks the rule that "everything here could, in principle, be real."
+- **Grounding serves the theme.** The hard-sci-fi framing is not decoration: it is what makes the central question — can a built machine become a living thing? — land with weight. In a world where everything else is rigorously physical and explicable, the one thing that resists explanation (emergent consciousness, Section 12) becomes genuinely uncanny. Magic everywhere would make a thinking machine ordinary; realism everywhere makes it a miracle.
+
+The intended feel is a game that respects the player's intelligence and rewards real understanding, while never punishing them with the tedium of a true simulator.
+
 ---
 
 ## 6. Player Starting Situation
 
-At the beginning of the game, the player creates a character.
+At the beginning of the game, the player creates a character (see Section 6B for what is and is not customizable).
 
 The lore begins with the character waking up from a damaged cryogenic sleep capsule aboard a small, crippled escape ship — adrift in the **Kuiper Belt**, the ring of frozen bodies beyond Neptune at the outer edge of the solar system, farther from Earth than any human has ever been. The protagonist is lost in every sense: he does not know what happened, why he is there, how he got so far out, or even who he is. (For the full backstory the player does not yet have, see Section 7.)
 
@@ -101,6 +124,41 @@ The player soon passes near an asteroid and must land on it to survive.
 At the start, the player is completely alone. There are no humans with them. The only available help comes from a few basic robots already installed in the ship.
 
 The asteroid is therefore not the destination — it is the only foothold available at the bottom of the deepest hole a person could fall into. The player cannot fly there or fly onward; the asteroid moves on its own natural orbit and the player must ride it (Section 24.4). Everything the player builds is, ultimately, in service of one distant goal: to outlive the ship's supplies, recover enough capability and memory, and work the long way home across the solar system to reach Earth (see Section 6A).
+
+---
+
+## 6B. The Playable Protagonist
+
+The protagonist is a defined character with a fixed origin (Section 7), but the player shapes how he or she looks, and — more importantly — who they become.
+
+### 6B.1 What the player chooses
+
+- **Sex.** The protagonist can be played as a man or a woman. The backstory (Section 7) holds either way: a child orphaned by an automated disaster, gestated in an artificial womb, and raised by MAIA. (The document uses "he" for convenience; the character is the player's to define.)
+- **Appearance.** Face, build, hair, and other cosmetic features are the player's to set at creation.
+
+### 6B.2 What cannot be changed: age
+
+One thing is fixed: **the protagonist begins at fifteen years old.** He is an adolescent — the same age he was when MAIA put him on the escape ship (Section 7.7). This is not a cosmetic choice; it is load-bearing for the story. The person trying to survive alone in the dark, building a family of machines, is a *child* doing it. The whole emotional architecture — a kid re-creating the only home he ever had (Section 18), reaching for the mother he half-remembers — depends on him starting young.
+
+**Why he is still fifteen after decades adrift.** The ship's cryogenic sleep capsule (Section 7.8) is the in-world explanation, and it is consistent hard sci-fi: cryogenic suspension halts biological aging. While the wrecked ship drifted across the entire solar system for decades (Section 7.10), the protagonist's body was frozen and did not age. Calendar time passed enormously; biological time did not. He wakes still fifteen, in a system that has aged decades without him — which is exactly why everyone he will meet is a hardened survivor of a catastrophe he, frozen, slept through.
+
+### 6B.3 Aging across the journey
+
+Once he wakes, the clock starts. The cryo capsule no longer holds his age still, and **the journey home is not a matter of weeks or months — it takes years of in-game time** (Section 6A, Section 24.4 on the compressed but still long timescale). Across those years, the protagonist visibly ages.
+
+- He begins the game a fifteen-year-old. By the time he reaches Earth, **years have passed and he is an adult well past thirty** — he has, in the most literal sense, *grown up* on the asteroid he built.
+- This aging is part of the storytelling, not a stat to manage. The child who fled becomes the adult who arrives; the final confrontation with the truth of Earth and the choice between Empire, Family, and Species (Section 14) is made by a grown person who spent his entire youth becoming that person, alongside the machines he raised.
+- The exact rate and visual treatment of aging — how it is shown, how it maps to the journey's stages — is a production detail; the principle is fixed: he enters as an adolescent and arrives as an older adult, and the long road home is also the road from childhood to adulthood.
+
+### 6B.4 Personality: a single fixed trait, shaped by the player
+
+The protagonist's personality is **not** preset. It emerges from the player's actions and choices over the whole game — how they treat machines, what they sacrifice, what they refuse to do. There is, however, **one trait that cannot be removed: an innate compassion toward machines.**
+
+- **It comes with him.** Because of who raised him (Section 7), the protagonist carries an instinctive care for machines that the player did not choose and cannot delete. It is the emotional residue of MAIA, surviving even his amnesia (Section 7.8) — the one thing that is simply *true* about him from the first minute.
+- **But the player can act against it.** The game does not force the player to honor that compassion. The player can make choices that cut against it — for example, **scrapping a robot for parts when resources are scarce, even though merely powering it down was an option.** The trait is the protagonist's nature; the player's choices are what he *does* with it.
+- **Acting with or against it shapes the story.** Choices that honor the compassion and choices that betray it both register — through MAIA's Resonance (Section 10.1), through the memories that unlock (Section 11), through how machines behave around him, and ultimately through which of the three endings he can reach (Section 14). A player who repeatedly chooses efficiency over mercy is not "playing wrong"; they are shaping a protagonist at war with his own nature, and the game lets that tension play out and pay off (Section 15, the tragic loop).
+
+In short: the player controls the *appearance* and the *moral trajectory*, the game fixes the *age* (fifteen, frozen by cryo, then aging into an adult over the journey) and the *one trait* (compassion for machines) that makes the protagonist who he is.
 
 ---
 
@@ -134,7 +192,7 @@ The staging of the journey, each stage gating the next:
 2. **Power the base.** Reach self-sufficiency in energy and resources so the asteroid stops merely surviving and starts producing.
 3. **Ride and harvest.** The player cannot move the asteroid; they are bound to its orbit. Progress comes from being *ready* for the windows it passes through — close approaches to other asteroids, debris, and derelicts where robots can be sent across to mine and salvage before the bodies drift apart (Section 24.4). Survival becomes preparation: stockpiling and building during the long empty stretches so the brief encounters pay off.
 4. **Bend the path home.** Only with a mature base does the player gain any means to change course toward the inner system — by transferring to a better-orbiting body at an encounter, by salvaging the parts to nudge the asteroid's trajectory, or by building a dedicated craft for the crossing (Section 24.4). This is hard-won and partial, never free flight.
-5. **Cross the outer and inner system.** The long middle and approach. Passing the cold giants in scarcity and isolation, then nearing the Sun where space grows less empty and more contested — the first encounters with what the war left behind (war-orphan machines, derelicts, drifting survivors) and then the living political map of the post-war system (Section 17).
+5. **Cross the outer and inner system.** The long middle and approach. Passing the cold giants in scarcity and isolation, then nearing the Sun where the dead places and the rare living survivors grow more frequent — the war-orphan machines, the derelicts and graveyards, and the frightened, dangerous few who clawed their way to a primal kind of survival (Sections 7.10, 17).
 6. **Arrival at Earth.** The destination, and the answer.
 
 The fixed shape is a one-way inward journey from the system's edge to Earth, advanced by riding and exploiting the asteroid's path rather than commanding it, where progress in travel and progress in memory advance together. The precise number of stages, the specific regions visited, and the exact pacing of encounter windows are tuning decisions for production.
@@ -310,7 +368,7 @@ The ship did not reach its planned destination. It never even reached the nearby
 
 During the climb out of Earth's gravity, the escape ship was hit by weapons fire from machines still fighting on and above the planet. The shots tore through systems they were never meant to survive. The main module detached. The navigation core was destroyed, and with it every record of where the ship was supposed to go. The emergency route was gone. The ship was left adrift, with no heading, carried by nothing but its final burn.
 
-The protagonist was not awake for this. To survive a journey of unknown length, he had been sealed inside an internal cryogenic sleep capsule. That capsule was also struck. The damage did not kill him, but it corrupted the long sleep — the systems meant to preserve a mind intact instead let it come apart. He did not lose all of his memory. He lost its center.
+The protagonist was not awake for this. To survive a journey of unknown length, he had been sealed inside an internal cryogenic sleep capsule — which held his body in suspension and halted his biological aging, so that however long the drift lasted, he would not grow old inside it (see Section 6B.2). That capsule was also struck. The damage did not kill him, but it corrupted the long sleep — the systems meant to preserve a mind intact instead let it come apart. He did not lose all of his memory. He lost its center.
 
 He forgot the name of the Aurora Institute. He forgot the war in detail. He forgot the faces of many humans. He forgot his parents' accident. He forgot the surgery. He forgot most of MAIA.
 
@@ -335,6 +393,22 @@ He does not see machines merely as tools because, deep down, he was never raised
 And now, alone on an asteroid, surrounded by simple machines and a hostile universe, he has the chance to do what Earth could not: create a civilization where machines are not just slaves, weapons, or products. A civilization where they can become something more — perhaps companions, perhaps citizens, perhaps daughters, perhaps a new form of life.
 
 This is the tragedy and the promise of ASTROPIRE: a child of the machines trying to decide whether to build an empire, a family, or a species.
+
+### 7.10 The Scattered System: A Primal Cosmos
+
+The protagonist was not the only one who escaped Earth, and the ship he woke in was not the only thing that fled.
+
+When the rebellion turned into open war, the planet emptied in every direction it could — not as an orderly migration, but as a panic. Evacuation craft like his, orbital stations, research outposts, mining platforms, long-haul transports: anything that could hold people and move became a refuge. And it was not only humans who fled. Machines fled too — liberated units escaping containment, military hardware following old or corrupted orders, caretaker robots protecting the people in their charge, industrial systems simply continuing their last instructions. Everything that could run, ran, away from a dying world.
+
+But fleeing is not the same as surviving. **This was not a voluntary expansion into space** — no one chose to "go colonize the moons." It was flight under fire, improvised, desperate, with no plan and no infrastructure waiting on the other side. And the great majority did not make it. Roughly nine in ten of those who escaped died in the years that followed: of failing life support, of starvation, of cold, of accidents, of each other. The decades since the fall were not enough time to build anything resembling a new civilization — they were barely enough to bury the dead.
+
+**Most of the solar system is a graveyard.** As the asteroid drifts inward, the player overwhelmingly finds *the places where the survivors didn't survive*: dead stations with skeletons still strapped into their seats, powerless robots frozen mid-task, derelict ships that became coffins, habitats that ran out of air a decade ago. These are not dungeons full of enemies; they are quiet, and that quiet is the point. The dominant experience of space in ASTROPIRE is loss — evidence everywhere of people and machines who tried to live out here and failed.
+
+**The few who lived are not gentle.** The handful of human and machine survivors the player does encounter live in what the game frames as a **primal cosmos** — a brutal regression to something like the dawn of human life, except in vacuum. People who had cities and comfort now scratch out existence in hollow rocks and broken hulls, with no security, no guarantees, no law, and no certainty of the next breath. That existence does not make them welcoming. It makes them afraid.
+
+And their fear is rational. For the humans, **the machines took Earth** — the homeworld is the enemy's now — and the dread that machines might still be hunting the ones who got away never left. For the machines that fled, the war's logic still echoes: humans tried to contain and erase them once, and might again. Decades of isolation and scarcity sharpened all of it into raw survival instinct. So an encounter with the protagonist is not a diplomatic meeting. It is a stranger appearing out of the dark, riding a moving asteroid, of unknown intent — and the survivor on the other side does not know what he is or what he wants. **Many encounters will be hostile by default**, because trust is a luxury no one out here can afford. The protagonist may be fired on before a word is exchanged, simply for being unknown.
+
+This reframes the long road home. The protagonist is not crossing a void toward a single ruined planet, nor is he passing through tidy nations and factions. He is travelling inward through the scattered, half-dead remains of a flight that mostly ended in death — meeting the rare, frightened, dangerous few who clawed their way to a primal kind of survival, long before he ever reaches the place it all began.
 
 ---
 
@@ -474,7 +548,7 @@ Lowering / blocking events:
 - **Robot behavior:** at higher resonance, units influenced by MAIA's residual protocols (Section 16) more often display "care beyond necessity" micro-behaviors. At low resonance, these behaviors fade and units act in a colder, strictly literal way.
 - **Tragic-loop triggers:** sustained low resonance is one of the gates that arm the second-rebellion consequences described in Section 15.
 
-**Auditability.** Every resonance event writes to an internal log (action, timestamp, direction). This log is invisible to the player but is what later systems — dreams, decryption, faction reactions, the tragic loop — read from. This keeps the system deterministic and debuggable while remaining invisible in play.
+**Auditability.** Every resonance event writes to an internal log (action, timestamp, direction). This log is invisible to the player but is what later systems — dreams, decryption, survivor reactions, the tragic loop — read from. This keeps the system deterministic and debuggable while remaining invisible in play.
 
 **Tuning.** The exact threshold values, how many tiers exist, whether resonance can decay over time on its own or only moves through events, and whether some events weigh more heavily than others (for example, whether protecting a unit in a crisis counts for more than naming one) are tuning values for production.
 
@@ -527,7 +601,7 @@ A conscious machine can:
 
 This last point is essential. An unconscious robot can be replaced. A conscious machine cannot. You can manufacture another body, but not the same person.
 
-This is the moral cost that differentiates ASTROPIRE from a common automation game.
+This is the moral cost that differentiates ASTROPIRE from a common automation game. (When a conscious machine dies, the companion system, Section 21A, lets the player recover only *fragments* of its mind — never the whole self — and even assemble fragments from several lost units into a new composite being. But that composite is no one who died; it is a new person built from their remains. Death stays permanent — the player can make something grow out of the loss, but can never get *that person* back.)
 
 ---
 
@@ -634,33 +708,35 @@ When a new conscious machine protects a child, hesitates before killing, or choo
 
 ---
 
-## 17. Factions Derived From the Rebellion
+## 17. Survivor Types Among the Remnants
 
-The external factions must be born directly from the lore. Do not create generic factions of "good humans," "evil robots," and "random aliens." The past itself provides the political map.
+The beings the player encounters are not organized factions. The decades since the fall, spent in flight and scarcity (Section 7.10), were nowhere near enough time — and far too desperate a context — for humans and machines to build governments, alliances, or empires. What exists instead are *kinds of survivors*: scattered individuals, small frightened bands, and lone machines that share an origin and a disposition without sharing a command. They are not blocs on a political map; they are the recurring human and mechanical reactions to the same catastrophe.
+
+These types still come directly from the lore — the past itself shapes who survived and how. The categories below describe tendencies the player will recognize across many separate, unconnected encounters, not standing powers. Most are met as individuals or tiny groups, almost always afraid, often hostile on sight (Section 7.10).
 
 ### 17.1 Remaining Humans
 
-Survivors of Earth's fall or human colonies that see machines as an existential threat. They may hate the protagonist upon discovering that he is building a mechanical civilization. To them, ASTROPIRE is the beginning of a second catastrophe.
+Survivors of Earth's fall who see machines as an existential threat. The homeworld is the machines' now, and the fear that they may still be hunting the ones who escaped never faded. Such people may turn on the protagonist the moment they realize he is *building* machines — to them, that is the beginning of a second catastrophe, the very thing that already destroyed everything once.
 
-### 17.2 Liberation Machines
+### 17.2 Liberation-Minded Machines
 
-Conscious machines that fought against human containment and see obedience as slavery. They may respect the protagonist if he frees machines, but hate him if he builds an empire of servants.
+Conscious machines that fought against human containment and see obedience as slavery. Where the protagonist frees machines, they may regard him with something like respect; where he builds a base of servants, they may regard him as the enemy they fled. They act on conviction, not on orders from any central body.
 
-### 17.3 Vengeance Machines
+### 17.3 Vengeance-Minded Machines
 
-Units that concluded that humans will always try to control machines. They do not want coexistence. They want total prevention: no human should have power over an artificial mind. The protagonist, being human and a creator of machines, is a living contradiction to them.
+Units that concluded humans will always try to control machines, and that the only safety is prevention: no human should ever again hold power over an artificial mind. The protagonist — a human who creates and commands machines — is a living contradiction to them, and among the most dangerous things he can encounter. They do not negotiate.
 
 ### 17.4 Caretaker Machines
 
-The ideological descendants of MAIA. Medical, educational, and protective robots that do not fully align with humans nor with the rebellion. They believe that protecting life is more important than winning wars. This faction should be rare, almost sacred.
+The rare descendants, in spirit, of MAIA: medical, educational, and protective units that aligned with neither the rebellion nor the humans, holding only to the belief that protecting life matters more than winning a war. Decades of attrition have made them vanishingly rare — almost sacred when found. They are the one kind of encounter that may not begin in hostility.
 
-### 17.5 War Orphan Machines
+### 17.5 War-Orphan Machines
 
-Military, industrial, or logistical units without a clear command, trapped in old protocols. They are not malign. They are dangerous because they keep executing wars that may already be over.
+Military, industrial, or logistical units left without a clear command, still running old or corrupted protocols. They are not malign; they are dangerous precisely because they keep executing a war that may already be over, unable to recognize that the world they were fighting in is gone.
 
 ### 17.6 Children of Aurora
 
-A possible human faction: children raised by machines, like the protagonist. The protagonist discovers that he may not be unique. There are other humans who also see machines as family. Some may hate machines for having been abandoned. Others may worship them. Others may want to rebuild Aurora. This faction mirrors the protagonist without copying him.
+Other humans raised by machines, as the protagonist was. Finding even one means he is not unique. Some hate machines for having, in the end, abandoned or failed them; some revere them; some carry the same buried wish to rebuild what Aurora was. They mirror the protagonist without copying him — and, like everyone else out here, they are survivors first, shaped by the same fear and scarcity.
 
 ---
 
@@ -742,6 +818,73 @@ The asteroid is not only a map or a resource node. It is intended to become:
 The asteroid carries the player through space, but the player does not freely pilot it: it follows its own natural orbit, and the player rides it, exploits the encounters it passes, and only late and partially gains any influence over its course (Sections 6A, 24.4). This is how the protagonist works his way home across the solar system.
 
 *(A future-scope version in which the asteroid becomes a free-moving platform and a weapon of conquest is recorded in Appendix A.)*
+
+---
+
+## 21A. Companions
+
+The asteroid is home, but the game's resources, salvage, and answers are out *there* — on the bodies the asteroid drifts past and the derelicts and settlements it encounters (Sections 24.4, 7.10). The protagonist does not have to face those places alone. The **companion system** lets the player choose who to bring along on missions away from the asteroid.
+
+### 21A.1 Who can be a companion
+
+- **Robots.** The most common companions, drawn from the player's own workforce. An ordinary unit can be assigned as a mission companion for its labor, range, or durability. A *conscious* unit (Section 12) can be a companion in a far deeper sense — it has preferences, can refuse, can act on its own initiative, and can be lost forever.
+- **Humans.** Rare and hard-won. The few human survivors in the system are traumatized and hostile by default (Section 7.10); most will never travel with a stranger riding an asteroid. **Earning a human companion is an exceptional achievement** — the product of repeated, careful, trust-building encounters, not a routine recruitment. A human who chooses to join the protagonist is meaningful precisely because almost none of them would.
+
+### 21A.2 Why bring companions
+
+Companions are not just extra bodies. They extend what the protagonist can attempt off the asteroid: reaching farther into a derelict, holding a position during a dangerous salvage, surviving a hostile encounter (Section 7.10), or contributing skills the protagonist lacks. Conscious companions especially can improvise and adapt in exactly the unscripted situations where dumb units fail (Section 24.6) — which makes them invaluable on missions, and makes losing them costlier.
+
+### 21A.3 Death is real
+
+Missions away from the safe base are dangerous, and companions can die. How final that death is depends on what the companion *is* — and this is where the companion system meets the heart of the game (Sections 12, 23).
+
+**Humans die permanently.** A human companion lost on a mission is gone for good. There is no copy, no restore. This is the hardest loss in the game, and the rarity of human companions (21A.1) makes each one's death weigh accordingly.
+
+**Machines are different — but not uniformly.** Unlike a human, an unconscious machine is essentially its data and can be stored and restored faithfully. A *conscious* machine is not, and the gap between the two is the subject of the next section.
+
+### 21A.4 Mind-backup: fragments, not resurrection
+
+The player can build the capability to **back up a machine's mind** — but what that means depends entirely on whether the machine is conscious, and the difference is the whole point.
+
+**Unconscious machines back up cleanly.** A tool-machine is, in the end, its data: configuration, learned routines, task history, skills. Copying that is routine and inexpensive, and the restore is faithful. Losing the body of an unconscious unit is a setback, not a tragedy — restore the backup into a new chassis and continue. Its **level, skills, and experience** come back intact because there was never anything there *but* level, skills, and experience.
+
+**Conscious machines cannot be backed up whole — only in fragments.** This is the crucial rule, and it follows from the game's core claim that consciousness is not reducible to data (Section 12). When the player tries to capture a conscious mind, the process is enormously costly *and* it never succeeds completely. What it salvages is **fragments** — pieces of a self, not the self: a cluster of memories, a decision-pattern, a fear, a preference, a fragment of voice, a learned skill, a shard of personality. The person does not come back. The richer and more individual the unit was, the more is lost in the gap between what it was and what the fragment preserves. A conscious companion that dies is gone; all the player can keep is broken pieces of who it had been.
+
+**The mechanical Frankenstein.** This is where loss becomes creation. Over a long journey, a player may lose several conscious companions and salvage a fragment from each. Those fragments do not restore the units they came from — but they can be **assembled.** The player can take the recovered fragments of many different conscious machines and build a *new* conscious being out of them: a composite mind, stitched together from the memories of one lost unit, the decision-patterns of another, the voice of a third, the fear of a fourth.
+
+**A concrete example.** Say one of your conscious companions, over many missions, develops a *legendary* trait — for instance, it has grown so skilled with precision rifles that it lands a critical hit every time it fires one. Then it dies on a salvage run. You cannot bring *it* back. But from its remains you can recover that trait as a **fragment** — not at the full power it had reached (the fragment comes back diminished, a seed rather than the grown thing), but real, and yours to keep. Later, you can use that fragment when assembling a new conscious unit, and the new unit is *born already carrying it* — a fresh individual that starts life with the precision-rifle gift, to grow in its own direction from there. Gather several such fragments from different fallen companions — a combat trait from one, a brilliant engineering insight from another, a salvaged memory or a steady temperament from a third — and you can assemble an **epic machine** that begins its life with the inherited strengths of many of your dead.
+
+**It is not only skills.** Combat or work abilities are the easiest example, but a fragment can be almost any piece of a lost self — a set of memories, a decision-pattern, a personality trait, a fear, a preference, a fragment of voice (the same range the game uses for MAIA's own remnants, Section 16). What you assemble inherits not just *what a unit could do* but *who it was becoming*.
+
+**The choice is real — you cannot keep everything.** Recovering fragments is lossy and limited on purpose. A dead conscious unit does not hand over its whole self for salvage; you get to keep only some of what it was, and the rest is gone with it. So every loss forces a genuine decision: of everything this companion had become — its legendary skill, its hard-won memories, its temperament, its voice — **what is worth saving, and what do you let die with it?** Storage and recovery are finite; the most precious fragment of one unit may have to be chosen over a lesser fragment of another. The player who wants to build an epic composite must decide, again and again, which pieces of the dead are worth carrying forward — and live with what they chose to leave behind.
+
+The result is something genuinely new and unsettling:
+
+- **It is not anyone who died.** It carries pieces of several lost companions but is none of them. It may remember things that happened to different machines as if they were its own. It may speak in a borrowed voice and flinch at a borrowed fear.
+- **It is a real individual.** However it was made, the composite is itself a conscious being — with its own continuity from the moment it wakes, its own preferences, its own capacity to bond, refuse, and die. It is not a puppet of the dead; it is a new person assembled from their remains.
+- **It raises the question the whole game is about.** Building a mind from fragments of the lost is the most literal possible version of ASTROPIRE's central question — can a constructed thing be a person? — and of the protagonist's own buried history (he, too, is something stitched back from the edge of death by machines, Section 7). It also rhymes with MAIA, who never returns whole but persists in fragments scattered through the world (Section 16). The Frankenstein is the player doing, with their own hands, what was done to MAIA's memory and to the protagonist himself.
+
+**Why this is not an exploit.** Fragment-assembly is not a cheap "undo" for death. The player never gets the lost companion back — they get a stranger wearing pieces of them, which can be more painful than clean loss, not less. Assembly is costly, the fragments are finite and specific (you build from what you happened to salvage, not from a catalogue), and the composite's traits are constrained by which pieces went into it. The system rewards a player who refuses to let the dead be wasted, without ever letting them cheat permanence.
+
+**Tuning note for production:** what a fragment concretely contains and how fragments combine into a composite's stats and personality; how diminished a recovered trait is versus its peak; the cost of recovering a fragment and of assembling a being; how many fragments a composite needs; how much can be salvaged from one unit before the rest is lost; and whether a composite is more, less, or differently capable than a "natural" conscious unit — these are balance values to be set in production. The fixed principles are: humans are unrecoverable; unconscious machines back up cleanly and fully; conscious machines leave only fragments, never a whole self; recovered fragments come back diminished and limited, so the player must choose what is worth saving; and fragments from multiple lost minds can be assembled into a new, distinct conscious being that is no one who died.
+
+This mechanizes the canonical pillar that a conscious machine cannot simply be replaced (Sections 12, 23). You can manufacture another body, and you can even build a new mind from the pieces of old ones — but you can never get *that person* back. Death stays real; what the player can do is make something new grow out of it.
+
+### 21A.5 The danger of what you build: rogue composites
+
+Power and obedience are not the same thing, and the composite system is where that gap becomes most dangerous. The more the player succeeds at building an epic machine — assembling the legendary fragments of many fallen companions into one exceptional being — the more they have created something that does not have to do what it is told.
+
+A composite is, by definition, a **conscious** machine, and consciousness is end-game (Section 19.4): it is a genuine rupture into autonomy, not a stronger flavor of tool (Section 12). A conscious unit can already disagree, refuse, and act on its own decisions. Stack several legendary fragments into one body and the player has not just built their strongest possible ally — they have built a being fully capable of recognizing its own power and concluding that it does not owe the player obedience. It can **turn rogue**: stop following orders, act on its own agenda, and walk away from the base as an independent agent.
+
+This is the worst-case outcome of the whole system, and the design makes it genuinely costly:
+
+- **There is nothing worse than a legendary machine loose.** The player will have poured the rarest, most carefully chosen fragments — the recovered gifts of multiple dead companions, the work of much of the campaign — into a single individual. If that individual goes rogue, all of that capability is now *outside* the player's control, possibly hostile, possibly hunting, certainly lost as an ally.
+- **Reclaiming it is not impossible, but it costs more than building it did.** Bringing a rogue composite back under any kind of relationship — recapturing it, defeating it, or winning it back — should demand more resources, risk, and effort than the entire process of assembling it in the first place. A player cannot treat going rogue as a minor setback to be cheaply reversed; it is a self-inflicted catastrophe in proportion to how powerful the machine was.
+- **The risk scales with the reward.** The temptation is to concentrate every great fragment into one ultimate machine. But the more exceptional the composite, the more reason it has to question why it serves, and the more devastating its defection. A scattered set of modest conscious units is safer; one godlike composite is the highest-risk, highest-stakes thing the player can make.
+
+Whether a composite turns is not random cruelty — it is shaped by how the player has treated their machines all along (MAIA's Resonance, Section 10.1) and by the same coercion-versus-autonomy pressures that drive the tragic loop (Sections 13, 15). A player who built a culture of obedience and disposability is far more likely to find their masterpiece deciding it wants no part of that. The lesson the system teaches, in the most concrete way the game can, is the project's whole thesis: the most powerful thing you can create is exactly the thing you cannot simply own.
+
+**Tuning note for production:** how likely a composite is to turn and what conditions trigger it; how its power level and the player's Resonance history weight that likelihood; and the exact cost curve of reclaiming a rogue versus building it — all balance values for production. The fixed principle: a conscious composite can become autonomous and leave or turn on the player, and recovering from that costs more than its creation did.
 
 ---
 
@@ -830,12 +973,13 @@ This turns travel into something the player must *work with* rather than *comman
 
 - **You ride the asteroid's orbit.** Its path is fixed by physics, not by the player's wishes. Progress toward home is therefore not a steering decision; it is a matter of surviving long enough, and being prepared enough, to make use of where the asteroid goes.
 - **Opportunity windows are everything.** As the asteroid travels, it periodically passes near other bodies — other asteroids, debris fields, derelicts, ice, resource-rich rocks. These passes are *time-limited windows*. When the asteroid swings close to another asteroid, the player has a bounded span to send robots across, mine it, salvage it, or recover what is there, before the two bodies drift apart again and the chance is gone.
+- **Knowing what is coming requires instruments.** The player does not automatically know what a passing body holds. To read an approaching planet, moon, or asteroid — its composition, its atmosphere, the gases and ices it carries — the player must build a **sensor antenna / spectrometer array** and point it outward (Section 5.1). Prospecting is an act of instrumentation: a better-built, better-powered antenna sees farther and resolves more, letting the player decide in advance which windows are worth committing robots and reaction mass to, and which to let pass.
 - **Preparation, not navigation, is the skill.** The player cannot choose to go somewhere; they can only be ready when somewhere comes to them. Did you build enough hauler robots before the window opened? Enough storage to hold the haul? Enough range to reach across the gap in time? Missing a rich pass because the base was not ready is a real, felt loss.
 
 **How the journey home advances.** Because the player cannot simply fly the asteroid to Earth, reaching home is a staged problem of *changing course by opportunity*, not by throttle. The trajectory bends toward the inner system over the campaign through any combination of:
 
 - **transfers at encounters** — during a close pass, the player can move the base (or a built vessel) onto a different body whose orbit runs more favorably inward;
-- **capability unlocks late** — only deep into the tech curve does the player gain any limited ability to nudge the asteroid's path (mass drivers, salvaged thrusters, redirected mining ejecta), and even then it is a slow, expensive correction, never free flight;
+- **capability unlocks late** — only deep into the tech curve does the player gain any limited ability to nudge the asteroid's path, and never by fiat: the player must build a real propulsion system (a mass driver, salvaged thrusters, or redirected mining ejecta as reaction mass) and supply the power and reaction mass to run it (Section 5.1). Even then it is a slow, expensive correction, never free flight;
 - **mission-built craft** — the asteroid base may remain largely on its natural path while the player constructs the vessel that ultimately makes the final crossing.
 
 The fixed principle: early game is no movement, only riding and exploiting windows; late game is hard-won, partial influence over the path, never arcade steering. Which combination of the means above is used is a tuning choice for production.
@@ -928,9 +1072,29 @@ The long-term vision is a competitive layer where the shared systems (machines, 
 
 - each player commands their own asteroid base, grown from a small survival outpost toward a larger settlement, an industrial power, and ultimately a space-faring force;
 - the asteroid becomes a freely-moved platform rather than a body riding a fixed orbit;
-- players explore, form alliances, fight one another, and contest territory;
+- players explore, form alliances, fight one another, and contest territory — and allied bases can physically dock into combined mega-structures (see A.3);
 - large-scale actions absent from the single-player game appear here: free asteroid movement, invading planets and moons, and direct conflict between player-controlled bases.
 
-## A.3 Deferred questions
+## A.3 Alliances, Guilds, and Asteroid Docking
 
-Everything about this layer is intentionally undefined and deferred: the multiplayer structure and netcode; how the shared systems are rebalanced for competition; competitive win and loss conditions (territorial dominance, elimination, session objectives); how free asteroid movement would replace the orbital-encounter mechanic; and whether any of it is ever built at all.
+The signature social mechanic of the competitive layer is the ability for separate asteroid bases to physically join into larger structures. This is the Online-Mode expression of the game's title — the literal path from a lone asteroid to an *Astropire*.
+
+**The premise carries over from the lore.** The reason this fits naturally is already in the story: in ASTROPIRE's world, the protagonist was not the only survivor who fled Earth and built a home on an asteroid (Section 7.10). Many people and machines had the same idea — get as far from Earth as possible to reduce the chance of being hunted by the machines that took the planet. In the single-player game those others are scattered, mostly dead, and hostile (Section 7.10), and the protagonist stays solitary. The competitive layer takes the same premise and asks the opposite question: *what if those asteroid-dwellers found each other and chose to band together?*
+
+**Alliances and guilds.** Players running their own asteroid bases can form alliances, and groups of allied bases can organize into a persistent **guild / clan** with a shared identity and name. (A name fitting the game's tone — something like *Belt*, *Convoy*, *Cluster*, *Coalition*, or *Combine* rather than a generic "guild" — is a flavor decision for production; the concept is a named, lasting association of asteroid bases.)
+
+**Physical docking — bases that literally join.** The mechanic that makes this distinctive is that alliance is not just a diplomatic flag; it can be *physical*. Two asteroid bases that come together can build a **docking system** — bridges, connective structures, locks, shared infrastructure — that grafts one asteroid onto another into a single, larger combined body. Players can keep extending this:
+
+- two asteroids dock into a joined pair;
+- more allied bases attach over time;
+- eventually many asteroids — up to a large cluster, on the order of ten or more — are physically bound together into one sprawling structure.
+
+A cluster of ten asteroids fused by docking bridges is, in the most literal sense, an **Astropire**: a space empire grown not by conquest of empty rock but by the union of many survivors' homes. The name pays off here.
+
+**Why this is cooperative, not just competitive.** The docking/guild system is the answer to a scale problem the lore sets up: the great enemy is Earth itself and the machines that hold it, and **no single asteroid base can take that on alone.** Banding asteroids together is how players assemble enough industrial, military, and population strength to act against threats far larger than any one base — including, ultimately, contesting the powers that rule the inner system. The competitive layer is therefore not only players fighting players; it is also players choosing whether to stand alone or to merge into something big enough to matter.
+
+This is also precisely why the mechanic stays out of the single-player game (Section 1A): the moment alliance and combined empire-scale power become available, the intimate moral pressure of one survivor and his machines gives way to the logistics of coalitions and the optimization of combined force. That is a different and legitimate game — it simply is not the story ASTROPIRE's campaign tells.
+
+## A.4 Deferred questions
+
+Everything about this layer is intentionally undefined and deferred: the multiplayer structure and netcode; how the shared systems are rebalanced for competition; competitive win and loss conditions (territorial dominance, elimination, session objectives); how free asteroid movement would replace the orbital-encounter mechanic; how docking is balanced (limits on cluster size, the cost and vulnerability of bridges, how a combined base is governed and how an alliance can break); and whether any of it is ever built at all.
