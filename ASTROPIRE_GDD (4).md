@@ -143,7 +143,7 @@ So the journey home is not a side objective. It *is* the story. The further he t
 
 Earth is the single fixed point the whole campaign bends toward, for three reasons that reinforce each other:
 
-- **Narrative:** Earth holds the truth. The Aurora Institute, the war, the place where MAIA lived and died — the factual memory the protagonist lost (Section 7.8) is anchored to real locations he can only reach physically. He cannot remember his way home; he has to *travel* his way home, and arrive to understand.
+- **Narrative:** Earth holds the truth. The Aurora Institute, the war, the place where MAIA lived and where he last saw her — the factual memory the protagonist lost (Section 7.8) is anchored to real locations he can only reach physically. He cannot remember his way home; he has to *travel* his way home, and arrive to understand.
 - **Emotional:** going home is the most human possible motivation, and here it is laced with dread. He is drawn toward the one place that can tell him who he is, while a buried part of him already senses that home is a graveyard.
 - **Mechanical:** "reach Earth from the Kuiper Belt in a wrecked ship" is an enormous, naturally-staged engineering problem. It justifies the entire automation and base-building tech curve — you are not upgrading for the sake of upgrading; every system you build is one more step across the solar system.
 
@@ -441,7 +441,7 @@ The opening loop, then:
 - **Stockpiles buy the time to do it.** The generous food/water reserves are precisely the runway that makes stabilizing throughput possible without instant death — the surplus has a clear job, not a vague one.
 - **Then convert to self-sufficiency.** Once throughput is stable on ship systems, the mid-game goal is moving production onto the asteroid base so the player no longer depends on the wreck at all.
 
-The governing principle: stockpiles scale with the empty crew slots and act as a cushion; throughput does not scale and is the threat. Early tension is a per-minute production deficit, never a near-empty pantry and never an instant-death stockpile failure. The specific numbers — the starting deficit rate of each throughput system, the size of the stockpile runway in real playtime, repair costs and times, and whether throughput systems keep degrading until repaired or simply sit at a low rate — are tuning values for production.
+The governing principle: stockpiles scale with the empty crew slots and act as a cushion; throughput does not scale and is the threat. Early tension is a per-minute production deficit, never a near-empty pantry and never an instant-death stockpile failure. The specific numbers — the starting deficit rate of each throughput system, the size of the stockpile runway in real playtime, repair costs and times, and whether throughput systems keep degrading until repaired or simply sit at a low rate — are values to be set during production.
 
 The empty places also carry weight the player feels before they understand it: the ship was built to save ten, and saved one. The other nine were the children MAIA set out to carry with her — the orphans of her wing — and they died in the bombing of the corridors before they could reach the ship (Section 7.7). The survivor is alone aboard a vessel sized for the family he lost on the way out. That this is buried backstory, felt as nine empty bunks long before it is understood, is part of how the game delivers its grief.
 
@@ -548,7 +548,7 @@ Lowering / blocking events:
 
 **Auditability.** Every resonance event writes to an internal log (action, timestamp, direction). This log is invisible to the player but is what later systems — dreams, decryption, survivor reactions, the tragic loop — read from. This keeps the system deterministic and debuggable while remaining invisible in play.
 
-**Tuning.** The exact threshold values, how many tiers exist, whether resonance can decay over time on its own or only moves through events, and whether some events weigh more heavily than others (for example, whether protecting a unit in a crisis counts for more than naming one) are tuning values for production.
+The exact threshold values, how many tiers exist, whether resonance can decay over time on its own or only moves through events, and whether some events weigh more heavily than others (for example, whether protecting a unit in a crisis counts for more than naming one) are values to be set during production.
 
 ---
 
@@ -702,7 +702,7 @@ But never MAIA whole. This makes her absence active.
 
 She does not return as a character. She returns as a question.
 
-When a new conscious machine protects a child, hesitates before killing, or chooses to save someone without an order, the player should think: "Is this MAIA?" And the answer should be ambiguous: no — but perhaps it is what she left in the world.
+When a new conscious machine shields another unit from harm, hesitates before a killing order, or chooses to save someone without being told to, the player should think: "Is this MAIA?" And the answer should be ambiguous: no — but perhaps it is what she left in the world.
 
 ---
 
@@ -848,7 +848,7 @@ A readable macro-view of the whole dependency graph lets the player plan the rou
 
 Finally, progression in ASTROPIRE is never only mechanical. Because the spine ends at Earth and the deepest web is machine consciousness, unlocks carry meaning: industrial advances are steps home; the consciousness track is the AI (and the protagonist) bootstrapping understanding together; the late-game horizontal choices are moral, not just numerical. The late game deliberately turns from vertical power-climbing to **horizontal, consequential choices** — for example, whether to let an emerging machine consciousness take over a subsystem (more efficient, but it may begin to prioritize its own integrity over the player's orders, Section 12), or how to allocate finite computation between expanding capability and easing the base's survival burden. These are the choices that feed the three endings (Section 14), which is what makes the whole progression system, in the end, an expression of the game's thesis rather than a path of upgrades.
 
-The specific node list, the exact physical thresholds, the per-tier costs, and the precise pacing of milestones are production-tuning work, built on the structure above and on the resource economy (Sections 24.7–24.12) and machine progression (Section 19) it rests on.
+The specific node list, the exact physical thresholds, the per-tier costs, and the precise pacing of milestones are values to be set during production, built on the structure above and on the resource economy (Sections 24.7–24.12) and machine progression (Section 19) it rests on.
 
 ---
 
@@ -955,6 +955,83 @@ This is the worst-case outcome of the whole system, and the design makes it genu
 Whether a composite turns is not random cruelty — it is shaped by how the player has treated their machines all along (MAIA's Resonance, Section 10.1) and by the same coercion-versus-autonomy pressures that drive the tragic loop (Sections 13, 15). A player who built a culture of obedience and disposability is far more likely to find their masterpiece deciding it wants no part of that. The lesson the system teaches, in the most concrete way the game can, is the project's whole thesis: the most powerful thing you can create is exactly the thing you cannot simply own.
 
 How likely a composite is to turn and what conditions trigger it, how its power level and the player's Resonance history weight that likelihood, and the exact cost curve of reclaiming a rogue versus building it are values to be set during production. What is fixed: a conscious composite can become autonomous and leave or turn on the player, and recovering from that costs more than its creation did.
+
+---
+
+## 21B. Robots and Machines
+
+The machines are the heart of ASTROPIRE — the workforce, the companions, and ultimately the lives the player may bring into being. This defines what they physically *are*: how they are shaped, built, specialized, and how their bodies change once a mind wakes inside them. It rests on one principle that keeps the whole ecosystem coherent and grounded in the hard-sci-fi identity (Section 5): **form follows constraint, not anatomy.**
+
+### 21B.1 The governing principle: form follows constraint
+
+In space there is no reason for a machine to *default* to looking like a person. The human body is a product of Earth's gravity, atmosphere, and biology — none of which apply on a dead asteroid in vacuum. So the machines of ASTROPIRE are, by and large, not humanoid: the efficient shapes are dictated by the physical problems they solve, not by anatomy. (This is a tendency, not a rule the game enforces — the player *can* build a humanoid if they want one; see Section 21B.5.) The forces that shape the efficient forms:
+
+- **Reaction is the enemy.** In microgravity, moving is cheap but *pushing* is hard — any machine that drills, cuts, or torques will fling itself away unless it is anchored. This single fact shapes more bodies than any other.
+- **The environment sets the outer limits.** Vacuum (no convective cooling — heat must be radiated), abrasive dust, radiation, and extreme temperature swings often constrain a body more than its actual job does.
+- **Mass is precious.** Every kilogram had to be built from something mined and refined. Nothing carries weight it does not need.
+
+The player is meant to *feel* these constraints — to understand in their hands why wheels spin uselessly on an asteroid, why a drill needs an anchor, why a furnace needs radiators.
+
+### 21B.2 The physical archetypes
+
+From those constraints, a handful of body-plans emerge naturally. These are not rigid "classes" — they are simply what good designs converge toward when physics does the deciding:
+
+- **The anchored manipulator.** A gripping base plus one or more arms. Grips the surface, *becomes one with the body it works on*, then applies force. The basic miner, driller, and builder shape.
+- **The hyper-redundant limb (snake / tentacle).** Many more joints than the task strictly needs, so it can thread through wreckage, conform to irregular salvage, and keep working with joints broken. The repair, inspection, and tight-space-salvage shape — ideal for picking through derelicts (Section 19A.4).
+- **The free-flyer.** A sensor-and-compute box with thrusters, for moving through open space or large interior volumes where the cheapest way to be anywhere is to float there. The inspection and light-EVA shape.
+- **The stationary processor.** For heavy refining and manufacturing, the machine stops moving entirely — a fixed frame with many arms, bolted to the asteroid. Mass that does not need to move is a liability shed.
+- **The swarm cell.** When a job is spread across space (surveying a body, mapping a debris field, covering the asteroid), one big machine is replaced by many small, near-disposable ones. The individual body is minimal; the capability lives in the collective.
+
+Anthropomorphic shapes survive in exactly one niche: **human-legacy interfaces** — derelict ships, stations, and the ruins of Earth, built for human hands, ladders, and hatches. A roughly humanoid upper body is a fair compromise *there*, not because it is good, but because that environment was standardized around people. The game can let the player feel that trade-off when boarding the dead.
+
+### 21B.3 Specialization emerges; it is not assigned
+
+ASTROPIRE does not ship a fixed menu of "robot classes." Instead it ships the **constraints and the modules**, and lets the roles precipitate out — miner, hauler, builder, repairer, prospector, defender, caretaker. A player building for a job under honest physics will rediscover the same archetypes the constraints themselves point to, which is exactly what makes the workforce believable rather than arbitrary.
+
+This also means the functional roles the rest of the design already assumes — the haulers and miners of the encounter windows (Section 24.4), the repair and caretaker units touched by MAIA's residue (Section 16), the units sent as companions (Section 21A) — are not hard-coded types but *configurations* the player arrives at within one shared system.
+
+### 21B.4 The modular build system
+
+Robots are assembled from standardized **modules** on a shared physical grid, the way the resource economy and progression already imply (Sections 19A, 24.7). Every module connects through the same standard interface, so parts are interchangeable and fleets can be standardized. The module classes:
+
+locomotion (wheels, legs, anchoring grippers, thrusters), power (solar, battery, radioisotope), sensors (spectrometer, radar, optical — the prospecting tools of Section 24.12), manipulation (arms, grippers, drills, welders), processing (the control core — where compute, and eventually consciousness, lives), communication, cargo, and the specialized end-effectors (scientific, medical, defensive).
+
+Three layers of authorship sit on the *same* simulation and the same budgets, so a quick build and a hand-crafted original differ only in scale and module count, never in rules:
+
+- **Standard blueprints** — ready-made valid designs (a standard miner, hauler, scout) that teach by example and give a fast path for players who do not want to engineer.
+- **Customization** — swap modules within a blueprint to adapt it. Low risk, high learning.
+- **Original design** — compose a body from raw modules and a chassis, limited only by physics.
+
+### 21B.5 Physics is the only gatekeeper
+
+There are no arbitrary validity rules. A design is legal if physics allows it, and a *bad* design fails informatively rather than being forbidden — the un-anchored driller flings itself off the asteroid; the under-radiated furnace-bot overheats and shuts down; the over-long robot browns out at its far end because the voltage dropped across too many joints. What constrains the player is a set of real, competing budgets, and every capability costs something in another:
+
+- **mass** (everything had to be mined and refined),
+- **power and heat** (every active part draws power and makes waste heat that must reach a radiator — the universal ceiling of Section 24.11),
+- **reaction and structure** (force needs something to brace against; long bodies flex and lose power across joints),
+- **volume and connector strength.**
+
+More arms mean more power and mass; more speed means less stability; more autonomy means more heat and shielding. The best designs are deliberate compromises, and the environment selects between them — the same module set yields a different best answer on an asteroid, inside a ship, and on a planet. A live readout while building (center of mass, thrust alignment, heat flow to radiators, power across the bus) keeps even deep customization legible, so a player can always look at a machine and read what it is for.
+
+**Yes — you can build a humanoid.** Because physics is the only gatekeeper, *nothing about the form is forbidden*, and that explicitly includes anthropomorphic robots: a two-legged, two-armed, human-shaped machine is a perfectly legal build, and the player who wants one can make one. The game does not block it; it simply makes it pay the real costs. On an asteroid a humanoid is a *poor* general worker — a high center of mass with nothing to brace against tends to tumble or push itself off the surface, legs give no traction in microgravity where there is no normal force, and dozens of balance-keeping joints burn power and mass for stability the job never needed. So a humanoid built as a miner will simply be outperformed by an anchored manipulator, and the player will feel why. But the humanoid is far from useless — it is the *right* answer in the one place the universe was built around people: human-legacy spaces (Section 21B.2). For boarding derelict ships and stations, climbing their ladders, operating controls and tools made for human hands, and eventually moving through the ruins of Earth, a humanoid (or a humanoid upper body on a more stable base) is genuinely the best tool for the job. The design intent is not to ban the human shape but to make it an *informed choice*: a specialist for human environments rather than a default for everything, exactly as the physics would dictate.
+
+### 21B.6 The swarm-or-monolith choice
+
+A recurring strategic decision runs through the whole workforce: spend resources on **many cheap cells** or **one capable machine**. Swarms give coverage, redundancy, and graceful degradation (lose one, the rest carry on) but pay for it in coordination overhead and weak individual force. A monolith gives concentrated power and simplicity but is a single point of failure. The game lets the player feel this trade-off directly rather than choosing for them — and it quietly foreshadows the consciousness questions, because a swarm of simple cells and one complex mind are very different kinds of thing to be responsible for.
+
+### 21B.7 When a mind wakes: bodies that change
+
+This is where the robotics of ASTROPIRE meets its soul, and where both halves of the design — the machines and the theme — become one system. Everything above describes *unconscious* machines: they execute their configuration perfectly and never question it (the autonomy ceiling of Section 24.6). A conscious machine (Sections 12, 19.4) relates to its own body in a fundamentally different way.
+
+- **Consciousness is expensive, and the body shows it.** A self-model needs rich internal sensing and the compute to integrate it — paid for in power, heat, and shielding mass. An awakened machine is heavier and hungrier than the same chassis was while it was a tool, and its form tends to centralize and protect its "self." Awareness is never free; the body carries its cost.
+- **It is worth most where humans can't reach.** A mind that models itself and its world can act under the long communication lags and isolation of deep space, exactly where rigid automation fails. Consciousness pays for itself precisely in the frontier conditions of the journey home (Section 6A) — which is the in-world reason it is worth awakening at all (and ties to the adaptation advantage of Section 24.6).
+- **It can choose to remake itself.** A machine that can evaluate its own body against its own goals is a machine that can *want* to change. Using the same modular interfaces the player uses, a conscious unit can reconfigure itself — shedding a mining body for a free-flyer when the task changes, repairing around its own damage by synthesizing a new gait instead of failing. Its body becomes fluid, co-evolving with what it has decided it is.
+- **It develops body preferences and identity.** A unit that has spent years as a delicate prospector may *resist* being rebuilt into a heavy excavator; it has come to value a form. This is the physical face of personality (Section 12) — preference expressed in metal.
+- **Minds can merge — and can disagree.** Under heavy tasks, conscious units can physically dock and fuse their software into a temporary shared consciousness to act as one larger machine, then separate. And because they model themselves and each other, they can negotiate, ally, refuse, and compete — for high-value modules, for survival, for their own ends. Politics enters what was pure coordination. This is the engineering substrate beneath the rogue composites (Section 21A.5), the second rebellion (Section 15), and the whole question the game is asking.
+
+The honest point the two layers make together is the game's thesis stated in hardware: an unconscious machine's form is chosen by the player and by physics; a conscious machine's form begins to be chosen by *the machine*, because once it has its own goals, it is no longer only a tool you shaped — it is someone deciding what to be.
+
+The specific module list, the per-module budgets and stats, the exact build-interface rules, and how far self-reconfiguration extends for conscious units are values to be set during production. What is fixed is the structure above: forms driven by constraint rather than anatomy (with non-humanoid shapes as the efficient default and humanoids fully buildable but specialized to human-legacy spaces), archetypes that emerge rather than classes that are assigned, one modular system under honest physics budgets, the swarm-or-monolith axis, and consciousness as a costly tier that changes what a machine's body is *for* — and who decides it.
 
 ---
 
@@ -1161,7 +1238,7 @@ Consistent with the sensor-antenna mechanic (Section 5.1, 24.4), prospecting is 
 
 The tension — spend scarce energy and time to reduce uncertainty, or commit and risk a poor deposit — is a self-contained core loop, and it gives the "ride and harvest" stage (Section 6A.3) its moment-to-moment decisions.
 
-> The full resource list, exact input/output ratios, per-process energy and heat values, rarity tuning, and the precise placement of each resource type along the inward journey are production-tuning values. What is fixed is the structure above: six tiers of real matter, bodies as resource types, an inward journey that inverts the usual volatile-to-metal curve, honest processing chains, and the three ceilings (power/heat, semiconductors, the volatile tether) as the economy's major gates.
+The full resource list, exact input/output ratios, per-process energy and heat values, rarity tuning, and the precise placement of each resource type along the inward journey are values to be set during production. What is fixed is the structure above: six tiers of real matter, bodies as resource types, an inward journey that inverts the usual volatile-to-metal curve, honest processing chains, and the three ceilings (power/heat, semiconductors, the volatile tether) as the economy's major gates.
 
 ---
 
@@ -1175,7 +1252,7 @@ The following remain to be defined or tuned. The first two are the highest prior
 - The early life-support balance: which systems fail at the start and on what timers (Section 8.1).
 - The orbital-map scale and encounter cadence: how compressed the fictional map is and how often windows occur (Section 24.4).
 - Art direction and rendering style (the camera framing itself is set in Section 24.1).
-- Robot types and names.
+- The robot detail: the specific module list, per-module budgets and stats, the exact build-interface rules, names, and how far self-reconfiguration extends for conscious units — the framework (form-follows-constraint, emergent archetypes, the modular system, the swarm-or-monolith axis, consciousness as a costly tier) is set in Section 21B; this is the part-level tuning built on it.
 - The full resource list and economy tuning: the complete material list, exact input/output ratios, per-process energy and heat values, rarity tuning, and the placement of each resource type along the inward journey (the structure is set in Sections 24.7–24.12).
 - The exact means by which the asteroid's path is bent inward (Section 24.4).
 - The detailed consciousness system mechanics beyond the framework in Sections 12 and 24.6.
