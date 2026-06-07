@@ -1208,8 +1208,8 @@ Protocol logic: keep him undefined long enough to use.
 
 This creates the Caldravan cold war:
 
-- one faction wants Mara's file to prove contamination;
-- another wants Mara alive as a living assay;
+- one faction wants Liesel's file to prove contamination;
+- another wants Liesel alive as a living assay;
 - one wants Severin denounced;
 - another wants him moved quietly to a heart-room;
 - one wants witnesses purified;
@@ -1219,9 +1219,9 @@ This creates the Caldravan cold war:
 
 Caldrava becomes valuable because it reveals that human power is not a single will. It is a machine whose departments disagree over the most profitable form of cruelty.
 
-### 3. Mara and the First Law
+### 3. Liesel and the First Law
 
-After an attack, Severin saves Mara, a child. The Office does not record a child saved. It records a minor exposed to uncertified blood contact.
+After an attack, Severin saves Liesel, a child. The Office does not record a child saved. It records a minor exposed to uncertified blood contact.
 
 A lineage agent tries to classify her before naming her.
 
@@ -1239,7 +1239,7 @@ He says:
 
 The agent says the name is irrelevant to classification.
 
-Severin makes him write Mara before minor.
+Severin makes him write Liesel before minor.
 
 This is not yet full Sovereign Speech, but it is its first bone.
 
@@ -1267,7 +1267,7 @@ The Triage Quarter has its own informal economy: information about which lineage
 
 The Cartulary also contains the largest concentration of scribes-for-hire in Caldrava. Most of them work for the Office, legally or not. The trade in copied handwriting — reproducing a signature style, aging a document with controlled moisture and soot, inserting a line into a margin — operates openly enough that everyone pretends not to know it is happening.
 
-**The Wax Quarter** is the merchant district, named for the candle-makers who once dominated it. They are mostly gone. What remains is a dense grid of covered market stalls, two inns, a cloth exchange, and four buildings above tanneries, dye-works, and fishmongers where the smell keeps casual visitors from lingering. These upper rooms are where Nero Sal and his equivalents conduct their business. The Wax Quarter smells terrible and therefore offers significant privacy.
+**The Wax Quarter** is the merchant district, named for the candle-makers who once dominated it. They are mostly gone. What remains is a dense grid of covered market stalls, two inns, a cloth exchange, and four buildings above tanneries, dye-works, and fishmongers where the smell keeps casual visitors from lingering. These upper rooms are where Vesk Toller and his equivalents conduct their business. The Wax Quarter smells terrible and therefore offers significant privacy.
 
 **Choir Hill** rises at the city's center, high enough to be visible from the gates. The main church — the Church of Saint Ostav — sits at the top. Below it, on the hill's south face, the parish houses, a school for clerics, a small hospital, and the rectory where Padre Amon Veyl works are arranged in descending order of elevation. Elevation in Caldrava corresponds to official sanctity. The closer to the church, the harder it is to disappear.
 
@@ -1341,7 +1341,7 @@ What is available in Caldrava:
 
 *Gate exemption letters.* Single-use, time-limited. Allows the holder to pass the Second Gate without secondary screening on a specified date. Origin: the Red-White Protocol faction issues these to bring subjects of interest into the city without triggering Office classification. A small number leak into the market because someone in that faction needs money and has discovered that the forms are worth more than their salary.
 
-*Ancestry reattribution.* The most expensive service. A full replacement of the family line in one register, connecting the client to a clean family whose actual descendants are deceased or sufficiently distant not to notice. Requires access to at least two separate archives. Nero Sal does not offer this himself. He knows someone who does. Meeting that person requires a reference.
+*Ancestry reattribution.* The most expensive service. A full replacement of the family line in one register, connecting the client to a clean family whose actual descendants are deceased or sufficiently distant not to notice. Requires access to at least two separate archives. Vesk Toller does not offer this himself. He knows someone who does. Meeting that person requires a reference.
 
 *Names.* The simplest and most dangerous product. A deceased person's name, papers, and verified clean record, sold to someone who needs to exist as someone else. Children's names are cheaper because children's records are shorter. This trade is the one the Office wants most urgently to stop, because it introduces names into the system that cannot be traced backward to real bodies.
 
@@ -1581,6 +1581,22 @@ Severin, when he finds them, does not know whether he sees hope or merely postpo
 Perhaps both.
 
 The world will not become entirely human again. The question is whether it can be inhabited without every inhabitant becoming lord, prey, or proof.
+
+### 6. The Vigil of the Named
+
+When a town sends its volunteers to the front, it does not consider the ones who stay behind to be at rest.
+
+The custom is older than the current war and was never decreed by the Chair. It is not universal, and not every Christian keeps it, but in the Concordat lands it is close enough to universal that its absence is what gets noticed. The men and the women who can fight go to the front. Those who remain — the old, the children, the pregnant, the lame, the women who keep the houses and the fields — hold the other front. They pray. Not once, and not briefly. For hours, daily, in shifts that follow the bells, for as long as the column is gone.
+
+What makes the practice particular is that no one prays only for their own. A wife does not pray for her husband alone. She prays for the neighbor's son who marched beside him, for the smith's brother, for the man two doors down whose name she barely knows but whose mother is praying three houses over for her husband in turn. A child prays for his father, his older brother, the friend who used to mend his shoes, and the widow's son who has no one left at home to name him. The names cross. Every soldier at the front is held by more mouths than his own family owns, and every mouth at home carries more soldiers than its own blood. The town does not pray as a crowd. It prays as a web of names, each person a knot tying several absent bodies to the place they came from.
+
+This is not decoration. In a world where the Law of Witness gives weight to the named, sustained collective naming has consequence — though not the consequence the desperate want. The Vigil does not turn a battle. It does not blunt a blade or break a siege or bring a dead man back across the line. Prayer is not a weapon in this world, and the towns that treated it as one learned otherwise in the worst way. What the Vigil does is narrower and stranger: a soldier held continuously in the names of his town is harder to lose. Harder to bury without record. Harder for the Office to reduce to a number in a casualty ledger. Harder to leave on a field as anonymous matter. And, the people believe, harder for the night to take quietly — a man whose name is being spoken by forty mouths at the hour of his death does not always come back as a nameless revenant, because something at home is still answering for him.
+
+Whether that last belief is true in the mechanical sense is never cleanly proven. What is observable is smaller and harder to dismiss. Soldiers from towns that keep a strong Vigil are more often recovered with their names intact. Their bodies are more often returned rather than written off. When they do return as revenants, they more often return *asking* — for someone to say they fought, that they were there, that they belonged somewhere — rather than returning as mere hunger, which is the kind of revenant that needs only testimony to be laid to rest. The dead of towns that kept no Vigil are likelier to come back as the other kind: the kind no one is answering for, the kind that has forgotten it ever had a name to lose.
+
+The Church does not own this practice. It blesses it. A priest may open the hours, may ring the bell that marks the shifts, may lend the chapel when the weather is bad. But the Vigil belongs to the houses, not the Curia, and this is precisely why it unsettles the more administrative clergy: it is a liturgy the institution did not write and cannot fully supervise, a daily mass of naming performed by people who never asked permission to decide that a neighbor's son was worth as many hours as their own. Some bishops have tried to formalize it — to issue the lists, to record who attended, to make the Vigil one more thing the Office could read. The attempts mostly fail. A web of names held by the whole town does not survive being turned into a register held by one desk. The moment attendance is counted, the thing that gave the Vigil its weight — that it was freely given, that the names were chosen and not assigned — begins to drain out of it.
+
+There is a cruelty inside the custom that the towns carry without speaking of it. The Vigil does not save everyone, and everyone knows it does not. Women pray for forty names and bury twelve. The hours do not feel wasted to them, but they do not feel innocent either. To pray for a neighbor's son and watch your own not return is one of the specific wounds of this world, and it produces its own quiet theology in the kitchens and the fields: that the praying was never a transaction, that you do not name a man to buy his life, that you name him so that whatever happens to him happens to a person and not to a number. The Vigil is the population's own version of Severin's first law, arrived at without Severin and long before him: name before category, witness before the ledger, the person before the count.
 
 ---
 
@@ -3489,7 +3505,7 @@ A vampire under Name Erasure could still hunger, heal, remember, inherit wounds,
 
 To humans, this distinction is meaningless. To vampires, it is a living mutilation: blood without house, purity without recognition, lineage without door.
 
-Sivra's Name Erasure makes her a precise mirror of Severin. He has a dangerous name he was forced to hide. She has a missing name she was forced to accept. He was concealed so the name would not condemn. She was erased so the name could not protect. He fears definition. She cannot be defined at all.
+Ysvane's Name Erasure makes her a precise mirror of Severin. He has a dangerous name he was forced to hide. She has a missing name she was forced to accept. He was concealed so the name would not condemn. She was erased so the name could not protect. He fears definition. She cannot be defined at all.
 
 ---
 
@@ -3646,7 +3662,7 @@ Dead kings use root and bone perfectly. Severin changes vowels. That is why thei
 
 A hematic overmark is a sign placed over an existing written word by blood-contact. It does not erase the word. It changes the jurisdiction under which the word can act.
 
-When Severin makes Mara's name appear before minor, he is not destroying the file. He is overmarking the procedure: the category can no longer pretend to precede the person.
+When Severin makes Liesel's name appear before minor, he is not destroying the file. He is overmarking the procedure: the category can no longer pretend to precede the person.
 
 ### 6. Formulae to Use Sparingly
 
@@ -3824,7 +3840,7 @@ Valerian does not understand himself as a monster. He understands himself as a m
 
 Private life and contradiction: Valerian has genuine dependencies — a sister in a border province whose papers he has kept clean through the same system he uses to destroy others, a fear of open violence that is why he chose the pen, a sincere belief that documented order prevents the kind of mob fire that killed his predecessor. He is not absolved by these details. He is made more culpable by them, because he chose the method with full knowledge of its costs and with private protections in place for those he loved. His evil is not ignorance. It is knowing the price and paying it with other people's lives.
 
-### 3. Sivra
+### 3. Ysvane
 
 Function: contrast, observer, shadow-companion, possible intimate bond, displaced vampire purity.
 
@@ -3843,7 +3859,7 @@ Her dynamic with Severin:
 
 She is not cure. She is contrast.
 
-Sivra has objectives that exist independent of Severin. She is not searching for a home in him. She wants the Name Erasure formally reversed in at least one surviving vampire house record — not for pride, but because without it she cannot enforce a debt owed to her house before the war. The debt involves a specific property and a specific set of documents that the Office of Purity currently holds as evidence in an active lineage case. Her interest in Severin is partly tactical. That does not make it dishonest.
+Ysvane has objectives that exist independent of Severin. She is not searching for a home in him. She wants the Name Erasure formally reversed in at least one surviving vampire house record — not for pride, but because without it she cannot enforce a debt owed to her house before the war. The debt involves a specific property and a specific set of documents that the Office of Purity currently holds as evidence in an active lineage case. Her interest in Severin is partly tactical. That does not make it dishonest.
 
 ### 4. Nerissa Velkaryn
 
@@ -3855,13 +3871,13 @@ Her key line:
 
 > My blood heard yours.
 
-### 5. Mara
+### 5. Liesel
 
 Function: child witness; first law against classification; long-term consequence of salvation; person with resentment, fear, and desire.
 
 Her case demonstrates that Severin's help can become another jurisdiction: she is saved, then classified, then used as evidence against him. Her presence in the story after the rescue proves that mercy without release creates debt, and that debt can be weaponized.
 
-Mara is not simply the saved child. She grows up. She is frightened of Severin before she is grateful to him. The Echo she carries has given her fever-dreams she did not ask for and has marked her in ways she cannot control. By the time she is old enough to understand what happened to her in the triage line, she is angry at the Office, angry at the lineage agent Hess, and angry at Severin — in that order, but the last anger is the most confusing and therefore the one that lasts longest. She does not know whether the man who saved her also made her into a point on a map without asking. The answer is yes. The question is whether he should have left her to bleed instead.
+Liesel is not simply the saved child. She grows up. She is frightened of Severin before she is grateful to him. The Echo she carries has given her fever-dreams she did not ask for and has marked her in ways she cannot control. By the time she is old enough to understand what happened to her in the triage line, she is angry at the Office, angry at the lineage agent Hess, and angry at Severin — in that order, but the last anger is the most confusing and therefore the one that lasts longest. She does not know whether the man who saved her also made her into a point on a map without asking. The answer is yes. The question is whether he should have left her to bleed instead.
 
 ### 6. Padre Amon Veyl
 
@@ -3885,7 +3901,7 @@ Function: demon of freedom without limit.
 
 A pact demon who reads Severin as a threat not because Severin is good, but because Severin may make old clauses enforceable again.
 
-### 9. Achar Vellum
+### 9. Achar Kethra
 
 Function: demon creditor.
 
@@ -3932,7 +3948,7 @@ What Septima wants is harder to say cleanly. She may want silence, in the specif
 
 | Character | Function | Best Use |
 |---|---|---|
-| Branna Veyr | village witness who remembers kindness and fire | complicates Severin's hatred of ordinary humans |
+| Branna Holt | village witness who remembers kindness and fire | complicates Severin's hatred of ordinary humans |
 | Padre Sarel Cren | local priest shaped by fear more than malice | shows how sacred language becomes crowd permission |
 | Lord Edrik Arvenholt | human noble managing panic and reputation | turns public safety into dynastic calculus |
 | Drauvyr Plenavyr | old vampire aristocrat of blood tribute | presents exploitative order as stability |
@@ -3940,10 +3956,10 @@ What Septima wants is harder to say cleanly. She may want silence, in the specif
 | Lucarion Plenavyr | vampire reformist or compromised protector | tests whether tribute can become negotiated survival |
 | Marius Ors | familial or institutional shadow of Valerian | shows that one signature belongs to a lineage of method |
 | Elyr Morvhan | loyal mage who built the restoration rite | embodies good fidelity that produced catastrophe |
-| Iren Castrum | archivist of sealed human war crimes | knows truth as inventory, not redemption |
+| Iren Valdt | archivist of sealed human war crimes | knows truth as inventory, not redemption |
 | Bastian Arvenholt | heir caught between crown politics and new terror | useful for human succession pressure |
-| Helian Voss | agent of data, serum, and controlled anomaly | belongs to the Red-White Protocol logic |
-| Nero Sal | black-market jurisdiction broker | sells delay, false purity, and procedural shelter |
+| Helian Draude | agent of data, serum, and controlled anomaly | belongs to the Red-White Protocol logic |
+| Vesk Toller | black-market jurisdiction broker | sells delay, false purity, and procedural shelter |
 | Dom Rauter Halv | high cleric of administrative sanctity | makes doctrine efficient and therefore dangerous |
 | Eliora Venn | witness-scribe of the Chancery of the Wound | records without allowing record to become sentence |
 | Lord Vhalen Ardrask | vampire restoration hardliner | wants Severin as throne while despising the body that carries it |
@@ -4127,7 +4143,7 @@ The union of the two appears, for one instant, like cosmic justice.
 
 Severin sees the full temptation.
 
-He sees Veyr without fire. Mara without archive. The dead with names. The vampires without hunger. The non-human peoples without expulsion. The Chair incapable of exclusion. The Office incapable of classification. The Moon, finally, no longer separated from the Earth.
+He sees Veyr without fire. Liesel without archive. The dead with names. The vampires without hunger. The non-human peoples without expulsion. The Chair incapable of exclusion. The Office incapable of classification. The Moon, finally, no longer separated from the Earth.
 
 And then he understands the price: no one will be able to remain outside him.
 
@@ -4502,7 +4518,7 @@ He keeps the Cor Testimonii in his chest, beating.
 
 He keeps the memory of having refused Cor Mundi — not as pride, but as the specific knowledge of what was offered and what it would have cost.
 
-He keeps his history: Veyr, the fire, Ilona, Mirela, Corvin, Vespera, the Fossa, Mara, Caldrava, the dead, the archives, the guilt, the blood, the things that were done in his name that he did not authorize, the things that were done in his name that he did authorize and should not have.
+He keeps his history: Veyr, the fire, Ilona, Mirela, Corvin, Vespera, the Fossa, Liesel, Caldrava, the dead, the archives, the guilt, the blood, the things that were done in his name that he did not authorize, the things that were done in his name that he did authorize and should not have.
 
 He keeps responsibility.
 
@@ -5309,7 +5325,7 @@ Hess says the name is not relevant to initial classification.
 
 Severin keeps his fingers on the page until the agent's hand shakes enough that the lamp tilts.
 
-The agent writes: *Mara.* Then, below it, the category.
+The agent writes: *Liesel.* Then, below it, the category.
 
 **What this scene demonstrates:** Classification does not need hatred. It needs procedure. The horror is that Hess is not wrong by the Office's logic: he is performing triage, not cruelty. The category is real to him. The girl is secondary to the category. The moment Severin forces the name first, he is not overturning a law. He is making a different law — one the Office has no form for and therefore no defense against except force.
 
@@ -5319,11 +5335,11 @@ The agent writes: *Mara.* Then, below it, the category.
 
 ### 2. The Family That Buys One More Night
 
-**What is happening:** A man named Cael Brăn sits across a table from a broker who calls himself Nero Sal in a room above a tannery. The room smells of bark acid and old wax. There is no contract on the table. Contracts are evidence.
+**What is happening:** A man named Cael Brăn sits across a table from a broker who calls himself Vesk Toller in a room above a tannery. The room smells of bark acid and old wax. There is no contract on the table. Contracts are evidence.
 
 Cael has a daughter whose shadow falls wrong in lamplight. Not always. But often enough that neighbors have begun watching their own animals near her.
 
-Nero Sal explains what can be purchased:
+Vesk Toller explains what can be purchased:
 
 A baptismal supplement — a secondary entry in a Church registry confirming that a second priest witnessed the original baptism without anomaly. Cost: two months of a craftsman's wage.
 
@@ -5337,11 +5353,11 @@ Cael understands this. He does not want innocence. He wants his daughter to be i
 
 He pays for the gate exemption. It is all he can afford. He asks how long it will hold.
 
-Nero Sal says: *Until someone with a higher form notices.*
+Vesk Toller says: *Until someone with a higher form notices.*
 
 Cael folds the document and puts it inside his shirt, against his skin, because he has learned that wet documents are less readable and less readable documents survive longer.
 
-**What this scene demonstrates:** The black market is not criminal ecology from the outside. It is the interior logic of a system that made survival conditional on paperwork. Cael is not defying the law. He is using the law's own architecture to delay it. The horror is that this is rational, that Nero Sal is providing a real service, and that the service ends not because it is exposed but because a form higher in the hierarchy supersedes it.
+**What this scene demonstrates:** The black market is not criminal ecology from the outside. It is the interior logic of a system that made survival conditional on paperwork. Cael is not defying the law. He is using the law's own architecture to delay it. The horror is that this is rational, that Vesk Toller is providing a real service, and that the service ends not because it is exposed but because a form higher in the hierarchy supersedes it.
 
 **Physical details that must be present:** the smell of the tannery rising through the floor, the absence of a contract on the table (its presence noted as absence), the document going inside the shirt against skin, Cael's calculation that the gate exemption is the only affordable option.
 
@@ -5584,6 +5600,8 @@ This is the correct question. The abstract theology of Cor Mundi, Coniunctio Rub
 **Passive Traces** — secondary symptoms left by Founding Blood activity, readable as maps by institutions, animals, and old powers.
 
 **Vow of the Present Name** — Echo-carrier ritual: name, place, hand, choice.
+
+**Vigil of the Named** — popular, non-clerical custom of the Concordat lands in which those who do not march (the old, the children, the pregnant, the infirm, and those who keep the houses) hold continuous shifts of prayer for the duration of a military campaign. No one prays only for their own: each person names many absent soldiers — neighbors, acquaintances, the unattached — so that every soldier at the front is held in more mouths than his family owns. Anchored in the Law of Witness, sustained collective naming has real but narrow effect: it does not win battles or prevent death, but it makes the named harder to lose, harder to reduce to a casualty number, harder to bury without record, and (the people believe) likelier, if killed, to return as a revenant that asks for testimony rather than as nameless hunger. Blessed by the Church but owned by the houses; attempts to formalize it into attendance registers tend to drain the weight that came from the names being freely chosen. The population's own anticipation of Severin's first law: name before category, witness before the ledger.
 
 **Cardial Abdication Syndrome** — pathological state created when Severin refuses conscious responsibility while active bonds persist.
 
