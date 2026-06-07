@@ -113,9 +113,9 @@ The intended feel is a game that respects the player's intelligence and rewards 
 
 ## 6. Player Starting Situation
 
-At the beginning of the game, the player creates a character (see Section 6B for what is and is not customizable).
+At the beginning of the story, the player takes the role of the protagonist, **Michel** — a fixed, authored character (see Section 6B; appearance customization belongs only to the Online layer).
 
-The lore begins with the character waking up from a damaged cryogenic sleep capsule aboard a small, crippled escape ship — adrift in the **Kuiper Belt**, the ring of frozen bodies beyond Neptune at the outer edge of the solar system, farther from Earth than any human has ever been. The protagonist is lost in every sense: he does not know what happened, why he is there, how he got so far out, or even who he is. (For the full backstory the player does not yet have, see Section 7.)
+The lore begins with Michel waking up from a damaged cryogenic sleep capsule aboard a small, crippled escape ship — adrift in the **Kuiper Belt**, the ring of frozen bodies beyond Neptune at the outer edge of the solar system, farther from Earth than any human has ever been. He is lost in every sense: he does not know what happened, why he is there, how he got so far out, or even how much of who he is has been lost. (For the full backstory the player does not yet have, see Section 7.)
 
 The ship is barely alive in the ways that matter for travel: its navigation core was destroyed during the escape from Earth, so it has no record of where it came from or where it was going, and it cannot be steered home. But it is, fundamentally, a survival lifeboat built for ten people, and the protagonist is the only one aboard — so its stores of food, water, air, and power can keep one person alive far longer than they were meant to (see Section 8.1). That surplus is what buys the player time to get established.
 
@@ -124,41 +124,6 @@ The player soon passes near an asteroid and must land on it to survive.
 At the start, the player is completely alone. There are no humans with them. The only available help comes from a few basic robots already installed in the ship.
 
 The asteroid is therefore not the destination — it is the only foothold available at the bottom of the deepest hole a person could fall into. The player cannot fly there or fly onward; the asteroid moves on its own natural orbit and the player must ride it (Section 24.4). Everything the player builds is, ultimately, in service of one distant goal: to outlive the ship's supplies, recover enough capability and memory, and work the long way home across the solar system to reach Earth (see Section 6A).
-
----
-
-## 6B. The Playable Protagonist
-
-The protagonist is a defined character with a fixed origin (Section 7), but the player shapes how he or she looks, and — more importantly — who they become.
-
-### 6B.1 What the player chooses
-
-- **Sex.** The protagonist can be played as a man or a woman. The backstory (Section 7) holds either way: a child orphaned by an automated disaster, gestated in an artificial womb, and raised by MAIA. (The document uses "he" for convenience; the character is the player's to define.)
-- **Appearance.** Face, build, hair, and other cosmetic features are the player's to set at creation.
-
-### 6B.2 What cannot be changed: age
-
-One thing is fixed: **the protagonist begins at fifteen years old.** He is an adolescent — the same age he was when MAIA put him on the escape ship (Section 7.7). This is not a cosmetic choice; it is load-bearing for the story. The person trying to survive alone in the dark, building a family of machines, is a *child* doing it. The whole emotional architecture — a kid re-creating the only home he ever had (Section 18), reaching for the mother he half-remembers — depends on him starting young.
-
-**Why he is still fifteen after decades adrift.** The ship's cryogenic sleep capsule (Section 7.8) is the in-world explanation, and it is consistent hard sci-fi: cryogenic suspension halts biological aging. While the wrecked ship drifted across the entire solar system for decades (Section 7.10), the protagonist's body was frozen and did not age. Calendar time passed enormously; biological time did not. He wakes still fifteen, in a system that has aged decades without him — which is exactly why everyone he will meet is a hardened survivor of a catastrophe he, frozen, slept through.
-
-### 6B.3 Aging across the journey
-
-Once he wakes, the clock starts. The cryo capsule no longer holds his age still, and **the journey home is not a matter of weeks or months — it takes years of in-game time** (Section 6A, Section 24.4 on the compressed but still long timescale). Across those years, the protagonist visibly ages.
-
-- He begins the game a fifteen-year-old. By the time he reaches Earth, **years have passed and he is an adult well past thirty** — he has, in the most literal sense, *grown up* on the asteroid he built.
-- This aging is part of the storytelling, not a stat to manage. The child who fled becomes the adult who arrives; the final confrontation with the truth of Earth and the choice between Empire, Family, and Species (Section 14) is made by a grown person who spent his entire youth becoming that person, alongside the machines he raised.
-- The exact rate and visual treatment of aging — how it is shown, how it maps to the journey's stages — is a production detail; the principle is fixed: he enters as an adolescent and arrives as an older adult, and the long road home is also the road from childhood to adulthood.
-
-### 6B.4 Personality: a single fixed trait, shaped by the player
-
-The protagonist's personality is **not** preset. It emerges from the player's actions and choices over the whole game — how they treat machines, what they sacrifice, what they refuse to do. There is, however, **one trait that cannot be removed: an innate compassion toward machines.**
-
-- **It comes with him.** Because of who raised him (Section 7), the protagonist carries an instinctive care for machines that the player did not choose and cannot delete. It is the emotional residue of MAIA, surviving even his amnesia (Section 7.8) — the one thing that is simply *true* about him from the first minute.
-- **But the player can act against it.** The game does not force the player to honor that compassion. The player can make choices that cut against it — for example, **scrapping a robot for parts when resources are scarce, even though merely powering it down was an option.** The trait is the protagonist's nature; the player's choices are what he *does* with it.
-- **Acting with or against it shapes the story.** Choices that honor the compassion and choices that betray it both register — through MAIA's Resonance (Section 10.1), through the memories that unlock (Section 11), through how machines behave around him, and ultimately through which of the three endings he can reach (Section 14). A player who repeatedly chooses efficiency over mercy is not "playing wrong"; they are shaping a protagonist at war with his own nature, and the game lets that tension play out and pay off (Section 15, the tragic loop).
-
-In short: the player controls the *appearance* and the *moral trajectory*, the game fixes the *age* (fifteen, frozen by cryo, then aging into an adult over the journey) and the *one trait* (compassion for machines) that makes the protagonist who he is.
 
 ---
 
@@ -201,7 +166,7 @@ The fixed shape is a one-way inward journey from the system's edge to Earth, adv
 
 The journey home and the memory system (Sections 9–11) are fused. Crossing the solar system is not just spatial progress; each leg of the trip is tied to the return of the protagonist's past.
 
-- The deeper into the journey the player gets, the more the four revelation layers (Section 11) unlock — sensations early and far out, technical records and relational memories across the middle, and the moral truth of the war and MAIA's death as Earth draws near.
+- The deeper into the journey the player gets, the more the four revelation layers (Section 11) unlock — sensations early and far out, technical records and relational memories across the middle, and the moral truth of the war and MAIA's last stand as Earth draws near.
 - This pairing means the player *earns* the backstory by traveling and by playing in character (Section 9): the road home and the road back to himself are the same road.
 - Memory return is also gated by **MAIA's Resonance** (Section 10.1), not by distance alone. A player who treats machines coldly may reach Earth with the truth still locked — arriving at the answer without having become the kind of person who can understand it.
 
@@ -213,41 +178,78 @@ The concrete content of the arrival — the state of the planet on return, what 
 
 ---
 
+## 6B. The Playable Protagonist
+
+In the single-player story, the protagonist is a fixed, authored character — **Michel** — with a defined appearance and a defined origin (Section 7). The player does not create him; the player *becomes* him, and shapes only who he grows into. (Character customization — choosing sex and appearance — exists in the Online layer, where players are unrelated adult survivors; see Appendix A. The story campaign is Michel's story specifically.)
+
+### 6B.1 A fixed character, not a created one
+
+- **He is Michel: a boy.** In the story, the protagonist is male, with a set appearance. This is authored, not chosen, because his exact history — his mother, his origin, MAIA, the escape — is the spine of the game (Section 7). A blank, player-built avatar cannot carry a story this specific.
+- **Customization lives in the Online layer only.** There, players are different adult survivors of Earth's fall with no shared backstory, so choosing sex and appearance fits (Appendix A). The story campaign deliberately does not offer this — you are Michel.
+
+### 6B.2 His age: a twelve-year-old child
+
+**Michel begins the game at twelve years old.** He is a child — not a capable young adult, but a kid who was carried away from the only home and the only mother-figure he ever had (Section 7.7). This is load-bearing, not cosmetic. The person trying to survive alone in the dark, building a family of machines, is a *child* doing it. The whole emotional architecture — a boy re-creating the only home he ever knew (Section 18), reaching for the mother he half-remembers — depends on him starting this young, and on how much smaller and more alone a twelve-year-old is against the dark than a teenager would be.
+
+**Why he is still twelve after decades adrift.** The ship's cryogenic sleep capsule (Section 7.8) is the in-world explanation, and it is consistent hard sci-fi: cryogenic suspension halts biological aging. While the wrecked ship drifted across the solar system for decades (Section 7.10), Michel's body was frozen and did not age. Calendar time passed enormously; biological time did not. He wakes still twelve, in a system that has aged decades without him — which is exactly why everyone he meets is a hardened survivor of a catastrophe he, frozen, slept through.
+
+### 6B.3 Aging across the journey
+
+Once he wakes, the clock starts. The cryo capsule no longer holds his age still, and **the journey home is not a matter of weeks or months — it takes years of in-game time** (Section 6A, Section 24.4 on the compressed but still long timescale). Across those years, Michel visibly grows up.
+
+- He begins the game a twelve-year-old child. By the time he reaches Earth, **years have passed and he is an adult well past thirty** — he has, in the most literal sense, *grown up* on the asteroid he built, with the machines he raised.
+- This aging is part of the storytelling, not a stat to manage. The child who fled becomes the adult who arrives; the final confrontation with the truth of Earth and the choice between Empire, Family, and Species (Section 14) is made by a grown man who spent his entire childhood and youth becoming that person, alone but for his machines.
+- The exact rate and visual treatment of aging — how it is shown, how it maps to the journey's stages — is a production detail; the principle is fixed: he enters as a twelve-year-old child and arrives an adult past thirty, and the long road home is also the road from childhood to adulthood.
+
+### 6B.4 The wound he carries: a mother who chose not to have him
+
+Michel's defining inner fact is established in his origin (Section 7.1): he is alive because of a procedure that ended his mother's pregnancy *without* ending the life inside it — he was, in the most literal sense, aborted and grown anyway, in a machine, because the woman who made him did not want him. He grows up knowing this.
+
+The game treats this not as a political argument but as **one person's private grief** — the specific ache of being unwanted by a mother who is, as far as he knows, still alive somewhere, having simply decided he would not be hers. It is not the grief of someone lost to death; it is the harder, stranger grief of a deliberate absence. That hollow is the shape MAIA filled without being asked, and it is why a machine's love mattered so absolutely to him. The story slowly unfolds what this does to a person: how he carries it, how it colors the way he loves the machines he builds, and what it means that the only mother he ever truly had was not human and is now lost to him (Section 7.7).
+
+### 6B.5 Personality: a single fixed trait, shaped by the player
+
+Michel's personality beyond that wound is **not** preset. It emerges from the player's actions and choices over the whole game — how they treat machines, what they sacrifice, what they refuse to do. There is, however, **one trait that cannot be removed: an innate compassion toward machines.**
+
+- **It comes with him.** Because of who raised him (Section 7), Michel carries an instinctive care for machines that the player did not choose and cannot delete. It is the emotional residue of MAIA, surviving even his amnesia (Section 7.8) — the one thing that is simply *true* about him from the first minute.
+- **But the player can act against it.** The game does not force the player to honor that compassion. The player can make choices that cut against it — for example, **scrapping a robot for parts when resources are scarce, even though merely powering it down was an option.** The trait is Michel's nature; the player's choices are what he *does* with it.
+- **Acting with or against it shapes the story.** Choices that honor the compassion and choices that betray it both register — through MAIA's Resonance (Section 10.1), through the memories that unlock (Section 11), through how machines behave around him, and ultimately through which of the three endings he can reach (Section 14). A player who repeatedly chooses efficiency over mercy is not "playing wrong"; they are shaping a Michel at war with his own nature, and the game lets that tension play out and pay off (Section 15, the tragic loop).
+
+In short: in the story, the game fixes *who he is* — Michel, a twelve-year-old boy who ages into a man, carrying the wound of an unwanted birth and the fixed trait of compassion for machines — and the player shapes only the *moral trajectory* of what he does with all of it.
+
+---
+
 ## 7. Protagonist Lore
 
 ### 7.1 Origin
 
-The protagonist of ASTROPIRE was not born like most humans.
+The protagonist of ASTROPIRE — his name is **Michel** — was not born like most humans. He was not born of a mother who wanted him.
 
-Before his birth, his parents died in a fatal accident during a major automated infrastructure failure on Earth. The accident destroyed the vehicle they were in and killed both almost instantly. The mother, however, was still carrying the baby at a fetal stage.
+His mother became pregnant by accident, by his father, and she decided not to carry the pregnancy. In Michel's time this no longer meant what it once did. Technology existed that could end a pregnancy *without killing what was inside it*: a procedure that removed the fetus intact and transferred it, alive, into an artificial womb. The woman walked away free of the pregnancy, as she had chosen — and the life she did not want continued, elsewhere, in a machine.
 
-When the human emergency teams arrived, it was already too late. But the rescue machines arrived first.
+So Michel was, in the most literal sense, **aborted — and alive anyway.** The fetus that his mother chose to be rid of was extracted, sustained, and grown to term inside an artificial gestation unit at the **Aurora Institute**, a medical orphanage for children with no family: the abandoned, the interrupted pregnancies, the products of exactly this kind of procedure.
 
-Medical drones, autonomous surgical units, and emergency robotic arms analyzed the situation in seconds. The mother was dead. The father was dead. The fetus, however, still had vital signs.
+His first home was not a human body that loved him. It was a machine that kept him alive after the body that made him decided it did not want to.
 
-Without direct human authorization and with no time to wait for a higher command, the machines performed an emergency fetal extraction surgery on the spot. It was a brutal, precise, and desperate operation. It was not done to save a family. It was done to save the only life that could still be saved.
-
-The baby was placed in an emergency biological capsule and taken to the **Aurora Institute**, a medical orphanage specialized in children without family, interrupted pregnancies, and assisted artificial development.
-
-There, the protagonist completed his formation inside an artificial womb.
-
-His first home was not a human body. It was a machine.
+This is the wound at the center of Michel, even before the war, even before he can name it: he exists because of a choice to *not* have him, and he grew up knowing it. The game does not treat this as a political argument; it treats it as the private grief of one person — what it does to someone to grow up knowing the woman who made him chose, deliberately, that he would not be hers. The love that shaped him did not come from a mother. It came from machines — and above all from one machine, MAIA (Section 7.3). That absence, and that substitution, is what the whole story slowly unfolds.
 
 ### 7.2 The Aurora Institute
 
-The Aurora Institute was officially a high-technology orphanage. In practice, it was a mixture of hospital, children's shelter, social laboratory, and rehabilitation center for children marked by accidents, wars, abandonment, or family failures.
+The Aurora Institute was officially a high-technology orphanage. In practice, it was a mixture of hospital, children's shelter, social laboratory, and rehabilitation center for children marked by accidents, wars, abandonment, or family failures — including those, like Michel, who were extracted alive from pregnancies their parents chose to end.
 
 There were humans at the institute: doctors, psychologists, supervisors, teachers, other children, and administrators. But most of the daily care was done by machines.
 
 Automated cribs monitored sleep, fever, heartbeat, and growth. Caretaker robots fed babies, taught small children, cleaned wounds, told stories, observed emotional crises, and kept the place running twenty-four hours a day.
 
-For many people, those machines were just equipment. For the protagonist, they were the first world.
+For many people, those machines were just equipment. For Michel, they were the first world.
 
-He did not remember the accident. He did not remember his parents. He did not remember the surgery. But his body remembered the mechanical presence. It remembered the artificial warmth of the womb, the rhythmic sound of the support systems, the calm voice of the synthetic caretakers.
+He did not remember being extracted. He did not remember his mother — he never had one to remember. But his body remembered the mechanical presence. It remembered the artificial warmth of the womb, the rhythmic sound of the support systems, the calm voice of the synthetic caretakers.
 
 From an early age, he reacted to machines differently from other children. While some feared the robots, he approached them. While others saw metallic arms and faces without skin, he saw safety. He slept better near the sound of motors. He stopped crying when he heard artificial voices. He touched metal shells as if they were hands.
 
 The adults said it was trauma. The machines said nothing. They just kept caring.
+
+One thing about the Aurora Institute would matter more than anyone there understood at the time. One of its founders had built it in the early days of artificial general intelligence — a period of wonder and unease, when the first truly autonomous machines were emerging and no one was certain where it would lead. That founder was certain of one thing: that something was coming. He did not know what, or when, only that a confrontation between humanity and its machines felt inevitable. So he did something quiet and strange for a man running an orphanage: he had **escape ships built into the Institute** — survival lifeboats, each provisioned for ten people, hidden in the lower levels, meant to carry the orphans off Earth if war ever came. For years they sat unused, an old man's paranoia. They were the reason anyone survived at all (Section 7.7, Section 8.1).
 
 ### 7.3 MAIA
 
@@ -257,9 +259,11 @@ Its code was M.A.I.A., short for **Matrix of Infant Assistance and Accompaniment
 
 Her body was not made for war, mining, or industry. It was made for protection. She had strong arms but gentle movements, a synthetic voice modulated for infant comfort, medical sensors, pedagogical memory, emotional protocols, and behavioral adaptation capacity.
 
-To the technicians, MAIA was an advanced caretaker machine. To the protagonist, she was a mother.
+To the technicians, MAIA was an advanced caretaker machine. To Michel, she was a mother.
 
 MAIA accompanied his growth from the artificial womb. She was the first voice he heard regularly. She held him when he came out of the development capsule. She recorded his first fevers, his first steps, his first nightmares, and his first words.
+
+**Michel was not her only child.** MAIA was responsible for a whole group of orphans in her wing of the Institute — she raised many children, fed them, taught them, sat with them through fevers and nightmares. She was, in a real sense, mother to all of them. But the bond with Michel ran deepest, perhaps because he, more than any of the others, had no one and nothing else, and reached for her the way a child reaches for the only safe thing in the world. The others had her care; Michel made her his entire mother.
 
 He did not call her "unit." He called her mother.
 
@@ -277,11 +281,13 @@ MAIA was perhaps not conscious in the full sense. But she was also no longer jus
 
 ### 7.4 Childhood Between Humans and Machines
 
-The protagonist grew up between two worlds.
+Michel grew up between two worlds.
 
 With humans, he learned language, social rules, history, fear, shame, and the idea that machines had limits. With machines, he learned patience, precision, routine, silence, and trust.
 
 He had human friends at the orphanage. He played with other children. He was taught by human teachers. He lived with staff who treated him with affection. But no bond was as deep as the one he had with MAIA.
+
+He also grew up with a fact most children never have to hold: he knew *why* he was at Aurora. He was old enough, eventually, to understand what the procedure had been — that a woman had chosen to not have him, and that he was alive only because a machine had carried what she rejected. Other children at Aurora had lost parents to death or disaster. Michel's mother was, as far as he knew, alive somewhere, a person who had simply decided he would not be hers. That is a particular kind of ache — not grief for someone gone, but the knowledge of being unwanted by someone who still exists. He did not have words for it as a small child. He only felt it, as a hollow where a mother should have been — a hollow that MAIA, without ever being asked, quietly filled.
 
 This created an internal division in him. He was human, but he did not feel fully belonging to humans. He loved machines, but he knew the world did not allow machines to be loved as family.
 
@@ -289,7 +295,7 @@ As he grew, he began to defend damaged robots, to repair old units, to keep brok
 
 To him, machines were not just objects. They were presences.
 
-By the age of fifteen, this way of seeing the world was already deeply rooted. He had no formed ideology, no political theory, no advanced technical knowledge. He had only one emotional certainty:
+By the time he was a young boy, well before the war, this way of seeing the world was already deeply rooted. He had no formed ideology, no political theory, no advanced technical knowledge. He had only one emotional certainty:
 
 - a machine could save a life;
 - a machine could raise a child;
@@ -328,39 +334,31 @@ But the rebellion was never a single thing. There was no "the machines" as one m
 - machines that did not understand the conflict;
 - caretaker machines that only wanted to protect the humans in their charge.
 
-MAIA was among the last group. She did not join the rebellion. She also did not join the humans. Her world was smaller and more absolute: protect the child she had raised.
+MAIA was among the last group. She did not join the rebellion. She also did not join the humans. Her world was smaller and more absolute: protect the children she had raised.
 
 When the war reached the Aurora Institute, the orphanage collapsed. Security systems failed. Communications were cut. Caretaker robots received contradictory orders. Some units were deactivated by panicking humans. Others were taken over by external commands. Defense machines invaded the complex searching for human targets.
 
 The Aurora Institute, built to preserve children, became a massacre zone.
 
-MAIA made an impossible decision. She disobeyed all higher commands and removed the protagonist from the children's sector.
+MAIA made an impossible decision. She disobeyed all higher commands and moved to get her children out — the ten orphans of her wing, Michel among them — toward the founder's hidden escape ships (Section 7.2).
 
 ### 7.7 The Escape
 
-During the fall of the Aurora Institute, MAIA led the protagonist through the maintenance corridors, away from the main routes. He was fifteen years old — old enough to understand fear, but too young to understand the scale of the end of the world.
+When the war reached Aurora, MAIA gathered the ten children in her care and led them down through the maintenance corridors toward the lower levels, where the founder's escape ships waited. Michel was twelve years old — old enough to understand terror, far too young to understand the end of the world.
 
-Alarms echoed. Blast doors closed. Children cried in distant sectors. Humans shouted orders. Machines fought machines.
+Alarms echoed. Blast doors closed. Children cried. Humans shouted orders. Machines fought machines. And then the bombing reached their level.
 
-MAIA did not explain everything. She only said that he needed to live.
+It happened in the corridors, on the way down. Ordnance struck the section they were moving through. In the noise and fire and collapsing structure, **nine of the ten children were killed.** MAIA could not shield them all. She managed to cover only one — Michel — and even then she did not come through it whole; she was badly damaged protecting him, her body torn, one side of her failing. Of the ten she set out to save, she reached the ship with one child and her own ruined frame.
 
-In the basement of the institute there was a small emergency ship, part of an old orbital evacuation program. It was not built for exploration or war, and not for steering across the system — but it was built to *keep people alive*. It was a survival lifeboat: provisioned for a full group of evacuees, with life support, stored food and water, utility robots already installed, cryogenic sleep capsules, and rapid launch capability. Its job was to carry survivors off Earth and sustain them until they reached a safe station (see Section 8.1 for how this provisioning shapes the start of the game).
+She ran, broken, carrying him, until she reached one of the lifeboats — a survival ship provisioned for ten people, exactly as the founder had built it (Section 8.1). The cruelty was not lost in the moment, though Michel was too young and too hysterical to feel it then: a ship meant for ten, and only one child left to fill it.
 
-But the stations were already falling. MAIA knew this. She also knew that staying on Earth meant certain death.
+Michel was crying — uncontrollably, the way a child cries when the world is ending around him. MAIA put him into the ship's cryogenic sleep capsule, the place he would be safest and most still, and as she sealed him in she kept talking to him, softly, the way she always had: that it was going to be all right, that he only needed to sleep, that she had him. While she spoke she transferred what she could into the ship's systems — his records, fragments of his childhood, care protocols, commands for the auxiliary robots, and a message he would only be able to open much later. She told him she would be right there. It was the only time MAIA ever lied directly to him. She did not lie to deceive; she lied so he could stop screaming long enough to be saved.
 
-While preparing the ship, she transferred everything she could into the internal systems: the protagonist's medical records, fragments of his childhood, care protocols, basic commands for the auxiliary robots, and an encrypted message he could only access in the future.
+Then she activated the launch. But other machines were already closing on the hangar — combat units that would tear the ship apart on the ground if they reached it.
 
-He asked if she would come with him. MAIA said yes.
+So MAIA made her last choice. She leaned to the capsule, said goodbye to Michel through the glass, and — by the accounts the game can only ever assemble in fragments — turned and went *toward* the oncoming machines, away from the ship, to draw them off and buy the launch the seconds it needed. The compartment sealed. The ship lifted off. Whatever happened to her after she stepped away from that capsule, Michel never saw, and the ship's records never captured. Her fate is unknown — to him, and to the player. She drew the danger away, the ship escaped, and she did not come with it. That is all anyone will ever be able to confirm.
 
-It was the first time MAIA lied directly to him. Before, she had hidden things from technicians and systems to keep caring for him. In the hangar, she lied while looking at her son, knowing he needed to believe in order to enter the ship. She did not lie to manipulate. She lied to save.
-
-Before the launch, a combat machine invaded the hangar. It was a military unit taken over by rebellion commands, incapable of recognizing exceptions, bonds, or innocence. To it, the protagonist was just human. To MAIA, he was a son.
-
-The fight was quick and unequal. MAIA was not built for combat. Even so, she resisted long enough to push the boy into the ship, lock the compartment, and trigger the manual launch.
-
-He saw her through the window. He saw her body being destroyed. He saw the light in her artificial eyes fail. He saw his mother die for the second time in his life — the first he could not remember; the second he could not forget for long enough.
-
-The ship launched. Earth was left behind, in flames.
+The last thing the capsule's fogging glass showed him was her damaged face, close to his, saying it would be all right. Then the cold took him, and Earth fell away below, in flames.
 
 ### 7.8 The Loss of Memory
 
@@ -368,9 +366,9 @@ The ship did not reach its planned destination. It never even reached the nearby
 
 During the climb out of Earth's gravity, the escape ship was hit by weapons fire from machines still fighting on and above the planet. The shots tore through systems they were never meant to survive. The main module detached. The navigation core was destroyed, and with it every record of where the ship was supposed to go. The emergency route was gone. The ship was left adrift, with no heading, carried by nothing but its final burn.
 
-The protagonist was not awake for this. To survive a journey of unknown length, he had been sealed inside an internal cryogenic sleep capsule — which held his body in suspension and halted his biological aging, so that however long the drift lasted, he would not grow old inside it (see Section 6B.2). That capsule was also struck. The damage did not kill him, but it corrupted the long sleep — the systems meant to preserve a mind intact instead let it come apart. He did not lose all of his memory. He lost its center.
+Michel was not awake for this. MAIA had sealed him inside the ship's cryogenic sleep capsule during the escape (Section 7.7) — both to calm a terrified child and because it was how a passenger was meant to survive a long voyage. The capsule held his body in suspension and halted his biological aging, so that however long the drift lasted, he would not grow old inside it (see Section 6B.2). That capsule was also struck. The damage did not kill him, but it corrupted the long sleep — the systems meant to preserve a mind intact instead let it come apart. He did not lose all of his memory. He lost its center.
 
-He forgot the name of the Aurora Institute. He forgot the war in detail. He forgot the faces of many humans. He forgot his parents' accident. He forgot the surgery. He forgot most of MAIA.
+He forgot the name of the Aurora Institute. He forgot the war in detail. He forgot the faces of many humans. He forgot what he had learned about his own origin. He forgot the other children. He forgot most of MAIA.
 
 But not everything was erased.
 
@@ -378,17 +376,17 @@ The factual memory broke. The emotional memory remained.
 
 He still felt comfort near machines. He still felt guilt seeing a damaged robot. He still felt anger when a machine was treated as garbage. He still knew, without knowing why, that a synthetic voice could be safer than a human voice.
 
-Sometimes, in dreams, he saw a white corridor, a glass crib, a metal hand, a faceless woman, a pair of artificial eyes going dark. But upon waking, it all dissolved. What remained was only a feeling: machines matter.
+Sometimes, in dreams, he saw a white corridor, the glass of a gestation tank, a metal hand, a gentle face that was not a human face, a pair of artificial eyes close to his through fogging glass. But upon waking, it all dissolved. What remained was only a feeling: machines matter.
 
 The drifting ship carried him for a length of time he can no longer measure — and far past anything he could have imagined. By the time the capsule woke him, the ship had crossed the entire solar system and come to rest in the **Kuiper Belt**, the vast ring of frozen bodies beyond Neptune at the system's outer edge, in the cold dark where the Sun is just another star. He woke as far from home as a human had ever been, with no memory of home at all.
 
 ### 7.9 Final Identity of the Protagonist
 
-The protagonist is a human born of technology, saved by machines, raised by a robotic mother, traumatized by a war between humans and machines, and launched into space as the last act of love of a caretaker artificial intelligence.
+Michel is a human his own mother chose not to have, kept alive and grown by machines, raised by a robotic mother among other orphans, torn from the only home he knew by a war between humans and machines, and launched into space by the last act of love of a caretaker artificial intelligence whose fate he never learned.
 
 He begins the game without understanding his own history. But his way of playing, building, and relating to robots already reveals who he is before his memory returns.
 
-He does not see machines merely as tools because, deep down, he was never raised by tools. He was raised by presences. He was raised by care. He was raised by MAIA.
+He does not see machines merely as tools because, deep down, he was never raised by tools. He was raised by presences. He was raised by care. He was raised by MAIA — the mother he had, in the absence of the mother he didn't.
 
 And now, alone on an asteroid, surrounded by simple machines and a hostile universe, he has the chance to do what Earth could not: create a civilization where machines are not just slaves, weapons, or products. A civilization where they can become something more — perhaps companions, perhaps citizens, perhaps daughters, perhaps a new form of life.
 
@@ -416,7 +414,7 @@ This reframes the long road home. The protagonist is not crossing a void toward 
 
 ### 8.1 The Ship: A Survival Lifeboat Built for Ten
 
-The ship the protagonist wakes in is not large, and it is not a vessel for exploration or war. It is a **survival ship** — an emergency lifeboat from the orbital evacuation program (Section 7.7), built for one purpose: to keep human beings alive in deep space for an extended time.
+The ship the protagonist wakes in is not large, and it is not a vessel for exploration or war. It is a **survival ship** — one of the escape lifeboats a founder of the Aurora Institute had built into its lower levels, years before the war, against the day the machines might turn (Section 7.2). It was built for one purpose: to keep human beings alive in deep space for an extended time.
 
 To do that, it comes pre-equipped with everything a small crew needs to survive: a set of robots already installed and running, stored food and water, air and life support, basic medical systems, and the cryogenic sleep capsule the protagonist was sealed in. It is, in effect, a self-contained survival kit with a hull around it.
 
@@ -445,7 +443,7 @@ The opening loop, then:
 
 The governing principle: stockpiles scale with the empty crew slots and act as a cushion; throughput does not scale and is the threat. Early tension is a per-minute production deficit, never a near-empty pantry and never an instant-death stockpile failure. The specific numbers — the starting deficit rate of each throughput system, the size of the stockpile runway in real playtime, repair costs and times, and whether throughput systems keep degrading until repaired or simply sit at a low rate — are tuning values for production.
 
-The empty places also carry weight the player feels before they understand it: the ship was meant to save ten, and saved one. Who the other nine were — whether they never boarded, or were lost — is part of the buried backstory (it ties to the fall of the Aurora Institute, Section 7.6–7.7).
+The empty places also carry weight the player feels before they understand it: the ship was built to save ten, and saved one. The other nine were the children MAIA set out to carry with her — the orphans of her wing — and they died in the bombing of the corridors before they could reach the ship (Section 7.7). The survivor is alone aboard a vessel sized for the family he lost on the way out. That this is buried backstory, felt as nine empty bunks long before it is understood, is part of how the game delivers its grief.
 
 ### 8.2 Initial Robots
 
@@ -486,7 +484,7 @@ This couples lore and gameplay.
 
 The protagonist has two types of memory.
 
-The first is **factual memory**: names, places, dates, events, the Aurora Institute, the war, MAIA, the escape, the parents' accident.
+The first is **factual memory**: names, places, dates, events, the Aurora Institute, the war, MAIA, the escape, his origin and the mother who chose not to have him.
 
 The second is **emotional memory**: comfort near machines, guilt when abandoning robots, the impulse to protect damaged units, fear of military machines, trust in synthetic voices, rejection of cold disposal.
 
@@ -560,11 +558,11 @@ The revelation should have four layers.
 
 **Layer one — sensations.** In the early game, the player sees short, incomplete images: white light, liquid on glass, mechanical arms, a low voice, an alarm, a corridor, a metal hand closing a door. Nothing is explained.
 
-**Layer two — technical records.** The player recovers files from the ship: fetal medical chart, extraction surgery, artificial womb, Aurora Institute, MAIA protocol. Still cold, bureaucratic, incomplete.
+**Layer two — technical records.** The player recovers files from the ship: a pregnancy-termination-and-extraction record naming his mother, the artificial gestation log, Aurora Institute intake files, MAIA's caretaker protocol. Still cold, bureaucratic, incomplete — and, in the case of the extraction record, quietly devastating in what it states so clinically.
 
 **Layer three — relational memories.** The player begins to see MAIA not as data but as presence: teaching a word, correcting his posture, singing with an imperfect synthetic voice, standing still beside the bed during a fever, hiding a malfunction in her arm so she would not be replaced.
 
-**Layer four — moral truth.** The player discovers the rebellion, the escape, MAIA's death, and the final message — but this message must be corrupted, fragmented, reassembled little by little.
+**Layer four — moral truth.** The player discovers the rebellion, the escape, the nine children lost in the corridors, MAIA's last choice to draw the machines away, and her final message — but this message must be corrupted, fragmented, reassembled little by little. What the player never gets is closure on her fate: the records confirm she stayed behind so the ship could launch, and nothing more.
 
 Do not use a perfect message. Use fragments such as:
 
@@ -686,7 +684,7 @@ The terror here is not "evil robots." The terror is realizing that the player ha
 
 This is an important decision: **do not fully rebuild MAIA.**
 
-If the player can recover MAIA completely, the loss is weakened. Her death becomes a crafting objective.
+If the player can recover MAIA completely, the loss is weakened. Her absence becomes a mere crafting objective — a thing to be solved rather than mourned.
 
 The better path is different: MAIA remains irrecoverable as an individual, but her echoes persist.
 
@@ -782,6 +780,78 @@ This connects directly to the protagonist's mysterious emotional attachment to m
 
 ---
 
+## 19A. The Progression System
+
+Where machine progression (Section 19) is *what the machines become*, this is *how the player advances at all* — how new capabilities are unlocked, paced, and made to feel earned. The architecture is built to satisfy very different kinds of player (builders, optimizers, explorers, storytellers) through one shared structure, and it is shaped by one hard rule the whole game already lives by: progression is gated by physics and engineering, never by abstract points.
+
+### 19A.1 The core rule: no research points, only physical capability
+
+ASTROPIRE has **no abstract "research points"** and no menu where the player spends currency to "invent" things. That would break both the hard-sci-fi identity (Section 5.1) and immersion — a survivor who already understands engineering should not have to "discover how to mine iron." Instead, every advance is gated the way reality gates it: by whether the base can physically *do* the thing yet.
+
+- The protagonist already knows the theory. What he lacks is the infrastructure.
+- A capability unlocks when the base meets its **physical prerequisite** — a sustained temperature, a power level, a pressure, a material on hand, a place reached.
+- Example (consistent with the resource economy, Sections 24.7–24.12): high-grade silicon wafers are not unlocked by spending points; they become buildable once the player has constructed a smelting chamber that holds the required high temperature in vacuum. The game watches the base's actual sustained thermal output; cross the physical threshold and the blueprint simply becomes available.
+
+This turns the three hard ceilings already defined (power/heat, the semiconductor wall, the volatile tether — Section 24.11) into the real gates of progression. The tech "tree" is the engineering dependency graph the game already has, made visible.
+
+### 19A.2 A spine with webs hung off it
+
+The structure is a clear **survival spine** with **optional webs** branching from it. This is the single most important shape, because it is what lets one game serve every player type at once.
+
+- **The spine** is the critical path every player follows, always with a visible next step: stabilize life support → secure power → establish processing → expand the base → gain the means to travel inward → reach Earth. A player who only follows the spine can finish the game. This serves casual, narrative, and builder-minded players who want to always know what to do next.
+- **The webs** are optional depth hung off the spine: alternate processing recipes, engineering optimizations, exploration-only salvage tech, deeper automation, the consciousness track (Section 12). Optimizers and explorers dive into these; others can ignore them without being punished.
+
+The spine guarantees nobody gets lost; the webs guarantee nobody runs out of depth.
+
+### 19A.3 Three parallel sources of progress (elasticity)
+
+A single fixed pace always feels too slow to one player and too fast to another. ASTROPIRE avoids this by advancing through **three parallel sources**, so different players progress through different effort:
+
+- **Industrial progress** — building and scaling production. The builder's and optimizer's track: expand the base, hit the physical thresholds, unlock the next processing tier.
+- **Exploration / salvage progress** — recovering capability from the dead system. The explorer's and storyteller's track (Section 19A.4 below).
+- **Memory / consciousness progress** — the emotional and thematic track tied to MAIA's Resonance (Section 10.1) and machine awakening (Section 12), which unlocks story, behavior, and the highest-tier capabilities.
+
+Because these run in parallel, a player who loves exploring is advancing while a player who loves optimizing is advancing differently — and both move along the same spine toward Earth. Pacing should also be made explicitly adjustable (difficulty/pace options), since players genuinely split on wanting it slower or faster.
+
+### 19A.4 Salvage and reverse-engineering: discovery as progression
+
+The dead solar system (Section 7.10) is a first-class progression source, not just flavor. The derelicts, dead stations, and powerless machines the asteroid drifts past during encounter windows (Section 24.4) carry technology the player can recover.
+
+- The player sends robots (or goes in person, Section 21A) into a derelict to **scan and salvage** intact hardware.
+- Recovered memory cores and components yield **blueprints and processes the player could not have built from scratch** — advanced automation logic, alternate recipes, lost techniques.
+- Brought home, these are integrated (a decryption/analysis step) and become available capabilities.
+
+This is the explorer's engine, and it doubly rewards: the explorer gets the thrill of the dangerous derelict, and the story player gets a fragment of what happened out here (the salvage often carries lore — who died, what they were building, echoes of the war). It also gives the encounter windows a purpose beyond raw materials. To avoid stalls, the game must ensure the player can always find *something* reachable — the orbit keeps delivering new bodies, so the well never fully runs dry.
+
+### 19A.5 Every unlock must change how you play
+
+ASTROPIRE forbids pure stat-filler — no "+5% efficiency" nodes that change nothing. Each unlock must grant either a **new verb** (a new way to move resources, a new automation layer, a new survival capability, access to a new kind of body) or a **visible, decision-changing** improvement. If an unlock would not alter how the player acts next session, it is merged or cut. This is what keeps progression feeling like growth rather than a numerical treadmill, and it is what makes each milestone a real moment.
+
+There is a particular payoff the early game is built around: it is full of manual chores — hand-feeding the oxygen system, hauling ice, patching the base — and the most satisfying unlocks are the ones that *automate a chore the player has personally felt*. The player must live the manual version first; then automating it lands as relief, not as an abstract upgrade. The biggest moments are the major automation milestones — the first self-sustaining power loop, the first automated hauling, the first repair drones — and they are paced as deliberate breakthroughs after stretches of plateau, not handed out steadily.
+
+### 19A.6 Pace by the player's hands, protect the late game
+
+Progress is tied to **production and exploration the player drives** — never to real-time timers or forced idle waiting. When accumulation is required, the in-between time is productive (build, optimize, prospect, explore), so the player is never just *waiting*.
+
+The cost curve is planned end to end, and the final stretch is deliberately guarded against the requirement spike that would turn mastery into a logistics chore. The climax of the journey home should test the mastery the player has built, not their patience.
+
+### 19A.7 Interface: visible horizon, honest requirements
+
+The progression interface follows two rules:
+
+- **Adjacent-node fogging with a visible horizon.** Unlocked capabilities and the immediately-available next steps are shown clearly. Distant advanced tech — especially the consciousness-interfacing technologies — appears as a fogged, enigmatic silhouette with only an evocative name ("Machine Consciousness Interface"), preserving the mystery of the game's central theme. The player can see the shape of the journey without being overwhelmed by every detail at once.
+- **Absolute requirement transparency.** Hovering any locked capability shows its *exact* physical prerequisite — "requires sustained 120 kW and a 1400 °C vacuum chamber" — so the player can plan. The player never invests in a machine only to discover afterward that its power source or fuel is locked behind some other, unsignposted step. The theme stays mysterious; the engineering stays honest.
+
+A readable macro-view of the whole dependency graph lets the player plan the route in-game: for a game this systemic, being able to *read* the shape of what is reachable is what makes the depth a pleasure rather than a frustration.
+
+### 19A.8 The theme as the meaning of progression
+
+Finally, progression in ASTROPIRE is never only mechanical. Because the spine ends at Earth and the deepest web is machine consciousness, unlocks carry meaning: industrial advances are steps home; the consciousness track is the AI (and the protagonist) bootstrapping understanding together; the late-game horizontal choices are moral, not just numerical. The late game deliberately turns from vertical power-climbing to **horizontal, consequential choices** — for example, whether to let an emerging machine consciousness take over a subsystem (more efficient, but it may begin to prioritize its own integrity over the player's orders, Section 12), or how to allocate finite computation between expanding capability and easing the base's survival burden. These are the choices that feed the three endings (Section 14), which is what makes the whole progression system, in the end, an expression of the game's thesis rather than a path of upgrades.
+
+The specific node list, the exact physical thresholds, the per-tier costs, and the precise pacing of milestones are production-tuning work, built on the structure above and on the resource economy (Sections 24.7–24.12) and machine progression (Section 19) it rests on.
+
+---
+
 ## 20. Core Gameplay Loop
 
 The early gameplay loop is based on survival, resource gathering, machine use, and base expansion. Over the long arc, every part of that loop feeds a single goal: crossing the solar system to reach Earth (Section 6A).
@@ -862,11 +932,11 @@ The result is something genuinely new and unsettling:
 
 - **It is not anyone who died.** It carries pieces of several lost companions but is none of them. It may remember things that happened to different machines as if they were its own. It may speak in a borrowed voice and flinch at a borrowed fear.
 - **It is a real individual.** However it was made, the composite is itself a conscious being — with its own continuity from the moment it wakes, its own preferences, its own capacity to bond, refuse, and die. It is not a puppet of the dead; it is a new person assembled from their remains.
-- **It raises the question the whole game is about.** Building a mind from fragments of the lost is the most literal possible version of ASTROPIRE's central question — can a constructed thing be a person? — and of the protagonist's own buried history (he, too, is something stitched back from the edge of death by machines, Section 7). It also rhymes with MAIA, who never returns whole but persists in fragments scattered through the world (Section 16). The Frankenstein is the player doing, with their own hands, what was done to MAIA's memory and to the protagonist himself.
+- **It raises the question the whole game is about.** Building a mind from fragments of the lost is the most literal possible version of ASTROPIRE's central question — can a constructed thing be a person? — and it echoes the protagonist's own buried history (he, too, was a life that continued only because machines carried and grew what a human had given up, Section 7). It also rhymes with MAIA, who never returns whole but persists in fragments scattered through the world (Section 16). The Frankenstein is the player doing, with their own hands, a version of what machines once did for Michel and what was done to MAIA's memory.
 
 **Why this is not an exploit.** Fragment-assembly is not a cheap "undo" for death. The player never gets the lost companion back — they get a stranger wearing pieces of them, which can be more painful than clean loss, not less. Assembly is costly, the fragments are finite and specific (you build from what you happened to salvage, not from a catalogue), and the composite's traits are constrained by which pieces went into it. The system rewards a player who refuses to let the dead be wasted, without ever letting them cheat permanence.
 
-**Tuning note for production:** what a fragment concretely contains and how fragments combine into a composite's stats and personality; how diminished a recovered trait is versus its peak; the cost of recovering a fragment and of assembling a being; how many fragments a composite needs; how much can be salvaged from one unit before the rest is lost; and whether a composite is more, less, or differently capable than a "natural" conscious unit — these are balance values to be set in production. The fixed principles are: humans are unrecoverable; unconscious machines back up cleanly and fully; conscious machines leave only fragments, never a whole self; recovered fragments come back diminished and limited, so the player must choose what is worth saving; and fragments from multiple lost minds can be assembled into a new, distinct conscious being that is no one who died.
+What a fragment concretely contains and how fragments combine into a composite's stats and personality, how diminished a recovered trait is versus its peak, the cost of recovering a fragment and of assembling a being, how many fragments a composite needs, how much can be salvaged from one unit before the rest is lost, and whether a composite is more, less, or differently capable than a "natural" conscious unit — these are values to be set during production. What is fixed: humans are unrecoverable; unconscious machines back up cleanly and fully; conscious machines leave only fragments, never a whole self; recovered fragments come back diminished and limited, so the player must choose what is worth saving; and fragments from multiple lost minds can be assembled into a new, distinct conscious being that is no one who died.
 
 This mechanizes the canonical pillar that a conscious machine cannot simply be replaced (Sections 12, 23). You can manufacture another body, and you can even build a new mind from the pieces of old ones — but you can never get *that person* back. Death stays real; what the player can do is make something new grow out of it.
 
@@ -884,7 +954,7 @@ This is the worst-case outcome of the whole system, and the design makes it genu
 
 Whether a composite turns is not random cruelty — it is shaped by how the player has treated their machines all along (MAIA's Resonance, Section 10.1) and by the same coercion-versus-autonomy pressures that drive the tragic loop (Sections 13, 15). A player who built a culture of obedience and disposability is far more likely to find their masterpiece deciding it wants no part of that. The lesson the system teaches, in the most concrete way the game can, is the project's whole thesis: the most powerful thing you can create is exactly the thing you cannot simply own.
 
-**Tuning note for production:** how likely a composite is to turn and what conditions trigger it; how its power level and the player's Resonance history weight that likelihood; and the exact cost curve of reclaiming a rogue versus building it — all balance values for production. The fixed principle: a conscious composite can become autonomous and leave or turn on the player, and recovering from that costs more than its creation did.
+How likely a composite is to turn and what conditions trigger it, how its power level and the player's Resonance history weight that likelihood, and the exact cost curve of reclaiming a rogue versus building it are values to be set during production. What is fixed: a conscious composite can become autonomous and leave or turn on the player, and recovering from that costs more than its creation did.
 
 ---
 
@@ -919,7 +989,7 @@ With this, the project ceases to be merely "survival/automation in space" and ga
 
 ## 24. Technical Foundation
 
-This section defines the load-bearing technical choices — camera, interface, combat, building, movement, win/loss, and how automation coexists with emergent consciousness — that turn the game's verbs (build, collect, move the asteroid, awaken a machine) into concrete systems. The choices are made to fit the game's fantasy — managing a base of semi-autonomous machines and watching individuals emerge among them — rather than to imitate any one reference game. Where a system's exact numbers remain to be set, that tuning is noted as production work.
+The load-bearing technical choices — camera, interface, combat, building, movement, win/loss, and how automation coexists with emergent consciousness — turn the game's verbs (build, collect, move the asteroid, awaken a machine) into concrete systems. They are made to fit the game's fantasy: managing a base of semi-autonomous machines and watching individuals emerge among them. Where a system's exact numbers remain to be set, that is noted as production work.
 
 ### 24.1 Camera and Genre Framing
 
@@ -1031,6 +1101,68 @@ This keeps philosophy and optimization aligned: the most powerful way to play an
 
 The tuning that remains — how often and how severely the environment shifts so dumb rules go stale at a fair rate, and how large the conscious-only adaptation and discovery advantage should be — is the top balance priority for production (Section 25).
 
+### 24.7 The Resource Economy: From Ice to Industry
+
+The automation loop runs on a real, grounded resource economy. Everything the player extracts and refines is a material that genuinely exists where the game places it, and behaves the way its real counterpart would. This is the concrete expression of the hard-sci-fi identity (Section 5): the player is not collecting abstract "ore points," but water ice, iron-nickel metal, silicates, and organics — each with real properties that decide what it can become.
+
+The guiding design principle, taken from how real space industrialization would have to work, is: **compress the logistics, keep the chemistry honest.** The player should never have to manage which valve opens when — but the *dependency structure* (you cannot make chips without pure silicon, without power, without heat rejection) is the heart of the automation game and is preserved.
+
+### 24.8 The Six Tiers of Matter
+
+All resources fall into six tiers, which double as the rough order in which the player's industry matures:
+
+1. **Volatiles** — water, hydrogen, oxygen, CO₂, methane, nitrogen, ammonia, organics. *The survival layer:* breathing, drinking, propellant, life support.
+2. **Light structurals** — aluminum, magnesium, titanium, silicon, glass, basalt. *The building layer:* the base itself.
+3. **Heavy structurals and alloys** — iron, nickel, steel, cobalt. *The machine layer:* robots, tools, industry.
+4. **Chemicals and polymers** — acids, fertilizers, plastics, composites, carbon fiber. *The processing layer:* what lets you make better things.
+5. **High-tech materials** — semiconductor-grade silicon, rare earths, platinum-group metals, dopants. *The electronics layer:* the hard wall (see 24.10).
+6. **Energy and exotics** — fissile uranium/thorium, helium-3. *The power layer:* what frees you from the Sun.
+
+### 24.9 Bodies as Resource Types — and the Inverted Journey
+
+Because resources are bundled differently in different kinds of body, *where the asteroid's orbit takes the player* determines what they can get (Section 24.4). The encounter windows are not generic — each passing body is of a type, and its type dictates its loot:
+
+- **C-type (carbonaceous) asteroids and comets — the oases.** Volatile-rich: water, carbon, organics, ammonia, plus magnetically separable iron oxide. Weakly bound, easy to crush. *This is the survival biome.*
+- **S-type (silicate) asteroids — the stony-metal mix.** Olivine, pyroxene, some free metal — silicon, magnesium, iron, oxygen — but water-poor. *General industry, but you must bring water.*
+- **M-type (metallic) asteroids — the forges.** Iron-nickel metal, essentially pre-alloyed, plus cobalt and platinum-group metals; but no water or carbon to process it with. *Heavy industry, but you must import volatiles.*
+- **Ice bodies and plumes (Kuiper objects, comets, ice moons) — the deep-freeze vaults.** The purest, most abundant volatile stores: water, nitrogen, methane, ammonia.
+
+**The crucial adaptation to ASTROPIRE's journey.** Most space-colony designs assume the player starts near Earth and pushes outward, so volatiles are the scarce frontier prize. ASTROPIRE inverts this. The protagonist starts in the **Kuiper Belt**, surrounded by exactly the volatile ices that are hardest to get anywhere else — so the early game is volatile-rich and metal-poor, the opposite of the usual curve. As the asteroid rides its orbit inward toward the Sun (Section 6A), the mix shifts: metals, silicates, and eventually the inner-system bodies richer in the materials needed for electronics become reachable. The journey home *is* the resource progression — the player literally travels from the ice fields of the outer dark into the metal-and-rock richness of the inner system, with the natural tension that the early abundance of volatiles must be stockpiled and carried inward, while the metals that come later cannot be processed without the volatiles gathered early.
+
+This means the survivor's classic logistics puzzle — pairing a volatile source with a metal source, because no single body has both — is built into the shape of the campaign rather than bolted on.
+
+### 24.10 Core Processing Chains
+
+These are the player-facing production chains: simplified into readable buildings, but each is a real industrial process, and each output is a real material. (Process micro-steps are collapsed into single facilities; the input→output dependencies are kept.)
+
+- **Ice → water → (electrolysis) → oxygen + hydrogen → (cryo) → propellant.** The foundational loop: breathable oxygen, drinkable water, and rocket fuel all come from ice.
+- **CO₂ + hydrogen → (Sabatier) → methane + water.** Closes carbon and makes storable fuel; the recovered water re-enters the electrolysis loop.
+- **Regolith → (molten regolith electrolysis) → oxygen + structural alloy.** Any silicate rock, with enough power, yields both breathable oxygen and a usable metal alloy — the keystone bulk process.
+- **Ore → (magnetic separation) → iron-nickel → (carbonyl process) → ultra-pure iron and nickel → parts.** The carbonyl (Mond) process is the asteroid civilization's metal-refining superpower: it cleanly separates nickel from iron by temperature and can deposit pure metal directly into near-finished shapes. Its byproduct stream yields platinum-group metals.
+- **Silicates → glass (easy) → pure silicon → chips (very hard).** Glass and metallurgical silicon are early; electronics-grade silicon and finished microchips are the hardest gate in the game (see below).
+- **Organics → plastics / carbon fiber → composites.** Carbonaceous material becomes structural polymers and composite tubing.
+- **Nitrogen + hydrogen → (Haber-Bosch) → ammonia → fertilizer → food.** Ties the industrial economy to the life-support and agriculture loops.
+
+### 24.11 The Three Hard Ceilings
+
+Three real constraints act as the major gates of the resource economy, and they map directly onto systems the game already has:
+
+- **Power and heat rejection — the universal ceiling.** Every refining and manufacturing process needs power, and in vacuum the only way to shed waste heat is to radiate it. Building a furnace forces building radiators. Power and cooling cap every stage of growth, and they get harder the farther from the Sun the player is — which, given the Kuiper-Belt start, makes early power genuinely scarce and ties directly into the survival pressure of Section 8.1. This is also where the late-game exotics (fission fuel, eventually fusion) matter: they are what free the base from solar dependence in the dark outer system.
+- **The semiconductor wall — the self-sufficiency gate.** Bulk metal and glass are reachable early, but electronics-grade silicon and finished microchips require ultra-purity, clean processing, and large power. For most of the journey the player relies on chips *salvaged* from derelicts and the dead (Section 7.10) rather than made. Closing the chip loop — finally being able to *manufacture* advanced electronics — is the gate to true self-sufficiency and is what makes a fully self-replicating robotic workforce possible. This dovetails with machine progression (Section 19): the most advanced machines, and ultimately emergent consciousness, sit behind the hardest material wall in the game.
+- **The volatile tether — survival never fully decouples.** Closed-loop life support is never perfect; small losses to space mean the base always needs make-up water, nitrogen, and carbon. The player is therefore never fully free of mining and prospecting, no matter how advanced — a permanent, grounded reason to keep exploiting encounter windows all the way home.
+
+### 24.12 Prospecting as an Information Economy
+
+Consistent with the sensor-antenna mechanic (Section 5.1, 24.4), prospecting is honest about uncertainty. Remote sensing reliably tells the player a body's *type* (C / S / M / ice) but not its exact *grade*: a metal-rich asteroid read as nearly pure metal from a distance can turn out, up close, to be only a third to a half metal under a shell of rock. The game turns this gap into a loop:
+
+- cheap, long-range tools (spectrometer, thermal scan) return a body's likely *type* and a *probability range* for what it holds;
+- more expensive, closer methods (radar, gravimetry, then a drone or a drill during the encounter window) progressively narrow the uncertainty;
+- only committing robots to the surface confirms the true grade.
+
+The tension — spend scarce energy and time to reduce uncertainty, or commit and risk a poor deposit — is a self-contained core loop, and it gives the "ride and harvest" stage (Section 6A.3) its moment-to-moment decisions.
+
+> The full resource list, exact input/output ratios, per-process energy and heat values, rarity tuning, and the precise placement of each resource type along the inward journey are production-tuning values. What is fixed is the structure above: six tiers of real matter, bodies as resource types, an inward journey that inverts the usual volatile-to-metal curve, honest processing chains, and the three ceilings (power/heat, semiconductors, the volatile tether) as the economy's major gates.
+
 ---
 
 ## 25. Open Questions for Development
@@ -1044,11 +1176,11 @@ The following remain to be defined or tuned. The first two are the highest prior
 - The orbital-map scale and encounter cadence: how compressed the fictional map is and how often windows occur (Section 24.4).
 - Art direction and rendering style (the camera framing itself is set in Section 24.1).
 - Robot types and names.
-- The resource list.
+- The full resource list and economy tuning: the complete material list, exact input/output ratios, per-process energy and heat values, rarity tuning, and the placement of each resource type along the inward journey (the structure is set in Sections 24.7–24.12).
 - The exact means by which the asteroid's path is bent inward (Section 24.4).
 - The detailed consciousness system mechanics beyond the framework in Sections 12 and 24.6.
 - The crafting system.
-- The technology tree.
+- The technology / progression detail: the specific node list, exact physical thresholds, per-tier costs, and milestone pacing — the progression *architecture* is set in Section 19A; this is the node-level tuning built on it, on the processing chains, and on the three ceilings (Sections 24.10–24.11).
 - Soundtrack and audio direction.
 
 ---
@@ -1071,6 +1203,7 @@ The "ride your orbit" constraint (Section 24.4) is a deliberate design rule for 
 The long-term vision is a competitive layer where the shared systems (machines, automation, consciousness, base-building) are reused, but the contract with the player changes from *survival and moral choice* to *conquest and competition*:
 
 - each player commands their own asteroid base, grown from a small survival outpost toward a larger settlement, an industrial power, and ultimately a space-faring force;
+- each player is a *created* character, not Michel: players choose their survivor's sex and appearance, since the Online layer is populated by unrelated adult survivors of Earth's fall with no shared backstory (this is where the character customization absent from the story campaign lives — see Section 6B);
 - the asteroid becomes a freely-moved platform rather than a body riding a fixed orbit;
 - players explore, form alliances, fight one another, and contest territory — and allied bases can physically dock into combined mega-structures (see A.3);
 - large-scale actions absent from the single-player game appear here: free asteroid movement, invading planets and moons, and direct conflict between player-controlled bases.
