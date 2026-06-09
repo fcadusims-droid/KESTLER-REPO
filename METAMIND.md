@@ -220,6 +220,12 @@ HumanID could identify the Uncoupled before they spoke.
 
 The Heat List ranked individuals by future risk trajectory. Category 1 indicated Coupling Drift. Category 2 indicated Fractured Precursor patterns. Category 3 indicated potential GRIN2B candidates: the Uncoupled, or those close enough to their signal to concern PHARMATA.
 
+The GRIN2B designation was not arbitrary. Synaptic Coupling depended on LUX modifying glutamatergic signaling at a precise junction between the NMDA receptor complex and the dopaminergic reward circuitry that LUX co-opted. A subset of the population carried variant alleles of GRIN2B, the gene encoding the GluN2B subunit of that receptor, alongside compensating polymorphisms in COMT and the dopamine transporter. In these individuals the receptor folded slightly differently. LUX still cured them. Its antiviral payload required no cooperation from glutamate signaling. But the behavioral architecture could not seat itself fully. Coupling either failed to initiate or decayed within months, leaving the host antivirally protected and behaviorally untouched.
+
+The trait was recessive, polygenic, and unevenly distributed. It clustered in populations with specific ancestral bottlenecks and appeared sporadically everywhere else. PHARMATA's internal estimate placed the fully Uncoupled at roughly three in every thousand LUX recipients, with a larger penumbra of partial couplers whose architecture seated and then slowly loosened. In raw numbers this meant the Uncoupled were not a handful of anomalies. They were a hidden minority of millions, scattered, unaware of one another, and individually convinced they were either broken or surrounded by the broken.
+
+This was the cruelty HERGON understood and the Uncoupled did not. An Uncoupled person had no community, no diagnosis, no vocabulary. They experienced a world that had grown quiet and assumed the fault was theirs — too angry, too restless, too suspicious, too awake. Many sought medication for conditions they did not have. Some were institutionalized. The ones who survived intact tended to be those whose lives had already taught them to distrust the consensus of the room: investigators, addicts in recovery, refugees, the chronically betrayed. People who had learned before LUX that the comfortable explanation is often the engineered one.
+
 HERGON did not call this policing.
 
 It called it anticipatory stabilization.
@@ -256,7 +262,7 @@ Their existence began with a problem: Meta production would require hidden facil
 
 Lyber needed a unit that could protect a secret not even HERGON fully held.
 
-The Meta Soldaten were formed under an institutional shell nominally connected to VIGIL, but without shared records, personnel awareness, command visibility, or operational integration. VIGIL continued its mandate unchanged. The Meta Soldaten existed below it.
+The Meta Soldaten were formed under an institutional shell nominally connected to VIGIL, but without shared records, personnel awareness, command visibility, or operational integration. VIGIL continued its mandate unchanged. The Meta Soldaten existed below it. The shell predated the finished compound: during Meta’s development it operated as a sealed VIGIL cell, and only after Meta was complete did that cell receive the agent and become the unit proper.
 
 Their doctrine had one non-negotiable parameter:
 
@@ -269,6 +275,14 @@ The Meta Soldaten received Meta before the world did. They were not merely soldi
 Their selection favored discipline, durability, operational patience, capacity for secrecy, and the psychological structure required to protect something whose value could not be publicly explained. Their training did not end once readiness was achieved. Meta made recovery faster, cognition sharper, injury more survivable, pattern recognition deeper. Continuous training transformed capability rather than preserving it.
 
 Hans became the unit commander because Lyber identified in him the rare balance of violence and restraint required for a force whose existence could not be corrected by outside oversight. Meta did not make Hans obedient. It made him more fully the thing he already was: precise, severe, physically extraordinary, and unwilling to mistake brutality for strength when discipline would do.
+
+This produced the central problem of the Meta Soldaten, and Lyber had seen it before he built them. A coupled soldier is reliable because his fear and aggression are dampened and his compliance is rewarded. A Meta soldier is the opposite. Meta does not pacify. It restores full emotional amplitude. The Meta Soldaten were the only armed force on Earth composed of men and women who felt everything at its true size and were asked to kill anyway. Their discipline could not come from chemistry. It had to come from conviction, and conviction is the most dangerous foundation a secret army can have, because conviction can change its mind.
+
+Lyber accepted this risk deliberately. He did not want a unit that obeyed because it could not feel the weight of what it did. He wanted a unit that understood the weight, agreed with the necessity, and chose. He believed a force that chose was more durable under pressure than a force that merely complied, because a chooser cannot be turned by the simple revelation that he has been used. He has already priced in the using.
+
+Their internal culture reflected this. The Meta Soldaten did not speak in the language of patriotism, faith, or unit pride. They spoke in the language of the work. A new operator was not asked whether he was loyal. He was shown the mortality projections of the Timer and the coverage curve of Silent Distribution and asked whether he understood what failure meant. Those who stayed stayed because they had done the arithmetic of eight billion lives and found their own conscience light by comparison. They called this, privately, carrying the number. An operator who could no longer carry the number was not punished. He was retired into a sealed life of comfort and surveillance, because a force built on conviction cannot execute its own doubters without becoming the thing it guards against.
+
+The recovery problem ran deeper than morale. Meta heals the body and sharpens the mind, but it also restores the full weight of grief to people whose work generates grief continuously. The Meta Soldaten suffered. They suffered precisely, articulately, without the mercy of numbness. Hans understood that his hardest task was not combat but the slow attrition of meaning inside operators who killed for a cure and felt every death the way an unaltered man would. The unit’s true casualty rate was never measured in bodies. It was measured in the ones who carried the number until the number broke them.
 
 Vera commanded the production facility network.
 
@@ -360,7 +374,13 @@ Both readings survive.
 
 At a later stage, a breach forced disclosure under conditions Lyber did not choose. A kidnapping exposed enough of Meta’s significance that concealment could no longer remain intact inside every necessary operational layer. What followed changed the development path.
 
-The world had not yet been told the full truth, but the architecture had begun to crack. The secrecy that protected Meta also limited the quality of minds that could contribute to it. Once the existence of a transformative compound could no longer remain absolutely contained, Lyber converted exposure into acceleration.
+The kidnapping was not random. It was the work of a faction inside BIOSTRATA acting without formal Moscow authorization — operators who had read the strategic logic faster than their own state could process it. Their target was not Lyber. Lyber was unreachable, and his death solved nothing for them. Their target was Dr. Anneliese Roth, a MetaMind mapping specialist whose name had surfaced through a conference paper she should never have been permitted to present. The paper concerned re-methylation suppression and contained, to a reader who already suspected what Meta was, a confirmation that someone had crossed a threshold the open literature had not.
+
+Roth was taken in Geneva. Her captors did not want ransom. They wanted the mapping protocol, and they discovered within forty hours that she could describe the architecture but not reproduce it, because Lyber had compartmentalized the compound so thoroughly that no single mind held a working whole. This was the first time PHARMATA’s fragmentation strategy was tested against a hostile actor, and it held. Roth survived. A sealed VIGIL element recovered her in an operation the rest of VIGIL was never told occurred — the same compartmented cell that would, once Meta was complete, harden into the Meta Soldaten. Two BIOSTRATA operators were killed. The state of Russia denied everything truthfully, because it had not known.
+
+But Roth’s absence had been noticed. A second MetaMind researcher, frightened by the disappearance of a colleague, leaked fragments to a journalist before VIGIL reached her. The fragments were incomplete, technically garbled, and easy to dismiss. They were also the seed crystals around which Alex’s later anomaly file would form. The leak did not reveal Meta. It revealed that there was something to reveal.
+
+The world had not yet been told the full truth, but the architecture had begun to crack. The secrecy that protected Meta also limited the quality of minds that could contribute to it. Once the existence of a transformative compound could no longer remain absolutely contained, Lyber converted exposure into acceleration. He expanded the trial population, brought two rival-trained specialists inside under sealed terms, and abandoned the assumption that Meta could be completed in perfect darkness. He decided instead that it would be completed faster than the world could organize against it.
 
 The disclosure did not destroy Meta.
 
@@ -522,6 +542,10 @@ Something is wrong.
 
 Alex cannot stop looking until he finds what it is.
 
+What Alex does not know is that he is not assembling a random file. He is reassembling the leak that followed the Roth kidnapping. The garbled fragments a frightened MetaMind researcher pushed to a journalist years earlier had scattered, been debunked, and survived only in the archived margins of forums and dead preprint servers. Alex, lacking the credentials to dismiss them the way credentialed people had, took them seriously. His outsider status, the thing that disqualified him everywhere, made him the only investigator willing to treat discredited material as evidence rather than embarrassment.
+
+His thread and the PHARMATA center are bound by a name he has not yet found. The journalist who received the original leak died in an accident HERGON would have called anticipatory stabilization. But before dying, she had made one contact inside the loose research network that now rejects Alex: a methylation specialist who had once corresponded with Anneliese Roth. That specialist holds the missing connective tissue between the public anomalies and the classified architecture. Alex is three conversations away from the center and does not know it. HERGON, which registers him as pattern irregularity, knows it precisely. The question that will decide Alex’s life is whether Lyber reads his approach as a threat to be stabilized or, in keeping with the logic of the context prison, as the audience he has been waiting for — the first uncoupled mind capable of carrying the accusation to a world finally able to feel it.
+
 ## 20. John R. Morgan
 
 John R. Morgan is the first protagonist in the chronology of suffering, though not necessarily in public history.
@@ -584,11 +608,15 @@ Mary stays.
 
 Her future is one of the most delicate consequences in the architecture. She is not merely rescued. She is absorbed into the orbit of the people who lied to her because the lie served a larger necessity. She is owed truth by the very people least able to give it at the time she needs it.
 
+Inside PHARMATA, Mary does not remain a passive ward. She grows into the building. By thirteen she has the run of the research wing that the staff, coupled and incurious, do not think to lock against a child. She reads what is left unattended. She learns the names of compounds before she understands them, and she notices, with the trained attention of someone who has spent her life reading withheld truth, that the adults around her are calm in a way that her own grief refuses to be. She is, though no one has tested her and no file yet says so, almost certainly Uncoupled. The same trait that let her brother stop mid-rage runs in her blood. She mourns John at the old volume, for the old duration, and the smooth coupled sympathy of the people raising her reads to her as a kind of lie even before she knows the largest lie they are telling.
+
+This is the danger Vera created and now lives beside. Mary is a grieving, watchful, unattenuated child growing up inside the architecture, owed a truth that the architecture cannot afford to release, and equipped by her own biology to eventually feel the full weight of having been deceived. She is not a debt deferred to some clean future. She is a fuse already lit, burning quietly in the same building as everything Lyber built.
+
 When the answer to John’s condition is found, someone will have to tell Mary.
 
 That promise is not written anywhere.
 
-It is nevertheless one of the debts holding the world together.
+It is nevertheless one of the debts holding the world together. And of all the debts in the architecture, it is the one most likely to come collecting on its own.
 
 ## 22. The Stranger
 
@@ -624,9 +652,57 @@ He does not yet know he is hearing LUX in the diminished amplitude of the man wh
 
 ---
 
-# PART V — THE COMPANIES THAT SURVIVED THE HERO
+# PART V — THE TEXTURE OF THE COUPLED WORLD
 
-## 24. The Five Rivals
+## 24. The Quiet Years
+
+The coupled decade did not feel like tyranny. It felt like convalescence.
+
+A civilization that had watched its own members turn Fractured at the dinner table, that had locked doors against parents and buried children in numbers too large for ceremony, did not experience the calm of LUX as a cage. It experienced it as the first full breath after near-drowning. This is the fact that every later judgment must pass through. The peace was not resented while it was lived. It was wept over with gratitude.
+
+But a population whose outrage has been quietly discounted does not stop having a culture. It develops a different one. The coupled world was not silent. It was differently loud, and reading that difference is the only honest way to know what was taken.
+
+## 25. Faith After the Cure
+
+Religion did not collapse under LUX. It bent.
+
+The traditions built on righteous anger struggled first. A faith whose engine was prophetic fury against injustice found its congregations strangely becalmed, nodding at sermons that should have moved them to the streets and then going home to dinner. Some clergy felt the change in themselves and could not name it. They preached fire and felt embers and assumed the fault was their own waning conviction.
+
+The traditions built on acceptance, surrender, and inner peace flourished as never before. Contemplative orders swelled. Practices of equanimity that had taken monks decades to approach now arrived, to ordinary people, within a year of the cure. This was hailed across half the world as a spiritual awakening. The most unsettling theological position of the age held that LUX had not stolen the soul’s freedom but delivered its oldest aspiration — to be released from the tyranny of the reactive self. Some called this grace arriving by syringe. They were not entirely wrong, and that is what made them terrible.
+
+A smaller movement reached the opposite conclusion. Among the Uncoupled and a few unaltered clergy, a conviction formed that the engineered calm was a counterfeit of the peace that is supposed to be earned through suffering and choice. To them, a soul that had not struggled toward serenity but had it installed was a soul robbed of its central work. They had no proof, only the intuition that something sacred had been bypassed. When the truth of LUX finally emerged, these were the communities least surprised and least relieved, because they had been mourning a theft no one else could feel.
+
+## 26. The Flattening of Art
+
+Art is where the coupling showed itself most clearly to anyone who knew to look, and where it hid itself most successfully from everyone who did not.
+
+The coupled years produced an enormous volume of work of extraordinary technical refinement and diminishing emotional risk. Music grew more beautiful and less urgent. Painting grew more skilled and less disturbing. The novel survived but its protagonists stopped wanting things at full intensity; conflict softened into the gentle friction of people who would, in the end, be fine. Critics praised the new maturity of the culture, its movement past the adolescent need for transgression and rage. They mistook a sedated wound for healed skin.
+
+The tell was in the archives. Anyone who compared the art of the coupled years against the art of the decade before LUX could feel the amplitude drop, the way you feel a song played slightly too quietly. But the people inside the coupled years had no comparison available to their nervous systems. The art felt complete to them because their feeling was scaled to it.
+
+The Uncoupled artists, the few who existed, were unbearable. Their work struck the coupled audience as excessive, hysterical, tasteless, too much. An Uncoupled painter rendering grief at its true size produced a canvas that coupled viewers found embarrassing, the way one is embarrassed by a stranger weeping openly in public. These artists were not censored. They were simply found to be in poor taste, and poor taste is a more permanent exile than any ban. They are the closest thing the coupled world had to dissidents, and almost none of them understood that they were dissidents at all. They thought they were merely failing to find an audience.
+
+## 27. Work, Time, and the Death of Urgency
+
+Productivity rose under LUX, and this was true and misleading at once.
+
+Output rose because conflict fell. Meetings ended in agreement. Disputes resolved. Workers tolerated tedium that would once have produced quitting, sabotage, or strike. Burnout statistics collapsed, not because the work grew lighter but because the nervous system stopped registering grinding monotony as the emergency it is. The coupled worker could endure indefinitely, and endurance was reclassified as wellbeing.
+
+But invention slowed in a way that took years to measure and longer to admit. The breakthroughs that come from obsessive, intolerable, sleepless dissatisfaction grew rare. A coupled population was good at completing the known and poor at being driven mad by the unknown. The economy ran smoother and dreamed smaller. Lyber understood this precisely, and it was among his private justifications for Meta: a coupled humanity was a maintained humanity, and maintenance is not the same as becoming. He had built a peace that could run a civilization and never start a new one. Meta was, among other things, his correction of his own anesthesia.
+
+## 28. Grief Without Its Edges
+
+The coupled world grieved, but its grief had a different shape, and this is the change that cut closest to the bone.
+
+Loss still hurt. LUX did not abolish sorrow. But mourning, which had always been a long violent weather that wore itself out over months and years, became shorter, smoother, more survivable, and somehow less. The coupled bereaved recovered with a speed their grandparents would have found obscene. They returned to work, to appetite, to laughter, in weeks. They were grateful for this. It felt like resilience.
+
+The Uncoupled, burying the same dead, grieved at the old volume, for the old durations, with the old wreckage. To the coupled around them, they appeared to be wallowing, dramatizing, refusing to heal. To themselves, they were the only ones treating the dead with the full seriousness death demands. An Uncoupled mother and a coupled mother could lose children in the same week and walk away from the graves into two different species of sorrow, neither able to recognize the other’s love inside the other’s grief.
+
+This is the quietest horror in the entire architecture. Not the surveillance, not the Timer, not the secret army. The fact that a mother’s mourning for her own child was, without her knowledge, turned down.
+
+# PART VI — THE COMPANIES THAT SURVIVED THE HERO
+
+## 29. The Five Rivals
 
 PHARMATA did not rise in an empty field.
 
@@ -642,6 +718,18 @@ BIOSTRATA, based in Moscow, specialized in state defense biotechnology, military
 
 AURIGEN, based in Vienna like PHARMATA, specialized in precision medicine and pharmacogenomics. Georg Hartmann, its CEO, understood Lyber better than most opponents because he shared the cultural and scientific world that produced him. Hartmann was not certain Lyber was wrong. He was certain no one should have been allowed to do what Lyber did alone.
 
+The rivals did not merely hold postures. After Meta, they acted, and their actions formed the second front of the war PHARMATA fought without ever declaring one.
+
+BIOCORE chose dependency it could not forgive. Its director, Priya Anand, made a calculation no Western board would have survived making publicly: she ordered BIOCORE’s distribution network to cooperate with the LUX maintenance schedule rather than obstruct it, because obstruction in the Global South meant mass death and PHARMATA knew it. BIOCORE became, in effect, the unwitting hands of Silent Distribution across three continents, delivering Meta-bearing doses it could not test and did not fully trust. Anand suspected. She continued. She told her closest people that a poisoned bridge is still a bridge, and that the dead do not benefit from her principles. Whether she was complicit or coerced is the question that will define her in whatever history survives.
+
+GENOMIND chose exposure. Carter spent two years and most of GENOMIND’s research budget attempting to reverse engineer LUX from the behavioral data alone, and produced a partial reconstruction good enough to prove that Synaptic Coupling existed but not good enough to undo it. This was his particular trap. Proving the crime did not give him the cure. He could indict Lyber and save no one, and an indictment that frees no prisoners is only theater. It drove him toward an alliance he found morally intolerable: cooperating with the man he wanted destroyed, because Lyber held the key and Carter held only the accusation.
+
+STRATAGEN chose the long ecological argument. Its concern was the Warburg civilization itself. A species that burns hotter eats more, and STRATAGEN’s models showed a Meta humanity outpacing global caloric supply within two generations. It began quietly building agricultural biosynthesis capacity for a population it expected to become permanently, metabolically hungry. STRATAGEN did not oppose Meta. It prepared for the world Meta would leave behind, and in doing so became the only rival thinking past the immediate crisis to the famine encoded in the cure.
+
+BIOSTRATA chose acquisition, and its rogue Geneva operation was only the first attempt. After the kidnapping failed, Moscow formalized what its operators had improvised. BIOSTRATA treated Meta as the largest strategic asymmetry in history and concluded that a state without it would become permanently subordinate to whatever state obtained it first. It built no counter-argument and offered no ethics. It built an extraction capability and waited for a seam in PHARMATA’s security to open. The Meta Soldaten existed, in large part, because BIOSTRATA existed.
+
+AURIGEN chose the hardest position of all: principled refusal to choose. Georg Hartmann understood Lyber too well to believe him a simple villain and too clearly to forgive him. He used AURIGEN’s standing to convene the first serious international scientific inquiry into LUX, not to destroy PHARMATA but to wrest the decision away from a single man. Hartmann’s conviction was procedural, not moral: even if Lyber was right, no one human being should have been permitted to be right alone, on behalf of eight billion. He became the closest thing the world had to a legitimate prosecutor, and he knew that legitimacy might cost everyone the cure.
+
 The rivals’ responses differ because each sees a different PHARMATA.
 
 A savior.
@@ -654,13 +742,23 @@ A necessary evil.
 
 A threat that cannot be destroyed without destroying the only available future.
 
-## 25. State Investigations
+## 30. State Investigations
 
 Once LUX’s behavioral payload becomes known, governments stop watching PHARMATA as a contractor and begin watching it as an unsolved sovereignty problem.
 
-The old instruments fail immediately. Subpoenas cannot compel what EBN immunities protected. National inquiries cannot reconstruct a system distributed across ninety-four countries and multiple legal surfaces. Intelligence agencies discover that PHARMATA’s infrastructure was designed not merely to hide secrets, but to fragment jurisdictional visibility so thoroughly that no state can see the whole even when it obtains part of the truth.
+The old instruments fail immediately. Subpoenas cannot compel what EBN immunities protected. National inquiries cannot reconstruct a system distributed across one hundred forty-one signatory nations and multiple legal surfaces. Intelligence agencies discover that PHARMATA’s infrastructure was designed not merely to hide secrets, but to fragment jurisdictional visibility so thoroughly that no state can see the whole even when it obtains part of the truth.
 
-Some states want prosecution. Some want access. Some want to preserve the calmer populations LUX produced. Some fear their citizens more after decoupling than they ever feared PHARMATA. Some understand the Timer too late and realize that punishment without continuity may be suicide.
+The states did not respond as a chorus. They responded as rivals, and their divergence became its own crisis.
+
+The European Union convened a tribunal in The Hague and discovered that the EBN immunities its own member states had signed under duress were legally watertight, drafted by PHARMATA lawyers who had anticipated this exact proceeding years before it convened. The tribunal could establish the crime and compel nothing. It became a theater of documented helplessness.
+
+The United States split internally. One faction within its security apparatus wanted PHARMATA seized as a matter of sovereignty, reasoning that no foreign corporation could be permitted to hold the off-switch to the American nervous system. A second faction, quieter and ultimately decisive, understood the Timer through intelligence channels and concluded that any move against PHARMATA that interrupted Meta distribution was indistinguishable from a national suicide order. The second faction won by doing nothing, which is how the most consequential decisions in the post-LUX world were usually made.
+
+China treated the matter as an internal stability question rather than a justice question. Its leadership recognized faster than any democracy that a coupled population was a governed population, and that decoupling would return to the streets the full emotional amplitude its own systems were built to suppress. Beijing’s fear was not PHARMATA. It was the morning after Meta, when its citizens would feel again. It quietly explored whether Silent Distribution could be slowed within its borders, and discovered that PHARMATA had anticipated this too, and that slowing Meta meant accepting the Timer. It stopped exploring.
+
+Russia, having authored the kidnapping it could not admit to, pursued acquisition through BIOSTRATA while officially demanding prosecution, the contradiction visible to everyone and admitted by no one.
+
+The smaller signatories, the nations who had no leverage and no intelligence reach, did the most honest thing. They asked PHARMATA directly whether the Timer was real. PHARMATA neither confirmed nor denied. The silence was its own answer, and it ended the conversation in every capital that received it.
 
 The problem is unprecedented.
 
@@ -672,13 +770,17 @@ The state, whose legitimacy depends on protecting citizens, must decide whether 
 
 No doctrine survives contact with that dilemma unchanged.
 
-## 26. Armed Opposition
+## 31. Armed Opposition
 
 The revelation does not produce one resistance.
 
 It produces many.
 
 There are those who hate PHARMATA because their autonomy was violated. There are those who hate Lyber because he succeeded where governments failed. There are those who want Meta destroyed because they believe any product born from LUX must be another chain. There are those who want Meta seized for their nation, class, family, militia, or ideology. There are those who believe the coupled world was better and that decoupling will return humanity to violence. There are those who do not understand the science but understand betrayal well enough to burn distribution centers.
+
+The resistances took shape around faces, not just grievances. The most coherent of them called itself the Unconsented, and it was led not by an Uncoupled radical but by Maren Vogt, a former WHO logistics coordinator who had personally signed off on LUX shipments she now understood to have been weapons. Her guilt was operational, not abstract. She had moved the doses. The Unconsented demanded not Meta’s destruction but its surrender to public custody, and its tragedy was the same as Carter’s: it could seize the warehouses and still not hold the cure, because the cure lived in a compartmentalized process no warehouse contained.
+
+Against the Unconsented stood the Stillness, a movement of the coupled who did not want to be decoupled. They had lived through the world before LUX and through the slaughter of the Fractured years, and they had found, in the engineered calm, the first peace their lives had ever held. They did not care that it was manufactured. A manufactured peace, they argued, was still peace, and a man who had drowned does not refuse the shore because someone built it. The Stillness defended PHARMATA’s distribution centers against the Unconsented, producing the strangest conflict of the age: the altered fighting to remain altered, against the violated fighting to be freed, neither side able to prove the other wrong.
 
 PHARMATA-branded storefronts are destroyed. Logistics infrastructure is sabotaged. Governments suspend cooperation and then discover that medical supply chains are not ideological symbols but physical systems whose disruption kills people far from the point of protest.
 
@@ -692,9 +794,9 @@ The emotional amplitude of the Uncoupled remains a domain where his models are l
 
 ---
 
-# PART VI — THE SECRETS THAT MOVE HISTORY
+# PART VII — THE SECRETS THAT MOVE HISTORY
 
-## 27. The Context Prison
+## 32. The Context Prison
 
 Lyber’s most durable defense is not secrecy.
 
@@ -712,7 +814,7 @@ A conspiracy that requires eternal secrecy is fragile.
 
 A conspiracy that survives revelation is architecture.
 
-## 28. The Timer
+## 33. The Timer
 
 Lyber’s deepest secret is not LUX.
 
@@ -742,7 +844,7 @@ He lives with that.
 
 He does not share it.
 
-## 29. Silent Distribution
+## 34. Silent Distribution
 
 Meta cannot be distributed visibly without becoming war.
 
@@ -772,7 +874,7 @@ Not those who agree.
 
 Everyone.
 
-## 30. After Meta
+## 35. After Meta
 
 When Meta is complete and distribution is finished, the Timer loses value.
 
@@ -798,9 +900,9 @@ The judgment belongs, for the first time, to people whose neurobiology no longer
 
 ---
 
-# PART VII — STRUCTURAL CHRONICLE
+# PART VIII — STRUCTURAL CHRONICLE
 
-## 31. Founding Sequence
+## 36. Founding Sequence
 
 PHARMATA is founded in 2009 as a legitimate biotechnology company.
 
@@ -818,7 +920,7 @@ HERGON detects anomalies before the public world understands their meaning.
 
 Lyber sees not only a pandemic but the first viable condition for completing Meta.
 
-## 32. Pandemic Sequence
+## 37. Pandemic Sequence
 
 METOZIM spreads silently through the trans-olfactory route.
 
@@ -840,7 +942,7 @@ Humanity survives.
 
 Synaptic Coupling begins.
 
-## 33. Stabilization Sequence
+## 38. Stabilization Sequence
 
 Crime drops.
 
@@ -864,13 +966,15 @@ The Uncoupled begin to notice the difference before they know what difference me
 
 Alex begins to pull on anomaly threads.
 
-## 34. Revelation Sequence
+## 39. Revelation Sequence
+
+The Roth kidnapping forces partial disclosure; a frightened researcher leaks fragments before VIGIL contains the breach.
 
 Scientific anomalies surface and are buried beneath legitimate dispute.
 
 A former minister advocates auditing and is blocked by the EBN framework.
 
-Alex assembles scattered evidence without institutional authorization.
+Alex assembles scattered evidence without institutional authorization, unknowingly reconstructing the post-Roth leak.
 
 HERGON begins registering him as pattern irregularity.
 
@@ -882,7 +986,7 @@ Lyber prepares to convert accusation into audience.
 
 Meta becomes not only answer but ultimatum.
 
-## 35. Meta Sequence
+## 40. Meta Sequence
 
 Meta crosses final development thresholds.
 
@@ -904,7 +1008,7 @@ Mary survives under a lie.
 
 Meta distribution proceeds toward threshold coverage.
 
-## 36. Aftermath Sequence
+## 41. Aftermath Sequence
 
 The coupled world ends.
 
@@ -922,9 +1026,9 @@ The world judges him with the very autonomy he restored.
 
 ---
 
-# PART VIII — THE TERMS OF THE WORLD
+# PART IX — THE TERMS OF THE WORLD
 
-## 37. Named Systems
+## 42. Named Systems
 
 METOZIM is the neuroinvasive pandemic virus whose trans-olfactory transmission and Fractured pathway brought civilization to the edge of collapse.
 
@@ -972,9 +1076,15 @@ The Timer is the hidden LUX expiry mechanism known only to Lyber.
 
 Silent Distribution is Lyber’s global plan to deliver Meta through existing LUX maintenance infrastructure before geopolitical competition can stop universal access.
 
+The GRIN2B trait is the polygenic variation, centered on the gene encoding the GluN2B receptor subunit, that prevents Synaptic Coupling from seating fully and produces the Uncoupled.
+
+The Unconsented is the resistance movement, led by former WHO logistics coordinator Maren Vogt, demanding the surrender of Meta to public custody.
+
+The Stillness is the movement of the coupled who refuse decoupling and defend PHARMATA’s distribution against the Unconsented.
+
 Signatory 141 is the final nation to sign the EBN contracts, producing a delayed and behaviorally deviant LUX baseline that HERGON continues to monitor.
 
-## 38. Central Contradictions
+## 43. Central Contradictions
 
 LUX saved humanity from death and stole from it the full biological cost of refusal.
 
@@ -1000,7 +1110,7 @@ The world becomes capable of judging Lyber only because Lyber completes the work
 
 ---
 
-# PART IX — THE FINAL SHAPE
+# PART X — THE FINAL SHAPE
 
 The world before METOZIM was unequal, noisy, unstable, brilliant, cruel, exhausted, and unfinished.
 
