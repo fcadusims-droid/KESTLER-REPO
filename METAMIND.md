@@ -2,7 +2,22 @@
 
 ## Canonical Dossier of the Post-LUX World
 
-> We did not eliminate free will. We made obedience the most biologically comfortable option.
+*Compiled by the Aurigen Commission of Inquiry into the LUX Event. Chaired by Georg Hartmann. Submitted to the provisional tribunal at Vienna.*
+
+This dossier is not a narrative. It is a reconstruction, and the distinction matters, because a reconstruction must declare its sources or it is only a story wearing the costume of evidence.
+
+The Commission worked from four bodies of material. The first was conventional: seized PHARMATA records, distribution logs, financial instruments, the EBN contracts, recovered medical files, and the sworn testimony of personnel who survived the collapse. The second was the corpus recovered through Interrogation 01-A — the formal questioning of Lyber Vergießen, conducted in Vienna after his surrender, transcribed in full and excerpted at the threshold of each part of this document. The reader will find him there, unrepentant, correcting the record that condemns him.
+
+The third source is the reason this dossier can speak of things no outside investigator should be able to know — private calculations, unspoken motives, the interior weather of people now dead or silent. During the fall of the Norfolk hub, a group of newly decoupled PHARMATA engineers executed what their own logs called the Icarus Protocol: a cold data dump of the corporation's psychological core directly to this Commission. Lyber's recorded reflections, Vera's operational journals, MetaMind's internal assessments, the architecture's own honest accounting of itself — all of it was preserved by the people who built it, in the hour they came to hate it. Where this dossier reports a thought that was never spoken aloud, it is quoting the Icarus corpus, not inventing access.
+
+The fourth source stands apart from the other three, because it could not have come from PHARMATA at all. The corporation never held it. It is the private investigative archive of the man called Alex [Commission Annex 9-C] — the analog case files, offline drives, and handwritten field notes recovered by Commission agents after the evacuation of the Los Angeles municipal district. PHARMATA's surveillance had dismissed Alex as statistical noise and never absorbed his record; the Icarus corpus contains almost nothing about him. What the Commission knows of his childhood, his eviction, his motives, and the people who shaped him comes from his own preserved papers, not from the machine that failed to find them. Where this dossier reports Alex's interior life, it is reading the files of a man who documented his own.
+
+What follows is therefore neither fiction nor confession. It is the architecture describing itself, cross-examined by the man who broke it.
+
+The Commission opens with the defendant's own words, recovered from the Icarus corpus and later repeated, verbatim and unprompted, in Interrogation 01-A:
+
+> *We did not eliminate free will. We made obedience the most biologically comfortable option.*
+> — Lyber Vergießen
 
 Humanity was not conquered by soldiers, law, ideology, or machines.
 
@@ -35,6 +50,14 @@ The question is what can be done with a criminal who may also hold the only key 
 ---
 
 # PART I — THE WORLD THAT BROKE
+
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 1.*
+>
+> **HARTMANN:** State, for the record, what you did.
+> **VERGIEßEN:** You already know what I did. You want me to perform contrition for the recording.
+> **HARTMANN:** I want you to call it by its name.
+> **VERGIEßEN:** It has several. The one you'll use is *crime.* The one history will use, once it can think clearly again, is *triage.* You came into a building that was on fire and you are asking the man who carried people out why he didn't knock first.
 
 ## 1. METOZIM
 
@@ -111,6 +134,14 @@ He died not knowing what his son would build beneath it.
 ---
 
 # PART II — THE ARCHITECTURE OF CAPTURE
+
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 2.*
+>
+> **HARTMANN:** You turned your father's early-warning system into a surveillance organ. You built a secret army. Was there any instrument you inherited that you did not corrupt?
+> **VERGIEßEN:** Corrupt. You keep reaching for words that let you feel clean. HERGON watched for plagues; I taught it to watch for the plague that *was already inside the cure.* That is not corruption. That is completing the instrument.
+> **HARTMANN:** Your father would disagree.
+> **VERGIEßEN:** My father is the one luxury I was not granted — the luxury of disagreeing from a safe distance. He died before the bill came due. I did not.
 
 ## 4. Lyber Vergießen and the Necessary Window
 
@@ -280,7 +311,7 @@ This produced the central problem of the Meta Soldaten, and Lyber had seen it be
 
 Lyber accepted this risk deliberately. He did not want a unit that obeyed because it could not feel the weight of what it did. He wanted a unit that understood the weight, agreed with the necessity, and chose. He believed a force that chose was more durable under pressure than a force that merely complied, because a chooser cannot be turned by the simple revelation that he has been used. He has already priced in the using.
 
-Their internal culture reflected this. The Meta Soldaten did not speak in the language of patriotism, faith, or unit pride. They spoke in the language of the work. A new operator was not asked whether he was loyal. He was shown the mortality projections of the Timer and the coverage curve of Silent Distribution and asked whether he understood what failure meant. Those who stayed stayed because they had done the arithmetic of eight billion lives and found their own conscience light by comparison. They called this, privately, carrying the number. An operator who could no longer carry the number was not punished. He was retired into a sealed life of comfort and surveillance, because a force built on conviction cannot execute its own doubters without becoming the thing it guards against.
+Their internal culture reflected this. The Meta Soldaten did not speak in the language of patriotism, faith, or unit pride. They spoke in the language of the work. A new operator was not asked whether he was loyal. He was shown the mortality projections of the Timer and the coverage curve of Silent Distribution and asked whether he understood what failure meant. Those who stayed stayed because they had done the arithmetic of eight billion lives and found their own conscience light by comparison. They called this, privately, carrying the number. None of them knew, in the years of carrying it, that the number rested on a lie — that the deadline they killed to outrun was not their commander's deliberate lever but his concealed mistake. That discovery waited inside the Icarus corpus, and when it came, it did not lighten the number. It made the carrying retroactive and unforgivable. An operator who could no longer carry the number was not punished. He was retired into a sealed life of comfort and surveillance, because a force built on conviction cannot execute its own doubters without becoming the thing it guards against.
 
 The recovery problem ran deeper than morale. Meta heals the body and sharpens the mind, but it also restores the full weight of grief to people whose work generates grief continuously. The Meta Soldaten suffered. They suffered precisely, articulately, without the mercy of numbness. Hans understood that his hardest task was not combat but the slow attrition of meaning inside operators who killed for a cure and felt every death the way an unaltered man would. The unit’s true casualty rate was never measured in bodies. It was measured in the ones who carried the number until the number broke them.
 
@@ -295,6 +326,14 @@ That was the point.
 ---
 
 # PART III — THE TECHNOLOGY OF BECOMING
+
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 4.*
+>
+> **HARTMANN:** Meta. You claim it adds nothing — only removes suppression. A convenient philosophy. It lets you say you freed people you experimented on.
+> **VERGIEßEN:** Show me the line in the data where I added a capacity that was not already encoded in the host. You can't, because there isn't one. I am the first man in history accused of tyranny for *giving people back what poverty took out of them.*
+> **HARTMANN:** You gave it to them without asking.
+> **VERGIEßEN:** Consent. (pause) You administer consent forms to the drowning, Georg. I administered air.
 
 ## 10. MetaMind
 
@@ -434,6 +473,14 @@ Whether the species itself decided anything is the accusation that never leaves 
 
 # PART IV — THE HUMAN ARCHITECTURE
 
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 6.*
+>
+> **HARTMANN:** Let's talk about the people. Vera. The Morgan children. The investigator in Los Angeles. Did any of them consent to the roles you wrote for them?
+> **VERGIEßEN:** You're confusing a chronicle with an authorship. I did not write Alex. I failed to delete him, which is a different sin.
+> **HARTMANN:** And the boy? John Morgan?
+> **VERGIEßEN:** (long pause) The boy is the only thing in this entire architecture I did not predict. If you want to find the part of me that should frighten you, it isn't the surveillance or the army. It's that I kept a dying man alive in a cell for a decade because his blood was useful, and I told his sister he was dead, and I would do it again, and I am not lying to you when I say I still don't know whether that makes me a monster or a physician.
+
 ## 17. Lyber Vergießen
 
 Lyber Vergießen was born in Vienna and inherited PHARMATA at twenty-eight, on the day his father died of METOZIM.
@@ -502,9 +549,9 @@ She also carries the lie to Mary.
 
 That lie changes the weight of her complicity. Before Mary, Vera’s silence served the architecture. After Mary, it has a face.
 
-Vera remains the woman who held the architecture together.
+For most of the architecture's life, Vera remains the woman who held it together. That ends with the Icarus corpus. When the leaked files prove that the Timer — the deadline she had organized her complicity around — was not Lyber's deliberate lever but his concealed miscalculation, something in her recalibrates with the speed of her own pattern recognition. She does not rage. She reassesses. The man she had placed at the center of the most important problem of her life turns out to have been improvising over a mistake, and her devotion, which had survived knowing he was a criminal, does not survive knowing he was wrong. She takes over the insurgency not to avenge anyone but to take the decision out of his hands and make it correctly by her own measure — which does not mean cleanly. She breaks his calorie-phased schedule and floods the world with Meta knowing it will starve millions, because she has decided, with the same cold arithmetic he taught her, that a free and famished species is worth more than a fed and captive one. She does not clean up his mess. She trades his catastrophe for one she is willing to sign.
 
-Whether that makes her loyal, guilty, necessary, or all three is not separable.
+Whether that makes her loyal, guilty, necessary, or all three is not separable. After Icarus, only one of those words still belongs to Lyber.
 
 ## 19. Alex
 
@@ -544,7 +591,9 @@ Alex cannot stop looking until he finds what it is.
 
 What Alex does not know is that he is not assembling a random file. He is reassembling the leak that followed the Roth kidnapping. The garbled fragments a frightened MetaMind researcher pushed to a journalist years earlier had scattered, been debunked, and survived only in the archived margins of forums and dead preprint servers. Alex, lacking the credentials to dismiss them the way credentialed people had, took them seriously. His outsider status, the thing that disqualified him everywhere, made him the only investigator willing to treat discredited material as evidence rather than embarrassment.
 
-His thread and the PHARMATA center are bound by a name he has not yet found. The journalist who received the original leak died in an accident HERGON would have called anticipatory stabilization. But before dying, she had made one contact inside the loose research network that now rejects Alex: a methylation specialist who had once corresponded with Anneliese Roth. That specialist holds the missing connective tissue between the public anomalies and the classified architecture. Alex is three conversations away from the center and does not know it. HERGON, which registers him as pattern irregularity, knows it precisely. The question that will decide Alex’s life is whether Lyber reads his approach as a threat to be stabilized or, in keeping with the logic of the context prison, as the audience he has been waiting for — the first uncoupled mind capable of carrying the accusation to a world finally able to feel it.
+His thread and the PHARMATA center are bound by a name he has not yet found. The journalist who received the original leak died in an accident HERGON would have called anticipatory stabilization. But before dying, she had made one contact inside the loose research network that now rejects Alex: a methylation specialist who had once corresponded with Anneliese Roth. That specialist holds the missing connective tissue between the public anomalies and the classified architecture. Alex is three conversations away from the center and does not know it.
+
+What protects him is not luck and not Lyber's mercy. It is obsolescence. Los Angeles runs much of its municipal data on pre-LUX legacy systems — physically isolated, air-gapped networks that PHARMATA was legally barred from integrating, a concession written into the American sovereignty annexes of the EBN treaties. HERGON can see the city's modern surfaces perfectly. It cannot reach into the dead infrastructure where Alex does most of his work, the archived servers and offline drives and decommissioned municipal records that the post-human automation simply never bothered to absorb. HERGON knows the blind spot exists. It has calculated, correctly by its own logic, that collapsing the West Coast's legacy power and data grid to scrub one statistical irregularity would cost more than the irregularity is worth. Alex survives in the technological refuse that efficiency declined to clean. He is not the audience Lyber wanted. He is the rounding error Lyber's system was too rational to bother killing — until the day the arithmetic changes.
 
 ## 20. John R. Morgan
 
@@ -570,21 +619,25 @@ This matters later.
 
 When the truth about LUX emerges and the world begins to fracture under the knowledge of its own pacification, Mary becomes infected with METOZIM. John carries her through a world in unrest, through protests, supply interruptions, Fractured danger, and the impossible isolation protocol required by her infectious condition.
 
-He does not know where Lyber is. He does not possess access, rank, media power, scientific language, or institutional leverage. He has a truck, a sick sister, and the learned refusal to stop.
+He does not know where Lyber is, and it does not matter, because Lyber is not where the cure is. The cure, in North America, lives behind the walls of the EBN enclaves — the fortified continuity sites PHARMATA absorbed from the United States under Extreme Biological Necessity, former military installations like the hardened complex at Norfolk and the buried command facility under Cheyenne Mountain, signed over to corporate custody when the federal government could no longer guarantee its own infrastructure. These enclaves are where LUX is warehoused, where maintenance doses are staged, where the convoys originate. They are the nearest thing on the continent to the center John is looking for.
 
-The road ends in Austria.
+He does not possess access, rank, media power, scientific language, or institutional leverage. He has a vehicle, a sick sister, and the learned refusal to stop.
 
-John reaches PHARMATA’s convoy, delivers Mary to the only person he believes can save her, and collapses into the infection he has been outrunning. He enters Phase 2 Fractured. VIGIL contains him on Lyber’s direct order.
+The road runs across a hollowed continent — depopulated corridors, dead towns, Fractured zones the maintenance schedule had quietly written off, checkpoints run by people who had stopped expecting anyone to come. John crosses it the way he crosses everything: by not stopping.
+
+The road ends at the Norfolk enclave perimeter. John intercepts an outbound PHARMATA convoy at the gate, delivers Mary to the only institution he believes can save her, and collapses into the infection he has been outrunning. He enters Phase 2 Fractured. VIGIL contains him on Lyber’s direct order — an order issued from Vienna, by a man studying a telemetry feed of a farm boy in Virginia he has never met.
 
 Then the impossible happens.
 
-In the surge of Fractured aggression, John sees Mary and stops.
+In full Phase 2 aggression, John's amygdalar hyperactivation stalls. Not from will. Not from love. The Fractured state does not have access to either. It stalls because of what is written in his cells.
 
-Not long. Not cleanly. Not in any way that restores him to himself. But enough.
+John carries the GRIN2B variant — the same trait that makes the Uncoupled immune to Synaptic Coupling. In an Uncoupled host, that altered receptor refuses LUX's behavioral architecture. In John, who never received LUX at all, it did something no one had modeled: it interacted with the specific METOZIM strain he had contracted, a regional variant whose inflammatory cascade docked imperfectly against his receptor configuration. The result was a partial molecular brake on the runaway amygdalar loop that defines the Fractured. His aggression did not resolve. It could not complete.
 
-The Fractured architecture may not be total.
+He was not a man choosing his sister over his rage. He was a malfunctioning weapon, and the malfunction was the most valuable biological event on Earth.
 
-John becomes the first documented case of voluntary inhibition inside Phase 2 aggression. He is contained alive in PHARMATA’s classified infrastructure. Mary is told he died on the road.
+Because if the Fractured cascade can be interrupted at the receptor level, then METOZIM itself — the original disease, still resurgent in the uncovered zones — may be treatable in a way LUX never addressed. John is not a miracle of character. He is a live, breathing counter-key to the pandemic that built PHARMATA's entire empire, and PHARMATA's monopoly on salvation depends on no one else ever studying him.
+
+John becomes the first documented case of endogenous inhibition inside Phase 2 aggression. He is contained alive in the Norfolk enclave's classified medical tier — first by PHARMATA, and later, during the collapse, by GENOMIND, which extracts him in the HERGON blackout and carries him to New York as the most valuable industrial secret of the Meta age. He never returns to the public record. Mary is told he died on the road, and the lie outlives the institution that told it, because his new owners need it kept exactly as much as his old ones did.
 
 The lie protects research that may one day matter to hundreds of millions.
 
@@ -596,9 +649,9 @@ Both things are true.
 
 Mary survives because John refuses to stop and because Vera tells a lie.
 
-She is ten when METOZIM begins to destroy her family, and roughly eleven or twelve when she wakes inside PHARMATA’s care after the road. Her life has been shaped by information she cannot access. Adults conceal what is too large, too classified, too dangerous, too late. She learns to read the shape of withheld truth.
+She is ten when METOZIM begins to destroy her family, and roughly eleven or twelve when she wakes inside the medical tier of the Norfolk enclave after the road. Her life has been shaped by information she cannot access. Adults conceal what is too large, too classified, too dangerous, too late. She learns to read the shape of withheld truth.
 
-Vera tells her about the road, the convoy, the headlights, the infection, and what John paid to bring her there. She tells almost everything true. Then she tells Mary that John died.
+Vera had flown to Norfolk the moment the telemetry from John's containment reached Vienna; an endogenous brake on Phase 2 aggression was not a thing she would trust to a field report. She came for the brother, the biological event. She stayed, briefly, for the sister. Vera tells Mary about the road, the convoy, the gate, the infection, and what John paid to bring her there. She tells almost everything true. Then she tells Mary that John died.
 
 Mary does not cry immediately. Stillness comes first: the stillness of a mind building a container for information before allowing itself to respond.
 
@@ -608,11 +661,15 @@ Mary stays.
 
 Her future is one of the most delicate consequences in the architecture. She is not merely rescued. She is absorbed into the orbit of the people who lied to her because the lie served a larger necessity. She is owed truth by the very people least able to give it at the time she needs it.
 
-Inside PHARMATA, Mary does not remain a passive ward. She grows into the building. By thirteen she has the run of the research wing that the staff, coupled and incurious, do not think to lock against a child. She reads what is left unattended. She learns the names of compounds before she understands them, and she notices, with the trained attention of someone who has spent her life reading withheld truth, that the adults around her are calm in a way that her own grief refuses to be. She is, though no one has tested her and no file yet says so, almost certainly Uncoupled. The same trait that let her brother stop mid-rage runs in her blood. She mourns John at the old volume, for the old duration, and the smooth coupled sympathy of the people raising her reads to her as a kind of lie even before she knows the largest lie they are telling.
+Inside PHARMATA, Mary does not remain a passive ward. She grows into the building. By thirteen she has the run of the research wing that the staff, coupled and incurious, do not think to lock against a child. She reads what is left unattended. She learns the names of compounds before she understands them, and she notices, with the trained attention of someone who has spent her life reading withheld truth, that the adults around her are calm in a way that her own grief refuses to be. She is, though no one has tested her and no file yet says so, almost certainly Uncoupled. The same GRIN2B variant that stalled her brother's Fractured cascade runs in her blood — which means she is not only a grieving child inside the architecture but a second, untested instance of the most valuable genotype on the planet. She mourns John at the old volume, for the old duration, and the smooth coupled sympathy of the people raising her reads to her as a kind of lie even before she knows the largest lie they are telling.
 
 This is the danger Vera created and now lives beside. Mary is a grieving, watchful, unattenuated child growing up inside the architecture, owed a truth that the architecture cannot afford to release, and equipped by her own biology to eventually feel the full weight of having been deceived. She is not a debt deferred to some clean future. She is a fuse already lit, burning quietly in the same building as everything Lyber built.
 
-When the answer to John’s condition is found, someone will have to tell Mary.
+The collapse does not free Mary. It transfers her, exactly as it transfers her brother. When GENOMIND extracts John and the Pact of Norfolk carves up the Meta age, Mary's status changes from orphaned ward to strategic asset, because the second living GRIN2B carrier — the only one not already locked in a New York laboratory — is now the single most contested genotype on Earth. The Aurigen Commission takes custody of her. Hartmann, who convened a tribunal to end the imprisonment of human beings for their biology, finds himself signing the order that keeps Mary in protective isolation, sequenced and studied, unreachable.
+
+His written justification is the cruelest sentence in the Commission record precisely because it is correct: if Mary is released and GENOMIND or BIOSTRATA acquires her, the world loses its only public counter-key to a resurgent METOZIM, and a second monopoly on the disease becomes possible. To protect the species from another cartel, Hartmann does to Mary what PHARMATA did to her brother and what GENOMIND does to him still. He keeps her, for the good of everyone, against her will, knowing what he is. The man who judged Lyber for treating people as biological assets becomes the man holding the last asset, telling himself the same story, and unable to find a version of events in which letting her go is not also a crime.
+
+When the answer to John’s condition is found, someone will have to tell Mary. So far, no one with the authority to do it has been willing to also explain why they kept her.
 
 That promise is not written anywhere.
 
@@ -653,6 +710,14 @@ He does not yet know he is hearing LUX in the diminished amplitude of the man wh
 ---
 
 # PART V — THE TEXTURE OF THE COUPLED WORLD
+
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 7.*
+>
+> **HARTMANN:** A mother on LUX buries her child and recovers in three weeks. You consider that a success.
+> **VERGIEßEN:** I consider it survivable. You weren't in the wards, Georg. I was. I watched grief at full strength drive people into the Fractured's path because they could not bear to live. The coupled mother buries her child and lives. You want to indict me for the mercy and ignore the arithmetic that made mercy necessary.
+> **HARTMANN:** You turned down a mother's love for her dead child.
+> **VERGIEßEN:** Yes. (pause) That is the sentence you should read aloud at the verdict. Not the surveillance. That one. It's the only charge I cannot answer.
 
 ## 24. The Quiet Years
 
@@ -701,6 +766,14 @@ The Uncoupled, burying the same dead, grieved at the old volume, for the old dur
 This is the quietest horror in the entire architecture. Not the surveillance, not the Timer, not the secret army. The fact that a mother’s mourning for her own child was, without her knowledge, turned down.
 
 # PART VI — THE COMPANIES THAT SURVIVED THE HERO
+
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 9.*
+>
+> **HARTMANN:** Your rivals. You beat all five. BIOCORE, GENOMIND, STRATAGEN, BIOSTRATA — and mine. You must have enjoyed that.
+> **VERGIEßEN:** I didn't beat you, Georg. I *used* you. You convened your Commission, you built your moral apparatus, and the moment the Timer became real to you, you did exactly what my models said a responsible institution would do: you cut a deal with Carter to keep the lights on and the mobs off the laboratories. You are not my judge. You are my last subcontractor.
+> **HARTMANN:** I am the man holding the key to your cell.
+> **VERGIEßEN:** And I am the man holding the key to everyone else's. We should both be honest about whose key matters more.
 
 ## 29. The Five Rivals
 
@@ -752,7 +825,7 @@ The states did not respond as a chorus. They responded as rivals, and their dive
 
 The European Union convened a tribunal in The Hague and discovered that the EBN immunities its own member states had signed under duress were legally watertight, drafted by PHARMATA lawyers who had anticipated this exact proceeding years before it convened. The tribunal could establish the crime and compel nothing. It became a theater of documented helplessness.
 
-The United States split internally. One faction within its security apparatus wanted PHARMATA seized as a matter of sovereignty, reasoning that no foreign corporation could be permitted to hold the off-switch to the American nervous system. A second faction, quieter and ultimately decisive, understood the Timer through intelligence channels and concluded that any move against PHARMATA that interrupted Meta distribution was indistinguishable from a national suicide order. The second faction won by doing nothing, which is how the most consequential decisions in the post-LUX world were usually made.
+The United States split internally. One faction within its security apparatus wanted PHARMATA seized as a matter of sovereignty, reasoning that no foreign corporation could be permitted to hold the off-switch to the American nervous system. A second faction, quieter and ultimately decisive, learned of the Timer through intelligence channels — and, like everyone who learned of it, took Lyber's account of it at face value — concluding that any move against PHARMATA that interrupted Meta distribution was indistinguishable from a national suicide order. The second faction won by doing nothing, which is how the most consequential decisions in the post-LUX world were usually made.
 
 China treated the matter as an internal stability question rather than a justice question. Its leadership recognized faster than any democracy that a coupled population was a governed population, and that decoupling would return to the streets the full emotional amplitude its own systems were built to suppress. Beijing’s fear was not PHARMATA. It was the morning after Meta, when its citizens would feel again. It quietly explored whether Silent Distribution could be slowed within its borders, and discovered that PHARMATA had anticipated this too, and that slowing Meta meant accepting the Timer. It stopped exploring.
 
@@ -796,6 +869,16 @@ The emotional amplitude of the Uncoupled remains a domain where his models are l
 
 # PART VII — THE SECRETS THAT MOVE HISTORY
 
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 11. (The Commission has, by this point, processed the Icarus corpus.)*
+>
+> **HARTMANN:** The Timer. We have the telomere data now. The full development logs. So I'll ask you plainly, and I'll know if you lie. Did you *build* the Timer as a lever — or did you find it, after the doses were out, and call it a lever because the truth was unsurvivable?
+> **VERGIEßEN:** (silence, 14 seconds)
+> **HARTMANN:** You miscalculated telomere attrition when you were twenty-six years old. You sentenced the species with a rounding error and you spent ten years letting the world believe it was a throne.
+> **VERGIEßEN:** ...Say the rest of it.
+> **HARTMANN:** The rest of it is that I came in here to question a tyrant. And I find a frightened young man who has been running from his own arithmetic since before he inherited the company. I don't know which is worse. I think the second one is worse.
+> **VERGIEßEN:** It is. I've had longer to be sure.
+
 ## 32. The Context Prison
 
 Lyber’s most durable defense is not secrecy.
@@ -824,21 +907,23 @@ It is not Meta.
 
 It is the Timer.
 
-LUX contains an expiry mechanism known only to Lyber. It exists in no document, no HERGON record, no distributed backup, no file that Vera can access, no contingency archive. After a defined period known only to him, the integrated LUX structure initiates a degradation cascade. The cascade does not simply reverse coupling. It mimics METOZIM in amplified form, producing mutations whose modeled mortality approaches totality.
+LUX contains an expiry mechanism. The world was told, by the only man who understood it, that this mechanism was a deliberate safeguard. The world was lied to.
 
-Without Meta, the world ends biologically.
+The Timer is not a weapon Lyber built. It is a defect he discovered, and could not undo.
 
-The obvious explanation is leverage. It is true and insufficient.
+The integrated LUX structure does not rest inertly in neuronal DNA forever. Each time a host cell divides, the engineered insert is copied with it, and each copy shortens a flanking telomeric buffer that Lyber's original design treated as inexhaustible. It is not inexhaustible. After a finite number of cell divisions — a number set not by intention but by the brute arithmetic of replication — the buffer erodes past a threshold and the insert destabilizes. The destabilized structure does not simply switch off. It degrades into a cytotoxic cascade that mimics METOZIM in amplified form, producing mutations whose modeled mortality approaches totality.
 
-Lyber built the Timer because a coupled world would not feel urgency. A world at peace, productive, grateful, and biochemically disinclined toward crisis could allow Meta to become an indefinitely extended research program. Funding could soften. Oversight could return. Political attention could wander. Comfort could postpone the only project Lyber considered non-negotiable.
+The cascade was latent in the very first dose. It was latent in the dose that saved the first life. Lyber did not learn of it until LUX had already been administered to most of the species.
 
-The Timer makes postponement impossible.
+This is the secret beneath the secret. The Timer is the unforced error of a young scientist who solved the antiviral problem brilliantly and made an actuarial assumption about telomere dynamics that a more cautious decade of development would have caught. There was no more cautious decade. There was a pandemic, and a window, and a man who had decided that speed was a form of mercy.
 
-It is not a dead man’s switch. It does not activate upon Lyber’s death or capture. It is a card he can play when another person believes they hold power over him. Once they understand that Meta must be completed not for his survival but for their own, torture stops. Exclusive-use plans collapse. Assassination becomes irrational. The captor discovers they were captured by biology before the conversation began.
+When he found the flaw, he had three options. He could announce it, and watch the species spend its final years in terror and recrimination, accomplishing nothing, because the only fix was a compound that did not yet exist. He could say nothing, and gamble silently against his own timeline. Or he could lie in the most useful possible direction: he could present the defect as a design. He chose the lie.
 
-Lyber carries alone the knowledge of the world’s end.
+To the board, to the rivals, to every captor and government and intelligence service that ever believed it held leverage over him, Lyber sold the Timer as a deliberate dead-hand switch — a card he could play to make his own elimination irrational. The lie worked precisely because it flattered him. It is easier to believe a man engineered the end of the world than that he tripped over it. The reputation for monstrous foresight was more survivable, for the project, than the truth of monstrous carelessness. Torture stopped. Exclusive-use plans collapsed. Assassination became irrational. The captor always discovered they were captured by biology before the conversation began — and never suspected that their captor was as condemned as they were, and far more frightened.
 
-He calculated the timeline through models he cannot validate without triggering the cascade. This is the one certainty he built that he cannot be certain of.
+Because this is the part the leverage explanation misses entirely: the Timer holds Lyber too. He cannot validate his own timeline without triggering the cascade he is racing. He does not know, to any certainty he can trust, how long the species has. He built nothing here. He inherited a deadline from his own younger hand and spent a decade pretending it was a throne when it was a sentence.
+
+He carries alone the knowledge that he may have already killed everyone, and that the only proof would be the dying.
 
 He lives with that.
 
@@ -876,7 +961,7 @@ Everyone.
 
 ## 35. After Meta
 
-When Meta is complete and distribution is finished, the Timer loses value.
+When Meta is complete and distribution is finished, the Timer stops being a threat. Meta's epigenetic maintenance stabilizes the LUX insert and halts the degradation cascade in every body that receives it. The deadline Lyber inherited from his own younger hand is, at last, disarmed — not by the leverage he pretended it was, but by the cure he raced to finish before it could prove him right.
 
 For the first time since his twenty-eighth year, Lyber holds no biological leverage over humanity. No hidden deadline makes him indispensable. No incomplete project makes his elimination irrational. No future dependency protects him from judgment.
 
@@ -901,6 +986,14 @@ The judgment belongs, for the first time, to people whose neurobiology no longer
 ---
 
 # PART VIII — STRUCTURAL CHRONICLE
+
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 12.*
+>
+> **HARTMANN:** Your own soldiers. Hans's unit. They killed to outrun your deadline. Now they have the Icarus files. They know the deadline was your mistake, not your command. Do you understand what you did to them?
+> **VERGIEßEN:** I gave them a number to carry. I believed the number.
+> **HARTMANN:** That is somehow worse. A liar who knows he lies is at least in command of himself. You made men kill for a figure you had convinced *yourself* was real.
+> **VERGIEßEN:** Hans will not forgive that. I don't ask him to. A force built on conviction was always going to turn the day the conviction turned. I built the blade knowing which way it would fall if the truth ever reached the hand holding it. (pause) It reached the hand. That, at least, is working as designed.
 
 ## 36. Founding Sequence
 
@@ -1000,15 +1093,57 @@ Distribution is prepared through LUX protocol continuation and secondary channel
 
 Governments, corporations, armed groups, and investigative bodies converge without seeing the full timetable.
 
-John carries Mary to Lyber.
+John carries Mary across the continent and intercepts a PHARMATA convoy at the Norfolk enclave.
 
-John becomes the Fractured anomaly that may change the understanding of METOZIM itself.
+John becomes the Fractured anomaly that may change the understanding of METOZIM itself, and is contained alive on Lyber's order.
 
-Mary survives under a lie.
+Mary survives under a lie, inside the same enclave.
 
 Meta distribution proceeds toward threshold coverage.
 
-## 41. Aftermath Sequence
+## 41. Collapse Sequence
+
+Phase 1 of Silent Distribution prioritizes the critical logistics hubs. The senior HERGON engineers at the Norfolk enclave receive Meta first.
+
+They wake.
+
+Decoupled, with a decade of suppressed amplitude returning at once, they feel the full weight of what was done to them and to everyone. They execute the Icarus Protocol: a cold data dump of PHARMATA's psychological and operational core — the Timer's true nature, the location of John Morgan, Lyber's private logs — transmitted directly to the Aurigen Commission before they abandon their posts.
+
+VIGIL, still coupled, freezes in a cached protocol loop when central command goes dark.
+
+The Meta Soldaten, decoupled and enhanced, cut the digital cord, seize manual control of the automated transport network, and disperse the Meta stockpiles by force.
+
+The Icarus corpus reveals to Hans's unit that the Timer was Lyber's concealed error, not his command. Their loyalty does not survive the reading.
+
+Vera, learning the same truth, removes Lyber from the center of her world and takes over the insurgency. She does not break his calorie-triage schedule out of haste or ignorance. She understands the Warburg demand better than anyone alive; she helped design the delivery architecture and knows precisely what she is unleashing. She breaks the schedule as a choice with its eyes open — a cold calculation that a free, unequal, starving humanity is better than a chemically maintained one fed on time. She chooses the Famine of Waking over the Peace of the Jailer, and she knows the body count of that sentence before she signs it.
+
+Hartmann presents the raw telomere data to Ethan Carter and establishes mutual dependence: expose the Timer and the laboratories burn; suppress it and split the Western manufacturing rights. GENOMIND becomes the new chemical custodian of the Americas by market interest.
+
+Priya Anand denounces the Commission at The Hague for biosecurity imperialism while turning BIOCORE's southern distribution mesh into the receiving harbor for smuggled Meta. Her denunciation is not pure cynicism: the triage schedule would have left the Global South for last, again, and she refuses to let the South wake last in a second century as it did in the first. But the truth she does not say at The Hague is the same one Vera had already accepted — flooding the southern hemisphere with Meta ahead of the food means waking billions into hunger. Anand chooses it anyway. She decides that being last to be free is the one inequality worth a famine to end.
+
+PHARMATA, as a command structure, ceases to exist. What it built does not. It finishes distributing itself through the hands of the people who tore it apart — and those same hands, in the act of freeing the species, condemn a portion of it to starve. Nothing in this architecture was ever offered without a price extracted somewhere the buyer could not see. The collapse changed who set the price. It did not abolish the bill.
+
+## 42. The Transitional Catastrophe
+
+A record that ends with the architecture changing hands would leave unanswered the only question that finally matters: how the species survived the gap between the world on fire and the world at peace. The Commission did not omit it. It found the gap nearly unbearable to compile, which is not the same as omission. What follows is the account of the four months the survivors call, without agreement on whether the name is bitter or proud, the Waking.
+
+When Meta crossed a body, the Warburg shift did not announce itself gently. Within days, basal caloric demand roughly doubled. A population that had eaten as coupled humans — placid, low-burning, content — found itself, within a single week, metabolically transformed into something that ran hot and could not be fed by the systems built for the old baseline. The decoupled did not merely feel hungry. They were hungry in a way the supply chains had never been designed to answer, and the supply chains, half-sabotaged by the very insurgency distributing the Meta, were in no condition to try.
+
+The first month was looting that no one had the heart to call crime. Decoupled crowds, feeling outrage at full amplitude for the first time in a decade and starving while they felt it, emptied warehouses across three continents. Whole industries were seized and converted, at gunpoint and by improvised committee, into production lines for STRATAGEN's survival biomass — the low-grade, barely palatable metabolic ration that the only rival who had read the famine in advance had been quietly building capacity to make. STRATAGEN's foresight did not avert the catastrophe. It set a floor under it. Its biosynthesis ran at absolute maximum and produced enough to keep mass starvation from becoming extinction, and not one calorie more. The world did not survive the Waking well. It survived it the way a body survives sepsis: alive, permanently marked, and never again able to pretend it had not come close.
+
+The death toll of the Waking has never been fully counted. The Commission's working estimate, drawn from STRATAGEN's distribution shortfalls and regional census collapse, runs into the tens of millions. These are the dead that Vera signed for and Anand accepted — the price of waking the species instead of feeding it back to sleep. No tribunal has decided what to call them. The word *liberation* and the word *famine* describe the same four months, and the dossier declines to choose between them, because the people who lived through it have not.
+
+Into that vacuum stepped the only institutions left standing with the means to stabilize anything. This was the Pact of Norfolk. With PHARMATA gone as a command structure and BIOSTRATA threatening to release wild METOZIM into the chaos as leverage, Hartmann and Ethan Carter did what the Commission's own charter should have forbidden and what survival required: they merged the moral authority of the Aurigen Commission with the manufacturing capacity of GENOMIND, presented BIOSTRATA's bioweapon threat as the common enemy, and used the resulting panic to bring the surviving rivals to heel. The corporations were not punished. They were promoted. GENOMIND, BIOCORE, and STRATAGEN became, under the humanitarian language of the Pact, the new distribution cartels of the Meta age — carving the planet into stabilization territories, each a custodian of the chemical maintenance its region now depended on. The Commission that convened to end one monopoly midwifed three.
+
+Hartmann understood the contradiction and signed anyway. His justification, recorded in his own hand, was that a cartel that feeds people is survivable and a vacuum that starves them is not, and that he would rather be judged for the compromise than mourned for the principle. It is the most Lyber-like sentence Georg Hartmann ever wrote, and he knew it, and he wrote it anyway.
+
+One transfer inside the Pact was never made public. During the HERGON blackout, while VIGIL was frozen in its cached loop, GENOMIND extracted John Morgan from the Norfolk enclave's medical tier. Carter had read the Icarus files. He understood, faster than the Commission did, that the GRIN2B carrier with the strain-specific Fractured brake was not a curiosity but the alternative cure for METOZIM itself — the one biological asset that could break any future monopoly on the disease that started everything. John did not surface in the public record again. He became the single most valuable industrial secret held in New York: a living counter-key, kept alive and studied in the same condition PHARMATA had kept him, by his new owners, for the same cold reason as his old ones.
+
+The architecture changed hands.
+
+The logic did not.
+
+## 43. Aftermath Sequence
 
 The coupled world ends.
 
@@ -1018,7 +1153,11 @@ The intellectual acceleration of humanity collides with the return of full outra
 
 Medicine, labor, education, politics, and identity reorganize around bodies and minds no longer defined by the old baseline.
 
-Cancer risk, metabolic demand, and unequal nutritional infrastructure become the first major burdens of the Meta age.
+The acute Famine of Waking subsides into chronic global rationing; cancer risk, permanent caloric demand, and the rationed survival economy become the standing burdens of the Meta age.
+
+The corporate cartels of the Pact of Norfolk consolidate as the new custodians of stabilization.
+
+John Morgan remains hidden in New York. Mary Morgan remains held by the Commission.
 
 Lyber remains.
 
@@ -1028,7 +1167,13 @@ The world judges him with the very autonomy he restored.
 
 # PART IX — THE TERMS OF THE WORLD
 
-## 42. Named Systems
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Day 14.*
+>
+> **HARTMANN:** We are compiling the definitions. The systems, the terms, the names. So that whoever comes after us can understand what was done. Is there a word, in all of it, you would change?
+> **VERGIEßEN:** One. You list the Uncoupled as a defect — a failure of coupling to seat. Reverse it. They were the control group that proves the rest of you were altered. They are not the broken ones. They are the only readings I ever had of what a human being was *before* I touched the species. File them as the baseline. File the rest of the world as the experiment.
+
+## 44. Named Systems
 
 METOZIM is the neuroinvasive pandemic virus whose trans-olfactory transmission and Fractured pathway brought civilization to the edge of collapse.
 
@@ -1072,9 +1217,21 @@ Epigenetic Drag is Lyber’s name for the accumulated biological suppression cre
 
 Potentialist Governance is Lyber’s political philosophy: governance is legitimate only insofar as it maximizes human capability.
 
-The Timer is the hidden LUX expiry mechanism known only to Lyber.
+The Timer is the involuntary telomeric degradation defect latent in every LUX dose, which Lyber concealed and misrepresented to the world as a deliberate safeguard.
 
 Silent Distribution is Lyber’s global plan to deliver Meta through existing LUX maintenance infrastructure before geopolitical competition can stop universal access.
+
+The Aurigen Commission is the body of inquiry, chaired by Georg Hartmann, that compiled this dossier from seized records, the Interrogation 01-A transcripts, and the Icarus corpus.
+
+The Icarus Protocol is the cold data dump of PHARMATA's psychological and operational core, executed by newly decoupled engineers during the fall of the Norfolk enclave, which delivered the corporation's interior record to the Aurigen Commission.
+
+The EBN Enclaves are the fortified continuity sites — including Norfolk and the Cheyenne Mountain facility — absorbed by PHARMATA from the United States under Extreme Biological Necessity, used to warehouse and stage LUX in North America.
+
+The Waking is the four-month transitional catastrophe in which the decoupled population's Warburg metabolism doubled caloric demand faster than supply could answer, producing mass starvation held short of extinction only by STRATAGEN's pre-built biosynthesis.
+
+The Famine of Waking is the name for the death toll of that transition — the price Vera and Priya Anand knowingly accepted in choosing accelerated, universal decoupling over Lyber's calorie-phased schedule.
+
+The Pact of Norfolk is the post-collapse arrangement by which the Aurigen Commission and GENOMIND merged moral authority with manufacturing capacity, neutralized BIOSTRATA's bioweapon threat, and licensed the surviving rivals as the new regional distribution cartels of the Meta age.
 
 The GRIN2B trait is the polygenic variation, centered on the gene encoding the GluN2B receptor subunit, that prevents Synaptic Coupling from seating fully and produces the Uncoupled.
 
@@ -1084,7 +1241,7 @@ The Stillness is the movement of the coupled who refuse decoupling and defend PH
 
 Signatory 141 is the final nation to sign the EBN contracts, producing a delayed and behaviorally deviant LUX baseline that HERGON continues to monitor.
 
-## 43. Central Contradictions
+## 45. Central Contradictions
 
 LUX saved humanity from death and stole from it the full biological cost of refusal.
 
@@ -1112,6 +1269,14 @@ The world becomes capable of judging Lyber only because Lyber completes the work
 
 # PART X — THE FINAL SHAPE
 
+> **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
+> *Vienna. Final session.*
+>
+> **HARTMANN:** Meta is distributed. Universal. The Timer is disarmed in every body that received the cure. You have no leverage left. For the first time, the world can do anything it likes to you. Why did you not run?
+> **VERGIEßEN:** Because the work is finished, and an unfinished thing is the only failure I cannot tolerate. There is nothing left to protect. You may proceed.
+> **HARTMANN:** That isn't an answer to the question I asked.
+> **VERGIEßEN:** No. The answer to the question you asked is that I wanted to be reachable. For ten years I made eight billion people incapable of feeling the full weight of what I'd done to them. I am told they can feel it now. (pause) Bring them in. I would like to be judged by people who are finally awake enough to mean it.
+
 The world before METOZIM was unequal, noisy, unstable, brilliant, cruel, exhausted, and unfinished.
 
 The world during METOZIM was honest in the way catastrophe is honest. It stripped institutions to capacity, families to luck, ethics to triage, and civilization to the question of whether enough people could remain cognitively intact to keep the lights on.
@@ -1122,7 +1287,7 @@ That peace was not false. False peace requires everyone to know at some level th
 
 Then Meta arrived as the only key to a lock PHARMATA built.
 
-This is the central wound of the age: liberation and violation share an author.
+This is the central wound of the age: liberation and violation share an author. And then the wound deepened past Lyber, because the freeing of the species was itself paid for in the dead of the Waking, signed by the woman who loved him and the woman who defied him both. The cure had a cage. The key had a famine. The institutions that ended the monopoly became cartels. No actor in this record reached the good without crossing a field of the dead to get there.
 
 No clean moral geometry survives that fact.
 
