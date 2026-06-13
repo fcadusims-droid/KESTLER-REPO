@@ -1,6 +1,6 @@
 # Heroes' Logistics — Technical Game Design Document
 
-**Version:** 1.4 (Feature-Complete Technical Draft)
+**Version:** 1.5 (Feature-Complete Technical Draft)
 **Document type:** Technical GDD — systems, mechanics, and architecture only
 **Platform target:** Roblox (Luau, server-authoritative)
 **Status:** Pre-production / Vertical Slice definition
@@ -90,7 +90,7 @@ The micro loop is the engine that produces the North-Star moment. It must be tig
 - Two bases: Blue (player) vs. Red (AI opponent).
 - One direct central road connecting them.
 - A contested midpoint where the tug-of-war is decided.
-- **The MVP map is hand-authored and fixed** — a single, known layout. Procedural generation (§16) is Post-MVP: the North-Star (§1.1) is validated against *one* controlled map so attachment, not novelty, is what is being measured. Treat the MVP map as the degenerate case of the procedural ruleset (one straight road, default cover spacing).
+- **The MVP map is hand-authored, fixed, and full-information** — a single known layout with no fog. Procedural maps (§16) and fog of war (§17) are Post-MVP: the North-Star (§1.1) is validated against *one* controlled, fully-visible map so attachment, not novelty or scouting, is what is being measured. Treat the MVP map as the degenerate case of the procedural ruleset (one straight road, default cover spacing, full vision).
 
 ### 4.3 MVP Win/Loss — Tug-of-War Mechanics
 
@@ -639,8 +639,10 @@ To keep the network budget lean and still deliver the North-Star drama, the serv
 
 | Data type | Frequency | Transmission scope | Client use |
 |---|---|---|---|
-| **Global tactical matrix** (ID, Team, ClassID, X/Z) | 1 Hz | All clients in the match | Static icons on the mini-map / radar |
+| **Tactical matrix** (ID, Team, ClassID, X/Z) | 1 Hz | Per player; own units always, enemy units only within revealed vision (§17.1) | Icons on the mini-map / radar |
 | **Focused entities / active operations** | 20 Hz | Only clients with the camera locked on a unit **or** an active rescue on screen | Smooth rendering of load bars, HP, and cart movement |
+
+> Note: with fog of war (§17), the tactical matrix is **per-player and vision-filtered**, not global — the server omits enemy entities the player has not revealed. In the MVP (no fog) it is effectively global.
 
 - Roblox `StreamingEnabled` hides heavy 3D models in distant areas; the radar lets the player make global logistical decisions without rendering the whole army.
 - **Active rescues are always high-priority replication** regardless of camera, so the 4.5s climax never stutters.
@@ -758,7 +760,7 @@ Each milestone has a hard exit criterion; do not advance without meeting it.
 | **M2 — Replication** | Tactical radar, two-rate pipeline, anti-bungee, focus channel (§11.3) | Follow and radar are smooth at budget; no visible rubber-banding on promotion |
 | **M3 — Rescue** | Agony, Supply meter (§8.7), airdrop + cart FSM (§12.2), telemetry (§4.4) | **The North-Star test (§1.1):** 30-min sessions; players know their best soldier's name and report the knot-in-chest moment; rescue success rate inside the band |
 | **M4 — Veterancy & Roles** | Competence tiers (§6.6), cover (§6.8), crystallization + kits (§6.7), earning a name (§10.3), cosmetics (§6.7.3) | Two distinct archetypes appear in the Notable panel; players describe a soldier *by role* unprompted |
-| **Post-MVP** | PvP universe + permadeath (§9), full economy: gathering, rarity & crafting (§14), tech tree (§6.7.4), era system (§15), procedural maps (§16), Fallen Heroes Wall bonuses (§8.5) | Gated on M3's emotional validation; within Post-MVP, eras gate on the economy, cross-era PvP gates on same-era PvP (§15.6), and procedural maps gate on the North-Star validating against the fixed MVP map (§16) |
+| **Post-MVP** | PvP universe + permadeath (§9), full economy: gathering, rarity & crafting (§14), tech tree (§6.7.4), era system (§15), procedural maps as RTS (§16), fog of war & recon (§17), Fallen Heroes Wall bonuses (§8.5) | Gated on M3's emotional validation; within Post-MVP, eras gate on the economy, cross-era PvP gates on same-era PvP (§15.6), and procedural maps + fog gate on the North-Star validating against the fixed full-information MVP map (§16/§17) |
 
 The ordering is deliberate: **attachment is validated before logistics (M1 before M3), and logistics before any expansion (M3 before Post-MVP).** Each phase tests one hypothesis.
 
@@ -987,62 +989,131 @@ Combined arms ships **inside the era ladder** — mounts with Era I–II, armor 
 
 ---
 
-## 16. Procedural Map Generation (Post-MVP)
+## 16. Procedural Maps as Real-Time Strategy (Post-MVP)
 
-> **Scope gate.** The MVP map is hand-authored and fixed (§4.2). Procedural generation ships **Post-MVP**, after the North-Star (§1.1) is validated on the controlled map — you measure attachment against one map first, then introduce variety as a separate, later variable.
+> **Scope gate.** The MVP map is hand-authored and fixed (§4.2). Everything here ships **Post-MVP**, after the North-Star (§1.1) is validated on the controlled map — variety and terrain strategy are introduced only once attachment is proven on one known map.
 
-Battle maps are generated **procedurally from rules**, not drawn by hand and not left to chance. "Procedural" here means *rule-governed assembly*, not randomness: a server-side generator places the elements the document already specifies — the road, cover (§6.8), resource nodes (§14.2), barricades, bases — within **hard invariants** that guarantee every map is a legible 1D tug-of-war. The rules protect the thesis; the variety keeps PvP fresh and gives PvE campaigns endless terrain.
+The battle map is not a backdrop the player acts *upon* — it is a **constraint the player must read and answer in real time.** Each match generates one shared, procedural battlefield from rules; the terrain *asks a question* (where are the chokepoints, how far is the wealth, where can cavalry charge) and the player's logistics *are the answer* (where to commit barricades, which cover to garrison, how far to gamble a push). This turns logistics from "execute rescues" into "read terrain and commit resources in space" — the deepest expression of Pillar 2. Combined with fog of war (§17), the map becomes the central strategic layer: a real-time RTS of supply, scouting, and positioning, fought by soldiers the player loves.
 
-### 16.1 Why Rule-Governed, Not Random
+### 16.1 The Two Layers: Fixed Terrain vs. Player Placement
 
-A purely random map could produce an unwinnable or unreadable battlefield — the opposite of the legibility every system depends on (Pillar 3). The generator is therefore a **constraint satisfier**: it varies layout *within* bounds that keep the core loop intact. If a candidate map violates an invariant (§16.2), it is rejected and re-rolled, never shipped.
+The critical split. If the player could move *everything*, every map would collapse to one optimal solution and the terrain would become decorative. So the map has two layers:
 
-### 16.2 Hard Invariants (never violated)
+| Layer | Who decides | Examples | Role |
+|---|---|---|---|
+| **Fixed terrain** | The generator (immutable for the match) | Road shape, chokepoints, flank width, **resource node locations**, base positions | The *question* — the constraint the player cannot change |
+| **Player placement** | The player, live, during combat | Where to airdrop barricades (§8.2), which cover points to garrison and with whom, how far to push to capture a node, where to site a trench/MG nest (Era III+) | The *answer* — where skill lives |
 
-Every generated map must satisfy all of these, or it is discarded:
+Because terrain is fixed and only *resource commitment* is free, **every generated map poses a genuinely different tactical question.** A chokepoint near your base demands defense; rich nodes placed far demand an aggressive gamble. The player reads, then responds — and because the placement is *theirs*, when Arthur dies on a barricade the player sited badly, the fault is the player's. Fault is attachment: the terrain is the stage, the player's placement is the script, the soldiers are the actors.
 
-1. **Topology is always a 1D corridor.** The battlefield is a single contestable axis from Blue base to Red base (it may bend or branch slightly, but the front line §4.3 must remain a well-defined scalar position along a primary spine). No open 2D arenas — the entire AI, replication, and tug-of-war stack assumes the corridor.
-2. **A single primary road spline** connects the bases, traversable end-to-end (the navigation backbone, §6.1). Any branches rejoin the spine; dead ends are forbidden.
-3. **Symmetry of opportunity.** Cover, nodes, and chokepoints are balanced between the two halves so neither base starts advantaged. PvP requires mirrored or rotationally-symmetric layouts; PvE may relax this for designed difficulty.
-4. **Road length within range** (e.g. 350–550 studs) so round length stays in the 5–8 min target (§4.3); the front-line push constant `k` is unaffected.
-5. **Cover density within the §6.8 band** (≈1 point per 40 studs ± tolerance) — enough to enable veterancy behaviors, not so much that the tug-of-war stalls.
-6. **Reachability.** Every cover point, node, and rescue position must sit on or adjacent to the road spline (no pathfinding islands — Layer 1 §6.1 forbids heavy pathing).
+### 16.2 Real-Time, No Prep Phase
 
-### 16.3 Generation Parameters (the rules that vary)
+There is **no pre-battle planning screen.** The match begins and the player discovers the map *as units advance into it* (§17, fog of war). All placement decisions are made live, under pressure, as the front line moves and the unknown resolves — true to the "logistics commander under fire" fantasy. The tension is reading a battlefield you cannot fully see while committing resources you cannot fully afford.
 
-Within the invariants, the generator varies:
+### 16.3 Generation: Rule-Governed, Not Random
 
-| Parameter | Range / options | Effect on play |
+"Procedural" means *rule-governed assembly*, not chance. The generator is a **constraint satisfier**: it varies the fixed-terrain layer within hard invariants that guarantee every map is a legible, winnable 1D tug-of-war. A candidate violating any invariant (§16.4) is rejected and re-rolled, never shipped — a purely random map could produce an unreadable or unfair battlefield, the opposite of the legibility every system depends on (Pillar 3).
+
+### 16.4 Hard Invariants (never violated)
+
+1. **Topology is always a 1D corridor.** A single contestable axis from Blue to Red base; it may bend or pinch, but the front line (§4.3) must stay a well-defined scalar position along a primary spine. No open 2D arenas — the AI, replication, and tug-of-war stack assume the corridor.
+2. **A single primary road spline** connects the bases end-to-end (navigation backbone, §6.1). Branches rejoin the spine; no dead ends.
+3. **Symmetry of opportunity.** Terrain is balanced between halves so neither base starts advantaged. PvP requires mirrored or rotationally-symmetric layouts; PvE may relax this for designed difficulty.
+4. **Road length within range** (e.g. 350–550 studs) so rounds stay in the 5–8 min target (§4.3).
+5. **Cover density within the §6.8 band** (≈1 per 40 studs ± tolerance) — enough to enable veterancy behaviors, not so much that the push stalls.
+6. **Reachability.** Every cover point, node, and rescue position sits on or adjacent to the road spline (no pathfinding islands — §6.1 forbids heavy pathing).
+
+### 16.5 Generation Parameters (the rules that vary)
+
+| Parameter | Range / options | Strategic question it poses |
 |---|---|---|
-| Road shape | Straight, bent, S-curve, single chokepoint | Changes sightlines and how the front line flows |
-| Cover rhythm | Even / clustered / front-loaded (within §16.2 #5) | Clustered cover favors Bastions; sparse favors mobility |
-| Node placement | Distance of richest nodes from center | Sets how far the player must push (greed-vs-risk, §14.2) |
-| Chokepoints | 0–2 narrow segments | Where pushes stall and rescues get desperate |
-| Flank width | Narrow ↔ wide road shoulders | Room for mounts to charge (§15.8.1) and carts to route |
-| Era dressing | Per-era cover/node/barricade types (§15.4) | Cosmetic + parameter swap, not a new ruleset |
+| Road shape | Straight, bent, S-curve, pinch | Sightlines and how the front flows (interacts with fog, §17) |
+| Cover rhythm | Even / clustered / sparse (within §16.4 #5) | Clustered favors Bastions; sparse favors mobility |
+| Node placement | Distance of richest nodes from center | How far to gamble a push (greed-vs-risk, §14.2) |
+| Chokepoints | 0–2 narrow segments | Where pushes stall and rescues turn desperate |
+| Flank width | Narrow ↔ wide shoulders | Room for cavalry charge (§15.8.1) and cart routing |
+| Era dressing | Per-era furniture types (§15.4) | Cosmetic + parameter swap, not a new ruleset |
 
-- **Era is an input, not a separate generator.** The same ruleset produces a medieval lane or a WWII front; only the furniture *type* and engage-range context change. One generator, all eras.
-- Difficulty/biome tags (PvE) bias the parameters (e.g. "mountain pass" → more chokepoints) without touching the invariants.
+- **Era is an input, not a separate generator.** One ruleset produces a medieval lane or a WWII front; only furniture *type* and engage-range context change.
+- PvE biome tags (e.g. "mountain pass" → more chokepoints) bias parameters without touching invariants.
 
-### 16.4 Technical: Deterministic, Server-Authoritative, Seed-Based
+### 16.6 Technical: Deterministic, Server-Authoritative, Seed-Based
 
-- **The generator runs once on the server at match start** and produces a compact **map descriptor**: road spline control points, cover/node/barricade positions and types, base locations, and map bounds.
-- **Seed-based determinism.** Generation is a pure function of a single integer seed plus the parameter set. The server stores the seed in match state and ships the *descriptor* (not a stream of geometry) to clients. Every client reconstructs identical visuals and an identical radar (§11.3) from the same descriptor — no divergence, low bandwidth.
-- **The descriptor is the map data** referenced by the radar projection (§11.3) and the `MatchService`. Cover and nodes register into the `EntityStore` (§11.5) at spawn exactly as fixed ones would — downstream systems cannot tell a generated map from a hand-authored one.
-- **No runtime generation cost.** All placement happens at match start, before units spawn; the hot loop (§6.5) never sees the generator. Rejected candidates (§16.1) are re-rolled in the same start-up step, bounded by a max-attempts cap that falls back to a known-good template if exceeded.
-- **Reproducibility for debugging and fairness.** Because a map is fully defined by its seed, a problematic layout can be reproduced from its seed alone, and PvP can guarantee both players the same map by sharing one seed.
+- **The generator runs once on the server at match start**, producing a compact **map descriptor**: spline control points, fixed node/cover/base positions and types, and map bounds.
+- **Seed-based determinism.** Generation is a pure function of a seed plus parameters. The server stores the seed in match state and ships the *descriptor* (not streamed geometry) to clients, **subject to fog-of-war filtering (§17)** — clients receive terrain as they discover it, not all at once. Both players share one seed, guaranteeing the same battlefield.
+- The descriptor feeds the radar projection (§11.3) and `MatchService`. Generated cover/nodes register into the `EntityStore` (§11.5) exactly as fixed ones would — downstream systems cannot tell a generated map from a hand-authored one.
+- **No runtime generation cost.** All placement happens at start-up before units spawn; the hot loop (§6.5) never sees the generator. Rejected candidates re-roll in the same step, bounded by a max-attempts cap that falls back to a known-good template.
+- **Reproducibility.** A map is fully defined by its seed — problematic layouts reproduce from the seed alone for debugging and fairness review.
 
-### 16.5 Authoring Still Matters
+### 16.7 Authoring Still Matters
 
-Procedural does not mean designer-free. Designers author the **rules, the invariants, the parameter ranges, and the fallback templates**, and curate **seed pools** — vetted seeds known to produce excellent maps — for ranked PvP and key campaign beats, where a great fixed layout beats a random good one. The generator is a tool for breadth; human curation guards the peaks.
+Designers author the **rules, invariants, parameter ranges, and fallback templates**, and curate **seed pools** — vetted seeds known to produce excellent maps — for ranked PvP and key campaign beats, where a great fixed layout beats a random good one. The generator provides breadth; human curation guards the peaks.
 
-### 16.6 Telemetry Additions
+### 16.8 Telemetry Additions
 
-Extend §4.4 with `Telemetry_Map_Seed` (logged per match for reproducibility), `Telemetry_Map_RerollCount` (how often candidates fail invariants — a spike means the rules are too tight), and per-seed aggregates of round length and win-side bias (detects layouts that quietly favor one base, feeding back into §16.2 #3).
+Extend §4.4 with `Telemetry_Map_Seed` (per match, for reproducibility), `Telemetry_Map_RerollCount` (invariant-failure rate — a spike means the rules are too tight), and per-seed aggregates of round length and win-side bias (detects layouts quietly favoring one base, feeding back into §16.4 #3).
 
 ---
 
-## 17. Glossary
+## 17. Fog of War & Reconnaissance (Post-MVP)
+
+> **Scope gate.** Ships with procedural maps (§16), Post-MVP. The MVP is full-information on its fixed map. Fog of war is what makes terrain (§16) and scouting *matter* — without it, a generated map is decoration; with it, every meter of road is an unanswered question until someone goes to look.
+
+The shared battlefield (§16) is covered in fog. Each player sees only what their own units currently reveal. The terrain, enemy positions, enemy barricades, and contested nodes beyond your sight are **unknown** — discovered in real time by pushing units forward, AoE/StarCraft-style, inside a 1D corridor. This is the system that elevates the map from backdrop to the game's strategic core.
+
+### 17.1 The Golden Rule (anti-cheat, §9.1)
+
+**The server never sends a client what that player should not see.** Fog is not a client-side visual mask over full data — that is trivially hacked. Vision is computed **server-side per player**, and the replication pipeline (§11.3) transmits only entities within that player's revealed area. A client that strips its own rendering still receives nothing it has not earned. This makes §11.3's "global tactical matrix" **per-player and vision-filtered**, not global — the one structural change fog imposes, and a necessary cost of honest fog.
+
+### 17.2 Transparency of Your Own; Darkness of Theirs
+
+The division that protects the North-Star (§1.1):
+
+- **Your own units are always fully visible to you** — position, HP, Agony state, everything. Fog never hides your soldiers from you. When Arthur falls into Agony you *always* know instantly (the alert, §7.4, still fires), so the emotional core is untouched.
+- **Fog hides the enemy and unexplored terrain only.** You earn knowledge of *their* army and the *far* ground by looking.
+
+This asymmetry is the rule: total clarity about the people you love; earned darkness about everything else.
+
+### 17.3 Dynamic Darkness (explored ≠ permanently visible)
+
+Three states per region of the corridor:
+
+| State | What you see |
+|---|---|
+| **Unexplored** | Nothing — terrain shape and contents unknown |
+| **Active vision** | Full real-time view: terrain + live enemy unit positions (a unit of yours is currently there) |
+| **Remembered** | Terrain you have seen stays known (its shape, node locations), **but live enemy movement there is hidden again** once you leave |
+
+Leaving an area drops it from Active to Remembered: you recall the ground but lose the live picture. This makes reconnaissance a **continuous investment**, not a one-time checklist — to know what the enemy is doing *now*, you must keep eyes there. It rewards maintaining scouts and creates the classic dread of a position you cleared an hour ago and can no longer see.
+
+### 17.4 Reconnaissance as a Tactical Resource
+
+Vision becomes something you spend units to obtain:
+
+- Every unit has a **vision radius** (the §5.5 value, ~40 studs) that reveals fog around it as it advances.
+- **Scout-leaning units see farther.** Vision radius is a unit property, so mounts (§15.8.1, fast wide-scouting) and the **Recon aircraft sortie** (§15.8.3, a sweeping pass that reveals a long stretch for ~20 s) are the dedicated recon tools — already specified, now given purpose.
+- **Emergent scouts.** Because vision is a property and survival shapes specialization (§6.7.1), a soldier who survives by ranging ahead can lean toward a scouting identity. Recon is not a separate system; it is a role the battlefield reveals — consistent with §6.7's whole philosophy.
+- **The recon-vs-commit tension:** units sent ahead to *see* are exposed and away from the front line's push (§4.3). Scouting costs pressure; blindness costs ambushes. That trade is the real-time strategy.
+
+### 17.5 Fog and the Radar (§7.2 / §11.3)
+
+- The tactical radar shows **your units always**, **terrain as Remembered-or-better**, and **enemy units only where you have Active vision.** Enemy icons wink out as they slip into fog — itself a piece of information ("they were heading there 5 seconds ago").
+- A Recon sortie (§15.8.3) temporarily promotes a stretch to Active vision at 20 Hz fidelity (the §11.3 exception already noted), then it decays back to Remembered.
+
+### 17.6 Technical Notes (server-side vision)
+
+- **Vision computation** runs in a dedicated low-frequency pass (e.g. 4–5 Hz, between the §6.5 schedulers' cadence): for each player, union the vision radii of their living units along the 1D corridor into a set of revealed intervals. The corridor topology (§16.4 #1) makes this cheap — vision is intervals on a line, not 2D field-of-view.
+- **Replication filtering:** `ReplicationService` (§11.2) intersects each entity's position against the requesting player's revealed intervals before including it in that player's 1 Hz/20 Hz payload (§11.3). Remembered terrain is sent once on first reveal; live enemy entities are sent only while inside Active intervals.
+- **Cost honesty:** per-player vision-filtered replication is more expensive than one global matrix — this is the server cost of dynamic darkness, accepted deliberately (§17.3). The interval-based model keeps it tractable; the unit cap per match bounds it.
+- All vision is server-authoritative; the client renders fog from the filtered data it legitimately receives and nothing more (§17.1).
+
+### 17.7 Telemetry Additions
+
+Extend §4.4 with `Telemetry_Recon_UnitTimeAhead` (scout exposure), `Telemetry_Ambush_Events` (kills made on units with no prior Active vision of the attacker — the cost of blindness), and `Telemetry_Map_RevealedFraction` at match end (how much of the map a player ever saw — tunes whether fog is too thick or too thin).
+
+---
+
+## 18. Glossary
 
 | Term | Meaning |
 |---|---|
@@ -1059,6 +1130,7 @@ Extend §4.4 with `Telemetry_Map_Seed` (logged per match for reproducibility), `
 | **EntityStore** | The pure Luau dictionary holding all live entities; single-owner, no retained references (§11.5) |
 | **Era / Era Gap** | A historical technology stage of the army (§15.1); the gap is the era distance between two PvP opponents (§15.5) |
 | **Fallen Heroes Wall** | Permanent memorial of PvP-dead soldiers; grants non-inflationary bonuses (§8.5) |
+| **Fog of War** | Per-player server-side vision; you see your own units always, enemy/terrain only when revealed (§17) |
 | **Forge** | The barracks crafting facility; deterministic recipes, quality gated by tech tree (§14.4) |
 | **Generic / Line Troop** | Unnamed, non-persistent filler soldier; may earn a name (§10.3) |
 | **Legacy Handicap** | Automatic cross-era PvP compensation: stats + closing speed + logistics terms scaling with era gap (§15.5) |
@@ -1069,7 +1141,9 @@ Extend §4.4 with `Telemetry_Map_Seed` (logged per match for reproducibility), `
 | **Mount** | Rideable equipment (Eras I–II); can die under its rider, who fights on (§15.8.1) |
 | **North-Star** | The single success metric: name recall + the knot-in-chest moment (§1.1) |
 | **Provisions / Timber / Iron** | The three Post-MVP resources: sustain / build / arm (§14.1) |
+| **Recon** | Vision gained by advancing units / scout sorties; a continuous investment under dynamic darkness (§17.3–17.4) |
 | **Resource Node** | Flank-side gathering point, accessible only while the front line is pushed beyond it (§14.2) |
+| **Remembered / Active vision** | Fog states: terrain you recall vs. ground you currently see live enemy movement in (§17.3) |
 | **Roster** | The player's 5 named, persistent barracks slots (§10.2) |
 | **Seed** | The integer that deterministically defines a generated map; stored in match state (§16.4) |
 | **Sortie** | A temporary aircraft pass on the air spline: recon, strike, or fighter (§15.8.3) |
@@ -1081,4 +1155,4 @@ Extend §4.4 with `Telemetry_Map_Seed` (logged per match for reproducibility), `
 
 ---
 
-*End of technical draft v1.4. Lore, worldbuilding, and narrative to be authored in a separate document.*
+*End of technical draft v1.5. Lore, worldbuilding, and narrative to be authored in a separate document.*
