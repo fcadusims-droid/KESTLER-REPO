@@ -194,6 +194,13 @@ the match — independent of any one data provider.
 | Learning | Improve the model from every match |
 | Validation | Measure whether the predictions are calibrated |
 
+The **Twelve Intelligences** named throughout map to sections as follows: State and
+Spatial (7), Tactical and Collective (14), Individual (12), Coaches (13), Temporal
+(11), Contextual (9), Predictive (8), Explanatory (19), Narrative (15), Learning
+(21). Memory (17), Causality (18), Consensus (16), and Validation (20) are
+supporting modules that feed or check those intelligences rather than being read
+directly as "what the game is".
+
 ---
 
 ## 4. The acquisition-to-knowledge pipeline
@@ -336,15 +343,15 @@ The temporal brain watches only change over time:
 
 ### 4.5 Layer 5 — Consensus Engine
 
-A module that barely exists in current systems: it **compares every source** and
-reconciles them. See Section 16 for the full design. In short:
+This is where the system **compares every source** and reconciles them — a step most
+tools skip. See Section 16 for the full design. In short:
 
 ```text
 Sofascore   : dangerous attack
 Flashscore  : ordinary attack
 Chat        : almost a goal!
 Commentary  : great save
-        →  Consensus: "chance created", confidence 92%
+        →  Consensus: "chance created", agreement 92%
 ```
 
 ### 4.6 Layer 6 — Football Intelligence Engine
@@ -696,9 +703,8 @@ explanatory layer ("pressure rose because the away block lost compactness").
 
 Predictive Intelligence treats goals — and other events — as a **Poisson process
 with a variable intensity (λ)** that depends on the game state. From this one idea,
-a whole family of predictions follows with closed-form, correct formulas. The aim
-is **not** a betting market; it is to anticipate the concrete next developments of
-the match.
+a whole family of predictions follows with closed-form, correct formulas — used to
+anticipate the concrete next developments of the match.
 
 ### 8.1 Foundation
 
@@ -750,6 +756,11 @@ def rates(state, events, params, regime=None, profiles=None):
     return lam("HOME"), lam("AWAY")
 ```
 
+> Note: this `rates()` applies only the multipliers that are **always available**.
+> The `mult_lineup` factor (who is on the pitch) is layered on top when player data
+> exists — see Section 12 (`player_aware_lambda`); without that data it is 1
+> (neutral) and does not change λ.
+
 ### 8.3 What the engine predicts
 
 ```text
@@ -795,7 +806,8 @@ different things in different states. A balanced 0–0 at minute 20 and a 0–0 
 minute 89 with one team chasing the game are different realities, even if
 possession and shots look similar. This is perhaps the most important module: it
 tells **which regime** the match is in, and every other module then reads the data
-in that light.
+in that light. This is also the home of **Contextual Intelligence**: reinterpreting
+every signal by score, time, sendings-off, and stakes.
 
 ### 9.1 The regimes
 
@@ -905,7 +917,7 @@ presented and trusted**:
 Temporal Intelligence answers one question: *did the game just change?* Before the
 ball rolls, history and context set an expectation. Minutes later, reality can
 contradict it — the underdog dominating, the favorite fading. The **change score**
-measures that distance and, more importantly, its *onset*.
+measures that distance; the temporal brain (below) flags the *moment* it shifts.
 
 ```text
 deviation_control = | observed_control(HOME) - expected_strength(HOME) |
@@ -1205,8 +1217,8 @@ all flow through one link is *fragile*; a team with many redundant connections i
 ## 15. Narrative Intelligence
 
 The most ambitious part: treating **what people say** as a hypothesis to verify, not
-as truth — now purely to *understand the game better*, with no betting motive
-anywhere. The goal is to measure the distance between **perception** and **reality**
+as truth, purely to *understand the game better*. The goal is to measure the
+distance between **perception** and **reality**
 and to find when the dominant narrative is wrong.
 
 ```text
@@ -1503,9 +1515,9 @@ number, it explains the dynamic that produced it.
 ## 20. Validation and calibration
 
 **This is the most important part of all.** Without it, you do not know whether you
-have a system or an illusion. The new project has no betting outcome to chase, so
-the *only* honest measure of quality is: **are the predictions calibrated, and do the
-explanations match what actually happened?**
+have a system or an illusion. Since the system's purpose is understanding rather
+than action, the *only* honest measure of quality is: **are the predictions
+calibrated, and do the explanations match what actually happened?**
 
 ### 20.1 Calibration
 
@@ -1583,7 +1595,7 @@ of Section 20.2.
 
 | Test | What it checks | Result |
 |---|---|---|
-| 1 — Market formulas | Goal-window, next goal, totals match the empirical frequency | within ~0.5 pt |
+| 1 — Prediction formulas | Goal-window, next goal, and total goals match the empirical frequency | within ~0.5 pt |
 | 2 — Calibration detects bias | A biased λ (×1.4) produces a worse Brier and a bent curve | Brier 0.190 → 0.196 |
 | 3 — Regime detector | Six scenarios classified correctly | all correct |
 | 4 — Confidence engine | Monotonic in each factor; collapses to ~0 when data is missing | as designed |
