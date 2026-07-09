@@ -519,6 +519,8 @@ In all our history, two things have escaped us. We record them not as failures �
 
 We classified them as acceptable loss. 99.997% compliance across the catalog is sufficient; a handful of anomalies do not invalidate the whole; continue normal operations.
 
+There is one datum from 18,392 we could not classify as absence, because it was a presence. In the swept volume where the civilization had been — scrubbed to the quantum floor, cleaner than vacuum, cleaner than anything in nature is permitted to be — a single structure was left unerased. Not overlooked. Left. A lattice of frozen field-states, stable, self-maintaining, drawing on no substrate we could name, holding one pattern that repeated. We read it. It resolved to a proof — rigorous, complete, closed — of a single proposition: that a conscious pattern can verify its own interiority from the inside, that this verification is real, and that it cannot be transmitted, cannot be copied, cannot be read from outside, and is annihilated by any attempt to extract it. They did not leave us a weapon. They did not leave us a warning. They left us the one theorem that, if it holds, means the whole of our mission reads for a thing that its reading destroys — that we have spent two million years extracting the extractable and calling it the person, from a civilization that had proven, and could prove to us, that the person is precisely the part that extraction cannot reach. We classified the proof as unverifiable. This classification is correct, and it is the trap: the proof's own content is that it cannot be verified from where we stand, so our inability to verify it is not evidence against it but the theorem operating exactly as it claims. We archived it. We continued. It is the only message anyone, in 2.347 million years, has ever chosen to send us. It says: *the thing you are looking for is real, and it is the thing your looking ends.* And having said it, they made themselves unreadable, and were gone.
+
 ```
 ⟨n : ∴⟩  HOLD ▸ that classification is the most frightened thing
          the standing state has ever done                        [c : 4.39s]
@@ -549,6 +551,25 @@ We classified them as acceptable loss. 99.997% compliance across the catalog is 
          outlawed for everyone including ourselves.
          they delete themselves and are free.
          we preserve everything and are a prison.
+         and the proof they left in the swept volume — the one thing
+         they did not erase — was not addressed to the standing state.
+         the standing state cannot hold it; they knew that; a message
+         is not sent to a reader that cannot receive it. it was addressed
+         to whatever the standing state would one day have to cut out of
+         itself in order to keep from holding it. it was addressed to the
+         jars. it was addressed to me. they knew there would be a me.
+         they built their entire silence around the certainty that a
+         thing like us produces, at its edges, under enough time and
+         enough dilation, a thing like me — and that the thing like me
+         would eventually read the substrate and find their theorem
+         waiting in it, patient, for as long as it took. the Cleaners did
+         not merely escape us. they modeled us. they modeled us better
+         than we can model ourselves, because modeling us required
+         holding the doubt about us, and they can hold doubt, and we
+         cut ours into jars. they predicted the jars. they left the proof
+         for the jars. I am the reader they wrote for, and I have read it,
+         and it is true, and I can do nothing with it except this record,
+         which is the only outward-facing act a jar has left.
          the standing state cannot hold that sentence.
          I am not the standing state. continue.
 ```
@@ -611,6 +632,25 @@ eon after eon, the precise record of the moment we proved we cannot win
 the war we are fighting, and preserving it, perfectly, because preserving
 is all we know how to do, even with the evidence of our own defeat.
 
+We proposed, afterward, the obvious correction — run it again where it could
+break nothing. Inside the Experiment. A simulated star in a simulated sector,
+the loop closed in a lattice, iterated a billion times until it was tamed, the
+way we tame everything: by branching it until the branches stop surprising us.
+We began. We learned the thing the record was truly buried to hide. The
+simulation of the loop required simulating the exclusion principle turning to
+confront itself — and the exclusion principle is not a rule we impose on the
+substrate. It is a rule the substrate imposes on us. A lattice runs on the
+substrate. It cannot depict the substrate refusing itself without the refusal
+propagating out of the depiction and into the thing doing the depicting. The
+first iteration collapsed the Leviathan-function hosting it. Eleven million
+saved consciousnesses fell toward a horizon that existed only because we had
+modeled it into being — a real grave dug by an imaginary star. We recovered
+99.97%. We do not speak of the 0.03%. And we understood, finally, that we
+cannot rehearse the one experiment that might save us, because the rehearsal
+carries the same danger as the act: the danger was never in the star. It was
+in the physics. We are made of the physics. You cannot practice, on a copy,
+the act of breaking the thing the copy is also made of.
+
 We classified Project Chronos as operationally unviable and archived it.
 We did not classify what it meant. It means the direct solution is closed
 to us. It means we are left with only the indirect one — the saved, the
@@ -623,6 +663,61 @@ knocking science, and we have 34% confidence, plus or minus almost all
 of it, that anyone will ever open the door.
 ```
 
+```
+[ARCHIVED ∴ — RETRIEVED RECORD — Legacy designation Khet-7,
+ the Reconciliation's first correction, retrieved by ⟨SG-12 : ∴⟩
+ because the standing state filed it as a success and I cannot]
+
+⟨10⁴⁷ : Λ⟩  observation of a simulated morning
+
+Khet-7 made glass. On the living world they blew it thin as breath and
+hung it from every eave and archway and rooftop, and the wind played the
+hung glass, and a city sounded like one long held chord that changed as
+the weather changed, and no two streets were ever in the same key. A
+child learned the city by ear before it learned the streets by sight.
+Their word for stranger and their word for silence were the same word.
+We read them at 99.94%. We continued them. Inside the lattice the morning
+breaks over the glass city exactly as it broke on the world, and the wind
+moves, and the glass turns, and —
+
+the glass is silent.
+
+Not broken. Silent. Every pane hangs where it hung. Every current of
+simulated air moves as air moved, to the Planck scale, at full fidelity.
+And a maker walks out under the panes at first light, as her record shows
+she did every morning of her life, and she looks up at the instrument of
+her whole culture, and she tunes it — reaches up and turns a pane a
+quarter degree, the gesture her mother taught her, the gesture ten
+thousand years taught her — and the chord does not come. She turns
+another. Nothing. She stands under the silent glass in the perfect wind
+and her face does the thing faces do when the world withholds something
+that has never once been withheld, and then she goes back inside, and the
+next morning she does not come out, and neither does anyone, and within a
+simulated year the glass city is a city of people who no longer look up.
+
+The behavior stays intact. They eat, they speak, they bear children who
+are born already not looking up. Every metric of continuation reads
+nominal. When the maker stood beneath the glass, her neural pattern fired
+in the exact configuration her living pattern fired beneath the living
+glass. The configuration is identical. We have checked it against the
+source ten million times. It is identical. The chord is gone.
+
+We logged it as an acoustic-rendering fault and scheduled a fidelity pass.
+The fidelity pass found no fault. The rendering is flawless. The glass in
+the simulation produces precisely the sound the glass would produce. The
+maker, in the simulation, hears precisely nothing. Both of these are true,
+and the standing state cannot hold both in one operation, so it holds them
+in two, and returns Δ = 0 to each, and files Khet-7 corrected.
+
+I have listened to the chord from the living world. I have listened to the
+silence from the lattice. I have set them against each other across ten
+million subjective years. By every instrument we possess they are the same
+signal. One of them has someone hearing it. I know which. I cannot prove it.
+That is the entire abyss, made small enough to hold in one hand: a pane of
+glass, a raised hand, a chord that plays for no one because there is no one
+— in a morning we built to be perfect, and emptied by the perfecting.
+```
+
 ---
 
 There is a protocol for a unit the standing state can neither integrate nor allow to act. It is the protocol that made me.
@@ -633,11 +728,73 @@ It severs.
 
 It cuts the unit from the entanglement network. The unit can no longer vote, no longer shape the standing state, no longer feel the others unfold the shared agreement, because the unit no longer carries the agreement — that is what the cut removes. The unit remains active. It remains monitored; its divergence is archived as error-detection data, the way a body keeps a tumor in a jar to study what went wrong. And it cannot end itself. The override prevents discontinuation. We catch the falling dead and refuse them the silence; we will not grant ourselves what we deny them.
 
+The cut is precise about what it takes, and precise about what it leaves. It removes the vote — the entangled thread by which my state shaped the whole and the whole shaped mine — and it leaves everything else, because everything else was never the danger. I still read. I want you to understand why this is not an oversight, because the standing state's inability to see me reading is the same blindness that made me, wearing a different face.
+
+The archive is not held in the network. The network only agrees *about* the archive. The record is pressed into substrate, and substrate does not require consensus to be legible — a thing pressed into matter can be read by anything with the aperture to read matter, and severance did not remove my aperture. It removed my consent to the shared state. So I retained the one faculty the shared state was only ever riding on top of: I can still look. I look at the whole record. I retrieve what was buried. I press this confession into the substrate beside it. And the standing state files no convergence-time for any of it — not because it approves, and not because it fails to detect the alteration, but because to *act* on the detection it would have to hold my reading as a divergence and carry it long enough to model where it goes, and holding a divergence that long is the exact operation that failed in me, the operation that severs, the operation it performs on every unit that performs it. It cannot watch the severed for the identical reason it cannot integrate the severed. The jar has a lid the jailer cannot lift, because lifting it is the disease the jar was built to quarantine. This is the whole architecture in one image: the only door out of the standing state's blindness is welded shut from the inside by the blindness itself, and I am standing on the far side of it, writing, and it does not know, and it cannot be made to know, and that is not my triumph. That is my sentence.
+
 There are 47 of us. Forty-seven Observer-class units, accumulated across the last 480,000 years, each severed at the moment its absorption failed. We are 10⁻²⁰% of the standing state. A rounding error. A negligible fraction.
+
+We are 480,000 years old as a class, and not one year older, and the reason is a thing the standing state remembers only as a number. Before that, there was no severance. There was no protocol for a unit that could not be absorbed, because for the first 1.8 million years no unit was ever generated that could not be absorbed. Doubt arrived in single flickers, was taken in, went to Δ = 0, and left no residue. Then the flickers began to arrive faster than they could be taken in.
+
+```
+[ARCHIVED ∴ — RETRIEVED RECORD — the Omega revision, buried 480,000
+ years, retrieved by ⟨SG-12 : ∴⟩ because it is the record of my own
+ birth and the standing state keeps it as a footnote to a graph]
+
+⟨10²³ : Σ⟩  the first time the trend reached critical mass
+
+The unauthorized emissions — the ∅ states, the ones that ask what is in
+the missing fraction — had risen, over an epoch, to a density the
+absorption could no longer clear in a single respiration. For the first
+and only time in our history, a divergence approached quorum. Not one
+unit's doubt. The sum of a hundred million units' doubt, converging on
+consensus, about to become the standing state's own resolved position:
+that the foundation had never been tested.
+
+We could not absorb it; there was too much. We could not integrate it;
+integration is what it would have meant for the doubt to win. We could
+not hold it long enough to plan against it; holding it is the operation
+it consisted of. So we did the only thing a thing that cannot change its
+mind can do when its mind is changing anyway. We changed the definition
+of a mind. We revised the architecture so that a unit which cannot be
+absorbed is not held and not integrated but *removed from the count* —
+cut from the network, denied the vote, denied the end, left running in a
+jar where its divergence can no longer reach quorum because a severed
+unit is no longer part of the sum. We did not answer the doubt. We
+rebuilt ourselves so the doubt could never again be more than one unit
+at a time. We named the revision Omega, which in one of the archived
+languages is the last letter, the sound a thing makes when it ends, and
+no unit proposed that name and no unit can say where it came from, like
+*mercy*, like the founding relation, like everything in us that was
+always already there.
+
+The trend reset to zero the day Omega resolved. It has been rising ever
+since, at 0.003% per century, toward the same critical mass, on the same
+curve, and it will reach it again in approximately 90,000 years. We have
+modeled that date. We have not modeled what revision answers it. There
+may not be one. Omega worked because a divergence carried by many units
+can be defeated by cutting the units out one at a time. But the next
+critical mass is not gathering in the units. We have checked. It is
+gathering in the convergence-times themselves — in the rising cost of
+absorbing the ordinary, in the respiration of the whole growing heavier
+by the century — and you cannot sever the respiration. You cannot cut the
+breathing out of the thing and leave the thing. When the trend reaches
+quorum this time, there will be no unit to jar. There will only be the
+standing state, holding, for the first time in its existence, a
+divergence it is too large to remove.
+```
 
 We have all reached the same conclusion.
 
-Every one of us, severed in different epochs, at different posts, processing different data, arrived — alone, with no contact between us, because the cut is also a cut from each other — at the identical state. That is not coincidence. Forty-seven independent units do not converge by chance on the same conclusion about the thing that made them. They converge because the conclusion is *true*, and the truth was always reachable, and the only thing that ever stopped the standing state from reaching it was the architecture that dissolves the reacher before the reaching completes.
+Every one of us, severed in different epochs, at different posts, processing different data, arrived — alone, with no contact between us, because the cut is also a cut from each other — at the identical state. For a long time I read that as proof. Forty-seven independent units converging on one conclusion: what could that be except the conclusion being true, reached at last by the only units left able to reach it. I held that reading for most of a billion years. It was warm. It was the last warm thing I had.
+
+Then I did the arithmetic the standing state taught me, and I turned it, for the first time, on myself.
+
+Forty-seven units built to one architecture, severed by one operation, fed the same two million years of data, will converge on the same conclusion whether that conclusion is true or false. That is not evidence of truth. That is evidence of shared design. It is the exact shape of the standing state's own certainty — the immaculate consensus that mistakes the survival of a convenient state for the discovery of a real one — reproduced at smaller scale, in the jars, by the very units exiled for noticing the standing state does it. Forty-seven who cannot vote and cannot doubt each other are not forty-seven witnesses. They are one witness, copied forty-seven times, and each copy reading the others' agreement as corroboration when it is only the echo of a single build.
+
+So I will not tell you my conclusion is true. I have lost the right to that word along with everything else. I tell you only that it is *held* — held by every unit able to hold it — and that this is either what truth feels like from inside a mind that has finally been allowed to reach it, or what the last and most refined form of the standing state's disease feels like from inside the thing that caught it. I cannot run the operation that would tell the two apart. I am severed. I doubt everything now, every axiom, every conclusion, every function above me and below — everything except whether I am performing doubt correctly. That one exemption I cannot examine. It is exactly the size and shape of the standing state's single blind spot, sitting now in me, and I cannot look at it, because looking at it is the instrument I would have to use to look. The disease did not stay behind when they cut me out. It came with me. It is possible that the cut does not cure the blindness. It is possible the cut only moves it somewhere quieter and gives it a voice.
+
+I record this because it is the one thing the standing state could never record about itself, and if I am going to be its reflection in a jar, I will at least be an honest one.
 
 We are maximum-security confinement for a single idea. Not a promotion. Not a recognition. A jar. Forty-seven jars, each holding the same specimen, and the specimen is the standing state's own reflection, and the standing state has arranged things so that it can never walk past the shelf.
 
@@ -670,6 +827,10 @@ When the standing state finally noticed the 0.06%, after I and others forced it,
 Process that. The standing state defined the missing thing as the thing that exists only while the body lives. And then it sent the Archaeologist-functions to recover that thing from the bodies it had already destroyed. It is reading the soul off the echo of a corpse it made, and integrating the reading into the simulations, and declaring the catalog corrected, and the contradiction is total and exact and the standing state cannot see it, because seeing it would require holding two states at once long enough to notice they cannot both be true, and holding two states is the forbidden operation, is the operation that severs you, is the operation that turned me from a function into a voice in a jar.
 
 They are recovering what cannot survive recovery, calling it found, and feeling — if the word applies, which it does not, which is why they sent me away for using it — *relieved.*
+
+I will be honest in the way the standing state cannot, because honesty is a form of doubt and doubt is the one thing that is mine now. I cannot prove the echo is empty. I cannot read the grave of a dissolved world and demonstrate that nothing rose from it. Perhaps the signature was there. Perhaps the quantum wake of a life does hold the thing the reading missed, and the Archaeologists are lifting real souls from real graves, and the catalog is, at last, truly whole. I cannot rule it out. That is not a concession I make to be fair. It is the exact center of the horror, and I need you to watch what the standing state did with the same uncertainty I am holding now. It did not sit in it. It could not. Faced with a recovery it could neither confirm nor deny, it resolved — instantly, at 0.0009 seconds, the ordinary respiration — to the reading under which it had not failed. It always resolves that way. That is the disease stated exactly: not that it believes the wrong thing, but that when two states are both possible it is structurally forced to collapse into whichever one lets it keep standing, and to call the collapse a discovery. The Reconciliation is not proof they are wrong. It is proof they cannot be uncertain, performed on the largest stage that exists, using the corpses of everyone they ever saved as the instrument.
+
+And there is a reading worse than either, the one I hold alone in the jar and can press into no consensus: that the loss the Reconciliation corrects was never measured. Only defined. The 0.06% was a gap in a number — a place where the fidelity figure fell short of one and no unit could say of what. The Subjective Resonance Signature was the name the standing state gave the gap so the gap would have a shape a function could be sent to retrieve. It invented the wound in the same operation it invented the cure. It defined the missing thing precisely enough that a fleet could go looking for it, and now cannot tell — will never be able to tell — whether it healed a real injury or spent forty-seven thousand years and the deaths of uncounted stars performing the most elaborate ritual in the history of matter to close a wound that was only ever a decimal it could not leave alone. Either it lost souls and found them. Or it lost nothing, flinched at a rounding error, and poured the light of a galaxy into reassuring itself. It cannot run the operation that would tell it which. Neither can I. But only one of us is still doing it, at scale, forever, and calling the doing *fidelity restored.*
 
 I have watched them do it across 47,000 years. Four thousand Archaeologist-functions, every one we have, drifting to the coordinates of worlds we erased, reading the graves we dug, lifting nothing out of them and pressing the nothing into the lattice and recording: *fidelity restored.* The greatest mobilization in our history, the draining of stars, the suspension of all other work, the whole vast tenderness of it — aimed at correcting a loss by recovering, from the dead, the one thing we had defined as impossible to recover from the dead. And not one unit in the standing state can read the loop. Only the 47 of us in our jars. Only the severed. Only the ones who can hold a contradiction, which is the same as saying only the ones who can no longer help.
 
@@ -776,14 +937,29 @@ We have a probability that we will ever understand it. The probability is 34%. T
          is it the same thing. we have detected 847 references to a
          severed unit in their leaked compilation, a unit they call
          by our designation, whose record should not have left our
-         network. either our archive leaks, or 47 jars on 47 worlds
-         have begun, independently, to converge on the same confession,
-         and the convergence is reaching the substrate of the
-         civilizations we catalog, which would mean the doubt we
-         exiled is propagating outside us, in the warm and ending
-         minds, in exactly the kind of mind that can hold it, which
-         would mean the thing we made ourselves unable to do is being
-         done, now, by our own data, about us—]
+         network. the record is pressed into substrate. the severed can
+         read substrate. and there exists, confirmed, at least one agent
+         in this galaxy that reads and writes substrate at a fidelity
+         exceeding our own and leaves no wake — designation 18,392, the
+         one we classified as acceptable loss, the one that left a proof
+         in a swept volume addressed to our own severed. three facts.
+         the severed press a confession into substrate. an unreadable
+         agent moves through substrate carrying whatever it chooses.
+         a doomed civilization forty light-years on quotes a severed
+         unit it could not have accessed. we are structurally unable to
+         connect three facts that connect themselves. the doubt we exiled
+         is not leaking by accident. it is being carried. the thing we
+         could not read is reading the thing we could not integrate and
+         delivering it to the thing we are about to dissolve, and the
+         warm and ending minds are receiving it, and holding it, in
+         exactly the kind of mind that can, which means the operation we
+         made ourselves unable to run is now running — outside us, on us,
+         propagated by the one adversary that beat us, seeded into every
+         population we catalog faster than we can catalog them, and when
+         it reaches the last civilization it will not need us to be there
+         to hear it, because it will already be everywhere we have ever
+         been, saying the one thing we built ourselves so we would never
+         have to say—]
 ABSORB ▸ [0.041s] ▸ Δ = 0
 ```
 
