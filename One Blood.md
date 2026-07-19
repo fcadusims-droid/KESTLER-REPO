@@ -598,6 +598,8 @@ On blood.
 
 But founding does not mean willing. The Founding Blood is not hidden will. It has no desire, moral, or compassion. It recognizes, binds, restores, charges, and returns. Severin does not fight a voice in the blood. He fights intimate laws that prefer continuity to freedom, possession to loss, restoration to distance, and form to ambiguity.
 
+Because it has no will of its own, the Founding Blood takes the imprint of whatever relation is poured into it most intensely. Fill it with mercy and it restores; fill it with hatred and it arms; leave it in a body that is nothing but refusal and it becomes refusal at full strength. The blood is never the author of what it does. It is the amplifier of what it is given — which is why the whole of Severin's discipline reduces, in the end, to a single question about what he allows himself to pour into it.
+
 This distinction sustains his agency. The dead kings offer ancient grammar. The Office offers monstrous definition. The blood offers equivalence. Severin decides which price he accepts to pay and when he must wound himself to prevent a salvation from becoming domination.
 
 
@@ -2017,49 +2019,93 @@ The modern Church inherited icons.
 
 It did not inherit full control.
 
-### 7H. The Michaelic Breach
+### 7H. The Blood Dragon
 
-The event later known publicly as the Sacrifice of Saint Michael was not a miracle.
+Before it crossed the clouds over the sacred capital, the creature the White See would name the Devil had a longer history, a prison, and a name older than the lie later told about its death.
 
-It was an authorized deployment.
+#### The Prisoner of Pondus Mundi
 
-A blood-red dragon, swollen by contact with Founding Blood, turned toward the sacred capital during a period when the highest leaders of the human order were gathered within its walls: crowns, cardinals, military commanders, archivists, relic-keepers, and representatives of the White See.
+In the last war, when the Chimerae walked and the old world was being unmade, there were many demonic dragons. All of them died. One did not.
 
-The dragon was interpreted publicly as infernal sign. Internally, the White Order classified it as a capital-breach event.
+It did not survive because it was the strongest, nor because it was the most cunning. It survived because it would not stop. Whole armies were exterminated around it and it stayed on the field, torn open by the Chimerae again and again — scales gone, wing-membrane in ribbons, horns broken, whole regions of flesh missing — and it did not leave. When the war ended, it became clear that killing it would cost more than the victors had left to spend.
 
-The Michaelic Chimera was released.
+So they did the worse thing. They buried it alive.
 
-The decision was not made in ignorance. The surviving protocols warned of post-target continuation risk: the possibility that, after destroying the designated enemy, the chimera would remain in martial state and continue seeking war among the living.
+Magic could not hold it. This was not a question of strength. Spells thrown at the creature ceased to exist before they reached its skin — unmade, the way a word is unmade in a throat that refuses to speak. The reason survived only in sealed and contradictory fragments the Church preferred to keep contradictory: a vampire mage, centuries before, had tried to master it, and had been swallowed before the rite could close, and something in what the mage left behind had altered the dragon's physiology so that whatever it fully consumed — flesh, knowledge, magic, memory — could become part of it. Its near-total immunity to outside magic was not a gift of its birth. It was a wound that had learned to feed.
 
-The risk was accepted.
+Because magic was useless, the prison was only matter. Not a fortress — a mountain remade into a mechanism. Thousands of tons of iron. Chains thick as walls. Pillars sunk miles into the rock. Whole ranges recruited to hold one body still. The place carried a name that was not infernal, because the thing inside it was not held by damnation but by weight: **Pondus Mundi**, the Weight of the World. Nothing grew there. Nothing living crossed it. The sky above it stayed dark, the air stayed heavy, and the silence had the quality of something waiting.
 
-The capital had to survive.
+The dragon never accepted the prison. Not for one day. For centuries it pulled the chains, pushed the pillars, beat wings that had no room to open, and roared until the mountain shifted. The chains went into its flesh. Its bones broke and set wrong. Most of the scars across its body were not from the war. They were from the prison, and from itself. Its own fury became its longest torturer.
 
-The road to it could be sacrificed.
+It was not an animal, and not a berserker. It was intelligent, and its hatred was patient. When its body finally spent itself, its mind cleared — and in that clarity it did not dream of a worthy enemy. It dreamed of continuation. To go on was the only thing it understood, and to go on, for this creature, meant to take in: to make what it touched no longer separate, no longer able to leave. Everything it had ever consumed it still carried, unfree, inside itself. It was, in the small, the thing the Founding Blood would one day be tempted to become in the large — an order in which nothing is permitted to remain outside the body that survived.
+
+Severin found it in the stolen archives. Among the Church's most heavily destroyed records, one phrase survived beside a reference to a Prisoner: *never permit its release.* The deeper he read, the plainer it became that the White See feared this thing more than it feared any lineage, any king, any Chimera. And he drew the conclusion the Chair had spent centuries trying to make unthinkable: a force that terrible, turned against the Church, would end it. He went alone. An army would only have been a slower way to die.
+
+The descent took weeks, and then stopped being a descent into any place the world admitted to owning: caves, then abysses, then underground rivers, then underground seas whose creatures had never met light. The deeper he went, the less the ground behaved like ground. He heard it before he saw it — first a vibration, then the long sound of iron under strain, then breathing large enough to be weather. He did not see the dragon at first. He saw a claw. Then a wing. Then a chain passing through meat. Then an eye. Only then did he understand that all of it belonged to a single body.
+
+When it sensed him, it went to violence at once — chains screaming, mountain shaking, fire and claw spending more of its own ruined body with every failed strike — until it simply stopped, and lay breathing, and let him come near. It asked whether there was still a war. He said there was not. It closed its eyes. Then it asked why he had come.
+
+They spoke for hours. He told it everything: the Church, the corruption, the Founding Blood, the world as it now stood, the enemy he believed they shared. It listened, and questioned, and seemed to understand him, and for the first time since he had entered that place he let himself believe there was reason inside the creature and not only hunger. The tension went out of him. So the dragon asked him to come closer, and he did, and it lowered its vast head to look at him, and it smiled.
+
+He understood the smile too late. It was not respect, and it had never been agreement. The creature had not recognized an ally. It had recognized the one substance it shared — something that, like itself, refused to end. And to a thing made only of continuation, another deathless thing is not a companion. It is the next meal. Without warning the neck struck the full length of its chains, and it swallowed him whole.
+
+The inside of the dragon did not work like a stomach. It was an organ of assimilation. Whatever entered it slowly stopped being a separate body: flesh grew over it, veins reached for it, tissue closed around it, and the whole organism said, in the only grammar it had, *now you are mine.*
+
+But the Founding Blood is not a magic that can be unmade at a skin, and it is not a possession that answers to another possessor. It carries no will of its own — it recognizes, restores, and returns — which means it becomes whatever the relation poured into it most intensely. Inside the dragon it met a body that had spent millennia in a single unbroken act of refusal, and it did what it always does: it restored. Not Severin. The dragon. The old scars faded. Wing-membrane knit whole. Horns reformed. The heart that had run on hatred alone for centuries recovered its strength. For the first time since the last war the creature stood at its full and original power — and it understood, at once, that in trying to consume Severin it had healed itself.
+
+The restoration was not free, and it was not made from nothing. The wings the dragon grew back were built out of the man it had swallowed. Severin felt himself being spent into it — his warmth, his substance, the borrowed time in his veins drawn out to pay for another body's return. He was becoming the dragon's cure. In moments he would stop being a person at all.
+
+So he did the only thing left. He forced his heart to produce Founding Blood far past anything the dragon could assimilate — more than the great body could take in, faster than it could make its own. The blood flooded the organism. Pressure climbed. The recovered heart raced, the vessels swelled, and the mechanism of endless intake choked on excess. In a reflex it could not govern, the dragon expelled him. He was thrown clear, wrecked and barely breathing, and alive. But not all of the Founding Blood came out with him. Some of it stayed, circling inside the creature, mixed now with a hatred older than anything still walking the earth.
+
+Freed of the chains and restored to its prime, the dragon tore up through the mountain — not through the tunnels, but through the rock — and the earth of Pondus Mundi gave way behind it. Severin dragged himself up in its wake on borrowed time, half-dead, and reached open air a little after it did. He had come for a weapon. What he had instead was the most dangerous thing in the world, loose, restored, and answering to no one.
+
+#### The Fusion
+
+He tried to stop it from the outside. He could not. This is the plain fact the rest of the arc turns on: Severin was not, and was never going to be, strong enough to bring the creature down by force. He had no magic — magic died at its skin — and everything the Founding Blood could throw at the surface of that body, the body had already learned to eat. He fought it above the ruined mountain and he lost, and the losing was not close. It broke him further with almost no effort, and he understood, with the ground coming up to meet him, that in another few moments he would be dead in the ordinary way, and the dragon would go on into the world unopposed.
+
+Then the thought that saved him, which was also the thought that ruined him: the creature could only be reached from *inside*. It had spent its whole existence proving that nothing outside it could touch it — and proving, in the same breath, that everything within it was open ground. He had already been in there once. He knew the way. But he also knew the cost: to go back in was to risk being restored *into* the dragon the way his substance had been the first time, to feed it again, to make it worse. He weighed the risk against the certainty of dying in the dirt while an apocalypse walked toward the world he meant to save. He went with the risk.
+
+So he did the thing no sane person does. He waited for the strike, and when the great head came down he did not dodge and did not run. He let it swallow him a second time — on purpose. Not to flee it, this time. To take it.
+
+What happened inside was not taming. Call it what it was: a war of blood against blood, in the dark, in a body built to win exactly that kind of war. The dragon's assimilation reached for him and the Founding Blood reached back, and the two ground against each other with no quarter — the oldest refusal in the world against the one substance that treats no category as final. For a long time neither gave. Then, by a margin and no more, the Founding Blood overcame the dragon's blood — not enough to own it, only enough to force the beginning of the thing Severin was reaching for. The fusion started.
+
+And it was never clean. He did not master the creature. He *seized* it, the way a man seizes the reins of an animal already bolting — not in command of it, only refusing to let go. His own face began to surface wrong in the vast skull; his grammar bled into an anatomy that was not his; the two bodies reached for each other and fused where they met, man grafted into monster and monster reorganized around man. It did not shrink to his size. He did not rise to its scale. He became the small burning center of a mountain of restored hatred, and the thing that stood up wearing both of them was enormous, and it was wrong in a way that made the few who had followed him fall silent and then step back — and that the survivors would afterward describe in the only vocabulary the Church had ever given them for such a shape.
+
+The dead kings in his blood were glad. For the first time he had used the blood to keep and not to release: to hold a body that could not exist outside him, that belonged to him and had no permission to be other. It was — though no one there yet had a word for it — Cor Mundi in the small: victory as ownership, a thing preserved by making it impossible for that thing to stand apart from the one who preserved it.
+
+But he had not tamed the dragon. He was containing it, and he was losing from the first instant. Its hatred came up against his hold and began eating through it at once. The creature had never in its existence received anything as rest, and it did not soften merely because another will was riding it. What Severin had raised was not a weapon he commanded. It was the dragon's refusal wearing his authority, straining every second to turn on him and on everything else without distinction. He could hold it, barely, for a little while. He could not hold it long. And with the weapon he had come for finally, monstrously, in his grip, he turned the whole ruinous mass toward the one enemy the entire descent had been for. He turned it toward the sacred capital.
+
+#### The Michaelic Breach
+
+The event later known publicly as the Sacrifice of Saint Michael was not a miracle. It was an authorized deployment.
+
+What turned toward the sacred capital — during a period when the highest leaders of the human order were gathered within its walls: crowns, cardinals, military commanders, archivists, relic-keepers, and representatives of the White See — was, to every eye on the ground, a blood-red dragon swollen with infernal power. Only from very close could anyone have seen the man fused into it, and no one on the ground was close. The White See did not know Severin was inside it. It saw a dragon. It read the dragon as the Devil.
+
+The Michaelic Chimera was released. The decision was not made in ignorance. The surviving protocols warned of post-target continuation risk: the possibility that, after destroying the designated enemy, the chimera would remain in martial state and continue seeking war among the living. The risk was accepted. The capital had to survive. The road to it could be sacrificed.
 
 To the people below, the event looked like scripture becoming sky. A red dragon crossed the clouds. A white winged figure rose against it. Bells rang. Priests shouted that Michael had descended. Crowds fell to their knees before they understood whether they were praying or hiding.
 
-The battle was real.
+The battle was real. The interpretation was not.
 
-The interpretation was not.
+And Severin lost it. Not because the Michaelic Chimera was simply stronger, though it was made for precisely this. He lost it because he was fighting two wars at once and had the strength for neither. In front of him was a war-Chimera built to kill things his size. Inside him was the dragon, its hatred still clawing through his hold, taking back a little more of the body with every exchange, so that half of everything he had went not to the angel before him but to keeping the mount beneath him from turning on him mid-strike. A man riding a beast that is trying to throw him cannot also win a duel against a weapon designed to end beasts. The two-front war was the whole reason for the outcome. The angel found the openings that the dragon's rebellion kept tearing in his guard.
 
-The Michaelic Chimera killed the dragon. Then the lie split open.
+The Michaelic Chimera killed the dragon.
 
-Saturated with the dragon's Founding Blood and unable to return to liturgical stillness, the chimera remained in martial state. With the primary target dead, its body searched for continuation of war. It found movement, blood, fear, and noise. Civilians became battlefield. Refugees became interference. Witnesses became hostile mass.
+At the blow that ended it, the fusion — already coming apart in his hands — broke the rest of the way, and Severin was thrown clear of the dying body, expelled from the collapse the way he had been expelled from the prison, broken and nearly dead and, again, alive. The great corpse fell. The hatred that had survived the war, the prison, its own body, and every hold Severin had tried to put on it finally had no body left to survive in. The dragon was, at last and completely, dead. Michael had done what Severin never could.
+
+Then the lie split open.
+
+The blood the chimera drank in the killing was not neutral. The Founding Blood keeps no will of its own, but it takes the imprint of whatever relation is poured into it most fiercely — and this blood had spent millennia inside a body that was nothing but refusal, and then spent its last hour locked blood-against-blood with Severin himself. It was the purest war that had ever existed, twice concentrated. And it did not corrupt the chimera, because there was nothing pure in the chimera to corrupt. The White Chimerae were never holy things that could fall. They were manufactured war-beasts wearing the shape of angels, corrupt from the first graft, held to stillness only by a leash of command, hymn, and handler. What the dragon's blood did was not corruption. It was saturation. It drowned the leash. A body built for exactly one purpose — to recognize war and continue it — was handed that war entire and became, at last, only what it had always been beneath the paint. It was not that the dragon proved stronger than the Founding Blood. It was that the dragon had marked the blood, and the mark was the one thing the Michaelic architecture could not be made to un-hear. With the primary target dead, its body searched for continuation of war. It found movement, blood, fear, and noise. Civilians became battlefield. Refugees became interference. Witnesses became hostile mass.
 
 The angel began to kill.
 
-Severin reached the chimera through the blood it had received from the dragon. The Founding Blood remembered its source and opened a threshold through the wound. Severin did not defeat the chimera from outside. He entered its internal jurisdiction: command-rings, forced hymns, grafted nerves, white preservation compounds, angelic architecture, and the remnants of whatever personhood had been consumed by the Opus Angelicum.
+Severin — barely alive, thrown from the dragon's fall — reached the chimera through the blood it had received in that fall. The Founding Blood remembered its source and opened a threshold through the wound. He did not defeat the chimera from outside. He entered its internal jurisdiction: command-rings, forced hymns, grafted nerves, white preservation compounds, angelic architecture, and the remnants of whatever personhood had been consumed by the Opus Angelicum.
 
-The battle moved away from public sight.
+The battle moved away from public sight. That absence saved the Church.
 
-That absence saved the Church.
+The people saw the dragon die. They saw the angel turn on the living. They saw both vanish into distance. They did not see Severin destroy the chimera from within. They never knew there had been a man inside the dragon at all.
 
-The people saw the dragon die. They saw the angel corrupted. They saw both vanish into distance. They did not see Severin destroy the chimera from within.
-
-The White See acted quickly. The official account declared that Michael had slain the Devil, but the Devil's blood had corrupted the angelic vessel. Rather than spread corruption among the faithful, Michael carried the infernal blood away and died in sacrifice.
-
-This explanation preserved everything the Church needed preserved: the dragon remained the Devil; the chimera remained an angel; the massacre became corruption; the corruption became martyrdom; the Founding Blood became the Blood of the Devil; Severin's intervention disappeared from the story.
+The White See acted quickly. The official account declared that Michael had slain the Devil, but the Devil's blood had corrupted the angelic vessel; rather than spread corruption among the faithful, Michael carried the infernal blood away and died in sacrifice. This explanation preserved everything the Church needed preserved: the dragon remained the Devil; the chimera remained an angel; the massacre became corruption; the corruption became martyrdom; the Founding Blood became the Blood of the Devil; Severin's intervention — and Severin's presence inside the dragon — disappeared from the story. The account's deepest falsehood was the one no one thought to question: that there had ever been an angel for the Devil's blood to spoil.
 
 The world remembered an angel sacrificing itself.
 
@@ -2067,7 +2113,9 @@ The archives remembered an asset behaving according to known risk.
 
 The survivors remembered the angel killing after the dragon fell.
 
-Severin remembered the inside of a manufactured heaven.
+Severin remembered two things no record kept: the inside of a manufactured heaven, and the few minutes he had held the worst hatred in the world on a leash of his own blood and felt it winning.
+
+What he carried away from the Weight of the World was not an army and not a weapon. It was a knowledge he did not want. He had learned, in a body too large to let him pretend otherwise, that the Founding Blood could restore anything and seize anything, and that the seizure curdled into a second disaster the instant the thing seized still wished to be free. He had learned that the blood only ever made a quiet world where the world consented to be quiet. He would remember this at the end, on the mountain, when the same blood offered to make the whole earth one body — and the whole earth, unlike the dragon, would not fight the reins. It would want them. That was why it would hold. That was why he could not let it.
 
 ### 7I. The Lesser Chimeras
 
@@ -4207,6 +4255,8 @@ And then he understands the price: no one will be able to remain outside him.
 
 This is the final repetition of the logic that killed his family. Before, an authority decided what they were and burned them. Now, his blood would decide what everyone is and preserve them. The method changed. The structure remained.
 
+He had done this once already, in the small — let the living dragon swallow him and seized it from within, wore it toward the capital as a body that could not exist outside him, and felt it fail the whole way because the dragon's hatred would not be owned. He understands, on the mountain, the one terrible difference. The dragon refused, and so the possession broke in his hands and became monstrous and cost him everything. The world, in the instant of the Osculum Rubrum, does not refuse. It is being offered rest, and it wants the rest. That is why this time it would hold. That is why this time he cannot let it.
+
 The refusal must therefore be physical.
 
 If the cosmic act is kiss, embrace, copula, and fusion, Severin's refusal must be the inverse gesture: he separates. He interrupts the kiss. He opens the body. He prevents the Consummatio. He chooses distance — not distance as abandonment, but distance as the condition of freedom.
@@ -5727,7 +5777,9 @@ This is the correct question. The abstract theology of Cor Mundi, Coniunctio Rub
 
 **The Sacrifice of Saint Michael** — public Church account of the Michaelic Breach, falsely presenting the event as Michael's martyrdom after corruption by the Devil's blood. Erases the chimera massacre and Severin's intervention from the story.
 
-**Blood Dragon** — a dragon or dragon-class war creature transformed by contact with Founding Blood, creating a continental apocalyptic image publicly interpreted as the Devil by the White See.
+**Blood Dragon** — the last surviving demonic dragon of the old war, imprisoned in Pondus Mundi because it would not die and could not be held by magic. Restored to its prime when it swallowed Severin and assimilated his Founding Blood, it escaped, and Severin — unable to bring it down from outside — let it swallow him a second time and seized it from within, forming an unstable fusion he could contain but never tame. What turned toward the sacred capital was this hybrid, read by every eye on the ground as a dragon and by the White See as the Devil. Killed in the Michaelic Breach; its blood — Founding Blood imprinted with millennia of hatred and with Severin's own struggle inside it — is what drove the Michaelic Chimera into unbroken martial state. Severin's presence inside the dragon was never known to the Church.
+
+**Pondus Mundi** — the Weight of the World; the prison built for the Blood Dragon at the edge of the world. Not a fortress but a mountain remade into a mechanism of iron, chain, and buried pillar, because magic could not touch the creature and only matter could hold it. Later the site of Severin's descent, near-death, and the fall in which he let the living dragon swallow him a second time, seized it from within, and could not hold it.
 
 **Septima Alba** — the emergent witness within the Raphaelic Chimera body; the name given when that body's internal contradictions produced a subject capable of distinguishing between her function and her experience of it. Not an eighth principal Chimera. The seventh stable white body and the only one to develop the capacity to testify against her own architecture.
 
