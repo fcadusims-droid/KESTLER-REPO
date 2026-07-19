@@ -308,7 +308,7 @@ Severin does not escape before the burning.
 
 He burns with them.
 
-He tries to reach Mirela first and fails because the ceiling between them lowers in sparks. He hears Corvin shouting through smoke but cannot tell whether the words are command or pain. Vespera is near the door when the first beam gives way. Ilona calls his name from somewhere that should have been only a few steps away and becomes unreachable as if the house had grown larger inside the fire.
+He tries to reach Mirela first and fails because the ceiling between them lowers in sparks. He hears Corvin shouting through smoke but cannot tell whether the words are command or pain. Vespera is near the door when the first beam gives way. Ilona calls his name from somewhere that should have been only a few steps away and becomes unreachable as if the house had grown larger inside the fire. Otilia does not call out at all. The grandmother who had understood, from the night of his birth, exactly what this fire would one day be is the one who moves least inside it — as though a woman can spend a lifetime knowing which night is coming and still find no way to run when it finally does.
 
 Severin tries to save them in the only ways a desperate body understands: hands on burning wood, shoulder against a door, teeth clenched against smoke, fingers closing around arms that are no longer where memory insists they should be.
 
@@ -676,6 +676,8 @@ A wound may close and take memory heat from the person who was saved.
 
 A bridge may rise and leave a field sterile.
 
+At small scale, the theft is local: this wound, that well, this field. At large scale, the law does not soften; it only runs out of nearby matter. A body saved needs flesh. A wall needs stone. A city saved needs a city's worth of substance, and the blood will take it from wherever the substance is — warmth, water, harvest, memory, the living around the saved. There is only one arrangement in which restoration at the scale of a world does not simply strip the world bare, and the Creator Heart spends the whole of Severin's life searching for it. That arrangement is Cor Mundi, and its price is named where it is reached.
+
 ### 4. Law of Recognition
 
 Restoration requires knowledge of what was lost.
@@ -874,6 +876,12 @@ The form is simple:
 This practice emerges because Echo survivors often fear that salvation has made them part of a larger body. The Vow does not erase the mark. It creates a counter-habit: person before case, presence before jurisdiction, choice before testimony.
 
 Severin does not invent this ritual. That matters. If the marked create their own response to his blood, then his sovereignty is not the only law forming around him.
+
+The Vow does not stay single. Because no one owns it, it drifts, splits, and hardens differently in different hands, and the disagreements between its forms become the first argument the marked have that is not about Severin at all. In the low-shore districts it keeps its original shape: a private steadying, said under the breath, meant only to return a frightened person to their own name before an agent can reach it. Among the refugees on the Via Duodecim it grows a communal form — spoken aloud in turn around a fire, each person naming themselves and their place while the others witness, so that the saying itself becomes a small archive no office keeps.
+
+Then the factions appear. A hard faction rejects the fourth line entirely: to them, *choose whether to speak further* is a weakness, and a marked person should say the whole of themselves, loudly, on principle, and dare the record to argue. A quieter faction rejects the first line: they will not say their name at all, having concluded that any name spoken aloud is a name that can be written down, and that the only safe self is the unspeaking one. These two have begun to despise each other. Neither has met Severin.
+
+That is the point that outlives him. A response to his blood has become a set of quarrels among people he has never saved, about how to be a person in a world of files — quarrels with their own heretics, their own purists, their own drift. His sovereignty is not the only law forming around him, and the counter-law is not obediently his. It is already arguing with itself, which is the surest proof that it is alive and not merely his echo.
 
 ### 18. Cardial Abdication Syndrome
 
@@ -1431,6 +1439,16 @@ The following accounts are in active circulation simultaneously, which means tha
 *The Office's internal assessment, shared between the sub-registrar and two senior agents, states the following: there is a pattern of basin disruptions, altered coagulation in post-contact subjects, and unusual revenant-passivity in a three-block radius of the Triage Quarter on four separate nights. The pattern does not match any existing classification template. The memo recommends creating a new template. The memo is classified.*
 
 *Madre Sabela Niv has told no one in the shelter that she believes she knows what the disturbances are. She has told no one because she has not decided yet whether to help it reach her or to pretend she has not noticed. She leaves the bowl of water inside the chapel, not outside. She has not been asked about it. Nobody has come for it. She checks it every morning.*
+
+### 11. What Persists Underneath
+
+None of this is the whole of Caldrava.
+
+A city that only classified and feared would have died of it. Caldrava has not died. On the days when no basin is set up in the square, the square is only a square: the egg-seller argues with the cloth-seller over the good spot in the shade, boys play a running game with a leather ball and a chalk line and rules that change by the hour, a girl practices the same four notes on a borrowed pipe until her mother calls her in. The Thursday bread comes out of the ovens on the low street and the smell reaches the gate, and the tired guards smell it too and are, for a moment, only hungry men. There is a wineshop near the north wall where one man has been losing the same game of stones to the same neighbor for six years and has never once stopped coming back. Weddings still happen. People still fall in love across streets they are not supposed to cross, gossip about it, and are mostly forgiven. A midwife who has caught half the district's children is greeted by name three times on any walk to the market, and the greetings are real.
+
+This is not decoration and it is not relief. It is the thing the machine needs and cannot make. The Office can only classify a life that someone first bothered to live. The whole apparatus of basins and margins and certificates sits on top of a population that is, underneath the fear, still cooking dinner, still teaching children to whistle, still keeping the small unrecorded appointments that make a place a home instead of a jurisdiction. When the terror comes, it does not descend into a void. It arrives on a Tuesday. It interrupts a game, sours a wedding, empties a wineshop, silences a pipe. That is what makes it terror and not merely administration: there was something warm for it to cool.
+
+Severin's horror lands the same way. It is not frightening against a background of horror. It is frightening because it arrives in the middle of ordinary tenderness — a mother's gratitude, a healer's relief, a child's trust — and turns it, in the space of one breath, into something the onlookers no longer know how to stand inside.
 
 ---
 
@@ -2221,6 +2239,10 @@ The White See is not simply the pontiff. It has three bodies:
 This distributed sovereignty makes the White See hard to decapitate. Killing the pontiff creates vacancy, not institutional death.
 
 The White See governs the passages by which human life becomes recognized: birth, baptism, marriage, inheritance, burial, oath, coronation, absolution, excommunication, record, dispensation, suspicion, and memory.
+
+Beneath all of it, in the oldest chamber under the City of the Chair, the See keeps the one thing it has never learned to govern. It does not appear in the catechism given to pilgrims. Even inside the Curia, only a handful of offices know the shape of it: that the deepest relic of the Church is not a bone, not a cloth, not a splinter of the true cross, but something still living — and that the See has been able to keep it only by building it a machine. A living thing cannot be held in a reliquary that does not move. So the custodians did what the institution always does with what it cannot control. They built the vessel that would let them manage it, and they called managing it protection. The relic is kept in perpetual motion by mechanism, and the men who tend the mechanism have persuaded themselves that tending it is the same as understanding it.
+
+It is the See's greatest secret and its most exact self-portrait. At its own heart the Church learned to keep the living inside a machine and to call the machine reverence — and then spent centuries doing to every irregular body what it had first done to the holiest thing it possessed: preserving it in a form the institution could hold, and mistaking the hold for care. What that relic is, and what happens when the Founding Blood finally reaches it, belongs to the end of this account. It is enough, here, to know that the Chair sits above a living thing it has caged in gold, and has never once needed to ask itself whether a cage and a throne are the same shape.
 
 ### 2-A. The Institutional Pyramid and Sensory Register
 
@@ -3045,6 +3067,18 @@ National phrase:
 
 Internal contradiction: Simonar's armed brotherhoods maintain their own genealogical records, independent of the Office of Purity, for the purpose of verifying that monster-hunters do not carry contaminated lineage. The records are older than the Office and predate White See jurisdiction over blood classification. Simonar has refused three attempts by the Office to harmonize these records under Concordat standards, arguing that the brotherhood archives are military instruments, not civil documents, and therefore fall under a different Concordat clause. The Office is correct that the brotherhood records would reveal several active monster-hunting families as carrying the very lineages they hunt. Simonar knows this. The records stay separate.
 
+#### Where the Diagram Fails
+
+The dodecad is a doctrine, not a description, and doctrines fray at the edges where people actually live.
+
+The assignment of apostles to nations was not revealed. It was decided — in a series of Curial commissions in the two centuries after the victory, by men with maps, political debts, and a need to make the new order look eternal. Some assignments were obvious. Some were fought over. Iacóbria and Simonar both claimed James the Greater; the pilgrim-nation won him, and the militia-nation was handed Simon the Zealot as a consolation that later hardened into identity. Filíria was not originally Philip's at all — it was assigned to Matthias in the first commission and quietly reattributed a generation later, when the Matthian face was needed to cover Judas on the devotional maps and could not be spared for a living nation. The reattribution is not taught. Filírian scholars know their patron was chosen second, and do not say so where pilgrims can hear.
+
+Then there are the nations that wear their apostle backward. Barthelan was given Bartholomew for the flaying, the flesh, the testimony of the body — a clean fit for a country of anatomists and death-washers. But the fit is retrospective. Barthelan's medical tradition is older than the assignment; it grew out of river-valley embalming practices that predate the Concordat and owe nothing to any apostle. The nation did not become anatomical because it venerated Bartholomew. It was handed Bartholomew because it was already anatomical, and then taught to believe the veneration came first. The virtue did not produce the nation. The nation was fitted with a virtue, the way a body is fitted with a name after someone has already decided what it is.
+
+And there are the places that simply do not care. In the high pastures of Alfeônia the shepherds keep an older calendar than the Church's and mark their seasons by the ewes and the snow, not by James the Less. When a Curial visitor asks a mountain family which apostle watches their valley, the honest ones say they have never thought about it and the careful ones say whichever name the visitor seems to want. The Chair's map shows twelve faces around one center. The people inside the faces are frequently facing the other way — toward the field, the ledger, the ewe, the well, the dead grandmother's grave — and the diagram holds not because they believe it, but because no one has yet forced them to choose between the diagram and their bread.
+
+The White See knows the seams are there. It maintains the dodecad anyway, because a sacred geography does not have to be true to be load-bearing. It only has to be the map everyone is standing on at the moment the question of legitimacy is asked.
+
 #### The Matthian Veil and the Iscariot Map
 
 The existence of Iscária creates a wound in the sacred diagram.
@@ -3489,6 +3523,20 @@ The question Severin must face when vampires offer restoration:
 
 What kind of order remains a prison even when it prevents death?
 
+### 4-A. The Human Base of a Lunar Nation
+
+A lunar nation was never a nation of vampires.
+
+There were never enough of them. Ancient vampires were made slowly — by lineage birth in the old houses, rarer than human birth and more often fatal to the one who bore it, or by the deliberate turning of a chosen human, which the houses rationed because an undisciplined new hunger could expose a territory in a single season. A house might count its true immortals in the low hundreds across a span of land that held a hundred thousand living people. The Machina Cruoris did not describe five populations. It described five crowns and the human multitudes beneath them.
+
+So the lunar nations were thin at the top and human all the way down. An immortal aristocracy held the height: kings, blood-houses, castellans, pact-holders, and the disciplined war-born of the Waxing Moon. Everything below was human — the same human population humanity would later claim to be liberating. Peasants worked Plenavyr's fields and filled its chalices. Human miners cut Minguarvex's iron and forged its chains. Human clerks kept Nóvralith's hidden ledgers; human wet-nurses, grooms, masons, and soldiers built and defended territories they did not own and could not leave. A tributary was not a foreigner paying a foreign lord. A tributary was a subject whose blood was a scheduled harvest and whose labor was the actual substance of the realm.
+
+This is why the feeding-feudalism could protect while it fed. A lord who owned a village's blood also owned its survival: he wanted the grain guarded, the wells clean, the roads safe, the children healthy enough to bleed again next season. Good stewardship and predation were the same policy written twice. The obscenity of the lunar nations was not that they were monstrous. It was that they were competent — that a human family under a careful blood-house might live longer, eat better, and fear bandits less than a free human family in a war-broken human kingdom. The prison had good roads.
+
+And it is why the human victory could look, from inside, like a civil war. When humanity struck the kings, it was not only armies of the free crossing a border to kill monsters. It was also human populations turning on the immortal houses that had ruled them — and, in many places, human populations who did not turn, who had bled for their lord for generations and did not believe the marching liberators would treat them better. Some tributary provinces had to be taken twice: once from the vampires who ruled them, and once from the humans who preferred the rule they knew. The archives that record this are among the ones the White See most needed to burn, because a liberation is harder to sing about once part of the liberated had to be conquered.
+
+Severin's ancestors were of the height. Vaelrûn was a king. But the blood that survived through a human woman survived into the base — into exactly the human world the lunar nations had farmed and the human kingdoms had inherited. The Sângelună line did not merely hide among the common people. It descended into the population its own house had once owned.
+
 ### 5. Bastardy and Hidden Survival
 
 Vaelrûn Sângelună fathered a child with a human woman. This union was love, defiance, scandal, and political danger. It did not absolve Vaelrûn of the civilization he governed.
@@ -3566,6 +3614,12 @@ The Sângelună line survived because of three concealments:
 3. Biological dormancy: the blood remained real but weak, irregular, and hard to prove for generations.
 
 As the Luna Vulnata approached, the blood became less patient. Signs surfaced. Ilona healed too openly. The Office did not become suddenly brilliant. The Moon began calling its own key.
+
+And Severin's family was not the only lock the Moon began to work.
+
+Vaelrûn's line was one bastardy among several. The old houses were disciplined about lineage but not perfect, and across the generations of hiding, human-vampire descent seeded itself into more households than any single archive tracked — thinned, dormant, scattered from the low-shore towns to the mountain pastures to the prison-blood of Iscária, most of it so weak that the carriers lived and died as ordinary people who healed a little too well or dreamed a little too red. The Exstirpatio Lunae hunted the Sângelună crown-line by name. It never had the reach to find all the others, because it did not know how many others there were.
+
+So when the Moon began calling its key, it did not call only once. It called wherever the blood had settled. In a fishing family in Andróvia a boy's deep cut sealed in front of witnesses, and the family moved north within the month. In a Tadérian leper-house a dying woman stopped dying, and the rescue order did not report it. In a mountain valley in Alfeônia a shepherd began speaking, in his sleep, a word in no language the priest knew. None of these is a second Severin. None of them died in the one place where a king's blood still had a name, and so none of them woke a Creator Heart. But each is a place where the old order's account of a finished lineage is quietly false — a life the categories cannot hold and have not yet noticed. Severin is the one the story follows because his awakening was total. He is not the only one the Moon remembered.
 
 ---
 
@@ -4103,6 +4157,8 @@ And this is the terror.
 
 Because the rest does not come from forgiveness. It comes from incorporation.
 
+And incorporation has a cost the Law of Matter never suspended. The warmth that closes a soldier's wound in the instant of the kiss is drawn from the field he was dying in. The blood that breaks a child's fever is paid for by the well beside the house, which will be found dry at dawn. The hunger that lifts from the vampires is not forgiven; it is moved — into the animals that lie down, into the roots that go slack, into the grief of creatures too far from the mountain to be counted. Every wound that closes in that moment is funded by a coldness somewhere the blood has decided no longer matters. What every people in the world feels as rest is the sensation of being metabolized: of ceasing to be a separate thing with its own warmth and becoming tissue in a body that keeps its own accounts. The miracle is real. It is real the way digestion is real to the thing digested.
+
 #### The Consummatio Rubra
 
 After the kiss begins the **Consummatio Rubra**.
@@ -4130,6 +4186,8 @@ The promise: everything will be heard because everything will be inside.
 But this is precisely the error.
 
 The Coniunctio Rubra is the maximum form of the false One Blood: it does not kill the world. It saves the world in an intolerable way.
+
+It can do this — where every smaller mercy would have bankrupted itself — for a single reason. At world-scale the ledger finally closes. The warmth taken from one field feeds the wound in the next; the strength drained from one body sustains another; nothing is lost because there is no longer any outside for it to be lost to. A restoration that would have stripped a single province bare balances perfectly once the province and everything around it are organs of one circulation. This is the terrible elegance the Creator Heart has been reaching for since the first wound closed in the Fossa: the only equivalence that pays for saving everyone is the one that leaves no one exterior to the payment. Cor Mundi is not the suspension of the Law of Matter. It is the Law of Matter completed — the moment the debt and the world become the same size and settle against each other, and the price of that settlement is exteriority itself. To refuse Cor Mundi is therefore to accept that universal restoration is unaffordable: that some wounds will stay open because the only ledger in which they close is one where no one is free.
 
 #### Severin's Understanding
 
