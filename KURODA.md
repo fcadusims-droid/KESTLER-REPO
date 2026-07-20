@@ -1,3 +1,10 @@
+---
+title: "The Floor Notebook"
+description: "A psychological crime narrative framed as the seized notebook of Akira Kuroda, annotated by the retired detective who was the only person ever to read all of it."
+genre: "Psychological Crime"
+category: "Fiction"
+---
+
 > *床の方が正直だ。碑よりも。*
 > *"The floor is more honest than the monument."*
 > — recovered from the last surviving notebook

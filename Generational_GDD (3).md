@@ -1,3 +1,10 @@
+---
+title: "Generational"
+description: "Game design document for a generational roguelite where the player does not steer a hero but tends a bloodline and its legacy across centuries of human history, from the Stone Age to the stars."
+genre: "Roguelite / Life-Sim"
+category: "Game Design Document"
+---
+
 # GENERATIONAL
 ### Game Design Document
 

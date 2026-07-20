@@ -1,3 +1,10 @@
+---
+title: "Wolf's Head"
+description: "A historical tale of a vargr — an outlawed man any other may kill without price — born of violence between a Norse raider and the English woman he wronged, and raised in secret under two names."
+genre: "Historical Fiction"
+category: "Fiction"
+---
+
 # WOLF'S HEAD
 
 There is a stretch of the old road south of Jórvík where the trees close over the track and the light comes down green and cold even at midday, and it is here, in the autumn of his twenty-fifth year, that a man walks alone toward a debt he does not want to pay.

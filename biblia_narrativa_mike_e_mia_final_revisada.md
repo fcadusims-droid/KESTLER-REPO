@@ -1,3 +1,10 @@
+---
+title: "Mike e Mia"
+description: "Bíblia narrativa de um drama psicológico de sobrevivência: abandonado pela própria organização, o mercenário Mike Harlan sobrevive ao cativeiro ao lado de Mia Ashari, e anos depois descobre a verdade sobre a promessa que os salvou tarde demais."
+genre: "Drama Psicológico / Sobrevivência"
+category: "Fiction"
+---
+
 # Bíblia Narrativa Revisada - Mike e Mia
 
 ## Identidade do projeto

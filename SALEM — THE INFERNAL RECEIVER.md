@@ -1,3 +1,10 @@
+---
+title: "Salem — The Infernal Receiver"
+description: "Character and deck design document for Salem, the Infernal Receiver: his pact, his corruption arc, and the complete Phantom Ledger archetype built around his identity."
+genre: "Card Game / Character Design"
+category: "Worldbuilding"
+---
+
 # SALEM — THE INFERNAL RECEIVER
 ### Character & Deck Design Document | Phantom Ledger TCG 2026
 

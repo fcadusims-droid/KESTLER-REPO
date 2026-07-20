@@ -1,3 +1,10 @@
+---
+title: "Aspectros"
+description: "The Resonant Universe: a metaphysical fantasy where every soul couples with Aelón, the field of all possibility, and reality answers to the frequency of the human heart — set down by the historian Lótus."
+genre: "Metaphysical Fantasy"
+category: "Worldbuilding"
+---
+
 # ASPECTROS
 
 ## The Resonant Universe

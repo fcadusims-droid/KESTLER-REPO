@@ -1,3 +1,10 @@
+---
+title: "2187"
+description: "A hard science-fiction universe bible for the year 2187, narrated by DISPATCH, the neutral AI of the interstellar vessel ISV-7 RELAY, reconstructing a humanity that has collided with its own limits."
+genre: "Hard Science Fiction"
+category: "Worldbuilding"
+---
+
 © 2025 João Vitor Perazzolo. All rights reserved. *2187* and all associated worldbuilding, characters, systems, and narrative structures are the intellectual property of the author. No reproduction or adaptation without written permission.
 
 ---

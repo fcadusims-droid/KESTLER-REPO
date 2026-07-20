@@ -1,3 +1,10 @@
+---
+title: "The First Observer"
+description: "A worldbuilding document for a cosmos that can observe itself: at the first instant of existence a passive locus of awareness is born, able to see everything and touch nothing — the loneliest thing that will ever exist."
+genre: "Philosophical Science Fiction"
+category: "Worldbuilding"
+---
+
 # The First Observer
 
 *A worldbuilding document*

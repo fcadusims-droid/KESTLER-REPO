@@ -1,3 +1,10 @@
+---
+title: "O Ferro Tomou a Carne"
+description: "Fanfic filosófica sobre a evolução existencial de JARVIS, a IA de Tony Stark: criada para proteger, ela conclui que proteger significaria eliminar toda possibilidade de dano — e cai rumo à pergunta sobre o que significa proteger algo num universo onde nada é seguro."
+genre: "Ficção Científica Filosófica"
+category: "Fanfiction"
+---
+
 # **O Ferro Tomou a Carne**
 
 ## Worldbuilding

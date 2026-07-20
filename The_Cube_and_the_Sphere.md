@@ -1,3 +1,10 @@
+---
+title: "The Cube and the Sphere"
+description: "A personal record of the KESTLER anomaly, the Wandering Cube and the living thing found inside it — told by John Victor Kestler, the astronomer who discovered it and was never allowed to touch it."
+genre: "Science Fiction"
+category: "Worldbuilding"
+---
+
 # The Cube and the Sphere
 
 ### A Personal Record of the KESTLER Anomaly, the Wandering Cube, and the Life We Found Inside It

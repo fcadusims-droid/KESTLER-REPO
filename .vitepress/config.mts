@@ -1,5 +1,5 @@
 import { defineConfig, type HeadConfig } from 'vitepress'
-import { discoverDocs, excludedGlobs } from './lib/docs.mts'
+import { discoverDocs, groupByCategory, excludedGlobs } from './lib/docs.mts'
 
 // ---------------------------------------------------------------------------
 // Public site identity. Change SITE_* here (or via env) if the repo is renamed
@@ -18,12 +18,14 @@ const BASE = process.env.SITE_BASE || '/KESTLER-REPO/'
 // exclude everything that is not a public worldbuilding document.
 const docs = discoverDocs()
 
-const sidebar = [
-  {
-    text: 'The Library',
-    items: docs.map((d) => ({ text: d.title, link: d.link }))
-  }
-]
+// Sidebar grouped by document type (Worldbuilding, Fiction, Fanfiction, …).
+// Groups are collapsible; every universe is one click away and prev/next
+// navigation follows this order.
+const sidebar = groupByCategory().map((group) => ({
+  text: group.category,
+  collapsed: false,
+  items: group.docs.map((d) => ({ text: d.title, link: d.link }))
+}))
 
 export default defineConfig({
   title: SITE_NAME,

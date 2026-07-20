@@ -51,9 +51,22 @@ export interface DocMeta {
   title: string
   description: string
   genre?: string
+  /** Document type, e.g. "Worldbuilding", "Game Design Document", "Fanfiction". */
+  category: string
   cover?: string
   order: number
 }
+
+/** Canonical display order of the categories on the homepage and sidebar. */
+export const CATEGORY_ORDER = [
+  'Worldbuilding',
+  'Fiction',
+  'Fanfiction',
+  'Game Design Document',
+  'Project'
+]
+
+const DEFAULT_CATEGORY = 'Worldbuilding'
 
 function stripExt(name: string): string {
   return name.replace(/\.md$/i, '')
@@ -147,6 +160,7 @@ export function discoverDocs(): DocMeta[] {
       title,
       description,
       genre: data.genre ? String(data.genre) : undefined,
+      category: data.category ? String(data.category) : DEFAULT_CATEGORY,
       cover: data.cover ? String(data.cover) : undefined,
       order: typeof data.order === 'number' ? data.order : 999
     })
@@ -154,6 +168,26 @@ export function discoverDocs(): DocMeta[] {
 
   docs.sort((a, b) => a.order - b.order || a.title.localeCompare(b.title))
   return docs
+}
+
+/** Documents grouped by category, in canonical category order. */
+export function groupByCategory(): { category: string; docs: DocMeta[] }[] {
+  const docs = discoverDocs()
+  const seen = new Set<string>()
+  const groups: { category: string; docs: DocMeta[] }[] = []
+
+  const pushGroup = (category: string) => {
+    const items = docs.filter((d) => d.category === category)
+    if (items.length) groups.push({ category, docs: items })
+    seen.add(category)
+  }
+
+  for (const category of CATEGORY_ORDER) pushGroup(category)
+  // Any custom categories the author invents later appear after the known ones.
+  for (const d of docs) {
+    if (!seen.has(d.category)) pushGroup(d.category)
+  }
+  return groups
 }
 
 /**

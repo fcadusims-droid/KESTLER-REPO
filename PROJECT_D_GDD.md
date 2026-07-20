@@ -1,3 +1,10 @@
+---
+title: "Project D"
+description: "Master game design document for a single-player narrative RPG built on survival and observation systems."
+genre: "Narrative RPG / Survival"
+category: "Game Design Document"
+---
+
 © 2026 João Vitor Perazzolo. All rights reserved.
 
 This work, titled PROJECT D, and all its contents—including but not limited to text, concepts, worldbuilding elements, characters, systems, technologies, and narrative structures—are the intellectual property of João Vitor Perazzolo.

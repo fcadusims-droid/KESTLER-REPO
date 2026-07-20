@@ -1,3 +1,10 @@
+---
+title: "Astropire"
+description: "Game design document for a single-player space-survival and automation game: a lone amnesiac survivor turns a dead asteroid into a mechanical home and must decide whether the machines he builds should obey, belong, or be born free."
+genre: "Space Survival / Automation"
+category: "Game Design Document"
+---
+
 # ASTROPIRE — Game Design Document
 
 **Document Type:** Consolidated Concept GDD
