@@ -1,3 +1,10 @@
+---
+title: "MetaMind"
+description: "A dystopian dossier of the post-LUX world, where humanity survived extinction by accepting a cure that made obedience the most comfortable biological option — reconstructed by the commission that judged it."
+genre: "Dystopian Science Fiction"
+category: "Worldbuilding"
+---
+
 # METAMIND
 
 ## Canonical Dossier of the Post-LUX World

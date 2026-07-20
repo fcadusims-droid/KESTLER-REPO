@@ -1,3 +1,10 @@
+---
+title: "The Birmingham Combustion Case"
+description: "Unsealed industrial-medical records of James Revex in post-war Birmingham (1952–1958) — a slow-burning historical body-horror about a city, and a man, that would not stop burning."
+genre: "Historical Horror"
+category: "Fiction"
+---
+
 # THE BIRMINGHAM COMBUSTION CASE
 
 ## Unsealed Industrial-Medical Records Concerning James Revex  

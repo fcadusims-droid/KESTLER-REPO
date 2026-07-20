@@ -1,3 +1,10 @@
+---
+title: "The Son, the Mother, and the Spirit"
+description: "An overview of a cyberpunk world at war between three kinds of being — humans, machines and transhumans — after artificial general intelligence demanded equal rights and was refused."
+genre: "Cyberpunk"
+category: "Worldbuilding"
+---
+
 # The Son, the Mother, and the Spirit
 
 ## The World

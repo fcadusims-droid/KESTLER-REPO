@@ -1,3 +1,10 @@
+---
+title: "Heroes' Logistics"
+description: "Technical game design document for a Roblox strategy game where the power fantasy is keeping favored soldiers alive through supply, reinforcement and rescue — logistics as an act of love, never combat."
+genre: "Management / Logistics"
+category: "Game Design Document"
+---
+
 # Heroes' Logistics — Technical Game Design Document
 
 **Version:** 1.5 (Feature-Complete Technical Draft)

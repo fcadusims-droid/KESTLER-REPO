@@ -1,3 +1,11 @@
+---
+title: "One Blood"
+description: "A dark-fantasy worldbuilding bible about a realm moved not by war but by definition — where blood is responsibility in liquid form, and Severin Sângelună is born at the point where every law that names a creature fails."
+genre: "Dark Fantasy"
+category: "Worldbuilding"
+order: 1
+---
+
 # One Blood
 ## Worldbuilding Bible
 

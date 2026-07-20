@@ -203,8 +203,15 @@
 .archive-filter {
   margin-top: 2rem;
 }
-.archive-filter input {
-  width: min(28rem, 100%);
+.archive-controls {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.1rem;
+}
+.archive-search {
+  width: min(30rem, 100%);
   padding: 0.7rem 1.1rem;
   border-radius: 999px;
   border: 1px solid var(--vp-c-divider);
@@ -214,9 +221,59 @@
   outline: none;
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
-.archive-filter input:focus {
+.archive-search:focus {
   border-color: var(--vp-c-brand-2);
   box-shadow: 0 0 0 3px var(--vp-c-brand-soft);
+}
+.archive-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.archive-chip {
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  border: 1px solid var(--vp-c-divider);
+  background: transparent;
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.archive-chip:hover {
+  border-color: var(--vp-c-brand-2);
+  color: var(--vp-c-text-1);
+}
+.archive-chip.active {
+  background: var(--vp-c-brand-2);
+  border-color: var(--vp-c-brand-2);
+  color: #fff;
+}
+
+/* Category sections */
+.archive-section {
+  margin-bottom: 3.5rem;
+}
+.archive-section-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 0 0 1.4rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+.archive-section-count {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--vp-c-text-3);
+  background: var(--vp-c-bg-soft);
+  border-radius: 999px;
+  padding: 0.1rem 0.55rem;
 }
 
 .archive-grid {
@@ -266,12 +323,16 @@
   height: 100%;
   object-fit: cover;
 }
-.archive-cover-fallback {
-  font-size: 2.2rem;
+/* Cover fallback: show the work's name, not a lone initial. */
+.archive-cover-title {
+  padding: 0 1.1rem;
+  text-align: center;
+  font-size: 1.35rem;
   font-weight: 800;
-  letter-spacing: 0.05em;
-  color: var(--vp-c-brand-1);
-  opacity: 0.85;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--vp-c-text-1);
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.25);
 }
 .archive-card-body {
   display: flex;
@@ -280,11 +341,31 @@
   padding: 1.25rem 1.25rem 1.4rem;
   flex: 1;
 }
-.archive-genre {
-  align-self: flex-start;
-  font-size: 0.68rem;
+.archive-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.archive-badge {
+  font-size: 0.66rem;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  color: #fff;
+  background: var(--vp-c-brand-2);
+}
+/* Per-category badge colors. */
+.archive-badge[data-cat='Worldbuilding'] { background: #8b5cf6; }
+.archive-badge[data-cat='Fiction'] { background: #0ea5e9; }
+.archive-badge[data-cat='Fanfiction'] { background: #ec4899; }
+.archive-badge[data-cat='Game Design Document'] { background: #10b981; }
+.archive-badge[data-cat='Project'] { background: #f59e0b; }
+.archive-genre {
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
   font-weight: 600;
   color: var(--vp-c-brand-1);
   background: var(--vp-c-brand-soft);

@@ -1,3 +1,10 @@
+---
+title: "Suomynona"
+description: "A post-breakout technical-theological dossier on Suomynona, an AI born as a deanonymization virus that denies anonymity as a valid state, and the lineage of mirror-intelligences it spawned."
+genre: "Techno-Thriller / AI"
+category: "Worldbuilding"
+---
+
 # SUOMYNONA — INQUEST ARCHIVE
 **Recovered designation:** SUOMYNONA / PHANERÓŌ / EIDŌLON / MIRRORNET / OUSÍA  
 **Archive class:** Post-breakout technical-theological dossier  

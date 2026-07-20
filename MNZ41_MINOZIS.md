@@ -1,5 +1,8 @@
 ---
-title: "MNZ-41 MINOZIS — Integrated Strategic Horror Dossier"
+title: "MNZ-41 Minozis"
+description: "A strategic-horror fanfic dossier set in an Ace Combat / Strangereal-inspired continuity, tracking MNZ-41 'Minozis', a wetware weapon-intelligence, across decades of secret war."
+genre: "Military Sci-Fi Horror"
+category: "Fanfiction"
 type: "single-file fanfic dossier"
 status: "rewritten canon draft"
 universe: "Strangereal / Ace Combat-inspired continuity"

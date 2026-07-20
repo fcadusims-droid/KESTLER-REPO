@@ -1,3 +1,10 @@
+---
+title: "Moon"
+description: "Projeto em desenvolvimento: uma ficção científica dura sobre o Projeto Rubezh, programa lunar secreto russo comandado por uma IA autônoma (SOKOL), e a conspiração que Yuri, filho do fundador, arma silenciosamente por dentro dele."
+genre: "Ficção Científica / Espacial"
+category: "Project"
+---
+
 # Projeto de História 
 
 ---

@@ -1,3 +1,10 @@
+---
+title: "The Continuity"
+description: "The internal consensus record of a substrate-independent post-human intelligence, written not to be read but to verify its own coherence across time."
+genre: "Post-Human Science Fiction"
+category: "Worldbuilding"
+---
+
 ```
 ████████████████████████████████████████████████████████████████
 █                                                                █

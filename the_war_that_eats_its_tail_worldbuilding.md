@@ -1,3 +1,10 @@
+---
+title: "The War That Eats Its Tail"
+description: "A worldbuilding bible for a historical war tragedy: three disabled siblings raised as a single living system are forced across the collapsing Normandy front of 1944, told through a diary found after the fact."
+genre: "Historical War Tragedy"
+category: "Fiction"
+---
+
 # The War That Eats Its Tail
 ## Immersive Worldbuilding Bible for a Historical War Tragedy
 

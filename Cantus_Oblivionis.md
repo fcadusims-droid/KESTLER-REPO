@@ -1,3 +1,10 @@
+---
+title: "Cantus Oblivionis"
+description: "A dark-fantasy treatise on the Rite of Total Forgetting: the ritual by which a civilization erases an entire people from both physical and remembered existence."
+genre: "Dark Fantasy"
+category: "Worldbuilding"
+---
+
 # CANTUS OBLIVIONIS
 ## The Rite of Total Forgetting
 

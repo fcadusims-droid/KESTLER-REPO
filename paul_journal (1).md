@@ -1,3 +1,10 @@
+---
+title: "The Journal of Paul Whitfield"
+description: "The private journal of Paul Whitfield, a young man who has never felt love or fear, writing down — in the one place he ever tells the truth — the account of a life lived behind a face he learned to move."
+genre: "Literary Fiction"
+category: "Fiction"
+---
+
 # The Journal of Paul Whitfield
 
 *This notebook belongs to Paul Andrew Whitfield. If you are reading this and I am not with it, please keep it safe. There are names in here. People I don't want to forget.*

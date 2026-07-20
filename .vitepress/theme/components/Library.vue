@@ -1,30 +1,38 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import { withBase } from 'vitepress'
-import { data as docs } from '../library.data.mts'
+import { data as groups } from '../library.data.mts'
 
 const query = ref('')
+const activeCategory = ref<string>('All')
 
-const filtered = computed(() => {
+const totalCount = computed(() =>
+  groups.reduce((n, g) => n + g.docs.length, 0)
+)
+
+const categories = computed(() => ['All', ...groups.map((g) => g.category)])
+
+// Groups filtered by the active category chip and the text query.
+const visibleGroups = computed(() => {
   const q = query.value.trim().toLowerCase()
-  if (!q) return docs
-  return docs.filter(
-    (d) =>
-      d.title.toLowerCase().includes(q) ||
-      (d.description || '').toLowerCase().includes(q) ||
-      (d.genre || '').toLowerCase().includes(q)
-  )
+  return groups
+    .filter(
+      (g) => activeCategory.value === 'All' || g.category === activeCategory.value
+    )
+    .map((g) => ({
+      category: g.category,
+      docs: g.docs.filter(
+        (d) =>
+          !q ||
+          d.title.toLowerCase().includes(q) ||
+          (d.description || '').toLowerCase().includes(q) ||
+          (d.genre || '').toLowerCase().includes(q)
+      )
+    }))
+    .filter((g) => g.docs.length > 0)
 })
 
-function initials(title: string): string {
-  return title
-    .split(/\s+/)
-    .filter(Boolean)
-    .slice(0, 2)
-    .map((w) => w[0])
-    .join('')
-    .toUpperCase()
-}
+const nothing = computed(() => visibleGroups.value.length === 0)
 </script>
 
 <template>
@@ -33,43 +41,67 @@ function initials(title: string): string {
       <p class="archive-eyebrow">The Archive</p>
       <h1 class="archive-title">A library of fictional universes</h1>
       <p class="archive-sub">
-        {{ docs.length }} original {{ docs.length === 1 ? 'work' : 'works' }} — worldbuilding bibles,
-        design documents and chronicles. Choose a universe to begin reading.
+        {{ totalCount }} original {{ totalCount === 1 ? 'work' : 'works' }} — worldbuilding bibles,
+        stories, fanfiction and game design documents. Choose a universe to begin reading.
       </p>
-      <div class="archive-filter">
+
+      <div class="archive-controls">
         <input
           v-model="query"
           type="search"
-          placeholder="Filter the library…"
-          aria-label="Filter the library"
+          class="archive-search"
+          placeholder="Search the library…"
+          aria-label="Search the library"
         />
+        <div class="archive-chips" role="tablist" aria-label="Filter by type">
+          <button
+            v-for="cat in categories"
+            :key="cat"
+            type="button"
+            class="archive-chip"
+            :class="{ active: activeCategory === cat }"
+            @click="activeCategory = cat"
+          >
+            {{ cat }}
+          </button>
+        </div>
       </div>
     </header>
 
-    <ul class="archive-grid" role="list">
-      <li v-for="doc in filtered" :key="doc.file" class="archive-card">
-        <a class="archive-card-link" :href="withBase(doc.link)">
-          <div class="archive-cover" :class="{ 'has-image': doc.cover }">
-            <img
-              v-if="doc.cover"
-              :src="withBase(doc.cover)"
-              :alt="doc.title"
-              loading="lazy"
-            />
-            <span v-else class="archive-cover-fallback">{{ initials(doc.title) }}</span>
-          </div>
-          <div class="archive-card-body">
-            <span v-if="doc.genre" class="archive-genre">{{ doc.genre }}</span>
-            <h2 class="archive-card-title">{{ doc.title }}</h2>
-            <p v-if="doc.description" class="archive-card-desc">{{ doc.description }}</p>
-            <span class="archive-card-cta">Open document →</span>
-          </div>
-        </a>
-      </li>
-    </ul>
+    <section v-for="group in visibleGroups" :key="group.category" class="archive-section">
+      <h2 class="archive-section-title">
+        {{ group.category }}
+        <span class="archive-section-count">{{ group.docs.length }}</span>
+      </h2>
 
-    <p v-if="filtered.length === 0" class="archive-empty">
-      No universes match “{{ query }}”.
+      <ul class="archive-grid" role="list">
+        <li v-for="doc in group.docs" :key="doc.file" class="archive-card">
+          <a class="archive-card-link" :href="withBase(doc.link)">
+            <div class="archive-cover" :class="{ 'has-image': doc.cover }">
+              <img
+                v-if="doc.cover"
+                :src="withBase(doc.cover)"
+                :alt="doc.title"
+                loading="lazy"
+              />
+              <span v-else class="archive-cover-title">{{ doc.title }}</span>
+            </div>
+            <div class="archive-card-body">
+              <div class="archive-tags">
+                <span class="archive-badge" :data-cat="group.category">{{ group.category }}</span>
+                <span v-if="doc.genre" class="archive-genre">{{ doc.genre }}</span>
+              </div>
+              <h3 class="archive-card-title">{{ doc.title }}</h3>
+              <p v-if="doc.description" class="archive-card-desc">{{ doc.description }}</p>
+              <span class="archive-card-cta">Open document →</span>
+            </div>
+          </a>
+        </li>
+      </ul>
+    </section>
+
+    <p v-if="nothing" class="archive-empty">
+      No universes match your search.
     </p>
   </div>
 </template>
