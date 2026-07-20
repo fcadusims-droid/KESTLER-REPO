@@ -1,0 +1,11 @@
+# Build output & caches (regenerated on every deploy — never committed)
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

@@ -1,0 +1,20 @@
+{
+  "name": "kestler-archive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automatically generated worldbuilding library. Every root-level Markdown document becomes a page.",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.13"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.1.0"
+  }
+}
