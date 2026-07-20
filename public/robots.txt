@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fcadusims-droid.github.io/kestler-repo/sitemap.xml
+Sitemap: https://fcadusims-droid.github.io/KESTLER-REPO/sitemap.xml

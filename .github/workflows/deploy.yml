@@ -39,6 +39,12 @@ jobs:
 
       - name: Build site
         run: npm run docs:build
+        env:
+          # Derive the base path and host from the real repository name so the
+          # site's asset URLs always match the (case-sensitive) Pages URL,
+          # even if the repository is later renamed.
+          SITE_BASE: /${{ github.event.repository.name }}/
+          SITE_HOSTNAME: https://${{ github.repository_owner }}.github.io
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

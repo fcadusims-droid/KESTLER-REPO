@@ -8,8 +8,11 @@ import { discoverDocs, excludedGlobs } from './lib/docs.mts'
 const SITE_NAME = 'The Kestler Archive'
 const SITE_TAGLINE = 'An archive of original fictional universes.'
 // GitHub Pages project site: https://<user>.github.io/<repo>/
+// NOTE: the <repo> path segment is CASE-SENSITIVE on GitHub Pages. The CI
+// workflow overrides these from the real repository name so they always match
+// (see .github/workflows/deploy.yml); the defaults below are the local fallback.
 const HOSTNAME = process.env.SITE_HOSTNAME || 'https://fcadusims-droid.github.io'
-const BASE = process.env.SITE_BASE || '/kestler-repo/'
+const BASE = process.env.SITE_BASE || '/KESTLER-REPO/'
 
 // Discover the library once, at config load. Used to build the sidebar and to
 // exclude everything that is not a public worldbuilding document.
