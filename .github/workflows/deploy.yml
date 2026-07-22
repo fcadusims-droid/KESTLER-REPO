@@ -48,6 +48,11 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+        with:
+          # Auto-enable Pages (source: GitHub Actions) if it was ever turned
+          # off or reset — e.g. by a repository settings change — so a deploy
+          # never silently no-ops again.
+          enablement: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
