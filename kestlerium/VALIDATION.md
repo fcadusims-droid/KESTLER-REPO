@@ -453,6 +453,31 @@ operacional (quem trabalha onde); e cada mundo declara quais portões se aplicam
 a ele. A vila valida a Fase 1 — o lugar funciona — e espera os personagens para
 o resto.
 
+### P28 — A espera dava importância, não só prioridade
+
+Um evento que perde a vez volta à fila com bônus. Eu testava o piso de cena
+contra o **score** — pressão mais o que a espera acrescentou. Resultado: cenas
+marcadas como decisivas com pressão crua 0.406, enquanto o piso declarado era
+0.70.
+
+A espera dá prioridade na fila; não dá importância. Um assunto que ninguém achou
+grave por seis semanas não vira clímax por ter esperado.
+
+**Correção.** O piso é testado contra a pressão crua; o score só ordena a fila.
+
+### P29 — O descanso era medido contra o dia errado
+
+O descanso por personagem olhava o dia do **fechamento da semana**, não o dia em
+que o evento aconteceu. Assim o primeiro beat processado cansava o elenco
+inteiro e bloqueava todos os outros da mesma semana: **dezessete beats agendados
+onde cabiam cento e oitenta.**
+
+O evento de terça e o de sábado são dias diferentes, mesmo que a decisão sobre
+os dois seja tomada de uma vez.
+
+**Correção.** Descanso medido contra o dia do evento. Fase 4 fechou em 4 cenas e
+43 beats em 12 semanas, ninguém em mais de duas cenas.
+
 ---
 
 ## Estado atual
@@ -460,8 +485,9 @@ o resto.
 ```
 DISTRITO (bancada)              VILA (produção, base)
 Fase 1  APROVADA                Fase 1  APROVADA
-Fase 2  APROVADA                Fases 2-3: não se aplicam
+Fase 2  APROVADA                Fases 2-4: não se aplicam
 Fase 3  APROVADA                          (sem drama por projeto)
+Fase 4  APROVADA
 ```
 
 A vila roda no horário de Brasília. Às 9h de uma quarta: Ruth na mercearia,

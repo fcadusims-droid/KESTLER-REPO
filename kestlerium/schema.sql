@@ -190,3 +190,20 @@ CREATE TABLE IF NOT EXISTS knowledge (
     PRIMARY KEY (agent_id, concept)
 );
 CREATE INDEX IF NOT EXISTS idx_knowledge_concept ON knowledge(concept);
+
+-- ===========================================================================
+-- FASE 4 — governador de ritmo
+-- ===========================================================================
+-- O que o mundo decidiu contar, e por qual pontuação. O registro importa tanto
+-- quanto a decisão: sem ele, um cronograma ruim é impossível de explicar depois.
+CREATE TABLE IF NOT EXISTS scheduled (
+    id                INTEGER PRIMARY KEY AUTOINCREMENT,
+    tick              INTEGER NOT NULL,
+    day               INTEGER NOT NULL,
+    kind              TEXT NOT NULL,   -- cena | beat
+    participants_json TEXT NOT NULL,
+    pressure          REAL NOT NULL,   -- pressão crua do evento
+    score             REAL NOT NULL,   -- pressão + o que a espera acrescentou
+    reason            TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_scheduled_day ON scheduled(day);

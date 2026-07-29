@@ -56,6 +56,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
     total_ticks = args.dias * clockmod.TICKS_PER_DAY
 
     sim = Simulation(conn, w, seed=args.seed, world_name=args.mundo)
+    from engine.pacing import Governor
     from engine.pressure import PressureDetector
 
     # Os fatos entram no mundo no tick deles — plantar tudo de véspera faria
@@ -70,6 +71,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
 
     sim.on_new_facts = rebuild_goals
     rebuild_goals()
+    sim.governor = Governor()
 
     result = sim.run(0, total_ticks, mode="rapido")
 
@@ -83,7 +85,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
          "seed_facts.json").read_text(encoding="utf-8"))
     gates = spec.get("gates", ["1", "2", "3"])
 
-    passed2 = passed3 = True
+    passed2 = passed3 = passed4 = True
     if "2" in gates:
         m2 = report.collect_phase2(conn, total_ticks, args.mundo)
         text2, passed2 = report.render_phase2(m2)
@@ -91,7 +93,8 @@ def cmd_validar(args: argparse.Namespace) -> int:
         (OUT / f"fase2_{args.mundo}.txt").write_text(text2, encoding="utf-8")
     else:
         print()
-        print(f"  Fases 2 e 3 nao se aplicam a '{args.mundo}':")
+        faltando = ", ".join(g for g in ("2", "3", "4") if g not in gates)
+        print(f"  Fases {faltando} nao se aplicam a '{args.mundo}':")
         print(f"  {spec.get('_gates_nota','')}")
 
     OUT.mkdir(parents=True, exist_ok=True)
@@ -101,7 +104,12 @@ def cmd_validar(args: argparse.Namespace) -> int:
         text3, passed3 = report.render_phase3(m3)
         print(); print(text3)
         (OUT / f"fase3_{args.mundo}.txt").write_text(text3, encoding="utf-8")
-    passed = passed and passed2 and passed3
+    if "4" in gates:
+        m4 = report.collect_phase4(conn, total_ticks)
+        text4, passed4 = report.render_phase4(m4)
+        print(); print(text4)
+        (OUT / f"fase4_{args.mundo}.txt").write_text(text4, encoding="utf-8")
+    passed = passed and passed2 and passed3 and passed4
     conn.close()
     return 0 if passed else 1
 

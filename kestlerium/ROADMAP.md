@@ -1,8 +1,8 @@
 # Kestlerium — o que falta
 
-Estado: Fases 1-3 aprovadas, camada de conhecimento funcionando. O motor gera
-estrutura narrativa sozinho, sem LLM. Falta o mundo de verdade, falta alguém
-poder olhar para ele, e falta a narração.
+Estado: Fases 1-4 aprovadas na bancada, camada de conhecimento funcionando, a
+vila publicando sozinha a cada 30 minutos. O motor gera estrutura narrativa e
+decide o que contar sem LLM nenhum. Falta a narração — e o texto legível.
 
 ---
 
@@ -50,7 +50,7 @@ A visualização deve mostrar **o invisível**, porque o visível é trivial.
 
 ## Etapas
 
-### A. A vila — só NPCs, sem os personagens do autor
+### A. A vila — só NPCs, sem os personagens do autor  ✅
 
 Primeiro o mundo funcionando sozinho. Sem deslocado, sem anomalia, sem segredo
 sobrenatural: um lugar pequeno com gente comum, rotinas, dívidas, promessas e
@@ -65,19 +65,19 @@ esconderia isso.
 - fatos plantados: dívida, promessa, mentira — nada de anomalia
 - os portões das Fases 1-3 revalidados nesta configuração
 
-### B. Publicação contínua
+### B. Publicação contínua  ✅
 
 - agendador avança o mundo e publica a cada 30 min
 - estado persistido entre execuções (o banco precisa sobreviver ao runner)
 - snapshot em JSON, pequeno, versionado
 
-### C. Visualização
+### C. Visualização  ✅
 
 - planta baixa da vila em SVG, gerada do snapshot
 - painéis: quem está onde, quem sabe o quê, quem acredita em quê
 - página estática servida pelo mesmo site do arquivo
 
-### D. Fase 4 — Governador de ritmo
+### D. Fase 4 — Governador de ritmo  ✅
 
 Orçamento de cenas por semana, tempo de descanso por personagem para impedir
 protagonista acidental, fila com bônus de espera. Sem isto, a narração das

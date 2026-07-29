@@ -458,3 +458,129 @@ def render_phase3(m: dict) -> tuple[str, bool]:
         add("                     NÃO os pesos do detector")
     add("=" * 62)
     return "\n".join(lines), ok
+
+
+# ===========================================================================
+# FASE 4 — governador de ritmo
+# ===========================================================================
+# O que se mede aqui não é o mundo: é a *edição* dele. O detector já disse o
+# que poderia ser contado; o portão da Fase 4 pergunta se a escolha do que
+# será contado tem forma de história — pico raro, elenco circulando, e nada
+# escolhido por baixo do próprio piso declarado.
+
+
+def collect_phase4(conn: sqlite3.Connection, to_tick: int) -> dict:
+    import json as _j
+
+    agents = {row["id"]: row for row in conn.execute("SELECT * FROM agent")}
+    rows = list(conn.execute("SELECT * FROM scheduled ORDER BY day, id"))
+    days = max(1, to_tick // clockmod.TICKS_PER_DAY)
+    semanas = max(1, days // 7)
+
+    cenas = [r for r in rows if r["kind"] == "cena"]
+    beats = [r for r in rows if r["kind"] == "beat"]
+
+    # Aparições por agente, contadas separadamente: o protagonista acidental
+    # nasce das cenas, não dos beats.
+    apar_cena: Counter = Counter()
+    apar_beat: Counter = Counter()
+    for r in rows:
+        alvo = apar_cena if r["kind"] == "cena" else apar_beat
+        for aid in _j.loads(r["participants_json"]):
+            alvo[aid] += 1
+
+    # Descanso: menor intervalo observado entre duas cenas do mesmo agente.
+    dias_de_cena: dict[str, list[int]] = {}
+    for r in cenas:
+        for aid in _j.loads(r["participants_json"]):
+            dias_de_cena.setdefault(aid, []).append(r["day"])
+    menor_intervalo = min(
+        (b - a for lista in dias_de_cena.values()
+         for a, b in zip(sorted(lista), sorted(lista)[1:])),
+        default=None,
+    )
+
+    ativos = [a for a, r in agents.items() if r["arrival_tick"] < to_tick]
+    elenco_em_cena = len(set(apar_cena) & set(ativos)) / max(1, len(ativos))
+    pico_cena = max(apar_cena.values(), default=0)
+
+    return {
+        "agents": agents, "ativos": ativos,
+        "dias": days, "semanas": semanas,
+        "cenas": cenas, "beats": beats,
+        "por_semana_cena": len(cenas) / semanas,
+        "por_semana_beat": len(beats) / semanas,
+        "menor_pressao_cena": min((r["pressure"] for r in cenas), default=None),
+        "menor_pressao_beat": min((r["pressure"] for r in beats), default=None),
+        "apar_cena": apar_cena, "apar_beat": apar_beat,
+        "menor_intervalo_cena": menor_intervalo,
+        "elenco_em_cena": elenco_em_cena,
+        "concentracao_cena": pico_cena / max(1, len(cenas)),
+        "espera_maxima": max((r["score"] - r["pressure"] for r in rows), default=0.0),
+    }
+
+
+GATES_P4 = [
+    # Cena cara é cena rara. Se o orçamento estourar, quem escolheu foi o
+    # acaso do laço, não o governador.
+    ("orçamento de cena respeitado (<= 2/semana)",
+     lambda m: m["por_semana_cena"] <= 2.0),
+    ("orçamento de beat respeitado (<= 15/semana)",
+     lambda m: m["por_semana_beat"] <= 15.0),
+    # O piso é medido contra a pressão crua. Um clímax que só chegou lá pelo
+    # bônus de espera não é clímax; é fila.
+    ("nenhuma cena abaixo do piso de pressão",
+     lambda m: m["menor_pressao_cena"] is None or m["menor_pressao_cena"] >= 0.70),
+    ("beats existem (o barato não foi esquecido)", lambda m: len(m["beats"]) > 0),
+    # Protagonista acidental: ninguém deve concentrar as cenas.
+    ("sem protagonista acidental (< 60% das cenas)",
+     lambda m: m["concentracao_cena"] < 0.60),
+    ("descanso entre cenas respeitado (>= 6 dias)",
+     lambda m: m["menor_intervalo_cena"] is None or m["menor_intervalo_cena"] >= 6),
+    ("mais de um terço do elenco em alguma cena",
+     lambda m: m["elenco_em_cena"] > 0.33),
+]
+
+
+def render_phase4(m: dict) -> tuple[str, bool]:
+    import json as _j
+
+    lines: list[str] = []
+    add = lines.append
+    add("=" * 62)
+    add("KESTLERIUM — VALIDAÇÃO DA FASE 4 (ritmo)")
+    add("=" * 62)
+    add(f"  semanas simuladas     {m['semanas']}")
+    add(f"  cenas encenadas       {len(m['cenas'])}   ({m['por_semana_cena']:.2f}/semana)")
+    add(f"  beats narrados        {len(m['beats'])}   ({m['por_semana_beat']:.2f}/semana)")
+    if m["menor_pressao_cena"] is not None:
+        add(f"  menor pressão em cena {m['menor_pressao_cena']:.3f}   (piso 0.70)")
+    add(f"  maior bônus de espera {m['espera_maxima']:+.3f}")
+    add("")
+    add("  cenas agendadas")
+    for r in m["cenas"]:
+        nomes = ", ".join(sorted(
+            m["agents"][a]["name"] for a in _j.loads(r["participants_json"])
+            if a in m["agents"]))
+        add(f"    dia {r['day']:>4}  pressão {r['pressure']:.3f}  {nomes}")
+    add("")
+    add("  aparições em cena por personagem")
+    if m["apar_cena"]:
+        for aid, n in m["apar_cena"].most_common():
+            add(f"    {n:>2}x  {m['agents'][aid]['name']}")
+    else:
+        add("    nenhuma")
+    add("")
+    add("-" * 62)
+    ok = True
+    for label_text, check in GATES_P4:
+        passed = check(m)
+        ok &= passed
+        add(f"  [{'ok' if passed else 'FALHOU'}] {label_text}")
+    add("-" * 62)
+    if ok:
+        add("  FASE 4 APROVADA — o mundo escolhe o que contar")
+    else:
+        add("  FASE 4 REPROVADA — ajustar orçamento/descanso, não o piso")
+    add("=" * 62)
+    return "\n".join(lines), ok
