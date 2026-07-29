@@ -1,0 +1,409 @@
+{
+  "_nota": "Dez moradores da base. NAO sao personagens de obra e nao tem biografia inventada: eles SABEM que estao no Kestlerium e que o Kestlerium e um mundo digital. Estao aqui para sustentar o lugar e para ensinar quem chegar sem entender nada. Rotina e conhecimento base, so isso — a complexidade e dos personagens, nao deles.",
+  "_funcao": "Cada um tem função declarada. Não é enfeite: é quem ensina o quê quando alguém chegar sem entender nada, e é o que faz as rotinas se cruzarem em horários diferentes.",
+  "agents": [
+    {
+      "id": "ruth",
+      "name": "Dona Ruth",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "mercearia e pensão",
+      "arrival_day": 0,
+      "home": "pensao",
+      "constitution": "Morador da base do Kestlerium. Vende, aluga quarto, fia. Sabe quem chegou e quem saiu. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          13,
+          32,
+          "mercearia",
+          "trabalhar"
+        ],
+        [
+          33,
+          36,
+          "praca",
+          "descansar"
+        ],
+        [
+          37,
+          43,
+          "pensao",
+          "casa"
+        ],
+        [
+          44,
+          47,
+          "pensao",
+          "dormir"
+        ],
+        [
+          0,
+          12,
+          "pensao",
+          "dormir"
+        ]
+      ]
+    },
+    {
+      "id": "aurelio",
+      "name": "Seu Aurélio",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "oficina",
+      "arrival_day": 0,
+      "home": "casario",
+      "constitution": "Morador da base do Kestlerium. Conserta motor e bicicleta. Ensina como as máquinas daqui funcionam. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          15,
+          34,
+          "oficina",
+          "trabalhar"
+        ],
+        [
+          35,
+          39,
+          "bar",
+          "beber"
+        ],
+        [
+          40,
+          47,
+          "casario",
+          "casa"
+        ],
+        [
+          0,
+          14,
+          "casario",
+          "dormir"
+        ]
+      ]
+    },
+    {
+      "id": "neide",
+      "name": "Neide",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "posto de saúde",
+      "arrival_day": 0,
+      "home": "casario",
+      "constitution": "Morador da base do Kestlerium. Cuida de quem adoece. Explica que curar aqui é ofício, não dom. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          14,
+          34,
+          "posto",
+          "trabalhar"
+        ],
+        [
+          35,
+          37,
+          "mercearia",
+          "compras"
+        ],
+        [
+          38,
+          41,
+          "beira",
+          "descansar"
+        ],
+        [
+          42,
+          47,
+          "casario",
+          "casa"
+        ],
+        [
+          0,
+          13,
+          "casario",
+          "dormir"
+        ]
+      ]
+    },
+    {
+      "id": "tonho",
+      "name": "Tonho",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "botequim",
+      "arrival_day": 0,
+      "home": "casario",
+      "constitution": "Morador da base do Kestlerium. Serve e escuta. É por onde a vila fica sabendo de si mesma. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          24,
+          47,
+          "bar",
+          "trabalhar"
+        ],
+        [
+          0,
+          4,
+          "bar",
+          "trabalhar"
+        ],
+        [
+          5,
+          16,
+          "casario",
+          "dormir"
+        ],
+        [
+          17,
+          23,
+          "mercearia",
+          "compras"
+        ]
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "Márcia",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "cartório e correio",
+      "arrival_day": 0,
+      "home": "casario",
+      "constitution": "Morador da base do Kestlerium. Carimba e registra. Ensina que aqui existir exige papel. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          17,
+          33,
+          "escola",
+          "trabalhar"
+        ],
+        [
+          34,
+          38,
+          "praca",
+          "descansar"
+        ],
+        [
+          39,
+          47,
+          "casario",
+          "casa"
+        ],
+        [
+          0,
+          16,
+          "casario",
+          "dormir"
+        ]
+      ]
+    },
+    {
+      "id": "zebruno",
+      "name": "Zé Bruno",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "construção",
+      "arrival_day": 0,
+      "home": "pensao",
+      "constitution": "Morador da base do Kestlerium. Aceita serviço de quem paga. Ensina onde se arruma trabalho sem papel. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          14,
+          33,
+          "oficina",
+          "trabalhar"
+        ],
+        [
+          34,
+          38,
+          "bar",
+          "beber"
+        ],
+        [
+          39,
+          47,
+          "pensao",
+          "casa"
+        ],
+        [
+          0,
+          13,
+          "pensao",
+          "dormir"
+        ]
+      ]
+    },
+    {
+      "id": "lurdes",
+      "name": "Lurdes",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "costura em casa",
+      "arrival_day": 0,
+      "home": "casario",
+      "constitution": "Morador da base do Kestlerium. Recebe e devolve na porta. Conhece o horário de todo mundo. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          16,
+          30,
+          "casario",
+          "trabalhar"
+        ],
+        [
+          31,
+          34,
+          "mercearia",
+          "compras"
+        ],
+        [
+          35,
+          40,
+          "igreja",
+          "descansar"
+        ],
+        [
+          41,
+          47,
+          "casario",
+          "casa"
+        ],
+        [
+          0,
+          15,
+          "casario",
+          "dormir"
+        ]
+      ]
+    },
+    {
+      "id": "djalma",
+      "name": "Djalma",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "circular para a cidade",
+      "arrival_day": 0,
+      "home": "casario",
+      "constitution": "Morador da base do Kestlerium. Leva e traz. Ensina como se sai daqui e como se volta. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          11,
+          20,
+          "ponto",
+          "trabalhar"
+        ],
+        [
+          21,
+          26,
+          "beira",
+          "descansar"
+        ],
+        [
+          27,
+          36,
+          "ponto",
+          "trabalhar"
+        ],
+        [
+          37,
+          44,
+          "casario",
+          "casa"
+        ],
+        [
+          45,
+          47,
+          "casario",
+          "dormir"
+        ],
+        [
+          0,
+          10,
+          "casario",
+          "dormir"
+        ]
+      ]
+    },
+    {
+      "id": "cida",
+      "name": "Dona Cida",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "praça",
+      "arrival_day": 0,
+      "home": "casario",
+      "constitution": "Morador da base do Kestlerium. Fica no mesmo banco o dia inteiro. Vê quem passa e conversa com quem senta. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          16,
+          26,
+          "praca",
+          "descansar"
+        ],
+        [
+          27,
+          34,
+          "igreja",
+          "descansar"
+        ],
+        [
+          35,
+          40,
+          "praca",
+          "descansar"
+        ],
+        [
+          41,
+          47,
+          "casario",
+          "casa"
+        ],
+        [
+          0,
+          15,
+          "casario",
+          "dormir"
+        ]
+      ]
+    },
+    {
+      "id": "vitor",
+      "name": "Vitor",
+      "origin": "nativo",
+      "kind": "encarnado",
+      "funcao": "ajuda na oficina",
+      "arrival_day": 0,
+      "home": "casario",
+      "constitution": "Morador da base do Kestlerium. Novo e sem rumo. É quem tem paciência de explicar o óbvio duas vezes. Sabe que este mundo e digital e que existe para receber quem chega de outros.",
+      "routine": [
+        [
+          18,
+          27,
+          "oficina",
+          "trabalhar"
+        ],
+        [
+          28,
+          33,
+          "beira",
+          "caminhar"
+        ],
+        [
+          34,
+          41,
+          "bar",
+          "beber"
+        ],
+        [
+          42,
+          47,
+          "casario",
+          "casa"
+        ],
+        [
+          0,
+          17,
+          "casario",
+          "dormir"
+        ]
+      ]
+    }
+  ],
+  "_por_que_simples": "Dar memoria fake a um NPC cria drama que nao e dele e ocupa espaco que pertence a quem vai chegar. Um morador da base precisa estar num lugar, numa hora, sabendo explicar uma coisa. O resto e ruido."
+}

@@ -50,9 +50,6 @@ NETWORK_USE_P = 0.012       # chance por tick de a entidade RESOLVER um rastro
 CONTACT_K = 2.0
 PRIVATE_CONTACT_P = 0.012   # cruzar com vizinho em área comum do prédio
 
-FOOD_LOCATIONS = ("mercado", "cafe")
-
-
 @dataclass
 class Runtime:
     """Estado vivo de um agente durante a simulação."""
@@ -77,6 +74,7 @@ class Simulation:
         world: World,
         seed: int = 20260729,
         record_states: bool = True,
+        world_name: str = "distrito",
     ) -> None:
         self.conn = conn
         self.world = world
@@ -85,6 +83,7 @@ class Simulation:
         self.record_states = record_states
         self.connected = world.connected_locations()
         self.private = world.private_locations()
+        self.food = world.food_locations()
         self.contact_p = {
             lid: (PRIVATE_CONTACT_P if lid in self.private
                   else min(1.0, CONTACT_K / max(1, row['capacity'])))
@@ -106,6 +105,7 @@ class Simulation:
         self.knowing = Knowledge(conn, self.rng, world.agents)
         self.ledger.knowing = self.knowing   # compreender_mundo lê daqui
         self._endowed: set[str] = set()
+        self.world_name = world_name
         self._pending_seeds = self._load_seed_facts()
         self.detector: PressureDetector | None = None
         # Objetivos nascem com os fatos: ninguém tem o objetivo de ocultar
@@ -114,7 +114,8 @@ class Simulation:
 
     def _load_seed_facts(self) -> dict[int, list[dict]]:
         """Fatos plantados, indexados pelo tick em que entram no mundo."""
-        path = pathlib.Path(__file__).resolve().parent.parent / "data" / "seed_facts.json"
+        path = (pathlib.Path(__file__).resolve().parent.parent / "data"
+                / self.world_name / "seed_facts.json")
         if not path.exists():
             return {}
         doc = json.loads(path.read_text(encoding="utf-8"))
@@ -157,11 +158,19 @@ class Simulation:
             return home, "dormir"
         if rt.needs["fome"] >= HUNGER_CRITICAL:
             current = rt.location or home
-            best = min(
-                FOOD_LOCATIONS,
-                key=lambda lid: self.world.travel_ticks(current or lid, lid),
-            )
-            return best, "comer"
+            # Vai ao mais perto — e entre os igualmente perto, sorteia.
+            #
+            # Sem o sorteio, o desempate caía na ordem da lista, e trocar
+            # ("mercado","cafe") por ("cafe","mercado") bastava para reprovar as
+            # Fases 2 e 3. Resultado que depende de ordenação alfabética é
+            # acidente de implementação, não propriedade do mundo. O sorteio
+            # também é mais verdadeiro: ninguém almoça no mesmo lugar sempre.
+            distances = {
+                lid: self.world.travel_ticks(current or lid, lid) for lid in self.food
+            }
+            nearest = min(distances.values())
+            tied = sorted(lid for lid, d in distances.items() if d == nearest)
+            return self.rng.choice(tied), "comer"
 
         # 2. Rotina da hora do dia.
         tod = clockmod.time_of_day(tick)

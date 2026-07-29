@@ -9,6 +9,7 @@ a mesma — quando um reprova, conserta-se o modelo, nunca o número do portão.
 
 from __future__ import annotations
 
+import pathlib
 import sqlite3
 from collections import Counter
 from itertools import combinations
@@ -152,7 +153,8 @@ def render(metrics: dict, wall_seconds: float) -> tuple[str, bool]:
 # FASE 2 — difusão de crença
 # ===========================================================================
 
-def collect_phase2(conn: sqlite3.Connection, to_tick: int) -> dict:
+def collect_phase2(conn: sqlite3.Connection, to_tick: int,
+                   world_name: str = "distrito") -> dict:
     agents = {row["id"]: row for row in conn.execute("SELECT * FROM agent")}
     facts = {row["id"]: row for row in conn.execute("SELECT * FROM fact")}
 
@@ -161,12 +163,21 @@ def collect_phase2(conn: sqlite3.Connection, to_tick: int) -> dict:
     for b in beliefs:
         by_fact.setdefault(b["fact_id"], []).append(b)
 
-    # O segredo do portão: a anomalia de Severin.
+    # O segredo do portão vem DECLARADO nos dados do mundo. Procurá-lo por nome
+    # de personagem cravado aqui acoplava o instrumento a um mundo só: na vila
+    # não existe Severin, e o portão passava em branco sem medir nada.
+    import json as _json
+    spec_path = (pathlib.Path(__file__).resolve().parent.parent / "data"
+                 / world_name / "seed_facts.json")
+    spec = {}
+    if spec_path.exists():
+        spec = _json.loads(spec_path.read_text(encoding="utf-8")).get("gate_secret", {})
     secret_id = next(
         (fid for fid, f in facts.items()
-         if f["subject"] == "severin" and f["predicate"] == "usou_anomalia"),
+         if f["subject"] == spec.get("subject")
+         and f["predicate"] == spec.get("predicate")),
         None,
-    )
+    ) if spec else None
     holders = by_fact.get(secret_id, []) if secret_id else []
     # Quem sabe além do sujeito e da testemunha original.
     original = set()

@@ -7,7 +7,8 @@
       "kind": "residencia",
       "capacity": 12,
       "connected": 1,
-      "shared": 0
+      "shared": 0,
+      "food": 0
     },
     {
       "id": "pensao",
@@ -15,7 +16,8 @@
       "kind": "residencia",
       "capacity": 8,
       "connected": 0,
-      "shared": 0
+      "shared": 0,
+      "food": 0
     },
     {
       "id": "cafe",
@@ -23,7 +25,8 @@
       "kind": "social",
       "capacity": 10,
       "connected": 1,
-      "shared": 1
+      "shared": 1,
+      "food": 1
     },
     {
       "id": "mercado",
@@ -31,7 +34,8 @@
       "kind": "servico",
       "capacity": 20,
       "connected": 1,
-      "shared": 1
+      "shared": 1,
+      "food": 1
     },
     {
       "id": "metro",
@@ -39,7 +43,8 @@
       "kind": "transito",
       "capacity": 40,
       "connected": 1,
-      "shared": 1
+      "shared": 1,
+      "food": 0
     },
     {
       "id": "parque",
@@ -47,7 +52,8 @@
       "kind": "social",
       "capacity": 25,
       "connected": 0,
-      "shared": 1
+      "shared": 1,
+      "food": 0
     },
     {
       "id": "hospital",
@@ -55,7 +61,8 @@
       "kind": "trabalho",
       "capacity": 30,
       "connected": 1,
-      "shared": 1
+      "shared": 1,
+      "food": 0
     },
     {
       "id": "delegacia",
@@ -63,7 +70,8 @@
       "kind": "servico",
       "capacity": 15,
       "connected": 1,
-      "shared": 1
+      "shared": 1,
+      "food": 0
     },
     {
       "id": "biblioteca",
@@ -71,7 +79,8 @@
       "kind": "servico",
       "capacity": 18,
       "connected": 1,
-      "shared": 1
+      "shared": 1,
+      "food": 0
     },
     {
       "id": "bar",
@@ -79,7 +88,8 @@
       "kind": "social",
       "capacity": 14,
       "connected": 1,
-      "shared": 1
+      "shared": 1,
+      "food": 0
     },
     {
       "id": "canteiro",
@@ -87,7 +97,8 @@
       "kind": "trabalho",
       "capacity": 12,
       "connected": 0,
-      "shared": 1
+      "shared": 1,
+      "food": 0
     },
     {
       "id": "registro",
@@ -95,7 +106,8 @@
       "kind": "servico",
       "capacity": 10,
       "connected": 1,
-      "shared": 1
+      "shared": 1,
+      "food": 0
     }
   ],
   "_edges_nota": "travel_ticks em unidades de 30 min. Gravado nos dois sentidos na carga. O metrô é o hub: quase tudo passa por ele, o que concentra encontros de passagem sem forçar convivência.",

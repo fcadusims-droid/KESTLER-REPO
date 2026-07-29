@@ -200,5 +200,15 @@
       ]
     }
   ],
-  "_densidade": "Cada personagem precisa ter algo em jogo, senão nunca entra num pico — o plano chama isso de elenco parasita. Fato de alta alavancagem espalhado pelo elenco é o que o portão da Fase 3 mede quando pede >60% em algum pico."
+  "_densidade": "Cada personagem precisa ter algo em jogo, senão nunca entra num pico — o plano chama isso de elenco parasita. Fato de alta alavancagem espalhado pelo elenco é o que o portão da Fase 3 mede quando pede >60% em algum pico.",
+  "gate_secret": {
+    "subject": "severin",
+    "predicate": "usou_anomalia"
+  },
+  "gates": [
+    "1",
+    "2",
+    "3"
+  ],
+  "_gates_nota": "Bancada de teste: elenco povoado e segredo plantado, para medir distribuicoes."
 }
