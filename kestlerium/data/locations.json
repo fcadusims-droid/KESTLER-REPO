@@ -1,0 +1,220 @@
+{
+  "_nota": "Um distrito. 12 locais. O escritório de registro e a biblioteca não são decoração: são onde estabelecer_identidade e compreender_mundo acontecem.",
+  "locations": [
+    {
+      "id": "apartamentos",
+      "name": "Edifício Aurora",
+      "kind": "residencia",
+      "capacity": 12,
+      "connected": 1,
+      "shared": 0
+    },
+    {
+      "id": "pensao",
+      "name": "Pensão da Rua Nove",
+      "kind": "residencia",
+      "capacity": 8,
+      "connected": 0,
+      "shared": 0
+    },
+    {
+      "id": "cafe",
+      "name": "Café Agulha",
+      "kind": "social",
+      "capacity": 10,
+      "connected": 1,
+      "shared": 1
+    },
+    {
+      "id": "mercado",
+      "name": "Mercado Municipal",
+      "kind": "servico",
+      "capacity": 20,
+      "connected": 1,
+      "shared": 1
+    },
+    {
+      "id": "metro",
+      "name": "Estação Ipiranga",
+      "kind": "transito",
+      "capacity": 40,
+      "connected": 1,
+      "shared": 1
+    },
+    {
+      "id": "parque",
+      "name": "Parque do Viaduto",
+      "kind": "social",
+      "capacity": 25,
+      "connected": 0,
+      "shared": 1
+    },
+    {
+      "id": "hospital",
+      "name": "Hospital São Roque",
+      "kind": "trabalho",
+      "capacity": 30,
+      "connected": 1,
+      "shared": 1
+    },
+    {
+      "id": "delegacia",
+      "name": "3º Distrito Policial",
+      "kind": "servico",
+      "capacity": 15,
+      "connected": 1,
+      "shared": 1
+    },
+    {
+      "id": "biblioteca",
+      "name": "Biblioteca Municipal",
+      "kind": "servico",
+      "capacity": 18,
+      "connected": 1,
+      "shared": 1
+    },
+    {
+      "id": "bar",
+      "name": "Bar Meia-Noite",
+      "kind": "social",
+      "capacity": 14,
+      "connected": 1,
+      "shared": 1
+    },
+    {
+      "id": "canteiro",
+      "name": "Canteiro da Rua Leste",
+      "kind": "trabalho",
+      "capacity": 12,
+      "connected": 0,
+      "shared": 1
+    },
+    {
+      "id": "registro",
+      "name": "Cartório e Registro Civil",
+      "kind": "servico",
+      "capacity": 10,
+      "connected": 1,
+      "shared": 1
+    }
+  ],
+  "_edges_nota": "travel_ticks em unidades de 30 min. Gravado nos dois sentidos na carga. O metrô é o hub: quase tudo passa por ele, o que concentra encontros de passagem sem forçar convivência.",
+  "edges": [
+    [
+      "apartamentos",
+      "metro",
+      1
+    ],
+    [
+      "apartamentos",
+      "cafe",
+      1
+    ],
+    [
+      "apartamentos",
+      "mercado",
+      1
+    ],
+    [
+      "pensao",
+      "metro",
+      1
+    ],
+    [
+      "pensao",
+      "canteiro",
+      1
+    ],
+    [
+      "pensao",
+      "parque",
+      1
+    ],
+    [
+      "cafe",
+      "metro",
+      1
+    ],
+    [
+      "cafe",
+      "biblioteca",
+      1
+    ],
+    [
+      "cafe",
+      "mercado",
+      1
+    ],
+    [
+      "mercado",
+      "metro",
+      1
+    ],
+    [
+      "metro",
+      "parque",
+      1
+    ],
+    [
+      "metro",
+      "hospital",
+      1
+    ],
+    [
+      "metro",
+      "biblioteca",
+      1
+    ],
+    [
+      "metro",
+      "delegacia",
+      2
+    ],
+    [
+      "metro",
+      "bar",
+      1
+    ],
+    [
+      "metro",
+      "canteiro",
+      2
+    ],
+    [
+      "metro",
+      "registro",
+      1
+    ],
+    [
+      "parque",
+      "bar",
+      1
+    ],
+    [
+      "hospital",
+      "delegacia",
+      1
+    ],
+    [
+      "biblioteca",
+      "registro",
+      1
+    ],
+    [
+      "bar",
+      "apartamentos",
+      2
+    ],
+    [
+      "canteiro",
+      "mercado",
+      2
+    ],
+    [
+      "delegacia",
+      "registro",
+      1
+    ]
+  ],
+  "_shared_nota": "shared=0 sao moradias: cada um tem sua unidade. Morar no mesmo predio nao e estar na mesma sala — vizinhos se cruzam em area comum, ocasionalmente."
+}

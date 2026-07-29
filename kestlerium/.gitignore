@@ -1,0 +1,6 @@
+# Saída de simulação: reproduzível pela seed, não versionada.
+# Quando o modo real for para produção, o banco do mundo precisará persistir
+# entre execuções — ver "Pendências assumidas" em VALIDATION.md.
+out/
+__pycache__/
+*.pyc

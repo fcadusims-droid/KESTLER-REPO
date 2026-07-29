@@ -61,7 +61,27 @@ Os três últimos são a camada de anomalia:
 
 ## 4. Horizonte temporal
 
-1 tick = **30 min** · 48 ticks/dia · **90 dias** = 4320 ticks no v0.
+1 tick = **30 min** · 48 ticks/dia.
+
+**O tempo do Kestlerium é o tempo real do Brasil** (`America/Sao_Paulo`). Se
+aqui são 21h de uma terça, lá são 21h da mesma terça e está de noite. A época é
+a meia-noite local do dia em que o mundo nasceu, o que faz `tick % 48` casar com
+a hora de Brasília sem conversão nenhuma — e fica gravada em `world_clock`, não
+no código: recalculá-la deslocaria o histórico inteiro a cada execução.
+
+Isso obriga dois relógios sobre o mesmo motor:
+
+| Modo | Uso | Relógio |
+|---|---|---|
+| **real** | O mundo de verdade | Brasília, 1 tick = 30 min reais |
+| **rápido** | Só validação das Fases 1-3 | 90 dias em segundos, banco separado |
+
+O modo rápido não é atalho — é a bancada de teste. Esperar 90 dias reais para
+descobrir que a ontologia de objetivos está errada não é uma opção.
+
+O modo real avança por **tempo decorrido desde a última execução**, não por
+"uma execução = um tick". Agendador atrasa; assim o mundo alcança o relógio em
+vez de ficar para trás.
 
 ## 5. Adições ao plano original (decididas aqui, não na Fase 8)
 
