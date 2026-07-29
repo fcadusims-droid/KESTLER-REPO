@@ -292,3 +292,156 @@ def render_phase2(m: dict) -> tuple[str, bool]:
     add("  FASE 2 APROVADA" if ok else "  FASE 2 REPROVADA — ajustar propagação, não o portão")
     add("=" * 62)
     return "\n".join(lines), ok
+
+
+# ===========================================================================
+# FASE 3 — o portão de verdade
+# ===========================================================================
+
+def _kurtosis(xs: list[float]) -> float:
+    """Curtose de Fisher. > 0 = cauda mais pesada que a normal."""
+    n = len(xs)
+    if n < 4:
+        return 0.0
+    mean = sum(xs) / n
+    var = sum((x - mean) ** 2 for x in xs) / n
+    if var <= 1e-12:
+        return 0.0
+    m4 = sum((x - mean) ** 4 for x in xs) / n
+    return m4 / (var * var) - 3.0
+
+
+def _autocorr(xs: list[float], lag: int) -> float:
+    n = len(xs)
+    if n <= lag + 2:
+        return 0.0
+    mean = sum(xs) / n
+    num = sum((xs[i] - mean) * (xs[i + lag] - mean) for i in range(n - lag))
+    den = sum((x - mean) ** 2 for x in xs)
+    return num / den if den > 1e-12 else 0.0
+
+
+PEAK = 0.70
+
+
+def collect_phase3(conn: sqlite3.Connection, to_tick: int) -> dict:
+    agents = {row["id"]: row for row in conn.execute("SELECT * FROM agent")}
+    events = list(conn.execute("SELECT * FROM pressure_event ORDER BY tick"))
+    days = max(1, to_tick // clockmod.TICKS_PER_DAY)
+
+    values = [e["value"] for e in events]
+    daily_max = [0.0] * days
+    for e in events:
+        if e["day"] < days:
+            daily_max[e["day"]] = max(daily_max[e["day"]], e["value"])
+
+    peaks = [e for e in events if e["value"] >= PEAK]
+    peak_days = sorted({e["day"] for e in peaks})
+    in_peak = set()
+    for e in peaks:
+        in_peak |= {e["agent_a"], e["agent_b"]}
+        if e["participants_json"]:
+            import json as _j
+            in_peak |= set(_j.loads(e["participants_json"]))
+
+    # Quem está em coma narrativo: pressão máxima que o agente já atingiu.
+    best: dict[str, float] = {a: 0.0 for a in agents}
+    for e in events:
+        best[e["agent_a"]] = max(best.get(e["agent_a"], 0.0), e["value"])
+        best[e["agent_b"]] = max(best.get(e["agent_b"], 0.0), e["value"])
+
+    active = [a for a, r in agents.items() if r["arrival_tick"] < to_tick]
+
+    # Contribuição média de cada componente: mostra se algum termo domina.
+    parts = {}
+    for key in ("de", "co", "cr", "re", "ta"):
+        parts[key] = sum(e[key] for e in events) / len(events) if events else 0.0
+
+    relations = list(conn.execute("SELECT * FROM relation"))
+
+    return {
+        "agents": agents, "active": active, "days": days,
+        "events": len(events), "values": values,
+        "daily_max": daily_max,
+        "peaks": len(peaks),
+        "peak_day_share": len(peak_days) / days if days else 0.0,
+        "cast_in_peak": len(in_peak & set(active)) / max(1, len(active)),
+        "kurtosis": _kurtosis(values),
+        "autocorr": [(lag, _autocorr(daily_max, lag)) for lag in (1, 2, 3, 5)],
+        "best_per_agent": best,
+        "parts": parts,
+        "mean": sum(values) / len(values) if values else 0.0,
+        "tension_mean": (sum(r["tension"] for r in relations) / len(relations)) if relations else 0.0,
+        "tension_saturated": [r for r in relations if r["tension"] >= 0.99],
+    }
+
+
+GATES_P3 = [
+    ("distribuição com cauda pesada (curtose > 0)", lambda m: m["kurtosis"] > 0.0),
+    ("dias com pico entre 2% e 8%", lambda m: 0.02 <= m["peak_day_share"] <= 0.08),
+    ("mais de 60% do elenco em algum pico", lambda m: m["cast_in_peak"] > 0.60),
+    ("picos correlacionados mas não em cascata", lambda m: any(0.0 < v < 0.6 for _, v in m["autocorr"])),
+    ("tensão não satura", lambda m: not m["tension_saturated"]),
+]
+
+
+def _spark(xs: list[float], width: int = 56) -> str:
+    if not xs:
+        return ""
+    blocks = " ▁▂▃▄▅▆▇█"
+    step = max(1, len(xs) // width)
+    sampled = [max(xs[i:i + step]) for i in range(0, len(xs), step)][:width]
+    hi = max(sampled) or 1.0
+    return "".join(blocks[min(8, int(v / hi * 8))] for v in sampled)
+
+
+def render_phase3(m: dict) -> tuple[str, bool]:
+    lines: list[str] = []
+    add = lines.append
+    add("=" * 62)
+    add("KESTLERIUM — VALIDAÇÃO DA FASE 3 (o portão de verdade)")
+    add("=" * 62)
+    add(f"  eventos avaliados     {m['events']}")
+    add(f"  pressão média         {m['mean']:.3f}")
+    add(f"  curtose               {m['kurtosis']:+.2f}   (>0 = cauda pesada)")
+    add(f"  picos (>= {PEAK})       {m['peaks']}")
+    add(f"  dias com pico         {m['peak_day_share']:.1%}   (alvo 2%-8%)")
+    add(f"  elenco em algum pico  {m['cast_in_peak']:.0%}   (alvo > 60%)")
+    add("")
+    add("  pressão máxima por dia")
+    add(f"    {_spark(m['daily_max'])}")
+    add("")
+    add("  contribuição média por componente")
+    rotulos = {"de": "epistêmico", "co": "conflito de objetivo",
+               "cr": "carga relacional", "re": "raridade", "ta": "tensão"}
+    for key, value in sorted(m["parts"].items(), key=lambda kv: -kv[1]):
+        add(f"    {rotulos[key]:<24} {value:.4f}")
+    add("")
+    add("  autocorrelação dos picos")
+    for lag, value in m["autocorr"]:
+        add(f"    lag {lag}d  {value:+.3f}")
+    add("")
+    add("  pressão máxima já atingida por personagem")
+    for aid, value in sorted(m["best_per_agent"].items(), key=lambda kv: -kv[1]):
+        if aid not in m["active"]:
+            continue
+        mark = "   <- coma narrativo" if value < 0.30 else ""
+        add(f"    {value:.2f}  {m['agents'][aid]['name']}{mark}")
+    add("")
+    add(f"  tensão média por aresta  {m['tension_mean']:.3f}"
+        f"   saturadas: {len(m['tension_saturated'])}")
+    add("")
+    add("-" * 62)
+    ok = True
+    for label_text, check in GATES_P3:
+        passed = check(m)
+        ok &= passed
+        add(f"  [{'ok' if passed else 'FALHOU'}] {label_text}")
+    add("-" * 62)
+    if ok:
+        add("  FASE 3 APROVADA — o mundo gera estrutura sozinho")
+    else:
+        add("  FASE 3 REPROVADA — ajustar ontologia e densidade social,")
+        add("                     NÃO os pesos do detector")
+    add("=" * 62)
+    return "\n".join(lines), ok

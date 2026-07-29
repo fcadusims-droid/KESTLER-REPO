@@ -45,6 +45,13 @@ TENSION_DAILY_GROWTH = 0.004    # tensão sobe sozinha onde há fio aberto
 TENSION_DISCHARGE = 0.45        # ralo simbólico: confronto sem LLM
 TENSION_CONFRONT_THRESHOLD = 0.55
 
+# --- eventos endógenos ------------------------------------------------------
+# O mundo precisa produzir fatos próprios, senão esfria assim que os fatos
+# plantados terminam de circular. Confronto e vínculo são as duas coisas que
+# a dinâmica de relação já sabe detectar sem precisar de LLM nenhum.
+BOND_AFFECT = 0.35
+BOND_TRUST = 0.62
+
 # Racionalizações por anomalia: o que uma pessoa comum conclui ao ver o
 # impossível. Índice = nível de distorção.
 RATIONALIZATIONS = {
@@ -72,6 +79,10 @@ class Ledger:
         self.facts: dict[int, dict] = {}
         self.beliefs: dict[tuple[str, int], dict] = {}
         self.relations: dict[tuple[str, str], dict] = {}
+        # Recursos e burocracia: o mínimo para que adquirir_recurso e
+        # estabelecer_identidade deixem de ser rótulos inertes.
+        self.resources: dict[str, float] = {}
+        self.paperwork: dict[str, int] = {}
         self._fact_buffer: list[tuple] = []
 
     # -- verdade ------------------------------------------------------------
@@ -162,7 +173,7 @@ class Ledger:
             out.append((fact_id, belief))
         return out
 
-    def gossip(self, speaker: str, listener: str, tick: int) -> int | None:
+    def gossip(self, speaker: str, listener: str, tick: int) -> tuple[int, float] | None:
         rel = self.relation(speaker, listener)
         candidates = self._transmittable(speaker)
         if not candidates:
@@ -185,12 +196,15 @@ class Ledger:
         existing = self.beliefs.get(key)
         if existing:
             # Ouvir de novo reforça o que já se acredita; não converte.
+            before = existing["confidence"]
             existing["confidence"] = min(
                 1.0, max(existing["confidence"], heard_confidence * 0.9)
             )
+            delta = existing["confidence"] - before
             existing["salience"] = min(1.0, existing["salience"] + SALIENCE_ON_REACTIVATION)
         else:
             fact = self.facts[fact_id]
+            delta = heard_confidence   # crença nova: de zero ao que ouviu
             self.beliefs[key] = {
                 "agent_id": listener, "fact_id": fact_id,
                 "confidence": heard_confidence,
@@ -204,7 +218,7 @@ class Ledger:
         source_belief["salience"] = min(
             1.0, source_belief["salience"] + SALIENCE_ON_REACTIVATION * 0.5
         )
-        return fact_id
+        return fact_id, delta
 
     # -- relações -----------------------------------------------------------
 
@@ -217,11 +231,15 @@ class Ledger:
             self.relations[key] = rel
         return rel
 
-    def on_encounter(self, a: str, b: str, tick: int) -> None:
+    def on_encounter(self, a: str, b: str, tick: int,
+                     present: list[str] | None = None) -> list[int]:
+        """Atualiza a relação e devolve fatos que o próprio mundo gerou."""
         rel = self.relation(a, b)
         rel["trust"] = min(1.0, rel["trust"] + TRUST_ON_CONTACT)
         rel["affect"] = max(-1.0, min(1.0, rel["affect"] + AFFECT_ON_CONTACT))
         rel["last_contact_tick"] = tick
+        born: list[int] = []
+        witnesses = sorted(set(present or []) | {a, b})
 
         # Ralo simbólico de tensão. O portão da Fase 3 exige tensão oscilando,
         # mas antes do LLM nada a reduz — sem isto o critério é inalcançável por
@@ -229,6 +247,40 @@ class Ledger:
         if rel["tension"] >= TENSION_CONFRONT_THRESHOLD:
             rel["tension"] *= (1.0 - TENSION_DISCHARGE)
             rel["affect"] = max(-1.0, rel["affect"] - 0.05)
+            # O confronto deixa marca: quem viu, viu.
+            fid = self.add_fact(tick, a, "brigou_com", b, "privado", witnesses)
+            for w in witnesses:
+                self.witness(w, fid, tick)
+            born.append(fid)
+
+        # Vínculo que se firma também é fato, e uma única vez.
+        if (not rel.get("bonded") and rel["affect"] >= BOND_AFFECT
+                and rel["trust"] >= BOND_TRUST):
+            rel["bonded"] = True
+            fid = self.add_fact(tick, a, "ama", b, "privado", [a, b])
+            for w in (a, b):
+                self.witness(w, fid, tick)
+            born.append(fid)
+
+        return born
+
+    def on_activity(self, agent_id: str, activity: str, location_id: str | None,
+                    tick: int) -> int | None:
+        """O trabalho paga, a vida gasta, e o cartório é lento."""
+        if activity == "trabalhar":
+            self.resources[agent_id] = self.resources.get(agent_id, 0.0) + 1.2
+        elif activity in ("comer", "compras", "beber"):
+            self.resources[agent_id] = max(0.0, self.resources.get(agent_id, 0.0) - 2.5)
+
+        if location_id == "registro" and activity not in ("dormir", "em_transito"):
+            n = self.paperwork.get(agent_id, 0) + 1
+            self.paperwork[agent_id] = n
+            if n == 8:
+                fid = self.add_fact(tick, agent_id, "possui_documento",
+                                    "registro_civil", "publico", [agent_id])
+                self.witness(agent_id, fid, tick)
+                return fid
+        return None
 
     def daily_upkeep(self, tick: int) -> None:
         for belief in self.beliefs.values():

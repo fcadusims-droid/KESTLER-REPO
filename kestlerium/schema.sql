@@ -151,3 +151,20 @@ CREATE TABLE IF NOT EXISTS relation (
 CREATE INDEX IF NOT EXISTS idx_belief_fact  ON belief(fact_id);
 CREATE INDEX IF NOT EXISTS idx_belief_agent ON belief(agent_id);
 CREATE INDEX IF NOT EXISTS idx_fact_subject ON fact(subject);
+
+-- ===========================================================================
+-- FASE 3 — pressão
+-- ===========================================================================
+CREATE TABLE IF NOT EXISTS pressure_event (
+    id          INTEGER PRIMARY KEY AUTOINCREMENT,
+    tick        INTEGER NOT NULL,
+    day         INTEGER NOT NULL,
+    agent_a     TEXT NOT NULL,
+    agent_b     TEXT NOT NULL,
+    location_id TEXT,
+    channel     TEXT NOT NULL,
+    value       REAL NOT NULL,
+    de REAL, co REAL, cr REAL, re REAL, ta REAL,  -- componentes, para diagnóstico
+    participants_json TEXT                        -- quem estava na cena
+);
+CREATE INDEX IF NOT EXISTS idx_pressure_day ON pressure_event(day);

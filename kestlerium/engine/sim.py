@@ -20,6 +20,7 @@ from random import Random
 
 from . import clock as clockmod
 from .ledger import Ledger
+from .pressure import PressureDetector
 from .world import Agent, World
 
 TICKS_PER_DAY = clockmod.TICKS_PER_DAY
@@ -100,6 +101,10 @@ class Simulation:
 
         self.ledger = Ledger(conn, self.rng, world.agents)
         self._pending_seeds = self._load_seed_facts()
+        self.detector: PressureDetector | None = None
+        # Objetivos nascem com os fatos: ninguém tem o objetivo de ocultar
+        # antes de existir algo a ocultar.
+        self.on_new_facts = None
 
     def _load_seed_facts(self) -> dict[int, list[dict]]:
         """Fatos plantados, indexados pelo tick em que entram no mundo."""
@@ -113,7 +118,8 @@ class Simulation:
         return by_tick
 
     def _plant_facts(self, tick: int) -> None:
-        for spec in self._pending_seeds.pop(tick, []):
+        planted = self._pending_seeds.pop(tick, [])
+        for spec in planted:
             fact_id = self.ledger.add_fact(
                 tick, spec["subject"], spec["predicate"], spec.get("object"),
                 spec["visibility"], spec["witnesses"],
@@ -123,6 +129,8 @@ class Simulation:
                 agent = self.world.agents.get(witness)
                 if agent is not None and tick >= agent.arrival_tick:
                     self.ledger.witness(witness, fact_id, tick)
+        if planted and self.on_new_facts is not None:
+            self.on_new_facts()
 
     # -- movimento ----------------------------------------------------------
 
@@ -225,7 +233,7 @@ class Simulation:
                 by_location.setdefault(rt.location, []).append(rt.agent.id)
 
         current: set[tuple[str, str]] = set()
-        fresh: list[tuple[str, str]] = []
+        fresh: list[tuple[str, str, str]] = []
 
         for location_id, occupants in by_location.items():
             occupants.sort()
@@ -249,7 +257,7 @@ class Simulation:
                         self._encounter_buffer.append(
                             (tick, location_id, "presencial", a, b)
                         )
-                        fresh.append(pair)
+                        fresh.append((*pair, "presencial"))
 
         # Contato terminou quando o par se desfez.
         self._contact_active &= current
@@ -269,7 +277,7 @@ class Simulation:
                         self._encounter_buffer.append(
                             (tick, rt.location, "rede", pair[0], pair[1])
                         )
-                        fresh.append(pair)
+                        fresh.append((*pair, "rede"))
 
         self._previous_pairs = current
         return fresh
@@ -289,17 +297,38 @@ class Simulation:
             ]
             for rt in active:
                 self._step_agent(rt, tick)
+                got = self.ledger.on_activity(
+                    rt.agent.id, rt.activity, rt.location, tick)
+                if got is not None and self.on_new_facts is not None:
+                    self.on_new_facts()
                 if self.record_states:
                     self._state_buffer.append(
                         (rt.agent.id, tick, rt.location, rt.activity,
                          json.dumps(rt.needs))
                     )
 
-            for a, b in self._detect_encounters(tick, active):
-                self.ledger.on_encounter(a, b, tick)
+            here = {}
+            for rt in active:
+                if rt.location:
+                    here.setdefault(rt.location, []).append(rt.agent.id)
+
+            for a, b, channel in self._detect_encounters(tick, active):
+                loc_a = self.runtime[a].location
+                # Lido ANTES do encontro: depois dele o intervalo seria zero.
+                previous_contact = self.ledger.relation(a, b)["last_contact_tick"]
+                born = self.ledger.on_encounter(a, b, tick, here.get(loc_a, []))
+                if born and self.on_new_facts is not None:
+                    self.on_new_facts()
                 # Conversa tem dois lados: cada um pode contar ao outro.
-                self.ledger.gossip(a, b, tick)
-                self.ledger.gossip(b, a, tick)
+                deltas = []
+                for speaker, listener in ((a, b), (b, a)):
+                    told = self.ledger.gossip(speaker, listener, tick)
+                    if told:
+                        deltas.append(told)
+                if self.detector is not None:
+                    loc = self.runtime[a].location or self.runtime[b].location
+                    self.detector.score(tick, a, b, loc, channel, deltas,
+                                        previous_contact, here.get(loc_a, []))
 
             if tick % TICKS_PER_DAY == 0:
                 self.ledger.daily_upkeep(tick)
@@ -309,6 +338,8 @@ class Simulation:
 
         self._flush()
         self.ledger.flush()
+        if self.detector is not None:
+            self.detector.flush(self.conn)
         elapsed = time.perf_counter() - started
 
         self.conn.execute(
