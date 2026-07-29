@@ -23,6 +23,7 @@ from random import Random
 from . import clock as clockmod
 from .knowing import Knowledge
 from .ledger import Ledger
+from .pacing import Governor
 from .pressure import PressureDetector
 from .world import Agent, World
 
@@ -108,6 +109,7 @@ class Simulation:
         self.world_name = world_name
         self._pending_seeds = self._load_seed_facts()
         self.detector: PressureDetector | None = None
+        self.governor: Governor | None = None
         # Objetivos nascem com os fatos: ninguém tem o objetivo de ocultar
         # antes de existir algo a ocultar.
         self.on_new_facts = None
@@ -368,11 +370,19 @@ class Simulation:
                         deltas.append(told)
                 if self.detector is not None:
                     loc = self.runtime[a].location or self.runtime[b].location
-                    self.detector.score(tick, a, b, loc, channel, deltas,
-                                        previous_contact, here.get(loc_a, []))
+                    ev = self.detector.score(tick, a, b, loc, channel, deltas,
+                                             previous_contact, here.get(loc_a, []))
+                    # Limiar baixo de propósito: quem decide o que vale contar é o
+                    # governador, não o detector. Filtrar cedo demais aqui
+                    # esvaziava a fila e o orçamento de beats nunca era usado.
+                    if self.governor is not None and ev.value > 0.004:
+                        self.governor.offer(ev)
 
             if tick % TICKS_PER_DAY == 0:
                 self.ledger.daily_upkeep(tick)
+                dia = tick // TICKS_PER_DAY
+                if self.governor is not None and dia and dia % 7 == 0:
+                    self.governor.close_week(dia)
 
             if len(self._state_buffer) > 40_000:
                 self._flush()
@@ -382,6 +392,8 @@ class Simulation:
         self.knowing.flush()
         if self.detector is not None:
             self.detector.flush(self.conn)
+        if self.governor is not None:
+            self.governor.flush(self.conn)
         elapsed = time.perf_counter() - started
 
         self.conn.execute(

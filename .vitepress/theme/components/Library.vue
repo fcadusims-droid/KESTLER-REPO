@@ -45,6 +45,16 @@ const nothing = computed(() => visibleGroups.value.length === 0)
         stories, fanfiction and game design documents. Choose a universe to begin reading.
       </p>
 
+      <!-- withBase, never a hardcoded path: the base is derived from the repo
+           name in CI, and a literal "/KESTLER-REPO/" here silently breaks the
+           door if the repo is ever renamed or moved to a custom domain. The
+           same class of bug already broke this site once, over letter case. -->
+      <a class="archive-porta" :href="withBase('/kestlerium/')">
+        <span class="archive-porta-dot"></span>
+        Kestlerium — o mundo está acontecendo agora
+        <span class="archive-porta-seta">→</span>
+      </a>
+
       <div class="archive-controls">
         <input
           v-model="query"

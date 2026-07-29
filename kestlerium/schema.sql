@@ -22,7 +22,9 @@ CREATE TABLE IF NOT EXISTS location (
     capacity  INTEGER NOT NULL,
     connected INTEGER NOT NULL, -- 1 = tem rede; canal de encontro das entidades
     shared    INTEGER NOT NULL, -- 1 = espaço comum; 0 = moradia (unidades privadas)
-    food      INTEGER NOT NULL DEFAULT 0  -- 1 = onde se come
+    food      INTEGER NOT NULL DEFAULT 0, -- 1 = onde se come
+    x         REAL NOT NULL DEFAULT 50,   -- planta baixa, grade 0..100
+    y         REAL NOT NULL DEFAULT 50    -- só visual; o motor usa o grafo
 );
 
 -- Grafo de deslocamento. Gravado nas duas direções na carga.
@@ -166,7 +168,8 @@ CREATE TABLE IF NOT EXISTS pressure_event (
     channel     TEXT NOT NULL,
     value       REAL NOT NULL,
     de REAL, co REAL, cr REAL, re REAL, ta REAL,  -- componentes, para diagnóstico
-    participants_json TEXT                        -- quem estava na cena
+    participants_json TEXT,                       -- quem estava na cena
+    facts_json        TEXT                        -- quais fatos o evento moveu
 );
 CREATE INDEX IF NOT EXISTS idx_pressure_day ON pressure_event(day);
 
@@ -188,3 +191,127 @@ CREATE TABLE IF NOT EXISTS knowledge (
     PRIMARY KEY (agent_id, concept)
 );
 CREATE INDEX IF NOT EXISTS idx_knowledge_concept ON knowledge(concept);
+
+-- ===========================================================================
+-- FASE 4 — governador de ritmo
+-- ===========================================================================
+-- O que o mundo decidiu contar, e por qual pontuação. O registro importa tanto
+-- quanto a decisão: sem ele, um cronograma ruim é impossível de explicar depois.
+CREATE TABLE IF NOT EXISTS scheduled (
+    id                INTEGER PRIMARY KEY AUTOINCREMENT,
+    tick              INTEGER NOT NULL,
+    day               INTEGER NOT NULL,
+    kind              TEXT NOT NULL,   -- cena | beat
+    participants_json TEXT NOT NULL,
+    facts_json        TEXT NOT NULL,   -- fatos movidos: é o que dá fio ao momento
+    pressure          REAL NOT NULL,   -- pressão crua do evento
+    score             REAL NOT NULL,   -- pressão + o que a espera acrescentou
+    reason            TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_scheduled_day ON scheduled(day);
+
+-- ===========================================================================
+-- FASE 8 — o cronista
+-- ===========================================================================
+-- Um fio é uma linha narrativa com identidade própria: nasce num fato, passa
+-- por momentos, e termina — ou esfria, que é um final também.
+--
+-- Existe como tabela, e não como consulta feita na hora, por uma razão dura:
+-- `agent_state` e `pressure_event` são podados a cada publicação para o banco
+-- caber no repositório. O que o mundo já contou não pode depender de dados que
+-- serão apagados amanhã. O fio é memória; o rastro é diagnóstico.
+CREATE TABLE IF NOT EXISTS thread (
+    id           INTEGER PRIMARY KEY AUTOINCREMENT,
+    root_fact_id INTEGER,          -- NULL = fio sem fato (só relação)
+    title        TEXT NOT NULL,
+    opened_day   INTEGER NOT NULL,
+    last_day     INTEGER NOT NULL,
+    status       TEXT NOT NULL,    -- aberto | adormecido | resolvido
+    UNIQUE (root_fact_id)
+);
+
+CREATE TABLE IF NOT EXISTS thread_entry (
+    id           INTEGER PRIMARY KEY AUTOINCREMENT,
+    thread_id    INTEGER NOT NULL,
+    day          INTEGER NOT NULL,
+    tick         INTEGER NOT NULL,
+    kind         TEXT NOT NULL,    -- abertura | cena | beat | fecho
+    participants_json TEXT NOT NULL,
+    pressure     REAL NOT NULL,
+    text         TEXT NOT NULL     -- prosa gerada sem LLM, do estado
+);
+CREATE INDEX IF NOT EXISTS idx_thread_entry ON thread_entry(thread_id, day);
+
+-- A fila do governador precisa sobreviver ao runner. No modo real cada
+-- execução avança poucos ticks e morre; uma fila só em memória perderia todo
+-- evento adiado, e o bônus de espera — que existe justamente para o assunto
+-- adiado voltar mais forte semanas depois — nunca teria efeito nenhum.
+CREATE TABLE IF NOT EXISTS queued (
+    id                INTEGER PRIMARY KEY AUTOINCREMENT,
+    tick              INTEGER NOT NULL,
+    day               INTEGER NOT NULL,
+    participants_json TEXT NOT NULL,
+    facts_json        TEXT NOT NULL,
+    pressure          REAL NOT NULL,
+    agent_a           TEXT NOT NULL,
+    agent_b           TEXT NOT NULL
+);
+
+-- Descanso por personagem, também entre execuções: sem isto o mesmo agente
+-- entraria em cena todo dia, que é exatamente o protagonista acidental que a
+-- Fase 4 existe para impedir.
+CREATE TABLE IF NOT EXISTS rest (
+    agent_id   TEXT NOT NULL,
+    kind       TEXT NOT NULL,   -- cena | beat
+    last_day   INTEGER NOT NULL,
+    PRIMARY KEY (agent_id, kind)
+);
+
+-- ===========================================================================
+-- FASE 5 — narração
+-- ===========================================================================
+-- Cache indexado pelo hash do pedido. Obrigatório desde o primeiro dia: com
+-- modelo aberto em CPU a geração custa minutos por beat, então reprocessar é
+-- inviável — e sem cache o replay determinístico morre junto, porque o mundo
+-- deixaria de ser função da seed.
+--
+-- `rejeicoes_json` guarda por que uma saída foi recusada. É esse registro que
+-- vai decidir qual modelo aberto usar: a métrica que importa é taxa de saída
+-- válida no contrato, não qualidade de prosa.
+CREATE TABLE IF NOT EXISTS narration_cache (
+    hash           TEXT PRIMARY KEY,
+    tick           INTEGER NOT NULL,
+    day            INTEGER NOT NULL,
+    texto          TEXT NOT NULL,
+    deltas_json    TEXT NOT NULL,
+    origem         TEXT NOT NULL,   -- modelo | neutro
+    tentativas     INTEGER NOT NULL,
+    rejeicoes_json TEXT NOT NULL
+);
+
+-- ===========================================================================
+-- FASE 7 — deriva de identidade
+-- ===========================================================================
+-- A constituição fica em `agent` e nunca muda. A âncora guarda o hash dela na
+-- primeira execução: é assim que se PROVA depois que ninguém foi reescrito.
+-- Conferir recalculando na hora não provaria nada — compararia o valor com
+-- ele mesmo.
+CREATE TABLE IF NOT EXISTS identity_anchor (
+    agent_id          TEXT PRIMARY KEY,
+    constitution_hash TEXT NOT NULL,
+    arrival_tick      INTEGER NOT NULL
+);
+
+-- Cada passo que um agente deu depois de chegar, com a causa colada nele.
+-- Deriva sem causa citada não é desenvolvimento: é o estado escorregando, e é
+-- assim que um personagem vira outro sem ninguém conseguir apontar quando.
+CREATE TABLE IF NOT EXISTS trajectory (
+    id        INTEGER PRIMARY KEY AUTOINCREMENT,
+    agent_id  TEXT NOT NULL,
+    tick      INTEGER NOT NULL,
+    day       INTEGER NOT NULL,
+    dimension TEXT NOT NULL,   -- crenca | conhecimento
+    cause     TEXT NOT NULL,   -- fato:<id> | conceito:<nome>
+    source    TEXT NOT NULL    -- quem ensinou/contou, ou como veio
+);
+CREATE INDEX IF NOT EXISTS idx_trajectory ON trajectory(agent_id, day);

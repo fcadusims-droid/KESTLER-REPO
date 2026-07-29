@@ -410,3 +410,39 @@
     font-size: 16px;
   }
 }
+
+/* Porta do Kestlerium na home do arquivo. O ponto pulsa porque o mundo do
+   outro lado não para quando ninguém está olhando. */
+.archive-porta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1.8rem;
+  padding: 0.6rem 1.2rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.archive-porta:hover {
+  border-color: var(--vp-c-brand-2);
+  transform: translateY(-2px);
+}
+.archive-porta-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10b981;
+  animation: kestlerium-pulso 2.4s ease-in-out infinite;
+}
+.archive-porta-seta { color: var(--vp-c-brand-1); }
+@keyframes kestlerium-pulso {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .archive-porta-dot { animation: none; }
+}

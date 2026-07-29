@@ -109,11 +109,13 @@ def load(conn: sqlite3.Connection, world_name: str = DEFAULT_WORLD) -> World:
     cast_doc = json.loads((src / "cast.json").read_text(encoding="utf-8"))
 
     conn.executemany(
-        "INSERT OR REPLACE INTO location (id, name, kind, capacity, connected, shared, food)"
-        " VALUES (?, ?, ?, ?, ?, ?, ?)",
+        "INSERT OR REPLACE INTO location"
+        " (id, name, kind, capacity, connected, shared, food, x, y)"
+        " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
         [
             (loc["id"], loc["name"], loc["kind"], loc["capacity"],
-             loc["connected"], loc["shared"], loc.get("food", 0))
+             loc["connected"], loc["shared"], loc.get("food", 0),
+             loc.get("x", 50), loc.get("y", 50))
             for loc in locations_doc["locations"]
         ],
     )
@@ -165,13 +167,43 @@ def load(conn: sqlite3.Connection, world_name: str = DEFAULT_WORLD) -> World:
         " VALUES (?, ?, ?, ?, ?, ?, ?)",
         agent_rows,
     )
-    conn.execute("DELETE FROM routine")
+    # A rotina do elenco fundador é regravada a cada carga, mas só a dele:
+    # apagar a tabela inteira apagaria junto a rotina de quem chegou depois,
+    # que não está em cast.json nenhum.
+    conn.executemany("DELETE FROM routine WHERE agent_id = ?",
+                     [(a,) for a in agents])
     conn.executemany(
         "INSERT INTO routine (agent_id, start_tod, end_tod, location_id, activity)"
         " VALUES (?, ?, ?, ?, ?)",
         routine_rows,
     )
     conn.commit()
+
+    # Quem chegou depois. `cast.json` é a população fundadora do lugar; um
+    # personagem que entrou por declaração na própria obra existe só no banco,
+    # e sem esta leitura ele ficaria gravado na tabela `agent` sem nunca
+    # aparecer no mundo: sem rotina carregada, sem posição, sem encontro.
+    for row in conn.execute("SELECT * FROM agent"):
+        if row["id"] in agents:
+            continue
+        rotina = [(r["start_tod"], r["end_tod"], r["location_id"], r["activity"])
+                  for r in conn.execute(
+                      "SELECT * FROM routine WHERE agent_id = ?", (row["id"],))]
+        try:
+            constituicao = json.loads(row["constitution_json"])
+        except (json.JSONDecodeError, TypeError):
+            constituicao = row["constitution_json"]
+        if isinstance(constituicao, dict):
+            texto = constituicao.get("text", "")
+            anomalia = constituicao.get("anomaly")
+        else:
+            texto, anomalia = str(constituicao), None
+        agents[row["id"]] = Agent(
+            id=row["id"], name=row["name"], origin=row["origin"],
+            kind=row["kind"], arrival_tick=row["arrival_tick"],
+            home=row["home_location_id"], anomaly=anomalia,
+            constitution=texto, schedule=_expand_schedule(rotina),
+        )
 
     locations = {row["id"]: row for row in conn.execute("SELECT * FROM location")}
     neighbors: dict[str, dict[str, int]] = {}

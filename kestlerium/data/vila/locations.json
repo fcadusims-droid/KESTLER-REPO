@@ -9,7 +9,9 @@
       "capacity": 10,
       "connected": 1,
       "shared": 0,
-      "food": 0
+      "food": 0,
+      "x": 22,
+      "y": 34
     },
     {
       "id": "pensao",
@@ -18,7 +20,9 @@
       "capacity": 6,
       "connected": 1,
       "shared": 0,
-      "food": 0
+      "food": 0,
+      "x": 16,
+      "y": 62
     },
     {
       "id": "mercearia",
@@ -27,7 +31,9 @@
       "capacity": 10,
       "connected": 1,
       "shared": 1,
-      "food": 1
+      "food": 1,
+      "x": 34,
+      "y": 56
     },
     {
       "id": "bar",
@@ -36,7 +42,9 @@
       "capacity": 11,
       "connected": 1,
       "shared": 1,
-      "food": 1
+      "food": 1,
+      "x": 30,
+      "y": 16
     },
     {
       "id": "posto",
@@ -45,7 +53,9 @@
       "capacity": 14,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 66,
+      "y": 66
     },
     {
       "id": "oficina",
@@ -54,7 +64,9 @@
       "capacity": 7,
       "connected": 0,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 82,
+      "y": 34
     },
     {
       "id": "praca",
@@ -63,7 +75,9 @@
       "capacity": 24,
       "connected": 0,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 50,
+      "y": 44
     },
     {
       "id": "ponto",
@@ -72,7 +86,9 @@
       "capacity": 17,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 72,
+      "y": 18
     },
     {
       "id": "igreja",
@@ -81,7 +97,9 @@
       "capacity": 36,
       "connected": 0,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 48,
+      "y": 76
     },
     {
       "id": "escola",
@@ -90,7 +108,9 @@
       "capacity": 26,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 66,
+      "y": 12
     },
     {
       "id": "beira",
@@ -99,7 +119,9 @@
       "capacity": 31,
       "connected": 0,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 14,
+      "y": 12
     }
   ],
   "_edges_nota": "Vila é pé, não metrô: quase tudo a um tick. A praça é o centro — tudo passa por ela, o que faz dela o lugar onde a fofoca atravessa de uma ponta à outra.",
@@ -201,5 +223,6 @@
     ]
   ],
   "_dispersao": "Onze locais para dez pessoas. Vila e densa por natureza — todo mundo se cruza — e capacidade grande em espaco aberto (igreja, corrego, praca) e o que faz duas pessoas estarem no mesmo lugar sem estarem na mesma conversa.",
-  "_capacidade": "Fator 1.2 sobre as capacidades originais — escolhido por varredura, nao por chute. Mas ver a nota sobre instabilidade em VALIDATION.md: com dez moradores a vila e pequena demais para os portoes serem estaveis, e este numero e o melhor equilibrio de uma faixa que oscila muito."
+  "_capacidade": "Fator 1.2 sobre as capacidades originais — escolhido por varredura, nao por chute. Mas ver a nota sobre instabilidade em VALIDATION.md: com dez moradores a vila e pequena demais para os portoes serem estaveis, e este numero e o melhor equilibrio de uma faixa que oscila muito.",
+  "_planta": "x,y em grade 0..100 para a planta baixa. So visual — o motor usa o grafo de arestas."
 }

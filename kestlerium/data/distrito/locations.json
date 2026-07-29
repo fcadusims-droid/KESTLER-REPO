@@ -8,7 +8,9 @@
       "capacity": 12,
       "connected": 1,
       "shared": 0,
-      "food": 0
+      "food": 0,
+      "x": 20,
+      "y": 30
     },
     {
       "id": "pensao",
@@ -17,7 +19,9 @@
       "capacity": 8,
       "connected": 0,
       "shared": 0,
-      "food": 0
+      "food": 0,
+      "x": 14,
+      "y": 66
     },
     {
       "id": "cafe",
@@ -26,7 +30,9 @@
       "capacity": 10,
       "connected": 1,
       "shared": 1,
-      "food": 1
+      "food": 1,
+      "x": 38,
+      "y": 20
     },
     {
       "id": "mercado",
@@ -35,7 +41,9 @@
       "capacity": 20,
       "connected": 1,
       "shared": 1,
-      "food": 1
+      "food": 1,
+      "x": 38,
+      "y": 52
     },
     {
       "id": "metro",
@@ -44,7 +52,9 @@
       "capacity": 40,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 54,
+      "y": 40
     },
     {
       "id": "parque",
@@ -53,7 +63,9 @@
       "capacity": 25,
       "connected": 0,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 30,
+      "y": 80
     },
     {
       "id": "hospital",
@@ -62,7 +74,9 @@
       "capacity": 30,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 78,
+      "y": 26
     },
     {
       "id": "delegacia",
@@ -71,7 +85,9 @@
       "capacity": 15,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 86,
+      "y": 52
     },
     {
       "id": "biblioteca",
@@ -80,7 +96,9 @@
       "capacity": 18,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 62,
+      "y": 66
     },
     {
       "id": "bar",
@@ -89,7 +107,9 @@
       "capacity": 14,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 22,
+      "y": 50
     },
     {
       "id": "canteiro",
@@ -98,7 +118,9 @@
       "capacity": 12,
       "connected": 0,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 70,
+      "y": 84
     },
     {
       "id": "registro",
@@ -107,7 +129,9 @@
       "capacity": 10,
       "connected": 1,
       "shared": 1,
-      "food": 0
+      "food": 0,
+      "x": 76,
+      "y": 10
     }
   ],
   "_edges_nota": "travel_ticks em unidades de 30 min. Gravado nos dois sentidos na carga. O metrô é o hub: quase tudo passa por ele, o que concentra encontros de passagem sem forçar convivência.",

@@ -74,6 +74,10 @@ class PressureEvent:
     value: float
     parts: dict = field(default_factory=dict)
     participants: list = field(default_factory=list)
+    # Quais fatos este evento moveu. Sem isto o cronista da Fase 8 vê um monte
+    # de momentos soltos e nenhum fio: o fato é o que amarra segunda-feira ao
+    # mês seguinte.
+    facts: list = field(default_factory=list)
 
 
 class PressureDetector:
@@ -217,6 +221,7 @@ class PressureDetector:
             # por isso que sete picos podem envolver o elenco inteiro em vez de
             # exigirem setenta.
             participants=sorted(set(present or []) | {a, b}),
+            facts=sorted({fid for fid, _ in deltas}),
         )
         self.events.append(event)
         return event
@@ -224,12 +229,14 @@ class PressureDetector:
     def flush(self, conn) -> None:
         conn.executemany(
             "INSERT INTO pressure_event (tick, day, agent_a, agent_b, location_id,"
-            " channel, value, de, co, cr, re, ta, participants_json)"
-            " VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            " channel, value, de, co, cr, re, ta, participants_json, facts_json)"
+            " VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
             [
                 (e.tick, e.day, e.agent_a, e.agent_b, e.location_id, e.channel,
                  e.value, e.parts["dE"], e.parts["CO"], e.parts["CR"],
-                 e.parts["RE"], e.parts["TA"], __import__("json").dumps(e.participants))
+                 e.parts["RE"], e.parts["TA"],
+                 __import__("json").dumps(e.participants),
+                 __import__("json").dumps(e.facts))
                 for e in self.events
             ],
         )
