@@ -266,3 +266,25 @@ CREATE TABLE IF NOT EXISTS rest (
     last_day   INTEGER NOT NULL,
     PRIMARY KEY (agent_id, kind)
 );
+
+-- ===========================================================================
+-- FASE 5 — narração
+-- ===========================================================================
+-- Cache indexado pelo hash do pedido. Obrigatório desde o primeiro dia: com
+-- modelo aberto em CPU a geração custa minutos por beat, então reprocessar é
+-- inviável — e sem cache o replay determinístico morre junto, porque o mundo
+-- deixaria de ser função da seed.
+--
+-- `rejeicoes_json` guarda por que uma saída foi recusada. É esse registro que
+-- vai decidir qual modelo aberto usar: a métrica que importa é taxa de saída
+-- válida no contrato, não qualidade de prosa.
+CREATE TABLE IF NOT EXISTS narration_cache (
+    hash           TEXT PRIMARY KEY,
+    tick           INTEGER NOT NULL,
+    day            INTEGER NOT NULL,
+    texto          TEXT NOT NULL,
+    deltas_json    TEXT NOT NULL,
+    origem         TEXT NOT NULL,   -- modelo | neutro
+    tentativas     INTEGER NOT NULL,
+    rejeicoes_json TEXT NOT NULL
+);

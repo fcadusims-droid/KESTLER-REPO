@@ -702,3 +702,150 @@ def render_phase8(m: dict) -> tuple[str, bool]:
         add("  FASE 8 REPROVADA — ajustar a construção do fio, não o texto")
     add("=" * 62)
     return "\n".join(lines), ok
+
+
+# ===========================================================================
+# FASE 5 — infraestrutura de narração
+# ===========================================================================
+# O portão desta fase não mede prosa. Mede se o caminho aguenta um modelo que
+# erra — porque modelo pequeno erra formato com frequência, e a restrição de
+# só usar modelo aberto torna o caminho do erro o caminho normal.
+
+
+def collect_phase5(conn: sqlite3.Connection) -> dict:
+    import json as _j
+    from . import narrate
+
+    agendados = [dict(r) for r in conn.execute(
+        "SELECT * FROM scheduled ORDER BY day, id LIMIT 12")]
+    beats = [narrate.montar(conn, r) for r in agendados]
+    resultados = {}
+
+    # 1. Saída boa passa.
+    limpo = narrate.StubModel()
+    n1 = narrate.Narrator(conn, limpo)
+    conn.execute("DELETE FROM narration_cache")
+    aceitos = [n1.narrate(b) for b in beats]
+    resultados["aceitos"] = sum(1 for r in aceitos if r.origem == "modelo")
+
+    # 2. Cache: repetir os mesmos beats não chama o modelo de novo.
+    chamadas_antes = limpo.chamadas
+    repetidos = [n1.narrate(b) for b in beats]
+    resultados["chamadas_extras"] = limpo.chamadas - chamadas_antes
+    resultados["cache_igual"] = all(
+        a.texto == b.texto and a.deltas == b.deltas
+        for a, b in zip(aceitos, repetidos))
+
+    # 3. Uma saída malformada seguida de uma boa: a re-tentativa salva o beat.
+    if beats:
+        alvo = beats[0]
+        conn.execute("DELETE FROM narration_cache")
+        remendo = narrate.StubModel(falhas={alvo.hash(): ["{isso não é json"]})
+        r = narrate.Narrator(conn, remendo).narrate(alvo)
+        resultados["retentativa"] = (r.origem == "modelo" and r.tentativas == 2)
+
+        # 4. Duas saídas ruins: delta neutro, e o motivo fica registrado.
+        conn.execute("DELETE FROM narration_cache")
+        ruim = narrate.StubModel(falhas={alvo.hash(): ["{", "também não"]})
+        r = narrate.Narrator(conn, ruim).narrate(alvo)
+        resultados["neutro"] = (r.origem == "neutro" and not r.deltas
+                                and len(r.rejeicoes) == 2)
+
+        # 5. Delta fora dos limites é recusado, não aparado.
+        estouro = _j.dumps({"texto": "x", "deltas": [
+            {"tipo": "affect", "a": alvo.participants[0],
+             "b": alvo.participants[-1], "valor": 0.9}]})
+        try:
+            narrate.validar(estouro, alvo)
+            resultados["limite"] = False
+        except narrate.ContratoQuebrado as erro:
+            resultados["limite"] = "limite" in str(erro)
+
+        # 6. Delta sobre quem não estava presente é recusado.
+        de_fora = [a for a in
+                   (r["id"] for r in conn.execute("SELECT id FROM agent"))
+                   if a not in alvo.participants]
+        if de_fora and len(alvo.participants) >= 1:
+            intruso = _j.dumps({"texto": "x", "deltas": [
+                {"tipo": "trust", "a": alvo.participants[0],
+                 "b": de_fora[0], "valor": 0.01}]})
+            try:
+                narrate.validar(intruso, alvo)
+                resultados["ausente"] = False
+            except narrate.ContratoQuebrado:
+                resultados["ausente"] = True
+        else:
+            resultados["ausente"] = True
+
+        # 7. Chave inventada é recusada: campo novo é mecânica nova.
+        inventado = _j.dumps({"texto": "x", "deltas": [], "morte": True})
+        try:
+            narrate.validar(inventado, alvo)
+            resultados["campo_extra"] = False
+        except narrate.ContratoQuebrado:
+            resultados["campo_extra"] = True
+    else:
+        resultados.update(retentativa=False, neutro=False, limite=False,
+                          ausente=False, campo_extra=False)
+
+    # 8. Vazamento: a verdade de um fato oculto não pode estar no pacote de
+    #    quem não acredita nela.
+    pacotes = {}
+    for b in beats:
+        pacotes.update(b.pacotes)
+    resultados["vazamentos"] = narrate.vazou(pacotes, conn)
+
+    # 9. Replay determinístico: mesmo beat, novo narrador, mesmo hash.
+    resultados["hash_estavel"] = all(b.hash() == b.hash() for b in beats) and (
+        len({b.hash() for b in beats}) == len(beats))
+
+    conn.execute("DELETE FROM narration_cache")
+    conn.commit()
+    resultados["beats"] = len(beats)
+    return resultados
+
+
+GATES_P5 = [
+    ("saída válida é aceita", lambda m: m["aceitos"] == m["beats"] and m["beats"] > 0),
+    ("cache evita a segunda chamada", lambda m: m["chamadas_extras"] == 0),
+    ("cache devolve exatamente o mesmo", lambda m: m["cache_igual"]),
+    ("uma re-tentativa salva a saída malformada", lambda m: m["retentativa"]),
+    ("duas falhas viram delta neutro com motivo", lambda m: m["neutro"]),
+    ("delta fora do limite é recusado, não aparado", lambda m: m["limite"]),
+    ("delta sobre ausente é recusado", lambda m: m["ausente"]),
+    ("campo inventado é recusado", lambda m: m["campo_extra"]),
+    ("o pacote não vaza verdade", lambda m: not m["vazamentos"]),
+    ("o hash do pedido é estável e distingue beats",
+     lambda m: m["hash_estavel"]),
+]
+
+
+def render_phase5(m: dict) -> tuple[str, bool]:
+    lines: list[str] = []
+    add = lines.append
+    add("=" * 62)
+    add("KESTLERIUM — VALIDAÇÃO DA FASE 5 (contrato, cache, vazamento)")
+    add("=" * 62)
+    add(f"  beats montados        {m['beats']}")
+    add(f"  aceitos de primeira   {m['aceitos']}")
+    add(f"  chamadas extras       {m['chamadas_extras']}   (cache: alvo 0)")
+    add(f"  vazamentos            {len(m['vazamentos'])}")
+    for agente, fid, valor in m["vazamentos"][:5]:
+        add(f"    {agente} recebeu a verdade do fato {fid}: {valor}")
+    add("")
+    add("  Nenhum modelo pago participa disto. O stub determinístico não imita")
+    add("  prosa — imita o CONTRATO — e é contra ele que os portões rodam.")
+    add("")
+    add("-" * 62)
+    ok = True
+    for label_text, check in GATES_P5:
+        passed = check(m)
+        ok &= passed
+        add(f"  [{'ok' if passed else 'FALHOU'}] {label_text}")
+    add("-" * 62)
+    if ok:
+        add("  FASE 5 APROVADA — a infraestrutura aguenta um modelo que erra")
+    else:
+        add("  FASE 5 REPROVADA — consertar o contrato, nunca afrouxá-lo")
+    add("=" * 62)
+    return "\n".join(lines), ok

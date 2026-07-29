@@ -375,6 +375,27 @@ número que encolhe é entrada lendo o presente.
 E o fecho do fio ganhou tick próprio: ancorado no início do último dia, "o
 assunto se encerrou" saía antes da conversa que o encerrou.
 
+### P34 — O pacote não levava crença nenhuma
+
+O pacote que vai para o modelo mandava `acredita: None` sempre que a crença era
+fiel — só a versão distorcida tinha conteúdo. Um modelo receberia doze crenças
+vazias e teria de inventar o que cada um sabe, que é o oposto do propósito.
+
+Crença fiel é crença: o conteúdo dela vai porque é o que o agente acredita, não
+porque é a verdade. As duas apenas coincidem nesse caso.
+
+### P35 — O detector de vazamento acusava por substring
+
+Ele procurava o objeto secreto no pacote inteiro serializado. Como o objeto de
+"nuno ama sano" é o nome de uma pessoa, qualquer pacote que mencionasse Sano
+por outro motivo aparecia como vazado — dois falsos positivos logo na primeira
+execução.
+
+Saber que Sano existe não é saber que Nuno o ama. A comparação passou a ser por
+campo: `(sujeito, predicado, conteúdo)` da crença contra a assinatura do fato.
+Verificado nos dois sentidos — com um vazamento plantado o portão reprova, e com
+os pacotes reais passa.
+
 ---
 
 ## Estado atual — três fases + verossimilhança
@@ -536,6 +557,7 @@ Fase 1  APROVADA                Fase 1  APROVADA
 Fase 2  APROVADA                Fases 2-4 e 8: não se aplicam
 Fase 3  APROVADA                          (sem drama por projeto)
 Fase 4  APROVADA
+Fase 5  APROVADA (infra)
 Fase 8  APROVADA
 ```
 

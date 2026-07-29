@@ -84,7 +84,7 @@ Orçamento de cenas por semana, tempo de descanso por personagem para impedir
 protagonista acidental, fila com bônus de espera. Sem isto, a narração das
 fases seguintes gasta sem critério.
 
-### E. Fase 5 — Beats narrados (o primeiro LLM)
+### E. Fase 5 — Beats narrados (o primeiro LLM)  ◐ infra pronta, modelo pendente
 
 **Restrição fixada: nada pago.** Só modelo aberto ou camada gratuita. Isso não é
 detalhe de custo — muda a arquitetura, e é melhor decidir agora do que descobrir
@@ -113,6 +113,19 @@ Candidatos a avaliar quando chegar a hora, sem compromisso: modelos abertos na
 faixa 7-14B rodando local, e camadas gratuitas de inferência. A escolha deve ser
 feita medindo **taxa de saída válida no contrato**, não qualidade de prosa — se
 o JSON não fecha, a prosa não importa.
+
+**Construído e validado (`engine/narrate.py`), sem modelo nenhum:** contrato
+JSON estrito, limites por tipo de delta, re-tentativa única, delta neutro no
+fracasso com o motivo registrado, cache indexado por hash e adaptador para
+qualquer endpoint compatível com OpenAI — Ollama, llama.cpp, vLLM ou camada
+gratuita, sem mudar uma linha. Um stub determinístico que imita o *contrato*
+(não a prosa) exercita todos esses caminhos, e é contra ele que o portão roda.
+
+**Falta só escolher e ligar o modelo.** O que o portão já mede: saída válida
+aceita, malformada recuperada por uma re-tentativa, duas falhas viram delta
+neutro, delta fora do limite recusado sem aparar, delta sobre quem não estava
+presente recusado, campo inventado recusado, cache que evita a segunda chamada
+e devolve exatamente o mesmo, e o pacote que não vaza verdade.
 
 ### F. Fase 6 — Cenas encenadas
 

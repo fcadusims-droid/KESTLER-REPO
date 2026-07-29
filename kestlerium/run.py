@@ -126,7 +126,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
          "seed_facts.json").read_text(encoding="utf-8"))
     gates = spec.get("gates", ["1", "2", "3"])
 
-    passed2 = passed3 = passed4 = passed8 = True
+    passed2 = passed3 = passed4 = passed5 = passed8 = True
     if "2" in gates:
         m2 = report.collect_phase2(conn, total_ticks, args.mundo)
         text2, passed2 = report.render_phase2(m2)
@@ -134,7 +134,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
         (OUT / f"fase2_{args.mundo}.txt").write_text(text2, encoding="utf-8")
     else:
         print()
-        faltando = ", ".join(g for g in ("2", "3", "4", "8") if g not in gates)
+        faltando = ", ".join(g for g in ("2", "3", "4", "5", "8") if g not in gates)
         print(f"  Fases {faltando} nao se aplicam a '{args.mundo}':")
         print(f"  {spec.get('_gates_nota','')}")
 
@@ -150,6 +150,11 @@ def cmd_validar(args: argparse.Namespace) -> int:
         text4, passed4 = report.render_phase4(m4)
         print(); print(text4)
         (OUT / f"fase4_{args.mundo}.txt").write_text(text4, encoding="utf-8")
+    if "5" in gates:
+        m5 = report.collect_phase5(conn)
+        text5, passed5 = report.render_phase5(m5)
+        print(); print(text5)
+        (OUT / f"fase5_{args.mundo}.txt").write_text(text5, encoding="utf-8")
     if "8" in gates:
         cronista = chronicle.Chronicler(conn, args.mundo)
         fios = cronista.build(until_day=args.dias)
@@ -160,7 +165,8 @@ def cmd_validar(args: argparse.Namespace) -> int:
         (OUT / f"fase8_{args.mundo}.txt").write_text(text8, encoding="utf-8")
         (OUT / f"cronica_{args.mundo}.md").write_text(
             cronista.markdown(fios, args.dias), encoding="utf-8")
-    passed = passed and passed2 and passed3 and passed4 and passed8
+    passed = (passed and passed2 and passed3 and passed4 and passed5
+              and passed8)
     conn.close()
     return 0 if passed else 1
 
