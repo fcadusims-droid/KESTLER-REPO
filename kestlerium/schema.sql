@@ -21,7 +21,8 @@ CREATE TABLE IF NOT EXISTS location (
     kind      TEXT NOT NULL,   -- residencia | trabalho | social | servico | transito
     capacity  INTEGER NOT NULL,
     connected INTEGER NOT NULL, -- 1 = tem rede; canal de encontro das entidades
-    shared    INTEGER NOT NULL  -- 1 = espaço comum; 0 = moradia (unidades privadas)
+    shared    INTEGER NOT NULL, -- 1 = espaço comum; 0 = moradia (unidades privadas)
+    food      INTEGER NOT NULL DEFAULT 0  -- 1 = onde se come
 );
 
 -- Grafo de deslocamento. Gravado nas duas direções na carga.

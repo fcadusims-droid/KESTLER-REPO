@@ -367,3 +367,102 @@ detector quebrado de mundo calmo.
   onde estranhos se cruzam, mas quem viaja fica sem lugar.
 - `remover_obstaculo` e `reconheceu_origem_de` estão na ontologia e ainda sem
   mecanismo. Declarados para não serem reinventados com outro nome depois.
+
+---
+
+## A vila — a base do mundo
+
+Primeira configuração de produção: dez moradores, onze lugares, nenhum
+personagem de obra. O objetivo é ver o mundo funcionar sozinho antes de povoar.
+
+### P22 — A ordem de uma lista decidia os portões
+
+**Sintoma.** Ao mover os locais para pastas por mundo, `FOOD_LOCATIONS` deixou
+de ser a tupla `("mercado", "cafe")` cravada no motor e passou a vir dos dados,
+ordenada. As Fases 2 e 3 do distrito reprovaram na hora.
+
+**Causa.** `min()` desempata pela ordem de iteração, e vários locais ficam à
+mesma distância. Trocar `("mercado","cafe")` por `("cafe","mercado")` mudava
+metade dos destinos de "comer" — e o mundo inteiro andava junto. Medido: a
+primeira ordem passa nas duas fases, a segunda reprova nas duas.
+
+**Diagnóstico.** Resultado que depende de ordenação alfabética é acidente de
+implementação, não propriedade do mundo. E revela margem estreita nos portões.
+
+**Correção.** Entre os igualmente perto, sorteia. Além de remover o artefato, é
+mais verdadeiro: ninguém almoça no mesmo lugar sempre.
+
+### P23 — O portão da Fase 2 com nome de personagem cravado
+
+`collect_phase2` procurava literalmente por `severin` + `usou_anomalia`. Na
+vila não existe Severin, então o portão respondia "sem segredo plantado" e
+passava em branco sem medir nada. Cada mundo passou a **declarar** nos dados
+qual fato é o seu teste.
+
+Terceira vez que um instrumento meu media a coisa errada. É a categoria de erro
+que mais me custou neste projeto.
+
+### P24 — Fofoca sem lealdade: a vila sabia de tudo
+
+**Sintoma.** O segredo plantado chegava a 100% dos moradores em 60 dias, contra
+56% no distrito.
+
+**Causa.** A decisão de fofocar olhava só a confiança entre quem fala e quem
+ouve. O **sujeito do fato não tinha peso nenhum** — a testemunha espalhava o
+segredo de um amigo de trinta anos como se fosse notícia de jornal.
+
+**Correção.** Afeto pelo sujeito segura a língua. Vila não sustenta segredo
+porque as pessoas se cruzam — sustenta porque elas se protegem.
+
+**Resultado.** Vila 100% → 70%; distrito manteve os portões.
+
+### P25 — Lealdade sem piso travava o mundo
+
+Com lealdade proporcional a qualquer afeto positivo, uma vila onde todos
+convivem há décadas parava de fofocar inteiramente: zero picos, zero elenco
+envolvido. Só amizade de verdade cala a boca; conhecido casual fala. Lealdade
+ganhou piso.
+
+### P26 — Dez moradores não são amostra
+
+Varrendo a densidade da vila, o resultado **não é monotônico**: fator 1.4 dá 20%
+de difusão, 1.5 dá 90%. Com dez pessoas e 45 pares possíveis, qualquer ajuste
+pequeno joga a estatística para qualquer lado.
+
+Os portões medem distribuições. A vila é pequena demais para eles serem
+estáveis — e isso é propriedade da escala, não defeito do motor.
+
+### P27 — Eu estava validando a coisa errada
+
+**O achado que resolveu o impasse.** Eu vinha tentando fazer a vila passar nas
+Fases 2 e 3, ajustando densidade e lealdade sem conseguir fechar as duas ao
+mesmo tempo.
+
+O erro era anterior: **eu tinha dado memória fake aos NPCs.** Biografias densas,
+dívidas ocultas, mentiras, um roubo na oficina. Drama que não é deles.
+
+Os moradores da base **sabem que estão no Kestlerium e que o Kestlerium é um
+mundo digital.** Não escondem nada porque não têm o que esconder. Estão ali para
+sustentar o lugar e ensinar quem chegar. As Fases 2 e 3 medem drama — difusão de
+segredo e pressão narrativa — e a vila da base não tem drama **por projeto**.
+
+Medir drama nela era reprovar um mundo por fazer exatamente o que devia.
+
+**Correção.** Constituições curtas e funcionais; fatos plantados reduzidos ao
+operacional (quem trabalha onde); e cada mundo declara quais portões se aplicam
+a ele. A vila valida a Fase 1 — o lugar funciona — e espera os personagens para
+o resto.
+
+---
+
+## Estado atual
+
+```
+DISTRITO (bancada)              VILA (produção, base)
+Fase 1  APROVADA                Fase 1  APROVADA
+Fase 2  APROVADA                Fases 2-3: não se aplicam
+Fase 3  APROVADA                          (sem drama por projeto)
+```
+
+A vila roda no horário de Brasília. Às 9h de uma quarta: Ruth na mercearia,
+Aurélio e Zé Bruno na oficina, Neide no posto, Djalma no ponto, três em trânsito.

@@ -33,6 +33,8 @@ GOSSIP_BASE_P = 0.22        # chance por encontro de haver transmissão
 CONFIDENCE_DECAY = 0.85     # degradação por salto, conforme o plano
 DISTORTION_P = 0.28         # chance de a versão piorar ao ser repassada
 SALIENCE_TO_GOSSIP = 0.25   # abaixo disso a crença não é interessante o bastante
+LOYALTY_WEIGHT = 0.85       # o quanto o afeto pelo SUJEITO segura a língua
+LOYALTY_FLOOR = 0.30        # abaixo disto é conhecido, não amigo — e conhecido fala
 
 # --- saliência --------------------------------------------------------------
 SALIENCE_DAILY_DECAY = 0.97
@@ -62,6 +64,18 @@ RATIONALIZATIONS = {
     "rede": ["coincidencia", "vazamento_comum", "propaganda_dirigida"],
 }
 DEFAULT_RATIONALIZATION = ["mal_entendido", "boato", "engano"]
+
+
+def loyalty_of(affect: float) -> float:
+    """Quanto o afeto pelo sujeito segura a língua, 0..1.
+
+    Só amizade de verdade cala a boca. Sem o piso, numa vila onde todos
+    convivem há décadas qualquer afeto positivo travava a fofoca inteira e
+    o mundo parava de produzir eventos.
+    """
+    if affect <= LOYALTY_FLOOR:
+        return 0.0
+    return (affect - LOYALTY_FLOOR) / (1.0 - LOYALTY_FLOOR)
 
 
 def pair(a: str, b: str) -> tuple[str, str]:
@@ -182,9 +196,26 @@ class Ledger:
         if self.rng.random() >= p:
             return None
 
-        # Mais saliente, mais provável de ser dito.
-        weights = [b["salience"] for _, b in candidates]
+        # Mais saliente, mais provável de ser dito — mas lealdade segura a
+        # língua. Você não entrega o segredo de quem você gosta.
+        #
+        # Sem isto, a fofoca olhava só a confiança entre quem fala e quem ouve,
+        # e o sujeito do fato não tinha peso nenhum: numa vila de dez pessoas
+        # que se conhecem há décadas, todo segredo chegava a 100% do elenco em
+        # sessenta dias. Vila não sustenta segredo porque as pessoas se cruzam —
+        # sustenta porque elas se protegem.
+        weights = []
+        for fact_id, belief in candidates:
+            subject = self.facts[fact_id]["subject"]
+            loyalty = loyalty_of(self.relation(speaker, subject)["affect"])
+            weights.append(belief["salience"] * max(0.05, 1.0 - LOYALTY_WEIGHT * loyalty))
         fact_id, source_belief = self.rng.choices(candidates, weights=weights, k=1)[0]
+
+        # Um afeto forte pelo sujeito pode simplesmente calar a boca.
+        subject = self.facts[fact_id]["subject"]
+        loyalty = loyalty_of(self.relation(speaker, subject)["affect"])
+        if subject != listener and self.rng.random() < LOYALTY_WEIGHT * loyalty:
+            return None
 
         key = (listener, fact_id)
         heard_confidence = source_belief["confidence"] * CONFIDENCE_DECAY

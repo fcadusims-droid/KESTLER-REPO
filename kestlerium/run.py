@@ -11,6 +11,7 @@ O modo real nunca usa o banco de validação e vice-versa.
 from __future__ import annotations
 
 import argparse
+import pathlib
 import sys
 from pathlib import Path
 
@@ -49,11 +50,11 @@ def _bind_epoch(conn) -> int:
 
 def cmd_validar(args: argparse.Namespace) -> int:
     """Modo rápido: queima os erros de design antes do mundo viver de verdade."""
-    conn = db.connect(TEST_DB, fresh=True)
-    w = world.load(conn)
+    conn = db.connect(OUT / f"validacao_{args.mundo}.db", fresh=True)
+    w = world.load(conn, args.mundo)
     total_ticks = args.dias * clockmod.TICKS_PER_DAY
 
-    sim = Simulation(conn, w, seed=args.seed)
+    sim = Simulation(conn, w, seed=args.seed, world_name=args.mundo)
     from engine.pressure import PressureDetector
 
     # Os fatos entram no mundo no tick deles — plantar tudo de véspera faria
@@ -75,20 +76,30 @@ def cmd_validar(args: argparse.Namespace) -> int:
     text, passed = report.render(metrics, result["wall_seconds"])
     print(text)
 
-    m2 = report.collect_phase2(conn, total_ticks)
-    text2, passed2 = report.render_phase2(m2)
-    print()
-    print(text2)
+    import json as _json
+    spec = _json.loads(
+        (pathlib.Path(__file__).resolve().parent / "data" / args.mundo /
+         "seed_facts.json").read_text(encoding="utf-8"))
+    gates = spec.get("gates", ["1", "2", "3"])
+
+    passed2 = passed3 = True
+    if "2" in gates:
+        m2 = report.collect_phase2(conn, total_ticks, args.mundo)
+        text2, passed2 = report.render_phase2(m2)
+        print(); print(text2)
+        (OUT / f"fase2_{args.mundo}.txt").write_text(text2, encoding="utf-8")
+    else:
+        print()
+        print(f"  Fases 2 e 3 nao se aplicam a '{args.mundo}':")
+        print(f"  {spec.get('_gates_nota','')}")
 
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "fase1.txt").write_text(text, encoding="utf-8")
-    (OUT / "fase2.txt").write_text(text2, encoding="utf-8")
-
-    m3 = report.collect_phase3(conn, total_ticks)
-    text3, passed3 = report.render_phase3(m3)
-    print()
-    print(text3)
-    (OUT / "fase3.txt").write_text(text3, encoding="utf-8")
+    (OUT / f"fase1_{args.mundo}.txt").write_text(text, encoding="utf-8")
+    if "3" in gates:
+        m3 = report.collect_phase3(conn, total_ticks)
+        text3, passed3 = report.render_phase3(m3)
+        print(); print(text3)
+        (OUT / f"fase3_{args.mundo}.txt").write_text(text3, encoding="utf-8")
     passed = passed and passed2 and passed3
     conn.close()
     return 0 if passed else 1
@@ -96,8 +107,8 @@ def cmd_validar(args: argparse.Namespace) -> int:
 
 def cmd_avancar(args: argparse.Namespace) -> int:
     """Modo real: leva o mundo até o instante atual de Brasília."""
-    conn = db.connect(REAL_DB)
-    w = world.load(conn)
+    conn = db.connect(OUT / f"mundo_{args.mundo}.db")
+    w = world.load(conn, args.mundo)
     from_tick = _bind_epoch(conn)
     to_tick = clockmod.RealClock().current_tick()
 
@@ -110,7 +121,7 @@ def cmd_avancar(args: argparse.Namespace) -> int:
     print(f"Kestlerium: {clockmod.label(from_tick)} → {clockmod.label(to_tick)}")
     print(f"Recuperando {behind} tick(s) = {behind * clockmod.TICK_MINUTES / 60:.1f}h de mundo.")
 
-    sim = Simulation(conn, w, seed=args.seed)
+    sim = Simulation(conn, w, seed=args.seed, world_name=args.mundo)
     result = sim.run(from_tick, to_tick, mode="real")
     print(f"Feito em {result['wall_seconds']:.2f}s.")
     conn.close()
@@ -119,7 +130,7 @@ def cmd_avancar(args: argparse.Namespace) -> int:
 
 def cmd_agora(args: argparse.Namespace) -> int:
     """Fotografia do instante: quem está onde, agora."""
-    conn = db.connect(REAL_DB)
+    conn = db.connect(OUT / f"mundo_{args.mundo}.db")
     last = _bind_epoch(conn)
     tick = clockmod.RealClock().current_tick()
     if last <= 0:
@@ -154,6 +165,8 @@ def main() -> int:
 
     def add_common(sp):
         sp.add_argument("--seed", type=int, default=20260729)
+        sp.add_argument("--mundo", default="distrito",
+                        help="distrito (bancada) ou vila (produção)")
         return sp
 
     p = add_common(sub.add_parser("validar", help="roda N dias rápido e mede a Fase 1"))

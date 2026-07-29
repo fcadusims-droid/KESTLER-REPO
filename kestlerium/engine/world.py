@@ -17,6 +17,11 @@ from . import clock as clockmod
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 
+# Um mundo é uma pasta de dados. `distrito` é a bancada de teste (15 pessoas,
+# 12 locais, portões medindo distribuições); `vila` é a produção. Mesmo motor,
+# configurações diferentes — foi para isto que o conteúdo saiu do código.
+DEFAULT_WORLD = "distrito"
+
 # Vem do relógio, nunca cravado aqui: com 48 escrito à mão, mudar TICK_MINUTES
 # quebraria em silêncio as chegadas e as rotinas.
 TICKS_PER_DAY = clockmod.TICKS_PER_DAY
@@ -78,6 +83,12 @@ class World:
                     queue.append(neighbor)
         return dist
 
+    def food_locations(self) -> list[str]:
+        """Onde se come. Vem dos dados: com os IDs cravados no motor,
+        trocar de mundo deixaria todo mundo com fome."""
+        out = [lid for lid, row in self.locations.items() if row["food"]]
+        return sorted(out) or sorted(self.locations)
+
     def locations_of_kind(self, kind: str) -> list[str]:
         return sorted(lid for lid, row in self.locations.items() if row["kind"] == kind)
 
@@ -91,17 +102,18 @@ def _expand_schedule(routine: list) -> dict[int, tuple[str, str]]:
     return schedule
 
 
-def load(conn: sqlite3.Connection) -> World:
+def load(conn: sqlite3.Connection, world_name: str = DEFAULT_WORLD) -> World:
     """Lê os JSON, grava no banco e devolve o mundo em memória."""
-    locations_doc = json.loads((DATA / "locations.json").read_text(encoding="utf-8"))
-    cast_doc = json.loads((DATA / "cast.json").read_text(encoding="utf-8"))
+    src = DATA / world_name
+    locations_doc = json.loads((src / "locations.json").read_text(encoding="utf-8"))
+    cast_doc = json.loads((src / "cast.json").read_text(encoding="utf-8"))
 
     conn.executemany(
-        "INSERT OR REPLACE INTO location (id, name, kind, capacity, connected, shared)"
-        " VALUES (?, ?, ?, ?, ?, ?)",
+        "INSERT OR REPLACE INTO location (id, name, kind, capacity, connected, shared, food)"
+        " VALUES (?, ?, ?, ?, ?, ?, ?)",
         [
             (loc["id"], loc["name"], loc["kind"], loc["capacity"],
-             loc["connected"], loc["shared"])
+             loc["connected"], loc["shared"], loc.get("food", 0))
             for loc in locations_doc["locations"]
         ],
     )
