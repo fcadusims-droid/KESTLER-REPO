@@ -288,3 +288,30 @@ CREATE TABLE IF NOT EXISTS narration_cache (
     tentativas     INTEGER NOT NULL,
     rejeicoes_json TEXT NOT NULL
 );
+
+-- ===========================================================================
+-- FASE 7 — deriva de identidade
+-- ===========================================================================
+-- A constituição fica em `agent` e nunca muda. A âncora guarda o hash dela na
+-- primeira execução: é assim que se PROVA depois que ninguém foi reescrito.
+-- Conferir recalculando na hora não provaria nada — compararia o valor com
+-- ele mesmo.
+CREATE TABLE IF NOT EXISTS identity_anchor (
+    agent_id          TEXT PRIMARY KEY,
+    constitution_hash TEXT NOT NULL,
+    arrival_tick      INTEGER NOT NULL
+);
+
+-- Cada passo que um agente deu depois de chegar, com a causa colada nele.
+-- Deriva sem causa citada não é desenvolvimento: é o estado escorregando, e é
+-- assim que um personagem vira outro sem ninguém conseguir apontar quando.
+CREATE TABLE IF NOT EXISTS trajectory (
+    id        INTEGER PRIMARY KEY AUTOINCREMENT,
+    agent_id  TEXT NOT NULL,
+    tick      INTEGER NOT NULL,
+    day       INTEGER NOT NULL,
+    dimension TEXT NOT NULL,   -- crenca | conhecimento
+    cause     TEXT NOT NULL,   -- fato:<id> | conceito:<nome>
+    source    TEXT NOT NULL    -- quem ensinou/contou, ou como veio
+);
+CREATE INDEX IF NOT EXISTS idx_trajectory ON trajectory(agent_id, day);

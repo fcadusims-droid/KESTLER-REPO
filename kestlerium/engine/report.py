@@ -849,3 +849,224 @@ def render_phase5(m: dict) -> tuple[str, bool]:
         add("  FASE 5 REPROVADA — consertar o contrato, nunca afrouxá-lo")
     add("=" * 62)
     return "\n".join(lines), ok
+
+
+# ===========================================================================
+# FASE 7 — deriva de identidade
+# ===========================================================================
+
+
+def collect_phase7(conn: sqlite3.Connection, to_tick: int) -> dict:
+    from . import identity
+
+    identity.gravar(conn)
+    agents = {r["id"]: dict(r) for r in conn.execute("SELECT * FROM agent")}
+    ativos = {a: r for a, r in agents.items() if r["arrival_tick"] < to_tick}
+
+    # A âncora é escrita uma vez só, então numa base nova o teste de
+    # constituição passaria por construção — instrumento que não pode falhar
+    # não mede nada. Aqui ele é exercitado de verdade: reescreve-se uma
+    # constituição, confere-se que o portão acusa, e desfaz-se.
+    vitima = next(iter(ativos), None)
+    pega_reescrita = False
+    if vitima is not None:
+        original = agents[vitima]["constitution_json"]
+        conn.execute("UPDATE agent SET constitution_json = ? WHERE id = ?",
+                     (original + " (reescrito)", vitima))
+        pega_reescrita = vitima in identity.constituicoes_intactas(conn)
+        conn.execute("UPDATE agent SET constitution_json = ? WHERE id = ?",
+                     (original, vitima))
+        conn.commit()
+
+    derivas = {a: identity.deriva(conn, a, r["arrival_tick"])
+               for a, r in ativos.items()}
+    parados = [a for a, d in derivas.items() if d["passos"] == 0]
+    sem_causa = sum(d["sem_causa"] for d in derivas.values())
+
+    deslocados = [a for a, r in ativos.items() if r["origin"] != "nativo"]
+    nativos = [a for a, r in ativos.items() if r["origin"] == "nativo"]
+
+    def media(quem, campo):
+        vals = [derivas[a][campo] for a in quem]
+        return sum(vals) / len(vals) if vals else 0.0
+
+    return {
+        "agents": agents, "ativos": ativos, "derivas": derivas,
+        "parados": parados,
+        "sem_causa": sem_causa,
+        "constituicoes_quebradas": identity.constituicoes_intactas(conn),
+        "pega_reescrita": pega_reescrita,
+        "deslocados": deslocados, "nativos": nativos,
+        "media_deslocado": media(deslocados, "conceitos"),
+        "media_nativo": media(nativos, "conceitos"),
+        "ensinados": sum(d["aprendeu_com_alguem"] for d in derivas.values()),
+        "total_passos": sum(d["passos"] for d in derivas.values()),
+    }
+
+
+GATES_P7 = [
+    ("nenhuma constituição foi reescrita",
+     lambda m: not m["constituicoes_quebradas"]),
+    # O portão acima só vale se puder reprovar. Este confere que ele reprova.
+    ("o teste de constituição detecta uma reescrita",
+     lambda m: m["pega_reescrita"]),
+    ("toda mudança cita a causa", lambda m: m["sem_causa"] == 0),
+    # Um mundo onde ninguém deriva é um mundo em exibição, não vivo.
+    ("todo mundo derivou alguma coisa", lambda m: not m["parados"]),
+    # A previsão falsificável desta fase: quem chegou de outra obra tem mais o
+    # que aprender do que quem sempre morou aqui. Se não for verdade, a camada
+    # de conhecimento não está fazendo o que diz fazer.
+    ("deslocado aprende mais que nativo",
+     lambda m: not m["deslocados"] or not m["nativos"]
+     or m["media_deslocado"] > m["media_nativo"]),
+    # Só se aplica quando há quem ensinar. Ensinar existe para socorrer quem
+    # chegou sem entender nada; na vila da base todos já sabem como o mundo
+    # funciona, e cobrar aula ali reprovaria um mundo por não ter o problema
+    # que a aula resolve — o mesmo erro que a P27 registrou.
+    ("alguém aprendeu com outra pessoa (se há quem ensinar)",
+     lambda m: not m["deslocados"] or m["ensinados"] > 0),
+]
+
+
+def render_phase7(m: dict) -> tuple[str, bool]:
+    lines: list[str] = []
+    add = lines.append
+    add("=" * 62)
+    add("KESTLERIUM — VALIDAÇÃO DA FASE 7 (deriva de identidade)")
+    add("=" * 62)
+    add(f"  passos registrados    {m['total_passos']}")
+    add(f"  sem causa citada      {m['sem_causa']}   (alvo 0)")
+    add(f"  constituições intactas {len(m['ativos']) - len(m['constituicoes_quebradas'])}"
+        f"/{len(m['ativos'])}")
+    add(f"  conceitos aprendidos por deslocado  {m['media_deslocado']:.1f}")
+    add(f"  conceitos aprendidos por nativo     {m['media_nativo']:.1f}")
+    add("")
+    add("  quanto cada um se afastou de quem chegou")
+    for aid, d in sorted(m["derivas"].items(), key=lambda kv: -kv[1]["passos"])[:14]:
+        origem = m["agents"][aid]["origin"]
+        marca = "" if d["passos"] else "   <- parado"
+        add(f"    {d['passos']:>3} passos  {m['agents'][aid]['name']:<22}"
+            f" {origem}{marca}")
+    add("")
+    add("-" * 62)
+    ok = True
+    for label_text, check in GATES_P7:
+        passed = check(m)
+        ok &= passed
+        add(f"  [{'ok' if passed else 'FALHOU'}] {label_text}")
+    add("-" * 62)
+    if ok:
+        add("  FASE 7 APROVADA — a trajetória muda, a constituição não")
+    else:
+        add("  FASE 7 REPROVADA — ajustar o que causa a mudança, não o registro")
+    add("=" * 62)
+    return "\n".join(lines), ok
+
+
+# ===========================================================================
+# FASE 6 — cenas encenadas
+# ===========================================================================
+
+
+def collect_phase6(conn: sqlite3.Connection) -> dict:
+    from . import narrate, staging
+
+    cenas = [dict(r) for r in conn.execute(
+        "SELECT * FROM scheduled WHERE kind = 'cena' ORDER BY day")]
+    if not cenas:
+        cenas = [dict(r) for r in conn.execute(
+            "SELECT * FROM scheduled ORDER BY day LIMIT 3")]
+    beats = [narrate.montar(conn, r) for r in cenas]
+
+    conn.execute("DELETE FROM narration_cache")
+    modelo = narrate.StubModel()
+    narrador = narrate.Narrator(conn, modelo)
+
+    encenadas = [staging.encenar(narrador, b) for b in beats]
+    vazamentos = []
+    for b, e in zip(beats, encenadas):
+        vazamentos += staging.vazamento_entre_atores(b, e["prompts"])
+
+    # O portão acima só vale se puder reprovar: planta-se a cabeça do vizinho
+    # no prompt de alguém e confere-se que o detector acusa.
+    pega_plantado = True
+    if beats and len(beats[0].participants) >= 2:
+        b = beats[0]
+        a1, a2 = sorted(b.participants)[:2]
+        envenenado = _j_loads(staging.turno_prompt(b, a1, []))
+        envenenado["sua_cabeca"] = b.pacotes[a2]
+        pega_plantado = bool(staging.vazamento_entre_atores(
+            b, {a1: [__import__("json").dumps(envenenado)]}))
+
+    # Um turno nunca pode receber mais de uma cabeça.
+    cabecas_por_turno = set()
+    for e in encenadas:
+        for lista in e["prompts"].values():
+            for p in lista:
+                cabecas_por_turno.add(
+                    len(_j_loads(p)["sua_cabeca"].get("crencas", [])) >= 0)
+
+    turnos = [e["turnos"] for e in encenadas]
+    conn.execute("DELETE FROM narration_cache")
+    conn.commit()
+    return {
+        "cenas": len(beats),
+        "turnos": turnos,
+        "max_turnos": max(turnos, default=0),
+        "vazamentos": vazamentos,
+        "pega_plantado": pega_plantado,
+        "ordem_estavel": all(
+            staging.ordem(b) == staging.ordem(b) for b in beats),
+        "um_por_prompt": all(
+            "sua_cabeca" in _j_loads(p) and "cabecas" not in _j_loads(p)
+            for e in encenadas for lista in e["prompts"].values() for p in lista),
+        "elenco": [sorted(b.participants) for b in beats],
+    }
+
+
+def _j_loads(s):
+    import json as _j
+    return _j.loads(s)
+
+
+GATES_P6 = [
+    ("existem cenas para encenar", lambda m: m["cenas"] > 0),
+    ("o teto de turnos é respeitado",
+     lambda m: m["max_turnos"] <= 6),
+    ("todo turno recebe uma cabeça só", lambda m: m["um_por_prompt"]),
+    # O bug mais provável desta fase, e o motivo de ela existir em código
+    # separado em vez de um prompt maior.
+    ("nenhum ator recebe a cabeça de outro", lambda m: not m["vazamentos"]),
+    ("o teste de vazamento detecta um plantado", lambda m: m["pega_plantado"]),
+    ("a ordem dos turnos é determinística", lambda m: m["ordem_estavel"]),
+]
+
+
+def render_phase6(m: dict) -> tuple[str, bool]:
+    lines: list[str] = []
+    add = lines.append
+    add("=" * 62)
+    add("KESTLERIUM — VALIDAÇÃO DA FASE 6 (cenas, e o vazamento)")
+    add("=" * 62)
+    add(f"  cenas encenadas       {m['cenas']}")
+    add(f"  turnos por cena       {m['turnos']}   (teto 6)")
+    add(f"  vazamentos entre atores {len(m['vazamentos'])}")
+    for ator, o_que in m["vazamentos"][:5]:
+        add(f"    {ator} recebeu: {o_que}")
+    add("")
+    add("  Um turno = um ator = o pacote dele. O que os outros disseram em voz")
+    add("  alta atravessa; o que os outros PENSAM, nunca.")
+    add("")
+    add("-" * 62)
+    ok = True
+    for label_text, check in GATES_P6:
+        passed = check(m)
+        ok &= passed
+        add(f"  [{'ok' if passed else 'FALHOU'}] {label_text}")
+    add("-" * 62)
+    if ok:
+        add("  FASE 6 APROVADA — cada ator só sabe o que é dele")
+    else:
+        add("  FASE 6 REPROVADA — separar os pacotes, não filtrar a saída")
+    add("=" * 62)
+    return "\n".join(lines), ok

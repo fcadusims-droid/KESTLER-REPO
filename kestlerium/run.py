@@ -126,7 +126,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
          "seed_facts.json").read_text(encoding="utf-8"))
     gates = spec.get("gates", ["1", "2", "3"])
 
-    passed2 = passed3 = passed4 = passed5 = passed8 = True
+    passed2 = passed3 = passed4 = passed5 = passed6 = passed7 = passed8 = True
     if "2" in gates:
         m2 = report.collect_phase2(conn, total_ticks, args.mundo)
         text2, passed2 = report.render_phase2(m2)
@@ -134,7 +134,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
         (OUT / f"fase2_{args.mundo}.txt").write_text(text2, encoding="utf-8")
     else:
         print()
-        faltando = ", ".join(g for g in ("2", "3", "4", "5", "8") if g not in gates)
+        faltando = ", ".join(g for g in ("2", "3", "4", "5", "6", "7", "8") if g not in gates)
         print(f"  Fases {faltando} nao se aplicam a '{args.mundo}':")
         print(f"  {spec.get('_gates_nota','')}")
 
@@ -155,6 +155,16 @@ def cmd_validar(args: argparse.Namespace) -> int:
         text5, passed5 = report.render_phase5(m5)
         print(); print(text5)
         (OUT / f"fase5_{args.mundo}.txt").write_text(text5, encoding="utf-8")
+    if "6" in gates:
+        m6 = report.collect_phase6(conn)
+        text6, passed6 = report.render_phase6(m6)
+        print(); print(text6)
+        (OUT / f"fase6_{args.mundo}.txt").write_text(text6, encoding="utf-8")
+    if "7" in gates:
+        m7 = report.collect_phase7(conn, total_ticks)
+        text7, passed7 = report.render_phase7(m7)
+        print(); print(text7)
+        (OUT / f"fase7_{args.mundo}.txt").write_text(text7, encoding="utf-8")
     if "8" in gates:
         cronista = chronicle.Chronicler(conn, args.mundo)
         fios = cronista.build(until_day=args.dias)
@@ -166,7 +176,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
         (OUT / f"cronica_{args.mundo}.md").write_text(
             cronista.markdown(fios, args.dias), encoding="utf-8")
     passed = (passed and passed2 and passed3 and passed4 and passed5
-              and passed8)
+              and passed6 and passed7 and passed8)
     conn.close()
     return 0 if passed else 1
 
