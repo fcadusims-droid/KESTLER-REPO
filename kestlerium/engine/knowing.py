@@ -62,6 +62,23 @@ class Knowledge:
         agent = self.agents[agent_id]
         mine: dict[str, float] = {}
 
+        # Um personagem que chegou por declaração na própria obra já tem
+        # conhecimento gravado: é o autor dizendo o que essa criatura viveu.
+        # Essa declaração manda — `knowledge.json` só responde por quem o
+        # motor já conhecia. Sem esta consulta, `endow` sobrescreveria o que
+        # a chegada escreveu e o personagem entraria sabendo nada.
+        declarado = {
+            r["concept"]: r["grasp"] for r in self.conn.execute(
+                "SELECT concept, grasp FROM knowledge WHERE agent_id = ?",
+                (agent_id,))
+        }
+        if declarado:
+            self.known[agent_id] = dict(declarado)
+            for concept in declarado:
+                self._source[(agent_id, concept)] = None
+                self._when[(agent_id, concept)] = tick
+            return
+
         if agent.origin == "nativo":
             # Nasceu aqui: o mundo moderno é óbvio para ele.
             for concept in self.world_concepts:

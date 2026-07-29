@@ -151,11 +151,37 @@ O fio é tabela, não consulta: `agent_state` e `pressure_event` são podados a
 cada publicação para o banco caber no repositório, e o que o mundo já contou
 não pode depender de dados que serão apagados amanhã.
 
-### I. Depois
+### I. Depois  ◐ chegada validada, desligada de propósito
 
 Entrada dos personagens do autor, um por vez, via front matter na própria obra.
 Entidades (Suomynona, The Continuity), que precisam de desenho próprio porque
 não chegam: se manifestam. Escala.
+
+**A versão estável do Kestlerium é a vila com NPCs e mais nada.** O mecanismo de
+chegada está construído (`engine/arrival.py`) e validado (`run.py chegada`), mas
+nenhum personagem foi colocado no mundo publicado, e nenhuma obra ganhou bloco
+`kestlerium` no front matter. Isso é decisão, não pendência: primeiro o lugar
+funciona sozinho.
+
+Três regras já viraram código, e não comentário:
+
+- **Só o front matter é lido; o corpo da obra, nunca.** Um personagem sabe
+  apenas o que viveu dentro da história dele. Se o motor lesse o texto para
+  enriquecê-lo, ele saberia o próprio final — e a fronteira que sustenta o
+  projeto viraria conveniência. O autor declara o que o personagem sabe.
+- **O arquivo da obra nunca é alterado.** Este módulo só lê.
+- **Entidades são recusadas com explicação**, em vez de virarem moradores com
+  pernas.
+
+Quando o autor decidir mandar o primeiro, basta um bloco na obra:
+
+    kestlerium:
+      - id: severin
+        nome: "Severin Sângelună"
+        constituicao: "Nascido duas vezes. Não pergunta o que é permitido."
+        casa: pensao
+        trabalho: bar
+        traz: [sangue, noite, juramento]
 
 ---
 

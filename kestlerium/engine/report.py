@@ -9,6 +9,7 @@ a mesma — quando um reprova, conserta-se o modelo, nunca o número do portão.
 
 from __future__ import annotations
 
+import json
 import pathlib
 import sqlite3
 from collections import Counter
@@ -1068,5 +1069,183 @@ def render_phase6(m: dict) -> tuple[str, bool]:
         add("  FASE 6 APROVADA — cada ator só sabe o que é dele")
     else:
         add("  FASE 6 REPROVADA — separar os pacotes, não filtrar a saída")
+    add("=" * 62)
+    return "\n".join(lines), ok
+
+
+# ===========================================================================
+# FASE 9 — a obra vira gente (só a prova de que funciona)
+# ===========================================================================
+# ESTE PORTÃO NÃO COLOCA NINGUÉM NO MUNDO PUBLICADO. A versão estável do
+# Kestlerium é a vila com NPCs e mais nada: os personagens do autor entram
+# quando ele decidir, um a um. O que se mede aqui é só se um personagem
+# FUNCIONARIA — porque descobrir que não funciona depois de colocá-lo no mundo
+# em produção seria descobrir tarde.
+#
+# A prova roda num banco descartável, com um personagem de teste que não
+# pertence a obra nenhuma.
+
+FIXTURE = '''---
+title: "Obra de Teste"
+kestlerium:
+  - id: forasteiro
+    nome: "O Forasteiro"
+    constituicao: "Chegou sem entender nada. Aprende olhando."
+    casa: pensao
+    trabalho: bar
+    traz: [juramento, linhagem]
+  - id: coisa
+    nome: "A Coisa"
+    tipo: entidade
+    constituicao: "Não tem corpo."
+---
+
+# Corpo da obra
+
+Este texto NUNCA deve ser lido pelo motor. Se um personagem soubesse o que
+está escrito aqui, saberia a própria obra — e isso é do autor, não dele.
+'''
+
+
+def collect_phase9(mundo_base: str = "vila", dias: int = 30,
+                   seed: int = 20260729) -> dict:
+    import pathlib as _p
+
+    from . import arrival, db as dbmod, world as worldmod
+    from .sim import Simulation
+
+    out = _p.Path(__file__).resolve().parent.parent / "out"
+    conn = dbmod.connect(out / "chegada_teste.db", fresh=True)
+    w = worldmod.load(conn, mundo_base)
+    locais = {r["id"] for r in conn.execute("SELECT id FROM location")}
+
+    # 1. O front matter é lido, e só ele.
+    fm = arrival.front_matter(FIXTURE)
+    declaradas = [dict(d, _obra=fm["title"], _arquivo="fixture.md")
+                  for d in fm.get("kestlerium", [])]
+    leu_corpo = any("NUNCA" in json.dumps(d, ensure_ascii=False)
+                    for d in declaradas)
+
+    aceitos, recusas = [], []
+    for d in declaradas:
+        try:
+            aceitos.append(arrival.validar(d, locais))
+        except arrival.DeclaracaoInvalida as erro:
+            recusas.append(str(erro))
+
+    # 2. O personagem chega no dia 3 — depois do mundo já estar andando.
+    chegada_tick = 3 * clockmod.TICKS_PER_DAY
+    entrou = False
+    for d in aceitos:
+        entrou |= arrival.chegar(conn, d, chegada_tick, "pensao", "bar")
+
+    # 3. O mundo roda com ele dentro.
+    w = worldmod.load(conn, mundo_base)
+    sim = Simulation(conn, w, seed=seed, world_name=mundo_base)
+    sim.run(0, dias * clockmod.TICKS_PER_DAY, mode="rapido")
+
+    novo = "forasteiro"
+    antes = conn.execute(
+        "SELECT count(*) c FROM agent_state WHERE agent_id = ? AND tick < ?",
+        (novo, chegada_tick)).fetchone()["c"]
+    depois = conn.execute(
+        "SELECT count(*) c FROM agent_state WHERE agent_id = ? AND tick >= ?",
+        (novo, chegada_tick)).fetchone()["c"]
+
+    conheceu = {r["agent_a"] if r["agent_b"] == novo else r["agent_b"]
+                for r in conn.execute(
+                    "SELECT agent_a, agent_b FROM encounter"
+                    " WHERE agent_a = ? OR agent_b = ?", (novo, novo))}
+
+    trouxe = {r["concept"] for r in conn.execute(
+        "SELECT concept FROM knowledge WHERE agent_id = ? AND taught_by IS NULL",
+        (novo,))}
+    aprendeu = [dict(r) for r in conn.execute(
+        "SELECT concept, grasp, taught_by FROM knowledge"
+        " WHERE agent_id = ? AND taught_by IS NOT NULL", (novo,))]
+
+    # 4. Ao chegar ele NÃO pode saber o que é daqui. Um deslocado que já
+    #    entende dinheiro e ônibus não é um deslocado.
+    do_mundo = set(sim.knowing.world_concepts)
+    sabia_de_ante_mao = trouxe & do_mundo
+
+    locais_visitados = {r["location_id"] for r in conn.execute(
+        "SELECT DISTINCT location_id FROM agent_state WHERE agent_id = ?"
+        " AND location_id IS NOT NULL", (novo,))}
+
+    residentes = conn.execute(
+        "SELECT count(*) c FROM agent WHERE origin = 'nativo'").fetchone()["c"]
+    conn.close()
+
+    return {
+        "declaradas": declaradas, "aceitos": aceitos, "recusas": recusas,
+        "leu_corpo": leu_corpo, "entrou": entrou,
+        "estados_antes": antes, "estados_depois": depois,
+        "conheceu": conheceu, "trouxe": trouxe, "aprendeu": aprendeu,
+        "sabia_de_ante_mao": sabia_de_ante_mao,
+        "locais": locais_visitados, "residentes": residentes, "dias": dias,
+    }
+
+
+GATES_P9 = [
+    ("a declaração da obra é lida", lambda m: len(m["declaradas"]) == 2),
+    # A regra do autor, virada portão: o motor lê o bloco, nunca o texto.
+    ("o corpo da obra não é lido", lambda m: not m["leu_corpo"]),
+    ("entidade é recusada com explicação",
+     lambda m: len(m["recusas"]) == 1 and "manifestam" in m["recusas"][0]),
+    ("o personagem entra no mundo", lambda m: m["entrou"]),
+    # Chegada contínua: antes do tick dele, ele não existe.
+    ("não existe antes de chegar", lambda m: m["estados_antes"] == 0),
+    ("existe e se move depois de chegar",
+     lambda m: m["estados_depois"] > 0 and len(m["locais"]) >= 2),
+    ("conhece parte dos moradores",
+     lambda m: len(m["conheceu"]) >= max(2, m["residentes"] // 3)),
+    ("chega sem entender este mundo", lambda m: not m["sabia_de_ante_mao"]),
+    # E o motivo de os NPCs existirem: alguém tem de ensiná-lo.
+    ("aprende com quem já morava aqui", lambda m: len(m["aprendeu"]) >= 3),
+]
+
+
+def render_phase9(m: dict) -> tuple[str, bool]:
+    lines: list[str] = []
+    add = lines.append
+    add("=" * 62)
+    add("KESTLERIUM — VALIDAÇÃO DA CHEGADA (um personagem funciona?)")
+    add("=" * 62)
+    add("  Este teste NÃO coloca ninguém no mundo publicado. A versão estável")
+    add("  do Kestlerium é a vila com NPCs e mais nada. Aqui só se verifica")
+    add("  que um personagem funcionaria quando o autor decidir mandar um.")
+    add("")
+    add(f"  declarações lidas     {len(m['declaradas'])}")
+    add(f"  aceitas               {len(m['aceitos'])}")
+    for r in m["recusas"]:
+        add(f"    recusada: {r}")
+    add("")
+    add(f"  dias simulados        {m['dias']}   (chegou no dia 3)")
+    add(f"  estados antes         {m['estados_antes']}   (alvo 0)")
+    add(f"  estados depois        {m['estados_depois']}")
+    add(f"  locais que frequentou {len(m['locais'])}")
+    add(f"  moradores que conheceu {len(m['conheceu'])} de {m['residentes']}")
+    add(f"  trouxe de casa        {', '.join(sorted(m['trouxe'])) or '—'}")
+    add("")
+    add("  o que aprendeu aqui, e com quem")
+    for k in sorted(m["aprendeu"], key=lambda k: -k["grasp"])[:10]:
+        add(f"    {k['concept']:<16} domínio {k['grasp']:.2f}"
+            f"   com {k['taught_by']}")
+    if not m["aprendeu"]:
+        add("    nada")
+    add("")
+    add("-" * 62)
+    ok = True
+    for label_text, check in GATES_P9:
+        passed = check(m)
+        ok &= passed
+        add(f"  [{'ok' if passed else 'FALHOU'}] {label_text}")
+    add("-" * 62)
+    if ok:
+        add("  CHEGADA APROVADA — um personagem viveria aqui")
+        add("  (e continua fora do mundo publicado, de propósito)")
+    else:
+        add("  CHEGADA REPROVADA — consertar antes de mandar alguém de verdade")
     add("=" * 62)
     return "\n".join(lines), ok

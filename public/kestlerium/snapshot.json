@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 4339,
- "quando": "29/07/2026 09:30",
+ "tick": 4340,
+ "quando": "29/07/2026 10:00",
  "noite": false,
  "agentes": {
   "ruth": {
@@ -236,8 +236,8 @@
   },
   {
    "agent_id": "lurdes",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "casario",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "djalma",
@@ -246,13 +246,13 @@
   },
   {
    "agent_id": "cida",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "praca",
+   "activity": "descansar"
   },
   {
    "agent_id": "vitor",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "oficina",
+   "activity": "trabalhar"
   }
  ],
  "cabecas": {
@@ -730,7 +730,22 @@
  "conhecimento": {
   "ruth": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -745,27 +760,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -775,14 +770,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "aurelio": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -797,27 +812,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -827,14 +822,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "neide": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -849,27 +864,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -879,14 +874,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "tonho": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -901,27 +916,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -931,14 +926,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "marcia": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -953,27 +968,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -983,14 +978,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "zebruno": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1005,27 +1020,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1035,14 +1030,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "lurdes": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1057,27 +1072,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1087,14 +1082,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "djalma": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1109,27 +1124,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1139,14 +1134,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "cida": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1161,27 +1176,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1191,14 +1186,34 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }
   ],
   "vitor": [
    {
+    "conceito": "comercio",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
     "conceito": "dinheiro",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "documento",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "eletricidade",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1213,27 +1228,7 @@
     "ensinou": null
    },
    {
-    "conceito": "transporte",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "documento",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "telefone",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "eletricidade",
-    "dominio": 1.0,
-    "ensinou": null
-   },
-   {
-    "conceito": "comercio",
+    "conceito": "moradia",
     "dominio": 1.0,
     "ensinou": null
    },
@@ -1243,7 +1238,12 @@
     "ensinou": null
    },
    {
-    "conceito": "moradia",
+    "conceito": "telefone",
+    "dominio": 1.0,
+    "ensinou": null
+   },
+   {
+    "conceito": "transporte",
     "dominio": 1.0,
     "ensinou": null
    }

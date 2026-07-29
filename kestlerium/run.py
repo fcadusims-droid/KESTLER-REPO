@@ -280,6 +280,23 @@ def _cronicar(conn, tick: int, mundo: str, destino) -> int:
     return len(fios)
 
 
+def cmd_chegada(args: argparse.Namespace) -> int:
+    """Prova que um personagem viveria aqui — sem colocar nenhum no mundo.
+
+    A versão estável do Kestlerium é a vila com NPCs e mais nada. Este comando
+    roda num banco descartável, com um personagem de teste que não pertence a
+    obra nenhuma, e não toca em `mundo_*.db`. Descobrir que um personagem não
+    funciona depois de colocá-lo no mundo publicado seria descobrir tarde.
+    """
+    m = report.collect_phase9(mundo_base=args.mundo, dias=args.dias,
+                              seed=args.seed)
+    texto, passou = report.render_phase9(m)
+    print(texto)
+    OUT.mkdir(parents=True, exist_ok=True)
+    (OUT / f"chegada_{args.mundo}.txt").write_text(texto, encoding="utf-8")
+    return 0 if passou else 1
+
+
 def cmd_cronica(args: argparse.Namespace) -> int:
     """Escreve os fios de história do mundo real, sem avançá-lo."""
     conn = db.connect(OUT / f"mundo_{args.mundo}.db")
@@ -372,6 +389,11 @@ def main() -> int:
 
     p = add_common(sub.add_parser("cronica", help="escreve os fios de história"))
     p.set_defaults(func=cmd_cronica)
+
+    p = add_common(sub.add_parser(
+        "chegada", help="testa se um personagem funcionaria (não mexe no mundo)"))
+    p.add_argument("--dias", type=int, default=30)
+    p.set_defaults(func=cmd_chegada)
 
     args = parser.parse_args()
     return args.func(args)
