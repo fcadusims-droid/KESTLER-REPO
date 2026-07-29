@@ -341,104 +341,29 @@ FASE 1 APROVADA     FASE 2 APROVADA          FASE 3 APROVADA
 Pesos: `ep 0.62 · co 0.50 · cr 1.25 · re 0.82 · ta 0.40 · plateia 2.30`
 **Robustez: 4 de 5 seeds passam em todos os portões.**
 
-## Próximo
-
-A **vila** ainda não foi construída. A configuração de produção — 8 locais, NPCs
-com função declarada, e **um** personagem chegando sem entender nada — é o passo
-seguinte. O distrito de 15 continua como bancada de teste, porque os portões
-medem distribuições e uma vila com um morador seria quieta demais para
-distinguir detector quebrado de mundo calmo.
-
 ---
 
-## Estado anterior (Fases 1-3, sem conhecimento)
+## Decisões de escopo e pendências
 
-```
-FASE 1                      FASE 2                    FASE 3
-cobertura pares  74.3%      alcance 60d    40%        curtose        +7.6
-saturação diária  9.5%      distorcida     ~90%       dias com pico   5.6%  (2-8%)
-maior par         <12%      2ª mão < 1ª    sim        elenco em pico   87%  (>60%)
-sem isolados      sim       sujeito vaza   nunca      sem cascata      sim
-                                                      tensão           não satura
-```
+**Entidades adiadas.** Suomynona e The Continuity não são personagens do mesmo
+jeito que Severin ou James Revex: não têm corpo, não dormem, não podem ser
+presas, e não *chegam* — se manifestam onde há substrato. A introdução delas
+merece desenho próprio, não um remendo no elenco de pessoas. `NETWORK_USE_P` e
+o ramo de rede em `_detect_encounters` são código dormente por decisão, não por
+esquecimento.
 
-Pesos finais, derivados de varredura sobre os dados (não escolhidos a priori):
-`ep 0.65 · co 0.52 · cr 1.25 · re 0.82 · ta 0.40 · plateia 2.00`
+**A vila não existe ainda.** A configuração de produção — poucos locais, NPCs
+com função declarada e **um** personagem chegando sem entender nada — é o passo
+seguinte. O distrito de 15 fica como bancada, porque os portões medem
+distribuições e uma vila com um morador seria quieta demais para distinguir
+detector quebrado de mundo calmo.
 
-**Robustez entre seeds:** 4 de 5 passam em todos os portões. A seed 4242 falha
-na cobertura de elenco (40%). Os pesos generalizam, mas não perfeitamente —
-registrado como está, não maquiado.
-
-Determinismo reverificado com as três camadas ligadas.
-
-## Decisões de escopo
-
-- **Entidades adiadas.** Suomynona e The Continuity não são personagens do
-  mesmo jeito que Severin ou James Revex: não têm corpo, não dormem, não podem
-  ser presas, e não *chegam* — se manifestam onde há substrato. A introdução
-  delas merece desenho próprio, não um remendo no elenco de pessoas. O canal de
-  rede continua no motor, inativo enquanto não houver entidade no elenco.
-
----
-
-## Estado anterior (Fases 1 e 2)
-
-```
-FASE 1                              FASE 2
-tempo            0.6s               fatos no mundo         7
-encontros        1356               crenças formadas      75
-cobertura pares  71.7%  (>50%)      alcance em 60d        56%   (15-70%)
-saturação diária 11.1%  (<20%)      versão distorcida     92%
-maior par         5.2%  (<12%)      confiança 1ª mão      0.83
-                                    confiança 2ª mão      0.50
-curva de difusão   d10:6  d20:6  d30:9  d45:9  d60:9  d90:12
-```
-
-A difusão avança em patamares, não em fluxo constante: a saliência decai e cria
-os platôs, até alguém reativar o assunto. Fofoca em ondas.
-
-O estado final do segredo, que é o produto real desta fase:
-
-```
-Severin Sângelună   fechou_ferida_com_sangue   d0   ← a verdade, numa cabeça só
-Clara Bataglia      truque_de_luz              d1   ← viu, e racionalizou
-Nuno Ferraz         truque_de_luz              d1
-Hideo Sano          truque_de_luz              d1
-O Escriba           estava_drogada             d2   ← o que o distrito repete
-Alex                estava_drogada             d2
-```
-
-Ninguém mentiu. A terceira versão nasceu sozinha, do decaimento entre saltos.
-
-Determinismo reverificado com a camada social ligada: mesma seed produz as
-mesmas crenças, com as mesmas distorções e as mesmas fontes.
-
----
-
-## Estado anterior (só Fase 1)
-
-**Fase 1: aprovada.**
-
-```
-dias simulados        90
-agentes ativos        16
-tempo de execução     0.50s
-encontros             1356 (15.1/dia)
-cobertura de pares    71.7%   (> 50%)
-saturação diária      11.1%   (< 20%)
-fatia do maior par     5.2%   (< 12%)
-```
-
-Determinismo verificado. Modo real ancorado no horário de Brasília, com
-recuperação por tempo decorrido — se o agendador atrasar, o mundo alcança o
-relógio em vez de ficar para trás.
-
-## Pendências assumidas
+**Outras, menores:**
 
 - `out/` está fora do versionamento. Quando o Kestlerium for para produção via
   agendador, o banco do mundo real precisará persistir entre execuções — ou
-  commitado, ou em cache do runner. Decisão adiada para a fase de implantação.
-- Ninguém se encontra em trânsito. O metrô é o nó central do grafo e deveria
-  ser onde estranhos se cruzam, mas quem viaja fica sem lugar. Custa uma rota
-  completa em vez de só o custo do caminho; adiado para não misturar mudanças
-  enquanto o portão da Fase 1 estava aberto.
+  commitado, ou em cache do runner.
+- Ninguém se encontra em trânsito. O metrô é o nó central do grafo e deveria ser
+  onde estranhos se cruzam, mas quem viaja fica sem lugar.
+- `remover_obstaculo` e `reconheceu_origem_de` estão na ontologia e ainda sem
+  mecanismo. Declarados para não serem reinventados com outro nome depois.

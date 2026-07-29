@@ -83,7 +83,6 @@ class Ledger:
         # estabelecer_identidade deixem de ser rótulos inertes.
         self.resources: dict[str, float] = {}
         self.paperwork: dict[str, int] = {}
-        self._fact_buffer: list[tuple] = []
 
     # -- verdade ------------------------------------------------------------
 

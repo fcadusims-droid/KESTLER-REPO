@@ -100,9 +100,6 @@ class Knowledge:
         )
         return total / len(self.world_concepts)
 
-    def missing(self, agent_id: str) -> list[str]:
-        return [c for c in self.world_concepts if self.grasp(agent_id, c) < USABLE]
-
     # -- prática ------------------------------------------------------------
 
     def practise(self, agent_id: str, activity: str) -> None:

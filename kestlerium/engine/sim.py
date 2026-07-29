@@ -1,7 +1,9 @@
-"""Laço de tempo do Kestlerium — Fase 1 (L0).
+"""O laço de tempo do Kestlerium.
 
-Aqui não existe crença, objetivo nem pressão. Só corpos se movendo por um mapa
-e se cruzando. A pergunta desta fase é uma só: os encontros têm variedade?
+Um tick de 30 minutos: cada agente decide onde estar e o que fazer, os que se
+cruzam formam encontros, e sobre os encontros se apoiam as camadas seguintes —
+crença e fofoca (`ledger`), conhecimento e ensino (`knowing`), pressão
+(`pressure`). Este módulo é a espinha; as camadas são chamadas daqui.
 
 Determinismo: um único `random.Random(seed)`, injetado. O módulo `random`
 global nunca é usado — se fosse, duas execuções com a mesma seed divergiriam e

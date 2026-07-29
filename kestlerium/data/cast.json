@@ -1,5 +1,5 @@
 {
-  "_nota": "16 agentes. arrival_tick implementa a chegada contínua: antes dele o agente não existe no mundo. Ticks 0..47 = um dia de 30 em 30 min (tick 16 = 08:00, tick 40 = 20:00).",
+  "_nota": "15 pessoas: 11 deslocados + 4 nativos. arrival_tick implementa a chegada continua — antes dele o agente nao existe no mundo. Ticks 0..47 = um dia de 30 em 30 min (tick 16 = 08:00, tick 40 = 20:00).",
   "_clusters": "Severin trabalha invertido de propósito. Duas panelas sociais que só se tocam nas bordas fazem a informação precisar VIAJAR — é isso que produz fofoca distorcida na Fase 2. Se todo mundo estivesse no mesmo horário, tudo seria sabido por todos no mesmo dia.",
   "agents": [
     {

@@ -17,12 +17,12 @@ python3 run.py avancar     # leva o mundo até o instante atual de Brasília
 python3 run.py agora       # quem está onde, agora
 ```
 
-## Os dois relógios
+## Os dois modos
 
-| Modo | Para quê | Relógio |
+| Modo | Para quê | De onde vem o tempo |
 |---|---|---|
-| **real** | O Kestlerium de verdade | Horário de Brasília. 1 tick = 30 min reais |
-| **rápido** | Só validação | Roda 90 dias em segundos, banco separado |
+| **real** | O Kestlerium de verdade | Horário de Brasília, 1 tick = 30 min reais |
+| **rápido** | Só validação | Intervalo fixo, 90 dias em segundos, banco separado |
 
 O modo rápido não é atalho: é a bancada de teste. Esperar 90 dias reais para
 descobrir que a ontologia está errada não é uma opção. Ele queima os erros de
