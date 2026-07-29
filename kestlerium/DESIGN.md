@@ -1,7 +1,11 @@
-# DESIGN — O Terrário
+# KESTLERIUM — Documento de Design
 
 Documento de Fase 0. Fixa o que não pode mudar sem refazer schema.
 Vive fora da raiz: subpasta = privado por padrão, nunca publicado no arquivo.
+
+**Kestlerium** é o mundo: o substrato contemporâneo onde os personagens de todas
+as obras chegam deslocados e passam a coexistir sob uma única lógica de
+realidade.
 
 ## 1. Domínio e escala
 
