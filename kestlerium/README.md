@@ -52,8 +52,8 @@ código.
 ## Fases
 
 - [x] **Fase 1** — corpos, mapa, rotinas, encontros. Sem drama, sem LLM.
-- [ ] **Fase 2** — verdade vs. crença, grafo social, fofoca distorcida
-- [ ] **Fase 3** — detector de pressão + o portão que decide se o projeto segue
+- [x] **Fase 2** — verdade vs. crença, grafo social, fofoca distorcida
+- [x] **Fase 3** — detector de pressão. **Portão de verdade: aprovado.**
 - [ ] **Fase 4** — governador de ritmo
 - [ ] **Fase 5+** — narração, cenas, deriva de identidade, crônica
 

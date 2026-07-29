@@ -115,3 +115,58 @@ diferentes, para provar que a premissa de crossover gera estrutura.
 
 Os três se travam mutuamente e envolvem três obras distintas mais uma nativa.
 Se este trio não produz drama na simulação, a ontologia está errada — não os pesos.
+
+---
+
+# ADENDO — Verossimilhança e a configuração de produção
+
+Decidido depois da Fase 2, a ser implementado **após o portão da Fase 3**.
+
+## 7. O personagem não conhece a própria obra
+
+Um personagem sabe **apenas o que viveu dentro da história dele**. Não conhece o
+enredo da obra, o que aconteceu fora da vista dele, o que outros esconderam, nem
+a estrutura narrativa. Isso é conhecimento do autor, não da criatura.
+
+Isto não exige mecanismo novo: é a separação `fact` / `belief` da Fase 2. O
+conhecimento de origem de um personagem é um **conjunto de crenças**, limitado ao
+que ele testemunhou — nunca a tabela de verdade do mundo dele.
+
+## 8. Conhecimento como segunda rede
+
+A fofoca move *fatos sobre pessoas*. O ensino move *conceitos sobre o mundo*.
+Mesma maquinaria de distorção, redes distintas.
+
+- **Conhecimento de origem** — o que o universo dele ensinou. Severin sabe
+  linhagem, juramento, corte, sangue. Não sabe carro, telefone, cartão, triagem
+  de hospital.
+- **Conhecimento do Kestlerium** — começa em quase zero e cresce por convívio.
+- **Troca nos dois sentidos.** O deslocado aprende o que é um ônibus; o local
+  ouve falar de juramento de sangue e racionaliza como história de doido — a
+  mesma regra que já faz Clara ver o impossível e concluir "truque de luz".
+
+Um deslocado sem conhecimento suficiente **não consegue executar rotina**: não
+sabe pegar o transporte, não entende a moeda, não sabe o que é um turno de
+trabalho. `compreender_mundo` deixa de ser objetivo decorativo e passa a ser
+pré-requisito de sobrevivência.
+
+## 9. NPCs
+
+Habitantes que não são obra do autor. Existem para que o deslocado tenha com
+quem aprender o básico, e para serem a régua de normalidade (o papel que os
+"nativos" já cumprem, agora explícito). Não têm arco próprio: têm função,
+rotina e conhecimento local.
+
+## 10. Configuração de produção: a vila
+
+O Kestlerium de verdade **não começa como um distrito urbano de 16 pessoas.**
+
+- Uma **vila**, tempo moderno, com o básico: casas, NPCs, posto de saúde,
+  mercearia, ponto de ônibus.
+- Começa com **um personagem deslocado**, que chega sem entender nada.
+- Cresce por chegada contínua: cada obra nova manda alguém.
+
+O distrito de 16 personagens continua existindo como **bancada de teste**. Ele é
+necessário: os portões das Fases 1-3 medem distribuições, e uma vila com um
+morador seria legitimamente quieta demais para distinguir detector quebrado de
+mundo calmo. Bancada e produção são dois arquivos de dados, não dois motores.

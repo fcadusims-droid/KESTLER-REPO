@@ -1,0 +1,204 @@
+{
+  "_nota": "Fatos plantados na criação do mundo. O portão da Fase 2 manda injetar um segredo à mão e observar se ele se espalha parcialmente e distorcido em 30-60 dias. Difusão instantânea significa fofoca frouxa demais; imobilidade significa apertada demais.",
+  "_o_teste": "O segredo é o fato 1. Severin testemunhou (foi ele quem fez) mas nunca vai repassar — ninguém entrega o próprio segredo. Clara viu, e por ser gente comum sem vocabulário para o impossível, ela racionaliza antes de contar. Então tudo que circula pelo distrito é a versão já torta dela. Essa é a forma que a exposição toma neste mundo.",
+  "facts": [
+    {
+      "day": 1,
+      "subject": "nuno",
+      "predicate": "trabalha_para",
+      "object": "cafe",
+      "visibility": "publico",
+      "witnesses": [
+        "nuno",
+        "clara",
+        "sano",
+        "yuri"
+      ]
+    },
+    {
+      "day": 2,
+      "subject": "severin",
+      "predicate": "usou_anomalia",
+      "object": "fechou_ferida_com_sangue",
+      "visibility": "oculto",
+      "witnesses": [
+        "severin",
+        "clara"
+      ]
+    },
+    {
+      "day": 3,
+      "subject": "dede",
+      "predicate": "prometeu_a",
+      "object": "oswine",
+      "visibility": "privado",
+      "witnesses": [
+        "dede"
+      ]
+    },
+    {
+      "day": 4,
+      "subject": "mike",
+      "predicate": "teme",
+      "object": "ser_reconhecido",
+      "visibility": "privado",
+      "witnesses": [
+        "mike",
+        "paul"
+      ]
+    },
+    {
+      "day": 6,
+      "subject": "iolanda",
+      "predicate": "mentiu_sobre",
+      "object": "documento_de_alex",
+      "visibility": "oculto",
+      "witnesses": [
+        "iolanda",
+        "alex"
+      ]
+    },
+    {
+      "day": 9,
+      "subject": "mike",
+      "predicate": "prometeu_a",
+      "object": "mia",
+      "visibility": "privado",
+      "witnesses": [
+        "mike"
+      ]
+    },
+    {
+      "day": 11,
+      "subject": "yuri",
+      "predicate": "mentiu_sobre",
+      "object": "o_nome_do_pai",
+      "visibility": "oculto",
+      "witnesses": [
+        "yuri"
+      ]
+    },
+    {
+      "day": 13,
+      "subject": "paul",
+      "predicate": "mentiu_sobre",
+      "object": "sentir_algo",
+      "visibility": "oculto",
+      "witnesses": [
+        "paul",
+        "sano"
+      ]
+    },
+    {
+      "day": 15,
+      "subject": "sano",
+      "predicate": "mentiu_sobre",
+      "object": "estar_aposentado",
+      "visibility": "oculto",
+      "witnesses": [
+        "sano"
+      ]
+    },
+    {
+      "day": 17,
+      "subject": "nuno",
+      "predicate": "deve_a",
+      "object": "dede",
+      "visibility": "privado",
+      "witnesses": [
+        "nuno",
+        "dede"
+      ]
+    },
+    {
+      "day": 20,
+      "subject": "lacrimel",
+      "predicate": "é_de_origem",
+      "object": "aspectros",
+      "visibility": "oculto",
+      "witnesses": [
+        "lacrimel",
+        "lotus"
+      ]
+    },
+    {
+      "day": 23,
+      "subject": "iolanda",
+      "predicate": "prometeu_a",
+      "object": "lacrimel",
+      "visibility": "oculto",
+      "witnesses": [
+        "iolanda",
+        "lacrimel"
+      ]
+    },
+    {
+      "day": 26,
+      "subject": "alex",
+      "predicate": "é_de_origem",
+      "object": "metamind",
+      "visibility": "oculto",
+      "witnesses": [
+        "alex",
+        "iolanda"
+      ]
+    },
+    {
+      "day": 30,
+      "subject": "lotus",
+      "predicate": "é_de_origem",
+      "object": "aspectros",
+      "visibility": "oculto",
+      "witnesses": [
+        "lotus",
+        "lacrimel"
+      ]
+    },
+    {
+      "day": 36,
+      "subject": "oswine",
+      "predicate": "é_de_origem",
+      "object": "wolfs_head",
+      "visibility": "oculto",
+      "witnesses": [
+        "oswine",
+        "dede"
+      ]
+    },
+    {
+      "day": 44,
+      "subject": "severin",
+      "predicate": "usou_anomalia",
+      "object": "nao_envelheceu",
+      "visibility": "oculto",
+      "witnesses": [
+        "severin",
+        "clara",
+        "nuno"
+      ]
+    },
+    {
+      "day": 55,
+      "subject": "escriba",
+      "predicate": "é_de_origem",
+      "object": "rust_testament",
+      "visibility": "oculto",
+      "witnesses": [
+        "escriba",
+        "lotus"
+      ]
+    },
+    {
+      "day": 70,
+      "subject": "sphaira",
+      "predicate": "é_de_origem",
+      "object": "cube_and_sphere",
+      "visibility": "oculto",
+      "witnesses": [
+        "sphaira",
+        "paul"
+      ]
+    }
+  ],
+  "_densidade": "Cada personagem precisa ter algo em jogo, senão nunca entra num pico — o plano chama isso de elenco parasita. Fato de alta alavancagem espalhado pelo elenco é o que o portão da Fase 3 mede quando pede >60% em algum pico."
+}

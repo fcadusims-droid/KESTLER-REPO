@@ -17,7 +17,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from engine import clock as clockmod
-from engine import db, report, world
+from engine import db, goals as goalmod, report, world
 from engine.sim import Simulation
 
 OUT = Path(__file__).resolve().parent / "out"
@@ -54,14 +54,42 @@ def cmd_validar(args: argparse.Namespace) -> int:
     total_ticks = args.dias * clockmod.TICKS_PER_DAY
 
     sim = Simulation(conn, w, seed=args.seed)
+    from engine.pressure import PressureDetector
+
+    # Os fatos entram no mundo no tick deles — plantar tudo de véspera faria
+    # todas as saliências decaírem juntas e a fofoca morrer no meio da run.
+    # Os objetivos são reconstruídos quando fatos novos aparecem.
+    def rebuild_goals():
+        goal_list = goalmod.instantiate(conn, w.agents, sim.ledger.facts, sim.ledger)
+        if sim.detector is None:
+            sim.detector = PressureDetector(sim.ledger, goal_list, clockmod.TICKS_PER_DAY)
+        else:
+            sim.detector.rebuild(goal_list)
+
+    sim.on_new_facts = rebuild_goals
+    rebuild_goals()
+
     result = sim.run(0, total_ticks, mode="rapido")
 
     metrics = report.collect(conn, 0, total_ticks)
     text, passed = report.render(metrics, result["wall_seconds"])
     print(text)
 
+    m2 = report.collect_phase2(conn, total_ticks)
+    text2, passed2 = report.render_phase2(m2)
+    print()
+    print(text2)
+
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "fase1.txt").write_text(text, encoding="utf-8")
+    (OUT / "fase2.txt").write_text(text2, encoding="utf-8")
+
+    m3 = report.collect_phase3(conn, total_ticks)
+    text3, passed3 = report.render_phase3(m3)
+    print()
+    print(text3)
+    (OUT / "fase3.txt").write_text(text3, encoding="utf-8")
+    passed = passed and passed2 and passed3
     conn.close()
     return 0 if passed else 1
 
