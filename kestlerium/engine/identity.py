@@ -27,14 +27,9 @@ correntes — usá-los descreveria o passado com o que só se soube depois.
 from __future__ import annotations
 
 import hashlib
-import json
 import sqlite3
 
 from . import clock as clockmod
-
-# Abaixo disto, "mudou" é ruído de arredondamento e não vale registrar.
-PISO = 1e-9
-
 
 def assinatura(constitution_json: str) -> str:
     """A constituição é imutável; o hash é como se prova isso depois."""

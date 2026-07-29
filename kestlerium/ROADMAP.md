@@ -1,9 +1,10 @@
 # Kestlerium — o que falta
 
-Estado: Fases 1-4 e 8 aprovadas na bancada, camada de conhecimento funcionando, a
-vila publicando sozinha a cada 30 minutos. O motor gera estrutura narrativa e
-decide o que contar sem LLM nenhum, e já escreve os fios em Markdown. Falta
-a prosa — que é a única coisa para a qual um modelo é realmente necessário.
+Estado: Fases 1-8 aprovadas na bancada (5 e 6 como infraestrutura), camada de
+conhecimento funcionando, a vila publicando sozinha a cada 30 minutos. O motor
+gera estrutura narrativa, decide o que contar e escreve os fios em Markdown —
+sem LLM nenhum. Falta a prosa, que é a única coisa para a qual um modelo é
+realmente necessário.
 
 ---
 
@@ -127,16 +128,27 @@ neutro, delta fora do limite recusado sem aparar, delta sobre quem não estava
 presente recusado, campo inventado recusado, cache que evita a segunda chamada
 e devolve exatamente o mesmo, e o pacote que não vaza verdade.
 
-### F. Fase 6 — Cenas encenadas
+### F. Fase 6 — Cenas encenadas  ◐ infra pronta, modelo pendente
 
 Vários atores em turnos, limite duro de turnos, **cada ator recebe só o pacote
 de crenças dele** — e um teste explícito de vazamento, que é o bug mais provável
 desta fase.
 
-### G. Fase 7 — Deriva de identidade
+Construído em `engine/staging.py`. A defesa é estrutural, não uma checagem no
+fim: um turno = um ator = o pacote dele, e o prompt de cada turno é montado do
+zero com uma cabeça só. O que os outros disseram em voz alta atravessa; o que os
+outros pensam, nunca. O portão inspeciona os prompts enviados — não só as
+respostas — e é verificado nos dois sentidos.
+
+### G. Fase 7 — Deriva de identidade  ✅
 
 Constituição imutável, trajetória mutável, e toda mudança citando o `fact_id`
 que a causou.
+
+Feito sem LLM: a trajetória é reconstruída de `acquired_tick` e `learned_tick`,
+que são históricos e imutáveis, então ela não pode divergir do que aconteceu. A
+previsão falsificável da fase se confirmou — deslocado aprende mais que nativo,
+18,5 conceitos contra 12,0.
 
 ### H. Fase 8 — Chronicler  ✅
 
@@ -187,8 +199,16 @@ Quando o autor decidir mandar o primeiro, basta um bloco na obra:
 
 ## Ordem e risco
 
-A → B → C dá um terrário **vivo e observável** sem gastar um centavo de LLM.
-Esse é o marco que vale perseguir primeiro: se o mundo não for interessante de
-observar sem narração, nenhuma narração vai salvá-lo.
+A → B → C deu o terrário **vivo e observável** sem gastar um centavo de LLM.
+Era o marco que valia perseguir primeiro: se o mundo não fosse interessante de
+observar sem narração, nenhuma narração o salvaria.
 
-D em diante é onde o custo começa.
+De D a I saiu mais barato do que o previsto aqui. A previsão era que "D em
+diante é onde o custo começa"; na prática o governador de ritmo, a deriva de
+identidade, o cronista e a chegada saíram **inteiros sem modelo nenhum**, e das
+Fases 5 e 6 só falta plugar o modelo — o contrato, o cache, os limites de delta
+e os testes de vazamento já estão de pé e validados contra um stub
+determinístico.
+
+**O custo real só começa agora**, e num ponto só: escolher um modelo aberto e
+medir a taxa de saída válida no contrato. Nenhuma outra peça depende disso.
