@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="pt-BR"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kestlerium</title>
+<style>
+:root{--bg:#0e0e12;--panel:#16161d;--line:#26262f;--txt:#e6e6ea;--dim:#8b8b96;
+      --accent:#a78bfa;--warn:#f59e0b;--ok:#10b981}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);
+     font:15px/1.6 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:clamp(1rem,4vw,2.5rem)}
+header{margin-bottom:1.6rem}
+h1{font-size:.8rem;letter-spacing:.3em;text-transform:uppercase;color:var(--accent);
+   margin:0 0 .5rem;font-weight:600}
+.quando{font-size:clamp(1.4rem,4vw,2rem);font-weight:700;letter-spacing:-.02em;margin:0}
+.sub{color:var(--dim);font-size:.9rem;margin:.3rem 0 0}
+.grid{display:grid;gap:1.2rem;grid-template-columns:1fr}
+@media(min-width:900px){.grid{grid-template-columns:1.1fr .9fr}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:1.1rem 1.2rem}
+.card h2{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--dim);
+         margin:0 0 .9rem;font-weight:600}
+svg{width:100%;height:auto;display:block}
+.loc{fill:#1d1d26;stroke:#2f2f3b}
+.loc-lbl{fill:#6f6f7d;font-size:2.6px;text-anchor:middle}
+.pes{fill:var(--accent)}
+.pes-lbl{fill:#cfcfd8;font-size:2.4px;text-anchor:middle}
+.via{stroke:#232330;stroke-width:.4}
+table{width:100%;border-collapse:collapse;font-size:.85rem}
+td{padding:.32rem 0;border-bottom:1px solid #1e1e27;vertical-align:top}
+td:first-child{color:var(--dim);white-space:nowrap;padding-right:.9rem}
+.tag{font-size:.68rem;padding:.1rem .4rem;border-radius:99px;background:#22222c;color:var(--dim)}
+.errado{color:var(--warn)}
+.certo{color:var(--ok)}
+.vazio{color:var(--dim);font-size:.85rem}
+#porta{min-height:72vh;display:flex;flex-direction:column;align-items:center;
+       justify-content:center;text-align:center;gap:.2rem}
+/* display:flex vence o atributo `hidden` — sem isto a porta nunca some. */
+[hidden]{display:none!important}
+#porta h1{font-size:.85rem}
+.lede{font-size:clamp(1.5rem,4.5vw,2.3rem);font-weight:700;letter-spacing:-.02em;
+      max-width:20ch;line-height:1.2;margin:.4rem 0 1rem}
+.resumo{color:var(--dim);font-size:.95rem;margin:0 0 2rem}
+#entrar{font:inherit;font-weight:600;font-size:1rem;color:#fff;background:var(--accent);
+        border:0;border-radius:999px;padding:.85rem 2.2rem;cursor:pointer;
+        transition:transform .15s ease,background .15s ease}
+#entrar:hover{background:#8b5cf6;transform:translateY(-2px)}
+#entrar:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+.aviso{color:var(--dim);font-size:.8rem;max-width:44ch;margin:1.8rem 0 0;line-height:1.7}
+footer{margin-top:2rem;color:var(--dim);font-size:.78rem;line-height:1.7}
+</style></head><body><div class="wrap">
+
+<section id="porta">
+  <h1>Kestlerium</h1>
+  <p class="lede">Um lugar que continua acontecendo quando ninguém está olhando.</p>
+  <p class="resumo" id="resumo"></p>
+  <button id="entrar" type="button">Entrar no Kestlerium</button>
+  <p class="aviso">O mundo anda no horário de Brasília. O que você vai ver é o instante em que ele está agora — não uma gravação, não uma simulação que começa quando você chega.</p>
+</section>
+
+<section id="mundo" hidden>
+<header>
+  <h1>Kestlerium</h1>
+  <p class="quando" id="quando"></p>
+  <p class="sub" id="sub"></p>
+</header>
+<div class="grid">
+  <div>
+    <div class="card"><h2>A vila agora</h2><div id="mapa"></div></div>
+    <div class="card" style="margin-top:1.2rem"><h2>Onde cada um está</h2><div id="onde"></div></div>
+  </div>
+  <div>
+    <div class="card"><h2>O que se acredita — e o que é verdade</h2><div id="cabecas"></div></div>
+    <div class="card" style="margin-top:1.2rem"><h2>Quem ainda não entende o mundo</h2><div id="saber"></div></div>
+    <div class="card" style="margin-top:1.2rem"><h2>Entre as pessoas</h2><div id="rel"></div></div>
+  </div>
+</div>
+<footer id="rodape"></footer>
+</section>
+</div>
+<script id="dados" type="application/json">{"mundo": "vila", "tick": 18, "quando": "29/07/2026 09:00", "noite": false, "agentes": {"ruth": {"nome": "Dona Ruth", "origem": "nativo"}, "aurelio": {"nome": "Seu Aurélio", "origem": "nativo"}, "neide": {"nome": "Neide", "origem": "nativo"}, "tonho": {"nome": "Tonho", "origem": "nativo"}, "marcia": {"nome": "Márcia", "origem": "nativo"}, "zebruno": {"nome": "Zé Bruno", "origem": "nativo"}, "lurdes": {"nome": "Lurdes", "origem": "nativo"}, "djalma": {"nome": "Djalma", "origem": "nativo"}, "cida": {"nome": "Dona Cida", "origem": "nativo"}, "vitor": {"nome": "Vitor", "origem": "nativo"}}, "locais": [{"id": "casario", "nome": "Casario da Ladeira", "x": 22.0, "y": 34.0, "tipo": "residencia"}, {"id": "pensao", "nome": "Pensão da Dona Ruth", "x": 16.0, "y": 62.0, "tipo": "residencia"}, {"id": "mercearia", "nome": "Mercearia São Jorge", "x": 34.0, "y": 56.0, "tipo": "servico"}, {"id": "bar", "nome": "Botequim do Tonho", "x": 30.0, "y": 16.0, "tipo": "social"}, {"id": "posto", "nome": "Posto de Saúde", "x": 66.0, "y": 66.0, "tipo": "trabalho"}, {"id": "oficina", "nome": "Oficina do Aurélio", "x": 82.0, "y": 34.0, "tipo": "trabalho"}, {"id": "praca", "nome": "Praça da Matriz", "x": 50.0, "y": 44.0, "tipo": "social"}, {"id": "ponto", "nome": "Ponto do Circular", "x": 72.0, "y": 18.0, "tipo": "transito"}, {"id": "igreja", "nome": "Capela de Santo Antônio", "x": 48.0, "y": 76.0, "tipo": "social"}, {"id": "escola", "nome": "Escola Rural", "x": 66.0, "y": 12.0, "tipo": "trabalho"}, {"id": "beira", "nome": "Beira do Córrego", "x": 14.0, "y": 12.0, "tipo": "social"}], "arestas": [["casario", "praca"], ["casario", "mercearia"], ["casario", "ponto"], ["pensao", "praca"], ["mercearia", "pensao"], ["mercearia", "praca"], ["bar", "praca"], ["bar", "casario"], ["posto", "praca"], ["ponto", "posto"], ["oficina", "ponto"], ["oficina", "praca"], ["ponto", "praca"], ["igreja", "praca"], ["escola", "praca"], ["escola", "ponto"], ["beira", "casario"], ["beira", "praca"], ["casario", "igreja"]], "estado": [], "cabecas": {"ruth": [{"sujeito": "ruth", "predicado": "trabalha_para", "acredita": "mercearia", "verdade": "mercearia", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "ponto", "verdade": "ponto", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "oficina", "verdade": "oficina", "fiel": true, "confianca": 0.81, "fonte": "aurelio"}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.81, "fonte": "neide"}, {"sujeito": "neide", "predicado": "trabalha_para", "acredita": "posto", "verdade": "posto", "fiel": true, "confianca": 0.81, "fonte": "cida"}], "tonho": [{"sujeito": "ruth", "predicado": "trabalha_para", "acredita": "mercearia", "verdade": "mercearia", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "ponto", "fiel": false, "confianca": 0.81, "fonte": "ruth"}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.81, "fonte": "neide"}, {"sujeito": "neide", "predicado": "trabalha_para", "acredita": "posto", "verdade": "posto", "fiel": true, "confianca": 0.81, "fonte": "marcia"}, {"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "oficina", "verdade": "oficina", "fiel": true, "confianca": 0.81, "fonte": "vitor"}], "cida": [{"sujeito": "ruth", "predicado": "trabalha_para", "acredita": "mercearia", "verdade": "mercearia", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "neide", "predicado": "trabalha_para", "acredita": "posto", "verdade": "posto", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "ponto", "fiel": false, "confianca": 0.81, "fonte": "djalma"}, {"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "oficina", "fiel": false, "confianca": 0.81, "fonte": "aurelio"}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.81, "fonte": "marcia"}], "lurdes": [{"sujeito": "ruth", "predicado": "trabalha_para", "acredita": "mercearia", "verdade": "mercearia", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "ponto", "fiel": false, "confianca": 0.81, "fonte": "djalma"}, {"sujeito": "neide", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "posto", "fiel": false, "confianca": 0.81, "fonte": "marcia"}, {"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "oficina", "fiel": false, "confianca": 0.81, "fonte": "aurelio"}], "aurelio": [{"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "oficina", "verdade": "oficina", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.81, "fonte": "marcia"}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "ponto", "fiel": false, "confianca": 0.73, "fonte": "tonho"}, {"sujeito": "neide", "predicado": "trabalha_para", "acredita": "posto", "verdade": "posto", "fiel": true, "confianca": 0.73, "fonte": "tonho"}, {"sujeito": "aurelio", "predicado": "ama", "acredita": "zebruno", "verdade": "zebruno", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "ruth", "predicado": "trabalha_para", "acredita": "mercearia", "verdade": "mercearia", "fiel": true, "confianca": 0.81, "fonte": "lurdes"}], "vitor": [{"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "oficina", "verdade": "oficina", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "ponto", "verdade": "ponto", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "escola", "fiel": false, "confianca": 0.81, "fonte": "neide"}, {"sujeito": "neide", "predicado": "trabalha_para", "acredita": "posto", "verdade": "posto", "fiel": true, "confianca": 0.69, "fonte": "tonho"}, {"sujeito": "ruth", "predicado": "trabalha_para", "acredita": "mercearia", "verdade": "mercearia", "fiel": true, "confianca": 0.81, "fonte": "tonho"}], "zebruno": [{"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "oficina", "verdade": "oficina", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.69, "fonte": "aurelio"}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "ponto", "fiel": false, "confianca": 0.62, "fonte": "aurelio"}, {"sujeito": "neide", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "posto", "fiel": false, "confianca": 0.62, "fonte": "aurelio"}, {"sujeito": "aurelio", "predicado": "ama", "acredita": "zebruno", "verdade": "zebruno", "fiel": true, "confianca": 0.95, "fonte": null}], "neide": [{"sujeito": "neide", "predicado": "trabalha_para", "acredita": "posto", "verdade": "posto", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "ruth", "predicado": "trabalha_para", "acredita": "mercearia", "verdade": "mercearia", "fiel": true, "confianca": 0.81, "fonte": "tonho"}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "ponto", "verdade": "ponto", "fiel": true, "confianca": 0.81, "fonte": "djalma"}, {"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "oficina", "fiel": false, "confianca": 0.81, "fonte": "vitor"}], "marcia": [{"sujeito": "neide", "predicado": "trabalha_para", "acredita": "posto", "verdade": "posto", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "ponto", "fiel": false, "confianca": 0.81, "fonte": "ruth"}, {"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "oficina", "fiel": false, "confianca": 0.69, "fonte": "neide"}], "djalma": [{"sujeito": "djalma", "predicado": "trabalha_para", "acredita": "ponto", "verdade": "ponto", "fiel": true, "confianca": 0.95, "fonte": null}, {"sujeito": "ruth", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "mercearia", "fiel": false, "confianca": 0.81, "fonte": "tonho"}, {"sujeito": "neide", "predicado": "trabalha_para", "acredita": "posto", "verdade": "posto", "fiel": true, "confianca": 0.81, "fonte": "cida"}, {"sujeito": "marcia", "predicado": "trabalha_para", "acredita": "escola", "verdade": "escola", "fiel": true, "confianca": 0.73, "fonte": "cida"}, {"sujeito": "aurelio", "predicado": "trabalha_para", "acredita": "mal_entendido", "verdade": "oficina", "fiel": false, "confianca": 0.58, "fonte": "marcia"}]}, "conhecimento": {"ruth": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "aurelio": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "neide": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "tonho": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "marcia": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "zebruno": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "lurdes": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "djalma": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "cida": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}], "vitor": [{"conceito": "dinheiro", "dominio": 1.0, "ensinou": null}, {"conceito": "emprego", "dominio": 1.0, "ensinou": null}, {"conceito": "horario", "dominio": 1.0, "ensinou": null}, {"conceito": "transporte", "dominio": 1.0, "ensinou": null}, {"conceito": "documento", "dominio": 1.0, "ensinou": null}, {"conceito": "telefone", "dominio": 1.0, "ensinou": null}, {"conceito": "eletricidade", "dominio": 1.0, "ensinou": null}, {"conceito": "comercio", "dominio": 1.0, "ensinou": null}, {"conceito": "saude", "dominio": 1.0, "ensinou": null}, {"conceito": "moradia", "dominio": 1.0, "ensinou": null}]}, "relacoes": [{"a": "aurelio", "b": "djalma", "afeto": 0.05, "confianca": 0.38, "tensao": 0.36}, {"a": "cida", "b": "djalma", "afeto": 0.08, "confianca": 0.43, "tensao": 0.36}, {"a": "vitor", "b": "zebruno", "afeto": 0.27, "confianca": 0.75, "tensao": 0.36}, {"a": "tonho", "b": "vitor", "afeto": 0.32, "confianca": 0.84, "tensao": 0.36}, {"a": "cida", "b": "marcia", "afeto": 0.22, "confianca": 0.67, "tensao": 0.36}, {"a": "aurelio", "b": "vitor", "afeto": 0.34, "confianca": 0.87, "tensao": 0.36}, {"a": "tonho", "b": "zebruno", "afeto": 0.19, "confianca": 0.62, "tensao": 0.36}, {"a": "marcia", "b": "vitor", "afeto": 0.09, "confianca": 0.45, "tensao": 0.36}, {"a": "aurelio", "b": "lurdes", "afeto": 0.17, "confianca": 0.59, "tensao": 0.35}, {"a": "marcia", "b": "neide", "afeto": 0.11, "confianca": 0.48, "tensao": 0.35}, {"a": "cida", "b": "tonho", "afeto": 0.02, "confianca": 0.34, "tensao": 0.35}, {"a": "aurelio", "b": "zebruno", "afeto": 0.56, "confianca": 1.0, "tensao": 0.35}, {"a": "ruth", "b": "tonho", "afeto": 0.34, "confianca": 0.86, "tensao": 0.35}, {"a": "aurelio", "b": "marcia", "afeto": 0.09, "confianca": 0.45, "tensao": 0.35}, {"a": "aurelio", "b": "neide", "afeto": 0.08, "confianca": 0.44, "tensao": 0.35}, {"a": "lurdes", "b": "ruth", "afeto": 0.17, "confianca": 0.59, "tensao": 0.35}, {"a": "djalma", "b": "vitor", "afeto": 0.05, "confianca": 0.38, "tensao": 0.25}, {"a": "ruth", "b": "zebruno", "afeto": 0.13, "confianca": 0.51, "tensao": 0.34}, {"a": "djalma", "b": "marcia", "afeto": 0.11, "confianca": 0.48, "tensao": 0.34}, {"a": "lurdes", "b": "neide", "afeto": 0.09, "confianca": 0.45, "tensao": 0.34}, {"a": "djalma", "b": "tonho", "afeto": 0.04, "confianca": 0.36, "tensao": 0.34}, {"a": "aurelio", "b": "cida", "afeto": 0.13, "confianca": 0.51, "tensao": 0.34}, {"a": "neide", "b": "tonho", "afeto": 0.1, "confianca": 0.47, "tensao": 0.34}, {"a": "marcia", "b": "tonho", "afeto": 0.08, "confianca": 0.43, "tensao": 0.29}, {"a": "lurdes", "b": "marcia", "afeto": 0.13, "confianca": 0.51, "tensao": 0.32}, {"a": "marcia", "b": "ruth", "afeto": 0.13, "confianca": 0.51, "tensao": 0.34}, {"a": "cida", "b": "lurdes", "afeto": 0.1, "confianca": 0.47, "tensao": 0.34}, {"a": "aurelio", "b": "tonho", "afeto": 0.15, "confianca": 0.55, "tensao": 0.33}, {"a": "djalma", "b": "lurdes", "afeto": 0.08, "confianca": 0.43, "tensao": 0.33}, {"a": "cida", "b": "ruth", "afeto": 0.01, "confianca": 0.32, "tensao": 0.28}, {"a": "cida", "b": "neide", "afeto": 0.08, "confianca": 0.43, "tensao": 0.28}, {"a": "cida", "b": "vitor", "afeto": 0.08, "confianca": 0.44, "tensao": 0.33}, {"a": "ruth", "b": "vitor", "afeto": 0.02, "confianca": 0.34, "tensao": 0.33}, {"a": "aurelio", "b": "ruth", "afeto": 0.05, "confianca": 0.38, "tensao": 0.33}, {"a": "neide", "b": "ruth", "afeto": 0.04, "confianca": 0.37, "tensao": 0.32}, {"a": "marcia", "b": "zebruno", "afeto": 0.01, "confianca": 0.31, "tensao": 0.32}, {"a": "neide", "b": "vitor", "afeto": 0.07, "confianca": 0.41, "tensao": 0.31}, {"a": "lurdes", "b": "tonho", "afeto": 0.05, "confianca": 0.39, "tensao": 0.31}, {"a": "lurdes", "b": "vitor", "afeto": 0.1, "confianca": 0.47, "tensao": 0.3}, {"a": "djalma", "b": "neide", "afeto": 0.03, "confianca": 0.35, "tensao": 0.3}, {"a": "neide", "b": "zebruno", "afeto": 0.03, "confianca": 0.35, "tensao": 0.29}]}</script>
+<script>
+const D = JSON.parse(document.getElementById('dados').textContent);
+const nome = id => (D.agentes[id]||{}).nome || id;
+
+// A porta: ninguém cai dentro do terrário, entra quem quer.
+document.getElementById('resumo').textContent =
+  D.quando + ' · ' + (D.noite ? 'noite' : 'dia') + ' · ' +
+  Object.keys(D.agentes).length + ' moradores';
+document.getElementById('entrar').addEventListener('click', () => {
+  document.getElementById('porta').hidden = true;
+  document.getElementById('mundo').hidden = false;
+  window.scrollTo({top: 0});
+});
+
+document.getElementById('quando').textContent = D.quando;
+document.getElementById('sub').textContent =
+  (D.noite ? 'noite' : 'dia') + ' · horário de Brasília · ' +
+  Object.keys(D.agentes).length + ' moradores';
+
+// --- planta baixa ---
+const porLocal = {};
+D.estado.forEach(e => { if(e.location_id) (porLocal[e.location_id] ||= []).push(e); });
+const loc = Object.fromEntries(D.locais.map(l => [l.id, l]));
+let svg = '<svg viewBox="0 0 100 92" role="img" aria-label="Planta da vila">';
+D.arestas.forEach(([a,b]) => {
+  const A = loc[a], B = loc[b];
+  if(A && B) svg += `<line class="via" x1="${A.x}" y1="${A.y}" x2="${B.x}" y2="${B.y}"/>`;
+});
+D.locais.forEach(l => {
+  const gente = porLocal[l.id] || [];
+  const r = 5 + Math.min(4, gente.length);
+  svg += `<circle class="loc" cx="${l.x}" cy="${l.y}" r="${r}" stroke-width=".4"/>`;
+  svg += `<text class="loc-lbl" x="${l.x}" y="${l.y + r + 3}">${l.nome}</text>`;
+  gente.forEach((g, i) => {
+    const ang = (i / Math.max(1,gente.length)) * Math.PI * 2 - Math.PI/2;
+    const px = l.x + Math.cos(ang) * (r - 2.2), py = l.y + Math.sin(ang) * (r - 2.2);
+    svg += `<circle class="pes" cx="${px}" cy="${py}" r="1.1"><title>${nome(g.agent_id)} — ${g.activity}</title></circle>`;
+  });
+});
+svg += '</svg>';
+document.getElementById('mapa').innerHTML = svg;
+
+// --- onde cada um está ---
+const emTransito = D.estado.filter(e => !e.location_id);
+let linhas = D.estado.filter(e => e.location_id)
+  .sort((a,b)=> nome(a.agent_id).localeCompare(nome(b.agent_id)))
+  .map(e => `<tr><td>${nome(e.agent_id)}</td><td>${(loc[e.location_id]||{}).nome||e.location_id}
+             <span class="tag">${e.activity}</span></td></tr>`).join('');
+linhas += emTransito.map(e => `<tr><td>${nome(e.agent_id)}</td><td class="vazio">a caminho</td></tr>`).join('');
+document.getElementById('onde').innerHTML = linhas ? `<table>${linhas}</table>`
+  : '<p class="vazio">Ninguém registrado neste instante.</p>';
+
+// --- crenças: o coração do que se quer ver ---
+let cb = [];
+Object.entries(D.cabecas).forEach(([quem, itens]) => {
+  itens.filter(i => !i.fiel || i.confianca < 0.95).forEach(i => {
+    cb.push(`<tr><td>${nome(quem)}</td><td>
+      <em>${i.sujeito}</em> ${i.predicado}
+      <strong class="${i.fiel?'certo':'errado'}">${i.acredita ?? '—'}</strong>
+      ${i.fiel ? '' : `<span class="tag">na verdade: ${i.verdade ?? '—'}</span>`}
+      <span class="tag">conf ${i.confianca}</span>
+      ${i.fonte ? `<span class="tag">ouviu de ${nome(i.fonte)}</span>` : ''}
+    </td></tr>`);
+  });
+});
+document.getElementById('cabecas').innerHTML = cb.length ? `<table>${cb.slice(0,18).join('')}</table>`
+  : '<p class="vazio">Todo mundo sabe o que aconteceu, e sabe direito. Ainda não há versão torta circulando.</p>';
+
+// --- conhecimento ---
+const total = 10;
+let sb = Object.entries(D.conhecimento).map(([quem, cs]) => {
+  const dominados = cs.filter(c => c.dominio >= 0.55).length;
+  return {quem, dominados, faltam: cs.filter(c=>c.dominio<0.55).map(c=>c.conceito)};
+}).filter(x => x.faltam.length).sort((a,b)=>a.dominados-b.dominados);
+document.getElementById('saber').innerHTML = sb.length
+  ? `<table>${sb.slice(0,10).map(x=>`<tr><td>${nome(x.quem)}</td><td>
+       ainda não sabe: ${x.faltam.slice(0,4).join(', ')}</td></tr>`).join('')}</table>`
+  : '<p class="vazio">Todos aqui sabem como o mundo funciona. É a vila da base: eles moram aqui desde o começo.</p>';
+
+// --- relações ---
+const rel = D.relacoes.slice().sort((a,b)=> b.tensao - a.tensao).slice(0,10);
+document.getElementById('rel').innerHTML = rel.length
+  ? `<table>${rel.map(r=>`<tr><td>${nome(r.a)} · ${nome(r.b)}</td><td>
+      <span class="tag">afeto ${r.afeto}</span>
+      <span class="tag">confiança ${r.confianca}</span>
+      <span class="tag">tensão ${r.tensao}</span></td></tr>`).join('')}</table>`
+  : '<p class="vazio">Nada marcante entre as pessoas ainda.</p>';
+
+document.getElementById('rodape').textContent =
+  'O Kestlerium anda no horário de Brasília e não para quando ninguém está olhando. ' +
+  'Esta página é um registro do instante — o mundo já seguiu.';
+</script></body></html>

@@ -45,6 +45,12 @@ const nothing = computed(() => visibleGroups.value.length === 0)
         stories, fanfiction and game design documents. Choose a universe to begin reading.
       </p>
 
+      <a class="archive-porta" href="/KESTLER-REPO/kestlerium/">
+        <span class="archive-porta-dot"></span>
+        Kestlerium — o mundo está acontecendo agora
+        <span class="archive-porta-seta">→</span>
+      </a>
+
       <div class="archive-controls">
         <input
           v-model="query"

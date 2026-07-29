@@ -12,13 +12,14 @@ from __future__ import annotations
 
 import argparse
 import pathlib
+import json
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from engine import clock as clockmod
-from engine import db, goals as goalmod, report, world
+from engine import db, goals as goalmod, report, viewer, world
 from engine.sim import Simulation
 
 OUT = Path(__file__).resolve().parent / "out"
@@ -128,6 +129,66 @@ def cmd_avancar(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_publicar(args: argparse.Namespace) -> int:
+    """Avança o mundo até agora e escreve a janela do terrário.
+
+    A página é estática e o snapshot é pequeno: o agendador roda isto a cada
+    30 min — a duração de um tick — então o que se publica é sempre o tick
+    corrente. Quem abre a página vê o agora sem iniciar nada.
+    """
+    conn = db.connect(OUT / f"mundo_{args.mundo}.db")
+    w = world.load(conn, args.mundo)
+    from_tick = _bind_epoch(conn)
+    to_tick = clockmod.RealClock().current_tick()
+
+    if to_tick > from_tick:
+        sim = Simulation(conn, w, seed=args.seed, world_name=args.mundo)
+        sim.run(from_tick, to_tick, mode="real")
+        print(f"Avancou {to_tick - from_tick} tick(s) ate {clockmod.label(to_tick)}.")
+    else:
+        print(f"Ja estava em {clockmod.label(from_tick)}.")
+
+    tick = max(0, min(to_tick, from_tick if to_tick <= from_tick else to_tick) - 1)
+    snap = viewer.snapshot(conn, tick, args.mundo)
+
+    destino = Path(args.saida) if args.saida else (
+        Path(__file__).resolve().parent.parent / "public" / "kestlerium")
+    destino.mkdir(parents=True, exist_ok=True)
+    (destino / "index.html").write_text(viewer.render(snap), encoding="utf-8")
+    (destino / "snapshot.json").write_text(
+        json.dumps(snap, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    _podar(conn, tick)
+    conn.close()
+    print(f"Publicado em {destino}/index.html ({snap['quando']}).")
+    return 0
+
+
+def _podar(conn, tick: int, dias_rastro: int = 3) -> None:
+    """Versiona-se o ESTADO do mundo, não o histórico dele.
+
+    Medido em 90 dias de vila: o banco completo passa de 5,8 MB, dos quais
+    43.200 linhas são `agent_state` — rastro de posição a cada meia hora, que
+    não serve para nada depois de passar. Fatos, crenças, relações e
+    conhecimento, que são o mundo de verdade, somam 132 KB e **não crescem**.
+
+    Como o agendador commita a cada 30 minutos, um banco que cresce sem limite
+    inviabilizaria o repositório em semanas. Então guarda-se o estado inteiro,
+    o instante corrente (que o snapshot precisa) e alguns dias de rastro para
+    diagnóstico. O resto é reproduzível pela seed.
+    """
+    conn.execute("DELETE FROM agent_state WHERE tick < ?", (tick,))
+    corte = tick - dias_rastro * clockmod.TICKS_PER_DAY
+    if corte > 0:
+        conn.execute("DELETE FROM encounter WHERE tick < ?", (corte,))
+        conn.execute("DELETE FROM pressure_event WHERE tick < ?", (corte,))
+    conn.execute("DELETE FROM run WHERE id NOT IN"
+                 " (SELECT id FROM run ORDER BY id DESC LIMIT 50)")
+    conn.commit()
+    conn.execute("PRAGMA wal_checkpoint(TRUNCATE)")
+    conn.execute("VACUUM")
+
+
 def cmd_agora(args: argparse.Namespace) -> int:
     """Fotografia do instante: quem está onde, agora."""
     conn = db.connect(OUT / f"mundo_{args.mundo}.db")
@@ -175,6 +236,10 @@ def main() -> int:
 
     p = add_common(sub.add_parser("avancar", help="avança o mundo real até agora"))
     p.set_defaults(func=cmd_avancar)
+
+    p = add_common(sub.add_parser("publicar", help="avança e escreve a janela do terrário"))
+    p.add_argument("--saida", default=None)
+    p.set_defaults(func=cmd_publicar)
 
     p = add_common(sub.add_parser("agora", help="mostra o estado do instante atual"))
     p.set_defaults(func=cmd_agora)

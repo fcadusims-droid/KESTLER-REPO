@@ -109,11 +109,13 @@ def load(conn: sqlite3.Connection, world_name: str = DEFAULT_WORLD) -> World:
     cast_doc = json.loads((src / "cast.json").read_text(encoding="utf-8"))
 
     conn.executemany(
-        "INSERT OR REPLACE INTO location (id, name, kind, capacity, connected, shared, food)"
-        " VALUES (?, ?, ?, ?, ?, ?, ?)",
+        "INSERT OR REPLACE INTO location"
+        " (id, name, kind, capacity, connected, shared, food, x, y)"
+        " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
         [
             (loc["id"], loc["name"], loc["kind"], loc["capacity"],
-             loc["connected"], loc["shared"], loc.get("food", 0))
+             loc["connected"], loc["shared"], loc.get("food", 0),
+             loc.get("x", 50), loc.get("y", 50))
             for loc in locations_doc["locations"]
         ],
     )

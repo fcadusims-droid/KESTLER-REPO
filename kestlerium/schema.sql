@@ -22,7 +22,9 @@ CREATE TABLE IF NOT EXISTS location (
     capacity  INTEGER NOT NULL,
     connected INTEGER NOT NULL, -- 1 = tem rede; canal de encontro das entidades
     shared    INTEGER NOT NULL, -- 1 = espaço comum; 0 = moradia (unidades privadas)
-    food      INTEGER NOT NULL DEFAULT 0  -- 1 = onde se come
+    food      INTEGER NOT NULL DEFAULT 0, -- 1 = onde se come
+    x         REAL NOT NULL DEFAULT 50,   -- planta baixa, grade 0..100
+    y         REAL NOT NULL DEFAULT 50    -- só visual; o motor usa o grafo
 );
 
 -- Grafo de deslocamento. Gravado nas duas direções na carga.

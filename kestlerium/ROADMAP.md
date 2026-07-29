@@ -85,9 +85,33 @@ fases seguintes gasta sem critério.
 
 ### E. Fase 5 — Beats narrados (o primeiro LLM)
 
-Uma chamada barata por beat, sem diálogo, saída em JSON estrito com deltas
-validados contra limites. Cache indexado por hash desde o primeiro dia, senão o
-replay determinístico morre.
+**Restrição fixada: nada pago.** Só modelo aberto ou camada gratuita. Isso não é
+detalhe de custo — muda a arquitetura, e é melhor decidir agora do que descobrir
+na hora.
+
+Consequências concretas:
+
+- **A narração não pode rodar no agendador.** O runner do GitHub Actions não tem
+  GPU e tem teto de tempo; modelo local de 7B em CPU não fecha uma janela de 30
+  minutos com folga. Então o laço se divide: **o mundo avança na nuvem** (é
+  barato, é só aritmética), **a narração roda em outro lugar** — máquina local
+  com Ollama/llama.cpp, ou camada gratuita de API — e o texto volta como commit.
+- **O contrato JSON estrito fica mais importante, não menos.** Modelo pequeno
+  erra formato com mais frequência que modelo grande. A validação de delta
+  contra limites, a rejeição com uma re-tentativa e o delta neutro no fracasso
+  deixam de ser precaução e viram caminho normal.
+- **O cache indexado por hash vira obrigatório desde o primeiro dia.** Com
+  geração cara em tempo (minutos por beat em CPU), reprocessar é inviável — e
+  sem cache o replay determinístico morre junto.
+- **Beats primeiro, cenas muito depois.** Um beat é uma chamada curta com saída
+  estruturada, que é justamente o que modelo pequeno faz melhor. Diálogo
+  encenado com vários turnos é o caso mais caro e mais frágil; só depois que os
+  beats estiverem estáveis.
+
+Candidatos a avaliar quando chegar a hora, sem compromisso: modelos abertos na
+faixa 7-14B rodando local, e camadas gratuitas de inferência. A escolha deve ser
+feita medindo **taxa de saída válida no contrato**, não qualidade de prosa — se
+o JSON não fecha, a prosa não importa.
 
 ### F. Fase 6 — Cenas encenadas
 
