@@ -28,6 +28,10 @@ CONFLICTING = {
 }
 
 
+# Tipos que alguém pode atrapalhar. Só estes viram pressão de conflito.
+CONTESTABLE = {t for par in CONFLICTING for t in par}
+
+
 def instantiate(conn: sqlite3.Connection, agents: dict, facts: dict,
                 ledger=None) -> list[dict]:
     """Dá a cada agente os objetivos que a situação dele implica.
@@ -225,8 +229,11 @@ def progress(goal: dict, ledger, agents: dict) -> float:
                 return 1.0
         return min(0.9, ledger.paperwork.get(goal["agent_id"], 0) / 8.0)
 
-    if gtype in ("compreender_mundo", "remover_obstaculo"):
-        # compreender_mundo precisa da camada de conhecimento (verossimilhança).
+    if gtype == "compreender_mundo":
+        knowing = getattr(ledger, "knowing", None)
+        return knowing.world_grasp(goal["agent_id"]) if knowing else 0.0
+
+    if gtype == "remover_obstaculo":
         return 0.0
 
     if gtype == "retornar_origem":
@@ -247,9 +254,17 @@ class GoalTracker:
         self._last: dict[int, float] = {}
 
     def delta_for(self, agent_ids, ledger) -> float:
-        """Mudança total de progresso nos objetivos destes agentes.
+        """Mudança de progresso em objetivos DISPUTÁVEIS.
 
-        É isto que o plano chama de 'objetivos bloqueados/avançados'.
+        O plano chama isto de 'objetivos bloqueados/avançados'. A palavra que
+        importa é *bloqueado*: pressão vem de objetivo que alguém pode
+        atrapalhar. Aprender o que é um ônibus move `compreender_mundo`, mas
+        ninguém se opõe a isso — é cotidiano, não drama, e contá-lo como
+        conflito fazia o mundo alternar entre "todos aprendendo" (pressão em
+        todo lugar) e "todos já sabem" (pressão nenhuma), sem meio-termo.
+
+        Objetivo que não aparece em CONFLICTING continua real e continua
+        governando comportamento; só não gera pressão de conflito.
         """
         total = 0.0
         for agent_id in agent_ids:
@@ -257,7 +272,8 @@ class GoalTracker:
                 gid = id(goal)
                 now = progress(goal, ledger, self.agents)
                 before = self._last.get(gid)
-                if before is not None and abs(now - before) > 1e-9:
+                if (before is not None and abs(now - before) > 1e-9
+                        and goal["type"] in CONTESTABLE):
                     total += abs(now - before) * goal["priority"]
                 self._last[gid] = now
         return total

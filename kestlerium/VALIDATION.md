@@ -258,7 +258,100 @@ abriu.
 
 ---
 
-## Estado atual — Fases 1, 2 e 3 aprovadas
+## Verossimilhança — conhecimento, ensino e a regra do autor
+
+Não é uma fase do plano original: nasceu do pedido de que o Kestlerium fosse
+verossímil — Severin não pode chegar e ir trabalhar no bar, porque ele não sabe
+o que é um bar, nem um turno, nem dinheiro.
+
+### A regra que organiza tudo
+
+**Um personagem conhece apenas o que viveu dentro da história dele, nunca a
+obra.** Severin sabe o que é linhagem e juramento porque atravessou os dois;
+não sabe o enredo de *One Blood*, não sabe o que aconteceu longe da vista dele,
+não sabe que é personagem de coisa alguma. Essa fronteira é do autor.
+
+Isso não exigiu mecanismo novo — é a separação `fact`/`belief` da Fase 2
+aplicada a conceitos. Conhecimento de origem é um conjunto limitado, não a
+tabela de verdade do mundo de origem.
+
+### A consequência que dá verdade ao mundo
+
+Sem o conceito, a atividade não acontece. Quem não sabe o que é emprego não vai
+trabalhar; quem não sabe o que é transporte fica preso onde chegou. Medido ao
+fim de 90 dias:
+
+```
+Severin Sângelună   chegou d0    sabe  7/10   perdido  683 ticks
+Alex                chegou d0    sabe  9/10   perdido 1567 ticks
+Lácrimel            chegou d12   sabe  7/10   perdido 1113 ticks
+Oswine              chegou d34   sabe  5/10   perdido  933 ticks
+O Escriba           chegou d51   sabe  4/10   perdido  257 ticks
+Sphaira             chegou d68   sabe  3/10   perdido  208 ticks
+```
+
+`perdido` são os ticks em que o personagem não soube o que fazer e ficou por
+perto observando. `compreender_mundo` deixou de ser rótulo inerte e virou
+pré-requisito de sobrevivência.
+
+A troca é nos dois sentidos e a de volta é distorcida — Severin ensinou
+`juramento` a Clara, que o arquiva como curiosidade, não como ferramenta.
+
+### P20 — A camada de conhecimento desestabilizou o portão da Fase 3
+
+**Sintoma.** Antes dela, 4 de 5 seeds passavam em todos os portões. Depois,
+1 ou 2 — e a varredura de pesos encontrava um penhasco: `ep=0.56` dava 3% dos
+dias com pico, `ep=0.70` dava 22%, sem meio-termo.
+
+**Causa.** `compreender_mundo` entrava no cálculo de conflito de objetivo.
+Como todos os deslocados aprendem ao mesmo tempo e depois saturam, o mundo
+alternava entre "todos aprendendo" (pressão em todo lugar) e "todos já sabem"
+(pressão nenhuma).
+
+**Diagnóstico.** **Aprender o que é um ônibus não é um evento dramático.** O
+plano escreve `CO = objetivos bloqueados/avançados`, e a palavra que importa é
+*bloqueado*: pressão vem de objetivo que alguém pode atrapalhar. Ninguém se
+opõe a Severin descobrir o que é dinheiro.
+
+**Correção.** Só tipos que aparecem em `CONFLICTING` geram pressão de conflito.
+Os demais continuam reais e continuam governando comportamento — apenas não são
+drama.
+
+**Resultado.** 1/5 → 4/5 seeds, e os valores entre seeds deixaram de ser
+bimodais.
+
+### P21 — Sem NPC, o aprendizado fica ao acaso
+
+Com o ensino dependendo só de encontro fortuito, um deslocado que não cruzasse
+com um morador cedo travava, e o mundo esfriava junto. Moradores locais passaram
+a ensinar ativamente — é esse o papel deles diante de alguém que acabou de
+chegar sem entender nada.
+
+---
+
+## Estado atual — três fases + verossimilhança
+
+```
+FASE 1 APROVADA     FASE 2 APROVADA          FASE 3 APROVADA
+                                             curtose         +7.2
+                                             dias com pico    6.7%  (2-8%)
+                                             elenco em pico    73%  (>60%)
+```
+
+Pesos: `ep 0.62 · co 0.50 · cr 1.25 · re 0.82 · ta 0.40 · plateia 2.30`
+**Robustez: 4 de 5 seeds passam em todos os portões.**
+
+## Próximo
+
+A **vila** ainda não foi construída. A configuração de produção — 8 locais, NPCs
+com função declarada, e **um** personagem chegando sem entender nada — é o passo
+seguinte. O distrito de 15 continua como bancada de teste, porque os portões
+medem distribuições e uma vila com um morador seria quieta demais para
+distinguir detector quebrado de mundo calmo.
+
+---
+
+## Estado anterior (Fases 1-3, sem conhecimento)
 
 ```
 FASE 1                      FASE 2                    FASE 3

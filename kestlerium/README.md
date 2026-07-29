@@ -54,6 +54,8 @@ código.
 - [x] **Fase 1** — corpos, mapa, rotinas, encontros. Sem drama, sem LLM.
 - [x] **Fase 2** — verdade vs. crença, grafo social, fofoca distorcida
 - [x] **Fase 3** — detector de pressão. **Portão de verdade: aprovado.**
+- [x] **Verossimilhança** — conhecimento de origem, ensino, rotina bloqueada por ignorância
+- [ ] **A vila** — configuração de produção: 1 personagem, NPCs, 8 locais
 - [ ] **Fase 4** — governador de ritmo
 - [ ] **Fase 5+** — narração, cenas, deriva de identidade, crônica
 
