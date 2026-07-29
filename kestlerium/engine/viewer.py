@@ -63,8 +63,22 @@ def snapshot(conn: sqlite3.Connection, tick: int, world_name: str) -> dict:
              "ensinou": k["taught_by"]}
         )
 
+    # Os fios de história — Fase 8. A planta baixa mostra onde as pessoas
+    # estão; o fio mostra o que está acontecendo com elas ao longo de semanas,
+    # que é a única coisa que um instante não consegue mostrar.
+    fios = []
+    for r in conn.execute(
+            "SELECT * FROM thread ORDER BY status, opened_day DESC LIMIT 12"):
+        entradas = [dict(e) for e in conn.execute(
+            "SELECT day, kind, text FROM thread_entry WHERE thread_id = ?"
+            " ORDER BY day, id", (r["id"],))]
+        fios.append({"titulo": r["title"], "estado": r["status"],
+                     "abriu": r["opened_day"],
+                     "entradas": entradas[-4:]})
+
     return {
         "mundo": world_name,
+        "fios": fios,
         "tick": tick,
         "quando": clockmod.label(tick),
         "noite": clockmod.is_night(tick),
@@ -138,6 +152,11 @@ td:first-child{color:var(--dim);white-space:nowrap;padding-right:.9rem}
 #entrar:hover{background:#8b5cf6;transform:translateY(-2px)}
 #entrar:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
 .aviso{color:var(--dim);font-size:.8rem;max-width:44ch;margin:1.8rem 0 0;line-height:1.7}
+.fio{padding:.9rem 0;border-bottom:1px solid #1e1e27}
+.fio:last-child{border-bottom:0}
+.fio h3{font-size:.95rem;margin:0 0 .5rem;font-weight:600}
+.fio p{margin:.35rem 0;font-size:.86rem;color:#c4c4cf}
+.dia{color:var(--dim)}
 footer{margin-top:2rem;color:var(--dim);font-size:.78rem;line-height:1.7}
 </style></head><body><div class="wrap">
 
@@ -164,6 +183,11 @@ footer{margin-top:2rem;color:var(--dim);font-size:.78rem;line-height:1.7}
     <div class="card"><h2>O que se acredita — e o que é verdade</h2><div id="cabecas"></div></div>
     <div class="card" style="margin-top:1.2rem"><h2>Quem ainda não entende o mundo</h2><div id="saber"></div></div>
     <div class="card" style="margin-top:1.2rem"><h2>Entre as pessoas</h2><div id="rel"></div></div>
+  </div>
+</div>
+<div class="grid" style="margin-top:1.2rem;grid-template-columns:1fr">
+  <div>
+    <div class="card"><h2>Os fios de história</h2><div id="fios"></div></div>
   </div>
 </div>
 <footer id="rodape"></footer>
@@ -257,6 +281,15 @@ document.getElementById('rel').innerHTML = rel.length
       <span class="tag">confiança ${r.confianca}</span>
       <span class="tag">tensão ${r.tensao}</span></td></tr>`).join('')}</table>`
   : '<p class="vazio">Nada marcante entre as pessoas ainda.</p>';
+
+// --- fios (Fase 8): o que um instante não mostra ---
+const fios = D.fios || [];
+document.getElementById('fios').innerHTML = fios.length
+  ? fios.map(f => `<div class="fio">
+      <h3>${f.titulo} <span class="tag">${f.estado}</span></h3>
+      ${f.entradas.map(e=>`<p><span class="dia">Dia ${e.day}.</span> ${e.text}</p>`).join('')}
+    </div>`).join('')
+  : '<p class="vazio">Ainda não há fio de história aqui. Um fio nasce de um fato que volta a importar — e a vila da base não guarda segredo nenhum.</p>';
 
 document.getElementById('rodape').textContent =
   'O Kestlerium anda no horário de Brasília e não para quando ninguém está olhando. ' +

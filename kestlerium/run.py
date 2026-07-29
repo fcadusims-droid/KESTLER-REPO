@@ -4,6 +4,7 @@
     python run.py validar            # 90 dias em segundos, banco descartável
     python run.py avancar            # avança o mundo real até agora (Brasília)
     python run.py agora              # onde está cada um neste instante
+    python run.py cronica            # escreve os fios de história em Markdown
 
 O modo real nunca usa o banco de validação e vice-versa.
 """
@@ -19,7 +20,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from engine import clock as clockmod
-from engine import db, goals as goalmod, report, viewer, world
+from engine import chronicle, db, goals as goalmod, report, viewer, world
 from engine.sim import Simulation
 
 OUT = Path(__file__).resolve().parent / "out"
@@ -49,19 +50,44 @@ def _bind_epoch(conn) -> int:
     return 0
 
 
-def cmd_validar(args: argparse.Namespace) -> int:
-    """Modo rápido: queima os erros de design antes do mundo viver de verdade."""
-    conn = db.connect(OUT / f"validacao_{args.mundo}.db", fresh=True)
-    w = world.load(conn, args.mundo)
-    total_ticks = args.dias * clockmod.TICKS_PER_DAY
+def _reancorar(conn, last_tick: int) -> int:
+    """O mundo não pode estar à frente de Brasília.
 
-    sim = Simulation(conn, w, seed=args.seed, world_name=args.mundo)
+    Aconteceu de verdade: o banco da vila foi commitado com 4320 ticks — 90
+    dias — vividos a partir de uma época de hoje. Como o relógio real estava
+    90 dias *atrás* do último tick, `publicar` não tinha o que avançar e
+    publicava um instante sem estado gravado: **a página ficou mostrando uma
+    vila vazia.**
+
+    A correção não descarta nada. A época é só o ponto em que o tick zero foi
+    fixado — deslocá-la para trás faz os 90 dias já vividos passarem a ser os
+    90 dias anteriores a hoje. A história é a mesma; o calendário é que estava
+    no lugar errado. Fica na meia-noite local para `tick % 48` continuar
+    casando com a hora de Brasília.
+    """
+    from datetime import timedelta
+    dias = last_tick // clockmod.TICKS_PER_DAY
+    nova = clockmod.default_epoch() - timedelta(days=dias)
+    clockmod.set_epoch(nova)
+    conn.execute("UPDATE world_clock SET epoch_iso = ? WHERE id = 1",
+                 (nova.isoformat(),))
+    conn.commit()
+    print(f"Mundo estava adiante do relógio real. Época reancorada para"
+          f" {nova.strftime('%d/%m/%Y')}; {dias} dias vividos preservados.")
+    return clockmod.RealClock().current_tick()
+
+
+def _armar(sim, w, conn, retomar: bool = False) -> None:
+    """Liga detector de pressão e governador de ritmo a uma simulação.
+
+    Ficava só na validação, e isso era um buraco: o mundo publicado nunca
+    calculava pressão nem agendava nada, então a crônica da vila jamais teria
+    um fio, por mais que o mundo vivesse. Medir só na bancada é medir o que
+    não é publicado.
+    """
     from engine.pacing import Governor
     from engine.pressure import PressureDetector
 
-    # Os fatos entram no mundo no tick deles — plantar tudo de véspera faria
-    # todas as saliências decaírem juntas e a fofoca morrer no meio da run.
-    # Os objetivos são reconstruídos quando fatos novos aparecem.
     def rebuild_goals():
         goal_list = goalmod.instantiate(conn, w.agents, sim.ledger.facts, sim.ledger)
         if sim.detector is None:
@@ -72,6 +98,21 @@ def cmd_validar(args: argparse.Namespace) -> int:
     sim.on_new_facts = rebuild_goals
     rebuild_goals()
     sim.governor = Governor()
+    if retomar:
+        sim.governor.load(conn)
+
+
+def cmd_validar(args: argparse.Namespace) -> int:
+    """Modo rápido: queima os erros de design antes do mundo viver de verdade."""
+    conn = db.connect(OUT / f"validacao_{args.mundo}.db", fresh=True)
+    w = world.load(conn, args.mundo)
+    total_ticks = args.dias * clockmod.TICKS_PER_DAY
+
+    # Os fatos entram no mundo no tick deles — plantar tudo de véspera faria
+    # todas as saliências decaírem juntas e a fofoca morrer no meio da run.
+    # Os objetivos são reconstruídos quando fatos novos aparecem.
+    sim = Simulation(conn, w, seed=args.seed, world_name=args.mundo)
+    _armar(sim, w, conn)
 
     result = sim.run(0, total_ticks, mode="rapido")
 
@@ -85,7 +126,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
          "seed_facts.json").read_text(encoding="utf-8"))
     gates = spec.get("gates", ["1", "2", "3"])
 
-    passed2 = passed3 = passed4 = True
+    passed2 = passed3 = passed4 = passed8 = True
     if "2" in gates:
         m2 = report.collect_phase2(conn, total_ticks, args.mundo)
         text2, passed2 = report.render_phase2(m2)
@@ -93,7 +134,7 @@ def cmd_validar(args: argparse.Namespace) -> int:
         (OUT / f"fase2_{args.mundo}.txt").write_text(text2, encoding="utf-8")
     else:
         print()
-        faltando = ", ".join(g for g in ("2", "3", "4") if g not in gates)
+        faltando = ", ".join(g for g in ("2", "3", "4", "8") if g not in gates)
         print(f"  Fases {faltando} nao se aplicam a '{args.mundo}':")
         print(f"  {spec.get('_gates_nota','')}")
 
@@ -109,7 +150,17 @@ def cmd_validar(args: argparse.Namespace) -> int:
         text4, passed4 = report.render_phase4(m4)
         print(); print(text4)
         (OUT / f"fase4_{args.mundo}.txt").write_text(text4, encoding="utf-8")
-    passed = passed and passed2 and passed3 and passed4
+    if "8" in gates:
+        cronista = chronicle.Chronicler(conn, args.mundo)
+        fios = cronista.build(until_day=args.dias)
+        cronista.save(fios)
+        m8 = report.collect_phase8(conn, fios, cronista.sem_fio)
+        text8, passed8 = report.render_phase8(m8)
+        print(); print(text8)
+        (OUT / f"fase8_{args.mundo}.txt").write_text(text8, encoding="utf-8")
+        (OUT / f"cronica_{args.mundo}.md").write_text(
+            cronista.markdown(fios, args.dias), encoding="utf-8")
+    passed = passed and passed2 and passed3 and passed4 and passed8
     conn.close()
     return 0 if passed else 1
 
@@ -120,6 +171,8 @@ def cmd_avancar(args: argparse.Namespace) -> int:
     w = world.load(conn, args.mundo)
     from_tick = _bind_epoch(conn)
     to_tick = clockmod.RealClock().current_tick()
+    if to_tick < from_tick:
+        to_tick = _reancorar(conn, from_tick)
 
     if to_tick <= from_tick:
         print(f"Kestlerium já está em {clockmod.label(from_tick)}. Nada a avançar.")
@@ -131,6 +184,7 @@ def cmd_avancar(args: argparse.Namespace) -> int:
     print(f"Recuperando {behind} tick(s) = {behind * clockmod.TICK_MINUTES / 60:.1f}h de mundo.")
 
     sim = Simulation(conn, w, seed=args.seed, world_name=args.mundo)
+    _armar(sim, w, conn, retomar=True)
     result = sim.run(from_tick, to_tick, mode="real")
     print(f"Feito em {result['wall_seconds']:.2f}s.")
     conn.close()
@@ -148,20 +202,26 @@ def cmd_publicar(args: argparse.Namespace) -> int:
     w = world.load(conn, args.mundo)
     from_tick = _bind_epoch(conn)
     to_tick = clockmod.RealClock().current_tick()
+    if to_tick < from_tick:
+        to_tick = _reancorar(conn, from_tick)
 
     if to_tick > from_tick:
         sim = Simulation(conn, w, seed=args.seed, world_name=args.mundo)
+        _armar(sim, w, conn, retomar=True)
         sim.run(from_tick, to_tick, mode="real")
         print(f"Avancou {to_tick - from_tick} tick(s) ate {clockmod.label(to_tick)}.")
     else:
         print(f"Ja estava em {clockmod.label(from_tick)}.")
 
-    tick = max(0, min(to_tick, from_tick if to_tick <= from_tick else to_tick) - 1)
-    snap = viewer.snapshot(conn, tick, args.mundo)
-
+    tick = _tick_com_estado(conn, max(0, max(from_tick, to_tick) - 1))
     destino = Path(args.saida) if args.saida else (
         Path(__file__).resolve().parent.parent / "public" / "kestlerium")
     destino.mkdir(parents=True, exist_ok=True)
+
+    # Os fios primeiro: o snapshot os lê da tabela, então gerá-los depois
+    # publicaria sempre a crônica da execução anterior.
+    _cronicar(conn, tick, args.mundo, destino)
+    snap = viewer.snapshot(conn, tick, args.mundo)
     (destino / "index.html").write_text(viewer.render(snap), encoding="utf-8")
     (destino / "snapshot.json").write_text(
         json.dumps(snap, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -169,6 +229,48 @@ def cmd_publicar(args: argparse.Namespace) -> int:
     _podar(conn, tick)
     conn.close()
     print(f"Publicado em {destino}/index.html ({snap['quando']}).")
+    return 0
+
+
+def _tick_com_estado(conn, tick: int) -> int:
+    """O tick mais recente que tem estado gravado, nunca depois de `tick`.
+
+    Publicar um instante sem estado escreve uma página onde não há ninguém —
+    tecnicamente correta e completamente inútil. Melhor um instante alguns
+    ticks atrás e a vila cheia.
+    """
+    row = conn.execute(
+        "SELECT max(tick) AS t FROM agent_state WHERE tick <= ?", (tick,)).fetchone()
+    if row and row["t"] is not None:
+        return row["t"]
+    row = conn.execute("SELECT min(tick) AS t FROM agent_state").fetchone()
+    return row["t"] if row and row["t"] is not None else tick
+
+
+def _cronicar(conn, tick: int, mundo: str, destino) -> int:
+    """Reconstrói os fios e escreve a crônica ao lado da página.
+
+    Roda a cada publicação porque um fio muda de estado sem que nada aconteça:
+    um assunto que ninguém tocou por trinta dias passa a adormecido só pela
+    passagem do tempo.
+    """
+    cronista = chronicle.Chronicler(conn, mundo)
+    fios = cronista.build(until_day=tick // clockmod.TICKS_PER_DAY)
+    cronista.save(fios)
+    texto = cronista.markdown(fios, tick // clockmod.TICKS_PER_DAY)
+    (OUT / f"cronica_{mundo}.md").write_text(texto, encoding="utf-8")
+    if destino is not None:
+        (destino / "cronica.md").write_text(texto, encoding="utf-8")
+    return len(fios)
+
+
+def cmd_cronica(args: argparse.Namespace) -> int:
+    """Escreve os fios de história do mundo real, sem avançá-lo."""
+    conn = db.connect(OUT / f"mundo_{args.mundo}.db")
+    tick = _bind_epoch(conn)
+    n = _cronicar(conn, tick, args.mundo, None)
+    conn.close()
+    print(f"{n} fio(s) em out/cronica_{args.mundo}.md")
     return 0
 
 
@@ -251,6 +353,9 @@ def main() -> int:
 
     p = add_common(sub.add_parser("agora", help="mostra o estado do instante atual"))
     p.set_defaults(func=cmd_agora)
+
+    p = add_common(sub.add_parser("cronica", help="escreve os fios de história"))
+    p.set_defaults(func=cmd_cronica)
 
     args = parser.parse_args()
     return args.func(args)

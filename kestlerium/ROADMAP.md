@@ -1,8 +1,9 @@
 # Kestlerium — o que falta
 
-Estado: Fases 1-4 aprovadas na bancada, camada de conhecimento funcionando, a
+Estado: Fases 1-4 e 8 aprovadas na bancada, camada de conhecimento funcionando, a
 vila publicando sozinha a cada 30 minutos. O motor gera estrutura narrativa e
-decide o que contar sem LLM nenhum. Falta a narração — e o texto legível.
+decide o que contar sem LLM nenhum, e já escreve os fios em Markdown. Falta
+a prosa — que é a única coisa para a qual um modelo é realmente necessário.
 
 ---
 
@@ -124,10 +125,18 @@ desta fase.
 Constituição imutável, trajetória mutável, e toda mudança citando o `fact_id`
 que a causou.
 
-### H. Fase 8 — Chronicler
+### H. Fase 8 — Chronicler  ✅
 
 Fios como objetos de primeira classe. Gera o texto legível — o único artefato
 que um humano de fato consome — em Markdown, publicado pelo mesmo deploy.
+
+Feito sem LLM nenhum, e essa foi a ordem certa: o modelo escreve melhor, mas
+não sabe o que é uma história continuada. Quando a Fase 5 trouxer um modelo
+aberto, ele substitui a camada de frase e encontra os fios já prontos.
+
+O fio é tabela, não consulta: `agent_state` e `pressure_event` são podados a
+cada publicação para o banco caber no repositório, e o que o mundo já contou
+não pode depender de dados que serão apagados amanhã.
 
 ### I. Depois
 

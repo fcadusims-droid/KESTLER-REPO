@@ -327,6 +327,54 @@ com um morador cedo travava, e o mundo esfriava junto. Moradores locais passaram
 a ensinar ativamente — é esse o papel deles diante de alguém que acabou de
 chegar sem entender nada.
 
+### P30 — O mundo publicado estava 90 dias à frente do relógio
+
+O banco da vila foi commitado com 4320 ticks vividos a partir de uma época de
+hoje. Como o relógio de Brasília estava 90 dias *atrás* do último tick,
+`publicar` não tinha o que avançar e escrevia um instante sem estado gravado:
+**a página no ar mostrava uma vila vazia**, e nenhum portão pegava isso, porque
+todos medem a bancada, que roda em banco novo.
+
+**Correção.** A época é só o ponto onde o tick zero foi fixado: deslocá-la para
+trás faz os 90 dias já vividos virarem os 90 dias anteriores a hoje, sem
+descartar nada. Mais o cuidado geral — nunca publicar um tick sem estado; se o
+instante pedido não tem ninguém, publica-se o mais recente que tem.
+
+### P31 — Só a bancada media pressão
+
+Detector e governador eram ligados apenas em `validar`. O mundo publicado
+rodava sem os dois: nunca calculava pressão, nunca agendava nada, e por isso a
+crônica da vila jamais teria um fio por mais tempo que passasse.
+
+Medir só onde não se publica é não medir. Detector e governador agora sobem
+junto com o mundo real — e a fila do governador virou tabela, porque no modo
+real cada execução avança meia hora e morre: uma fila em memória perderia todo
+evento adiado, e o bônus de espera nunca chegaria a valer nada.
+
+### P32 — Coluna nova quebra o mundo, não a bancada
+
+`facts_json` entrou no schema e a validação continuou passando — ela roda em
+banco novo. O banco da vila é versionado e sobrevive entre execuções, e
+`CREATE TABLE IF NOT EXISTS` não altera tabela existente: o agendador em
+produção quebrou na primeira publicação.
+
+**Correção.** Migração explícita de colunas na abertura do banco. A lição vale
+para tudo o que vier: o estado publicado é mais velho que o código.
+
+### P33 — A crônica descrevia o passado com o que só se soube depois
+
+A primeira crônica dizia, no dia 32, que nove pessoas sabiam do assunto — o
+número do dia 90. Só `acquired_tick` é histórico; `confidence` e `distortion`
+são valores correntes, e a racionalização se corrói com testemunho repetido.
+
+**Correção.** A entrada do meio diz só o que é datável (quantos já sabiam
+naquele dia), e o retrato completo aparece uma vez por fio, marcado como hoje.
+Um portão novo rejeita qualquer fio em que a contagem diminua com o tempo —
+número que encolhe é entrada lendo o presente.
+
+E o fecho do fio ganhou tick próprio: ancorado no início do último dia, "o
+assunto se encerrou" saía antes da conversa que o encerrou.
+
 ---
 
 ## Estado atual — três fases + verossimilhança
@@ -485,9 +533,10 @@ os dois seja tomada de uma vez.
 ```
 DISTRITO (bancada)              VILA (produção, base)
 Fase 1  APROVADA                Fase 1  APROVADA
-Fase 2  APROVADA                Fases 2-4: não se aplicam
+Fase 2  APROVADA                Fases 2-4 e 8: não se aplicam
 Fase 3  APROVADA                          (sem drama por projeto)
 Fase 4  APROVADA
+Fase 8  APROVADA
 ```
 
 A vila roda no horário de Brasília. Às 9h de uma quarta: Ruth na mercearia,

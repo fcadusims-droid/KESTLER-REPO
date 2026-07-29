@@ -1,7 +1,8 @@
 {
  "mundo": "vila",
- "tick": 18,
- "quando": "29/07/2026 09:00",
+ "fios": [],
+ "tick": 4339,
+ "quando": "29/07/2026 09:30",
  "noite": false,
  "agentes": {
   "ruth": {
@@ -202,7 +203,58 @@
    "igreja"
   ]
  ],
- "estado": [],
+ "estado": [
+  {
+   "agent_id": "ruth",
+   "location_id": "mercearia",
+   "activity": "trabalhar"
+  },
+  {
+   "agent_id": "aurelio",
+   "location_id": "oficina",
+   "activity": "trabalhar"
+  },
+  {
+   "agent_id": "neide",
+   "location_id": "posto",
+   "activity": "trabalhar"
+  },
+  {
+   "agent_id": "tonho",
+   "location_id": "mercearia",
+   "activity": "compras"
+  },
+  {
+   "agent_id": "marcia",
+   "location_id": "escola",
+   "activity": "trabalhar"
+  },
+  {
+   "agent_id": "zebruno",
+   "location_id": "oficina",
+   "activity": "trabalhar"
+  },
+  {
+   "agent_id": "lurdes",
+   "location_id": null,
+   "activity": "em_transito"
+  },
+  {
+   "agent_id": "djalma",
+   "location_id": "ponto",
+   "activity": "trabalhar"
+  },
+  {
+   "agent_id": "cida",
+   "location_id": null,
+   "activity": "em_transito"
+  },
+  {
+   "agent_id": "vitor",
+   "location_id": null,
+   "activity": "em_transito"
+  }
+ ],
  "cabecas": {
   "ruth": [
    {
@@ -1273,20 +1325,6 @@
    "b": "tonho",
    "afeto": 0.02,
    "confianca": 0.34,
-   "tensao": 0.35
-  },
-  {
-   "a": "aurelio",
-   "b": "zebruno",
-   "afeto": 0.56,
-   "confianca": 1.0,
-   "tensao": 0.35
-  },
-  {
-   "a": "ruth",
-   "b": "tonho",
-   "afeto": 0.34,
-   "confianca": 0.86,
    "tensao": 0.35
   },
   {

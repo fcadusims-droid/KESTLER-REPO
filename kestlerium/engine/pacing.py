@@ -55,6 +55,7 @@ class Scheduled:
     day: int
     kind: str            # 'cena' | 'beat'
     participants: list
+    facts: list
     pressure: float
     score: float
     reason: str
@@ -76,6 +77,7 @@ class Governor:
         self.fila.append({
             "tick": event.tick, "day": event.day,
             "participants": list(event.participants) or [event.agent_a, event.agent_b],
+            "facts": list(event.facts),
             "pressure": event.value,
             "a": event.agent_a, "b": event.agent_b,
         })
@@ -135,7 +137,8 @@ class Governor:
                     self._last_beat[a] = item["day"]
                 escolhidos.append(Scheduled(
                     item["tick"], item["day"], "cena", item["participants"],
-                    item["pressure"], score, "maior pressão da semana"))
+                    item["facts"], item["pressure"], score,
+                    "maior pressão da semana"))
                 continue
 
             if beats < BUDGET_BEAT and self._rested(item, "beat"):
@@ -144,7 +147,8 @@ class Governor:
                     self._last_beat[a] = item["day"]
                 escolhidos.append(Scheduled(
                     item["tick"], item["day"], "beat", item["participants"],
-                    item["pressure"], score, "dentro do orçamento de beats"))
+                    item["facts"], item["pressure"], score,
+                    "dentro do orçamento de beats"))
                 continue
 
             # Perdeu a vez: volta à fila e cobra juros.
@@ -159,11 +163,46 @@ class Governor:
 
     # -- persistência -------------------------------------------------------
 
+    def load(self, conn: sqlite3.Connection) -> None:
+        """Retoma fila e descanso de onde a execução anterior parou.
+
+        No modo real cada execução avança meia hora de mundo e termina. Sem
+        isto o governador renasceria vazio a cada 30 minutos: a fila nunca
+        acumularia espera, o bônus jamais chegaria a valer nada, e o descanso
+        por personagem — que é o que impede o protagonista acidental — não
+        atravessaria nem um dia.
+        """
+        self.fila = [
+            {"tick": r["tick"], "day": r["day"],
+             "participants": json.loads(r["participants_json"]),
+             "facts": json.loads(r["facts_json"]),
+             "pressure": r["pressure"], "a": r["agent_a"], "b": r["agent_b"]}
+            for r in conn.execute("SELECT * FROM queued ORDER BY id")
+        ]
+        for r in conn.execute("SELECT * FROM rest"):
+            alvo = self._last_scene if r["kind"] == "cena" else self._last_beat
+            alvo[r["agent_id"]] = r["last_day"]
+
     def flush(self, conn: sqlite3.Connection) -> None:
+        conn.execute("DELETE FROM queued")
         conn.executemany(
-            "INSERT INTO scheduled (tick, day, kind, participants_json, pressure,"
-            " score, reason) VALUES (?, ?, ?, ?, ?, ?, ?)",
-            [(s.tick, s.day, s.kind, json.dumps(s.participants), s.pressure,
-              s.score, s.reason) for s in self.agenda],
+            "INSERT INTO queued (tick, day, participants_json, facts_json,"
+            " pressure, agent_a, agent_b) VALUES (?, ?, ?, ?, ?, ?, ?)",
+            [(i["tick"], i["day"], json.dumps(i["participants"]),
+              json.dumps(i["facts"]), i["pressure"], i["a"], i["b"])
+             for i in self.fila],
+        )
+        conn.executemany(
+            "INSERT OR REPLACE INTO rest (agent_id, kind, last_day) VALUES (?, ?, ?)",
+            [(a, "cena", d) for a, d in self._last_scene.items()]
+            + [(a, "beat", d) for a, d in self._last_beat.items()],
+        )
+        conn.executemany(
+            "INSERT INTO scheduled (tick, day, kind, participants_json,"
+            " facts_json, pressure, score, reason)"
+            " VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+            [(s.tick, s.day, s.kind, json.dumps(s.participants),
+              json.dumps(s.facts), s.pressure, s.score, s.reason)
+             for s in self.agenda],
         )
         conn.commit()

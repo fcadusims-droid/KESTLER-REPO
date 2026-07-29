@@ -584,3 +584,121 @@ def render_phase4(m: dict) -> tuple[str, bool]:
         add("  FASE 4 REPROVADA — ajustar orçamento/descanso, não o piso")
     add("=" * 62)
     return "\n".join(lines), ok
+
+
+# ===========================================================================
+# FASE 8 — o cronista
+# ===========================================================================
+# O que se mede aqui não é prosa — é se existe história. Um fio precisa de
+# começo, de meio e de gente diferente passando por ele; e o texto precisa
+# falar de crença, porque um resumo que só conta o que aconteceu joga fora a
+# única coisa que este motor tem de próprio.
+
+
+def collect_phase8(conn: sqlite3.Connection, fios: list, sem_fio: int) -> dict:
+    import json as _j
+
+    entradas = [e for f in fios for e in f.entries]
+    com_meio = [f for f in fios if any(e["kind"] in ("cena", "beat")
+                                       for e in f.entries)]
+    elenco: set = set()
+    for e in entradas:
+        elenco |= set(e["participants"])
+
+    # Toda entrada de meio tem de dizer quantos já sabiam naquele dia: é o
+    # que diferencia uma crônica deste mundo de um log de eventos — e tem de
+    # ser o número DAQUELE dia, não o de hoje.
+    meio = [e for e in entradas if e["kind"] in ("cena", "beat")]
+    sem_crenca = [e for e in meio if "sabia" not in e["text"]]
+
+    fora_de_ordem = [f for f in fios
+                     if [e["day"] for e in f.entries]
+                     != sorted(e["day"] for e in f.entries)]
+
+    agendados = sem_fio + len({(e["tick"], tuple(e["participants"]))
+                               for e in meio})
+    # Contagem extraída do próprio texto: se a frase disser um número que
+    # diminui com o tempo, ela está lendo o estado de hoje, não o de então.
+    import re as _re
+    anacronismos = []
+    for f in fios:
+        visto = 0
+        for e in f.entries:
+            achou = _re.search(r"Nesse dia (\d+) pessoa", e["text"])
+            if not achou:
+                continue
+            n = int(achou.group(1))
+            if n < visto:
+                anacronismos.append((f.root_fact_id, e["day"], n, visto))
+            visto = n
+
+    return {
+        "fios": fios, "entradas": entradas,
+        "anacronismos": anacronismos,
+        "com_meio": com_meio,
+        "abertos": [f for f in fios if f.status == "aberto"],
+        "resolvidos": [f for f in fios if f.status == "resolvido"],
+        "adormecidos": [f for f in fios if f.status == "adormecido"],
+        "elenco": elenco,
+        "sem_crenca": sem_crenca,
+        "fora_de_ordem": fora_de_ordem,
+        "sem_fio": sem_fio,
+        "cobertura": (agendados - sem_fio) / max(1, agendados),
+        "maior": max((len(f.entries) for f in fios), default=0),
+    }
+
+
+GATES_P8 = [
+    ("existem fios", lambda m: len(m["fios"]) > 0),
+    # Um fato que aparece uma vez e some não é fio: é anotação.
+    ("a maioria dos fios tem meio, não só abertura",
+     lambda m: len(m["com_meio"]) > len(m["fios"]) / 2),
+    # Estados derivados de verdade, não decorativos: os três precisam existir
+    # em algum momento, senão a regra que os separa nunca foi exercida.
+    ("os fios terminam de alguma forma",
+     lambda m: len(m["resolvidos"]) + len(m["adormecidos"]) > 0),
+    ("nenhum fio fora de ordem cronológica", lambda m: not m["fora_de_ordem"]),
+    ("toda entrada de meio diz quantos sabiam naquele dia",
+     lambda m: not m["sem_crenca"]),
+    # Anacronismo: um dia não pode ter mais gente sabendo que o dia seguinte.
+    ("nenhuma entrada sabe do futuro", lambda m: not m["anacronismos"]),
+    ("a maior parte dos momentos vira história (> 50%)",
+     lambda m: m["cobertura"] > 0.50),
+    ("mais de um terço do elenco aparece na crônica",
+     lambda m: len(m["elenco"]) > 4),
+]
+
+
+def render_phase8(m: dict) -> tuple[str, bool]:
+    lines: list[str] = []
+    add = lines.append
+    add("=" * 62)
+    add("KESTLERIUM — VALIDAÇÃO DA FASE 8 (o cronista)")
+    add("=" * 62)
+    add(f"  fios                  {len(m['fios'])}")
+    add(f"    abertos             {len(m['abertos'])}")
+    add(f"    adormecidos         {len(m['adormecidos'])}")
+    add(f"    resolvidos          {len(m['resolvidos'])}")
+    add(f"  entradas escritas     {len(m['entradas'])}")
+    add(f"  maior fio             {m['maior']} entradas")
+    add(f"  momentos sem fio      {m['sem_fio']}   (movidos por objetivo)")
+    add(f"  cobertura             {m['cobertura']:.0%}")
+    add(f"  elenco na crônica     {len(m['elenco'])}")
+    add("")
+    add("  fios abertos")
+    for f in sorted(m["abertos"], key=lambda f: f.opened_day)[:8]:
+        add(f"    dia {f.opened_day:>4}  {f.title}")
+    add("")
+    add("-" * 62)
+    ok = True
+    for label_text, check in GATES_P8:
+        passed = check(m)
+        ok &= passed
+        add(f"  [{'ok' if passed else 'FALHOU'}] {label_text}")
+    add("-" * 62)
+    if ok:
+        add("  FASE 8 APROVADA — o mundo se conta")
+    else:
+        add("  FASE 8 REPROVADA — ajustar a construção do fio, não o texto")
+    add("=" * 62)
+    return "\n".join(lines), ok

@@ -168,7 +168,8 @@ CREATE TABLE IF NOT EXISTS pressure_event (
     channel     TEXT NOT NULL,
     value       REAL NOT NULL,
     de REAL, co REAL, cr REAL, re REAL, ta REAL,  -- componentes, para diagnóstico
-    participants_json TEXT                        -- quem estava na cena
+    participants_json TEXT,                       -- quem estava na cena
+    facts_json        TEXT                        -- quais fatos o evento moveu
 );
 CREATE INDEX IF NOT EXISTS idx_pressure_day ON pressure_event(day);
 
@@ -202,8 +203,66 @@ CREATE TABLE IF NOT EXISTS scheduled (
     day               INTEGER NOT NULL,
     kind              TEXT NOT NULL,   -- cena | beat
     participants_json TEXT NOT NULL,
+    facts_json        TEXT NOT NULL,   -- fatos movidos: é o que dá fio ao momento
     pressure          REAL NOT NULL,   -- pressão crua do evento
     score             REAL NOT NULL,   -- pressão + o que a espera acrescentou
     reason            TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS idx_scheduled_day ON scheduled(day);
+
+-- ===========================================================================
+-- FASE 8 — o cronista
+-- ===========================================================================
+-- Um fio é uma linha narrativa com identidade própria: nasce num fato, passa
+-- por momentos, e termina — ou esfria, que é um final também.
+--
+-- Existe como tabela, e não como consulta feita na hora, por uma razão dura:
+-- `agent_state` e `pressure_event` são podados a cada publicação para o banco
+-- caber no repositório. O que o mundo já contou não pode depender de dados que
+-- serão apagados amanhã. O fio é memória; o rastro é diagnóstico.
+CREATE TABLE IF NOT EXISTS thread (
+    id           INTEGER PRIMARY KEY AUTOINCREMENT,
+    root_fact_id INTEGER,          -- NULL = fio sem fato (só relação)
+    title        TEXT NOT NULL,
+    opened_day   INTEGER NOT NULL,
+    last_day     INTEGER NOT NULL,
+    status       TEXT NOT NULL,    -- aberto | adormecido | resolvido
+    UNIQUE (root_fact_id)
+);
+
+CREATE TABLE IF NOT EXISTS thread_entry (
+    id           INTEGER PRIMARY KEY AUTOINCREMENT,
+    thread_id    INTEGER NOT NULL,
+    day          INTEGER NOT NULL,
+    tick         INTEGER NOT NULL,
+    kind         TEXT NOT NULL,    -- abertura | cena | beat | fecho
+    participants_json TEXT NOT NULL,
+    pressure     REAL NOT NULL,
+    text         TEXT NOT NULL     -- prosa gerada sem LLM, do estado
+);
+CREATE INDEX IF NOT EXISTS idx_thread_entry ON thread_entry(thread_id, day);
+
+-- A fila do governador precisa sobreviver ao runner. No modo real cada
+-- execução avança poucos ticks e morre; uma fila só em memória perderia todo
+-- evento adiado, e o bônus de espera — que existe justamente para o assunto
+-- adiado voltar mais forte semanas depois — nunca teria efeito nenhum.
+CREATE TABLE IF NOT EXISTS queued (
+    id                INTEGER PRIMARY KEY AUTOINCREMENT,
+    tick              INTEGER NOT NULL,
+    day               INTEGER NOT NULL,
+    participants_json TEXT NOT NULL,
+    facts_json        TEXT NOT NULL,
+    pressure          REAL NOT NULL,
+    agent_a           TEXT NOT NULL,
+    agent_b           TEXT NOT NULL
+);
+
+-- Descanso por personagem, também entre execuções: sem isto o mesmo agente
+-- entraria em cena todo dia, que é exatamente o protagonista acidental que a
+-- Fase 4 existe para impedir.
+CREATE TABLE IF NOT EXISTS rest (
+    agent_id   TEXT NOT NULL,
+    kind       TEXT NOT NULL,   -- cena | beat
+    last_day   INTEGER NOT NULL,
+    PRIMARY KEY (agent_id, kind)
+);
