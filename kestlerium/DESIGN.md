@@ -22,27 +22,50 @@ vocabulário para elas. Essa assimetria é o motor.
 - Os nativos não são cenário. São a linha de base de normalidade contra a qual a
   anomalia é medida. Sem eles, ocultar não tem custo e o drama colapsa.
 
-## 2. Ontologia de objetivos (10 tipos)
+## 2. Ontologia de objetivos
 
-Cada tipo tem condição de satisfação verificável em código.
+Cada tipo tem condição de satisfação verificável em código. **Os nomes aqui são
+os do código, sem acento** — `obter_informacao`, não `obter_informação`. A lista
+tinha as duas grafias, e isso é o tipo de divergência que produz um par de
+conflito que nunca casa e ninguém percebe.
 
-| Tipo | Satisfeito quando |
-|---|---|
-| `estabelecer_identidade` | existe fato `(a, possui_documento, tipo)` com `visibility=publico` |
-| `adquirir_recurso` | `agent.resources >= alvo` |
-| `ocultar_anomalia` | **ativo enquanto** nenhum nativo tem crença fiel em `(a, usou_anomalia, *)` com `confidence > 0.6` |
-| `compreender_mundo` | contagem de regras-do-mundo aprendidas `>= limiar` (decai a pressão do deslocamento) |
-| `retornar_origem` | existe fato `(a, retornou, origem)` — quase nunca satisfazível: fonte permanente de tensão |
-| `obter_informação` | `belief(a, fact_id).confidence > 0.8` |
-| `formar_vínculo` | `relation(a,b).affect > 0.6` **e** `trust > 0.6`, mútuo |
-| `proteger_pessoa` | violado se alvo é subject de `matou` ou `feriu` |
-| `remover_obstáculo` | alvo perde posição / deixa o local |
-| `expor_verdade` | fato transiciona `oculto → publico` |
+| Tipo | Satisfeito quando | Instanciado hoje |
+|---|---|---|
+| `estabelecer_identidade` | existe fato `(a, possui_documento, tipo)` com `visibility=publico` | sim, para deslocados |
+| `adquirir_recurso` | `agent.resources >= alvo` | sim, para nativos |
+| `elevar_status` | quantos confiam nele — reputação, não cargo | sim, para nativos |
+| `ocultar_anomalia` | **ativo enquanto** nenhum nativo tem crença fiel em `(a, usou_anomalia, *)` com `confidence > 0.6` | sim |
+| `compreender_mundo` | fração das regras-do-mundo já dominada | sim, para deslocados |
+| `retornar_origem` | existe fato `(a, retornou, origem)` — quase nunca satisfazível: fonte permanente de tensão | sim, para deslocados |
+| `formar_vinculo` | `relation(a,b).affect > 0.6` **e** `trust > 0.6`, mútuo | sim |
+| `proteger_pessoa` | violado se alvo é subject de `brigou_com`, `feriu` ou `matou` | sim, se há vínculo |
+| `expor_verdade` | fato transiciona `oculto → publico` | **não** — só entidades |
+| `obter_informacao` | `belief(a, fact_id).confidence > 0.8` | **não** |
+| `remover_obstaculo` | alvo perde posição / deixa o local | **não** |
+| `vingar` | — | **não** |
 
 `compreender_mundo` e `retornar_origem` só existem por causa da premissa de
 deslocamento. São elas que impedem isso de virar "um sim de cidade moderna".
 
-## 3. Ontologia de predicados (15)
+### 2.1 A tabela de conflito está inerte, e é por decisão
+
+`CONFLICTING` declara seis pares incompatíveis, e **nenhum deles pode disparar
+nos mundos atuais.** Todo par contém pelo menos um dos quatro tipos que nunca
+são criados, e a raiz é uma só: `expor_verdade` só é dado a agentes **não
+encarnados** — entidades — e entidades estão adiadas por decisão do autor.
+
+Consequência medida, não suposta: `conflict_score` devolve sempre 0, então o
+amplificador de rivalidade em `goal_conflict` vale sempre 1.0. A pressão de
+conflito que aparece nos relatórios vem inteira da **variação de progresso**, e
+nenhuma parte dela vem de incompatibilidade estrutural.
+
+Isso não é defeito a consertar agora — inventar objetivos só para a tabela
+disparar seria fabricar drama. É uma dívida declarada: **quando as entidades
+entrarem, a tabela de conflito acorda junto**, e é ali que ela deve ser medida
+de novo. Até lá o relatório da Fase 3 imprime quantos pares estão ativos, para
+que a inércia fique visível em vez de silenciosa.
+
+## 3. Ontologia de predicados (17)
 
 ```
 matou · feriu · salvou · roubou_de · deve_a · prometeu_a
@@ -51,13 +74,13 @@ usou_anomalia · é_de_origem · reconheceu_origem_de
 brigou_com · possui_documento
 ```
 
-Os dois últimos entraram depois, quando o mundo passou a **gerar fatos
-próprios**: `brigou_com` quando a tensão de uma aresta descarrega,
-`possui_documento` quando alguém termina a burocracia do cartório. Ficam
+`brigou_com` e `possui_documento` (última linha) entraram depois, quando o mundo
+passou a **gerar fatos próprios**: o primeiro quando a tensão de uma aresta
+descarrega, o segundo quando alguém termina a burocracia do cartório. Ficam
 declarados aqui porque a lista é fechada por projeto — código que inventa
 predicado fora dela quebra a ontologia em silêncio.
 
-Os três últimos são a camada de anomalia:
+A terceira linha é a camada de anomalia:
 
 - **`usou_anomalia`** — gera fato com testemunhas. Nativo que testemunha forma
   crença **distorcida** por padrão (racionalização), não fiel. A versão fiel e a
@@ -111,17 +134,30 @@ diferentes, para provar que a premissa de crossover gera estrutura.
 
 1. `(severin, usou_anomalia, fechou_ferida_com_sangue)` — `oculto`, testemunha: `clara` (nativa)
 2. `(lacrimel, é_de_origem, aspectros)` — `oculto`, testemunha: `lotus`
-3. `(suomynona, reconheceu_origem_de, severin)` — `oculto`, sem testemunha
+3. ~~`(suomynona, reconheceu_origem_de, severin)`~~ — **não plantado.** Ver abaixo.
 
 **Objetivos**
 
 1. `severin: ocultar_anomalia` — bloqueado se Clara consolidar a crença fiel
-2. `clara: obter_informação` sobre o fato 1 — ela viu o impossível; a crença
-   distorcida disputa com a fiel dentro da cabeça dela
-3. `suomynona: expor_verdade` sobre o fato 2 — compulsão de publicar identidade
+2. ~~`clara: obter_informacao` sobre o fato 1~~ — **não instanciado.** Ver abaixo.
+3. ~~`suomynona: expor_verdade` sobre o fato 2~~ — **não instanciado.** Ver abaixo.
 
-Os três se travam mutuamente e envolvem três obras distintas mais uma nativa.
-Se este trio não produz drama na simulação, a ontologia está errada — não os pesos.
+### 6.1 O que de fato foi plantado, e por quê
+
+Este critério foi escrito na Fase 0, antes de duas decisões que vieram depois:
+**entidades foram adiadas** e a produção virou uma vila de NPCs. Suomynona não
+existe em elenco nenhum, então o fato 3 e o objetivo 3 nunca chegaram ao banco —
+e o objetivo 2 depende de um tipo que só entidades recebem (§2.1).
+
+O que a bancada planta no lugar são dezoito fatos atravessando oito obras:
+anomalia com testemunha nativa (`severin`/`clara`, exatamente o fato 1), origem
+oculta de seis deslocados, mentiras, dívidas e promessas. **O portão da Fase 3
+passa com isso** — a pergunta que o critério existia para responder, "a
+ontologia gera drama sozinha?", foi respondida com sim.
+
+Fica registrado assim, riscado e não apagado: o critério original é o que se
+esperava, e a diferença entre ele e o que foi construído é informação, não
+sujeira. Quando as entidades entrarem, é este trio que volta a valer.
 
 ---
 

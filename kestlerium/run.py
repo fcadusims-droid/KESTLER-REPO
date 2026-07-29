@@ -23,9 +23,10 @@ from engine import clock as clockmod
 from engine import chronicle, db, goals as goalmod, report, viewer, world
 from engine.sim import Simulation
 
+# Um banco por mundo: `mundo_<nome>.db` para o real, `validacao_<nome>.db` para
+# a bancada. Os nomes fixos que existiam aqui ficaram órfãos quando `--mundo`
+# entrou, e nenhum código os lia mais.
 OUT = Path(__file__).resolve().parent / "out"
-REAL_DB = OUT / "kestlerium.db"
-TEST_DB = OUT / "validacao.db"
 
 
 def _bind_epoch(conn) -> int:
@@ -312,8 +313,10 @@ def _podar(conn, tick: int, dias_rastro: int = 3) -> None:
 
     Medido em 90 dias de vila: o banco completo passa de 5,8 MB, dos quais
     43.200 linhas são `agent_state` — rastro de posição a cada meia hora, que
-    não serve para nada depois de passar. Fatos, crenças, relações e
-    conhecimento, que são o mundo de verdade, somam 132 KB e **não crescem**.
+    não serve para nada depois de passar. O estado de verdade — fatos, crenças,
+    relações, conhecimento, e agora também fios, trajetória e agenda — cabe em
+    ~200 KB e cresce devagar: `scheduled` ganha algumas dezenas de linhas por
+    semana, `thread` é reescrita inteira a cada publicação.
 
     Como o agendador commita a cada 30 minutos, um banco que cresce sem limite
     inviabilizaria o repositório em semanas. Então guarda-se o estado inteiro,

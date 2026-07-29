@@ -13,9 +13,13 @@ on:
   workflow_dispatch:
 
 # Escrever no repositório é como o estado sobrevive ao runner: o banco é
-# commitado. Sem isso o mundo renasceria a cada meia hora.
+# commitado. Sem isso o mundo renasceria a cada meia hora. As permissões de
+# Pages são para o deploy que este workflow chama no fim — sem elas a chamada
+# falha, porque um workflow chamado nunca recebe mais permissão que quem chamou.
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 # Nunca duas execuções ao mesmo tempo — duas escritas concorrentes no mesmo
 # banco produziriam dois mundos divergentes.
@@ -26,6 +30,8 @@ concurrency:
 jobs:
   avancar:
     runs-on: ubuntu-latest
+    outputs:
+      mudou: ${{ steps.commitar.outputs.mudou }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,6 +46,7 @@ jobs:
         run: python3 run.py publicar --mundo vila
 
       - name: Commitar o estado
+        id: commitar
         run: |
           git config user.name  "Kestlerium"
           git config user.email "kestlerium@users.noreply.github.com"
@@ -48,13 +55,32 @@ jobs:
           git add -f kestlerium/out/mundo_vila.db public/kestlerium
           if git diff --cached --quiet; then
             echo "Nada mudou; o mundo já estava no tick corrente."
+            echo "mudou=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "Kestlerium: $(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M')"
           # Outra execução pode ter commitado enquanto esta rodava.
           for i in 1 2 3; do
-            git pull --rebase --autostash origin main && git push origin HEAD:main && exit 0
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "mudou=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
             sleep $((i * 5))
           done
           echo "Não consegui publicar depois de três tentativas." >&2
           exit 1
+
+  # Republica o site com o mundo que acabou de ser commitado.
+  #
+  # Sem isto o terrário mentia: o mundo avançava no repositório e a página no ar
+  # continuava no instante do último merge humano — foram seis horas e meia de
+  # atraso antes de alguém reparar. A causa é uma regra do GitHub, não um erro
+  # de YAML: push feito com o GITHUB_TOKEN padrão não dispara workflow nenhum.
+  publicar-site:
+    needs: avancar
+    if: needs.avancar.outputs.mudou == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

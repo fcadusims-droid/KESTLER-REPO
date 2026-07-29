@@ -373,8 +373,17 @@ def collect_phase3(conn: sqlite3.Connection, to_tick: int) -> dict:
 
     relations = list(conn.execute("SELECT * FROM relation"))
 
+    # Quantos pares de conflito PODEM disparar com os objetivos que existem.
+    # Zero significa que o amplificador de rivalidade vale sempre 1.0 e toda a
+    # pressão de conflito vem de variação de progresso — verdade importante
+    # demais para ficar implícita (ver DESIGN.md §2.1).
+    from .goals import CONFLICTING
+    tipos = {r["type"] for r in conn.execute("SELECT DISTINCT type FROM goal")}
+    pares_ativos = [sorted(par) for par in CONFLICTING if set(par) <= tipos]
+
     return {
         "agents": agents, "active": active, "days": days,
+        "pares_conflito": (len(pares_ativos), len(CONFLICTING)),
         "events": len(events), "values": values,
         "daily_max": daily_max,
         "peaks": len(peaks),
@@ -444,6 +453,12 @@ def render_phase3(m: dict) -> tuple[str, bool]:
     add("")
     add(f"  tensão média por aresta  {m['tension_mean']:.3f}"
         f"   saturadas: {len(m['tension_saturated'])}")
+    ativos, total = m["pares_conflito"]
+    add(f"  pares de conflito ativos {ativos} de {total}")
+    if not ativos:
+        add("    a tabela de conflito está inerte: todo par depende de um tipo")
+        add("    que só entidades recebem, e entidades estão adiadas. Toda a")
+        add("    pressão de conflito vem de variação de progresso. DESIGN.md §2.1")
     add("")
     add("-" * 62)
     ok = True
@@ -597,8 +612,6 @@ def render_phase4(m: dict) -> tuple[str, bool]:
 
 
 def collect_phase8(conn: sqlite3.Connection, fios: list, sem_fio: int) -> dict:
-    import json as _j
-
     entradas = [e for f in fios for e in f.entries]
     com_meio = [f for f in fios if any(e["kind"] in ("cena", "beat")
                                        for e in f.entries)]
