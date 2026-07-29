@@ -90,3 +90,64 @@ CREATE TABLE IF NOT EXISTS run (
     params_json   TEXT NOT NULL,
     wall_seconds  REAL
 );
+
+-- ===========================================================================
+-- FASE 2 — verdade vs. crença
+-- ===========================================================================
+
+-- A VERDADE. Append-only: um fato nunca é atualizado nem apagado. O que muda
+-- é quem acredita nele e com que fidelidade.
+CREATE TABLE IF NOT EXISTS fact (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    tick          INTEGER NOT NULL,
+    subject       TEXT NOT NULL,
+    predicate     TEXT NOT NULL,
+    object        TEXT,
+    visibility    TEXT NOT NULL,   -- publico | privado | oculto
+    witnesses_json TEXT NOT NULL
+);
+
+-- A CRENÇA. Ponteiro para o fato, nunca cópia.
+--
+-- REGRA INVIOLÁVEL: nenhum agente lê `fact`. Toda leitura passa por aqui.
+-- Quebrar isso uma vez destrói a capacidade de representar segredo.
+--
+-- distortion 0 = fiel. > 0 = o agente acredita em `distorted_object`, não no
+-- objeto real. Um nativo que testemunha uma anomalia racionaliza por padrão:
+-- ele não passa a crer "é um vampiro", ele crê "foi truque". Testemunho
+-- repetido corrói a racionalização — é assim que a exposição acontece.
+CREATE TABLE IF NOT EXISTS belief (
+    agent_id        TEXT NOT NULL,
+    fact_id         INTEGER NOT NULL,
+    confidence      REAL NOT NULL,   -- 0..1
+    distortion      INTEGER NOT NULL,
+    distorted_object TEXT,
+    source_agent_id TEXT,            -- NULL = testemunhou em primeira mão
+    salience        REAL NOT NULL,   -- decai com o tempo, sobe ao ser reativada
+    acquired_tick   INTEGER NOT NULL,
+    PRIMARY KEY (agent_id, fact_id)
+);
+
+CREATE TABLE IF NOT EXISTS goal (
+    id        INTEGER PRIMARY KEY AUTOINCREMENT,
+    agent_id  TEXT NOT NULL,
+    type      TEXT NOT NULL,
+    target_id TEXT,
+    priority  REAL NOT NULL,
+    status    TEXT NOT NULL,   -- ativo | bloqueado | satisfeito | abandonado
+    depends_on_facts_json TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS relation (
+    agent_a           TEXT NOT NULL,
+    agent_b           TEXT NOT NULL,
+    affect            REAL NOT NULL,   -- -1..1
+    trust             REAL NOT NULL,   -- 0..1
+    tension           REAL NOT NULL,   -- 0..1
+    last_contact_tick INTEGER,
+    PRIMARY KEY (agent_a, agent_b)
+);
+
+CREATE INDEX IF NOT EXISTS idx_belief_fact  ON belief(fact_id);
+CREATE INDEX IF NOT EXISTS idx_belief_agent ON belief(agent_id);
+CREATE INDEX IF NOT EXISTS idx_fact_subject ON fact(subject);

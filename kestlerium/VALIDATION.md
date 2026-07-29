@@ -106,7 +106,86 @@ e para. Rodar de novo não duplica nada.
 
 ---
 
-## Estado atual
+## Fase 2 — verdade vs. crença
+
+Portão: o segredo plantado escapa do círculo original, chega a 15-70% do elenco
+em 60 dias, degrada ao circular, e o sujeito nunca vaza o próprio segredo.
+
+### P6 — Difusão de 88% do elenco (alvo 15-70%)
+
+**Sintoma.** O segredo de Severin chegou a 14 de 16 personagens em 60 dias.
+O comportamento qualitativo estava certo — a verdade só na cabeça dele, Clara
+com a racionalização dela, e uma terceira versão circulando que ninguém
+testemunhou — mas o alcance saturava.
+
+**Causa.** Suomynona era o maior vetor de fofoca do distrito. Recebeu de Clara e
+distribuiu para quatro pessoas diretamente.
+
+**Diagnóstico.** Erro conceitual. Uma entidade de rede não comenta com a vizinha
+o que descobriu — ela acumula e publica. Deixá-la repassar boato casual a
+transformava no oposto do que ela é.
+
+**Correção.** Entidades não transmitem por fofoca. Recebem (detectam) e retêm.
+
+**Resultado.** 88% → 56% em 60 dias. **Fase 2 aprovada.** Uma única correção de
+modelo; nenhum parâmetro de propagação foi tocado.
+
+### P7 — Portão medindo a coisa errada (erro meu, de novo)
+
+**Sintoma.** Com 60 dias o portão passava; com 90 dias reprovava por 75%.
+
+**Causa.** O critério do plano é temporal — "difusão parcial e distorcida em
+~30-60 dias" — mas eu media o estado no fim da execução, qualquer que fosse a
+duração. Uma run mais longa reprovava só por ter continuado a rodar.
+
+**Diagnóstico.** Mesmo erro de P4: o instrumento medindo outra coisa que não o
+critério. Vale registrar que dois dos sete problemas desta fase foram medição
+ruim, não mundo ruim — é a categoria de erro mais fácil de confundir com
+fracasso de design, e a mais cara se levar a "consertar" um mundo que estava
+certo.
+
+**Correção.** O alcance passou a ser avaliado numa janela fixa de 60 dias, via
+`belief.acquired_tick`. A curva completa entrou no relatório.
+
+**Resultado.** Portão independente da duração da execução.
+
+---
+
+## Estado atual — Fases 1 e 2
+
+```
+FASE 1                              FASE 2
+tempo            0.6s               fatos no mundo         7
+encontros        1356               crenças formadas      75
+cobertura pares  71.7%  (>50%)      alcance em 60d        56%   (15-70%)
+saturação diária 11.1%  (<20%)      versão distorcida     92%
+maior par         5.2%  (<12%)      confiança 1ª mão      0.83
+                                    confiança 2ª mão      0.50
+curva de difusão   d10:6  d20:6  d30:9  d45:9  d60:9  d90:12
+```
+
+A difusão avança em patamares, não em fluxo constante: a saliência decai e cria
+os platôs, até alguém reativar o assunto. Fofoca em ondas.
+
+O estado final do segredo, que é o produto real desta fase:
+
+```
+Severin Sângelună   fechou_ferida_com_sangue   d0   ← a verdade, numa cabeça só
+Clara Bataglia      truque_de_luz              d1   ← viu, e racionalizou
+Nuno Ferraz         truque_de_luz              d1
+Hideo Sano          truque_de_luz              d1
+O Escriba           estava_drogada             d2   ← o que o distrito repete
+Alex                estava_drogada             d2
+```
+
+Ninguém mentiu. A terceira versão nasceu sozinha, do decaimento entre saltos.
+
+Determinismo reverificado com a camada social ligada: mesma seed produz as
+mesmas crenças, com as mesmas distorções e as mesmas fontes.
+
+---
+
+## Estado anterior (só Fase 1)
 
 **Fase 1: aprovada.**
 

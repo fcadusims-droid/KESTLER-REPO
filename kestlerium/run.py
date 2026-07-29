@@ -60,8 +60,15 @@ def cmd_validar(args: argparse.Namespace) -> int:
     text, passed = report.render(metrics, result["wall_seconds"])
     print(text)
 
+    m2 = report.collect_phase2(conn, total_ticks)
+    text2, passed2 = report.render_phase2(m2)
+    print()
+    print(text2)
+
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "fase1.txt").write_text(text, encoding="utf-8")
+    (OUT / "fase2.txt").write_text(text2, encoding="utf-8")
+    passed = passed and passed2
     conn.close()
     return 0 if passed else 1
 
