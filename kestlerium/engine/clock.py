@@ -5,14 +5,15 @@ Kestlerium são 21h da mesma terça e está de noite. Um tick são 30 minutos, e
 `tick % TICKS_PER_DAY` corresponde exatamente à hora de Brasília porque a época
 é fixada à meia-noite local.
 
-Duas implementações, mesma interface:
+Duas fontes de tempo sobre o mesmo motor:
 
-  RealClock  — produção. Lê a hora de verdade.
-  FastClock  — validação. Avança sob comando, para rodar 90 dias em segundos.
+  **real**   — `RealClock` lê a hora de Brasília; o mundo avança até agora.
+  **rápido** — a validação passa o intervalo direto a `Simulation.run()` e roda
+               90 dias em segundos, em banco próprio.
 
 A validação PRECISA existir separada: o portão da Fase 3 mede 90 dias de
 simulação, e esperar 90 dias reais para descobrir que a ontologia está errada
-não é uma opção. Rodadas rápidas usam banco próprio e nunca tocam o mundo real.
+não é uma opção. Rodadas rápidas nunca tocam o mundo real.
 """
 
 from __future__ import annotations
@@ -83,24 +84,3 @@ class RealClock:
     def now(self) -> datetime:
         return datetime.now(TZ)
 
-
-class FastClock:
-    """Validação: avança sob comando, sem esperar o tempo passar."""
-
-    mode = "rapido"
-
-    def __init__(self, start_tick: int = 0) -> None:
-        self._tick = start_tick
-
-    def current_tick(self) -> int:
-        return self._tick
-
-    def advance(self, ticks: int = 1) -> int:
-        self._tick += ticks
-        return self._tick
-
-    def set_tick(self, tick: int) -> None:
-        self._tick = tick
-
-    def now(self) -> datetime:
-        return tick_to_datetime(self._tick)

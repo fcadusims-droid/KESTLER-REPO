@@ -17,12 +17,12 @@ python3 run.py avancar     # leva o mundo até o instante atual de Brasília
 python3 run.py agora       # quem está onde, agora
 ```
 
-## Os dois relógios
+## Os dois modos
 
-| Modo | Para quê | Relógio |
+| Modo | Para quê | De onde vem o tempo |
 |---|---|---|
-| **real** | O Kestlerium de verdade | Horário de Brasília. 1 tick = 30 min reais |
-| **rápido** | Só validação | Roda 90 dias em segundos, banco separado |
+| **real** | O Kestlerium de verdade | Horário de Brasília, 1 tick = 30 min reais |
+| **rápido** | Só validação | Intervalo fixo, 90 dias em segundos, banco separado |
 
 O modo rápido não é atalho: é a bancada de teste. Esperar 90 dias reais para
 descobrir que a ontologia está errada não é uma opção. Ele queima os erros de
@@ -54,6 +54,8 @@ código.
 - [x] **Fase 1** — corpos, mapa, rotinas, encontros. Sem drama, sem LLM.
 - [x] **Fase 2** — verdade vs. crença, grafo social, fofoca distorcida
 - [x] **Fase 3** — detector de pressão. **Portão de verdade: aprovado.**
+- [x] **Verossimilhança** — conhecimento de origem, ensino, rotina bloqueada por ignorância
+- [ ] **A vila** — configuração de produção: 1 personagem, NPCs, 8 locais
 - [ ] **Fase 4** — governador de ritmo
 - [ ] **Fase 5+** — narração, cenas, deriva de identidade, crônica
 

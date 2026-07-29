@@ -1,8 +1,10 @@
-"""Validação da Fase 1.
+"""Os portões de validação — Fases 1, 2 e 3.
 
-O produto desta fase não é a simulação — é a medição dela. O plano é explícito:
-se todo mundo encontra todo mundo todo dia, as rotinas estão frouxas e o drama
-das fases seguintes vira ruído. Estes números decidem se a Fase 2 pode começar.
+O produto destas fases não é a simulação: é a medição dela. Um mundo onde todos
+se encontram todo dia faz o drama virar ruído; um segredo que nunca se move não
+é segredo; uma distribuição de pressão sem cauda pesada é um mundo onde nada
+importa. Cada portão existe para detectar uma dessas falhas, e a regra é sempre
+a mesma — quando um reprova, conserta-se o modelo, nunca o número do portão.
 """
 
 from __future__ import annotations

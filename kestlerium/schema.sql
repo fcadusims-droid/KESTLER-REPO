@@ -168,3 +168,22 @@ CREATE TABLE IF NOT EXISTS pressure_event (
     participants_json TEXT                        -- quem estava na cena
 );
 CREATE INDEX IF NOT EXISTS idx_pressure_day ON pressure_event(day);
+
+-- ===========================================================================
+-- VEROSSIMILHANÇA — conhecimento
+-- ===========================================================================
+-- O que um agente sabe sobre como o mundo funciona. Separado de `belief`, que
+-- guarda o que ele sabe sobre PESSOAS. Aqui é sobre COISAS: o que é dinheiro,
+-- o que é um ônibus, o que é um turno de trabalho.
+--
+-- Um personagem conhece apenas o que viveu dentro da história dele. Nunca a
+-- obra inteira: isso é conhecimento do autor, não da criatura.
+CREATE TABLE IF NOT EXISTS knowledge (
+    agent_id      TEXT NOT NULL,
+    concept       TEXT NOT NULL,
+    grasp         REAL NOT NULL,   -- 0..1; abaixo do limiar não dá para usar
+    learned_tick  INTEGER NOT NULL,
+    taught_by     TEXT,            -- NULL = trouxe de casa
+    PRIMARY KEY (agent_id, concept)
+);
+CREATE INDEX IF NOT EXISTS idx_knowledge_concept ON knowledge(concept);

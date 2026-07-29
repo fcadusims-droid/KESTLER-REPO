@@ -12,10 +12,14 @@ from collections import deque
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from . import clock as clockmod
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 
-TICKS_PER_DAY = 48  # 1 tick = 30 min
+# Vem do relógio, nunca cravado aqui: com 48 escrito à mão, mudar TICK_MINUTES
+# quebraria em silêncio as chegadas e as rotinas.
+TICKS_PER_DAY = clockmod.TICKS_PER_DAY
 
 
 @dataclass

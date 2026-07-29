@@ -34,14 +34,16 @@ from dataclasses import dataclass, field
 # pesos passam a significar importância relativa de verdade.
 # Valores derivados de varredura sobre os dados, não escolhidos a priori.
 # Substância (ep/co) controla QUANTOS picos; plateia controla QUEM participa.
+# Reajustados quando compreender_mundo deixou de ser inerte: conhecimento sendo
+# aprendido move objetivo, e o mundo passou a ter mais coisa acontecendo.
 # Separar esses dois botões foi o que destravou o portão: antes, reduzir picos
 # custava cobertura de elenco, e nenhuma combinação satisfazia os dois.
-W_EPISTEMIC = 0.65
-W_CONFLICT = 0.52
+W_EPISTEMIC = 0.62
+W_CONFLICT = 0.50
 W_RELATIONAL = 1.25
 W_RARITY = 0.82
 W_TENSION = 0.40
-W_AUDIENCE = 2.0
+W_AUDIENCE = 2.3
 
 K_EPISTEMIC = 0.05    # p99 medido 0.096
 K_CONFLICT = 0.50     # p99 medido 0.975

@@ -1,7 +1,9 @@
-"""Laço de tempo do Kestlerium — Fase 1 (L0).
+"""O laço de tempo do Kestlerium.
 
-Aqui não existe crença, objetivo nem pressão. Só corpos se movendo por um mapa
-e se cruzando. A pergunta desta fase é uma só: os encontros têm variedade?
+Um tick de 30 minutos: cada agente decide onde estar e o que fazer, os que se
+cruzam formam encontros, e sobre os encontros se apoiam as camadas seguintes —
+crença e fofoca (`ledger`), conhecimento e ensino (`knowing`), pressão
+(`pressure`). Este módulo é a espinha; as camadas são chamadas daqui.
 
 Determinismo: um único `random.Random(seed)`, injetado. O módulo `random`
 global nunca é usado — se fosse, duas execuções com a mesma seed divergiriam e
@@ -19,6 +21,7 @@ from datetime import datetime
 from random import Random
 
 from . import clock as clockmod
+from .knowing import Knowledge
 from .ledger import Ledger
 from .pressure import PressureDetector
 from .world import Agent, World
@@ -100,6 +103,9 @@ class Simulation:
         self._encounter_buffer: list[tuple] = []
 
         self.ledger = Ledger(conn, self.rng, world.agents)
+        self.knowing = Knowledge(conn, self.rng, world.agents)
+        self.ledger.knowing = self.knowing   # compreender_mundo lê daqui
+        self._endowed: set[str] = set()
         self._pending_seeds = self._load_seed_facts()
         self.detector: PressureDetector | None = None
         # Objetivos nascem com os fatos: ninguém tem o objetivo de ocultar
@@ -135,7 +141,14 @@ class Simulation:
     # -- movimento ----------------------------------------------------------
 
     def _target_for(self, rt: Runtime, tick: int) -> tuple[str, str]:
-        """Para onde o agente quer ir neste tick, e fazendo o quê."""
+        """Para onde o agente quer ir neste tick, e fazendo o quê.
+
+        Conhecimento entra aqui: quem não sabe o que é emprego não vai
+        trabalhar, quem não sabe o que é dinheiro não compra, e quem não sabe
+        o que é transporte não sai da vizinhança. O recém-chegado fica perto de
+        onde chegou até alguém explicar — que é exatamente a experiência de
+        aterrissar num lugar sem entender nada.
+        """
         agent = rt.agent
         home = agent.home
 
@@ -160,7 +173,17 @@ class Simulation:
             return self.rng.choice(public), "deriva"
 
         if planned:
-            return planned
+            destino, atividade = planned
+            if not self.knowing.can(agent.id, atividade):
+                # Não sabe fazer isso ainda. Fica por perto, observando.
+                perto = home or rt.location
+                return (perto, "perdido") if perto else (None, "perdido")
+            if (rt.location and destino != rt.location
+                    and self.world.travel_ticks(rt.location, destino) > 1
+                    and not self.knowing.can_travel_far(agent.id)):
+                # Longe demais para quem não sabe pegar transporte.
+                return (rt.location, "perdido")
+            return destino, atividade
         return (home, "casa") if home else (None, "ocioso")
 
     def _step_agent(self, rt: Runtime, tick: int) -> None:
@@ -296,7 +319,12 @@ class Simulation:
                 if tick >= rt.agent.arrival_tick
             ]
             for rt in active:
+                if rt.agent.id not in self._endowed:
+                    self.knowing.endow(rt.agent.id, tick)
+                    self._endowed.add(rt.agent.id)
+            for rt in active:
                 self._step_agent(rt, tick)
+                self.knowing.practise(rt.agent.id, rt.activity)
                 got = self.ledger.on_activity(
                     rt.agent.id, rt.activity, rt.location, tick)
                 if got is not None and self.on_new_facts is not None:
@@ -320,6 +348,10 @@ class Simulation:
                 if born and self.on_new_facts is not None:
                     self.on_new_facts()
                 # Conversa tem dois lados: cada um pode contar ao outro.
+                trust = self.ledger.relation(a, b)["trust"]
+                self.knowing.teach(a, b, tick, trust)
+                self.knowing.teach(b, a, tick, trust)
+
                 deltas = []
                 for speaker, listener in ((a, b), (b, a)):
                     told = self.ledger.gossip(speaker, listener, tick)
@@ -338,6 +370,7 @@ class Simulation:
 
         self._flush()
         self.ledger.flush()
+        self.knowing.flush()
         if self.detector is not None:
             self.detector.flush(self.conn)
         elapsed = time.perf_counter() - started

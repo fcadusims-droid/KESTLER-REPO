@@ -18,7 +18,7 @@ As capacidades de origem continuam funcionando. O mundo é que não tem
 vocabulário para elas. Essa assimetria é o motor.
 
 - **12 locais**, grafo com tempo de deslocamento (a pé / transporte).
-- **16 personagens**: 12 deslocados + **4 nativos**.
+- **15 personagens**: 11 deslocados + **4 nativos**.
 - Os nativos não são cenário. São a linha de base de normalidade contra a qual a
   anomalia é medida. Sem eles, ocultar não tem custo e o drama colapsa.
 
@@ -48,7 +48,14 @@ deslocamento. São elas que impedem isso de virar "um sim de cidade moderna".
 matou · feriu · salvou · roubou_de · deve_a · prometeu_a
 ama · teme · mentiu_sobre · testemunhou · trabalha_para · é_parente_de
 usou_anomalia · é_de_origem · reconheceu_origem_de
+brigou_com · possui_documento
 ```
+
+Os dois últimos entraram depois, quando o mundo passou a **gerar fatos
+próprios**: `brigou_com` quando a tensão de uma aresta descarrega,
+`possui_documento` quando alguém termina a burocracia do cartório. Ficam
+declarados aqui porque a lista é fechada por projeto — código que inventa
+predicado fora dela quebra a ontologia em silêncio.
 
 Os três últimos são a camada de anomalia:
 
@@ -69,12 +76,12 @@ a meia-noite local do dia em que o mundo nasceu, o que faz `tick % 48` casar com
 a hora de Brasília sem conversão nenhuma — e fica gravada em `world_clock`, não
 no código: recalculá-la deslocaria o histórico inteiro a cada execução.
 
-Isso obriga dois relógios sobre o mesmo motor:
+Isso obriga duas fontes de tempo sobre o mesmo motor:
 
-| Modo | Uso | Relógio |
+| Modo | Uso | De onde vem o tick final |
 |---|---|---|
-| **real** | O mundo de verdade | Brasília, 1 tick = 30 min reais |
-| **rápido** | Só validação das Fases 1-3 | 90 dias em segundos, banco separado |
+| **real** | O mundo de verdade | `RealClock`, hora de Brasília |
+| **rápido** | Só validação | intervalo passado direto a `Simulation.run()` |
 
 O modo rápido não é atalho — é a bancada de teste. Esperar 90 dias reais para
 descobrir que a ontologia de objetivos está errada não é uma opção.
@@ -166,7 +173,7 @@ O Kestlerium de verdade **não começa como um distrito urbano de 16 pessoas.**
 - Começa com **um personagem deslocado**, que chega sem entender nada.
 - Cresce por chegada contínua: cada obra nova manda alguém.
 
-O distrito de 16 personagens continua existindo como **bancada de teste**. Ele é
+O distrito de 15 personagens continua existindo como **bancada de teste**. Ele é
 necessário: os portões das Fases 1-3 medem distribuições, e uma vila com um
 morador seria legitimamente quieta demais para distinguir detector quebrado de
 mundo calmo. Bancada e produção são dois arquivos de dados, não dois motores.
