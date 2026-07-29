@@ -667,6 +667,32 @@ dias à frente do relógio, com todos os portões verdes). Nenhum portão vigia 
 distância entre o repositório e a página, e essa distância já quebrou o produto
 duas vezes.
 
+### P43 — A porta abria por URL e dava 404 no clique
+
+O relato era "o link do Kestlerium dá 404". Eu não reproduzi: `curl` devolvia
+200, a URL sem barra final redirecionava certo, e o link e a página tinham
+entrado no mesmo commit. Concluí que era propagação de CDN. **Estava errado, e a
+diferença era o clique.**
+
+O Kestlerium é uma página estática em `public/`, não uma rota do VitePress. O
+router do VitePress intercepta todo link de mesma origem sem extensão de
+arquivo, procura a rota nos dados do site, não acha — e renderiza o 404 dele
+próprio. Digitar a URL faz o navegador buscar o arquivo e funciona; clicar nunca
+chega a sair da aplicação.
+
+Por isso nenhuma ferramenta minha via o problema: `curl` não clica.
+
+**Correção.** Um atributo `target` no link. O handler de clique do router ignora
+qualquer link que o tenha, e o navegador navega de verdade.
+
+Verificado nos dois sentidos, em Chromium: com `target`, o clique abre o
+Kestlerium e o título é "Kestlerium"; sem ele, o mesmo clique na mesma URL dá
+"404 | The Kestler Archive".
+
+A lição repete a P30 e a P42 por um terceiro caminho: **o que se mede não é o
+que o usuário faz.** Duas vezes foi medir a bancada em vez da produção; esta foi
+medir com uma ferramenta que não faz o gesto que quebra.
+
 ---
 
 ## Estado atual

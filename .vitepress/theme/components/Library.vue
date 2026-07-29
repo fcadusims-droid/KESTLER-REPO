@@ -48,8 +48,16 @@ const nothing = computed(() => visibleGroups.value.length === 0)
       <!-- withBase, never a hardcoded path: the base is derived from the repo
            name in CI, and a literal "/KESTLER-REPO/" here silently breaks the
            door if the repo is ever renamed or moved to a custom domain. The
-           same class of bug already broke this site once, over letter case. -->
-      <a class="archive-porta" :href="withBase('/kestlerium/')">
+           same class of bug already broke this site once, over letter case.
+
+           target is what makes the door actually open. Kestlerium is a static
+           page in public/, not a VitePress route, and VitePress's client router
+           intercepts every same-origin extensionless link, looks for a page
+           that does not exist, and renders its own 404. The link was correct
+           the whole time: typing the URL worked, curl returned 200, and only
+           clicking failed. Any `target` attribute makes the router skip the
+           link (see its click handler) and let the browser navigate for real. -->
+      <a class="archive-porta" target="_self" :href="withBase('/kestlerium/')">
         <span class="archive-porta-dot"></span>
         Kestlerium — o mundo está acontecendo agora
         <span class="archive-porta-seta">→</span>
