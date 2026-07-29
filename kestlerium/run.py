@@ -1,0 +1,146 @@
+#!/usr/bin/env python3
+"""Kestlerium — ponto de entrada.
+
+    python run.py validar            # 90 dias em segundos, banco descartável
+    python run.py avancar            # avança o mundo real até agora (Brasília)
+    python run.py agora              # onde está cada um neste instante
+
+O modo real nunca usa o banco de validação e vice-versa.
+"""
+
+from __future__ import annotations
+
+import argparse
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from engine import clock as clockmod
+from engine import db, report, world
+from engine.sim import Simulation
+
+OUT = Path(__file__).resolve().parent / "out"
+REAL_DB = OUT / "kestlerium.db"
+TEST_DB = OUT / "validacao.db"
+
+
+def _bind_epoch(conn) -> int:
+    """Lê a época gravada, ou cria o mundo agora. Devolve o último tick simulado.
+
+    A época viver no banco é o que mantém a numeração dos ticks estável entre
+    execuções — e portanto as datas de chegada dos personagens.
+    """
+    from datetime import datetime
+    row = conn.execute("SELECT epoch_iso, last_tick FROM world_clock WHERE id = 1").fetchone()
+    if row:
+        clockmod.set_epoch(datetime.fromisoformat(row["epoch_iso"]))
+        return row["last_tick"]
+    epoch = clockmod.default_epoch()
+    clockmod.set_epoch(epoch)
+    conn.execute(
+        "INSERT INTO world_clock (id, epoch_iso, last_tick, mode) VALUES (1, ?, 0, 'real')",
+        (epoch.isoformat(),),
+    )
+    conn.commit()
+    print(f"Kestlerium nasce em {epoch.strftime('%d/%m/%Y %H:%M')} (horário de Brasília).")
+    return 0
+
+
+def cmd_validar(args: argparse.Namespace) -> int:
+    """Modo rápido: queima os erros de design antes do mundo viver de verdade."""
+    conn = db.connect(TEST_DB, fresh=True)
+    w = world.load(conn)
+    total_ticks = args.dias * clockmod.TICKS_PER_DAY
+
+    sim = Simulation(conn, w, seed=args.seed)
+    result = sim.run(0, total_ticks, mode="rapido")
+
+    metrics = report.collect(conn, 0, total_ticks)
+    text, passed = report.render(metrics, result["wall_seconds"])
+    print(text)
+
+    OUT.mkdir(parents=True, exist_ok=True)
+    (OUT / "fase1.txt").write_text(text, encoding="utf-8")
+    conn.close()
+    return 0 if passed else 1
+
+
+def cmd_avancar(args: argparse.Namespace) -> int:
+    """Modo real: leva o mundo até o instante atual de Brasília."""
+    conn = db.connect(REAL_DB)
+    w = world.load(conn)
+    from_tick = _bind_epoch(conn)
+    to_tick = clockmod.RealClock().current_tick()
+
+    if to_tick <= from_tick:
+        print(f"Kestlerium já está em {clockmod.label(from_tick)}. Nada a avançar.")
+        conn.close()
+        return 0
+
+    behind = to_tick - from_tick
+    print(f"Kestlerium: {clockmod.label(from_tick)} → {clockmod.label(to_tick)}")
+    print(f"Recuperando {behind} tick(s) = {behind * clockmod.TICK_MINUTES / 60:.1f}h de mundo.")
+
+    sim = Simulation(conn, w, seed=args.seed)
+    result = sim.run(from_tick, to_tick, mode="real")
+    print(f"Feito em {result['wall_seconds']:.2f}s.")
+    conn.close()
+    return 0
+
+
+def cmd_agora(args: argparse.Namespace) -> int:
+    """Fotografia do instante: quem está onde, agora."""
+    conn = db.connect(REAL_DB)
+    last = _bind_epoch(conn)
+    tick = clockmod.RealClock().current_tick()
+    if last <= 0:
+        print("O mundo ainda não foi iniciado. Rode: python run.py avancar")
+        conn.close()
+        return 1
+
+    shown = min(tick, last - 1)
+    noite = "noite" if clockmod.is_night(shown) else "dia"
+    print(f"KESTLERIUM — {clockmod.label(shown)} ({noite}, horário de Brasília)")
+    print("-" * 58)
+
+    rows = conn.execute(
+        "SELECT s.agent_id, a.name, s.location_id, s.activity"
+        " FROM agent_state s JOIN agent a ON a.id = s.agent_id"
+        " WHERE s.tick = ? ORDER BY s.location_id IS NULL, s.location_id, a.name",
+        (shown,),
+    ).fetchall()
+
+    if not rows:
+        print("  (sem estado gravado para este tick)")
+    for r in rows:
+        place = r["location_id"] or "—"
+        print(f"  {r['name']:<24} {place:<16} {r['activity']}")
+    conn.close()
+    return 0
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(prog="kestlerium")
+    sub = parser.add_subparsers(dest="cmd", required=True)
+
+    def add_common(sp):
+        sp.add_argument("--seed", type=int, default=20260729)
+        return sp
+
+    p = add_common(sub.add_parser("validar", help="roda N dias rápido e mede a Fase 1"))
+    p.add_argument("--dias", type=int, default=90)
+    p.set_defaults(func=cmd_validar)
+
+    p = add_common(sub.add_parser("avancar", help="avança o mundo real até agora"))
+    p.set_defaults(func=cmd_avancar)
+
+    p = add_common(sub.add_parser("agora", help="mostra o estado do instante atual"))
+    p.set_defaults(func=cmd_agora)
+
+    args = parser.parse_args()
+    return args.func(args)
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

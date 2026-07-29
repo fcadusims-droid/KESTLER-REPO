@@ -1,0 +1,135 @@
+# Registro de validação
+
+Cada problema encontrado, o que ele revelou e o que foi mudado por causa dele.
+Existe para que um resultado ruim no futuro possa ser explicado em vez de
+adivinhado — e para não repetir uma correção que já foi tentada.
+
+Princípio: quando um portão reprova, **conserta-se o modelo de mundo, não o
+número do portão.** Afrouxar o critério até passar produz um mundo que passa no
+teste e não gera drama.
+
+---
+
+## Fase 1 — L0: corpos, mapa, rotinas, encontros
+
+Portão: 90 dias em < 10s, ninguém isolado, saturação diária < 20%, nenhum par
+dominante (< 12%), cobertura de pares > 50%.
+
+### P1 — Saturação diária de 46,7% (alvo < 20%)
+
+**Sintoma.** Quase metade dos pares possíveis se encontrava todo dia.
+`apartamentos` sozinho respondia por 5415 dos 10572 encontros.
+
+**Causa.** Nove personagens moram no Edifício Aurora, e o modelo tratava o
+prédio como uma sala única. Os 36 pares de moradores ficavam em co-presença
+contínua sempre que estavam em casa.
+
+**Diagnóstico.** Morar no mesmo prédio não é estar na mesma sala. O modelo
+confundia endereço com convivência.
+
+**Correção.** Campo `shared` no local. Moradias (`shared = 0`) deixam de gerar
+co-presença automática; vizinhos se cruzam em área comum, ocasionalmente.
+
+**Resultado.** 46,7% → 27,8%. `apartamentos` caiu de 5415 para 902 encontros e
+`cafe` assumiu a liderança — o que é o esperado para um distrito.
+
+### P2 — Suomynona dominando os encontros
+
+**Sintoma.** Ainda 27,8% de saturação. Os pares mais frequentes eram quase
+todos com Suomynona; 1401 dos 4237 encontros vinham do canal de rede.
+
+**Causa.** `NETWORK_USE_P = 0.06` por tick significava que a entidade
+"encontrava" alguém toda vez que a pessoa usava um dispositivo — ou seja, quase
+todo o elenco, todo dia.
+
+**Diagnóstico.** Erro conceitual, não de calibragem. Encontro com Suomynona
+deve significar *resolveu uma identidade*, não *alguém abriu o telefone*. Se a
+detecção fosse frequente, a compulsão dela terminaria o trabalho na primeira
+semana: elenco inteiro exposto, tensão central resolvida, nenhum drama
+restante. **A raridade da detecção é o que dá tempo ao segredo existir.**
+
+**Correção.** `NETWORK_USE_P` = 0.012, com a semântica documentada no código.
+
+**Resultado.** 27,8% → 23,2%. Rede caiu de 1401 para 289 encontros.
+
+### P3 — Saturação residual de 23,2%
+
+**Sintoma.** Perto do alvo, mas ainda reprovado. `cafe` com 870 encontros e
+capacidade 10; várias rotinas sociais empilhadas na mesma faixa horária.
+
+**Causa.** A coluna `capacity` existia no schema desde o início e **nunca era
+usada**. Todo local, de qualquer tamanho, gerava co-presença total.
+
+**Diagnóstico.** O mesmo erro de P1, um nível acima. Oito pessoas num café não
+formam 28 conversas simultâneas, e dois ocupantes de um parque de 25 lugares
+podem nunca se ver.
+
+**Correção.** Probabilidade de contato entre um par específico =
+`CONTACT_K / capacidade`, com persistência (uma vez em contato, o par continua
+até se desfazer, para o encontro não piscar e inflar a contagem). Isso
+generaliza a regra de moradia de P1 em vez de manter dois casos especiais.
+
+**Resultado.** 23,2% → **11,1%. Fase 1 aprovada**, todos os cinco portões.
+
+### P4 — Teste de determinismo mal construído (erro meu, não do motor)
+
+**Sintoma.** Duas execuções com a mesma seed produziam hashes diferentes.
+
+**Causa.** Eu comparava o hash do **texto do relatório**, que inclui o tempo de
+execução — naturalmente variável. O mundo era idêntico; a medição é que estava
+errada. Um `--seed 999` aparentemente vazio era só o `argparse` rejeitando a
+flag depois do subcomando, porque ela só existia no parser pai.
+
+**Correção.** Determinismo passou a ser medido sobre a sequência de encontros
+lida do banco. `--seed` registrada em cada subcomando.
+
+**Resultado.** Mesma seed → mundo idêntico. Seed diferente → mundo diferente.
+
+### P5 — Época no futuro travava o modo real
+
+**Sintoma.** `avancar` respondia "nada a avançar" com o mundo parado no tick 0.
+
+**Causa.** `EPOCH` era constante de código, fixada em 29/07 00:00 — mas em
+Brasília ainda era 28/07 21:54. A época estava adiante do presente, o tick
+atual saía negativo, e o mundo se recusava a andar.
+
+**Diagnóstico.** O erro não é a data errada: é a época ser constante de código.
+Recalculá-la a cada execução também seria errado — a numeração dos ticks
+mudaria de um dia para o outro e o histórico inteiro se deslocaria, inclusive
+as datas de chegada dos personagens.
+
+**Correção.** A época é decidida quando o mundo nasce e gravada em
+`world_clock.epoch_iso`. Execuções seguintes leem de lá.
+
+**Resultado.** Mundo nasce à meia-noite local, recupera as horas até o presente
+e para. Rodar de novo não duplica nada.
+
+---
+
+## Estado atual
+
+**Fase 1: aprovada.**
+
+```
+dias simulados        90
+agentes ativos        16
+tempo de execução     0.50s
+encontros             1356 (15.1/dia)
+cobertura de pares    71.7%   (> 50%)
+saturação diária      11.1%   (< 20%)
+fatia do maior par     5.2%   (< 12%)
+```
+
+Determinismo verificado. Modo real ancorado no horário de Brasília, com
+recuperação por tempo decorrido — se o agendador atrasar, o mundo alcança o
+relógio em vez de ficar para trás.
+
+## Pendências assumidas
+
+- `out/` está fora do versionamento. Quando o Kestlerium for para produção via
+  agendador, o banco do mundo real precisará persistir entre execuções — ou
+  commitado, ou em cache do runner. Decisão adiada para a fase de implantação.
+- Ninguém se encontra em trânsito. O metrô é o nó central do grafo e deveria
+  ser onde estranhos se cruzam, mas quem viaja fica sem lugar. Custa uma rota
+  completa em vez de só o custo do caminho; adiado para não misturar mudanças
+  enquanto o portão da Fase 1 estava aberto.

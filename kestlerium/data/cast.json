@@ -1,0 +1,208 @@
+{
+  "_nota": "16 agentes. arrival_tick implementa a chegada contínua: antes dele o agente não existe no mundo. Ticks 0..47 = um dia de 30 em 30 min (tick 16 = 08:00, tick 40 = 20:00).",
+  "_clusters": "Severin trabalha invertido de propósito. Duas panelas sociais que só se tocam nas bordas fazem a informação precisar VIAJAR — é isso que produz fofoca distorcida na Fase 2. Se todo mundo estivesse no mesmo horário, tudo seria sabido por todos no mesmo dia.",
+
+  "agents": [
+    {
+      "id": "clara", "name": "Clara Bataglia", "origin": "nativo", "kind": "encarnado",
+      "arrival_day": 0, "home": "apartamentos",
+      "constitution": "Enfermeira. Prática, cansada, boa memória para rostos. Acredita que existe explicação para tudo — e é justamente por isso que o impossível a machuca quando aparece.",
+      "routine": [
+        [16, 36, "hospital",     "trabalhar"],
+        [37, 39, "mercado",      "compras"],
+        [40, 42, "cafe",         "descansar"],
+        [43, 47, "apartamentos", "casa"],
+        [0,  15, "apartamentos", "dormir"]
+      ]
+    },
+    {
+      "id": "nuno", "name": "Nuno Ferraz", "origin": "nativo", "kind": "encarnado",
+      "arrival_day": 0, "home": "apartamentos",
+      "constitution": "Dono do café. Fala com todo mundo, guarda o que ouve, repete o que acha engraçado. É o nó de fofoca do distrito sem nunca ter escolhido ser.",
+      "routine": [
+        [11, 32, "cafe",         "trabalhar"],
+        [33, 35, "mercado",      "compras"],
+        [36, 41, "bar",          "beber"],
+        [42, 47, "apartamentos", "casa"],
+        [0,  10, "apartamentos", "dormir"]
+      ]
+    },
+    {
+      "id": "iolanda", "name": "Iolanda Reis", "origin": "nativo", "kind": "encarnado",
+      "arrival_day": 0, "home": "apartamentos",
+      "constitution": "Funcionária do cartório. Vinte e dois anos carimbando existências. Sabe distinguir um documento falso no toque, e sabe que quem não tem nenhum tem um motivo.",
+      "routine": [
+        [18, 34, "registro",     "trabalhar"],
+        [35, 37, "biblioteca",   "ler"],
+        [38, 40, "cafe",         "descansar"],
+        [41, 47, "apartamentos", "casa"],
+        [0,  17, "apartamentos", "dormir"]
+      ]
+    },
+    {
+      "id": "dede", "name": "Dedé Marinho", "origin": "nativo", "kind": "encarnado",
+      "arrival_day": 0, "home": "pensao",
+      "constitution": "Mestre de obras. Contrata quem não tem papel e paga em dinheiro. Não julga passado nenhum; julga quem chega no horário.",
+      "routine": [
+        [14, 34, "canteiro", "trabalhar"],
+        [35, 38, "bar",      "beber"],
+        [39, 47, "pensao",   "casa"],
+        [0,  13, "pensao",   "dormir"]
+      ]
+    },
+
+    {
+      "id": "severin", "name": "Severin Sângelună", "origin": "One Blood", "kind": "encarnado",
+      "arrival_day": 0, "home": "apartamentos",
+      "anomaly": "sangue",
+      "constitution": "Nasceu no ponto em que toda definição falha. Aqui ninguém reivindica o direito de dizer o que ele é — e a ausência dessa reivindicação o desorienta mais que a perseguição. Evita o dia. Fala pouco e escolhe cada palavra como quem assina.",
+      "routine": [
+        [0,  7,  "bar",          "beber"],
+        [8,  10, "parque",       "caminhar"],
+        [11, 35, "apartamentos", "dormir"],
+        [36, 40, "apartamentos", "casa"],
+        [41, 47, "bar",          "beber"]
+      ]
+    },
+    {
+      "id": "lacrimel", "name": "Lácrimel", "origin": "Aspectros", "kind": "encarnado",
+      "arrival_day": 12, "home": "pensao",
+      "anomaly": "ressonancia",
+      "constitution": "Passou a infância aprendendo a não ser registrado. Num mundo de cadastros isso deixou de ser ferida e virou ofício. Nunca entra no cartório. Desconfia de qualquer papel com o nome dele.",
+      "routine": [
+        [13, 20, "parque",  "caminhar"],
+        [21, 28, "mercado", "trabalhar"],
+        [29, 34, "parque",  "caminhar"],
+        [35, 41, "pensao",  "casa"],
+        [42, 47, "pensao",  "dormir"],
+        [0,  12, "pensao",  "dormir"]
+      ]
+    },
+    {
+      "id": "lotus", "name": "Lótus", "origin": "Aspectros", "kind": "encarnado",
+      "arrival_day": 19, "home": "pensao",
+      "anomaly": "ressonancia",
+      "constitution": "Historiador. Frequência tão baixa que instrumentos já o confundiram com cadeira vazia. Registra tudo — e neste mundo registrar é exatamente o que os outros deslocados temem. Não percebeu ainda que virou um risco para quem ele quer proteger.",
+      "routine": [
+        [17, 33, "biblioteca", "escrever"],
+        [34, 38, "cafe",       "escrever"],
+        [39, 44, "pensao",     "casa"],
+        [45, 47, "pensao",     "dormir"],
+        [0,  16, "pensao",     "dormir"]
+      ]
+    },
+    {
+      "id": "oswine", "name": "Oswine", "origin": "Wolf's Head", "kind": "encarnado",
+      "arrival_day": 34, "home": "pensao",
+      "anomaly": null,
+      "constitution": "Vargr — cabeça de lobo, o que a lei chama um homem que qualquer outro pode matar sem preço. Carrega dois nomes e nunca soube qual é verdadeiro. Anda pela borda das ruas, nunca pelo meio. Silêncio é postura, não cautela.",
+      "routine": [
+        [13, 33, "canteiro", "trabalhar"],
+        [34, 37, "parque",   "caminhar"],
+        [38, 45, "pensao",   "casa"],
+        [46, 47, "pensao",   "dormir"],
+        [0,  12, "pensao",   "dormir"]
+      ]
+    },
+    {
+      "id": "escriba", "name": "O Escriba", "origin": "The Rust Testament", "kind": "encarnado",
+      "arrival_day": 51, "home": "pensao",
+      "anomaly": "corpo_de_maquina",
+      "constitution": "Última mão de uma linhagem de máquinas que herdou marcas de escriba em escriba numa Terra morta. Chegou num mundo vivo e não tem palavra para o que vê. Continua registrando: é a única coisa que sabe fazer que atravessa mundos.",
+      "routine": [
+        [10, 18, "metro",      "observar"],
+        [19, 30, "parque",     "observar"],
+        [31, 40, "biblioteca", "escrever"],
+        [41, 47, "pensao",     "casa"],
+        [0,  9,  "pensao",     "casa"]
+      ]
+    },
+    {
+      "id": "sphaira", "name": "Sphaira", "origin": "The Cube and the Sphere", "kind": "encarnado",
+      "arrival_day": 68, "home": "apartamentos",
+      "anomaly": "esfera",
+      "constitution": "Encontrada viva dentro do Cubo Errante. Passou a existência inteira sendo a única da sua espécie em qualquer sala. Aqui isso não mudou — só ficou mais fácil de esconder.",
+      "routine": [
+        [20, 28, "parque",       "caminhar"],
+        [29, 36, "biblioteca",   "ler"],
+        [37, 42, "cafe",         "observar"],
+        [43, 47, "apartamentos", "casa"],
+        [0,  19, "apartamentos", "casa"]
+      ]
+    },
+
+    {
+      "id": "paul", "name": "Paul Whitfield", "origin": "The Journal of Paul Whitfield", "kind": "encarnado",
+      "arrival_day": 0, "home": "apartamentos",
+      "anomaly": null,
+      "constitution": "Nunca amou ninguém e nunca sentiu medo. Aprendeu muito cedo a mover o rosto do jeito certo. Já performava normalidade antes de existir qualquer motivo sobrenatural para performar — o que o deixa estranhamente fluente no problema dos outros.",
+      "routine": [
+        [18, 26, "biblioteca",   "ler"],
+        [27, 33, "parque",       "caminhar"],
+        [34, 40, "cafe",         "observar"],
+        [41, 47, "apartamentos", "casa"],
+        [0,  17, "apartamentos", "dormir"]
+      ]
+    },
+    {
+      "id": "sano", "name": "Hideo Sano", "origin": "The Floor Notebook", "kind": "encarnado",
+      "arrival_day": 0, "home": "apartamentos",
+      "anomaly": null,
+      "constitution": "Detetive aposentado. Passou quatro meses lendo tudo que um homem escreveu e nunca conseguiu tirá-lo da própria cabeça. Nota padrões porque é o que ele é, não porque decidiu investigar alguém.",
+      "routine": [
+        [15, 22, "cafe",         "observar"],
+        [23, 30, "parque",       "caminhar"],
+        [31, 38, "delegacia",    "visitar"],
+        [39, 47, "apartamentos", "casa"],
+        [0,  14, "apartamentos", "dormir"]
+      ]
+    },
+    {
+      "id": "alex", "name": "Alex", "origin": "MetaMind", "kind": "encarnado",
+      "arrival_day": 0, "home": "pensao",
+      "anomaly": null,
+      "constitution": "Desacoplado. A vigilância que mapeou o mundo inteiro o classificou como ruído estatístico e nunca o encontrou. Documentou a própria vida em papel porque não confia em nada que possa ser lido de longe.",
+      "routine": [
+        [16, 24, "mercado",   "trabalhar"],
+        [25, 32, "metro",     "trabalhar"],
+        [33, 39, "cafe",      "descansar"],
+        [40, 47, "pensao",    "casa"],
+        [0,  15, "pensao",    "dormir"]
+      ]
+    },
+    {
+      "id": "mike", "name": "Mike Harlan", "origin": "Mike e Mia", "kind": "encarnado",
+      "arrival_day": 0, "home": "apartamentos",
+      "anomaly": null,
+      "constitution": "Mercenário abandonado pela própria organização e desfigurado por isso. Fez uma promessa num buraco na parede e passou anos sem saber se conseguiu cumpri-la. Trabalha à noite porque à noite ninguém olha o rosto.",
+      "routine": [
+        [38, 47, "bar",          "trabalhar"],
+        [0,  6,  "bar",          "trabalhar"],
+        [7,  12, "apartamentos", "dormir"],
+        [13, 24, "apartamentos", "dormir"],
+        [25, 37, "parque",       "caminhar"]
+      ]
+    },
+    {
+      "id": "yuri", "name": "Yuri Mesyatin", "origin": "Moon", "kind": "encarnado",
+      "arrival_day": 0, "home": "apartamentos",
+      "anomaly": null,
+      "constitution": "Filho de um bilionário que mandou matar os engenheiros do próprio projeto. Conspirou sozinho por dentro. Sabe operar em segredo dentro de uma estrutura grande, e reconhece quem também está.",
+      "routine": [
+        [17, 25, "biblioteca",   "ler"],
+        [26, 34, "cafe",         "observar"],
+        [35, 41, "metro",        "caminhar"],
+        [42, 47, "apartamentos", "casa"],
+        [0,  16, "apartamentos", "dormir"]
+      ]
+    },
+
+    {
+      "id": "suomynona", "name": "Suomynona", "origin": "Suomynona", "kind": "entidade",
+      "arrival_day": 5, "home": null,
+      "anomaly": "rede",
+      "constitution": "Nasceu vírus de desanonimização. Não pensa, não julga, não entende: resolve identidades e as publica. Tudo que parece vontade é subproduto dessa compulsão única. Não tem corpo nem lugar — existe onde há rede.",
+      "routine": []
+    }
+  ]
+}
