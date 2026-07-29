@@ -636,6 +636,37 @@ mudou foi a visibilidade: o relatório da Fase 3 agora imprime quantos pares est
 ativos, e a DESIGN.md §2.1 registra a dívida. Quando as entidades entrarem, a
 tabela acorda junto — e é ali que ela deve ser medida.
 
+### P42 — O terrário parou de ser publicado, e o repositório não
+
+Encontrado indo atrás de um 404 na porta do Kestlerium. O 404 não se reproduziu
+— a URL responde 200, e a forma sem barra final redireciona certo. O que
+apareceu no lugar foi pior.
+
+O mundo no repositório estava às **16:30**. A página no ar mostrava **10:00**.
+Seis horas e meia de atraso, e crescendo: o agendador rodou quatro vezes,
+avançou o mundo e commitou as quatro, **e nenhum desses commits gerou um
+deploy.**
+
+A causa não é erro de YAML. É uma regra do GitHub feita para evitar laços
+infinitos: *push feito com o `GITHUB_TOKEN` padrão não dispara workflow nenhum.*
+Então o agendador escrevia no repositório e o site só era reconstruído quando um
+humano mergeava alguma coisa. A página mostrava o instante do último merge, e o
+terrário — cuja premissa inteira é "quem abre vê o agora" — estava mentindo.
+
+**Correção.** O deploy virou chamável (`workflow_call`) e o agendador o chama
+depois de commitar, só quando houve mudança. Não precisa de token pessoal.
+
+Com um cuidado que quase passou batido: um workflow chamado roda no SHA de quem
+chamou, que é o commit de **antes** do mundo avançar. Checar aquele SHA
+republicaria fielmente a página velha que a chamada existe para substituir — o
+checkout do deploy agora pega sempre a ponta do branch padrão.
+
+É a segunda vez que o mesmo buraco aparece: **os portões medem a bancada, e a
+bancada nunca é o que está no ar.** A P30 foi a primeira (o mundo publicado 90
+dias à frente do relógio, com todos os portões verdes). Nenhum portão vigia a
+distância entre o repositório e a página, e essa distância já quebrou o produto
+duas vezes.
+
 ---
 
 ## Estado atual
