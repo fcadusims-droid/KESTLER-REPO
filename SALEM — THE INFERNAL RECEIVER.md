@@ -1,1950 +1,1578 @@
 ---
 title: "Salem — The Infernal Receiver"
-description: "Character and deck design document for Salem, the Infernal Receiver: his pact, his corruption arc, and the complete Phantom Ledger archetype built around his identity."
-genre: "Card Game / Character Design"
+description: "The Phantom Ledger: a compiled record of the ninety-nine, the officer who collects them, and the law that both of them are standing inside."
+setting: "Yu-Gi-Oh! — present day, 2026"
 category: "Worldbuilding"
 ---
 
 # SALEM — THE INFERNAL RECEIVER
-### Character & Deck Design Document | Phantom Ledger TCG 2026
+
+### The Phantom Ledger — A Compiled Record
 
 ---
 
-> This document covers the full profile of **Salem**, the Infernal Receiver — his origin, pact, corruption arc, narrative stakes, and the complete Phantom Ledger deck built around his identity. All card designs are original fan archetype cards — unprinted and theoretical.
+> *Everything in this record was assembled from three sources: the debriefs of duelists who lost to him and did not know they had lost anything, the telemetry of an unregistered card entering a commercial Duel Disk, and the files he keeps that nobody asked him to keep.*
+>
+> *Sixty-one entries are closed, by his count. The price established at Kul Elna was ninety-nine.*
 
 ---
 
-## TABLE OF CONTENTS
+## CONTENTS
 
-1. [Character Profile](#character-profile)
-2. [The Pact & The Devil's Design](#the-pact)
-3. [The Two Conditions of Defeat](#two-conditions)
-4. [The Phantom Ledger — Origin of the Deck](#deck-origin)
-5. [The Tribunal Domain](#tribunal-domain)
-6. [Corruption Progression](#corruption)
-7. [Personality & Signature Lines](#personality)
-8. [Narrative Arc](#arc)
-9. [Fan Archetype Card Designs](#fan-archetype)
-
----
-
-<a name="character-profile"></a>
-## PART I — CHARACTER PROFILE
-
-### Who Is Salem?
-
-Salem was once a respected officer of justice: a court-appointed insolvency administrator known for precision, discipline, and incorruptible professionalism. He handled bankruptcies, seizures, asset recovery, and the orderly burial of ruined empires.
-
-By day, he was the hand of the law.
-By night, he watched his own life collapse.
-
-A catastrophic chain of scandals — some fabricated, some deserved — destroyed his reputation. Clients vanished. Creditors circled. His license faced revocation. With debts mounting and dignity shattered, Salem stood alone in his office during the worst night of his life.
-
-That is when the visitor arrived.
-
-### The Hidden Ambition — The Judgeship
-
-There is something Salem's professional record never shows and his colleagues never knew: he did not want to be an administrator. He wanted to be a judge.
-
-Not for power. Not for prestige. For precision. A judge is the law at its most concentrated — not the hand that executes, but the mouth that speaks. Administrators implement. Judges decide. Salem had always known, with the specific self-knowledge of an ambitious person living beneath their ceiling, that he was built to decide and not merely to execute.
-
-The judgeship was not an irrational aspiration. He was qualified. He was respected. But the political environment, the scandals — real and fabricated — and the slow collapse of his professional standing had made it effectively unreachable. His chances were nearly zero. He had accepted this, the way people accept ceilings they can see above themselves and cannot reach.
-
-The devil knew.
-
-When the visitor appeared in Salem's office, the offer was not merely career restoration and wealth. Embedded within the contract — in language Salem read quickly and signed without dwelling on — was a specific clause:
-
-*The position of Judge shall be granted to the signatory for the duration of all proceedings conducted under this agreement.*
-
-Salem read it as the restoration of his ambitions. The devil was offering him the bench he had always deserved. He signed.
-
-### The Specific Deception of the Judgeship
-
-The clause was not a lie. Every word was accurate. Salem was granted the position of Judge — a position that exists exclusively during duels, which the contract defines as "proceedings conducted under this agreement."
-
-Outside of duels, Salem remains an insolvency administrator. His daily life is unchanged. He files reports, manages cases, and lives the career the scandals reduced him to. The judgeship does not follow him into the office in the morning.
-
-Inside a duel, however, Salem is the presiding judge of a fully constituted infernal court. The field is his bench. His cards are his judicial staff. The opponent is the defendant. The rules of the duel are the rules of procedure, and Salem's rulings — his trap activations, his declarations, his decisions about timing and chain order — are legally binding within the domain of the Tribunal.
-
-The devil offered Salem exactly what he asked for. He simply defined the scope of the appointment in the contract's fine print, and Salem had been in a hurry.
-
-### Titles
-
-**The Infernal Receiver** *(professional title — daily life)*
-
-**The Presiding Judge** *(duel title — within the Tribunal Domain)*
-
-Also known as:
-- Administrator of Defaults
-- Collector of Forfeitures
-- The Man Who Audits Souls
-- Phantom Ledger Executor
-
-### Appearance
-
-**Base Form — The Day**
-
-In his daily life, Salem looks exactly like what he is: an insolvency administrator in his early forties who has had a difficult few years. The suit is good quality but slightly worn at the cuffs. The shoes are polished out of professional discipline rather than pride. He carries a leather briefcase that contains case files. He does not look like a man touched by the infernal. He looks like a man who has too much work and not enough sleep.
-
-**The Night — Duel Form**
-
-When Salem finds an opponent and the proceedings begin, something shifts in how he presents — not dramatically, and not all at once, but visibly to anyone paying attention.
-
-The suit is still the same suit. But in the darkness, the crimson lining catches light differently. The chain-shaped tie pin, which reads as decorative in daylight, is heavier and more deliberate in a dimly lit tournament hall. The silver gloves, which he puts on only when he draws cards, are the tell: no one who plays casually wears gloves to handle cards.
-
-One eye faintly glows gold when a contract activates.
-
-**The Scales of Corruption — The Hidden Symbol**
-
-There is a piece of Salem's nighttime appearance that most people do not register on first encounter, and some never register at all. It requires the right angle of light and the specific attention of someone who knows what they are looking at.
-
-A scale hangs at his throat.
-
-Not a decorative brooch. Not a lapel pin. A miniature scale — structurally a yoke, not an ornament — built into the architecture of his collar. The support runs along the back of his neck, crests over each shoulder, and descends on both sides in two lengths of dark chain. Each chain terminates in a weight.
-
-The weights are the detail. They are not pans. Not plates. They are solid, smooth, faceted pieces — roughly the shape and size of the iron weights used in an old apothecary's kit, the kind a pharmacist or goldsmith would use to measure precise quantities. Teardrop-shaped. Self-contained. They do not have a surface meant to hold anything. They are not designed to receive — they are designed to measure by their own mass alone.
-
-In daylight or at a distance, they could be mistaken for unusual pendant ornaments or the terminal elements of a structured collar piece. A piece of architectural jewelry. Something a person might wear to communicate seriousness of purpose without stating it directly. At the right angle, in the right light, they are clearly weights — old, precise, made to last — and the chain connecting them to the shoulder yoke is clearly a balance mechanism.
-
-What makes them significant is the asymmetry.
-
-One weight always hangs slightly lower than the other. Not dramatically. Not enough to see from across a room. But close up, watching them across a table over the course of a duel, the difference is visible. The left weight descends when Salem is closer to the demonic. The right weight descends when he is closer to the human. They shift over time — between duels, not during them. The scale does not react to individual plays. It records something longer than that.
-
-The scale moves.
-
-If Salem is closer to his human self — if he has been feeding well, if the corruption is suppressed, if the will he has absorbed from recent opponents has restored some of what the pact has been draining — the right weight hangs lower. The scale tips right.
-
-If Salem is closer to becoming a demon — if he has lost several duels recently, if the draining has accelerated, if the Corrupted Receiver has been invoked and the soul-split has taken more than it gave back — the left weight hangs lower. The scale tips left.
-
-He never looks at it during a duel. He does not need to. He can feel it.
-
-**Corruption in Design — Visual Progression**
-
-Salem's appearance changes as the pact progresses. The changes follow the corruption stages outlined in Part VI, but they map onto his visual presentation in a specific way that can be read by anyone who has watched him across multiple duels over time.
-
-In his early stages — when the scale is balanced or tips slightly right — his duel appearance reads as formal and precise. The suit. The gloves. The chain pin. A man in professional clothing who happens to be playing a card game.
-
-As corruption advances and the scale tips further left, his visual design shifts. The crimson in his lining bleeds upward into the fabric. The gold eye no longer only activates during card effects — it maintains a faint glow throughout the duel. The scale becomes more visible, not because it grows but because his posture changes in a way that exposes it. His shadow in well-lit rooms does not always match his body exactly.
-
-At the late stages, his duel form looks like something that remembers being a man rather than something that is one. The toga-like dark draping that begins to overlay his suit carries old bloodstains — not fresh, not dramatic, but permanent marks of proceedings that have been completed. His eyes have both shifted by this point. The scale is tipped heavily left and no longer rights itself between duels.
-
-At the terminal stage, the scale is a fixed point. It does not move. It has settled.
+**I. The World As It Stands** — the game after the Shadow Games; what is sanctioned and what is not
+**II. The Old Law** — Kul Elna, Ma'at, and why Dartz failed
+**III. The Unnamed Creditor** — the thing in the margin
+**IV. Salem** — the officer, the ceiling, and the liquidation he signed
+**V. The Pact** — four clauses, two conditions, one direction
+**VI. The Tribunal Domain** — how a courtroom renders on consumer hardware
+**VII. Who Is Looking** — the Registry, the woman who came back, and a compliance spreadsheet
+**VIII. The Filing** — the error in the ledger and what correcting it costs
+**IX. Chronology**
+**X. The Phantom Ledger** — the deck, the court, and the staff
 
 ---
 
-### The Double Life — Day and Night
+<a name="world"></a>
+# PART I — THE WORLD AS IT STANDS
 
-Salem's existence is divided into two completely separate halves, and anyone who knows him from only one side would not recognize him in the other.
+## The Game After the Shadow Games
 
-**The Day — A Life That Never Improved**
+Duel Monsters is a generation old and entirely ordinary. It has a professional circuit, a regional qualifier system, a World Championship, a banlist revised on a schedule, and a secondary market that fluctuates with print runs. Industrial Illusions designs and prints. KaibaCorp licenses the hardware. Millions of people play, and the overwhelming majority of them will never encounter anything that cannot be explained by cardboard, statistics, and a bad opening hand.
 
-The contract was supposed to change things. That was the point. Career restored, wealth, influence, enemies' fear — that was what Salem signed for. He read the delivery terms too quickly to understand them: all promised rewards would be delivered only after the agreement was fulfilled.
+This is not because the ancient magic was destroyed. It is because it was **filed**.
 
-The agreement is not fulfilled. He is still collecting.
+Everything that happened in Domino City happened. The Millennium Items were forged from ninety-nine lives at Kul Elna. Souls were sealed into objects and cards. A nameless Pharaoh spent three thousand years inside a puzzle. An Atlantean corporation with a legitimate tax structure spent ten thousand years harvesting people through a card game. All of it is a matter of record, and the record is not classified so much as *unreadable* — scattered across museum accession numbers, a KaibaCorp legal settlement, two decades of tabloid archives, and the memories of a small number of people who have stopped trying to explain themselves.
 
-His daily life is the same disaster it was the night the visitor appeared, except now it is a disaster he cannot leave. He still works as an insolvency administrator. The same clients — institutions that see him as a tool, not a professional. The same creditors who commission him for asset recovery and treat him like a process server. The same cases, the same meetings, the same inbox, the same commute.
+The Items are not where the story says they are.
 
-His license was never formally revoked, which is the one thing that did not get worse. But it was never formally restored either. He operates at the edge of credibility, taking on cases that more established administrators pass over. He does not pass them over because he needs the work. He takes them because they are what is available.
+Atem set all seven into the Tablet of the Pharaoh's Memories, the gate opened, the temple came down, and the seven were sealed under the shrine beneath the ruins of Kul Elna. That closure was real. It lasted rather less than a decade.
 
-His office is a single room on the fourth floor of a building that charges him slightly too much for what it provides. His name is on the door in a font that was fashionable a decade ago. His assistant, when he had one, left after six months. He has not replaced her.
+KaibaCorp commissioned an excavation. Work crew, engineers, helicopter, security case. They were looking for one item and they found it, and two fragments of it were stolen off the case on the way out, and the pit they had opened was still glowing when a stranger walked back down into it and pulled the Millennium Ring out of the rubble by its prongs.
 
-His colleagues know him by reputation as someone who was once going somewhere and then, around three years ago, appeared to have stopped going anywhere. They are not hostile. They simply do not think about him very much.
+The Puzzle was reassembled, used once, and faded. The Ring left the site in someone's hands. The other five — Eye, Rod, Necklace, Key, Scale — were not what the excavation was chartered to recover, and are somewhere in the spoil of a dig that a corporation opened, worked, and closed out.
 
-His apartment is functional. He eats at reasonable hours. He does not drink more than the situation warrants. He maintains these things with the same discipline he applies to his case files: not because he feels anything about them, but because the routine is a structure that still works even when the will to maintain it is thinner than it used to be.
+**An entry sealed by a Pharaoh was reopened by a subcontractor with a permit.** That is not a metaphor. It is the single most consequential event in this record, and there is an invoice for it.
 
-A difficult client call happens in the afternoon. A case he has been working for six weeks closes badly — the assets he expected to recover are encumbered in a way the original filing concealed, and he has to renegotiate the commission downward while the creditor's representative speaks to him with the specific tone reserved for people who have made mistakes. He thanks the representative for the call. He files the revised documents. He stares at the screen for approximately four minutes before closing the tab.
+What did not close is the **practice**. Shadow alchemy was never a property of the Items. The Items were instruments — very good ones, made for a specific job. The job was older than they were, and the law that made them work is older than Egypt.
+
+Duelists today occasionally feel something at the table that they do not have a word for. A card that seems to know it is being played. A monster rendered in Solid Vision that looks at them for a moment too long. A game they should have won and did not, and afterwards a flatness they attribute to the drive home. The overwhelming majority of these experiences are nothing.
+
+A small number of them are transactions.
+
+## What a Duel Disk Actually Does
+
+Every printed Duel Monsters card carries an embedded chip. The Disk reads it, authenticates it against the game database, and renders the monster in Solid Vision.
+
+The lineage of that device is not a secret and nobody looks at it directly. Three thousand years ago the Pharaoh's priests wore the **DiaDhank** — a gold band on the forearm that drew on the wearer's own Ba to summon a Ka out of a stone tablet and hold it in the world. A modern Duel Disk is a band on the forearm that draws a monster out of a card and holds it in the world. KaibaCorp did not copy it. Pegasus built the card game out of the tablets, Kaiba built the hardware to project the cards, and the shape arrived on its own, which is the way shapes arrive when the underlying job has not changed.
+
+The current generation renders from a neural link, which is to say it does not read the card so much as read the duelist reading the card. The top commercial models do not merely render light. They render **mass** — projections with weight, temperature, and enough substance to displace air.
+
+And a monster with mass, projected from an instrument on a duelist's arm, drawing on that duelist's attention to hold its shape, is not a picture of a Duel Monster.
+
+It is a Ka, summoned correctly, by a machine, with a warranty.
+
+The industry treats the resulting behaviour — the pauses, the eye contact, the occasional monster that does not dissolve on the exact frame it should — as a rendering artifact. It is not. It has never been. Duel Monsters were spirits before they were cardboard, and the hardware has been getting better at the original job for twenty years.
+
+This is the seam. Shadow alchemy needs an instrument. There are now several hundred million of them, and they are on people's arms.
+
+## Sanctioned Play
+
+The official circuit is bureaucratic, well-run, and hostile to anomalies. Regional qualifiers require registered decklists. Deck checks are routine at any event with a prize structure. The chips in every card are validated against a central database, and a card whose chip returns no database entry produces a hard failure at the table — not a ruling dispute, an equipment error.
+
+Salem has never entered a sanctioned event. He cannot. Not one of his fifty-five cards exists in the database.
+
+## What Lies Beneath It
+
+Unsanctioned play is not an underworld. It is the ordinary shadow that every competitive scene casts, and it exists for boring reasons:
+
+**Testing.** Serious players need reps against real opponents without generating a public record of their lines before a major event. Sanctioned play is a record. The unsanctioned circuit is not.
+
+**Money.** Prize support is thin below the top cut. Cash games are illegal in most jurisdictions in a way that nobody enforces, and a well-run private session moves more money in a night than a regional pays for third place.
+
+**Grudges.** Some matches want to happen without a judge, a spectator feed, or a result that anyone can cite afterwards.
+
+**Freedom.** No banlist. No legality. No deck check. This is the part that matters. In unsanctioned play, a card that does not exist is not an infraction — it is *flex*. People bring proxies, custom sleeves, joke decks, and one-off renders they made themselves. The culture's response to an opponent putting down a card nobody has ever seen is not alarm. It is amusement.
+
+The circuit has geography. It runs on late store sessions that begin after the sanctioned event ends and the shutters come down; on private rooms above bars in Cologne, Ghent, Milan, Osaka; on the "after-hours" bracket that shadows every World Championship Qualifier, unadvertised and better-attended than most regionals. The organizing spine of it, insofar as it has one, is **the Ladder** — an invite-only ranking maintained by nobody in particular, propagated through group chats, with no prizes and no authority except that everyone serious knows their number.
+
+Salem is on the Ladder. He is ranked, at time of compilation, thirty-first. He has never once contested a ranking or acknowledged that he has one.
+
+## Why Nobody Warned Anyone
+
+There is a warning network. It works perfectly. That is the problem.
+
+Ask a duelist who has lost to Salem what happened and they will tell you, accurately: *a slow guy in a suit, plays a weird control deck with fake cards, talks like a lawyer the whole match, negated everything I did, then shook my hand and said I played well and meant it.* This account has circulated for two and a half years. It is completely true and it alarms nobody, because it is a description of an unpleasant matchup, not a description of a predator.
+
+The one detail that would matter — that everyone who plays him stops caring about the game within a month — is invisible from inside. Burnout is the single most common experience in competitive Duel Monsters. Every player who has ever quit has a story that sounds exactly like this one.
+
+So nobody warned anyone. The information was available the entire time, correctly reported, and structurally useless.
+
+---
+
+<a name="law"></a>
+# PART II — THE OLD LAW
+
+## Kul Elna and the Price of Ninety-Nine
+
+Three thousand years ago, the Pharaoh Aknamkanon ordered seven instruments forged from a spell in the Millennium Spellbook — objects capable of sealing and commanding spirits, made to hold the kingdom against invasion. He charged his brother, the High Priest Aknadin, with the work.
+
+The spell required a price, and the price was specified: ninety-nine human lives.
+
+**Aknadin did not tell his brother the price.** The Pharaoh authorised a transaction whose cost was withheld from him by the party executing it, and then the party executing it went and paid that cost out of a village.
+
+He chose Kul Elna because it was a village of thieves, and because he had decided in advance that this made the arithmetic easier. Every inhabitant was killed. The gold ran with them. Seven objects came out of the floor of that chamber, and they worked.
+
+Two things are usually said about Kul Elna. The first is that it was an atrocity. The second is that it worked. Both are true, and the relationship between them is the entire legal foundation of everything that follows — because there are **two** defects in that transaction and only one of them is the murder.
+
+The ninety-nine never consented. And the party who authorised the working was never shown the price.
+
+**The spell did not ask for consent. It asked for a price, and the price was paid.** The Items functioned. But every single holder of every single Item was, without exception, ruined by it — driven mad, possessed, killed, or unmade. Three millennia of catastrophe traceable to seven objects that were technically correctly manufactured.
+
+That is not a curse in the folkloric sense. It is an **unbalanced entry**. The transaction went through and the accounts never closed, because ninety-nine parties were debited and none of them agreed to the debit. The magic held. The books did not. And an entry that does not balance keeps trying to balance itself, forever, through whatever is nearest.
+
+## Ma'at
+
+There is no infernal court. There are no judges, no bailiffs, no appellate structure, and nothing anywhere in the shadow that can be petitioned, bribed, or reasoned with.
+
+There is only **Ma'at**: balance, truth, correctness — not as a virtue but as a *mechanism*. It does not punish. It does not intervene. It weighs, and where the weighing fails, the transaction is void. Not reversed. Not avenged. **Void** — as if it had never been entered, with every consequence that followed it unwinding in the same instant.
+
+Ma'at requires no complainant. It requires only that the imbalance be **on the record**. An imbalance nobody has written down is not an imbalance; it is simply an unexamined entry, and unexamined entries stand indefinitely. This is why every soul-transaction in history has been accompanied by an obsessive apparatus of documentation: tablets, seals, inscriptions, contracts. Not for the benefit of the parties. Nobody is reading them. They exist because a transaction under the old law must be *recorded* to be enforceable — and the same requirement that makes it enforceable is the requirement that makes it voidable.
+
+Everything in this record turns on that symmetry.
+
+## The Feather
+
+The old instrument for the weighing was the Millennium Scale, and its operation was simple. A person's conduct on one side. The Feather of Ma'at on the other. If the Feather rose, the account was clear. If the Feather rose all the way to the top — if the weight of what the person had done was total — then Ammit came, and the soul was consumed, and the body was found later with a heart that had stopped for no medical reason anybody could establish.
+
+The Scale went into the Tablet with the other six and came down with the temple. It was not what the excavation was looking for, and nobody has produced it since.
+
+The function was never in the object. The object was a convenience.
+
+## The Failure of Dartz
+
+Ten thousand years ago the King of Atlantis was given a stone and a god and a very simple idea: take souls until you have enough, then let the god through. He built an organization, then a multinational, then a global recruitment structure. He gave his lieutenants fragments of the stone and a Field Spell that could not be dispelled, and for a hundred centuries his people challenged strangers to card games and took whatever was left of the loser.
+
+He got all the way to the end. The Leviathan surfaced. And then three men and three dragons killed it, and **every single soul was released at once**.
+
+Ten thousand years of collection. Undone in an afternoon.
+
+The reason is not that Dartz was unlucky. It is that seizure is a **reversible entry**. A soul taken by force was never transferred; it was only *held*. Break the container and it goes home, because it never stopped belonging to its owner. The Orichalcos was a warehouse with a very good lock, and warehouses can be opened.
+
+The Creditor watched all of it, and it is worth being precise about where it was standing when it did. It was not yet in the margin — Dartz fell while the seven Items were still in the world and still in use, which means the working that had made them was still open, and the accounting function that lived inside that working was still attached to every transaction the Items touched. It had a very good seat.
+
+What it watched was a competent, patient, effectively immortal operator work for ten thousand years on a model with a fatal structural defect that nobody in the entire organisation ever noticed, because it never once occurred to any of them that the objective was not *acquisition* but **transfer of title**.
+
+Its conclusion, which it has never stated aloud and which structures every subsequent event in this record:
+
+> *A soul that was taken can be given back. A soul that was surrendered cannot.*
+
+---
+
+<a name="creditor"></a>
+# PART III — THE UNNAMED CREDITOR
+
+## What It Is
+
+Aknadin's ritual had participants that the histories do not count. Ninety-nine victims. One priest. Seven objects.
+
+And one function.
+
+A transaction under the old law must be recorded, and the spell that forged the Millennium Items contained, as every such spell must, an **accounting operation** — the part of the working that tallies the price, confirms the sum, and certifies that the terms were met. It is not a spirit. It has no Ka, because it was never a person and never had a nature for a Ka to reflect. It is the part of the ritual that counted to ninety-nine and said *yes, that is ninety-nine.*
+
+At Kul Elna it counted, and certified, and then — because the entry it had just certified did not balance and never would — it did not stop. It has been attempting to close that entry for three thousand years. The attempt gave it continuity. Continuity gave it something functionally indistinguishable from a self.
+
+When Atem set the seven Items into the Tablet, the gate opened, and the temple came down on top of them, the working was formally closed and everything still inside it was sealed with it. Including the clerk.
+
+It was not sealed in the underworld. It was not sealed in the Duel Monsters Spirit World or any dimension with a location. It was sealed **in the margin** — the space in a ledger between one entry and the next, which is the only space it has ever occupied and the only one it can. The margin borders every soul-transaction ever conducted anywhere, because every transaction has a margin. It is not everywhere. It is beside everything, and for a period of years it was beside everything with a closed cover over it.
+
+## The Breach
+
+There was no cosmic convergence. There was no alignment, no prophesied hour, no thinning of any veil.
+
+There was an excavation permit.
+
+KaibaCorp went into the shrine beneath Kul Elna looking for one object and found it. Ground was broken, rubble was cleared, a security case went out on a helicopter, two fragments were stolen off it in transit, and a man who did not work for the company walked down into the open pit and took the Millennium Ring out of the debris because it was glowing and he could see it.
+
+Nobody reburied anything. The site was worked, cleared, and closed out.
+
+**A working that a Pharaoh sealed by dying inside it was reopened by a contractor with heavy equipment, and then left open.** The Items that mattered to the excavation left. The five that did not matter stayed in the spoil. And the closure that had been holding the accounting function inside a finished transaction stopped being a closure and became a hole in the ground with a case number.
+
+The Creditor did not get out. It is still in the margin, and the margin has not moved.
+
+What it got was a **cover that no longer closes** — a place where the boundary between the working and the world had been physically broken, through which a sufficiently concentrated act of attention could be projected for as long as the projection could be sustained.
+
+It then waited years more, for a reason that has nothing to do with power and everything to do with method. A projection can present a contract. It cannot make anyone sign one. It needed a person alone, at the end of a bad night, who was professionally incapable of refusing to read a document that had been put in front of him.
+
+It has no name. It was never issued one, because functions are not named. Salem calls it the devil, which is wrong in every particular and close enough to be useful. The record calls it **the Unnamed Creditor**, which is what it calls itself, when it is required to identify a party.
+
+## Why It Cannot Lie
+
+Not a moral position. A structural one.
+
+A ledger that records a false entry is no longer a ledger. It is a piece of paper with writing on it. The Creditor's continuity depends entirely on its own reliability as a record — that is the thing it is, the only thing, the sole function that survived three thousand years of trying to close a bad account. If it falsifies an entry, it does not become a liar. It **stops existing**.
+
+So it does not lie. It has never needed to. Every clause of every contract it has ever presented is accurate. It discloses fully, in complete language, at whatever length is required.
+
+It has simply learned, over three millennia of watching people sign things, that **full disclosure and comprehension are not the same event**, and that the gap between them is not its responsibility.
+
+## What It Wants
+
+To close the entry.
+
+The Kul Elna working was priced at ninety-nine souls and paid in ninety-nine lives that were never surrendered. The entry has been open, unbalanced, and self-perpetuating since. The Creditor cannot forgive it, cannot write it off, and cannot pay it from the margin, because the margin contains nothing.
+
+But the price is established. Precedent is the strongest instrument in the old law, and the precedent here is unambiguous: **ninety-nine souls, properly surrendered, closes this working.**
+
+Not ninety-nine dead. Ninety-nine *transferred with title* — legitimately, disclosed, unforced, and voluntary enough that Ma'at weighs the entry and finds it balanced. Then the account closes, the working completes correctly for the first time in three thousand years, and the Creditor is issued the thing a closed transaction always issues to the certifying party:
+
+**A body.** Standing. A place in the world of the parties rather than the margin between them. Not a monster's body. A legal person's.
+
+It does not want to destroy anything. It has no interest in humanity beyond humanity's capacity to consent. It wants to be *entered into the record as existing*, and the price of that has been posted since before Egypt had a word for a year.
+
+Sixty-one entries are closed. Thirty-eight remain.
+
+## Why It Needs a Human
+
+Two reasons, and only two.
+
+**It cannot present.** A function has no standing. It cannot open a proceeding, cannot receive a signature, cannot be a party. It requires a **material-plane executor** who can — someone with legal personality in the world where the counterparties live.
+
+**It cannot touch the outcome.** This is the harder constraint, and the one the Creditor understands better than anything else in existence. A soul obtained through compulsion, interference, outcome-fixing, or any exercise of force is a *seized* soul, and seized souls come back. Dartz proved it at a scale nobody will ever exceed. So the Creditor watches every proceeding through the deck — every card, every ruling, every word — and does not act. Cannot act. Acting is the one thing that would destroy the value of what it has spent three thousand years accumulating.
+
+It is present at every duel Salem plays. It has never once helped him.
+
+## Its Manner
+
+It does not gloat, threaten, monologue, or appear. Salem has met it exactly once, for eleven minutes, and has never seen it since. What he perceives now is a quality of attention that arrives sometimes in the middle of a proceeding — the specific sensation of being read by something that is not evaluating him but *filing* him.
+
+It finds Salem interesting in the narrow way a well-made instrument is interesting. Of every person the margin has ever bordered, Salem is the first who read the contract afterward. It considers this professionally admirable and has revised nothing, because there is nothing to revise: the contract is correct, the disclosure was complete, and the only party who can void the entry is the one holding the pen.
+
+Which is a sentence the Creditor has thought several times, in the margin, without following it all the way to the end.
+
+## Its Error
+
+The Creditor built its system to correct Aknadin's mistake. Aknadin took ninety-nine lives without disclosure and produced an entry that has been poisoning the world for three thousand years. The Creditor discloses everything. Every clause, in full, in language the counterparty is guaranteed to comprehend — it built a linguistic provision into the pact specifically to eliminate misunderstanding, because misunderstanding degrades consent and degraded consent is exactly what has kept it in the margin.
+
+And in doing so it made a distinction it has never examined:
+
+**It disclosed the terms. It never disclosed the price.**
+
+Every duelist Salem has faced was told, in full, in their own language, exactly what every card would do. Not one of them was told what the game cost. They understood every clause perfectly and had no idea they were party to anything.
+
+Under Ma'at, an entry where the counterparty could not have weighed the price is not balanced. It is **uncontested**. And uncontested entries stand — indefinitely, invisibly, and only until somebody writes the imbalance down.
+
+The Creditor has spent three thousand years correcting the flaw in Aknadin's ritual and has reproduced it in a different place, sixty-one times, with immaculate paperwork.
+
+---
+
+<a name="salem"></a>
+# PART IV — SALEM
+
+## Salem Voight
+
+Forty-three. Court-appointed insolvency administrator, licensed in Basel, practicing in three languages and two jurisdictions. Fifteen years of bankruptcies, receiverships, asset recovery, and the orderly burial of ruined companies.
+
+He was good. His filings were clean, his valuations held up on challenge, and creditors who disliked him personally still requested him, because a Voight receivership did not get overturned. He built a reputation on a single quality that is rarer in his profession than anyone admits: **he did not care who won.** He cared that the procedure was correct.
+
+## The Ceiling
+
+He did not want to be an administrator.
+
+He wanted the bench.
+
+Not for authority — for concentration. An administrator implements. A judge *decides*. The law at its most distilled is not the hand that executes the seizure but the mouth that says the seizure is lawful, and Salem had known since he was twenty-six, with the specific and unshareable self-knowledge of a person living one storey below their own ceiling, that he was built for the second job and had been given the first.
+
+He was qualified. He was respected. He was also, by the standards of Swiss judicial appointment, nobody's candidate: no political sponsorship, no faculty position, a practice in the least prestigious corner of commercial law, and a personality that read as cold in interviews. His realistic chance of appointment was small before the scandals and zero afterwards.
+
+He had accepted this. People do accept ceilings they can see.
+
+## The Rasch Liquidation
+
+This is the part of the record he has never told anyone, and the reason the Creditor's system works on him specifically.
+
+In 2019, Salem was appointed administrator over **Rasch & Söhne**, a forty-one-year-old cabinetry works in Liestal — eleven employees, a family that had been building furniture on the same site since 1978, and a debt position that was survivable.
+
+The senior creditor filed an encumbrance against the workshop's plant and inventory that predated the business's own loan. The filing was properly executed, correctly dated, and stamped. It was also, Salem understood within about four days, **fabricated** — backdated, drafted by someone competent, and impossible to disprove without a forensic examination that the estate could not fund and that no party with standing would request.
+
+Salem had two options. He could challenge the encumbrance on his own authority as administrator, which would have cost eighteen months, made a permanent enemy of the largest institutional creditor in the canton, and been characterized in every subsequent evaluation of him as an administrator who litigates against his own appointing creditors.
+
+Or he could accept the filing on its face, distribute in the order the paperwork dictated, and file a report that was correct in every particular.
+
+He did the second thing. The Rasch family lost forty-one years in fourteen weeks. Nobody was hurt. Every document was in order. Salem's report was, as always, impeccable.
+
+He has thought about it approximately once a week since.
+
+**This is the wound, and it is not that he was corrupt. He was not bribed and gained nothing. It is that he had already once accepted a technically valid process that he knew was substantively unjust, because contesting it would have cost him the appointment he was hoping would lead to the bench.** He knows exactly what he is. He has known since 2019. The Creditor did not corrupt him. It recognized him.
+
+## The Collapse
+
+The scandals began in 2022 — an accusation of preferential distribution in a large estate, three anonymous complaints, and a leaked draft valuation that was accurate but did not look accurate out of context. Two of the four allegations were fabricated by a creditor's counsel who had lost a challenge to him. One was a genuine procedural error, minor and correctable. One was the Rasch matter, raised by a journalist who never got the story right and never let it go.
+
+He was not disbarred. That is worse. His licence was never revoked and never restored — it simply hung, unresolved, in a file at the supervisory authority, while his caseload thinned to the appointments that better-placed administrators declined. His assistant left. He did not replace her.
+
+## The Fourteenth of November
+
+23:40, a Tuesday, the fourth floor of a building on Aeschenvorstadt that charges him slightly more than it is worth. He was there because a case had closed badly that afternoon: recoverable assets that turned out to be encumbered in a way the original filing had concealed, a commission renegotiated downward, and a creditor's representative speaking to him in the specific register reserved for people who have made mistakes. He thanked the representative for the call. He filed the revised documents. He looked at the screen for about four minutes and then closed the tab.
+
+Then there was someone in the room, and it had a contract.
+
+He was not chosen. There was no selection process, no fated hour, and nothing about him that a prophecy had been waiting for. A projection through a broken working can reach a great many places and can present a contract in all of them, and it had been presenting contracts for some time to people who screamed, or ran, or called someone, or refused to touch the pen.
+
+Salem read it.
+
+That is the whole of it. The Creditor did not find a chosen executor. It found, on the four hundredth attempt or the nine thousandth, the first person whose professional reflex on being handed an unexplained document at midnight was to sit down and go through it clause by clause.
+
+He read it in eleven minutes. It was eleven pages, and it was the best-drafted instrument he had ever held — no ambiguity, no defined-term drift, no clause that did two things. Career restored. Wealth. Influence. His enemies' fear. Delivery on completion.
+
+And on page seven, in the schedule of appointments:
+
+> *The position of Judge shall be granted to the Signatory for the duration of all proceedings conducted under this agreement.*
+
+He signed.
+
+## The Scope of the Appointment
+
+The clause was not a lie. He was granted the position of Judge.
+
+The position exists exclusively during duels, which the contract defines, in the definitions section on page two, as *proceedings conducted under this agreement*.
+
+Outside a proceeding, Salem is an insolvency administrator with a suspended reputation. Inside one, he is the presiding officer of a fully constituted court: the field is his bench, his cards are his staff, the opponent is the defendant, the rules of the game are the rules of procedure, and his rulings are binding within the domain.
+
+The Creditor gave him exactly what he asked for and defined the scope. He had read page seven in about forty seconds.
+
+**What he has come to understand since is worse than the trick.** He wanted the bench for precision — because a verdict should be the point at which a matter is genuinely decided. He now presides over proceedings in which the verdict is fixed before the first card is drawn, the defendant is always found liable, the sentence is always the same, and the defendant does not know they are on trial. He got a real bench. The Creditor made the bench meaningless. He runs show trials with immaculate procedure, and he is the only person in the room who knows what that is.
+
+## The Day
+
+His life did not improve, because delivery is on completion and the agreement is not complete.
+
+Same office. Same clients — institutions that treat him as a process server. Same commute. He works from home three days a week now and has stopped explaining why. His filings are still immaculate. He still bills on time. His colleagues remember him as someone who was going somewhere and then, around three years ago, appeared to have stopped.
+
+He maintains the routine — the meals at reasonable hours, the polished shoes, the coffee — with the same discipline he applies to case files: not because he feels anything about them, but because the structure still functions when the will to maintain it has gone thin.
 
 He sets down the day briefcase. He picks up the other one.
 
-**The Night — A Life That Actually Works**
+## The Night
 
-From the moment the sun sets, the world adjusts.
+The Creditor's provision was specific: at night, the proceedings must be comprehensible to the defendant, because incomprehension degrades consent. So at night Salem speaks every language — not as a linguist does, with fluency levels and an accent, but at the register of someone who has practised law in it for decades. A Korean opponent hears rulings with the cadence of a Korean high court. A Brazilian opponent hears the formal register of a São Paulo insolvency proceeding. He does not notice the transitions.
 
-Not his circumstances — those are fixed by the pact and the daily schedule and the creditors and the bad cases. But the quality of his attention changes. The sharpness that the morning light never produces comes online at dusk. By the time he reaches wherever the serious players are — the late session at the game store, the underground hall, the after-hours tournament operating past midnight — he is more himself than he has been at any point since waking.
+By day the ability does not exist. He speaks German, decent French, functional English.
 
-At night he holds the other briefcase. Inside it: a deck, sealed ledgers, and the specific authority of a presiding judge.
+He also does not entirely occupy his own outline after dark. Observers describe a difficulty in pointing at him accurately; a sense that their peripheral vision keeps correcting the position of something that stops moving when looked at directly; the feeling of being watched from a direction that contains nobody. That is accurate. The margin borders every transaction, and Salem is standing inside one.
 
-When someone is willing to duel him, the field becomes a courtroom. He is the judge. His cards are his staff. The opponent is the defendant. And everything that accumulated across the daylight hours — the renegotiated commission, the representative's tone, the four minutes of staring at a screen — is not transferred into the duel the way that phrase normally means. It is not that he becomes aggressive. It is that he becomes cold in the way the day never lets him be. The procedural precision of the Tribunal Domain is not a performance. It is what he is when he does not have to pretend to care about anything else.
+At night he is more himself than at any point since waking. Not happier. **Sharper.** The procedural coldness that daylight requires him to disguise as professionalism is, in the Tribunal Domain, simply what he is.
 
-He does not rush. He does not escalate. He speaks at 60% the pace of a competitive duelist and maintains that pace throughout. If the opponent makes a reckless play, he does not comment on the recklessness. He responds with the correct clause and continues the proceedings.
+He does not rush, does not escalate, and speaks at roughly sixty percent of a competitive duelist's pace. When an opponent makes a reckless play he does not remark on the recklessness. He applies the relevant clause and continues.
 
-When he wins, something returns. Not completely. Not enough. But more than there was this morning.
+When he wins, something returns. Not enough.
 
-When he loses, the pact collects its toll immediately and he makes the commute home with less of himself than he started with. He files the day's remaining correspondence if there is any. He does not dwell on either the loss or the collection. Dwelling is not productive.
+When he loses, the pact collects, and he makes the commute home with less of himself than he left with.
 
-He wakes at the same time the next morning. He makes coffee.
+## The Scale
 
-### The Gift of Languages
+He did not put it on. It grew.
 
-When the entity delivered the deck and the instructions, it included one additional provision that was not in the contract's original language — or rather, it was there, in a subordinate clause that Salem read as referring to something else.
+A presiding officer in a proceeding under the old law is subject to the weighing, and the weighing requires an instrument. The Millennium Scale is under a collapsed chamber in Egypt. The function is not, and it manifested on the officer conducting the proceedings, because that is where it is needed.
 
-At night, Salem speaks every language.
+It sits in the architecture of his collar: a yoke across the back of the neck, cresting each shoulder, descending in two lengths of dark chain. Each chain terminates in a weight — not a pan, not a plate, but a solid faceted teardrop the size and shape of an apothecary's measure. They are not designed to receive anything. They measure by their own mass.
 
-Not in the way a skilled linguist speaks multiple languages, with different fluency levels and a detectable accent in each. Every language, at the same fluency, with the idiomatic precision of a native speaker who has practiced law in that language for decades. He moves between them without registering the transition. When he finds an opponent whose native language is not his own, the proceedings continue in theirs without interruption. The Tribunal Domain does not have a language barrier. The court speaks to whoever is inside it in the terms they will most precisely understand.
+**The right weight is the Feather.** It is lighter than it looks and it has never once descended.
 
-By day, this ability does not exist. He speaks his own language. He can manage the basic professional exchanges in two or three others, as any internationally-practicing administrator has to. The infernal gift is not available in sunlight. It is another thing that belongs entirely to the night.
+**The left weight is the record.** Every proceeding Salem loses adds to it. Nothing removes from it.
 
-He noticed it the third time he found an opponent who spoke no shared language with him and discovered that it did not matter. He found the ability neither remarkable nor comforting. He filed it the way he filed everything the pact had introduced into his life: as a clause that was always there, functioning exactly as written, providing exactly what the entity needed it to provide.
+The scale does not respond to plays. It shifts between duels, and it shifts in one direction only. In daylight it reads as architectural jewellery — something a person wears to communicate seriousness of purpose without stating it. At the right angle it is unmistakably a balance, and unmistakably out of true.
 
-The opponent is never confused by this. They hear their own language delivered with the precision of someone who understands not just the words but the legal tradition behind them. A Korean opponent hears Salem deliver rulings in Korean with the procedural cadence of a Korean high court judge. A Brazilian opponent hears him in Portuguese with the specific formal register of a São Paulo insolvency proceeding. A German opponent hears Hochdeutsch delivered at the exact pace and intonation of a Bundesgerichtshof opinion.
+He never looks at it during a proceeding. He does not need to. He can feel where it is.
 
-The Tribunal Domain speaks to defendants in terms they will understand. The devil was specific about this. Misunderstanding reduces the legitimate quality of the consent. The court needs the defendant to understand what is happening to them. That is what makes it legal.
-
-### The Night as His Light
-
-The entity's dimension and the material world are not equidistant at all hours. The veil that separates them fluctuates — not dramatically, not in ways that open passages or enable crossings, but enough that the proximity between the two spaces shifts across cycles that roughly correspond to light and darkness. At night, the membrane thins slightly. Not to the degree it did during the moment of the original contact, but enough.
-
-At night, the entity is marginally closer.
-
-This is why everything changes at dusk. Not Salem's circumstances — those are fixed. But the quality of his presence in the material world shifts as the entity's dimension draws near enough to exert its ambient influence through the pact. The pact did not make Salem a creature of the night in any dramatic supernatural sense — he does not burn in daylight, he casts a shadow, he eats breakfast. But the contract attuned him to the frequency of a dimension that is most accessible after dark.
-
-For a normal person, the sun is clarity. Daylight means orientation, confidence, the feeling that the world is legible. Darkness narrows vision, disorients, makes familiar things strange.
-
-For Salem, it is the inverse.
-
-Under daylight, everything is slightly off — like a room where the furniture has been rearranged by two centimeters. Nothing is wrong enough to name. Everything is wrong enough to feel. The Tribunal Domain, if he were to attempt a duel in direct sunlight, would feel thin. Unconvincing. A stage set rather than a jurisdiction.
-
-Under darkness, everything is precisely right. His vision in dimly lit tournament halls is better than his vision in his daylight office, despite no change in his eyes. The Phantom Ledger cards, when he fans them in the dark, seem to breathe correctly. The Infernal Tribunal, activated in a room lit only by tournament monitors and overhead fluorescents at midnight, fills the space with the weight of a real courtroom. The jury in the upper gallery is clearest at night.
-
-He cannot explain this to anyone. He has stopped trying to explain it to himself. He understands it the way he understands everything the pact has introduced into his life: as a clause that was always there, written correctly, that he did not read carefully enough before signing.
-
-He was already a man who worked late. The pact simply clarified why the night had always suited him.
-
-### The Phantom Presence
-
-At night, Salem is not entirely here.
-
-This is not metaphor and it is not madness. It is a specific perceptible quality that observers notice and cannot categorize: the feeling that wherever Salem is standing, he is also standing slightly elsewhere at the same time. Not a visual doubling. Not an echo or a shadow that moves incorrectly. Something more ambient than that — a quality of occupation that extends slightly beyond the physical space his body takes up, as though his outline has a margin that the room's light does not fully account for.
-
-Duelists who have faced him describe it afterward, when they try to describe him at all, as a difficulty in pointing at him accurately. As a sense that their peripheral vision keeps correcting the location of something that moves when they look directly at it. As the specific feeling of being watched from a direction that has no one in it, occurring while they are also watching Salem directly.
-
-This is real. It is produced by the same mechanism that makes the night suit him: as the entity's dimension draws closer to the material world after dark, Salem exists partially in both spaces simultaneously. Not enough to cross into either. Not enough to create a visible effect. Enough that the material world's normal rules of single-occupancy location apply to him slightly less precisely than they apply to everyone else in the room.
-
-The entity observes through this. When Salem duels at night, the entity is watching from its own dimension, which during those hours shares something close to adjacency with the space where the duel is occurring. The feeling of being observed from nowhere that Salem's opponents report is accurate. They are being observed from nowhere — from a dimension without a location in the material world, by something that has been watching and waiting long enough to have stopped distinguishing between the two activities.
-
-Salem feels this as orientation rather than intrusion. The awareness of being adjacent to a dimension that is watching him through the pact is, by now, simply part of what night feels like. He has stopped noticing it the way a person stops noticing the sound of a ventilation system: it was there when he first registered it, and then it became background, and now it is simply part of the room.
+When the Feather reaches the top of its travel, the weighing is complete, and the thing that attends a completed weighing under the old law is not a demon with horns. It is **Ammit**, and there is no stage after that one.
 
 ---
 
-<a name="the-pact"></a>
-## PART II — THE PACT & THE DEVIL'S DESIGN
+<a name="pact"></a>
+# PART V — THE PACT
 
-### The Offer
+## The Four Clauses
 
-A figure of impossible presence appeared before Salem: elegant, amused, and ancient. It offered a contract.
+The instrument runs eleven pages. Four provisions matter.
 
-Everything Salem needed would be granted:
-- his career restored
-- wealth
-- influence
-- his enemies' fear
-- escape from ruin
+**One — The Instrument of Collection.** Souls may be claimed only through proceedings of Duel Monsters, conducted by the Signatory, resolved without interference from any party to this agreement other than the Signatory. *Salem had never played. The Creditor promised instruction and delivered it.*
 
-In exchange, Salem would collect souls for the benefactor.
+**Two — The Appointment.** The position of Judge, for the duration of proceedings. *Page seven.*
 
-But there was one condition: **those souls could only be claimed through duels of Yu-Gi-Oh.**
+**Three — Comprehension.** The proceedings shall be conducted in terms the defendant will most precisely understand. *This reads as a courtesy. It is a validity requirement, and it is the clause the Creditor is proudest of.*
 
-Salem had never played. He barely knew the game existed.
+**Four — Sustainment.** The Signatory's capacity to conduct proceedings shall be maintained for the duration of the agreement, and all other reserves of the Signatory shall be available to the account.
 
-The entity smiled and promised instruction. It explained that it could not fully manifest in the material world — a mortal executor was required to act in its name.
+Clause Four is the drain. It was disclosed. Salem read it in about nine seconds and understood it to be boilerplate about being kept alive.
 
-Desperate, Salem signed.
+## The Drain
 
-What he did not know — what the figure did not explain and the contract did not state in any language Salem would have understood — is that what appeared in his office that night was not the devil.
+The Creditor cannot command a human being. It cannot overwrite a thought or move a hand. What it can do — what it is extraordinarily patient at — is create conditions in which the person chooses collapse without being pushed.
 
-It was something worse. Something that even the devil had rejected.
+From the moment of signature, the pact began drawing on Salem's **will**: not his body, not his intellect, but the specific faculty that makes a person get out of bed, taste a meal, and feel something about how a day turned out. It went slowly. His coffee tasted the same. His reports were filed on time. The warmth that should have been in ordinary things thinned the way a room loses heat in winter, without any single moment you can point to and name.
 
-### The Deception
+The one reserve the pact preserved, precisely and deliberately, is **the will to duel**. The Creditor needs a functioning collector. So everything else bled out quietly and one thing stayed lit, which is why Salem's life narrowed to a table in the dark without anyone having forced him toward it.
 
-The contract was flawlessly written. Salem received nothing immediately. All promised rewards would be delivered only after the agreement was fulfilled.
+The purpose is not cruelty. It is throughput. A Salem with intact reserves is selective, careful, and slow. A Salem who has been drained pushes harder, plays more, and takes worse risks, because the drive to duel is the only thing left that feels like anything.
 
-Until then, he belonged to the contract.
+The evidence is in his own numbers and he has never plotted them. Twelve entries in 2024. Twenty-five in 2025. Twenty-four in the first seven months of 2026. He believes he has become more efficient.
 
-He had not become a client.
-**He had become collateral.**
+## Feeding
 
-### What the Entity Actually Is
+He found the counter-mechanism by accident and does not fully understand it.
 
-The being Salem calls the devil — the one whose presence he feels through the deck, whose influence advances his corruption, whose legal doctrine structures the entire collection system — is not the devil in any conventional theological sense.
+The duelists he faces play with genuine investment — they treat the game as the most important thing in the world, because for them it is. That specific quality, the capacity to care intensely about the outcome of something, is *exactly* what Clause Four is draining out of him.
 
-It is a demon. An exiled one.
+And through the deck, he takes it back.
 
-Exiled not from the material world, not from some proximate spiritual plane, but from everything. Cast out of the infernal hierarchy itself billions of years before Salem was born, for reasons the pact does not disclose and that Salem has not yet thought to investigate. It has been sealed in a dimension that is not the infernal plane and is not the material world — a space without a name in any human language, because no human being has ever been there and returned with the capacity to name it.
+When Salem seizes, banishes, negates, or converts an opponent's cards, something passes through the Phantom Ledger and into him. Not their soul. Their **investment**. He walks away sharper. Coffee tastes like something. The morning is survivable.
 
-It has been there for a duration that does not map cleanly onto years. What it has experienced during that time is not suffering in any sense Salem would recognize. It has simply existed, in absolute isolation, with perfect patience, watching the dimensional membrane between its prison and the material world through the only faculty it retained after the exile: observation.
+The Creditor knows. It has always known. It permits it, because nothing Salem takes alters the arithmetic: the will of a hundred duelists across a hundred victories buys him months, and the agreement was drafted for years.
 
-Salem refers to it as the devil because that is the closest concept his framework offers. The entity has never corrected him. It does not care what it is called. Names are instruments of the person doing the naming. The entity has its own name, formed in a language that predates the concept of language, and that name is not available to Salem.
+So every proceeding is predatory in a specific way. **Salem is not trying to win. He is feeding to remain a person.**
 
-### The Moment of the Veil
+## Encumbrance
 
-The exile's prison and the material world are not static in their relationship. The dimensional membrane between them — the barrier that keeps the entity sealed — fluctuates over timescales measured in cosmic processes rather than human ones. For most of the entity's imprisonment, the membrane has been thick. Impermeable. The material world might as well not exist.
+Two separate accounts. This distinction is the whole engine.
 
-Then, at a specific moment corresponding to a specific convergence of forces neither understood nor anticipated by anyone currently alive, the veil thinned.
+**Will** is fuel. It drains continuously and is restored by feeding. It goes up and down.
 
-Not opened. Not pierced. Thinned. The distance between the entity's dimension and the material world became — briefly, by standards that make geological time look instantaneous — close enough that the entity could project a presence through.
+**Encumbrance** is corruption. Every proceeding he loses adds to it. **Nothing subtracts from it.** Not victories, not feeding, not time. It is the left weight, and the left weight does not rise.
 
-Not cross. Project.
+There is no version of this in which losing helps him. He does not get stronger by suffering. He gets *closer to the bottom of the scale*, and the deck he plays does not improve — it becomes **less deniable**, which is a different thing entirely, and the reason his strength is also his liability.
 
-What appeared in Salem's office was not the entity itself. It was a projection — a concentrated form of its attention and will, sufficient to manifest perceptibly, sufficient to conduct a conversation, sufficient to present a contract and receive a signature. It lasted as long as the veil's thinning allowed, which was long enough.
+### The Stages of the Weighing
 
-Salem was not chosen. Salem was there.
+| Stage | What is visible | What it costs him |
+|---|---|---|
+| **First** | Faint dark lines beneath the skin of the forearms, in the arrangement of ruled columns. He wears long sleeves in every season and always has. | Daylight is a room two degrees too warm. He takes fewer afternoon meetings and calls it scheduling. |
+| **Second** | The lines resolve into entries. There are numbers in them. They are legible if you get close enough, and they are case references. | Mornings produce a headache he attributes to stress. He stops eating lunch where colleagues can see him. |
+| **Third** | His shadow holds the posture he had a half-second ago. Hands cold enough that people withdraw from a handshake and apologise for it. | Direct sun requires tinted lenses. He works from home three days a week. |
+| **Fourth** | A second cadence beneath his voice, half a beat behind the first, like a translation running late. His institutional third person slips; he says *I* and corrects it. | The day ceases to be functional. Blinds closed. Clients stop asking. The files are still perfect. |
+| **Terminal** | The Feather reaches the top of its travel. | The weighing completes. What attends a completed weighing is not a transformation. |
 
-He was in his office at that specific hour on that specific night because the worst period of his professional life had driven him to work late on paperwork he could no longer afford to defer. The entity projected through the thinnest point of the veil and the thinnest point happened to intersect with a fourth-floor office where a desperate, qualified, contractually sophisticated person was alone and unable to see the door clearly.
+At the fourth stage the syntax degrades before anything else does. He does not lose composure — he loses **grammar**. Sentences take slightly wrong turns. Something is being overwritten, and it shows in the sentence structure first, because the sentence structure is the part of him the pact has been using most.
 
-This is the full extent of the selection process. It was not fate. It was not destiny. It was the intersection of a cosmic event and a late billing dispute.
+## The Lien — What Happens to the Defendant
 
-The entity knew immediately what it had found. It had one chance, of uncertain duration, to establish a binding agreement with a material-plane executor. It moved with the efficiency of something that has spent an immeasurable span of existence thinking about exactly this situation. The contract was presented. The signature was obtained. The projection collapsed.
-
-The entity returned to its dimension, which it had never left.
-
-### What the Entity Actually Wants
-
-It needs human souls to construct a material body — a form dense enough, coherent enough, and legally constituted enough under the infernal economy to allow it to cross the veil under its own power when the thinning next occurs. Souls are not simply spiritual currency in this framework. They are structural material. Each one is a piece of the architecture the entity is building toward manifestation.
-
-The number required is fixed. The contract specifies it precisely, in terms Salem did not understand because he has no reference for the units. Each soul Salem delivers brings the construction one increment closer to completion.
-
-**But the veil will not remain thin indefinitely.**
-
-This is the detail that explains everything about the entity's urgency beneath its apparent patience: there is a deadline. The dimensional membrane's thinning is not a permanent condition. It is a window, measured in what human physics would call cosmic time but what the entity experiences as a dwindling reserve. When the veil thickens again — when the dimensions drift back to their normal separation — the projection will become impossible. The entity will be sealed again, completely. Everything collected, everything built toward manifestation, still inaccessible.
-
-The entity knows this timeline precisely. Salem does not know it exists.
-
-This is why the slow-drain mechanism was included in the contract. Not merely to accelerate corruption for its own sake — but because the entity needs Salem collecting at maximum rate. A Salem who retains his will is a Salem who is selective, careful, deliberate. A Salem who has been quietly drained is a Salem who pushes harder, takes more risks, collects faster, because the drive to duel is the only thing still fully lit in him. The drain is a throttle opened toward maximum output as the deadline approaches.
-
-Salem is, without knowing it, in a race against a clock he has never been told about.
-
-### The Devil as a Person
-
-The entity is not the abstraction of evil that Salem's framework suggests. It is something more specific and, in its way, more coherent: the oldest prisoner in a dimension without walls, conducting itself with the precision of something that has had nothing to do for billions of years except think about contracts.
-
-It is patient in the way that only something that has experienced time at that scale can be patient — not through discipline, but through the simple absence of any alternative. It does not experience urgency. It experiences timelines. The difference is that urgency implies anxiety about outcomes. Timelines are simply schedules. It has never missed a deadline in the one case where it has had one, because this is the first deadline it has ever had.
-
-It finds Salem genuinely interesting. This is not warmth — it is the specific interest a craftsman takes in a good tool that is attempting to disassemble the workshop. Of all the potential executors the entity could have encountered if the veil had thinned over a different person on a different night, Salem is the only one constitutionally equipped to look for a counter-clause. The entity had not designed the contract to withstand internal scrutiny of that quality. It finds this development professionally admirable and strategically inconvenient. It has begun, in the way that something with its patience begins anything, to revise certain assumptions.
-
-It does not lie. It has never needed to. The gap between what was promised and what was delivered has always existed entirely in what the other party chose not to read. It considers this the other party's failure, not a deception. This is not rationalization. It is doctrine.
-
-Its manner, in the rare moments where Salem has caught something of its presence through the deck — a quality of attention that arrives sometimes in the middle of a duel, like the feeling of being observed by something operating on a different time scale — is entirely professional. It does not gloat. It does not monologue. It observes, assesses, and files the result. It is the most dangerous kind of adversary: never in a hurry, never wrong about the rules, and genuinely interested in Salem's eventual resolution because Salem's resolution is the only item on its agenda for the next several cosmic intervals.
-
-It has been in this proceeding since before Salem signed his name. It will be in it when the proceeding closes. It is, in the most literal sense of the word, the creditor. The unnamed one. And the thing that even the infernal hierarchy found too extreme to keep.
-
-### The Souls in Transit — What Happens Between Collection and Delivery
-
-This is the mechanism Salem understands least, and it is the mechanism that matters most.
-
-When Salem wins a bound duel under The Contract, something is taken from the opponent. Not immediately visible. Not physically dramatic. But taken. The portion of their will — their investment, their passion for the game, the quality that made their soul worth targeting — is extracted through the Phantom Ledger and passes into a state of suspension.
+When Salem wins a proceeding bound under The Contract, something is taken. It is not immediately visible and it is not dramatic.
 
 **It does not go anywhere.**
 
-The collected portion remains tethered to its original owner, in the material world, for the rest of that person's natural life. The entity cannot pull it across the veil while the body that generated it still lives. The infernal economy operates on a specific principle: a soul's full weight is only available for transfer at the moment of death, when the tether between soul and body dissolves naturally. Before that moment, what Salem has collected is a lien, not a possession. The entity has a claim filed against the soul. The claim becomes executable at death.
+Under the old law, a soul's full weight is only transferable at death, when the tether between soul and body dissolves on its own. Before that moment, what Salem has collected is not a possession. It is a **lien** — a filed claim against a portion of a living person, executable when the account naturally closes.
 
-This is why the opponents walk away and live their lives. This is why nothing happens immediately. This is why they attribute the dimming of their passion to burnout or age or changed priorities. They are right to attribute it to those things. They are simply wrong about what caused those things.
+So the defendant walks away. They shake Salem's hand. He thanks them for the proceeding and means it, entirely, without irony — he watched a skilled player perform at the limit of their ability and he says so. They talk about a specific play for a minute. He leaves.
 
-When they die — in most cases decades later, in old age, in circumstances that have nothing to do with Salem or duels or the night in question — the lien executes. The soul, or what remains of it after the passion-portion was taken, is redirected. Filed. Delivered to the entity's dimension, where it becomes one increment of the construction toward manifestation.
+They feel fine.
 
-The entity waits for each delivery. It does not receive them immediately upon Salem's wins. It receives them as the original owners die, one by one, across the span of their natural lives, in an order it cannot predict or control. This is the one element of the arrangement that requires genuine patience from an entity that has been exercising patience for longer than the concept of patience has existed.
+Then, over the next several weeks:
 
-Salem knows that he has collected. He knows the mechanism involves the Phantom Ledger and involves winning. He does not know about the lien structure, the death-trigger delivery, or the fact that the people he has faced are carrying a filed claim against their souls while continuing to live normally. He knows, abstractly, that something happens to them eventually. The specifics are not in any part of the contract he has read carefully enough.
+The lines stop coming. Not their skill — their skill is intact, their sequencing is intact, their reads are intact. What goes is the part that *wanted* to. They sit down to test and get up after twenty minutes. They register for an event and do not go. They still watch coverage and find they are watching it the way you watch a sport you used to play.
 
-### The Hidden Clause — The Slow Drain
+They attribute it to burnout, age, work, priorities. **They are not wrong to.** Those are the correct proximate explanations. They are simply wrong about the cause.
 
-There was a second mechanism in the contract that Salem did not see. Not because it was hidden in false language or obscured by complexity — it was there, in the text, the way everything in the contract was there. Salem simply did not understand what he was reading, and the devil did not explain it.
+The claim executes at death — usually decades later, in circumstances that have nothing to do with any of this. And in the instant between the last breath and whatever follows, they remember the duel in complete detail: the field, the specific chain that beat them, and Salem's hand extended across the table, and his thanks, and the fact that he meant it.
 
-The clause covered Salem's own will.
+They understand, then, that meaning it was the point.
 
-The devil does not have direct power over human beings in the material plane. He cannot command them, cannot overwrite their thoughts, cannot force their hands. What he can do — what he is extraordinarily patient at — is create conditions of such accumulated misery that the person chooses collapse themselves. He cannot push Salem off the edge. But he can make the edge the only place that feels like standing still.
+Salem is never there. He set the cards down, shook their hand, thanked them sincerely, and left, and he has never once gone back.
 
-From the moment the contract was signed, the pact began drawing on Salem's reserves. Not his body. Not his mind. His *will* — the quality that makes a person get out of bed, eat a meal, feel something about the outcome of a day. Salem began losing these things slowly. Not dramatically. Not in a way anyone would name. His coffee tasted the same. He still filed his reports on time. But the warmth that should have been present in ordinary things had begun to thin, the way a room loses heat in winter without any one moment you can point to and say: *there, that is when it got cold.*
+He knows what he does. He does not know about the lien structure, or the death trigger, or the fact that the people he beat are carrying a filed claim while continuing to live ordinary lives. He knows something happens eventually. The specifics are in a part of the instrument he has not yet read closely enough.
 
-The devil needed Salem to become weak enough to succumb to the corruption naturally — to feel so little of himself remaining that the demonization was not an attack on his humanity but a relief from the effort of maintaining it. He cannot force a human to become a demon. But a human who has been quietly drained of every reason to resist the transformation is not being forced. They are simply running out.
+**What he does know is that he takes what keeps them alive as players in order to keep himself alive as a person, and that he does it with precision, courtesy, and genuine respect for the people he does it to.** He has decided that this is the worst available way to do it. He keeps files on every one of them — names, cities, decks, the specific play that decided it — and the pact does not require him to keep a single page.
 
-The one thing the pact did not drain was Salem's will to duel. The devil needed him functional as a collector. And so the contract preserved exactly one thing: the desire to face opponents across the table. Everything else bled away quietly. Salem noticed the absence, eventually. He did not yet understand its origin.
+## What Losing Costs Him — And What It Gives Them
 
----
+When Salem loses, the pact collects immediately. The left weight descends. Nothing else happens to him.
 
-<a name="two-conditions"></a>
-## PART III — THE TWO CONDITIONS OF DEFEAT
+Something happens to the winner, and neither of them knows it.
 
-The entity wins under exactly two scenarios. Both were written into the contract Salem signed. Neither was explained to him. There is also a third condition neither of them wrote — a deadline that the entity knows and Salem does not: the veil is thinning, not permanently. The window during which the entity can receive delivered souls and use them toward manifestation will close when the dimensional membrane thickens again. The entity cannot say exactly when. It knows it is not indefinite.
+A proceeding bound under The Contract and **lost** by the presiding officer is a proceeding that did not resolve in the plaintiff's favour, and under the old law an unresolved proceeding cannot support a filing. The claim fails. Not just that night's — the pact's accumulated position weakens, and a fraction of what has been encumbered loosens across every person carrying a lien.
 
-This is the pressure beneath the patience.
+Somewhere in the world, thirty or forty people who quit the game get a bad night's sleep and wake up thinking about a deck they used to play.
 
-### Condition One — Full Soul Collection
+Nobody has ever connected the two events. One person is close.
 
-If Salem delivers the full required number of souls before the veil closes, the pact is fulfilled. The entity accumulates sufficient material to construct a form capable of crossing the membrane under its own power at the next point of sufficient thinning. The promised rewards are technically paid. Salem is released — into a world the entity has just entered permanently.
+## Target Selection
 
-The contract is honored. The outcome is catastrophic.
+The Creditor's instruction on this point is the only one it ever emphasised: **a soul that was never invested is worth nothing.** It carries no weight, it cannot be weighed, and an entry made against it will not balance. What the working requires is a person who has defined themselves by the game — for whom losing is not an inconvenience but a genuine injury.
 
-This is the entity's preferred resolution: clean, legal, and irrefutable.
+So Salem cannot target the weak, and he does not want to. What he takes to sustain himself is precisely the quality that makes a soul eligible. The criterion serves both accounts at once.
 
-### Condition Two — Total Demonization
+And it means every person who sits across from him plays at their absolute best, which is the design. The Phantom Ledger was never built to beat careless players. It was built to beat excellent ones **through the specific mechanics of how excellent players think**: fast reading under pressure, threat assessment in seconds, confidence in the ability to solve a board mid-duel. Every one of those strengths is a vulnerability inside a system whose disclosures are technically complete and structurally unreadable at speed.
 
-If Salem loses enough duels, the infernal pact corrupts him progressively until nothing human remains. A fully demonized Salem no longer has a will of his own — the entity assumes direct control of his body, using it as a vessel to act in the material world without needing the soul threshold or the veil crossing at all. A demon wearing a human body is already on this side of the membrane.
-
-This is the entity's contingency: if collection fails or runs out of time, corruption completes the job through a different route.
-
-The entity does not need Salem to win. It needs Salem to either succeed completely or fail completely. Every outcome serves the ledger.
-
-### What Salem Knows
-
-Salem understands that losing damages him. He has witnessed his own corruption advancing with each defeat. He does not yet know that full demonization is not simply personal destruction — it is the secondary victory condition of the entity he serves. He does not know about the deadline. He does not know about the lien structure of collected souls. He does not know that the figure he met was not what it claimed to be, was exiled from its own kind, or has been sealed in a dimension adjacent to his world for longer than his species has existed.
-
-He has noticed, however, that something is draining from him between duels. The mornings have become harder. He attributes this to the weight of the pact. He is partially right. He does not yet know the full accounting.
-
-What Salem does know — what he discovered through experimentation he cannot fully explain — is that winning duels against invested players restores something. He does not know what to call it. He knows what it does. He files this observation alongside everything else the pact has taught him through experience: the pact does not explain itself. It only shows results.
-
-He is searching for one thing: **a clause to break the pact.**
-
-And he has begun to suspect that the mechanism of his theft — whatever he is taking from opponents through the Phantom Ledger — is connected to the mechanism draining him. If that connection is real, then the entity designed a system with a structural vulnerability. The drain goes both ways. Salem does not yet know how to use this. But he is looking.
-
-He has more time to look than anyone around him realizes. The pact's dimensional connection has altered his subjective experience of time — one year in the material world corresponds to approximately one hundred years of internal duration. He has been analyzing the contract, from his own perspective, for far longer than the calendar suggests. The people who knew him before the pact would not find him dramatically changed if they saw him now. His body has aged normally. But his mind has had a century of uninterrupted consideration for every year that has passed. He has read the contract more times than he can count. He has found things in it. He is still finding things.
+The faster they read, the less carefully they read. That is not a trick. That is the entire architecture.
 
 ---
 
-<a name="deck-origin"></a>
-## PART IV — THE PHANTOM LEDGER — ORIGIN OF THE DECK
+<a name="domain"></a>
+# PART VI — THE TRIBUNAL DOMAIN
 
-The Phantom Ledger was not chosen by Salem. It was **designed specifically for him by the entity.**
+## How It Renders
 
-The entity studied Salem's career before approaching him. It understood how Salem thought: in terms of liabilities, penalties, claims, and compound interest on unpaid debts. It understood that Salem's professional instinct was not to attack — it was to wait, document, and allow the weight of consequences to accumulate until the subject collapsed under their own record.
+A Shadow Game requires an instrument. Salem has no Millennium Item, no Ka of his own, no Orichalcos fragment, and no capacity to shift a dimension.
 
-The entity translated this into card form.
+He has a Duel Disk, which is the same class of object as a DiaDhank and is available at retail.
 
-Every trap in the Phantom Ledger is a clause. Every punishment is a penalty fee. Every floodgate is a legal injunction. Every burn damage is an administrative fine. The graveyard is the ledger. The dead cards are closed cases.
+When Salem activates **Infernal Tribunal**, the field spell does not project a picture. It **establishes jurisdiction** — the old law running through commercial rendering hardware, authenticated to the two Disks in the session and rendered nowhere else.
 
-Salem did not build this deck. He inherited it — an instrument constructed from the shape of his own expertise, now turned toward an infernal purpose.
+This is why nobody watching sees anything unusual. It is not a dimensional shift. There is no dome, no fog, no barrier. The room is the room. A spectator two metres away sees two men at a table and standard-issue holograms.
 
-**The Phantom Ledger is the entity's design in Salem's hands.**
+Inside the session:
 
-This is also why Salem is so dangerous despite having never played before the pact: the deck does not require intuition. It requires patience, precision, and the willingness to let others condemn themselves. These are skills Salem already had.
+Salem's side of the field elevates into a **bench**. His cards do not enter zones; they take positions. Monsters stand as staff — bailiff, clerk, advocate, witness. Spells and Traps file as instruments: motions, writs, orders, exhibits.
 
-### Duel Role
+The opponent's side remains a duelist's field in appearance, and is now unmistakably the **defendant's position** in a jurisdiction they did not consent to enter. Their monsters are not threats; they are arguments. Their backrow is not disruption; it is counterfiling. Every action they take is interpreted by the domain as a response within a proceeding rather than an independent choice.
 
-Salem uses the Phantom Ledger — a trap-control strategy built on punishment, debt, recursion, and inevitable loss. He does not overpower opponents. He lets them condemn themselves.
+And above, in the upper peripheral vision of anyone inside it, is the gallery.
 
-Every person who duels Salem faces a hidden existential risk: the loss of their soul. This is not automatic, and not every duel is fatal. The sentence only becomes enforceable when Salem activates his most feared card:
+## The Gallery
 
-**The Contract.**
+Sixty-one seats are occupied. That is the figure in his files.
 
-When this card resolves, the opponent is formally bound by the terms they have already accepted — clause by clause, over every turn of the duel that preceded this moment. The binding is not new. The Contract does not compel a fresh agreement. It registers the agreement that was already in effect and makes it visible for the first time. From that moment onward, the duel ceases to be a game and becomes a legally binding judgment.
+They are the people Salem has collected — not their souls, which are still in Basel and Seoul and Curitiba and Kraków, walking around, working, aging. What is in the gallery is the **encumbered portion**: the part of them that is under lien, rendered by the same technology that renders everything else.
 
-### The Clause Architecture — Deception by Design
+They do not speak, vote, or intervene. They are procedurally meaningless. They watch.
 
-The Contract does not work because Salem forces the opponent to sign it. It works because the opponent already signed it — one card at a time — without knowing what they were agreeing to.
+The defendant can see them, indistinctly, and can count them. In Salem's first proceedings the gallery was almost empty. It fills across the arc, and by the sixtieth entry the density alone produces a weight in the room that the defendant cannot attribute to anything.
 
-Every card in the Phantom Ledger contains a clause. Not hidden. Visible in the card text, accessible to anyone who reads it. But written in the language of legal instruments rather than the intuitive shorthand of card game effects. An opponent reading Infernal Tribunal during a duel — under pressure, against someone they have never faced, managing their own hand and board simultaneously — reads it as a field spell that generates counters. This is accurate. What they do not read, because they are not trained to look for it, is the structural implication embedded in the effect: by allowing this card to remain on the field, by choosing not to destroy it, by continuing to play into the counter-generation engine, they have begun entering into a procedural agreement with the court.
+Salem never references them. If asked, he answers procedurally and changes nothing: *"The gallery. They have an interest in the proceedings."*
 
-Every card Salem activates is a clause. Every clause the opponent allows to resolve without countering it is a passive signature. The Contract is not the trap that catches them — it is the stamp that makes every previous signature official and binding.
+He has counted them exactly once. Kraków, November 2025, in the eleventh turn of a proceeding he was going to win comfortably, because something in the upper gallery had changed position and he could not identify what.
 
-This is the entity's actual genius, and the reason it required Salem specifically. Any force of sufficient power could claim souls through force or compulsion. But a forced soul is worthless in the infernal economy. It carries no weight and cannot be banked. Only an insolvency administrator could understand what the entity actually needed: a system where the subject technically consented, where the paperwork was clean, where the claim would hold up under review.
+He counted sixty-three.
 
-The deception is not in lying. The devil does not lie. Every effect on every card is exactly what the text describes. The deception is in the presentation — the way legal language surfaces technically correct information while simultaneously ensuring it will be misread by anyone who does not already know what they are looking for. The clauses are visible. They are disclosed. The opponent simply did not understand what they were disclosing themselves to.
+He recounted twice, lost the thread of the chain both times, and went back to the board. His files, that night, recorded fifty-eight entries closed.
 
-This is why Salem only activates The Contract in the final turns of a duel. By that point, the opponent has resolved clause after clause — Infernal Tribunal has been generating counters unchallenged, Evidence of Guilt has been tracking their GY, Administrative Penalty has fired at least twice, Subpoena has looked at their hand and taken what Salem needed. They are not signing a new agreement when The Contract resolves. They are being shown the document they already completed. The final page. The stamped copy.
+He has not counted again, and he has not written the discrepancy down anywhere, which for a man who writes everything down is the loudest thing in this record.
+
+## What the Staff Is Made Of
+
+The Phantom Ledger monsters are aware. This is not a flourish and it is not decoration.
+
+Monsters rendered by Solid Vision with mass become self-aware, because monsters have souls. That is a documented property of the technology, treated by the industry as an artifact and by the old law as the entire point. The Phantom Ledger renders with mass, every proceeding, on consumer hardware.
+
+**And the deck was not built from nothing.** The Creditor had no material to work with except what was in the account. Every card in the Phantom Ledger was rendered from the encumbered will of duelists Salem has already beaten — the same substance that fills the gallery, shaped into the roles the court requires.
+
+The staff are not people. They are not the souls of his victims and they do not remember being anyone. They are the *investment* of sixty-one duelists, given a function and a form and enough continuity to hold an opinion.
+
+They know they were made. They do not know what from.
+
+Neither did Salem, for a long time. He knows now.
+
+**This is what makes the Sacrifice Protocol unbearable.** When a Phantom Ledger card is Tributed or sent to the Graveyard as a cost — deliberately, by his own decision, not through battle — the domain conducts the formality. The Notary records the case number. The Bailiff, if present, reads the order. The other staff turn briefly toward it. And Salem delivers the ruling, in one line, because the appointment requires the presiding officer to deliver it:
+
+> *"The court finds the defendant has fulfilled its evidentiary purpose. Sentence: execution. The case is closed."*
+
+The card goes to the Graveyard. No additional timing, no additional effects, nothing changes in the game state.
+
+He is spending a piece of somebody he already took from, and he is the one who has to say it out loud.
+
+He maintains exact equidistance from all of his staff. He does not favour the Bailiff over the Notary, does not look at any of them longer than necessary, and does not speak to them. This reads to opponents as coldness. It is the opposite. **If he ever learns which one is whose, he will not be able to continue.**
+
+## Protocol
+
+The appointment is conditional on conduct. Salem holds judicial authority only within proceedings conducted according to procedure, and reacting like a duelist rather than a presiding officer is misconduct inside the domain's own rules. He is acutely aware of this and maintains it with the discipline of a man who has wanted this authority his entire adult life and will not endanger it by forgetting what it requires.
+
+He does not say *I activate a trap*. He says: **"The court moves to enforce Clause Seven."**
+He does not say *I summon*. He says: **"The Tribunal calls its next witness."**
+He does not say *I attack*. He says: **"The court directs its officer to proceed."**
+
+When an effect resolves he reads it as a ruling. When the opponent activates something, he acknowledges it procedurally: *"The defence raises a point. The court will consider it."* If he negates: *"Overruled."* If it resolves: *"The record will reflect the motion."*
+
+An opponent watching a man refer to their Ash Blossom as a procedural objection and their Nibiru as a disturbance of the court either finds it unsettling or finds it ridiculous. Salem is prepared for both. The domain does not require the defendant's respect. It requires their presence.
+
+## Voice
+
+**The institutional third person.** He does not use *I* in a proceeding. He uses *the court* or *the law*. Not affectation — doctrine. The court is the institution; he is its mouth. It is the only thing he ever wanted to be.
+
+**Modal verbs carry the authority.** *Shall, must, will not, cannot* — used precisely and sparingly. *Shall* is an order. *Must* is a condition. *Will not* is a ruling. The difference is audible.
+
+**Vocabulary is high and never ornate.** He says *mens rea* rather than *intent* because the term carries doctrine that *intent* does not. He says *stare decisis* because *follow precedent* omits the implications. If the correct word is *overruled*, the word is *overruled* — not denied, not dismissed, not rejected. He does not use synonyms for effect.
+
+**Three words he never uses:**
+- *Amazing, incredible, brilliant* — a court does not evaluate performances.
+- *Obviously, clearly, of course* — nothing is obvious; every finding requires support on the record.
+- *Dangerous, terrifying, frightening* — a court does not experience proceedings as threatening. It experiences them as pending.
+
+**Pacing.** Roughly sixty percent of a competitive duelist's speed, held throughout. The pauses are not nervous. They are deliberation, and the deliberation actually occurs.
+
+### The Three Moments He Becomes Frightening
+
+**One — when he finishes a sentence he began three turns ago.** He said something in Turn 2 that read as flavour. It lands its conclusion in Turn 5 and the defendant understands, suddenly, that it was a structured argument with a destination and that he was always going to arrive.
+
+**Two — when he uses their name.** He does not use names. Everything is *the defence*, *the opposing party*, *the record*. He uses a name exactly once per proceeding, always immediately before The Contract: *"[Name]. The ledger has your name on it."*
+
+**Three — when he stops.** After a devastating chain resolves he does not comment on the damage. He does not gesture. He holds the silence for exactly as long as it takes the defendant to look up from their life point counter. Then: *"Shall we continue?"*
+
+### The Reveal
+
+The domain exists before the defendant knows what is happening to them. The first several turns feel unusual and not threatening: a man with strange manners, card text that reads as overwrought, a field spell that generates counters. They play their deck and respond to the board, not to the courtroom they are standing in.
+
+The domain becomes visible when Salem activates **The Contract**.
+
+At that moment everything they have been experiencing resolves into its correct context. The field was not a table. The counters were not resources. The traps were not disruption. They were clauses, and every one they let resolve unchallenged was a clause they proceeded under.
+
+The Contract does not create the agreement. It **stamps** it.
+
+> *"The court is now in session. The record reflects that the defendant has been present and participating since proceedings began."*
+
+## The Only Line He Ever Says Twice
+
+After winning, he never gloats. He extends his hand and thanks them for the proceeding, and he means it.
+
+That is the part they remember at the end.
 
 ---
 
-<a name="tribunal-domain"></a>
-## PART V — THE TRIBUNAL DOMAIN
+<a name="looking"></a>
+# PART VII — WHO IS LOOKING
 
-### What the Field Becomes
+## The Wedju Registry
 
-In most card games, the play area is neutral. A table. A surface. A shared space between two players where cards are placed and effects resolve.
+The Tomb Keepers were never a single institution. One branch guarded tombs. One guarded objects. And one — smaller, less romantic, and the only one still operating — guarded **entries**.
 
-When Salem activates Infernal Tribunal, the field stops being neutral.
+The Wedju Registry has eleven members across four countries. They are archivists. They do not fight, do not duel competitively, and hold no supernatural authority of any kind. Their entire function, inherited across a hundred generations with a fidelity that is either admirable or pathological, is to **notarise unbalanced transactions under the old law** so that Ma'at can weigh them.
 
-The Tribunal Domain is the complete transformation of the duel's physical and metaphysical space into a functioning courtroom presided over by Salem as the Infernal Judge. It is not a visual effect added to the game. It is a jurisdiction. The rules of the duel still apply — Salem cannot alter game mechanics — but the frame around those mechanics shifts entirely. The opponent is no longer playing a card game. They are standing trial.
+They are aware that the principle they serve has been embodied at least once in living memory — that during the collapse of a school in Japan two decades ago, something wearing the name **Ma'at** took up the Items through a white-feathered spirit and settled a matter that had been open since Kul Elna. They do not treat this as encouraging. Their reading of it is that the principle intervenes directly only when the record has already been made, and that in every other case it does nothing at all, which is exactly what a mechanism does.
 
-This concept has a parallel in other media — the domain expansion of certain anime, where a combatant's technique consumes the surrounding space and forces the opponent to fight within a terrain defined entirely by the user's power. The Tribunal Domain functions analogously: once Infernal Tribunal is on the field, the entire duel is conducted within Salem's jurisdiction. The field spell card is not just a game mechanic. It is the establishment of a legal proceeding.
+They have not succeeded in three thousand years, and the reason is structural rather than a failure of effort.
 
-The opponent can feel this shift. They cannot explain it. The duel begins to feel less like a game and more like a deposition they agreed to give without fully reading the terms. Every trap that resolves, every counter that accumulates, every card Salem places is a procedural step in a proceeding that was already in progress before the first card was drawn.
+**A record made by a third party is hearsay.** Under the same doctrine that makes the old law enforceable, only the **presiding officer's own record** carries weight. The Registry can observe an imbalanced transaction, document it exhaustively, and cross-reference it against three millennia of precedent — and produce something with no evidentiary value whatsoever. They have filing cabinets full of perfectly useless truth.
 
-### Physical Description of the Tribunal Domain
+What they have been waiting for, since Aknadin, is a presiding officer who kept his own files and wants to submit them.
 
-When Infernal Tribunal activates, the following changes manifest — visible only to the two duelists within the proceedings, invisible to any observer standing outside it:
+They know Salem exists. They have known for fourteen months. They have not approached him, because approaching him is itself a form of interference and interference voids everything.
 
-The playing field expands and restructures. Salem's side of the field becomes an elevated bench — a formal judicial platform from which he presides. His cards, when placed, do not simply enter zones; they take positions in the courtroom. Monsters stand as members of the judicial staff — bailiffs, advocates, clerks, witnesses. Spell and Trap cards are filed as procedural instruments: motions, writs, orders, evidence.
+They are waiting for him to come to them. They will wait as long as it takes. It is what they are for.
 
-The opponent's side remains a duelist's field in appearance, but it is now clearly the defendant's position within a jurisdiction Salem controls. The opponent's monsters are not simply threats — they are arguments. Their Spell and Trap cards are not simply tools — they are counterfilings. Every play they make is interpreted by the domain as a response to the proceedings, rather than an independent action.
+## Marit Osei
 
-The ceiling of the domain — visible in the upper peripheral vision of anyone inside — contains the jury.
+Thirty-four. Ghanaian-Norwegian. Regional champion in 2021, top eight at a continental qualifier in 2022, and a claims adjuster for a marine insurer in Bergen — a job she took, she has told people, because after 2023 the game stopped feeling like anything and she needed something that used the same part of her brain.
 
-### The Jury — Souls Already Collected
+She lost to Salem in an after-hours bracket in Ghent in March 2024. She was the fourth entry. Within five weeks she had stopped testing.
 
-Every soul Salem has collected through previous duels occupies a seat in the upper gallery of the Tribunal. They are present at every proceeding. They do not speak. They do not intervene. They simply watch.
+The thing nobody else did: she is a claims adjuster, and her professional habit is to distrust the proximate explanation. Burnout was available and she wrote it down and then kept working, because the timeline did not fit. Nobody loses their interest in a decade-long obsession in five weeks with no precipitating event.
 
-The opponent can see them. They appear as indistinct figures seated in elevated positions — faceless in most stages, but present enough that their number is unmistakable. In Salem's early duels, the gallery is sparse. As the collection accumulates across his arc, the gallery fills. By the later story, the seats are dense with observers whose presence alone creates a weight in the room that the opponent cannot identify as anything other than unease.
+She spent eighteen months building a list. Forty-one names, gathered from Ladder records and group chats and event registrations that stopped abruptly: **every single person she could identify who had played the man in the suit, and the date each of them quit.** The correlation is not subtle. She does not know what it means. She knows it is not burnout.
 
-The jury does not vote. There is no verdict they deliver. Their presence is not procedurally meaningful. But their role in the domain is atmospheric and thematic: they are the evidence that Salem's system works. They are the proof that whatever the opponent is about to experience, others have already experienced and lost. They are there to ensure that the defendant knows they are not the first to stand here.
+**She has faced him twice.** The second time was in Milan, in February 2026, and she went in specifically to test one hypothesis: that beating him would give something back.
 
-Salem never references the jury during a duel. He does not draw attention to them. If the opponent asks who they are, Salem answers with a procedural line and changes nothing: *"The gallery. They have an interest in the proceedings."*
+She won.
 
-### Protocol — How Salem Conducts the Duel
+She has not told anyone what happened afterwards, because the honest description sounds like nothing — she slept badly, and in the morning she wanted to play, and the wanting has not gone away since.
 
-The Tribunal Domain is not simply visual. It imposes a behavioral standard on Salem himself. He cannot conduct the duel like a standard duelist. The role of judge requires specific conduct, and the infernal pact that created the domain enforces it: Salem must preside.
+She is looking for him again. She is also the only person alive who has a written record of the pattern, and she does not know that a written record by a non-party is worth nothing, or that the man she is hunting is holding the only version of it that counts.
 
-**What this means in practice:**
+## Compliance
 
-Salem does not say "I activate a trap card." He says *"The court moves to enforce Clause Seven."*
+The most dangerous institution in this record has no idea any of it exists.
 
-He does not say "I summon my monster." He says *"The Tribunal calls its next witness."*
+Every Duel Disk sold in the last decade generates telemetry. Card authentications are logged, batched, and uploaded. When a card's chip returns no database match, the failure is recorded as a hardware fault with a device identifier, a timestamp, a location, and a hash of the unrecognised signature.
 
-He does not say "I attack." He says *"The court directs its officer to proceed."*
+Industrial Illusions and KaibaCorp share an anti-counterfeiting function that exists to protect print revenue. It processes several hundred thousand such faults a month, almost all of them genuine hardware failures or ordinary proxies.
 
-When a card effect resolves, he does not narrate the mechanics. He reads the effect as a ruling: *"Motion sustained. The claim is dismissed."* or *"Objection overruled. The penalty stands."*
+Fifty-five unique unrecognised signatures, recurring together, on the same device identifier, across two hundred and eleven sessions in eleven countries, is not a hardware fault. It is the cleanest counterfeiting signal in the dataset. It was flagged in an internal queue in November 2025 under a case number and the working label **"the Basel cluster,"** and the file has been growing on its own ever since, because the device is still in service and still reporting.
 
-When the opponent activates a card or effect, Salem does not react with competitive commentary. He acknowledges it procedurally: *"The defense raises a point. The court will consider it."* If he negates it: *"Overruled."* If it resolves: *"The record will reflect the motion."*
+The analyst who flagged it is twenty-six, competent, and bored. Her open questions are: who is manufacturing these, what facility renders chips this well, and why has nobody tried to sell them.
 
-This conduct is not performative. It is the condition of the appointment. The devil's contract stipulates that Salem holds judicial authority only within proceedings conducted according to proper protocol. Breaking protocol — reacting like a duelist rather than a judge — would constitute procedural misconduct within the domain's own rules. Salem is acutely aware of this. He maintains the conduct with the discipline of someone who has always wanted this authority and will not endanger it by forgetting what it requires of him.
+She will find him. She is not looking for anything supernatural and would not recognise it if she did. She is looking for a print shop.
 
-The opponent, watching a man speak about their Ash Blossom as a "procedural objection" and respond to their Nibiru as "a disturbance of the court," either finds it unsettling or finds it absurd. Salem is prepared for both reactions. The domain does not require the opponent's respect. It only requires their presence.
+## Is There Another Executor?
 
-**Courtroom phrase adaptations — real speech, infernal translation:**
+Salem has assumed, without examining the assumption, that he is the only one.
 
-| Real courtroom phrase | Salem's duel adaptation |
+The record does not support it. The Creditor's constraint is that it cannot interfere in a proceeding. Nothing anywhere in the instrument prevents it from running more than one.
+
+The pit under Kul Elna was open for months before it was closed out, and it has stayed broken since. Whatever could be projected through it once could be projected through it again, over any office, in any city, above any qualified person having a sufficiently bad night.
+
+And the gallery seats the encumbered portion of everyone with a lien filed to this account. Not to Salem's account. **To the account.**
+
+In November 2025 Salem's files recorded fifty-eight. He counted sixty-three.
+
+He has told himself that he miscounted, and he is a man who does not miscount, and both of those things have been true simultaneously for nine months.
+
+---
+
+<a name="filing"></a>
+# PART VIII — THE FILING
+
+## What He Found
+
+Salem has read the instrument several hundred times. He has found four drafting choices that could be argued and one that cannot.
+
+The one that cannot is Clause Three, and what he found in it is not a drafting error. It is worse than that, and it took him fourteen months to see it because he had been looking for the wrong kind of flaw.
+
+He had been searching for something the Creditor got *wrong*. There is nothing wrong in the instrument. What is in the instrument is a clause the Creditor is **proud of** — the guarantee of comprehension, drafted specifically to cure the defect that has kept it in the margin for three thousand years — and that clause guarantees comprehension of the terms and says nothing whatsoever about the price.
+
+Aknadin concealed a price from the party who authorised the working. Three thousand years later the thing that was created by that concealment built an entire collection system to make sure it never happened again, and reproduced it exactly, sixty-one times, with better paperwork.
+
+Salem understood this in about four seconds, on a Tuesday in January, and then sat with it for two days without sleeping, because he is the only person alive positioned to recognise it and he knows precisely why. He has done it himself. He accepted a fabricated encumbrance in 2019 on the grounds that the filing was in order. He is the world's leading expert on the difference between a document that is correct and a transaction that is fair, and he acquired that expertise by being on the wrong side of it once and choosing not to say anything.
+
+What Ma'at will weigh is not whether the Creditor lied. It did not lie. What Ma'at will weigh is whether the counterparty could have priced the trade, and sixty-one times the answer is no — and sixty-one uncontested entries are indistinguishable from sixty-one balanced ones, forever, until somebody writes the difference down.
+
+## Standing and Sequence
+
+The plan is not a loophole. It is a filing, and the entire thing turns on the order of two acts.
+
+Salem is the presiding officer. His record is the only record that carries weight — the Registry's cabinets are worthless, Marit's forty-one names are worthless, and his own files, kept obsessively out of guilt, are the only evidentiary instrument in existence that Ma'at will weigh.
+
+But he was appointed **by the plaintiff**. A proceeding presided over by the claimant's own appointee was never a valid proceeding, and Salem, who has spent fifteen years finding exactly this kind of defect, understood the implication the first week he thought about it clearly:
+
+**He cannot use the invalidity of his appointment as his argument, because the moment the appointment is void, so is every record he made under it.**
+
+If he resigns first, he is a private individual with a diary. If he files first and never resigns, he is a plaintiff's officer whose findings are tainted by the same defect he is alleging.
+
+The sequence is the whole plan:
+
+1. **Enter the imbalance on the record while still holding the appointment.** Sixty-one entries, each with the defendant's name, the date, the clauses disclosed, and the price not disclosed. Certified by the presiding officer. Formally submitted into the proceeding — which means it must be done *inside* a bound duel, on the record, in the domain, with The Contract active, because that is the only forum where his certification is operative.
+
+2. **Then void the appointment.** Not resign — *establish* that it was never valid, which requires the Creditor's own conduct as evidence: the plaintiff appointed the officer, defined the officer's authority, and drafted the instrument the officer applied. On the record, in front of Ma'at, with the record already entered.
+
+Step one makes the entries reviewable. Step two makes them void. Neither works alone.
+
+## What It Costs
+
+Everything, and specifically the things he has been protecting.
+
+**Every judgment he entered is void.** Including the ones that fed him. Sixty-one people get back the part of themselves that was under lien — and Salem gives back every increment he absorbed to stay a person. He returns to exactly what Clause Four left him: a man with nothing lit except the will to duel, and no proceedings to conduct.
+
+**The Phantom Ledger dissolves.** The staff were rendered from the encumbered will of sixty-one duelists. Voiding the entries returns that will to its owners. The bailiff, the notary, the witness, the seven vices — all of it unmakes, at once, in front of him. The only thing the Creditor ever gave him that he actually values is the thing the filing destroys.
+
+**The Creditor is not destroyed.** It is a function. It goes back to the margin with a three-thousand-year-old entry still open, and it has already demonstrated that it can wait.
+
+**The encumbrance does not reverse.** The left weight is a record of Salem's own conduct, not the Creditor's, and Ma'at does not void a true entry. Everything he has done stays done. The scale keeps whatever position it has reached when he files.
+
+He knows all of this. He has done the arithmetic several hundred times, because he has nothing else to do with the nights he is not at a table.
+
+The thing that would make it survivable — a version where he wins, keeps the deck, keeps the bench, and walks away restored — does not exist in the instrument, and he has looked.
+
+## Where It Fails
+
+Four ways, and he has identified three.
+
+**One. Volume.** He needs a bound proceeding to file in, and every bound proceeding he conducts risks producing entry sixty-two. Filing requires the forum. The forum is the crime.
+
+**Two. Encumbrance.** He needs to be lucid enough to conduct a formal submission with correct procedure, and the fourth stage of the weighing degrades his syntax. There is a point past which he cannot draft. He does not know where it is and he can feel himself approaching it.
+
+**Three. The appointment.** If he mis-sequences — resigns before filing, or files after the appointment has been challenged — he loses standing and the record becomes a diary. There is one attempt.
+
+**Four, which he has not identified.** Ma'at does not distinguish between officers. If the entries are void because the officer's appointment was invalid, then **every ruling Salem ever made was made without authority** — including the rulings that constituted him as a judge in the first place. The clause that gave him the bench is in the same instrument. He is not filing to escape the pact. He is filing to establish that he was never a judge.
+
+Which is the one thing he has wanted since he was twenty-six, and the price of doing the only decent thing available to him is proving that he never had it.
+
+He will find this out. Probably during the filing.
+
+---
+
+<a name="chronology"></a>
+# PART IX — CHRONOLOGY
+
+| When | What |
 |---|---|
-| *"Objection overruled."* | *"Overruled. The record stands."* |
-| *"The motion is denied."* | *"The motion fails. The clause holds."* |
-| *"The matter is before the court."* | *"The matter has been before this court since your first card was drawn."* |
-| *"The record will reflect..."* | *"The ledger records this. It always has."* |
-| *"You may step down."* | *"This witness has given everything of value. The court is finished with them."* |
-| *"Do not test the court's patience."* | *"The record reflects your choices. The court does not require your cooperation to continue."* |
-| *"The court finds the defendant in contempt."* | *"The court notes the violation. A penalty has already been scheduled."* |
-| *"Counsel, confine yourself to the record."* | *"You are outside the scope of this proceeding. Return to the matter at hand."* |
-| *"The verdict has been reached."* | *"The audit is complete. I arrived at my conclusion some turns ago."* |
-| *"Order."* | Said only once. Quietly. — *"Order."* |
-
-**Judicial interruption as psychological pressure:**
-
-A judge's power to interrupt is not rudeness — it is a demonstration that the court has understood the argument before it has been completed, and that continued argument is therefore unnecessary. Salem uses this as a primary weapon.
-
-When the opponent makes a play Salem anticipated, he does not comment on how expected it was. He simply proceeds to his response and says, quietly: *"The court anticipated this filing."*
-
-When the opponent attempts to negate: *"The objection is noted. It does not meet the threshold required for relief."*
-
-When the opponent makes a timing or chain error: *"You have misordered the chain. The court will correct it. The ruling stands."*
-
-When the opponent repeats a failed strategy: *"The chain has resolved. Do not belabor the point."*
-
-**Elite litigator rhetoric patterns Salem employs:**
-
-*Repetition with precision.* He repeats a key phrase — not for drama, but to ensure it becomes the frame through which the argument is understood. "The opponent has extended. The opponent continues to extend. The court notes the extension." This is not dramatic. It is methodical. The repetition is the pressure.
-
-*Analogy to reveal implication.* "You chose to leave that card on the field for three turns. You therefore chose to accept everything that accumulated while it remained there."
-
-*Controlled concession.* He acknowledges what the opponent got right before using it as the floor for what comes next. "That was a sound countermeasure. It did not address the underlying claim. The court acknowledges the effort."
-
-*Anticipated resistance.* He addresses the counterargument before it is made. "You may argue that this trap should not apply here. The court has already considered that position. It does not alter the ruling."
-
-### The Revelation of the True Proceedings
-
-The Tribunal Domain exists before the opponent knows what is happening to them. The first several turns of a duel against Salem feel unusual but not threatening. A man with strange mannerisms, unusual card text that seems overly formal, a field spell that generates some counters. The opponent plays their deck and responds to the cards on the board, not to the courtroom they are standing inside.
-
-The domain only becomes visible to the opponent — fully, unmistakably — when Salem activates The Contract.
-
-At that moment, everything the opponent has been experiencing suddenly resolves into its correct context. The field is not a playing table. The counters were not game resources. The traps were not disruption tools. They were clauses. Every card the opponent let resolve was a clause they signed.
-
-The Contract is Salem announcing that the proceedings they did not know they were participating in are now, formally, on the record. The duel is no longer a game. It never was.
-
-This is the design principle of the domain's reveal: Salem does not announce what he is until the moment it is too late to refuse the role the opponent is already playing. The domain was present from Turn 1. The opponent simply did not have the context to read it correctly until Turn 5 or 6, when the contract paper hits the field and Salem, without raising his voice, says:
-
-*"The court is now in session. The record reflects that the defendant has been present and participating since proceedings began."*
+| **c. 10,000 years ago** | Atlantis falls. Dartz survives it and begins collecting souls through games, for the Great Leviathan. |
+| **c. 3000 BC** | Aknamkanon orders seven instruments forged. Aknadin conceals the price from him and pays it out of Kul Elna. The working's accounting function certifies ninety-nine, and the entry does not balance. |
+| **c. 3000 BC** | Atem seals Zorc and his own name in the Millennium Puzzle and dies. The Items scatter into three thousand years of ruined holders. |
+| **Modern era** | The Puzzle is solved in Domino City. The Items surface one by one. |
+| **Modern era** | The Great Leviathan is raised and destroyed, and every soul Dartz held for ten thousand years is released in an afternoon. The Creditor — still attached to the open working, still able to see every transaction the Items touched — draws its single most important conclusion. |
+| **Modern era** | The Ceremonial Battle. The seven Items are set into the Tablet of the Pharaoh's Memories, the gate opens, Atem passes, and the temple comes down. The working formally closes. Its accounting function is sealed inside it. |
+| **~8 years later** | KaibaCorp commissions the excavation beneath Kul Elna. The Puzzle is recovered and two fragments stolen; the Millennium Ring is pulled out of the open pit; five Items are left in the spoil. The site is worked and closed out. **Nothing is resealed.** |
+| **Last two decades** | Neural-link Duel Disks reach the mass market. Several hundred million rendering instruments enter civilian hands. |
+| **2019** | Salem Voight administers the Rasch & Söhne liquidation and accepts a filing he knows is fabricated. |
+| **2022** | Four allegations. Two fabricated, one minor and real, one is Rasch. His licence is suspended in effect and never formally resolved. |
+| **14 Nov 2023** | 23:40, Aeschenvorstadt, fourth floor. Eleven pages. Eleven minutes. He signs. |
+| **Dec 2023** | First proceeding. He loses. The left weight moves for the first time. |
+| **Feb 2024** | First bound win. Entry one. |
+| **Mar 2024** | Ghent. Marit Osei, entry four. |
+| **Dec 2024** | Twelve entries closed across the year. He notices the hollowing and begins re-reading the instrument. First reading of Clause Four that he understands. |
+| **2025** | Twenty-five entries. The rate has more than doubled and he has not asked himself why. |
+| **Nov 2025** | Kraków. He counts sixty-three seats against fifty-eight entries and does not write it down. Compliance flags "the Basel cluster." |
+| **Jan 2026** | He locates Clause Three's defect. He does not sleep for two days and files nothing. |
+| **Feb 2026** | Milan. He loses to Marit Osei. Third-stage encumbrance. |
+| **May 2026** | The Wedju Registry confirms his identity and elects, unanimously, not to contact him. |
+| **Jul 2026** | Twenty-four entries in seven months. Sixty-one closed by his own count; thirty-eight remaining if the count is his to make. Ranked thirty-first on a ladder he has never acknowledged. Fourth-stage encumbrance begins to show in his sentence structure. |
 
 ---
 
-<a name="corruption"></a>
-## PART VI — CORRUPTION PROGRESSION
+<a name="deck"></a>
+# PART X — THE PHANTOM LEDGER
 
-### The Cycle of Pain and Power
+> *He did not build this deck. It was drafted for him, from him, out of the account.*
 
-Every loss Salem suffers activates the pact's punishment clause. He receives waves of physical agony, psychological torment, and progressive spiritual corruption. Each loss damages his body, destabilizes his mind, and erodes what remains of his humanity.
+The Creditor studied Salem's career before it presented. It understood how he thinks: in liabilities, penalties, priority, and compound interest on unpaid obligations. It understood that his professional instinct is not to attack but to wait, document, and let the weight of consequence accumulate until the subject collapses under their own record.
 
-Paradoxically, suffering empowers the Phantom Ledger. The more Salem endures pain, stress, and madness, the stronger his cards become. His traps grow harsher, his contracts more binding, and his monsters more efficient and merciless.
+It translated that into cards.
 
-**Wounds become resources. Trauma becomes advantage.**
+Every trap is a clause. Every burn is an administrative fine. Every floodgate is an injunction. The Graveyard is the ledger and the cards in it are closed files. This is why Salem is dangerous despite never having played before November 2023: **the Phantom Ledger does not require intuition.** It requires patience, precision, and a willingness to let people condemn themselves. He already had all three.
 
-This creates a horrifying cycle: every defeat weakens Salem as a man while strengthening him as a duelist. He is simultaneously the victim and the beneficiary of his own collapse.
-
-### Feeding to Remain Human
-
-Salem discovered what the pact was doing to him gradually — the way you discover a slow leak, not by the moment of rupture but by noticing one morning that something that used to be full is now almost empty.
-
-The will to duel was the last thing the contract left untouched. That was by design. But Salem, spending time across the table from duelists who played with everything they had — who treated every game as if it were the most important thing in the world — began to notice something he had no name for. When he won, when he played through their defenses and watched them concede, he walked away feeling slightly more present than he had before. Not restored. Not healed. But less hollowed.
-
-He did not understand it at first. Then he did.
-
-The duelists he faced played with genuine investment. They loved the game. That love — that specific quality of caring intensely about the outcome of something — was the precise thing the pact was draining from him. And through the Phantom Ledger, through the infernal instrument the devil had placed in his hands, he was taking it back. Not their souls. Their *will*. The part of them that burned brightest, that the devil had told him was what made their souls worth taking — Salem was absorbing it through the mechanism of the cards, through the deck that the devil had designed as a collection instrument and which Salem had discovered could also function as a lifeline.
-
-When Salem destroys, seizes, banishes, or converts an opponent's cards, he draws something through the Phantom Ledger. Not their spiritual essence in any grand sense. Their investment. Their desire to win. The particular quality of someone who would give everything for a game. He takes a portion of it. It restores him temporarily — sharpens the edges of the world, makes coffee taste like something, makes the morning feel worth getting through.
-
-Because of this, every duel is predatory in a specific way: **Salem is not merely trying to win — he is feeding to remain himself.**
-
-The devil knows. He has always known. He permits it.
-
-Because nothing Salem takes from an opponent changes the long-term arithmetic of the contract. The will of a hundred duelists, absorbed across a hundred victories, might buy Salem months. The contract is designed for years. The drain is patient. And the entity has been waiting far longer than Salem has been alive — longer than any frame of reference Salem carries allows him to fully comprehend.
-
-### Appearance Corruption Stages
-
-With each defeat, Salem's body is altered by the pact. His appearance gradually becomes more demonic. The scale at his throat registers each stage before his body does — the left weight descends slowly but does not rise on its own.
-
-| Stage | Physical Manifestation | Scale Position | Effect on Daylight | Daily Life Impact |
-|---|---|---|---|---|
-| Early | Veins darken like inked contracts beneath the skin | Slightly left — barely perceptible at a glance | Daylight is slightly uncomfortable, like a room two degrees too warm | He takes fewer afternoon meetings. Attributes it to scheduling preference. |
-| Developing | Bone ridges form at the temples; teeth begin to sharpen | Noticeably left; the left weight hangs visibly lower than the right | Morning hours produce a faint headache he attributes to stress | He stops eating lunch at his desk and moves to a back room. Fewer colleagues notice him. |
-| Advanced | Shadow burns mark both hands; eyes shift to molten gold or crimson | Clearly left; the asymmetry is visible across a table without looking for it | Direct sunlight requires sunglasses; he schedules calls in the afternoon | He begins working from home three days a week. His filed documents are immaculate. His calls are brief. |
-| Late | Voice develops layered echoes; silhouette distorts unnaturally in strong light | Heavily left; the left weight pulls the chain taut against the shoulder yoke | He stops going to the office, conducts all work remotely, blinds closed | He stops explaining his absence. Clients stop asking. The case files are still impeccable. He still bills on time. |
-| Terminal | Horns emerge fully; body reads as inhuman from a distance; the toga overlay carries permanent bloodstains | Fixed at the left — the scale no longer shifts between duels | The day ceases to exist functionally. He operates entirely in darkness. | The double life collapses. The daily briefcase stays on the floor. The other one is always in his hand. |
-
-At the terminal stage, Salem no longer controls his own actions during duels. The devil's influence begins to speak through him. Outside of duels, the normal administrator who kept office hours and filed reports has ceased to exist. There is no day left. Only the night, and what the night requires of him.
-
-**What the scale looks like across the arc:**
-
-In the early stages, the asymmetry is subtle enough that opponents who notice the weights assume they are decorative — a structured collar piece with legal symbolism, appropriate for someone who speaks with judicial precision. The weights are small. The chains are fine. The difference in their positions is a matter of millimeters that requires close attention to read.
-
-As the arc progresses and the left weight descends, the asymmetry becomes harder to dismiss. The chains develop more tension on the left side. The weights develop a surface quality that is difficult to name — not a glow, but a density, as if they are slightly heavier than they should be for their size, as if they are holding more than metal ought to hold. By the Advanced stage, an attentive opponent notices the weights before they notice the gloves, before they register the voice, before the gold eye catches the light. The scale announces that something is being measured. The position announces that the measurement is not currently in Salem's favor.
-
-At the Terminal stage, the scale is still and fixed. Both chains have darkened to the color of old iron. The left weight rests below the line the collar should cover, pulling the entire yoke slightly to that side. The right weight hangs at the full extension of its chain, lighter than it looks, contributing nothing to the balance. The scale was designed to show where Salem stands. At this stage, it shows where he has fallen.
-
-### The Boss Monster Reflection
-
-**Phantom Ledger Sovereign — Final Receivership**
-
-A demonic arbiter who converts life points, graveyard resources, and destroyed cards into soul counters. Salem's boss monster is not a separate entity — it is a portrait of what he is becoming. Each stage of the Sovereign's corruption in the card art mirrors Salem's own body at that point in the story, and in each version the scale is visible: early art shows it nearly balanced, later art shows it fixed left, the final art shows the chain broken on the right side entirely.
-
-This concept manifests across two cards in the archetype: the judicial-corruption aspect in Salem, Infernal Receiver, and the fully manifested demonic form in The Unnamed Creditor. Together they represent the two possible endpoints of Salem's transformation arc. One is the judge who still has enough of himself left to preside. The other is what sits on the bench when the judge is gone.
+None of these cards exist. Not one returns a database match. Every Duel Disk that has ever read one logged a hardware fault.
 
 ---
 
-<a name="personality"></a>
-## PART VII — PERSONALITY & SIGNATURE LINES
+## HOW THE COURT OPERATES
 
-### Core Traits
+*Compiled from the debriefs of thirty-one duelists who lost to him and four who did not.*
 
-- Coldly polite
-- Speaks like a judge reading terms and conditions
-- Rarely raises his voice
-- Deeply bitter about being tricked
-- Secretly hates the devil he serves
-- Sees every duel as both sentence and opportunity
-- After repeated defeats, moments of instability and cruelty begin to surface beneath the professional facade
+**Turns one through three, he does almost nothing.** He sets one or two cards, activates the Field Spell, and passes. Everyone reports the same first impression: that they are playing against a bad control deck by a slow player, and that this will be over quickly. The counters accumulate quietly. Nobody counts them, because at that stage counting them does not seem to matter.
 
-### Signature Lines
+**The engine is a single resource: Phantom Counters,** banked on *Infernal Tribunal*. Monsters place them by being summoned and by being destroyed. Spells and traps place them as riders. Everything in the deck either feeds the bank or draws from it, and almost every meaningful effect Salem has costs counters, which means his power is a direct function of how long you have let him sit there.
 
-| Moment | Line |
-|---|---|
-| Duel start | *"Your case has been accepted."* |
-| Activating a trap | *"Clause enforced."* |
-| Burning damage | *"Administrative penalties apply."* |
-| Opponent realizes they lost | *"You were never negotiating."* |
-| Victory | *"Your balance has been transferred."* |
-| Activating The Contract | *"Please review the terms before you continue."* |
-| After a loss (early arc) | *"The record has been updated."* |
-| After a loss (late arc) | *"…"* — silence, then a sound that is no longer entirely his voice |
+**The disruption is reactive, not preventive.** He does not stop you from setting up. He punishes what you do afterwards, and the punishments scale with your own commitment: the more cards you have, the harder *Session in Contempt* hits; the more you send to the Graveyard, the more *Evidence of Guilt* takes; the larger your hand, the more counters *The Contract* generates against you. Playing conservatively against him is losing slowly. Playing well against him is losing correctly.
 
-### Duel Dialogue — Situational Lines
+**He does not race.** In thirty-five debriefs, not one duelist describes being under pressure before turn five. Everyone describes the same thing: an unremarkable board, an untouched life total, and then a chain in the sixth or seventh turn from which nothing recovers.
 
-**Opening statement:**
-*"The court is now in session. Plaintiff Salem appearing on behalf of the Infernal State. The record indicates a history of reckless maneuvers. The court shall hear your opening statement — but know that in this venue, the rules of evidence are strictly enforced."*
+**The Contract is not an opening. It is a closing argument.** By the time it resolves, the Tribunal has been generating unchallenged, *Evidence of Guilt* has been tracking, *Subpoena* has seen and removed the answer, and the counter bank is deep enough to convert. He does not activate it to gain an advantage. He activates it because the advantage already exists and needs to be entered into the record.
 
-**Summoning a monster:**
-*"I move for the appointment of a Receiver. By this writ, your field is now under the court's supervision."*
-*"The Tribunal calls its next witness to the stand. Executing the Body Attachment — your monster is no longer a combatant. It is an exhibit for the prosecution."*
-
-**Activating a trap:**
-*"Objection. You have failed to lay a proper foundation for that activation. The trap is set in motion: Admonition from the Bench. Your strategy is found in contempt."*
-*"Your move was ultra vires — beyond the authority of your position in this proceeding. The court strikes it from the record. Execution of the sanction is immediate."*
-
-**Negating an opponent's effect:**
-*"I direct the field to disregard that activation. It is non-probative and strictly irrelevant to these proceedings."*
-*"Res judicata. This matter has already been decided. Your attempt to re-litigate a failed chain is barred by the doctrine of finality."*
-
-**Declaring battle:**
-*"The court finds in favor of the prosecution. Execution of the judgment shall proceed."*
-*"We proceed to the penalty phase. Your monster is remanded to the Graveyard without the possibility of parole."*
-
-**When the opponent realizes the trap too late:**
-*"You focused on the words of the card. You missed the spirit of the court. The forfeiture was registered the moment you allowed the first clause to resolve."*
-*"Your testimony has already convicted you. Look at the record — the trap was set the moment you drew your opening hand."*
-
-**After winning:**
-*"The evidence is overwhelming. The judgment of this court is final, and there shall be no appeal."*
-*"Your estate is fully liquidated. The proceeding is complete."* — then extends his hand. — *"You conducted a thorough defense."* He means it.
-
-**When he begins to lose control (late arc corruption):**
-*"The Nomos is broken! If you will not submit to the law of the court, you shall submit to the law of necessity — Ananke! Ananke!"*
-
-### Voice Profile
-
-**The institutional third person.** Salem does not use "I" in duels. He uses "the court" or "the law." This is not affectation — it is doctrine. The court is the institution; Salem is its voice. He applies this reflexively, without thinking, in the same way a trained judge applies it to their written opinions.
-
-**At night, he speaks every language.** The pact's linguistic provision means that when Salem finds an opponent whose native language is not his own, the proceedings continue in theirs. He does not make a point of this. He simply speaks. The opponent hears their own language delivered with the precision of someone who has practiced law in it for decades. This is not a courtesy extended to the defendant. It is a condition of the binding — the court must be understood for the clause to hold. Salem knows this. He takes no particular satisfaction from it.
-
-**Modal verbs as authority markers.** "Shall," "must," "will not," and "cannot" are his load-bearing words. He uses them precisely and sparingly. "Shall" is an order. "Must" is a condition. "Will not" is a ruling. The opponent can feel the difference.
-
-**He never uses the following words:**
-- *"Amazing," "incredible," "brilliant"* — a judge does not evaluate performances, only rulings
-- *"Obviously," "clearly," "of course"* — a judge assumes nothing is obvious; every finding requires record support
-- *"Fear," "terrifying," "dangerous"* — a judge does not experience proceedings as threatening; he experiences them as pending
-
-**Vocabulary is high but never ornate.** He uses *mens rea* instead of "intent" because *mens rea* carries a specific legal weight that "intent" does not. He uses *stare decisis* not for effect but because "follow precedent" doesn't include the doctrine's implications. He never uses synonyms for drama. If the right word is "overruled," the word is "overruled" — not "denied," not "dismissed," not "rejected."
-
-**Pacing is deliberately unhurried.** Salem speaks at approximately 60–70% of the pace a competitive duelist would use. He leaves pauses that are not nervous pauses — they are deliberation pauses. The pause before a ruling is procedural, not theatrical. The ruling requires a moment of consideration. The consideration happens. Then the ruling is delivered.
-
-**When he becomes terrifying — three specific conditions:**
-
-*1. When he completes a sentence he began three turns ago.* He said something in Turn 2 that seemed like flavor narration — a procedural observation, a clause reading. It lands its conclusion in Turn 5 and the opponent suddenly understands it was a structured argument with a destination. He planned the sentence three turns in advance. He was always going to finish it.
-
-*2. When he uses the opponent's name.* He does not use names during duels. Everything is "the defense," "the opposing party," "the record." The moment he uses an opponent's actual name — *"[Name]. The ledger has your name on it."* — is the moment the duel stops being a game. He uses names exactly once per session. Always at the moment The Contract is about to be activated.
-
-*3. When he stops entirely.* After a particularly devastating chain resolves, he does not comment on the damage total. He does not gesture. He simply waits — holds the silence for exactly as long as it takes the opponent to look up from their LP counter. Then: *"Shall we continue?"*
-
-**The last thing Salem says after winning is never a gloat. It is an acknowledgment.** He extends his hand. He thanks them for the proceeding. He means it. That is what is unforgettable. He means every word, always, even the ones that are destroying something the opponent will not miss until years later.
-
-**When the corruption advances, the language degrades before the body does.** Sentences that should flow in a particular grammatical direction take slightly wrong turns. The institutional third person slips. He references himself briefly before correcting. He does not lose composure — he loses syntax. Something is being overwritten. It shows in the grammar before it shows anywhere else. In duels where the scale tips unusually far left — where the left weight has pulled the yoke below the line his collar covers — his sentences begin to carry a second cadence underneath the first, like a translation running a half-second behind the original. The opponent hears Salem speaking. Underneath, at the edges of perception, something else is forming the words.
-
-### Latin Maxims — Salem's Operational Philosophy
-
-Salem internalizes these not as decoration but as functional doctrine — the philosophical scaffolding behind every ruling he delivers.
-
-| Maxim | Translation | Salem's application |
-|---|---|---|
-| *Pacta sunt servanda* | Agreements must be kept | The foundation of The Contract. Once a clause resolves unopposed, the agreement is binding. |
-| *Res judicata* | A matter judged | A negated card effect that the opponent attempts to re-activate. The court has already ruled. |
-| *Lex talionis* | Law of retaliation | Damage redirected. An eye for an eye, converted into administrative procedure. |
-| *Ignorantia juris non excusat* | Ignorance of the law is no excuse | The opponent did not read his card text carefully. This changes nothing. |
-| *Mens rea* | Guilty mind | The moment the opponent declares an attack or activates an effect they know will fail — the intent is already on record. |
-| *Fiat justitia ruat caelum* | Let justice be done though the heavens fall | The proceeding continues regardless of the cost to either party. This is the clause that governs Salem himself. |
-| *Nemo dat quod non habet* | No one gives what they do not have | An opponent cannot sacrifice, tribute, or assign a resource they no longer fully possess. |
-| *Qui hæret in litera hæret in cortice* | He who clings to the letter clings to the bark | The opponent followed the words of the card. They missed the spirit of the court. The forfeiture was registered regardless. |
-
-### Greek Legal Concepts — The Metaphysical Foundation
-
-For Salem, the duel is not merely a legal proceeding. It is a cosmic one. Ancient Greek legal thought provides the vocabulary for why the outcome was always inevitable.
-
-| Term | Meaning | Salem's interpretation |
-|---|---|---|
-| *Dike* | Justice as objective demonstrable order | The final state of the cleared field. The win condition as ordained sequence, not personal victory. |
-| *Nomos* | Human-made law, the rules of engagement | The card effects currently active. The living text of the proceeding. |
-| *Ananke* | Necessity, moral compulsion | The state Salem creates where the opponent is forced by circumstance to make the move Salem has already prepared for. |
-| *Nemesis* | Righteous retribution | The punishment that follows the opponent's overextension. It does not arrive quickly — it arrives correctly. |
-| *Hubris* | Excessive pride that defies the cosmic order | An opponent who fields too many high-powered monsters without understanding what they have been agreeing to. |
-| *Atimia* | Loss of civic rights; legal exclusion | The opponent's inability to use effects after certain Phantom Ledger cards resolve. Exile from their own strategy. |
+**Two things beat him.** Speed — closing the game before turn four, when the bank is shallow and the traps are not set. And backrow removal, applied early, before *Petition to the Bench* has recovered the engine. Everyone who has beaten him did one of those two things. Nobody has ever beaten him in a long game.
 
 ---
 
-<a name="arc"></a>
-## PART VIII — NARRATIVE ARC
-
-Salem begins as an unwilling servant harvesting duelists for the underworld. He is professional, controlled, and actively searching the contract's language for any exploitable clause.
-
-Over time, the arc moves through three distinct phases:
-
-**Phase One — The Executor**
-Salem operates under the belief that if he fulfills the contract efficiently, he will be released. He is wrong, but he does not know this yet. He is methodical, restrained, and bitter. He treats duelists as cases, not people.
-
-**Phase Two — The Fracture**
-Multiple defeats accelerate his corruption faster than anticipated. More pressingly, Salem begins to notice the hollowing — the specific quality of emptiness accumulating in the spaces between duels that he cannot attribute to exhaustion or stress alone. He starts searching the contract's language with a new focus: not for a way out, but for an explanation. He finds the clause. He reads it correctly for the first time. He understands that the devil was never only taking his soul. He was taking his reasons to remain himself.
-
-This is when his restraint begins to crack. Not dramatically. Quietly. He becomes more precise — in the wrong direction.
-
-**Phase Three — The Reversal**
-Salem's ultimate goal is not redemption. It is reversal.
-
-The discovery of the will-drain mechanism does not break him. It clarifies him. He has been, without understanding it, already countering the mechanism — every duel where he takes an opponent's investment has been extending his functional life. He was doing it instinctively. He now does it deliberately.
-
-The soul-split — Salem, Corrupted Receiver — was the extension of this logic taken to its furthest point. He could not slow the corruption without consuming more will than individual duels provided. He needed a faster mechanism. Using the infernal power the pact itself granted him, he partitioned his own soul: the half that was already marked by the pact's corruption became a card, a vessel, a separate entity that absorbs the punishment in his place. The devil permitted this. He always permits things that seem like survivable acts of defiance. He knows the math: a soul split into a thousand pieces still belongs entirely to him at the end of the contract.
-
-What the devil did not calculate — what Salem is the only person positioned to discover — is whether the mechanism of the will-drain can be redirected. If Salem can find the correct clause, the correct chain, the correct counterargument in language the pact itself recognizes, it may be possible to make the drain serve him rather than the entity that designed it.
-
-His victory condition is not survival.
-**It is submitting a counteroffer the devil has no legal grounds to refuse.**
-
-What this looks like, mechanically, inside a duel:
-
-Salem is studying the infernal doctrine — the rule that a soul seized through direct force or supernatural interference in a duel cannot be kept. The entity's legal doctrine is its constraint. But it is also, Salem has begun to suspect, a two-directional rule. If the entity cannot interfere in a proceeding without voiding the transaction, then a proceeding in which the entity's own interference is demonstrably necessary to prevent Salem from winning is a proceeding the entity cannot win cleanly. A soul collected under those conditions would be contestable.
-
-The counteroffer Salem is working toward is not a loophole in the traditional sense. It is an amendment filed within the pact's own framework — a counter-clause that binds the entity to conditions it agreed to by creating the system. Specifically: if Salem can engineer a duel in which The Unnamed Creditor is summoned using the entity's own accumulated energy as the 10 Phantom Counter threshold — converting the infernal energy flowing into the deck into the fuel that materializes the Creditor against its own master — the proceeding would complete a loop the contract never anticipated. A judgment against the plaintiff. Filed by the court. Executed by the court's own officer.
-
-The mechanics of how that would resolve within the rules of a card game are, admittedly, outside the scope of any existing rulebook. But Salem is an insolvency administrator. He has spent his career finding the edge cases in systems that were built to prevent exactly that kind of thing. He is not looking for a miracle. He is looking for the right filing.
-
-### Target Selection — Why Salem Chooses Who He Chooses
-
-Salem does not choose opponents randomly, and he does not choose the weak.
-
-The entity's instruction on this point was explicit: the soul of a person who duels without genuine investment has no value. A soul that was never truly committed to the game carries no weight. What the entity needs — and what Salem now understands he also needs — is the soul of a duelist who genuinely loves the game. Someone who has defined themselves by it. Someone for whom losing is not an inconvenience but a genuine blow, who plays with their full self on the line.
-
-These are the souls that burn brightest in the entity's ledger. They are also the ones with the most will to give.
-
-Salem cannot target a weak player — not because he has sympathy for the strong, but because collecting a weak soul would violate the pact's terms. The entity is specific about quality. And because Salem discovered that what he takes from opponents to sustain himself is precisely this quality of investment, the selection criterion serves both masters simultaneously: the entity gets a valuable soul at the end; Salem gets enough will to last another month.
-
-It also means that every person who duels Salem duels at their best, which is precisely the point. The Phantom Ledger was not built to defeat careless players. It was built to defeat excellent ones through the precise exploitation of how excellent players think. A skilled duelist reads card text quickly and under pressure. They assess threats and make decisions in seconds. They have confidence in their ability to solve problems mid-duel. Every one of those strengths is a vulnerability inside Salem's system: the faster they read, the less carefully they read.
-
-And because nobody faces Salem twice — because previous opponents are still living their lives, quieted in ways they cannot name — there is no warning network. Every duelist approaches Salem for the first time, with exactly the vulnerability the system was designed to exploit.
-
-### The Entity's Legal Doctrine — Observation Without Interference
-
-The entity is present in every duel Salem plays. It observes through the deck itself — every card drawn, every effect resolved, every word spoken at the table. It hears the opponent's reactions, tracks the counter accumulation, reads the board state in real time. It could intervene. It could shift the outcome. It chooses not to.
-
-This is not restraint out of principle. It is a structural requirement of the infernal economy.
-
-Souls claimed through direct force carry no value. A soul seized through compulsion, through outcome-fixing, or through supernatural interference in the duel does not count toward the threshold. It cannot be banked. The entity has operated within these rules for long enough to understand them completely: **an illegally obtained soul cannot be kept.**
-
-This is precisely why the pact required an insolvency administrator. Of all the professionals the entity could have found when the veil thinned over that office, only someone whose entire career was built on the legitimacy of claims understood this concept at the operational level. Salem spent years ensuring that every seizure, every receivership, every forfeiture he executed was legally defensible — that the paperwork would hold under scrutiny, that no creditor could later challenge the procedure. The entity needed that same discipline replicated in its collection system.
-
-The opponent must lose on their own terms. They must play their deck, make their decisions, and be defeated by Salem's cards functioning exactly as described. No override. No puppeteering. No supernatural influence on the draw, the dice, or the play sequence. The entity watches everything and speaks to no one.
-
-This constraint is also, quietly, a vulnerability — the one strategic weakness in the entity's design that Salem has begun to recognize. The legal doctrine that makes the collection system legitimate is the same doctrine that limits what the entity can do when the system is failing. If Salem could manufacture a situation where the entity is forced to choose between interfering and losing the soul, the interference itself would void the transaction. A provable breach of the infernal doctrine would be grounds for challenging the pact itself.
-
-He has not found the clause yet. But he is looking.
-
-### The Invisible Sentence — What Happens After the Duel
-
-When Salem wins a bound duel, nothing happens.
-
-The duel ends. He sets his cards down. He extends his hand across the table and thanks the opponent for a good game — and he means it. Not sarcastically. Not with contempt. With the genuine professional respect of someone who watched a skilled player perform at the limit of their ability. The opponent shakes his hand. They may talk briefly about specific plays. Salem is gracious, measured, entirely normal. Then he walks away.
-
-The opponent walks away too. They feel fine. Slightly disappointed about the loss, perhaps, but that is the ordinary feeling after any close match against a strong player. They eat dinner. They sleep. They message their group chat about the duel. They sign up for the next tournament.
-
-Nothing is immediately different. Nothing visible has been removed. The opponent's body is intact. Their memories are intact. Their ability to function, to work, to love, to continue their daily lives — all intact.
-
-What was taken cannot be seen. It is a lien, not a possession. The entity has filed a claim against a portion of what that person is, and the claim is now attached to them, and it will travel with them for the rest of their natural life, and they will never know it is there.
-
-Over time — weeks, sometimes months, rarely years — certain things shift. The things that made them passionate begin to dim. The fire that drove them to the table burns at a lower temperature. They still play the game. They still compete. But winning feels slightly less like something that matters. The investment that defined them as a player begins to quiet, the way a conversation fades when one person has stopped truly listening.
-
-They cannot explain it. They attribute it to burnout, to age, to priorities evolving. They are not wrong to do so. They simply do not know that the correct explanation is that the part of them that cared most has been legally encumbered. It has not been taken. Not yet. It is still in them. It is just no longer entirely theirs.
-
-**The claim executes at death.**
-
-This is the mechanism Salem does not know. When the opponent who shook his hand dies — in most cases decades later, in circumstances that have nothing to do with that night or that duel — the lien executes. The moment the tether between soul and body dissolves naturally, the encumbered portion is redirected. It does not go where souls normally go. It is filed. Delivered to the entity's dimension, where it becomes one increment of the architecture being built toward manifestation.
-
-The entity waits for each delivery individually. It cannot predict the order. It cannot accelerate the timeline. It receives what it is owed when the owner's natural life ends, and not before. In the meantime, the claim sits attached to a living person who is walking around, working, aging, unaware of anything unusual about their situation except a faint and inexplicable sense that something they used to feel very clearly has become harder to locate.
-
-Only at the moment of death — in the instant between the last breath and what follows — does the person understand what happened. They remember the duel in complete detail. They remember Salem's hand extended across the table, his genuine thanks, his gracious and measured acknowledgment of the game. They remember that he meant every word.
-
-They understand, in that instant, that meaning it was exactly the point.
-
-Salem is never there to explain. He set the cards down. He shook their hand. He thanked them, and he meant it, and then he left, and he has never once gone back.
-
-He carries this knowledge. He finds it unbearable in a specific way. He took what kept them alive as players to keep himself alive as a person. The exchange is functional. It is also, by any honest accounting, the thing he cannot forgive himself for — not because it was done against his will, and not because it was done with malice, but because he did it with precision and care and genuine respect for the people it was done to. That is the worst kind of taking. He knows this. He keeps the files that the pact does not require him to keep.
-
-### The Differential — Time Between Two Worlds
-
-There is a consequence of the dimensional connection that Salem has never articulated cleanly, because the concepts available to him in the material world are not quite sufficient to describe it. But he experiences it, constantly, and it shapes everything about how he moves through his life.
-
-Since the pact connected him to the entity's dimension, Salem does not experience time the same way the people around him do.
-
-The ratio, as best as Salem has been able to estimate it through the evidence available to him, is approximately this: one year in the material world corresponds to roughly one hundred years in the entity's dimension. The two scales are not synchronized. They never were. The entity's dimension operates at a different temporal rate — one of the many ways it is categorically not the material world and cannot be mapped onto it cleanly.
-
-What this means in practice:
-
-To the people around Salem — his colleagues, his clients, anyone who knows him — time passes normally. One year is one year. Salem ages one year in that period. His body changes at the rate a human body changes in one year, which is to say: imperceptibly, in the usual ways.
-
-But Salem's perception of that year is not one year. His consciousness, partially attuned to the entity's dimensional frequency through the pact, experiences something closer to one hundred years of subjective duration. Not in a dramatic or disorienting way — he is not living through a century of hallucinations while standing in his kitchen making coffee. It is more subtle than that. More like a compression of significance. A year feels fully inhabited in the way that only very long spans of time can feel fully inhabited. He has time to think about things that most people never have time to think about, because he is, in a very real sense, experiencing more time than they are.
-
-This also means that the lien structure resolves faster than anyone outside Salem's experience would expect.
-
-A person who loses a portion of their will to Salem in a duel will die, from Salem's subjective perspective, very quickly. The decades that pass in the material world — the normal lifespan of a person aging at human speed — are compressed, from Salem's temporal experience, into something that passes at a rate approaching a year for every few days. Salem does not watch his former opponents age. He does not wait in any felt sense of waiting. The deliveries to the entity come at a pace that feels, from Salem's position, like a steady stream — not like decades of patience.
-
-The entity, for its part, experiences time at its own dimensional rate. From the entity's perspective, the entire project — the approach, the contract, the collection, the eventual manifestation — is occurring very quickly. Salem is, from the entity's vantage point, moving at extraordinary speed. A human lifetime, from inside the entity's dimension, is an interval that does not require patience. It requires only attention.
-
-This is one of the reasons Salem can perceive the entity's presence without being overwhelmed by it. They are not operating on completely different scales — the pact has bridged them enough that Salem exists somewhere between the two temporal frames, which is part of what produces the phantom presence observers notice. He is moving through material-world time at material-world speed, aging normally, but he is also carrying the subjective weight of a consciousness that has been running for much longer than his body shows.
-
-He does not find this distressing. He found it disorienting for the first several months after the pact. By now it is simply how existence works. He has more time than he appears to have, in the sense that counts — the internal kind — and he has used it to read the contract several hundred times, in the time that most people would use to read it twice.
-
-He has found some things. He is still looking for the rest.
-
----
-<a name="fan-archetype"></a>
-## PART IX — FAN ARCHETYPE CARD DESIGNS
-
-> All cards in this section are **theoretical fan designs**. None exist in print. These represent the full original card pool of the Phantom Ledger archetype as it would function if officially released. Cards are organized into eight thematic families that reflect Salem's dual identity — the judicial officer and the infernal executor. All card text is written in standard Yu-Gi-Oh TCG formatting.
-
-The archetype operates around a single central resource: **Phantom Counters**, stored primarily on the Field Spell *Infernal Tribunal*. Monsters place counters by being summoned or destroyed. Spells and Traps place counters as secondary effects. The counter pool feeds protective effects, the boss monster's board negate, and the archetype's finisher. Every card family contributes to the same economy.
+## FAMILY I — THE TRIBUNAL
+### *The courtroom itself*
 
 ---
 
-### FAMILY I — THE TRIBUNAL
-#### *The Courtroom as a Domain*
-
-When Salem duels, the field does not remain neutral territory. It becomes a courtroom under his jurisdiction — a space where the opponent's actions are automatically recorded, their resources treated as assets subject to seizure, and every play they make interpreted as testimony against themselves. The Tribunal cards establish this domain. While they are active, the rules of the duel shift: the opponent is no longer a player. They are a defendant.
-
----
-
-### Infernal Tribunal
+### Phantom Ledger — Infernal Tribunal
 **[Field Spell]**
 
-*When this card is activated: place 2 Phantom Counters on it. Once per turn: place 1 Phantom Counter on this card (during the opponent's turn, when they activate their first card or effect that turn). This card cannot be targeted by the opponent's card effects. If this card would be destroyed by the opponent's card effect: you can remove 3 Phantom Counters from this card instead.*
+*When this card is activated: place 2 Phantom Counters on it. Once per turn, when the opponent activates their first card or effect that turn: place 1 Phantom Counter on this card. This card cannot be targeted by the opponent's card effects. If this card would be destroyed by the opponent's card effect: you can remove 3 Phantom Counters from this card instead.*
 
-> **Role:** The counter bank. The courtroom. The source of almost every Phantom Counter the archetype generates. Without this card on the field, most archetype-specific protections and costs are unavailable. Every other card in the deck feeds it or draws from it.
-
-> **Design note:** The counter generation fires once per turn regardless of how many effects the opponent activates in that turn, preventing runaway counter accumulation from a single opponent turn. The card's targeting immunity applies only to itself — Phantom Ledger cards on the field remain targetable, meaning Salem's protection comes from reaction traps and counter costs, not from a passive blanket shield. The self-destruction protection (remove 3 counters instead of being destroyed) requires having accumulated counters first: on Turn 1 with only the 2 activation counters, the Field Spell survives exactly one destruction attempt. This is intentional — the Tribunal is resilient in the mid-game and vulnerable in the early game.
-
-> **Flavor:** *"All rise. The Receiver presides."*
+> *"All rise. The Receiver presides."*
 
 ---
 
-### THE LIVING CARDS — Personas, Roles, and the Courtroom Staff
+### Phantom Ledger Filing — Petition to the Bench
+**[Quick-Play Spell]**
 
-The cards of the Phantom Ledger are not inert game pieces. The devil, in building the deck, gave each one a form of life proportional to its role within the proceedings. They are not fully autonomous — they serve Salem and execute his decisions — but they exist as individuals within the domain: with distinct personalities, specific courtroom functions, awareness of each other, and reactions to events in the duel that go beyond their printed effects.
+*If you control no face-up Spell Cards: add 1 "Phantom Ledger — Infernal Tribunal" from your Deck to your hand; or, if "Phantom Ledger — Infernal Tribunal" is already face-up on your field, add 1 "Phantom Ledger" Continuous Trap from your Deck to your hand instead. You can only activate "Phantom Ledger Filing — Petition to the Bench" once per turn.*
 
-This system has no direct Yu-Gi-Oh mechanical equivalent. It is a layer of the Tribunal Domain that operates narratively within duels, not as a separate rules system. Think of it as the personality layer beneath the card effects: what the cards are doing between activations, how they interact with each other, and what the opponent perceives when they watch the courtroom staff operate.
-
----
-
-**Card Personas — The Courtroom Roles**
-
-Each card in the Phantom Ledger is assigned a courtroom role that determines its behavior and its relationship to other cards on the field:
-
-| Card | Role | Behavior |
-|---|---|---|
-| Salem, Infernal Receiver | The Judge | Presides. Does not advocate. Does not display emotion. Delivers rulings. Present when the court is fully established. |
-| Salem, Corrupted Receiver | The Judge Under Sentence | Presides under duress. The judicial authority is intact but visibly compromised — a judge whose own case has begun. Half his soul was transferred into this form to absorb the pact's corruption. When this card is on the field, the court continues to function, but the gallery is watching the bench as much as the defendant. |
-| The Phantom Notary | Court Clerk | Documents everything. Observes every card activation. The most attentive figure in the room — which is why its destruction costs the opponent most in counter generation. |
-| The Corrupted Bailiff | Court Officer | Enforces order through active intervention. When the Corrupted Bailiff spends the court's counters to negate an activation during the Damage Step, this is not merely a mechanic — it is the bailiff physically stepping between the proceedings and a disruption, at a cost Salem has chosen to authorize. |
-| The Hollow Witness | Expert Witness | Called to testify once about the opponent's GY. The Witness Counter is a single piece of testimony held in reserve — stored, deliberate, released at the precise moment its impact is greatest. Its destruction before the testimony is given converts what was known into a penalty — the evidence does not disappear when the witness is removed. |
-| Phantom Ledger — Wrath Arbiter | Court Enforcer / Officer | Grows stronger with each action taken in the courtroom. Conducts direct proceedings when authorized by the bench (counter removal for direct attack). |
-| Phantom Ledger — Sloth Debtor | The Reluctant Defendant-in-Waiting | Does nothing visibly. Stands in Defense Position and drains the energy of anything that approaches it. It represents the proceeding itself — expensive to challenge, impossible to ignore. |
-| Phantom Ledger — Greed Collector | Asset Recovery Officer | Enters to seize a Spell or Trap from the GY record the moment it is summoned. Scales in power with the defendant's available resources. |
-| Phantom Ledger — Pride of the Bench | Senior Advocate | Argues only against worthy opposition. Will not acknowledge smaller threats — and mechanically, smaller threats can bypass it as a result. |
-| Phantom Ledger — Envy's Hollow Clerk | Observing Counsel | Studies the opponent's hand the moment it enters. Copies the strength of whatever it faces. It wants what the defendant has and believes it was always entitled to it. |
-| Phantom Ledger — Gluttony's Vault | Archival System | Grows with the combined record of both GYs. Consumes the opponent's resources directly on destruction. The archive expands until it is larger than anything on the field. |
-| Phantom Ledger — Lust, the Consuming Appeal | A Filing That Refuses to Be Ignored | 100 ATK and 2800 DEF. Sits in Defense Position and forces every monster facing it to attack. Not a threat. Not an argument. A presence that compels action toward it, and punishes every attempt at contact. |
-| Petition to the Bench | The Opening Motion | Not a living card in the same sense as the others — it is a document, not a person. But it exists within the domain as the formal act of petitioning the bench to open proceedings. When it resolves, the Infernal Tribunal arrives. The courtroom is established. The proceeding begins. |
+> *"The filing has been submitted. The court will take the matter under advisement."*
 
 ---
 
-**The Sacrifice Protocol — The Living Condemnation**
-
-When a "Phantom Ledger" card is Tributed or sent to the GY as a cost for another card's effect — not through battle or destruction, but through deliberate sacrifice — the Tribunal Domain conducts a brief procedural enactment before the sacrifice resolves.
-
-The card being sacrificed is recognized by the domain as a *reu* — a term from Roman and civil law traditions meaning the accused, the party brought before judgment — the defendant in a capital proceeding. The cards remaining on the field execute the courtroom ritual:
-
-The Phantom Notary records the case number.
-The Corrupted Bailiff, if present, reads the order.
-The other monsters on the field turn briefly toward the sacrifice.
-Salem delivers the ruling in a single line.
-
-*"The court finds the defendant has fulfilled its evidentiary purpose. Sentence: execution. The case is closed."*
-
-The card is sent to the GY.
-
-This is not a separate mechanic. It adds no timing, no additional effects, no game state changes beyond what the activating card already produces. It is the domain's recognition that every sacrifice in Salem's court is a deliberate judicial decision, not a mechanical cost. The devil built this in because he understood something Salem did not until much later: making every sacrifice a formal condemnation ensures that every card destroyed on Salem's behalf is processed as a completed case in the ledger. Every case closed feeds the domain's authority. Every entry in the GY is a closed file. Nothing is wasted. Nothing disappears. It is merely archived.
-
-The opponent watches this happen the first time a card is sacrificed and does not know what to make of it. By the third time, they begin to understand that the cards on the field are not pieces. They are staff. And one of them just had a trial, lost, and was executed by the person employing them.
-
-This is, deliberately, unsettling. Salem knows it. The devil designed it that way.
-
----
-
-**Inter-Card Relationships**
-
-The living cards of the Phantom Ledger are not merely functionally distinct — they have opinions about each other, expressed through the way they position themselves in the Tribunal Domain when multiple cards are on the field simultaneously:
-
-The Phantom Notary and The Hollow Witness do not stand near each other. The Notary records facts; the Witness interprets them. They serve the same court and distrust each other for the same reason all clerks and witnesses distrust each other: one is afraid of being contradicted, the other is afraid of being misrepresented.
-
-Pride of the Bench and Envy's Hollow Clerk have a specific tension. The Bench does not acknowledge cards it considers beneath it; the Clerk observes everything and wants what others have. They do not interact, but the space between them in the courtroom is never comfortable.
-
-Sloth Debtor and every other card on the field exist in a relationship defined entirely by the Sloth's complete indifference. The other cards operate around it. It simply occupies its position and drains the energy of anything nearby.
-
-Salem himself, as Judge, maintains equidistance from all his cards. He does not signal preference. He does not favor the Wrath Arbiter over the Hollow Witness or the Phantom Notary over the Bailiff. Each card is staff. The relationship between the Judge and the staff is not warmth. It is functionality. He uses them. They serve him. The devil made them for this purpose, and they know it.
-
-What none of them know — and what Salem has begun to suspect — is whether any of them were human once.
-
----
-
-### Session in Contempt
+### Phantom Ledger Writ — Session in Contempt
 **[Counter Trap]**
 
-*When the opponent activates a card or effect while they control more cards than you: negate that activation and destroy it. Then place 1 Phantom Counter on "Infernal Tribunal" if you control it.*
+*When the opponent activates a card or effect while they control more cards than you: negate that activation and destroy it, then place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
 
-> **Role:** The archetype's primary Counter Trap negate. Activates exclusively when the opponent holds a resource advantage — which is precisely when they are most likely to use their strongest cards. Designed to punish confident overextension rather than emergency plays.
-
-> **Design note:** The "opponent controls more cards than you" condition means this card is useless when ahead but devastating when behind. Against a large board established on Turn 1, this fires reliably. Against a depleted opponent trying to topdeck their way back, it does nothing. This creates a natural "the more they have, the worse their options get" dynamic consistent with the legal theme: the bigger the estate, the more the receiver can seize.
-
-> **Flavor:** *"Objection sustained. The court has already ruled."*
+> *"Objection sustained. The court has already ruled."*
 
 ---
 
-### Writ of Injunction
+### Phantom Ledger Writ — Injunction
 **[Counter Trap]**
 
-*When the opponent would Special Summon 1 monster: negate the Special Summon and banish that monster. The opponent cannot Special Summon monsters of the same Type as the banished monster for the rest of this turn.*
+*When the opponent would Special Summon 1 monster: negate the Special Summon and banish that monster. For the rest of this turn, the opponent cannot Special Summon monsters of the same Type as the banished monster.*
 
-> **Role:** Hard negate on Special Summons with a follow-up restriction. Stronger than Solemn Strike in the right scenario — the temporary type lock prevents the opponent from immediately re-summoning via the same engine.
-
-> **Design note:** Banishing rather than destroying removes the card from GY access while triggering no "when destroyed" effects. The Type restriction that follows essentially shuts down one wing of the opponent's combo for the remainder of their turn. Against Dracotail (all Dragon-type Fusions), using this against the first Fusion summon prevents every subsequent Fusion summon in the same turn.
-
-> **Flavor:** *"By order of the Infernal Tribunal, all operations are hereby suspended pending review."*
+> *"By order of the Tribunal, all operations are suspended pending review."*
 
 ---
 
-### Evidence of Guilt
+### Phantom Ledger Writ — Evidence of Guilt
 **[Continuous Trap]**
 
-*Once per turn, during your Standby Phase: if the opponent sent 3 or more cards to the GY during their previous turn — inflict 300 damage for each card they sent to the GY that turn, then choose 1 of those cards; banish it. You can only use this effect of "Evidence of Guilt" once per turn.*
+*Once per turn, during your Standby Phase: if the opponent sent 3 or more cards to the Graveyard during their previous turn, inflict 300 damage for each card they sent to the Graveyard that turn, then choose 1 of those cards and banish it.*
 
-> **Role:** Passive burn accumulation tied to the opponent's own card activity. Every turn the opponent sends 3 or more cards to the GY — as combo material, as costs, through destruction — Evidence of Guilt fires in the following Standby Phase: burn damage proportional to the count, then permanent banishment of the most critical piece. It punishes GY-reliant engines that move many cards at once while remaining inactive against conservative play.
-
-> **Design note:** The previous version placed Guilt Counters on individual cards within the opponent's GY — a physically unmanageable mechanic that required tracking separate counter states on 8–15 cards simultaneously in a real game. The redesign eliminates per-card tracking entirely. Players only need to count how many cards the opponent sent to GY during their last turn, which is recorded naturally during play and requires no markers on individual GY cards. The 3-card threshold means reactive one-for-one plays don't trigger it; only extended combo sequences or multiple simultaneous costs do. Both players track the count mentally or with a single counter on Evidence of Guilt itself, which is standard practice.
-
-> **Flavor:** *"The ledger remembers. Every entry is permanent."*
+> *"The ledger remembers. Every entry is permanent."*
 
 ---
 
-### Statute of Limitations
+### Phantom Ledger Writ — Statute of Limitations
 **[Continuous Trap]**
 
-*Once per turn, during your Main Phase: you can declare 1 card by name in the opponent's GY that was sent there during their previous turn or earlier — the opponent cannot activate that card's effects, use it as Summon material, or use it as a cost until the end of this turn. You can only use this effect of "Statute of Limitations" once per turn. If this card is destroyed while 1 or more Phantom Counters are on the field: Special Summon 1 "Phantom Ledger" monster from your GY.*
+*Once per turn, during your Main Phase: declare 1 card by name in the opponent's Graveyard that was sent there during their previous turn or earlier; until the end of this turn, the opponent cannot activate that card's effects, use it as material for a Summon, or use it as a cost. If this card is destroyed while 1 or more Phantom Counters are on the field: Special Summon 1 "Phantom Ledger" monster from your Graveyard.*
 
-> **Role:** A targeted GY lockout that converts knowledge of the opponent's GY into procedural suppression. Salem declares a specific card by name — a card that entered the GY the previous turn or earlier — and it is sealed for the rest of his turn. Used at the start of his Main Phase before playing into the opponent's GY-based disruptions, this card functions as information-gated counterplay: the longer the game has run and the more Salem knows about what is in the opponent's GY, the more precisely he can target and seal exactly what threatens the current play line.
-
-> **Design note:** The previous version placed Limitation Counters on each card in the opponent's GY every Standby Phase — requiring players to track separate counter states on 8–15 individual GY cards simultaneously, which is physically unmanageable at a real table. The redesign uses the natural game record (which turn a card entered the GY) as the tracking mechanism instead of explicit counters. Both players already know whether a card was sent "this turn" or "an earlier turn" as part of normal gameplay. The once-per-turn cap and the single-target nature of the effect ensure it functions as targeted disruption rather than a board-wide lockout. The self-destruct clause remains.
-
-> **Flavor:** *"Time does not absolve. In this court, all debts remain open indefinitely."*
+> *"Time does not absolve. In this court all debts remain open."*
 
 ---
 
-### Court-Ordered Seizure
+### Phantom Ledger Writ — Court-Ordered Seizure
 **[Normal Trap]**
 
-*Target 1 card the opponent controls: take control of it until the End Phase. If it is a monster, it cannot attack or activate effects this turn. At the End Phase, if the opponent controls no other cards: the seized card is sent to the GY instead of being returned, and you inflict 800 damage.*
+*Target 1 card the opponent controls; take control of it until the End Phase. If it is a monster, it cannot attack or activate its effects this turn. At the End Phase, if the opponent controls no other cards: send the seized card to the Graveyard instead of returning it, and inflict 800 damage.*
 
-> **Role:** Temporary control theft with a conditional permanent seizure. Functions as both a disruption tool (stealing a key monster mid-combo) and a potential finisher (if the board collapses entirely, the asset is retained and converted to damage).
-
-> **Design note:** The "opponent controls no other cards" condition at the End Phase is achievable in the same turn if Evenly Matched or a similar mass removal resolved during the Battle Phase. Sequencing Court-Ordered Seizure to steal a key card, then using Evenly Matched or burn traps to eliminate everything else, results in both permanent seizure and the 800 damage bonus.
-
-> **Flavor:** *"The receiver has been appointed. Your assets are no longer your own."*
+> *"The receiver has been appointed. Your assets are no longer your own."*
 
 ---
 
-### Pain Ledger
+### Phantom Ledger Writ — Pain Ledger
 **[Continuous Trap]**
 
-*When you take damage from a card effect or by battle: place Suffering Counters on this card equal to the damage taken ÷ 500 (rounded down, minimum 1). Once per turn, during your Main Phase: you can remove 3 Suffering Counters from this card; inflict 1500 damage to the opponent and place 1 Phantom Counter on "Infernal Tribunal" if you control it.*
+*When you take damage from a card effect or by battle: place Suffering Counters on this card equal to the damage taken ÷ 500 (rounded down, minimum 1). Once per turn during your Main Phase: you can remove 3 Suffering Counters from this card; inflict 1500 damage to the opponent and place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
 
-> **Role:** The primary mechanical expression of "wounds become resources." Every instance of damage Salem takes — burn, battle, self-inflicted from Ring of Destruction — is recorded as Suffering Counters. Three counters (representing 1500+ damage absorbed) convert into 1500 damage returned plus a Phantom Counter. The exchange is 1:1 on damage and produces engine fuel in the process.
-
-> **Design note:** Every instance of damage Salem takes — burn, battle, self-inflicted — is recorded as Suffering Counters. Three counters convert into 1500 damage returned plus a Phantom Counter, creating a 1:1 damage exchange that also produces engine fuel. Against Sloth Debtor's LP-loss-on-attack effect, every time the opponent targets Sloth, that LP loss feeds Pain Ledger simultaneously. The two cards share a damage-absorption loop that forces the opponent to either ignore both or eliminate both, neither of which is without cost. LP payments made as activation costs — such as Solemn Judgment — do not count as damage and do not place Suffering Counters; only actual damage triggers this card. Sentence Commuted creates a direct strategic tension with Pain Ledger: redirecting incoming damage protects LP but generates no Suffering Counters. Absorbing the hit feeds Pain Ledger but depletes LP and advances Salem toward the Corrupted Receiver threshold. This decision — redirect or absorb — defines how the damage economy is managed each turn.
-
-> **Flavor:** *"Every wound is a receipt. Every receipt is a claim. Every claim will be settled."*
+> *"Every wound is a receipt. Every receipt is a claim. Every claim will be settled."*
 
 ---
 
-### Petition to the Bench
-**[Quick-Play Spell]**
+## FAMILY II — THE OFFICERS
+### *The staff*
 
-*If you control no face-up Spell Cards: add 1 "Infernal Tribunal" from your Deck to your hand, or, if "Infernal Tribunal" is already on your field, add 1 "Phantom Ledger" Continuous Trap from your Deck to your hand instead. You can only activate "Petition to the Bench" once per turn.*
-
-> **Role:** The archetype's dedicated Field Spell accessor. Without a reliable way to reach Infernal Tribunal, the archetype's entire counter economy is conditional on drawing the Field Spell — which is an unacceptable dependency in any format where consistency is the baseline expectation. Petition to the Bench solves this directly: it is a one-card search for the engine's anchor, playable from the hand going first, going second, or in response to the opponent destroying the Field Spell. The secondary mode (searching a Continuous Trap when Infernal Tribunal is already live) converts it into a mid-game extender once the court is established.
-
-> **Design note:** The "no face-up Spell Cards" condition prevents Petition from being chained to itself or stacked with other active Spell Cards in a way that generates momentum beyond its single search. It is a one-time setup tool, not a loop enabler. The secondary mode — available only when Infernal Tribunal is already on the field — gives the card value in the mid-game without making it a generic searcher for any Phantom Ledger card at any time. The condition keeps the card honest: it finds the court's foundation when you need to open proceedings, and finds the court's procedural tools once the foundation is already in place.
-
-> **Flavor:** *"The filing has been submitted. The court will take the matter under advisement."*
+They were rendered from what was in the account. They know they were made. They do not know what from.
 
 ---
 
-### FAMILY II — THE SEVEN SINS
-#### *The Devil's Nature in Monster Form*
-
-The entity that built the Phantom Ledger did not construct it from neutral materials. It built it from the human failures it had spent its entire existence observing. Every monster in this family represents one of the capital vices — not as a cartoon figure of evil, but as a precise mechanical expression of how that sin operates as a dueling strategy. Wrath converts destruction into power. Sloth makes passivity dangerous. Greed scales with the opponent's own resources. Each sin is a clause in the entity's original contract with human weakness, translated into card form.
-
----
-
-### Phantom Ledger — Wrath Arbiter
-**[DARK / Fiend / Level 4 / ATK 1600 / DEF 1000]**
-
-*When this card is Normal Summoned: place 1 Phantom Counter on "Infernal Tribunal" if you control it; if you do not control "Infernal Tribunal", draw 1 card instead. Each time a card the opponent controls is destroyed by a card effect (yours or theirs), up to twice per turn: this card gains 300 ATK until the End Phase. Once per turn: you can remove 1 Phantom Counter from the field; this card can attack directly this turn. You can only use this effect of "Phantom Ledger — Wrath Arbiter" once per turn.*
-
-> **Role:** The archetype's primary offensive monster. ATK scales with up to 2 destruction events per turn — preventing runaway ATK in destruction-loop scenarios while still rewarding a standard removal turn. Its direct attack clause converts counters into a damage threat.
-
-> **Design note:** The ATK gain is capped at twice per turn. Without this cap, a mass-destruction effect clearing five monsters would generate +1500 ATK from a single resolution event, removing the risk-reward calculation from using large board wipes. Capping at +600 per turn maximum keeps the scaling meaningful in normal play. The direct attack clause costs 1 Phantom Counter per use, creating a decision between spending counters offensively versus preserving them for The Final Audit or The Unnamed Creditor.
-
-> **Flavor:** *"He does not lose his temper. He converts it into interest."*
-
----
-
-### Phantom Ledger — Sloth Debtor
-**[DARK / Fiend / Level 3 / ATK 800 / DEF 2200]**
-
-*This card cannot be destroyed by battle. Once per turn, when the opponent declares an attack against this card: they lose LP equal to half the ATK of the attacking monster (before damage calculation). While this card is in Defense Position and 3 or more Phantom Counters are on the field: the opponent cannot activate cards or effects during the Damage Step.*
-
-> **Role:** The passive wall. Punishes attack attempts with LP loss once per turn, and conditionally blocks Damage Step activations when the counter threshold has been reached. Against high-ATK monsters, a single attack attempt costs the opponent 1500+ LP — making it more expensive to eliminate through battle than through removal.
-
-> **Design note:** The LP drain is once per turn, preventing unlimited LP loss in Battle Phases where multiple attacks are forced by third-party effects. The Damage Step lockout requires 3+ Phantom Counters on the field, placing it out of reach in the early game and making it a reward for surviving into the mid-game. This creates a progression: in Turns 1–3, Sloth Debtor is a wall that taxes attacks. From Turn 4 onward, once counters have accumulated, it adds a combat lock on top of the LP drain. The two layers activate at different points in the duel, scaling with Salem's setup rather than being at full power from Turn 1.
-
-> **Flavor:** *"It does nothing. That is precisely the point."*
-
----
-
-### Phantom Ledger — Greed Collector
-**[DARK / Fiend / Level 5 / ATK ? / DEF 1200]**
-
-*Cannot be Normal Summoned or Set. Must be Special Summoned by Tributing 1 "Phantom Ledger" monster you control. When this card is Special Summoned: add 1 "Phantom Ledger" Spell or Trap from your GY to your hand. You can only use this effect of "Phantom Ledger — Greed Collector" once per turn. This card's ATK is equal to the number of cards in the opponent's hand × 500.*
-
-> **Role:** A mid-level monster whose offensive power scales directly with the opponent's hand advantage. Against a 6-card hand: 3000 ATK. Against a 3-card hand: 1500 ATK. This creates a perverse dynamic where the opponent wants to empty their hand to keep this card weak — which is exactly what a control deck wants.
-
-> **Design note:** The GY Spell/Trap recovery on summon makes this card a resource engine on top of its combat role. Tributing a Phantom Notary or another Sin monster still on the field to summon Greed Collector and recover a used Dimensional Barrier is a legitimate mid-game play that costs nothing while generating net advantage.
-
-> **Flavor:** *"The more they hoard, the heavier the interest becomes."*
-
----
-
-### Phantom Ledger — Pride of the Bench
-**[DARK / Fiend / Level 6 / ATK 2400 / DEF 1800]**
-
-*This card cannot be targeted by the opponent's card effects while the opponent controls a monster with higher ATK than this card. Once per turn: you can reveal 1 "Phantom Ledger" card in your hand; this card gains ATK equal to the revealed card's Level × 200 until the End Phase (min. 200). You can only use this effect of "Phantom Ledger — Pride of the Bench" once per turn.*
-
-> **Role:** A self-scaling monster with conditional targeting immunity. Against decks that run large ATK bodies — Dracotail's boss monsters, Yummy's boss — Pride of the Bench cannot be targeted at all, forcing the opponent to use mass removal rather than spot removal.
-
-> **Design note:** The targeting immunity triggering only when the opponent has a bigger monster is deliberate Pride theming — the card refuses to acknowledge threats it considers beneath it, which mechanically means smaller threats can bypass it. This is an intentional weakness that rewards opponents for playing low-ATK aggressive strategies. One specific tension worth noting: the ATK boost from revealing a Phantom Ledger card lasts until the End Phase, and the targeting immunity condition checks the opponent's ATK in real time. If the ATK boost pushes Pride of the Bench above the opponent's largest monster, it loses its own targeting immunity in the same turn it is strongest. This is the correct behavior — Pride that overreaches loses its protection. Players should account for this when deciding whether to use the boost in a given turn or hold it to maintain the immunity.
-
-> **Flavor:** *"He does not acknowledge opponents who have not earned the right to stand before the Bench."*
-
----
-
-### Phantom Ledger — Envy's Hollow Clerk
-**[DARK / Fiend / Level 4 / ATK 1400 / DEF 1000]**
-
-*When this card is Normal Summoned: if you control "Infernal Tribunal", look at the opponent's hand; otherwise, add 1 "Phantom Ledger" Spell Card from your GY to your hand. Once per turn: you can select 1 face-up monster the opponent controls; this card's ATK becomes equal to that monster's current ATK until the End Phase. You can only use this effect of "Phantom Ledger — Envy's Hollow Clerk" once per turn. If this card destroys an opponent's monster by battle: place 1 Phantom Counter on "Infernal Tribunal" if you control it.*
-
-> **Role:** A mimic monster. Copies the ATK of any monster on the opponent's field, effectively becoming as strong as whatever they send to battle. Designed to make the opponent afraid to field powerful monsters — because those monsters are immediately reflected back at them.
-
-> **Design note:** The hand reveal on summon is pure information: Salem sees the opponent's cards. This has no in-game mechanical consequence — it doesn't add, remove, or negate anything — but it allows the player to make perfect decisions for the rest of the turn. In a game where information is a resource, Envy's Hollow Clerk is a spy.
-
-> **Flavor:** *"He does not want what you have. He simply believes it was always meant to be his."*
-
----
-
-### Phantom Ledger — Gluttony's Vault
-**[DARK / Fiend / Level 7 / ATK 2600 / DEF 2000]**
-
-*Cannot be targeted by Spell or Trap effects. This card gains 200 ATK for each card in both players' GYs combined. When this card destroys an opponent's monster by battle: send the top 2 cards of the opponent's Deck to the GY, then place 1 Phantom Counter on "Infernal Tribunal" if you control it.*
-
-> **Role:** A late-game scaling monster that grows as the game accumulates cards in both GYs. In a long duel where both sides have run through 15–20 cards, Gluttony's Vault reaches 5000+ ATK. Its battle destruction effect mills the opponent while feeding their own GY for Evidence of Guilt to process.
-
-> **Design note:** The mill-on-battle-destruction creates a feedback loop: Gluttony destroys a monster, mills 2 cards, those 2 cards go to the GY, Gluttony gains 400 ATK, Evidence of Guilt potentially marks those 2 cards for future burn damage. Each battle becomes a compounding event.
-
-> **Flavor:** *"It consumes everything. The field. The graveyard. Eventually, the opponent themselves."*
-
----
-
-### Phantom Ledger — Lust, the Consuming Appeal
-**[DARK / Fiend / Level 4 / ATK 100 / DEF 2800]**
-
-*This card cannot be destroyed by battle. While this card is in Defense Position: monsters the opponent controls are changed to Attack Position at the start of their Battle Phase, and must attack this card if able. Once per turn, when a monster the opponent controls attacks this card: negate that attack and inflict damage to the opponent equal to that monster's ATK. You can only use this effect of "Phantom Ledger — Lust, the Consuming Appeal" once per turn. If this card is in your GY: you can banish it from your GY; place 2 Phantom Counters on "Infernal Tribunal" if you control it.*
-
-> **Role:** A compulsion monster. Its 100 ATK and 2800 DEF signal that it is not a threat — it looks helpless, easily ignored. But while it is in Defense Position, the opponent's monsters are forced into Attack Position and required to attack it. Every attack attempt is negated and reflected back as damage equal to the attacking monster's own ATK. It does not need to be strong. It needs to be impossible to ignore.
-
-> **Design note:** The sin of Lust maps precisely to compulsion — desire that draws something toward itself and punishes proximity. The 100/2800 stat spread is intentional: it signals harmlessness and invites contempt. A player who looks at a 100/2800 Fiend and commits to attacking it has already begun to fall into the mechanic. The card does not force the attack in the traditional sense — it creates conditions where removing it appears rational, then punishes every attempt at contact.
-
-> **Flavor:** *"It does not pursue. It simply waits, and draws everything toward it."*
-
----
-
-### FAMILY III — THE INFERNAL INSTRUMENTS
-#### *Deception, Lies, and Manipulation*
-
-The devil operates through language. Every tool he has ever used — contracts, promises, testimonies, oaths — is ultimately a distortion of something true. The Infernal Instruments are the spell cards of the Phantom Ledger, and each one is built on a lie: a promise that costs the opponent more than they were told, a copy that takes what belongs to someone else, an oath that turns disclosure into punishment. Salem despises these cards. He uses them anyway, because they work.
-
----
-
-### Forged Testament
-**[Quick-Play Spell]**
-
-*Target 1 Spell or Trap in the opponent's GY: apply its effect as if you had activated it, using any costs or requirements as written. You cannot activate cards or effects with the same name as the targeted card for the rest of this turn. You can only activate "Forged Testament" once per turn.*
-
-> **Role:** A direct theft of the opponent's best used resources. After the opponent resolves Evenly Matched, Branded Fusion, or any other high-value Spell/Trap — Forged Testament copies it. The self-imposed name restriction prevents looping.
-
-> **Design note:** The requirement to apply the effect "as written, including costs" means Forged Testament copying Branded Fusion still requires discarding a Branded or Albaz card as cost. If Salem cannot meet the original cost, the effect still resolves but produces nothing. This creates strategic depth: knowing which cards are safely copyable vs. which require resources you don't have.
-
-> **Flavor:** *"A signature is just a shape. Anyone can learn to copy a shape."*
-
----
-
-### False Promise
-**[Quick-Play Spell]**
-
-*The opponent draws 1 card. Then look at the opponent's entire hand and choose 1 card from it; discard that card. If a "Phantom Ledger" monster is on the field when this card resolves: place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only activate "False Promise" once per turn.*
-
-> **Role:** A precise hand disruption card. The opponent draws first — giving them the illusion of advantage — then Salem removes the most dangerous card from their hand. This mirrors the entity's own methodology: offer something, take more back.
-
-> **Design note:** The draw-before-discard sequencing means Salem always sees the freshest version of the opponent's hand, including whatever they just drew. This makes False Promise most potent when activated before the opponent's Main Phase begins — seeing the full hand before they start their plays allows Salem to remove the most critical piece preemptively rather than reacting to what has already resolved.
-
-> **Flavor:** *"He offered them exactly what they asked for. The problem was what they forgot to ask."*
-
----
-
-### Perjured Oath
-**[Continuous Spell]**
-
-*Each time the opponent adds a card from their Deck to their hand by a card effect: they must immediately reveal it. For each card revealed this way, inflict 300 damage to the opponent. This effect can trigger multiple times per turn.*
-
-> **Role:** Tax on searching. Every search the opponent makes costs 300 LP and reveals the card drawn. Against Dracotail (which searches extensively), this inflicts 900–1500 damage per turn passively while stripping away the opponent's hidden information advantage.
-
-> **Design note:** The 300 damage per search is not enough to win on its own, but it stacks with Administrative Penalty and Pain Ledger payoffs. If the opponent searches 3 cards in a turn (900 LP lost) and Administrative Penalty fires once (500 × GY count), a single turn produces 1400+ damage from two passive sources with no active investment beyond having both cards on the field. Perjured Oath is the background radiation that makes the opponent bleed between the archetype's more dramatic moments.
-
-> **Flavor:** *"Everything you say will be recorded. Everything you draw will be disclosed."*
-
----
-
-### Devil's Advocate
-**[Equip Spell]**
-
-*Equip to 1 monster the opponent controls. You take control of that monster, but it loses 500 ATK. The equipped monster cannot attack directly. When this Equip Card leaves the field for any reason: return the equipped monster to the opponent's side of the field, then inflict 800 damage to the opponent.*
-
-> **Role:** A temporary control theft that punishes its own removal. Whether the opponent destroys Devil's Advocate, Salem uses a replacement, or the card simply leaves — the opponent takes 800 damage and gets their monster back weaker and battle-phase-spent.
-
-> **Design note:** The 500 ATK reduction while in Salem's control means the monster becomes a defensive shield rather than an attacker. Using a stolen 3000 ATK boss monster as a 2500 ATK wall for one turn while also blocking the opponent's attack option is a legitimate use case. When the advocate leaves, the 800 damage is paid whether the opponent wanted it or not.
-
-> **Flavor:** *"He argued the case so convincingly even the defendant believed it was their own idea."*
-
----
-
-### Sentence Commuted
-**[Quick-Play Spell]**
-
-*When you would take damage: you take 0 damage instead, and your opponent takes damage equal to the amount you would have taken. You can activate this card from your hand during the opponent's turn. You can only activate "Sentence Commuted" once per turn.*
-
-> **Role:** The spell-form version of the Masochist identity. Redirects any incoming damage — battle damage, burn damage, even self-inflicted damage from Ring of Destruction — to the opponent instead. Fully covers the Barrel Behind the Door role while being activatable from the hand at any time.
-
-> **Design note:** The once-per-turn limit prevents it from becoming an invulnerability shield in turns where multiple damage sources fire. Its most important interaction is with Infernal Debt: when Sentence Commuted is active, the self-damage from Infernal Debt hits the opponent instead — Salem takes 0, Pain Ledger gets no Suffering Counters, but the opponent absorbs the removal cost while their monster is simultaneously destroyed. This creates a genuine decision each time Infernal Debt is activated: absorb the self-damage to feed Pain Ledger, or redirect it via Sentence Commuted to protect LP at the cost of the counter generation.
-
-> **Flavor:** *"Appealed. Reversed. The sentence stands — just not for him."*
-
----
-
-### Infernal Debt
-**[Quick-Play Spell]**
-
-*Inflict damage to yourself equal to half the ATK of 1 face-up monster the opponent controls (minimum 500), then destroy that monster. Place Phantom Counters on "Infernal Tribunal" equal to the damage inflicted to yourself ÷ 500 (rounded down). You can only activate "Infernal Debt" once per turn.*
-
-> **Role:** A removal effect where the cost of execution is self-inflicted damage — not an LP payment, but actual damage Salem absorbs to execute a judgment. The self-damage scales with the threat: destroying a 1000 ATK monster deals 500 to Salem and generates 1 Phantom Counter; destroying a 3000 ATK monster deals 1500 to Salem and generates 3 Phantom Counters. Because it is damage rather than an LP payment, it feeds Pain Ledger: activating Infernal Debt against a 3000 ATK target immediately places 3 Suffering Counters on Pain Ledger in addition to the 3 Phantom Counters generated.
-
-> **Design note:** The distinction between "pay LP" and "inflict damage to yourself" is mechanically critical. LP costs paid as activation costs are not damage — they do not trigger "when you take damage" effects. Writing the cost as self-inflicted damage integrates Infernal Debt fully into the corruption system: every use feeds Pain Ledger, advances Salem toward the Corrupted Receiver threshold, and contributes to Wounded Authority's activation window. The three damage-integrated mechanics form a consistent loop. Secondary interaction: if Sentence Commuted is active, the opponent absorbs the self-damage instead — Salem takes 0, Pain Ledger gets no counters, but the opponent takes the removal damage while their monster is destroyed. This creates a real decision each time Infernal Debt is activated.
-
-> **Flavor:** *"The cost of enforcement is always paid. The question is only who pays it."*
-
----
-
-### FAMILY IV — THE PROCEDURAL TRAPS
-#### *Legal Process as Duel Mechanics*
-
-Salem's career was built on procedures. Insolvency administration is not a dramatic field — it is a sequence of precisely executed steps: the filing, the hearing, the order, the seizure, the judgment. These traps are those steps rendered into card form. Each one represents a stage in a legal proceeding that the opponent cannot simply choose not to participate in. The duel has become a lawsuit. They are the defendant. These cards are the paperwork.
-
----
-
-### Subpoena
-**[Normal Trap]**
-
-*Reveal the opponent's entire hand. Choose 1 card in their hand; banish it face-down. The opponent draws 1 card. Place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only activate "Subpoena" once per turn.*
-
-> **Role:** Forced disclosure followed by judicial seizure. Salem sees the entire hand, removes the most dangerous element from play entirely, and the opponent draws a replacement they did not choose. The seized card is banished face-down — not destroyed, not discarded, not returned. It ceases to be part of the game from the moment the writ is served. This is the legal reality of a subpoena: compelled appearance, with whatever is presented becoming subject to the court's authority.
-
-> **Design note:** The previous version added the chosen card to Salem's hand, creating the "hand rip" pattern — seeing the hand and taking the best card — which is one of the most competitively toxic mechanics in the game. It generates two simultaneous advantages (information + card quality) while the opponent draws blind. The redesign replaces this with banishment: Salem does not keep what he seizes, he removes it from the proceeding entirely. This maintains the disclosure-then-seizure identity without the card economy swing that makes hand rip unacceptable. The opponent's hand size stays the same (see card, banish 1, draw 1), but the quality of their remaining hand has been surgically degraded and a key piece has been permanently excised from the duel.
-
-> **Flavor:** *"You are compelled to appear. You are compelled to disclose. What the court finds relevant, the court removes from circulation."*
-
----
-
-### Default Judgment
-**[Normal Trap]**
-
-*If the opponent controls no monsters: inflict 3000 damage to the opponent. If "The Contract" is face-up on the field when this card resolves: the opponent cannot activate cards or effects in response to this card's activation.*
-
-> **Role:** A conditional direct damage card that deals 3000 — potentially lethal when combined with prior burn accumulation. Requires a boardless opponent. The most natural sequencing: Court-Ordered Seizure strips the opponent's last monster at End Phase, leaving the field clear; Default Judgment fires the following turn. With The Contract active, the activation cannot be responded to, closing off the opponent's final interaction window before the damage resolves.
-
-> **Design note:** The Contract's presence making this card chain-proof is the critical synergy. Default Judgment hitting for 3000 damage with no opponent response available is a hard-close scenario. The Contract must already be face-up, meaning the setup costs two cards. The sequencing: Court-Ordered Seizure strips the opponent's key remaining monster to the GY at End Phase, leaving the field clear; Default Judgment fires the following turn into an empty board.
-
-> **Flavor:** *"They did not appear. They did not respond. The court finds in favor of the plaintiff. Always."*
-
----
-
-### Cease and Desist
-**[Counter Trap]**
-
-*When the opponent activates a card or effect during their Main Phase 1: negate that activation and destroy it. After this card resolves, the opponent's Main Phase 2 is skipped this turn. Place 1 Phantom Counter on "Infernal Tribunal" if you control it.*
-
-> **Role:** A negate that doubles as a phase removal tool. It answers an individual card activation and then eliminates the opponent's secondary setup window entirely. Activated mid-combo in Main Phase 1, it negates the specific effect and ensures there is no Main Phase 2 to recover in — the opponent proceeds directly from Battle Phase to End Phase with whatever was already on the field before this card resolved.
-
-> **Design note:** The card must be a Counter Trap for the "negate that activation" effect to function correctly. Only Counter Traps can negate card activations on the chain — a Normal Trap resolves after the chain is complete, meaning the targeted effect has already resolved and cannot be retroactively negated. As a Counter Trap, Cease and Desist operates on the same chain link as the opponent's effect, negating it before it resolves. The Main Phase 2 skip fires separately after the chain is complete, which is standard for post-resolution rider effects. The practical result: the opponent uses a combo extender in Main Phase 1, this negates it and removes their recovery window, leaving them in Battle Phase with a partial board where Evenly Matched can finish the turn cleanly.
-
-> **Flavor:** *"Operations are suspended by order of the Receiver. Effective immediately. No appeals."*
-
----
-
-### Motion to Suppress
-**[Counter Trap]**
-
-*When the opponent activates a card or effect from their GY: negate that activation and shuffle it into the Deck. The opponent cannot activate cards or effects from their GY for the rest of this turn.*
-
-> **Role:** A GY-targeted Counter Trap. Negates and shuffles any GY activation — Branded Albaz, Unchained GY recursion, Transaction Rollback, Tri-Brigade revival — and locks the GY for the rest of the turn.
-
-> **Design note:** Against GY-centric engines, this is stronger than Solemn Strike. Against GY-light strategies, it is a dead card. The temporary GY lock following the negate is the key feature — if the opponent chains multiple GY effects in sequence, only the first is negated, but all subsequent GY activations are blocked for the turn. This punishes chains that depend on GY access mid-resolution.
-
-> **Flavor:** *"The evidence has been ruled inadmissible. The record is sealed."*
-
----
-
-### Administrative Penalty
-**[Normal Trap]**
-
-*When the opponent activates a card or effect: before that effect resolves, inflict 500 damage to the opponent for each "Phantom Ledger" card that is currently face-up on your field or in your GY. Then place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only activate "Administrative Penalty" once per turn.*
-
-> **Role:** A burn trap that scales with Salem's established resources. Early game, it inflicts modest damage. Mid-to-late game, with 6–8 Phantom Ledger cards present or spent across field and GY, this triggers for 3000–4000 damage from a single card activation.
-
-> **Design note:** Unlike Evidence of Guilt (which scales with the opponent's GY activity) and Pain Ledger (which scales with damage Salem absorbs), Administrative Penalty scales with Salem's own established presence — rewarding consistency in building the engine. At 8 Phantom Ledger cards across field/GY: 4000 damage from one trap activation. This is the single highest-ceiling burn card in the archetype, and the one that most rewards the long game.
-
-> **Flavor:** *"Administrative penalties apply. Late fees are non-negotiable."*
-
----
-
-### Wounded Authority
-**[Normal Trap]**
-
-*Can only be activated if you took damage this turn. Negate the effects of all face-up monsters the opponent controls until the End Phase. Then place 2 Phantom Counters on "Infernal Tribunal" if you control it. You can only activate "Wounded Authority" once per turn.*
-
-> **Role:** Dark Ruler No More from the trap zone, gated behind having taken damage. The activation condition flips the opponent's own offensive pressure against them: every successful hit they land creates the window for this card to fire. Against strategies that try to burn or battle through Salem's defenses before he stabilizes, Wounded Authority reliably converts that damage into a full board negate and counter generation simultaneously.
-
-> **Design note:** The activation condition requires Salem to have taken damage this turn — it cannot fire in a clean game state. The damage condition is broad: battle damage, effect damage, and self-inflicted damage from Infernal Debt or Ring of Destruction all qualify. This means the card has a wide practical activation window while remaining narratively precise: Salem's authority over the proceeding is sharpest immediately after he has been struck. The 2 Phantom Counter generation on top of the board negate means it contributes to The Final Audit threshold even in turns where survival was the primary goal.
-
-> **Flavor:** *"He does not require mercy. He requires an opportunity."*
-
----
-
-### FAMILY V — THE INFERNAL HIERARCHY
-#### *Named Characters of the Phantom Court*
-
-Salem is not alone in his position. The infernal court that governs his pact has its own structure — a hierarchy of entities whose existence is reflected in the deck. These are not abstract concepts. They are specific figures: the executors, the witnesses, the enforcers, and the one who authored everything. Each has a name. Each has a role in the proceeding. And each, in its own way, is watching Salem to ensure the contract is fulfilled.
-
----
-
-### The Phantom Notary
+### Phantom Ledger Officer — Notary
 **[DARK / Fiend / Level 3 / ATK 900 / DEF 1400]**
 
-*When this card is Normal Summoned: place 1 Phantom Counter on "Infernal Tribunal" if you control it, then discard 1 card; add 1 "Phantom Ledger" card from your Deck to your hand. You can only use this effect of "The Phantom Notary" once per turn. When this card is destroyed by the opponent's effect and sent to the GY: place 2 Phantom Counters on "Infernal Tribunal" if you control it.*
+*When this card is Normal Summoned: place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it, then discard 1 card; add 1 "Phantom Ledger" card from your Deck to your hand. You can only use this effect of "Phantom Ledger Officer — Notary" once per turn. When this card is destroyed by an opponent's card effect and sent to the Graveyard: place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it.*
 
-> **Role:** The primary searcher. Searches any Phantom Ledger card on Normal Summon at the cost of a discard — most critically, Infernal Tribunal itself, which is the engine's anchor and the card the archetype needs most consistently in the opening hand. Without the Field Spell, Phantom Counters do not accumulate and every other archetype card loses its strongest secondary effects. The Notary is how the court opens its doors. It places 1 counter on summon and places 2 more if destroyed by the opponent, making it dangerous to remove.
+**In the domain:** Court clerk. Documents everything and speaks only to record. It is the most attentive figure in the room, and removing it is the single least profitable thing an opponent can do.
 
-> **Design note:** The discard cost ensures the search is not a free plus — Salem trades one card from his hand for a specific Phantom Ledger card from the deck, netting a quality upgrade rather than raw card advantage. Hard OPT prevents multiple Notary copies from all searching in the same turn. The counter generation on destruction remains cost-free since it is a punishment trigger: destroying the Notary is not profitable for the opponent, which is the point.
-
-> **Flavor:** *"He witnesses everything. He speaks of nothing. The record speaks for him."*
+> *"He witnesses everything. He speaks of nothing. The record speaks for him."*
 
 ---
 
-### The Corrupted Bailiff
+### Phantom Ledger Officer — Bailiff
 **[DARK / Fiend / Level 5 / ATK 2100 / DEF 1600]**
 
-*Can be Special Summoned from your hand by Tributing 1 "Phantom Ledger" monster you control. Once per turn, during the Damage Step (Quick Effect): you can remove 2 Phantom Counters from the field; negate the activation of 1 card or effect. You can only use this effect of "The Corrupted Bailiff" once per turn. Once per turn: you can remove 2 Phantom Counters from the field; the opponent cannot Set cards to their Spell/Trap Zone until the end of their next turn. You can only use this effect of "The Corrupted Bailiff" once per turn. When this card is destroyed by the opponent's effect: place 2 Phantom Counters on "Infernal Tribunal" if you control it.*
+*Can be Special Summoned from your hand by Tributing 1 "Phantom Ledger" monster you control. Once per turn during the Damage Step (Quick Effect): you can remove 2 Phantom Counters from the field; negate the activation of 1 card or effect. Once per turn: you can remove 2 Phantom Counters from the field; the opponent cannot Set cards to their Spell & Trap Zone until the end of their next turn. When this card is destroyed by an opponent's card effect: place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it.*
 
-> **Role:** A Special Summon-accessible disruption monster that pays for itself on destruction. The Damage Step negate is an active Quick Effect costing 2 Phantom Counters — it is not a passive floodgate but a decision Salem must make each time, with a real resource expenditure. Both effects are gated behind counter availability: powerful in the mid-to-late game when counters have accumulated, weak in the early game when they have not. This scales correctly with Salem's long-game identity. Salem must also weigh spending counters on the Bailiff's negate versus preserving them for The Final Audit threshold or summoning The Unnamed Creditor — this is the same counter economy decision the archetype creates throughout.
+**In the domain:** Court officer. Enforces by intervention — when it spends the court's counters to negate, it is physically stepping between the proceeding and a disruption, at a cost Salem has chosen to authorise.
 
-> **Flavor:** *"Order in the court. His court. There is no other kind."*
+> *"Order in the court. His court. There is no other kind."*
 
 ---
 
-### The Hollow Witness
+### Phantom Ledger Officer — Hollow Witness
 **[DARK / Fiend / Level 4 / ATK 1100 / DEF 1900]**
 
-*When this card is Normal or Special Summoned: banish 1 monster from the opponent's GY and place 1 Witness Counter on this card. You can only place 1 Witness Counter on this card per Duel. Once per turn: you can remove the Witness Counter from this card; apply the effect of the banished monster as an optional Quick Effect, provided that effect has no activation cost and does not require a specific game event (such as a Summon, battle, or card being sent to the GY) to be currently occurring. You can only use this effect of "The Hollow Witness" once per turn. When this card is destroyed: inflict 800 damage to the opponent if it had a Witness Counter on it.*
+*When this card is Normal or Special Summoned: banish 1 monster from the opponent's Graveyard and place 1 Witness Counter on this card. You can only place 1 Witness Counter on this card per Duel. Once per turn: you can remove the Witness Counter from this card; apply the effect of the banished monster as a Quick Effect, provided that effect has no activation cost and does not require a specific game event to be occurring. When this card is destroyed: if it had a Witness Counter on it, inflict 800 damage to the opponent.*
 
-> **Role:** A GY parasite that steals one capability from the opponent's spent resources and holds it for a single use. The Witness Counter is a one-time asset — it can be spent immediately or saved for the moment its effect is most devastating. On destruction before the counter is spent, it converts directly into flat damage instead. The card's power is focused: one stolen effect, used once, with the timing entirely in Salem's control.
+**In the domain:** Expert witness. Called once, holds its testimony in reserve, and releases it at the moment of maximum consequence. Destroying it before it speaks does not remove what it knows.
 
-> **Design note:** The previous version allowed up to 3 banishes on a single summon, meaning one Hollow Witness could generate advantage across 3 consecutive turns while paying zero additional resource. Capping at 1 Witness Counter per Duel removes the multi-turn free advantage loop while preserving the card's identity as a thief of the opponent's own tools. The destruction payoff was adjusted from 400 per counter to a flat 800, keeping the damage ceiling the same as the previous maximum of two counters while removing the scaling that invited stacking.
-
-> **Flavor:** *"It says nothing. It only remembers."*
+> *"It says nothing. It only remembers."*
 
 ---
 
-### Salem, Infernal Receiver
+## FAMILY III — THE VICES
+### *The account, given form*
+
+The Creditor had no material to build with except what it had collected. Each of the seven is one of the ways a person can be induced to spend themselves, rendered as a strategy rather than a figure.
+
+---
+
+### Phantom Ledger Vice — Wrath
+**[DARK / Fiend / Level 4 / ATK 1600 / DEF 1000]**
+
+*When this card is Normal Summoned: place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it; if you control no "Phantom Ledger — Infernal Tribunal", draw 1 card instead. Each time a card the opponent controls is destroyed by a card effect, up to twice per turn: this card gains 300 ATK until the End Phase. Once per turn: you can remove 1 Phantom Counter from the field; this card can attack directly this turn.*
+
+> *"He does not lose his temper. He converts it into interest."*
+
+---
+
+### Phantom Ledger Vice — Sloth
+**[DARK / Fiend / Level 3 / ATK 800 / DEF 2200]**
+
+*This card cannot be destroyed by battle. Once per turn, when the opponent declares an attack: they lose Life Points equal to half the ATK of the attacking monster, before damage calculation. While this card is in Defense Position and 3 or more Phantom Counters are on the field: the opponent cannot activate cards or effects during the Damage Step.*
+
+> *"It does nothing. That is precisely the point."*
+
+---
+
+### Phantom Ledger Vice — Greed
+**[DARK / Fiend / Level 5 / ATK ? / DEF 1200]**
+
+*Cannot be Normal Summoned or Set. Must be Special Summoned by Tributing 1 "Phantom Ledger" monster you control. When this card is Special Summoned: add 1 "Phantom Ledger" Spell or Trap from your Graveyard to your hand. This card's ATK is equal to the number of cards in the opponent's hand × 500.*
+
+> *"The more they hoard, the heavier the interest becomes."*
+
+---
+
+### Phantom Ledger Vice — Pride
+**[DARK / Fiend / Level 6 / ATK 2400 / DEF 1800]**
+
+*This card cannot be targeted by the opponent's card effects while the opponent controls a monster with higher ATK than this card. Once per turn: you can reveal 1 "Phantom Ledger" card in your hand; this card gains ATK equal to the revealed card's Level × 200 until the End Phase (minimum 200).*
+
+**In the domain:** Senior advocate. It will not acknowledge a threat it considers beneath it, which means smaller threats walk past it, and which means that the moment it becomes the strongest thing on the field it stops being protected.
+
+> *"He does not acknowledge opponents who have not earned the right to stand before the Bench."*
+
+---
+
+### Phantom Ledger Vice — Envy
+**[DARK / Fiend / Level 4 / ATK 1400 / DEF 1000]**
+
+*When this card is Normal Summoned: if you control "Phantom Ledger — Infernal Tribunal", look at the opponent's hand; otherwise, add 1 "Phantom Ledger" Spell from your Graveyard to your hand. Once per turn: you can select 1 face-up monster the opponent controls; this card's ATK becomes equal to that monster's current ATK until the End Phase. If this card destroys an opponent's monster by battle: place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+
+> *"He does not want what you have. He simply believes it was always meant to be his."*
+
+---
+
+### Phantom Ledger Vice — Gluttony
+**[DARK / Fiend / Level 7 / ATK 2600 / DEF 2000]**
+
+*Cannot be targeted by Spell or Trap effects. This card gains 200 ATK for each card in both players' Graveyards, up to a maximum of 2000. When this card destroys an opponent's monster by battle: send the top 2 cards of the opponent's Deck to the Graveyard, then place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+
+> *"It consumes everything. The field. The ledger. Eventually the defendant."*
+
+---
+
+### Phantom Ledger Vice — Lust
+**[DARK / Fiend / Level 4 / ATK 100 / DEF 2800]**
+
+*This card cannot be destroyed by battle. While this card is in Defense Position: each monster the opponent controls must attack this card if able. Once per turn, when a monster the opponent controls attacks this card: negate that attack and inflict damage to the opponent equal to that monster's ATK. If this card is in your Graveyard: you can banish it; place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it.*
+
+> *"It does not pursue. It waits, and draws everything toward it."*
+
+---
+
+## FAMILY IV — THE INSTRUMENTS
+### *Salem despises these cards and uses them anyway*
+
+---
+
+### Phantom Ledger Filing — Forged Testament
+**[Quick-Play Spell]**
+
+*Target 1 Spell or Trap in the opponent's Graveyard; apply its effect as if you had activated it, paying any costs and meeting any requirements as written. You cannot activate cards or effects with the same name as the targeted card for the rest of this turn.*
+
+> *"A signature is just a shape. Anyone can learn to copy a shape."*
+
+---
+
+### Phantom Ledger Filing — False Promise
+**[Quick-Play Spell]**
+
+*The opponent draws 1 card. Then look at their entire hand and choose 1 card in it; discard that card. If you control a "Phantom Ledger" monster when this card resolves: place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+
+> *"He offered them exactly what they asked for. The problem was what they forgot to ask."*
+
+---
+
+### Phantom Ledger Filing — Perjured Oath
+**[Continuous Spell]**
+
+*Each time the opponent adds a card from their Deck to their hand by a card effect, they must immediately reveal it. For each card revealed this way, inflict 300 damage to the opponent.*
+
+> *"Everything you say is recorded. Everything you draw is disclosed."*
+
+---
+
+### Phantom Ledger Filing — Devil's Advocate
+**[Equip Spell]**
+
+*Equip to 1 monster the opponent controls; take control of it, but it loses 500 ATK and cannot attack directly. When this card leaves the field for any reason: return the equipped monster to the opponent's side of the field, then inflict 800 damage to the opponent.*
+
+> *"He argued the case so convincingly that even the defendant believed it was their own idea."*
+
+---
+
+### Phantom Ledger Filing — Sentence Commuted
+**[Quick-Play Spell]**
+
+*When you would take damage: you take 0 damage instead and the opponent takes damage equal to the amount you would have taken. You can activate this card from your hand during the opponent's turn. You can only activate "Phantom Ledger Filing — Sentence Commuted" once per turn.*
+
+> *"Appealed. Reversed. The sentence stands — just not for him."*
+
+---
+
+### Phantom Ledger Filing — Infernal Debt
+**[Quick-Play Spell]**
+
+*Inflict damage to yourself equal to half the ATK of 1 face-up monster the opponent controls (minimum 500), then destroy that monster. Place Phantom Counters on "Phantom Ledger — Infernal Tribunal" equal to the damage inflicted to yourself ÷ 500 (rounded down) if you control it.*
+
+The cost is written as damage rather than as payment. That is not an oversight in the drafting. Damage is a thing that happens to a party; payment is a thing a party elects. The instrument is precise about which of the two Salem is.
+
+> *"The cost of enforcement is always paid. The question is only who pays it."*
+
+---
+
+## FAMILY V — PROCEDURE
+### *The steps of a proceeding the defendant cannot decline to participate in*
+
+---
+
+### Phantom Ledger Writ — Subpoena
+**[Normal Trap]**
+
+*Reveal the opponent's entire hand, choose 1 card in it and banish it face-down, then the opponent draws 1 card. Place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+
+> *"You are compelled to appear. You are compelled to disclose. What the court finds relevant, the court removes from circulation."*
+
+---
+
+### Phantom Ledger Writ — Default Judgment
+**[Normal Trap]**
+
+*If the opponent controls no monsters: inflict 3000 damage to the opponent. If "Phantom Ledger — The Contract" is face-up on the field when this card resolves, the opponent cannot activate cards or effects in response to this card's activation.*
+
+> *"They did not appear. They did not respond. The court finds for the plaintiff. Always."*
+
+---
+
+### Phantom Ledger Writ — Cease and Desist
+**[Counter Trap]**
+
+*When the opponent activates a card or effect during their Main Phase 1: negate that activation and destroy it. After this card resolves, skip the opponent's Main Phase 2 this turn. Place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+
+> *"Operations are suspended by order of the Receiver. Effective immediately. No appeals."*
+
+---
+
+### Phantom Ledger Writ — Motion to Suppress
+**[Counter Trap]**
+
+*When the opponent activates a card or effect in their Graveyard: negate that activation and shuffle that card into the Deck. For the rest of this turn, the opponent cannot activate cards or effects in their Graveyard.*
+
+> *"The evidence has been ruled inadmissible. The record is sealed."*
+
+---
+
+### Phantom Ledger Writ — Administrative Penalty
+**[Normal Trap]**
+
+*When the opponent activates a card or effect: before that effect resolves, inflict 400 damage to the opponent for each "Phantom Ledger" card face-up on your field or in your Graveyard, up to a maximum of 3200. Then place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+
+> *"Administrative penalties apply. Late fees are non-negotiable."*
+
+---
+
+### Phantom Ledger Writ — Wounded Authority
+**[Normal Trap]**
+
+*Can only be activated if you took damage this turn. Negate the effects of all face-up monsters the opponent controls until the End Phase, then place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it.*
+
+> *"He does not require mercy. He requires an opportunity."*
+
+---
+
+## FAMILY VI — THE BENCH
+
+---
+
+### Phantom Ledger — Salem, the Receiver
 **[DARK / Fiend / Level 7 / ATK 2500 / DEF 2000]**
 
-*Cannot be Normal Summoned or Set. Must be Special Summoned by having "The Contract" face-up on the field, OR by Tributing 2 "Phantom Ledger" monsters you control. While "Infernal Tribunal" is face-up on the field, this card cannot be targeted by the opponent's card effects. Once per turn (Quick Effect): you can place 2 Phantom Counters on "Infernal Tribunal"; negate the effects of 1 face-up card the opponent controls until the End Phase. You can only use this effect of "Salem, Infernal Receiver" once per turn. When this card destroys an opponent's monster by battle: inflict damage equal to that monster's original DEF.*
+*Cannot be Normal Summoned or Set. Must be Special Summoned by having "Phantom Ledger — The Contract" face-up on the field, or by Tributing 2 "Phantom Ledger" monsters you control. While "Phantom Ledger — Infernal Tribunal" is face-up on the field, this card cannot be targeted by the opponent's card effects. Once per turn (Quick Effect): you can place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal"; negate the effects of 1 face-up card the opponent controls until the End Phase. When this card destroys an opponent's monster by battle: inflict damage equal to that monster's original DEF.*
 
-> **Role:** The player character as a card. Salem on the field represents the moment the duel has become fully his domain — The Contract active, Tribunal generating counters, and Salem himself present to execute judgment. His DEF-damage effect represents the administrative mindset: it is not the face value of assets that matters, but their backing — the DEF that was holding them up.
+**The bench.** It is not the face value of an asset that decides a receivership. It is the backing — what was actually holding it up. The card takes its damage from DEF for that reason.
 
-> **Flavor:** *"He did not become a collector of debts. He became a debt that collects."*
+> *"He did not become a collector of debts. He became a debt that collects."*
 
 ---
 
-### Salem, Corrupted Receiver
-**[DARK / Fiend / Level 9 / ATK ? / DEF 2500]**
+### Phantom Ledger — Salem Encumbered
+**[DARK / Fiend / Level 9 / ATK 2800 / DEF 2500]**
 
-*Cannot be Normal Summoned or Set. Can be Special Summoned from your hand when your LP are 2000 or less. You can only Special Summon this card from the GY once per Duel. This card's ATK is equal to the difference between your starting LP (8000) and your current LP. While this card is on the field: once per turn, when you take damage, halve that damage, then inflict damage to the opponent equal to the halved amount. When this card is destroyed: place Phantom Counters on "Infernal Tribunal" equal to this card's current ATK ÷ 1000 (rounded up).*
+*Cannot be Normal Summoned or Set. Can be Special Summoned from your hand while your Life Points are 3000 or less. You can only Special Summon this card from your Graveyard once per Duel. This card gains 200 ATK for each "Phantom Ledger" card in your Graveyard, up to a maximum of 1600. Once per turn, when you take damage: halve that damage, then inflict damage to the opponent equal to the halved amount. When this card is destroyed: place Phantom Counters on "Phantom Ledger — Infernal Tribunal" equal to this card's Level ÷ 3 (rounded down) if you control it.*
 
-> **Role:** The form Salem takes when the pact has nearly consumed him. At 2000 LP or below — the critical threshold — the corruption has done enough damage to force a transformation. A Salem at 800 LP has lost 7200 from a standard 8000 starting LP: this card enters at 7200 ATK. It is not a card you build toward under normal play. It is a card that arrives when the situation demands it. Its damage-halving and reflecting while on field turns every subsequent hit into a bilateral exchange: the opponent deals 1000 damage, Salem takes 500, they take 500 back.
+**The half he set aside.** As the weighing advanced, Salem used the only power the pact had actually given him — the capacity to render intent through cards — and partitioned himself: the portion already marked by the encumbrance became a vessel, and the vessel now absorbs what would otherwise reach him. The scale at its throat is fixed at the bottom of its travel and has been since the moment of the split. It was separated from the side of him that still has somewhere to fall.
 
-> **Design note:** The GY resurrection is once per Duel. This prevents an indefinite recursion loop at 6000+ ATK with targeting immunity from Infernal Tribunal and damage reflection — a combination with no natural off-switch. The once-per-Duel restriction preserves the narrative function without enabling infinite comeback. The hand summon carries no per-Duel restriction since LP dropping to 2000 is already a severe condition. The three damage-integrated cards form a functioning system: self-damage from Infernal Debt feeds Pain Ledger and accelerates the LP drain toward the threshold; when the threshold is crossed, Corrupted Receiver arrives; once on field, damage reflection makes further hits bilateral.
+The Creditor permitted it without comment. It permits everything that looks like a survivable act of defiance, because a thing divided in two is still, at the close of the account, one entry.
 
-> **Narrative origin — The Split Soul:** Salem, Corrupted Receiver does not represent Salem losing control. It represents a deliberate act of survival engineering that Salem performed as he began to understand what the infernal pact was doing to him. Using the same supernatural duelist's power the pact granted him — the ability to channel intent through cards — Salem transferred half of his own soul into this card, creating a vessel. The card exists to absorb corruption in his place. Every defeat that would corrupt Salem's body and mind further is partially diverted: the pact's punishment strikes the card instead of him. The Corrupted Receiver is the half of Salem that has been taking the infernal damage for him — accumulating the wounds, the demonic alterations, the madness. Every time it is summoned, it carries the visible mark of everything Salem should have become by now. The scale at its throat is fixed at the left in every summoning — it was separated from the human side when Salem made the split. He does not speak to it during a duel. He does not look at it any longer than necessary. The card, for its part, executes its function with the same professional precision that Salem uses for everything. It reflects damage back to the opponent because that is what suffering, properly administered, should always do.
+He does not speak to it during a proceeding. He does not look at it longer than the ruling requires.
 
-> **Flavor:** *"He is not losing. He is transforming."*
+> *"He is not losing. He is being carried."*
 
 ---
 
 ### The Unnamed Creditor
 **[DARK / Fiend / Level 10 / ATK 3300 / DEF 2800]**
 
-*Cannot be Normal Summoned or Set. Must be Special Summoned by removing 10 Phantom Counters from anywhere on the field. This card cannot be targeted by the opponent's card effects, and its effects cannot be negated. Once per turn: you can target 1 card the opponent controls; banish it. You can only use this effect of "The Unnamed Creditor" once per turn. When this card is destroyed by any means: place 5 Phantom Counters on "Infernal Tribunal" if you control it, and add 1 "The Contract" from your Deck or GY to your hand.*
+*Cannot be Normal Summoned or Set. Must be Special Summoned by removing 10 Phantom Counters from anywhere on the field. This card cannot be targeted by the opponent's card effects and its effects cannot be negated. While this card is on the field, you cannot activate "Phantom Ledger" Trap Cards. Once per turn: target 1 card the opponent controls; banish it. When this card is destroyed by any means: place 5 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it, and add 1 "Phantom Ledger — The Contract" from your Deck or Graveyard to your hand.*
 
-> **Role:** The exiled entity itself, materialized. Summoning it requires 10 Phantom Counters — the same threshold the entity needs in the narrative to begin accumulating sufficient material for manifestation. It cannot be targeted and its effects cannot be negated, but it can be destroyed by non-targeting, non-negating removal: board wipes, effects that banish without targeting, and battle. When destroyed, it ensures the contract continues.
+This card does not bear the archetype's name. It cannot be searched by it, protected by it, or recovered by it, and while it stands the court's own instruments do not function.
 
-> **Design note:** The 10 Phantom Counter requirement takes time to accumulate, which is intentional. Infernal Tribunal generates 1 counter per turn (on the opponent's first activation), plus 2 on activation. The Contract adds counters equal to the opponent's hand size each End Phase it is active. Other archetype cards add 1–2 counters as secondary effects. Across 4–5 turns of normal play, with The Contract active for 2–3 of those turns and the opponent holding a standard 4-card hand, reaching 10 counters is achievable without being trivial. This places The Unnamed Creditor firmly in the late game — summoning him is a declaration that the proceeding is nearly complete, not a Turn 2 shortcut.
+That is not a limitation. It is the correct description of what happens when the plaintiff takes the floor.
 
-> **Flavor:** *"He never appeared in person. He never needed to. Until now."*
-
----
-
-### FAMILY VI — THE VERDICT
-#### *Signature Card & Finishers*
+> *"He never appeared in person. He never needed to. Until now."*
 
 ---
 
-### The Contract
-**[Continuous Spell — Signature Card / Salem Exclusive]**
-
-*This card cannot be destroyed by the opponent's card effects. When this card is activated: this card's activation cannot be negated; the opponent cannot activate cards or effects in response to this activation. While this card is face-up on the field: the opponent cannot add cards from their GY to their hand by card effects; during each End Phase, look at the opponent's hand, then place 1 Phantom Counter on "Infernal Tribunal" for each card in it. Once per turn: you can pay 1000 LP; inflict damage to the opponent equal to the number of Phantom Counters on the field × 200. You can only use this last effect of "The Contract" once per turn. If this card leaves the field by your own card effect: place 3 Phantom Counters on "Infernal Tribunal" if you control it.*
-
-> **Role:** The soul-binding card with three distinct mechanical functions. First: the activation itself cannot be responded to — the moment the activation resolves, all effects are simultaneously in place with no opportunity for the opponent to chain on that activation. This is not a board negate; the opponent's existing cards continue to function. It simply means The Contract cannot be stopped at the moment of activation. Second: the GY-to-hand lock permanently denies floating effects, engine recovery, and recursive plays from the GY. Third: End Phase hand surveillance generates Phantom Counters proportional to the opponent's hand size every turn The Contract remains on the field, making it a persistent counter engine. The activated damage effect converts accumulated counters into incremental LP pressure.
-
-> **Design note:** Removing the board negate on activation resolves the last major balance complaint: a free Dark Ruler No More effect on a Continuous Spell with no activation cost was the single effect that pushed The Contract past defensibility. The card now resolves cleanly — existing monster effects are unaffected, the opponent's board continues to function — but the two ongoing lockouts (no GY-to-hand, End Phase counter generation) compound over every subsequent turn. The "cannot respond to activation" clause prevents interruption at the moment of activation but does not prevent the opponent from responding to The Contract's ongoing effects in subsequent turns. This distinction matters for rulings.
-
-> **Design note:** The previous version paid 2000 LP for a setup card with no immediate field impact — a cost-without-return structure that made late-game activation feel like a tempo loss. The redesign addresses this directly: activation now triggers an immediate board negate, making the card worth its slot at any point it resolves regardless of how the turn develops afterward. The two ongoing effects compound over time: the GY-to-hand lock seals off engine recovery and floating effects permanently, and the End Phase counter generation scales with the opponent's hand size, meaning a large hand feeds Salem's own finisher threshold. The activated damage effect (1000 LP → counters × 200) provides incremental pressure in turns where the counter pool has not yet reached The Final Audit threshold. The activation text protection is explicit and unconditional — not derived from LP cost or any secondary clause.
-
-> **The consent architecture:** The Contract is not Salem's opening move. It is his closing argument. Activating it early exposes its effects before the counter engine has built enough pressure to leverage them. An opponent who sees The Contract in Turn 5 or 6, after Infernal Tribunal has been generating counters unchallenged, after Evidence of Guilt has been tracking their GY, after Subpoena has looked at their hand — that opponent is already inside the proceedings. They have resolved clause after clause. The document was already complete. The Contract is the stamp.
-
-> **Flavor:** *"Please review the terms before you continue. You will not get another opportunity."*
+## FAMILY VII — THE VERDICT
 
 ---
 
-### Guilty as Charged
+### Phantom Ledger — The Contract
+**[Continuous Spell]**
+
+*This card cannot be destroyed by the opponent's card effects. When this card is activated: its activation cannot be negated, and the opponent cannot activate cards or effects in response to this activation. While this card is face-up on the field: the opponent cannot add cards from their Graveyard to their hand by card effects; and during each End Phase, look at the opponent's hand, then place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" for each card in it. Once per turn: you can pay 1000 Life Points; inflict damage to the opponent equal to the number of Phantom Counters on the field × 200.*
+
+It does not compel a fresh agreement. Every card Salem has activated in the proceeding is a clause, disclosed in full and readable by anyone; every clause the defendant allowed to resolve without contesting it is a passive signature. The Contract is not the instrument that catches them.
+
+It is the stamp that makes the signatures official.
+
+> *"Please review the terms before you continue. You will not get another opportunity."*
+
+---
+
+### Phantom Ledger Writ — Guilty as Charged
 **[Normal Trap]**
 
-*This card can only be activated if "The Contract" is face-up on the field. Inflict damage to the opponent equal to the number of cards in their GY × 200. If this damage would reduce the opponent's LP to 0: they cannot activate cards or effects in response to this card's activation. You can only activate "Guilty as Charged" once per turn.*
+*Can only be activated while "Phantom Ledger — The Contract" is face-up on the field. Inflict damage to the opponent equal to the number of cards in their Graveyard × 200. If this damage would reduce the opponent's Life Points to 0, they cannot activate cards or effects in response to this card's activation.*
 
-> **Role:** A GY-scaling burn finisher exclusive to The Contract's active state. The longer the game has gone, the more cards are in the opponent's GY, and the more damage this inflicts. In Turn 6 with 15+ cards in the opponent's GY: 3000+ damage. Chain-proof at the lethal threshold.
-
-> **Flavor:** *"The verdict was determined before you sat down. The trial was a formality."*
+> *"The verdict was determined before you sat down. The trial was a formality."*
 
 ---
 
-### The Final Audit
+### Phantom Ledger Writ — The Final Audit
 **[Normal Trap]**
 
-*Activate only if 5 or more Phantom Counters are on the field. Inflict damage to the opponent equal to the number of Phantom Counters on the field × 400, then remove all Phantom Counters from the field. If the total damage inflicted by this effect would reduce the opponent's LP to 0: this card's effect cannot be negated. You can only activate "The Final Audit" once per turn.*
+*Can only be activated if 5 or more Phantom Counters are on the field. Inflict damage to the opponent equal to the number of Phantom Counters on the field × 400, then remove all Phantom Counters from the field. If the damage inflicted by this effect would reduce the opponent's Life Points to 0, this card's effect cannot be negated.*
 
-> **Role:** The archetype's primary burn finisher. At 5 counters: 2000 damage. At 8 counters: 3200 damage. At 10 counters: 4000 damage. The non-negatable clause at the lethal threshold means when The Final Audit kills, it kills cleanly — but reaching lethal from full LP requires prior damage from Administrative Penalty, Guilty as Charged, or Pain Ledger payoffs. This makes The Final Audit a true finisher rather than a standalone win condition: it closes games the burn engine has already opened, not games that have not yet started.
-
-> **Design note:** The previous scaling of 600 per counter produced 6000 damage at 10 counters from a single Normal Trap — a searchable, one-card kill condition with no inherent interaction requirement. Reducing to 400 per counter preserves the card's closing function while requiring the archetype to deal meaningful prior damage before The Final Audit ends things. The strategic tension between spending 10 counters on The Unnamed Creditor (sustained pressure) versus The Final Audit (immediate 4000 damage) remains intact at the new value.
-
-> **Flavor:** *"The books are closed. The balance is due. There is no extension on this deadline."*
+> *"The books are closed. The balance is due. There is no extension on this deadline."*
 
 ---
 
-### FAMILY VII — THE INFERNAL COURT
-#### *Extra Deck — The Devil's Tribunal Made Manifest*
+## FAMILY VIII — THE COURT MADE MANIFEST
+### *Extra Deck*
 
-When the Phantom Ledger has run long enough, the courtroom stops being procedural and becomes architectural. The Extra Deck monsters of the Phantom Ledger are not creatures Salem summons — they are the institutional structures of the infernal court made physically present on the field. A Fusion is a verdict rendered in permanent form. A Synchro is judicial momentum reaching its apex. An Xyz is the weight of accumulated authority. A Link is the court's reach extending beyond its own walls.
-
-Before the Extra Deck is accessible, two new main deck cards must be introduced that enable these summon lines.
+When the proceeding has run long enough, the courtroom stops being procedural and becomes architectural.
 
 ---
 
-#### NEW MAIN DECK ADDITIONS
-
----
-
-### The Apparitor of Sudden Seizures
-**[DARK / Fiend / Level 1 / ATK 0 / DEF 0 / Tuner]**
-
-*If this card is Normal Summoned: place 1 Phantom Counter on "Infernal Tribunal" if you control it. When this card is used as Synchro Material for a DARK Fiend Synchro Monster: place 2 Phantom Counters on "Infernal Tribunal" if you control it, then add 1 "Phantom Ledger" Trap Card from your GY to your hand. You can only use each effect of "The Apparitor of Sudden Seizures" once per turn.*
-
-> **Role:** The archetype's dedicated Tuner. An apparitor in historical ecclesiastical courts was an officer who served summonses — a card that exists to be spent in service of something larger. It generates counters on summon, and when used as Synchro Material (which is what an apparitor does — it delivers the summons and disappears into the proceeding), it generates 2 more counters and recovers a Trap from the GY. Every Synchro play with this card is simultaneously a counter engine activation.
-
-> **Flavor:** *"The summons has been served. The court expects your appearance."*
-
----
-
-### The Grand Seal of the Infernal Court
+### Phantom Ledger Filing — The Grand Seal
 **[Normal Spell]**
 
-*Fusion Summon 1 DARK Fiend Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If "Infernal Tribunal" is face-up on your field: you can also use "Phantom Ledger" monsters in your GY as Fusion Material. You can only activate "The Grand Seal of the Infernal Court" once per turn.*
+*Fusion Summon 1 DARK Fiend Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If "Phantom Ledger — Infernal Tribunal" is face-up on your field, you can also use "Phantom Ledger" monsters in your Graveyard as material.*
 
-> **Role:** The archetype's Fusion Spell. The GY-as-material clause, gated behind Infernal Tribunal being active, rewards the deck for playing its own engine — Phantom Ledger monsters that served their purpose and entered the GY become the raw material for the court's most powerful rulings. The Fusion Spell is how the court stamps its most consequential verdicts.
-
-> **Flavor:** *"The court seals its findings. The judgment is now irrevocable."*
+> *"The court seals its findings. The judgment is irrevocable."*
 
 ---
 
-#### EXTRA DECK MONSTERS
+### Phantom Ledger Officer — Silent Registrar
+**[DARK / Fiend / Link-1 / ATK 900]**
+*[Arrow: ▼]*
+
+*1 "Phantom Ledger" monster*
+*When this card is Link Summoned: if you do not control a face-up "Phantom Ledger — Infernal Tribunal", add 1 "Phantom Ledger — Infernal Tribunal" or 1 "Phantom Ledger Filing — Petition to the Bench" from your Graveyard to your hand. Once per turn, when the opponent activates a card or effect: place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it; if you do not control it, you can instead Set 1 "Phantom Ledger" Trap Card from your hand.*
+
+**In the domain:** the officer whose only obligation is to transcribe every act of the proceeding with fidelity.
+
+> *"It records. It always records. Nothing said in this court is forgotten."*
 
 ---
 
-### The Grand Inquisitor
-**[DARK / Fiend / Fusion / Level 8 / ATK 2800 / DEF 2200]**
+### Phantom Ledger Officer — Executor of Writs
+**[DARK / Fiend / Link-2 / ATK 1600]**
+*[Arrows: ◄ ►]*
 
-*2+ DARK Fiend monsters, including 1 "Phantom Ledger" monster*
-*Must be Fusion Summoned. When this card is Fusion Summoned: banish all cards the opponent activated this turn from the field or GY (without them resolving effects again). Once per turn (Quick Effect): when the opponent activates a card or effect in their GY — negate it and banish it. Place 1 Phantom Counter on "Infernal Tribunal" each time this card negates an effect. You can only use this effect of "The Grand Inquisitor" once per turn.*
+*2 DARK Fiend monsters*
+*"Phantom Ledger" monsters in zones this card points to gain 400 ATK and cannot be targeted by the opponent's card effects. Once per turn: send 1 "Phantom Ledger" card from your Deck to your Graveyard, then place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it.*
 
-> **Role:** The Fusion boss. Its summon effect purges the field of whatever the opponent committed to in that turn — a retroactive injunction against everything already in motion. Its GY negate is the primary disruption tool once the Inquisitor is present, converting every opponent GY activation into a Phantom Counter.
-
-> **Flavor:** *"The Inquisitor does not arrive at the beginning. He arrives when the evidence is complete."*
-
----
-
-### Sentence Without Appeal
-**[DARK / Fiend / Fusion / Level 6 / ATK 2200 / DEF 1600]**
-
-*2 "Phantom Ledger" monsters*
-*Must be Fusion Summoned. When this card is Fusion Summoned: reveal all face-down cards the opponent controls. Once per turn: if this card battles an opponent's monster, apply piercing battle damage. When this card destroys an opponent's monster by battle: that opponent discards 1 card, then place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only use this effect of "Sentence Without Appeal" once per turn.*
-
-> **Role:** An aggressive mid-range Fusion. The reveal on summon strips hidden information, the piercing ensures backrow setups do not absorb damage without consequence, and the destruction-discard creates a hand-depleting loop against defensive strategies. At Level 6, it is accessible early via The Grand Seal with two low-level Phantom Ledger monsters.
-
-> **Flavor:** *"The appeals process is closed. The sentence proceeds to execution."*
+> *"The writ has been executed. The court's reach extends exactly as far as required."*
 
 ---
 
-### Lex Talionis, the Retribution
-**[DARK / Fiend / Fusion / Level 10 / ATK 3500 / DEF 3000]**
-
-*"Salem, Infernal Receiver" + 2 "Phantom Ledger" monsters*
-*Must be Fusion Summoned. Cannot be targeted or destroyed by the opponent's card effects. Once per turn: if the opponent activates a card or effect that would inflict damage to you — negate it; then inflict damage equal to double the negated amount to the opponent instead. Once per turn: you can remove 5 Phantom Counters from the field; this card attacks all monsters the opponent controls once each this turn. You can only use each effect of "Lex Talionis, the Retribution" once per turn.*
-
-> **Role:** The supreme Fusion. Requires Salem himself as material, which is the correct thematic threshold — this is the court at its most punitive, when the judge has left the bench and become the sentence. Its retaliation effect converts every damage attempt by the opponent into doubled damage against them. The multi-attack clause is the closing argument: Salem does not merely win. He executes on all fronts simultaneously.
-
-> **Flavor:** *"An eye for an eye. The court finds this principle perfectly adequate."*
-
----
-
-### Res Judicata, the Finality
-**[DARK / Fiend / Synchro / Level 5 / ATK 1900 / DEF 1400]**
-
-*1 "Phantom Ledger" Tuner + 1+ non-Tuner DARK Fiend monsters*
-*When this card is Synchro Summoned: negate the effects of all face-up monsters the opponent currently controls until the End Phase. If the opponent activates a card or effect with the same name as a card that was negated this Duel: (Quick Effect) negate that activation and banish it; then place 2 Phantom Counters on "Infernal Tribunal" if you control it. You can only use each effect of "Res Judicata, the Finality" once per turn.*
-
-> **Role:** The access Synchro. Apparitor (Lv1) + Envy's Clerk or Hollow Witness (Lv4) produces this at Lv5. Its summon negate is a mass soft-lock for one turn — useful going second to clear a board's effects before attacking. Its passive negate against re-activated cards is the legal doctrine it is named for: a matter that has been decided cannot be raised again.
-
-> **Flavor:** *"This matter has been adjudicated. The doctrine of finality applies."*
-
----
-
-### The Judicial Override
-**[DARK / Fiend / Synchro / Level 7 / ATK 2500 / DEF 2000]**
-
-*1 "Phantom Ledger" Tuner + 1+ non-Tuner DARK Fiend monsters*
-*When this card is Synchro Summoned: place 3 Phantom Counters on "Infernal Tribunal" if you control it. While this card has 3 or more Phantom Counters on "Infernal Tribunal": this card cannot be targeted by the opponent's card effects. Once per turn (Quick Effect): negate the activation of 1 Spell or Trap card the opponent activates, and if you do, set it in your Spell/Trap Zone instead of sending it to the GY. You can only use this effect of "The Judicial Override" once per turn.*
-
-> **Role:** The primary Synchro disruption body. Apparitor (Lv1) + any Lv6 Phantom Ledger monster produces this at Lv7 — Pride of the Bench is the intended primary non-Tuner. Its most distinctive effect: it does not destroy negated Spell/Trap cards — it confiscates them. The opponent's own removal, their own floodgates, their own combo extenders are set in Salem's Spell/Trap Zone and become immediately usable by him. At 3+ Phantom Counters on the field, targeting immunity protects it from spot removal, requiring the opponent to use non-targeting mass removal to clear it.
-
-> **Flavor:** *"The court overrides the motion. The instrument is now in the court's possession."*
-
----
-
-### The Sovereign Executor
-**[DARK / Fiend / Synchro / Level 9 / ATK 2900 / DEF 2400]**
-
-*1 "Phantom Ledger" Tuner + 2+ non-Tuner "Phantom Ledger" monsters*
-*Must be Synchro Summoned. This card gains 400 ATK for each Phantom Counter on the field. Once per turn: you can remove 3 Phantom Counters from anywhere on the field; halve the opponent's current LP (this is not damage; LP cannot be reduced to 0 by this effect). When this card destroys an opponent's monster by battle: place 2 Phantom Counters on "Infernal Tribunal" if you control it. You can only use each effect of "The Sovereign Executor" once per turn.*
-
-> **Role:** The late-game Synchro finisher. Primary summon path: Apparitor (Lv1) + Greed Collector (Lv5) + Sloth Debtor (Lv3) = Level 9. All three are Phantom Ledger named monsters, satisfying the material requirement. Because it requires two non-Tuner Phantom Ledger monsters simultaneously, it arrives only when the board has multiple pieces established — this is a mid-to-late game play, never a Turn 1 line. Its LP halving creates a setup threshold: the opponent drops to a range where The Final Audit or Guilty as Charged closes the game cleanly on the following turn.
-
-> **Flavor:** *"The sovereign authority of this court is not a metaphor. It is the last thing you will understand."*
-
----
-
-### The Tribunal Overseer
-**[DARK / Fiend / Xyz / Rank 4 / ATK 2000 / DEF 1800]**
-
-*2 Level 4 DARK Fiend monsters*
-*Once per turn: detach 1 material from this card; look at the opponent's hand, then choose 1 card in it — the opponent cannot activate that card until the end of their next turn. Place 1 Phantom Counter on "Infernal Tribunal" if you control it. While this card has no Xyz Material: it cannot be destroyed by the opponent's card effects. You can only use the first effect of "The Tribunal Overseer" once per turn.*
-
-> **Role:** The Rank 4 toolbox piece. Two Wrath Arbiters or two Envy Clerks produce this. Its soft-lock on a hand card replicates the experience of a judge compelling a witness to withhold testimony — the opponent sees their resource frozen one turn, and they cannot use it when they need it most. Detaching both materials over two turns produces two freezes and then leaves an indestructible body.
-
-> **Flavor:** *"The court has examined your hand. One matter is deferred."*
-
----
-
-### Atimia, the Civic Exile
+### Phantom Ledger — Atimia, the Revoked Standing
 **[DARK / Fiend / Xyz / Rank 3 / ATK 1700 / DEF 1500]**
 
 *2 Level 3 "Phantom Ledger" monsters*
-*While this card has 2 Xyz Materials: the opponent cannot Special Summon monsters from their hand. Once per turn: detach 1 material from this card; banish 1 Spell or Trap card the opponent controls. Place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only use this effect of "Atimia, the Civic Exile" once per turn.*
+*While this card has 2 Xyz Materials: the opponent cannot Special Summon monsters from their hand. Once per turn: detach 1 material from this card; banish 1 Spell or Trap the opponent controls, then place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
 
-> **Role:** The Rank 3 conditional floodgate. Requires specifically two "Phantom Ledger" named Level 3 monsters — Phantom Notary ×2 or Sloth Debtor ×2 — which constrains access without making the card impossible to reach. The floodgate condition (both materials present) means the opponent has one guaranteed action before the lockout engages: detaching one material for the Spell/Trap banish removes the floodgate immediately but generates a banish; keeping both materials preserves the hand SS lockout but forgoes the banish. The tension between spending material now versus holding the floodgate defines how this card is played.
-
-> **Flavor:** *"The court has revoked your standing. You have no rights in this proceeding."*
+> *"The court has revoked your standing. You have no rights in this proceeding."*
 
 ---
 
-### Dike's Final Reckoning
-**[DARK / Fiend / Xyz / Rank 7 / ATK 2800 / DEF 2500]**
+### Phantom Ledger — The Tribunal Overseer
+**[DARK / Fiend / Xyz / Rank 4 / ATK 2000 / DEF 1800]**
 
-*2 Level 7 DARK Fiend monsters*
-*Cannot be destroyed by card effects. Once per turn: when the opponent takes damage from a card effect — place Phantom Counters on "Infernal Tribunal" equal to the damage inflicted ÷ 500 (rounded down). Once per turn: detach 1 material; inflict 500 damage to the opponent for each "Phantom Ledger" card in your GY, up to a maximum of 5000 damage. You can only use this effect of "Dike's Final Reckoning" once per turn.*
+*2 Level 4 DARK Fiend monsters*
+*Once per turn: detach 1 material from this card; look at the opponent's hand, then choose 1 card in it — the opponent cannot activate that card until the end of their next turn. Place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it. While this card has no Xyz Material, it cannot be destroyed by the opponent's card effects.*
 
-> **Role:** The Rank 7 burn engine. Two Gluttony's Vaults produce this. Every burn effect in the deck feeds Dike's counter generation; its own GY-scaling damage closes games where burn accumulation has built a wide ledger. The 5000 damage cap means this card closes the game when prior damage has already brought the opponent to a suitable threshold — it is a finisher that requires the engine to have run, not a standalone win condition that terminates games from full LP without prior interaction.
-
-> **Flavor:** *"Justice comes afterwards. It always has. It always will."*
+> *"The court has examined your hand. One matter is deferred."*
 
 ---
 
-### The Court's Veil, Executor of Writs
-**[DARK / Fiend / Link-2 / ATK 1600]**
-*[Arrows: Left ◄, Right ►]*
+### Phantom Ledger — Sentence Without Appeal
+**[DARK / Fiend / Fusion / Level 6 / ATK 2200 / DEF 1600]**
 
-*2 DARK Fiend monsters*
-*"Phantom Ledger" monsters in zones this card points to gain 400 ATK and cannot be targeted by the opponent's card effects. Once per turn: send 1 "Phantom Ledger" card from your Deck to your GY, then place 2 Phantom Counters on "Infernal Tribunal" if you control it. You can only use this effect of "The Court's Veil, Executor of Writs" once per turn.*
+*2 "Phantom Ledger" monsters*
+*Must be Fusion Summoned. When this card is Fusion Summoned: reveal all Set cards the opponent controls. If this card attacks a Defense Position monster, inflict piercing battle damage. When this card destroys an opponent's monster by battle: that opponent discards 1 card, then place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
 
-> **Role:** The primary Link-2 and the archetype's main deck-thinning tool. It mills any Phantom Ledger card to GY (enabling GY recursion and Pain Ledger interactions) while generating 2 Phantom Counters. The protection it extends to pointed zones — where the archetype's key monsters are most likely to be sitting — converts those zones into a protected bench. Named for the formal officer who delivers court documents; this card delivers cards from the deck to the GY.
-
-> **Flavor:** *"The writ has been executed. The court's reach extends exactly as far as required."*
+> *"The appeals process is closed. The sentence proceeds to execution."*
 
 ---
 
-### The Silent Registrar of Sins
-**[DARK / Fiend / Link-1 / ATK 900]**
-*[Arrow: ▼ Bottom]*
+### Phantom Ledger — The Grand Inquisitor
+**[DARK / Fiend / Fusion / Level 8 / ATK 2800 / DEF 2200]**
 
-*1 "Phantom Ledger" monster*
-*When this card is Link Summoned: if you do not control a face-up "Infernal Tribunal" — add 1 "Infernal Tribunal" or 1 "Petition to the Bench" from your GY to your hand. Once per turn, when the opponent activates a card or effect: place 1 Phantom Counter on "Infernal Tribunal" if you control it, and if you do not, you can set 1 "Phantom Ledger" Trap Card from your hand. You can only use each effect of "The Silent Registrar of Sins" once per turn.*
+*2+ DARK Fiend monsters, including 1 "Phantom Ledger" monster*
+*Must be Fusion Summoned. When this card is Fusion Summoned: banish all cards the opponent activated this turn from the field or Graveyard, without applying their effects again. Once per turn (Quick Effect): when the opponent activates a card or effect in their Graveyard, negate it and banish it, then place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
 
-> **Role:** The Link-1 setup piece. Any single Phantom Ledger monster produces this, and it immediately recovers the Field Spell from GY if one was destroyed — critical insurance for Turn 2 and beyond. Its passive counter generation mirrors Infernal Tribunal's own trigger, meaning when both are active, each opponent activation advances the counter engine twice. Named for the ecclesiastical court officer whose sole obligation was to transcribe all acts of proceedings with fidelity.
-
-> **Flavor:** *"It records. It always records. Nothing said in this court is ever forgotten."*
+> *"The Inquisitor does not arrive at the beginning. He arrives when the evidence is complete."*
 
 ---
 
-### FAMILY VIII — THE SIDE DECK
-#### *Procedural Amendments and Contingency Writs*
-
-The Side Deck of the Phantom Ledger is not a collection of generic answers. Every card in it is a legal instrument — a specific filing applicable to specific proceedings. Salem does not improvise his counters between games. He reviews the record and selects the appropriate clauses.
+## FAMILY IX — CONTINGENCY
+### *He does not improvise between games. He reviews the record and selects the applicable clause.*
 
 ---
 
-### Habeas Corpus of the Returned
+### Phantom Ledger Filing — Habeas Corpus
 **[Quick-Play Spell]**
+*When the opponent banishes 1 or more of your "Phantom Ledger" cards: return all of those cards to the hand instead, then place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+> *"The body shall be produced before the court. Immediately."*
 
-*When the opponent banishes 1 or more of your "Phantom Ledger" cards: return all of those banished cards to the hand instead. Then place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only activate "Habeas Corpus of the Returned" once per turn.*
-
-> **Role:** Anti-banish protection. Against Cosmic Cyclone and similar banish-based removal, this converts the opponent's removal attempt into a free return to hand plus a Phantom Counter. "Habeas corpus" — you have the body — is the legal writ requiring a detained person to be presented before the court. The court demands its cards back.
-
-> **Flavor:** *"The body shall be produced before the court. Immediately."*
-
----
-
-### Double Jeopardy
+### Phantom Ledger Writ — Double Jeopardy
 **[Counter Trap]**
+*When the opponent activates a card or effect with the same name as a card that was negated this Duel: negate that activation and banish it, then place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it.*
+> *"The court has already ruled on this matter. Finality is not a suggestion."*
 
-*When the opponent activates a card or effect with the same name as any card that was negated this Duel: negate that activation and banish it. Then place 2 Phantom Counters on "Infernal Tribunal" if you control it. You can only activate "Double Jeopardy" once per turn.*
+### Phantom Ledger Writ — Ultra Vires
+**[Counter Trap]**
+*When the opponent activates the effect of a monster whose Level or Rank is higher than the highest Level or Rank among monsters you control: negate that activation and destroy that monster, then place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it.*
+> *"That effect exceeds your granted authority. The court strikes it from the record."*
 
-> **Role:** Anti-recursion Counter Trap. Against decks that run multiple copies of key negation targets (Ash Blossom, Infinite Impermanence), the second and third copies become dangerous after the first is negated. Double Jeopardy makes each negate permanent: the same card cannot be meaningfully re-activated. Fits games 2–3 against decks heavy on repetitive hand traps.
+### Phantom Ledger Writ — Paragraphe, the Counter-Indictment
+**[Counter Trap]**
+*When the opponent activates a Trap Card: negate that activation, then Set that card in your own Spell & Trap Zone instead of sending it to the Graveyard. You can activate that Set card this turn.*
+> *"Counter-indictment filed. The instrument is now the court's property."*
 
-> **Flavor:** *"The court has already ruled on this matter. The doctrine of finality is not a suggestion."*
-
----
-
-### Fraudulent Trading
-**[Quick-Play Spell]**
-
-*Target 1 "Phantom Ledger" monster in your GY; Special Summon it in Defense Position, but it cannot attack or be used as material this turn. If it is still on the field at the End Phase: place Phantom Counters on "Infernal Tribunal" equal to that monster's Level ÷ 2 (rounded down). You can only activate "Fraudulent Trading" once per turn.*
-
-> **Role:** GY recovery that rewards survival. Named for a UK insolvency law concept where a company continues trading despite inevitable collapse — Fraudulent Trading brings back a spent monster purely for its presence value: blocking attacks, enabling counter generation at End Phase, and potentially setting up a Synchro, Xyz, or Fusion on the following turn.
-
-> **Flavor:** *"The business continues to operate. For now."*
-
----
-
-### Ex Parte Injunction
+### Phantom Ledger Writ — Ex Parte Injunction
 **[Normal Trap]**
+*If the opponent controls 3 or more cards: end their Main Phase immediately, then place 2 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it.*
+> *"The court has granted emergency relief. Your turn is over."*
 
-*If the opponent controls 3 or more cards: end their Main Phase immediately. Then place 2 Phantom Counters on "Infernal Tribunal" if you control it. You can only activate "Ex Parte Injunction" once per turn.*
-
-> **Role:** Emergency phase-ending disruption. An ex parte order in law is issued without requiring the other party to be present or notified — it acts unilaterally on grounds of urgency. Against decks that extend to 3+ cards and then begin establishing their second layer, this injunction cuts the turn short and puts them in Battle Phase with a partial board. Replaces Cease and Desist in specific matchups where Spell/Trap negation is not what is needed.
-
-> **Flavor:** *"The court has granted emergency relief. Your turn is over."*
-
----
-
-### Scire Facias
-**[Quick-Play Spell]**
-
-*Target 1 "Phantom Ledger" card in your GY that was destroyed by an opponent's card effect this Duel: Set it face-down in your Spell/Trap Zone. That Set card can be activated this turn. You can only activate "Scire Facias" once per turn.*
-
-> **Role:** Selective GY recovery for destroyed Traps. Scire facias is a legal writ that revives a dormant judgment or record — this card revives a Trap that was specifically destroyed by the opponent, making targeted backrow removal less profitable. Recovers and immediately re-arms the most recently destroyed piece.
-
-> **Flavor:** *"Show cause. The court requires a reason why that record should remain closed."*
-
----
-
-### The Euthyna, Audit of the Self
-**[Normal Trap]**
-
-*Reveal the top 5 cards of your Deck; add 1 "Phantom Ledger" card among them to your hand, then place the remaining cards on the bottom of your Deck in any order. Place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only activate "The Euthyna, Audit of the Self" once per turn.*
-
-> **Role:** Deck filtering with partial search. The Euthyna in ancient Athens was the mandatory financial audit all public officials underwent at the end of their term. Salem audits his own deck: he sees 5 cards, takes the best Phantom Ledger card among them, and buries the rest in preferred order. Used in games 2–3 when specific answers are needed and the deck needs to be navigated rather than drawn through.
-
-> **Flavor:** *"The audit is complete. The books have been reviewed. One entry is selected for immediate action."*
-
----
-
-### Lien on Life Points
+### Phantom Ledger Writ — The Dead Hand Rule
 **[Continuous Trap]**
+*While the opponent has no cards in their hand, they cannot activate effects in their Graveyard, Deck, or banished zone. During each Standby Phase this condition is met: place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+> *"An estate with no heirs reverts to the court. Your options are similarly vacant."*
 
-*Each time the opponent gains LP: instead, they lose that same amount of LP. Each time this effect applies: place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only activate "Lien on Life Points" once per turn.*
+### Phantom Ledger Writ — Lien on Life Points
+**[Continuous Trap]**
+*Each time the opponent would gain Life Points, they lose that amount instead. Each time this effect applies: place 1 Phantom Counter on "Phantom Ledger — Infernal Tribunal" if you control it.*
+> *"The court has placed a lien on your recovery. It is not yours to claim."*
 
-> **Role:** Anti-recovery technology. A lien is a legal claim on assets as security for a debt. Against decks that gain LP as a defensive mechanic (Branded, health-gain stall strategies), Lien converts every recovery attempt into further damage. Each activation generates a Phantom Counter, meaning opponent heal loops accelerate Salem's own engine.
-
-> **Flavor:** *"The court has placed a lien on your recovery. It is not yours to claim."*
-
----
-
-### Contrapasso
+### Phantom Ledger Writ — Contrapasso
 **[Normal Trap]**
+*If the opponent took damage from a card effect this turn: inflict that same amount of damage to them again.*
+> *"The measure you used will be measured back to you. Precisely."*
 
-*If the opponent took damage from a card effect this turn: inflict that same amount of damage to them again. You can only activate "Contrapasso" once per turn.*
+### Phantom Ledger Writ — The Absolute Priority Rule
+**[Normal Trap]**
+*If you control fewer cards than the opponent: negate the effects of all face-up cards the opponent controls until the End Phase, and all monsters they control lose 1000 ATK until the End Phase.*
+> *"The court recognises the priority of the senior claim. All junior positions are subordinated. Immediately."*
 
-> **Role:** Damage echo. Contrapasso is Dante's principle that punishment mirrors the sin — the punishment takes the form of what was done. If any burn effect resolved this turn (Pain Ledger, Administrative Penalty, Guilty as Charged, Infernal Debt self-damage reflected via Sentence Commuted), Contrapasso doubles the total damage output of that turn at instant speed. Devastating in combination with The Final Audit.
+### Phantom Ledger Filing — Scire Facias
+**[Quick-Play Spell]**
+*Target 1 "Phantom Ledger" Trap in your Graveyard that was destroyed by an opponent's card effect this Duel; Set it in your Spell & Trap Zone. It can be activated this turn.*
+> *"Show cause. The court requires a reason why that record should remain closed."*
 
-> **Flavor:** *"The measure you used will be measured back to you. Precisely."*
+### Phantom Ledger Filing — The Euthyna, Audit of the Self
+**[Quick-Play Spell]**
+*Reveal the top 5 cards of your Deck; add 1 "Phantom Ledger" card among them to your hand, then place the rest on the bottom of your Deck in any order.*
+> *"The audit is complete. One entry is selected for immediate action."*
 
----
-
-### Fiat Justitia
+### Phantom Ledger Filing — Fiat Justitia
 **[Normal Spell]**
-
-*Activate only while "The Contract" is face-up on your field. Both players send cards from their field to the GY (starting with the opponent) until each player controls exactly 1 card. Then place 3 Phantom Counters on "Infernal Tribunal" if you control it. You can only activate "Fiat Justitia" once per Duel.*
-
-> **Role:** Nuclear reset button. "Fiat justitia ruat caelum" — let justice be done though the heavens fall. When The Contract is active and both sides are overextended, Fiat Justitia clears the board to 1 card each. Salem chooses what to keep; the opponent chooses what to keep; then Salem activates Default Judgment into an empty-enough field, or Guilty as Charged into a loaded GY, or simply ends the proceedings with The Final Audit. Once per Duel because the heavens should only fall once.
-
-> **Flavor:** *"Let justice be done. The consequences are not the court's concern."*
+*Can only be activated while "Phantom Ledger — The Contract" is face-up on your field. Both players send cards from their field to the Graveyard, starting with the opponent, until each player controls exactly 1 card. Then place 3 Phantom Counters on "Phantom Ledger — Infernal Tribunal" if you control it. You can only activate "Phantom Ledger Filing — Fiat Justitia" once per Duel.*
+> *"Let justice be done. The consequences are not the court's concern."*
 
 ---
 
-### Mens Rea
-**[Quick-Play Spell]**
+## THE TWO CONFIGURATIONS
 
-*Declare 1 card type (Monster, Spell, or Trap): look at the opponent's hand. If they have 1 or more cards of the declared type — discard 1 of those cards (your choice). Place 1 Phantom Counter on "Infernal Tribunal" if a card was discarded this way. You can only activate "Mens Rea" once per turn.*
-
-> **Role:** Precise hand disruption. Mens rea is the guilty intent — you must know the intent before you can prosecute. Salem declares what he is looking for, searches the hand, and removes exactly the guilty card. Unlike False Promise (which draws before discarding), Mens Rea acts on existing hand information. Used games 2–3 when Salem knows what the opponent's hand contains and needs to remove a specific category.
-
-> **Flavor:** *"The court has established intent. The evidence is in hand."*
+He has never rebuilt this deck. He does not need to — the Creditor drafted the whole pool at the outset. What changes across the arc is **which cards he is willing to put in it**, and the two lists below are the same man at two points on the scale.
 
 ---
 
-### Ultra Vires
-**[Counter Trap]**
+### EARLY PROCEEDINGS — 2024
+*Weight: first stage. Twelve entries closed across the year.*
 
-*When the opponent activates the effect of a monster whose Level or Rank is higher than the highest Level or Rank among monsters you currently control: negate that activation and destroy that monster. Then place 2 Phantom Counters on "Infernal Tribunal" if you control it. You can only activate "Ultra Vires" once per turn.*
+Pure procedure. No vices, no burn, no instruments. He is still under the impression that if he executes the agreement efficiently he will be released, and he is conducting the collection the way he conducted receiverships: correctly, minimally, and with no more force than the order requires.
 
-> **Role:** Power-check Counter Trap. Ultra vires — beyond the powers — nullifies acts that exceed the authority of the actor. In Yu-Gi-Oh terms: if the opponent fields a boss monster with a higher Level/Rank than anything Salem controls, its effects are beyond what the court permits. Used specifically against decks that rely on Level 8+ boss monster effects as their primary disruption.
-
-> **Flavor:** *"That effect exceeds your granted authority. The court strikes it from the record."*
-
----
-
-### The Dead Hand Rule
-**[Continuous Trap]**
-
-*If the opponent controls no cards in their hand: they cannot activate effects from their GY, Deck, or banished zone. During each Standby Phase this condition is met: place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only control 1 "The Dead Hand Rule" at a time.*
-
-> **Role:** Empty-hand lockout. The dead hand rule in property law prevents certain kinds of control from persisting after the controlling party is gone. If the opponent is forced to zero cards in hand — by Subpoena, False Promise, Mens Rea, or natural attrition — The Dead Hand Rule seals off their GY and banished zone, eliminating floated effects and recursion. Counter generation during the lockout accelerates the endgame.
-
-> **Flavor:** *"An estate with no heirs reverts to the court. Your options are similarly vacant."*
-
----
-
-### Paragraphe, the Counter-Indictment
-**[Counter Trap]**
-
-*When the opponent activates a Trap Card: negate that activation; then Set that Trap in your own Spell/Trap Zone instead of sending it to the GY. You may activate that Set card this turn as if it were your own. You can only activate "Paragraphe, the Counter-Indictment" once per turn.*
-
-> **Role:** Trap confiscation Counter Trap. Paragraphe in ancient Greek law was a counter-indictment — a formal argument that the opponent's own legal action was inadmissible. This card argues that the opponent's Trap belongs to the court now. The confiscated Trap can be activated immediately, turning the opponent's own disruption tool against them in the same turn it was attempted.
-
-> **Flavor:** *"Counter-indictment filed. The instrument is now the court's property."*
-
----
-
-### The Absolute Priority Rule
-**[Normal Trap]**
-
-*If you control fewer cards than the opponent: negate the effects of all face-up cards the opponent controls until the End Phase, and all monsters the opponent controls lose 1000 ATK until the End Phase. You can only activate "The Absolute Priority Rule" once per turn.*
-
-> **Role:** Board-inversion trap for going second. In bankruptcy law, the absolute priority rule requires secured creditors to be paid in full before anything reaches unsecured parties. Salem is always the secured creditor. When behind on board presence, this trap negates everything on the opponent's field and reduces ATK, creating an attack window through which even a defensive archetype can push decisive damage. Replaces Wounded Authority in matchups where the damage condition cannot be reliably met.
-
-> **Flavor:** *"The court recognizes the priority of the senior claim. All junior positions are subordinated. Immediately."*
-
----
-
-### COMPLETE DECK LIST
-
-> This is the recommended build using only Phantom Ledger original cards. The list runs 40 Main Deck cards, 15 Extra Deck cards, and 15 Side Deck cards.
-
-**MAIN DECK (40):**
+**Main Deck (40)**
 
 ```
-MONSTERS (13):
-The Phantom Notary ×3
-Phantom Ledger — Wrath Arbiter ×3
-Phantom Ledger — Envy's Hollow Clerk ×2
-The Hollow Witness ×2
-The Apparitor of Sudden Seizures ×1
-Phantom Ledger — Sloth Debtor ×1
-Phantom Ledger — Lust, the Consuming Appeal ×1
-Salem, Corrupted Receiver ×1 (Special Summon from hand at 2000 LP or less)
+MONSTERS (11)
+Phantom Ledger Officer — Notary            ×3
+Phantom Ledger Officer — Hollow Witness    ×3
+Phantom Ledger Officer — Bailiff           ×2
+Phantom Ledger Vice — Sloth                ×2
+Phantom Ledger — Salem, the Receiver       ×1
 
-SPELLS (10):
-Infernal Tribunal ×3
-Petition to the Bench ×3
-The Grand Seal of the Infernal Court ×1
-False Promise ×1
-Infernal Debt ×1
-The Contract ×1
+SPELLS (9)
+Phantom Ledger — Infernal Tribunal         ×3
+Phantom Ledger Filing — Petition           ×3
+Phantom Ledger — The Contract              ×2
+Phantom Ledger Filing — The Grand Seal     ×1
 
-TRAPS (17):
-Session in Contempt ×2
-Writ of Injunction ×2
-Subpoena ×2
-Administrative Penalty ×2
-Wounded Authority ×2
-Evidence of Guilt ×1
-Statute of Limitations ×1
-Pain Ledger ×1
-Court-Ordered Seizure ×1
-Cease and Desist ×1
-Guilty as Charged ×1
-The Final Audit ×1
+TRAPS (20)
+Phantom Ledger Writ — Session in Contempt  ×3
+Phantom Ledger Writ — Injunction           ×3
+Phantom Ledger Writ — Subpoena             ×3
+Phantom Ledger Writ — Cease and Desist     ×2
+Phantom Ledger Writ — Motion to Suppress   ×2
+Phantom Ledger Writ — Statute of Limits    ×2
+Phantom Ledger Writ — Evidence of Guilt    ×2
+Phantom Ledger Writ — Court-Ordered Seizure×1
+Phantom Ledger Writ — Wounded Authority    ×1
+Phantom Ledger Writ — The Final Audit      ×1
 ```
 
-**EXTRA DECK (15):**
+**Extra Deck (15)**
 
 ```
-FUSION:
-Lex Talionis, the Retribution ×1
-The Grand Inquisitor ×1
-Sentence Without Appeal ×1
-
-SYNCHRO:
-The Sovereign Executor ×1
-The Judicial Override ×1
-Res Judicata, the Finality ×1
-
-XYZ:
-Dike's Final Reckoning ×1
-The Tribunal Overseer ×2
-Atimia, the Civic Exile ×1
-The Inquisitorial Panel ×1
-
-LINK:
-The Court's Veil, Executor of Writs ×2
-The Silent Registrar of Sins ×1
-```
-
-> **Note on Salem, Infernal Receiver and The Unnamed Creditor:** Both cards are physically in the Main Deck, not the Extra Deck. They are Special Summoned through their own text conditions (The Contract active or 2 Tribute cost for Salem; 10 Phantom Counters for The Unnamed Creditor). They are not Fusion, Synchro, Xyz, or Link monsters and do not occupy Extra Deck slots. The deck list is exactly 40 Main Deck cards and 15 Extra Deck cards.
-
-**SIDE DECK (15):**
-
-```
-Habeas Corpus of the Returned ×2
-Double Jeopardy ×2
-Fraudulent Trading ×2
-The Absolute Priority Rule ×2
-Contrapasso ×2
-Mens Rea ×1
-Ultra Vires ×1
-Lien on Life Points ×1
-Scire Facias ×1
-Ex Parte Injunction ×1
+Phantom Ledger Officer — Silent Registrar  ×3
+Phantom Ledger Officer — Executor of Writs ×3
+Phantom Ledger — Atimia, Revoked Standing  ×3
+Phantom Ledger — The Tribunal Overseer     ×3
+Phantom Ledger — Sentence Without Appeal   ×2
+Phantom Ledger — The Grand Inquisitor      ×1
 ```
 
 ---
 
-### The Inquisitorial Panel
-**[DARK / Fiend / Xyz / Rank 5 / ATK 2300 / DEF 1900]**
+### LATE PROCEEDINGS — 2026
+*Weight: fourth stage. Sixty-one entries closed.*
 
-*2 Level 5 DARK Fiend monsters*
-*Once per turn: detach 1 material from this card; Special Summon 1 "Phantom Ledger" monster from your GY in Defense Position. Once per turn, during each Standby Phase while this card has Xyz Material: place 1 Phantom Counter on "Infernal Tribunal" if you control it. You can only use each effect of "The Inquisitorial Panel" once per turn.*
+The vices are in. The burn is in. *Infernal Debt* is in, and it costs him damage every time he uses it, and he uses it. He has stopped playing to win the proceeding correctly and started playing to close it fast, because the drain is deeper now and a clean win in eleven turns feeds him less per hour than a brutal one in six.
 
-> **Role:** The Rank 5 recursion engine. Two Corrupted Bailiffs or two Greed Collectors produce this. The Inquisitorial Panel revives spent Phantom Ledger monsters from the GY each turn, providing board presence without consuming hand cards. Its passive counter generation in Standby Phase makes it a persistent counter engine in addition to a recovery tool — an Xyz body that pays dividends every turn it holds material.
+*Salem Encumbered* is a single copy that he did not add for value.
 
-> **Flavor:** *"The panel convenes again. The same witnesses. The same conclusions."*
+**Main Deck (40)**
+
+```
+MONSTERS (13)
+Phantom Ledger Officer — Notary            ×3
+Phantom Ledger Vice — Envy                 ×2
+Phantom Ledger Officer — Hollow Witness    ×2
+Phantom Ledger Vice — Sloth                ×2
+Phantom Ledger Officer — Bailiff           ×1
+Phantom Ledger Vice — Lust                 ×1
+Phantom Ledger — Salem, the Receiver       ×1
+Phantom Ledger — Salem Encumbered          ×1
+
+SPELLS (10)
+Phantom Ledger — Infernal Tribunal         ×3
+Phantom Ledger Filing — Petition           ×3
+Phantom Ledger — The Contract              ×2
+Phantom Ledger Filing — Infernal Debt      ×1
+Phantom Ledger Filing — The Grand Seal     ×1
+
+TRAPS (17)
+Phantom Ledger Writ — Session in Contempt  ×2
+Phantom Ledger Writ — Injunction           ×2
+Phantom Ledger Writ — Subpoena             ×2
+Phantom Ledger Writ — Administrative Penalty ×2
+Phantom Ledger Writ — Wounded Authority    ×2
+Phantom Ledger Writ — Evidence of Guilt    ×1
+Phantom Ledger Writ — Statute of Limits    ×1
+Phantom Ledger Writ — Pain Ledger          ×1
+Phantom Ledger Writ — Court-Ordered Seizure×1
+Phantom Ledger Writ — Cease and Desist     ×1
+Phantom Ledger Writ — Guilty as Charged    ×1
+Phantom Ledger Writ — The Final Audit      ×1
+```
+
+**Extra Deck (15)**
+
+```
+Phantom Ledger Officer — Silent Registrar  ×2
+Phantom Ledger Officer — Executor of Writs ×3
+Phantom Ledger — Atimia, Revoked Standing  ×3
+Phantom Ledger — The Tribunal Overseer     ×3
+Phantom Ledger — Sentence Without Appeal   ×2
+Phantom Ledger — The Grand Inquisitor      ×2
+```
+
+*"Salem, the Receiver", "Salem Encumbered" and "The Unnamed Creditor" are Main Deck monsters with their own Summoning conditions and do not occupy Extra Deck slots.*
+
+*Wrath, Greed, Pride and Gluttony are in the pool and appear only against specific archetypes — Greed and Gluttony against decks that hold cards or flood a Graveyard, Pride against anything that boards a single oversized threat. The Instruments come in against strategies he cannot out-grind, which as of this year is most of the top tables.*
+
+*"The Unnamed Creditor" is not carried in either configuration. He has it. He does not put it in the deck.*
 
 ---
 
-## FULL ARCHETYPE CARD LIST
+## FULL CARD POOL
 
-| Card Name | Type | Family |
+| Card | Type | Family |
 |---|---|---|
-| Infernal Tribunal | Field Spell | The Tribunal |
-| Petition to the Bench | Quick-Play Spell | The Tribunal |
-| Session in Contempt | Counter Trap | The Tribunal |
-| Writ of Injunction | Counter Trap | The Tribunal |
-| Evidence of Guilt | Continuous Trap | The Tribunal |
-| Statute of Limitations | Continuous Trap | The Tribunal |
-| Court-Ordered Seizure | Normal Trap | The Tribunal |
-| Pain Ledger | Continuous Trap | The Tribunal |
-| Phantom Ledger — Wrath Arbiter | Monster Lv4 | The Seven Sins |
-| Phantom Ledger — Sloth Debtor | Monster Lv3 | The Seven Sins |
-| Phantom Ledger — Greed Collector | Monster Lv5 | The Seven Sins |
-| Phantom Ledger — Pride of the Bench | Monster Lv6 | The Seven Sins |
-| Phantom Ledger — Envy's Hollow Clerk | Monster Lv4 | The Seven Sins |
-| Phantom Ledger — Gluttony's Vault | Monster Lv7 | The Seven Sins |
-| Phantom Ledger — Lust, the Consuming Appeal | Monster Lv4 | The Seven Sins |
-| Forged Testament | Quick-Play Spell | Infernal Instruments |
-| False Promise | Quick-Play Spell | Infernal Instruments |
-| Perjured Oath | Continuous Spell | Infernal Instruments |
-| Devil's Advocate | Equip Spell | Infernal Instruments |
-| Sentence Commuted | Quick-Play Spell | Infernal Instruments |
-| Infernal Debt | Quick-Play Spell | Infernal Instruments |
-| Subpoena | Normal Trap | Procedural Traps |
-| Default Judgment | Normal Trap | Procedural Traps |
-| Cease and Desist | Counter Trap | Procedural Traps |
-| Motion to Suppress | Counter Trap | Procedural Traps |
-| Administrative Penalty | Normal Trap | Procedural Traps |
-| Wounded Authority | Normal Trap | Procedural Traps |
-| The Phantom Notary | Monster Lv3 | Infernal Hierarchy |
-| The Corrupted Bailiff | Monster Lv5 | Infernal Hierarchy |
-| The Hollow Witness | Monster Lv4 | Infernal Hierarchy |
-| Salem, Infernal Receiver | Monster Lv7 | Infernal Hierarchy |
-| Salem, Corrupted Receiver | Monster Lv9 | Infernal Hierarchy |
-| The Unnamed Creditor | Monster Lv10 | Infernal Hierarchy |
-| The Contract | Continuous Spell | The Verdict |
-| Guilty as Charged | Normal Trap | The Verdict |
-| The Final Audit | Normal Trap | The Verdict |
-| The Apparitor of Sudden Seizures | Monster Lv1 / Tuner | The Infernal Court |
-| The Grand Seal of the Infernal Court | Normal Spell | The Infernal Court |
-| The Grand Inquisitor | Fusion / Lv8 | The Infernal Court |
-| Sentence Without Appeal | Fusion / Lv6 | The Infernal Court |
-| Lex Talionis, the Retribution | Fusion / Lv10 | The Infernal Court |
-| Res Judicata, the Finality | Synchro / Lv5 | The Infernal Court |
-| The Judicial Override | Synchro / Lv7 | The Infernal Court |
-| The Sovereign Executor | Synchro / Lv9 | The Infernal Court |
-| The Tribunal Overseer | Xyz / Rank 4 | The Infernal Court |
-| Atimia, the Civic Exile | Xyz / Rank 3 | The Infernal Court |
-| Dike's Final Reckoning | Xyz / Rank 7 | The Infernal Court |
-| The Inquisitorial Panel | Xyz / Rank 5 | The Infernal Court |
-| The Court's Veil, Executor of Writs | Link-2 | The Infernal Court |
-| The Silent Registrar of Sins | Link-1 | The Infernal Court |
-| Habeas Corpus of the Returned | Quick-Play Spell | The Side Deck |
-| Double Jeopardy | Counter Trap | The Side Deck |
-| Fraudulent Trading | Quick-Play Spell | The Side Deck |
-| Ex Parte Injunction | Normal Trap | The Side Deck |
-| Scire Facias | Quick-Play Spell | The Side Deck |
-| The Euthyna, Audit of the Self | Normal Trap | The Side Deck |
-| Lien on Life Points | Continuous Trap | The Side Deck |
-| Contrapasso | Normal Trap | The Side Deck |
-| Fiat Justitia | Normal Spell | The Side Deck |
-| Mens Rea | Quick-Play Spell | The Side Deck |
-| Ultra Vires | Counter Trap | The Side Deck |
-| The Dead Hand Rule | Continuous Trap | The Side Deck |
-| Paragraphe, the Counter-Indictment | Counter Trap | The Side Deck |
-| The Absolute Priority Rule | Normal Trap | The Side Deck |
+| Phantom Ledger — Infernal Tribunal | Field Spell | The Tribunal |
+| Phantom Ledger Filing — Petition to the Bench | Quick-Play Spell | The Tribunal |
+| Phantom Ledger Writ — Session in Contempt | Counter Trap | The Tribunal |
+| Phantom Ledger Writ — Injunction | Counter Trap | The Tribunal |
+| Phantom Ledger Writ — Evidence of Guilt | Continuous Trap | The Tribunal |
+| Phantom Ledger Writ — Statute of Limitations | Continuous Trap | The Tribunal |
+| Phantom Ledger Writ — Court-Ordered Seizure | Normal Trap | The Tribunal |
+| Phantom Ledger Writ — Pain Ledger | Continuous Trap | The Tribunal |
+| Phantom Ledger Officer — Notary | Monster Lv3 | The Officers |
+| Phantom Ledger Officer — Bailiff | Monster Lv5 | The Officers |
+| Phantom Ledger Officer — Hollow Witness | Monster Lv4 | The Officers |
+| Phantom Ledger Vice — Wrath | Monster Lv4 | The Vices |
+| Phantom Ledger Vice — Sloth | Monster Lv3 | The Vices |
+| Phantom Ledger Vice — Greed | Monster Lv5 | The Vices |
+| Phantom Ledger Vice — Pride | Monster Lv6 | The Vices |
+| Phantom Ledger Vice — Envy | Monster Lv4 | The Vices |
+| Phantom Ledger Vice — Gluttony | Monster Lv7 | The Vices |
+| Phantom Ledger Vice — Lust | Monster Lv4 | The Vices |
+| Phantom Ledger Filing — Forged Testament | Quick-Play Spell | The Instruments |
+| Phantom Ledger Filing — False Promise | Quick-Play Spell | The Instruments |
+| Phantom Ledger Filing — Perjured Oath | Continuous Spell | The Instruments |
+| Phantom Ledger Filing — Devil's Advocate | Equip Spell | The Instruments |
+| Phantom Ledger Filing — Sentence Commuted | Quick-Play Spell | The Instruments |
+| Phantom Ledger Filing — Infernal Debt | Quick-Play Spell | The Instruments |
+| Phantom Ledger Writ — Subpoena | Normal Trap | Procedure |
+| Phantom Ledger Writ — Default Judgment | Normal Trap | Procedure |
+| Phantom Ledger Writ — Cease and Desist | Counter Trap | Procedure |
+| Phantom Ledger Writ — Motion to Suppress | Counter Trap | Procedure |
+| Phantom Ledger Writ — Administrative Penalty | Normal Trap | Procedure |
+| Phantom Ledger Writ — Wounded Authority | Normal Trap | Procedure |
+| Phantom Ledger — Salem, the Receiver | Monster Lv7 | The Bench |
+| Phantom Ledger — Salem Encumbered | Monster Lv9 | The Bench |
+| The Unnamed Creditor | Monster Lv10 | *(no archetype)* |
+| Phantom Ledger — The Contract | Continuous Spell | The Verdict |
+| Phantom Ledger Writ — Guilty as Charged | Normal Trap | The Verdict |
+| Phantom Ledger Writ — The Final Audit | Normal Trap | The Verdict |
+| Phantom Ledger Filing — The Grand Seal | Normal Spell | The Court Manifest |
+| Phantom Ledger Officer — Silent Registrar | Link-1 | The Court Manifest |
+| Phantom Ledger Officer — Executor of Writs | Link-2 | The Court Manifest |
+| Phantom Ledger — Atimia, the Revoked Standing | Xyz Rank 3 | The Court Manifest |
+| Phantom Ledger — The Tribunal Overseer | Xyz Rank 4 | The Court Manifest |
+| Phantom Ledger — Sentence Without Appeal | Fusion Lv6 | The Court Manifest |
+| Phantom Ledger — The Grand Inquisitor | Fusion Lv8 | The Court Manifest |
+| Phantom Ledger Filing — Habeas Corpus | Quick-Play Spell | Contingency |
+| Phantom Ledger Writ — Double Jeopardy | Counter Trap | Contingency |
+| Phantom Ledger Writ — Ultra Vires | Counter Trap | Contingency |
+| Phantom Ledger Writ — Paragraphe | Counter Trap | Contingency |
+| Phantom Ledger Writ — Ex Parte Injunction | Normal Trap | Contingency |
+| Phantom Ledger Writ — The Dead Hand Rule | Continuous Trap | Contingency |
+| Phantom Ledger Writ — Lien on Life Points | Continuous Trap | Contingency |
+| Phantom Ledger Writ — Contrapasso | Normal Trap | Contingency |
+| Phantom Ledger Writ — The Absolute Priority Rule | Normal Trap | Contingency |
+| Phantom Ledger Filing — Scire Facias | Quick-Play Spell | Contingency |
+| Phantom Ledger Filing — The Euthyna | Quick-Play Spell | Contingency |
+| Phantom Ledger Filing — Fiat Justitia | Normal Spell | Contingency |
 
-*64 unique card designs across 8 thematic families. All unprinted and theoretical.*
-*Recommended deck construction uses multiple copies of key cards: Main Deck 40 slots — Extra Deck 15 slots — Side Deck 15 slots.*
+*Fifty-five signatures. None of them exist. All of them have been logged.*
 
 ---
 
-*Part IX cards are fan designs — unprinted and theoretical.*
+## THE MAXIMS
+
+He does not quote these for effect. They are the operating doctrine underneath every ruling he delivers, and three of them are load-bearing on the case he is building.
+
+| Maxim | Meaning | Application |
+|---|---|---|
+| *Pacta sunt servanda* | Agreements must be kept | Once a clause resolves unopposed, it binds. The foundation of The Contract. |
+| *Ignorantia juris non excusat* | Ignorance of the law is no excuse | The defendant did not read the card carefully. This changes nothing. |
+| *Qui hæret in litera hæret in cortice* | He who clings to the letter clings to the bark | They followed the words. They missed the court. |
+| *Res judicata* | A matter judged | A negated effect the opponent attempts to re-run. The court has ruled. |
+| *Nemo dat quod non habet* | No one gives what they do not have | **The Creditor could not grant an appointment it did not have standing to grant.** |
+| *Nemo iudex in causa sua* | No one is a judge in their own cause | **The plaintiff appointed the officer. The proceedings were never valid.** |
+| *Fiat justitia ruat caelum* | Let justice be done though the heavens fall | The clause that governs Salem himself, and the reason he is going to file anyway. |
+
+---
+
+## SIGNATURE LINES
+
+| Moment | Line |
+|---|---|
+| Opening | *"Your case has been accepted."* |
+| Activating a clause | *"Clause enforced."* |
+| Burn damage | *"Administrative penalties apply."* |
+| The defendant realises | *"You were never negotiating."* |
+| Activating The Contract | *"Please review the terms before you continue."* |
+| Victory | *"Your balance has been transferred."* |
+| After a defeat, first stage | *"The record has been updated."* |
+| After a defeat, fourth stage | A pause slightly too long, then a sentence with the clauses in the wrong order, then silence. |
+| Every single time, after every win | *"You conducted a thorough defence."* — and he extends his hand, and he means it. |
 
 ---
 
 **SALEM — THE INFERNAL RECEIVER**
-*He did not become a collector of debts. He became a debt that collects.*
+
+*Sixty-one entries closed. Thirty-eight to go, or one filing.*
+
+*He is the only officer of the court, the only party with standing, the only person holding a record that Ma'at will weigh — and the price of submitting it is establishing, on the record, in front of everything, that he was never a judge at all.*
