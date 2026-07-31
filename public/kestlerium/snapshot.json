@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 4416,
- "quando": "31/07/2026 00:00",
+ "tick": 4422,
+ "quando": "31/07/2026 03:00",
  "noite": true,
  "agentes": {
   "ruth": {
@@ -221,8 +221,8 @@
   },
   {
    "agent_id": "tonho",
-   "location_id": "bar",
-   "activity": "trabalhar"
+   "location_id": "casario",
+   "activity": "dormir"
   },
   {
    "agent_id": "marcia",
