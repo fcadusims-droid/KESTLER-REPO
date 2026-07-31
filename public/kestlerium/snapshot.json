@@ -1,9 +1,9 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 4422,
- "quando": "31/07/2026 03:00",
- "noite": true,
+ "tick": 4428,
+ "quando": "31/07/2026 06:00",
+ "noite": false,
  "agentes": {
   "ruth": {
    "nome": "Dona Ruth",
@@ -241,13 +241,13 @@
   },
   {
    "agent_id": "djalma",
-   "location_id": "casario",
-   "activity": "dormir"
+   "location_id": "ponto",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "cida",
-   "location_id": "casario",
-   "activity": "dormir"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "vitor",
