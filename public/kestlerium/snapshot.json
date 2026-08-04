@@ -1,9 +1,9 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 4598,
- "quando": "03/08/2026 19:00",
- "noite": false,
+ "tick": 4601,
+ "quando": "03/08/2026 20:30",
+ "noite": true,
  "agentes": {
   "ruth": {
    "nome": "Dona Ruth",
@@ -211,13 +211,13 @@
   },
   {
    "agent_id": "aurelio",
-   "location_id": "bar",
-   "activity": "beber"
+   "location_id": "casario",
+   "activity": "casa"
   },
   {
    "agent_id": "neide",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "beira",
+   "activity": "descansar"
   },
   {
    "agent_id": "tonho",
@@ -226,18 +226,18 @@
   },
   {
    "agent_id": "marcia",
-   "location_id": "praca",
-   "activity": "descansar"
+   "location_id": "casario",
+   "activity": "casa"
   },
   {
    "agent_id": "zebruno",
-   "location_id": "bar",
-   "activity": "beber"
+   "location_id": "pensao",
+   "activity": "casa"
   },
   {
    "agent_id": "lurdes",
-   "location_id": "igreja",
-   "activity": "descansar"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "djalma",
@@ -246,13 +246,13 @@
   },
   {
    "agent_id": "cida",
-   "location_id": "praca",
-   "activity": "descansar"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "vitor",
    "location_id": "bar",
-   "activity": "beber"
+   "activity": "deriva"
   }
  ],
  "cabecas": {
