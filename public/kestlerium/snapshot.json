@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 4779,
- "quando": "07/08/2026 13:30",
+ "tick": 4781,
+ "quando": "07/08/2026 14:30",
  "noite": false,
  "agentes": {
   "ruth": {
@@ -241,18 +241,18 @@
   },
   {
    "agent_id": "djalma",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "ponto",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "cida",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "igreja",
+   "activity": "descansar"
   },
   {
    "agent_id": "vitor",
-   "location_id": "oficina",
-   "activity": "trabalhar"
+   "location_id": "beira",
+   "activity": "caminhar"
   }
  ],
  "cabecas": {
