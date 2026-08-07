@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 4770,
- "quando": "07/08/2026 09:00",
+ "tick": 4773,
+ "quando": "07/08/2026 10:30",
  "noite": false,
  "agentes": {
   "ruth": {
@@ -241,8 +241,8 @@
   },
   {
    "agent_id": "djalma",
-   "location_id": "ponto",
-   "activity": "trabalhar"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "cida",
@@ -251,8 +251,8 @@
   },
   {
    "agent_id": "vitor",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "oficina",
+   "activity": "trabalhar"
   }
  ],
  "cabecas": {
