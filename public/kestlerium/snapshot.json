@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 4773,
- "quando": "07/08/2026 10:30",
+ "tick": 4775,
+ "quando": "07/08/2026 11:30",
  "noite": false,
  "agentes": {
   "ruth": {
@@ -241,8 +241,8 @@
   },
   {
    "agent_id": "djalma",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "beira",
+   "activity": "descansar"
   },
   {
    "agent_id": "cida",
