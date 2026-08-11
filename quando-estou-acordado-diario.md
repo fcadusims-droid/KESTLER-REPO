@@ -8,7 +8,9 @@ Vou tentar ser específico. Se alguém um dia ler isso, ou se eu mesmo precisar 
 
 A cidade está funcionando. Isso ainda me assusta mais do que assustaria se estivesse destruída. Destruição eu entenderia. Isso aqui eu não entendo.
 
-Os pássaros ainda cantam de manhã, do jeito de sempre. De vez em quando ouço cachorro latindo em algum quintal longe. Isso deveria ser reconfortante, mas de um jeito estranho torna tudo pior — porque prova que a vida não parou. Só as pessoas.
+Os pássaros ainda cantam de manhã, do jeito de sempre.
+
+Não. Isso é mentira, e prometi a mim mesmo escrever a verdade aqui. Não ouço pássaro nenhum de manhã. Não ouço cachorro latindo em lugar nenhum. No começo achei que era impressão minha, que eu só não estava prestando atenção. Depois de alguns dias percebi que não é impressão. Não tem som nenhum na cidade que não seja meu, ou da própria cidade funcionando sozinha.
 
 ## Um dia depois, talvez dois
 
@@ -18,7 +20,7 @@ Fui até o mercado da esquina. As luzes estavam acesas, as gôndolas cheias, o c
 
 Nada se moveu. Nem uma luz piscou diferente. Nem um som.
 
-Foi saindo do mercado que vi o primeiro gato. Estava deitado em cima do capô de um carro, se limpando, tranquilo, como se nada no mundo dele tivesse mudado. Fiquei olhando aquilo um tempo bom antes de entender a implicação: ele não sumiu. Nenhum bicho sumiu, até onde eu ia perceber depois. Só a gente.
+Foi saindo do mercado que reparei numa coisa estranha: tinha uma teia de aranha grande atravessada na porta de entrada, montada perfeita, sem um furo, sem nada preso nela. Procurei a aranha. Não tinha aranha nenhuma na teia. Fiquei olhando aquilo mais tempo do que deveria, sem entender por que aquilo me incomodava tanto mais do que a rua vazia.
 
 Isso me deu uma ideia que devia ter tido antes: e se eu simplesmente não dormir?
 
@@ -66,7 +68,7 @@ Continuava.
 
 Passei por uma rodovia. Tinha caminhões parados no acostamento, motor ligado, como se o motorista tivesse descido pra checar um pneu e nunca voltado. Passei por um posto de gasolina funcionando, bomba ligada, sem ninguém.
 
-Numa parte da estrada cercada de pasto, vi um bando de vacas pastando quieto do outro lado da cerca, como se nada no mundo delas tivesse mudado. Mais à frente, um bando de urubus sobrevoava um ponto fixo — não quis parar pra ver o quê. Gado, aves, tudo continuava do jeito de sempre. Só faltava gente pra cuidar deles, pra dirigir os caminhões, pra abrir os portões das cercas.
+Numa parte da estrada cercada de pasto, não vi um bicho sequer. Nenhuma vaca no pasto. Nenhum pássaro no céu. Nenhum inseto batendo no para-brisa — só percebi isso depois, tentando lembrar, porque estrada sem inseto no vidro não é o tipo de coisa que a gente nota na hora. Vi ninhos vazios em alguns postes de luz. Vi teias de aranha intactas embaixo de placas de sinalização, sem dono. Alguma coisa fez aquilo. Só não vi o quê, nem quando.
 
 Não fui até outra cidade. Fiquei com medo de ficar sem gasolina longe de casa e ter que voltar andando por estrada vazia à noite. Isso é uma coisa boba de admitir, mas é verdade: tenho medo de coisas comuns, mesmo nesse mundo sem gente. Medo de ficar sem gasolina. Medo de me cortar e não ter socorro. O fim do mundo não tirou esses medos pequenos, só empilhou um medo enorme em cima deles.
 
@@ -76,21 +78,25 @@ Fiquei pensando por que nunca tentei isso antes. Acho que, no fundo, eu não que
 
 Agora sei que não é só aqui. Não sei até onde vai. Não vou fingir que sei coisas que não sei.
 
-## Sobre os bichos
+## Sobre os bichos que eu nunca vejo agir
 
-Reparei que nunca vi um bicho estranho, fora do lugar, perdido. Cachorros que antes deviam ter dono agora andam em bando pela cidade, mas não parecem descontrolados — parecem só livres. Vi um deles bebendo água de uma poça perto de um hidrante que vaza há dias, sem ninguém pra consertar.
+Fiz um teste há alguns dias que só terminei de entender agora. Deixei um pedaço de pão caído no chão da cozinha, de propósito, pra ver o que ia acontecer.
 
-Os gatos parecem os que menos se importam com tudo isso. Continuam deitando no capô dos carros quentes, à tarde, do jeito que sempre fizeram.
+No primeiro dia, nada. No segundo, também nada, pelo menos nada que eu notasse de manhã. No terceiro dia, o pão já estava roído pelas bordas, do jeito que formiga rói, aos poucos, de fora pra dentro. No quinto dia, quase não sobrava nada.
 
-Isso me faz pensar uma coisa que ainda não tinha escrito aqui, mas devia: seja lá o que aconteceu, aconteceu só com a gente. Não com os bichos. Não com as plantas — os jardins continuam crescendo, alguns até descontrolados, tomando conta das calçadas onde antes alguém aparava. Não com os insetos — ainda ouço as cigarras no fim de tarde, do mesmo jeito de sempre.
+Formigas comeram aquele pão. Disso eu tenho certeza, porque vi o resultado — as bordas roídas, o formato do buraco, o jeito que foi sumindo aos poucos e não de uma vez. O que eu nunca vi, em nenhum momento, foi uma formiga.
 
-Só com a gente.
+É a mesma coisa que acontece com os carros, com as portas, com o restaurante. Alguma coisa age. O resultado aparece depois. O ato em si, nunca.
 
-Isso devia me consolar, de um jeito. Prova que o mundo não quebrou, só perdeu uma peça específica. Mas é justamente isso que mais me assusta. Porque significa que o que aconteceu escolheu. De alguma forma, escolheu.
+Isso muda o que eu vinha pensando até agora. Não é que os bichos sumiram junto com as pessoas. É que a regra que esconde tudo de mim — seja lá qual for essa regra — não separa gente de bicho. Ela vale até pra uma formiga carregando migalha, uma coisa tão pequena que eu nem devia esperar que alguém, ou alguma coisa, se desse ao trabalho de esconder.
+
+Reparei também que as teias de aranha pela cidade estão crescendo com o tempo, se eu comparo com o que anotei antes — mais fios, mais voltas, do jeito que teia cresce quando a aranha trabalha nela. Nunca vi uma aranha trabalhando. Os ninhos de pássaro também estão ficando maiores, um graveto a mais a cada tanto tempo. Nunca vi um pássaro carregando um graveto sequer.
+
+O mundo não está vazio de vida. Está cheio de vida que eu nunca pego no ato.
 
 ## Uma noite ruim
 
-Hoje tive vontade de gritar no meio da rua só pra ouvir uma voz que não fosse a minha. Os pássaros cantam, os cachorros latem em algum lugar, os grilos começam à noite do jeito que sempre começaram. Mas nenhuma voz humana. Gritei. Minha voz ecoou entre os prédios de um jeito que nunca tinha ouvido antes — porque normalmente tem gente, tem som, tem carro buzinando, tem alguma coisa absorvendo o som. Sem ninguém, o eco fica limpo, comprido, meio errado.
+Hoje tive vontade de gritar no meio da rua só pra ouvir uma voz que não fosse a minha. Não tem passarinho. Não tem cachorro. Não tem grilo. Não tem nada. Só eu. Gritei. Minha voz ecoou entre os prédios de um jeito que nunca tinha ouvido antes — porque normalmente tem gente, tem som, tem carro buzinando, tem alguma coisa absorvendo o som. Sem ninguém, o eco fica limpo, comprido, meio errado.
 
 Não vou fingir que estou bem. Não estou. Mas também não tenho pra quem não estar bem, o que de um jeito estranho facilita e de outro piora tudo.
 
@@ -125,6 +131,26 @@ Não voltei àquele restaurante. Sei que devia. Sei que é o tipo de pista que e
 Em vez disso, fiquei pensando em como era minha vida antes disso tudo. Não vou escrever meu nome aqui, nem o de mais ninguém — não sei bem por quê, talvez porque escrever um nome pareça um jeito de admitir que essa pessoa não vai mais ouvir ninguém falar esse nome de novo. Mas posso dizer que eu tinha rotina, tinha gente com quem brigava por besteira, tinha coisas que eu adiava fazer achando que teria mais tempo.
 
 Isso agora parece piada. Tempo é a única coisa que sobrou.
+
+## O parque
+
+Não escrevi por vários dias. Não sei quantos exatamente — perdi a conta de novo, o que parece acontecer comigo toda vez que as coisas ficam pesadas demais pra anotar.
+
+Hoje fui até o parque perto de casa sem motivo nenhum específico. Só queria deitar na grama e não pensar em prato nenhum, em teia nenhuma, em nada que tivesse a ver com o que ando tentando entender.
+
+Deitei. Fechei os olhos, sem dormir, só descansando.
+
+E ouvi uma cigarra.
+
+Fiquei parado, sem me mexer, com medo de que fosse imaginação, ou de que parasse assim que eu prestasse atenção de verdade. Não parou. Continuou cantando, alta, em algum lugar entre as árvores atrás de mim.
+
+Levantei devagar. Segui o som. Levei um tempo — cigarra é osso duro de achar mesmo quando está gritando, o som engana, parece vir de todo lado ao mesmo tempo. Mas achei. Numa árvore baixa, perto do chão, visível se eu soubesse onde olhar.
+
+Fiquei olhando aquele bicho um tempo que não sei medir. Foi a primeira coisa viva que vi, além de mim mesmo, desde que tudo isso começou. E mais que isso: foi a primeira vez que vi alguma coisa agindo, ao vivo, na minha frente — não o resultado de uma ação, do jeito que sempre acontece com tudo mais nessa cidade. A cigarra cantando ali, sem eu precisar deduzir nada depois, sem depender de pão roído ou teia mais cheia pra provar que alguma coisa esteve ali.
+
+Não sei dizer direito o que senti. Não foi alívio, exatamente. Foi mais parecido com ouvir uma voz depois de ficar mudo tempo demais — vontade de chorar e vontade de rir ao mesmo tempo, sem escolher nenhum dos dois.
+
+Fiquei ali até escurecer. A cigarra parou de cantar em algum momento, do jeito que cigarra sempre para quando a luz muda. Não voltei a ouvir outra depois daquele dia, pelo menos não ainda. Mas agora sei de uma coisa que antes eu só suspeitava: o silêncio não é permanente. Alguma coisa, em algum lugar, ainda está viva além de mim. Só não sei por que demorou tanto pra eu encontrar essa prova, nem por que foi logo ali, deitado na grama, sem estar procurando por nada.
 
 ## Retomando as anotações do padrão
 
