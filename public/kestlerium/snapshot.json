@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5032,
- "quando": "12/08/2026 20:00",
+ "tick": 5036,
+ "quando": "12/08/2026 22:00",
  "noite": true,
  "agentes": {
   "ruth": {
@@ -207,17 +207,17 @@
   {
    "agent_id": "ruth",
    "location_id": "pensao",
-   "activity": "casa"
+   "activity": "dormir"
   },
   {
    "agent_id": "aurelio",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "casario",
+   "activity": "casa"
   },
   {
    "agent_id": "neide",
-   "location_id": "beira",
-   "activity": "descansar"
+   "location_id": "casario",
+   "activity": "casa"
   },
   {
    "agent_id": "tonho",
@@ -236,8 +236,8 @@
   },
   {
    "agent_id": "lurdes",
-   "location_id": "igreja",
-   "activity": "descansar"
+   "location_id": "casario",
+   "activity": "casa"
   },
   {
    "agent_id": "djalma",
@@ -246,13 +246,13 @@
   },
   {
    "agent_id": "cida",
-   "location_id": "praca",
-   "activity": "descansar"
+   "location_id": "casario",
+   "activity": "casa"
   },
   {
    "agent_id": "vitor",
-   "location_id": "bar",
-   "activity": "beber"
+   "location_id": "casario",
+   "activity": "casa"
   }
  ],
  "cabecas": {
