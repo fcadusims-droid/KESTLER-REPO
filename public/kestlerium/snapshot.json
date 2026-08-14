@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5103,
- "quando": "14/08/2026 07:30",
+ "tick": 5105,
+ "quando": "14/08/2026 08:30",
  "noite": false,
  "agentes": {
   "ruth": {
@@ -211,33 +211,33 @@
   },
   {
    "agent_id": "aurelio",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "oficina",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "neide",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "posto",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "tonho",
-   "location_id": "casario",
-   "activity": "dormir"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "marcia",
-   "location_id": "casario",
-   "activity": "dormir"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "zebruno",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "oficina",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "lurdes",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "casario",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "djalma",
@@ -246,8 +246,8 @@
   },
   {
    "agent_id": "cida",
-   "location_id": "casario",
-   "activity": "dormir"
+   "location_id": "praca",
+   "activity": "descansar"
   },
   {
    "agent_id": "vitor",
