@@ -1,9 +1,9 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5271,
- "quando": "17/08/2026 19:30",
- "noite": false,
+ "tick": 5272,
+ "quando": "17/08/2026 20:00",
+ "noite": true,
  "agentes": {
   "ruth": {
    "nome": "Dona Ruth",
@@ -211,8 +211,8 @@
   },
   {
    "agent_id": "aurelio",
-   "location_id": "bar",
-   "activity": "beber"
+   "location_id": "casario",
+   "activity": "casa"
   },
   {
    "agent_id": "neide",
