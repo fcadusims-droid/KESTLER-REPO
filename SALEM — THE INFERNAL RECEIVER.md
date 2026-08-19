@@ -1,4 +1,4 @@
----
+--- FANFICTION YU GI OH 
 title: "Salem — The Infernal Receiver"
 description: "The Phantom Ledger: a compiled record of the ninety-nine, the officer who collects them, and the law that both of them are standing inside."
 setting: "Yu-Gi-Oh! — present day, 2026"
