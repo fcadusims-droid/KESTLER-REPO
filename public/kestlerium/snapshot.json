@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5358,
- "quando": "19/08/2026 15:00",
+ "tick": 5359,
+ "quando": "19/08/2026 15:30",
  "noite": false,
  "agentes": {
   "ruth": {
@@ -236,8 +236,8 @@
   },
   {
    "agent_id": "lurdes",
-   "location_id": "casario",
-   "activity": "trabalhar"
+   "location_id": "mercearia",
+   "activity": "compras"
   },
   {
    "agent_id": "djalma",
