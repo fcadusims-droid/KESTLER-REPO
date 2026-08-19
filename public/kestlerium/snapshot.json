@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5350,
- "quando": "19/08/2026 11:00",
+ "tick": 5351,
+ "quando": "19/08/2026 11:30",
  "noite": false,
  "agentes": {
   "ruth": {
