@@ -1,9 +1,9 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5483,
- "quando": "22/08/2026 05:30",
- "noite": true,
+ "tick": 5484,
+ "quando": "22/08/2026 06:00",
+ "noite": false,
  "agentes": {
   "ruth": {
    "nome": "Dona Ruth",
