@@ -1,8 +1,8 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5546,
- "quando": "23/08/2026 13:00",
+ "tick": 5547,
+ "quando": "23/08/2026 13:30",
  "noite": false,
  "agentes": {
   "ruth": {
@@ -241,12 +241,12 @@
   },
   {
    "agent_id": "djalma",
-   "location_id": "beira",
-   "activity": "descansar"
+   "location_id": "ponto",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "cida",
-   "location_id": "praca",
+   "location_id": "igreja",
    "activity": "descansar"
   },
   {
