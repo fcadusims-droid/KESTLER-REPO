@@ -1,9 +1,9 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5710,
- "quando": "26/08/2026 23:00",
- "noite": true,
+ "tick": 5732,
+ "quando": "27/08/2026 10:00",
+ "noite": false,
  "agentes": {
   "ruth": {
    "nome": "Dona Ruth",
@@ -206,53 +206,53 @@
  "estado": [
   {
    "agent_id": "ruth",
-   "location_id": "pensao",
-   "activity": "dormir"
-  },
-  {
-   "agent_id": "aurelio",
-   "location_id": "casario",
-   "activity": "casa"
-  },
-  {
-   "agent_id": "neide",
-   "location_id": "casario",
-   "activity": "casa"
-  },
-  {
-   "agent_id": "tonho",
-   "location_id": "bar",
+   "location_id": "mercearia",
    "activity": "trabalhar"
   },
   {
+   "agent_id": "aurelio",
+   "location_id": null,
+   "activity": "em_transito"
+  },
+  {
+   "agent_id": "neide",
+   "location_id": "posto",
+   "activity": "trabalhar"
+  },
+  {
+   "agent_id": "tonho",
+   "location_id": "mercearia",
+   "activity": "compras"
+  },
+  {
    "agent_id": "marcia",
-   "location_id": "casario",
-   "activity": "casa"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "zebruno",
-   "location_id": "pensao",
-   "activity": "casa"
+   "location_id": "oficina",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "lurdes",
    "location_id": "casario",
-   "activity": "casa"
+   "activity": "trabalhar"
   },
   {
    "agent_id": "djalma",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "ponto",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "cida",
-   "location_id": null,
-   "activity": "em_transito"
+   "location_id": "praca",
+   "activity": "descansar"
   },
   {
    "agent_id": "vitor",
-   "location_id": "casario",
-   "activity": "casa"
+   "location_id": "oficina",
+   "activity": "trabalhar"
   }
  ],
  "cabecas": {
@@ -1382,13 +1382,6 @@
    "afeto": 0.13,
    "confianca": 0.51,
    "tensao": 0.32
-  },
-  {
-   "a": "cida",
-   "b": "lurdes",
-   "afeto": 0.1,
-   "confianca": 0.47,
-   "tensao": 0.34
   },
   {
    "a": "djalma",
