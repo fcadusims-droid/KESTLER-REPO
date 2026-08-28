@@ -1,7 +1,0 @@
-# Saída de simulação. O banco do mundo REAL é exceção: é ele que carrega o
-# estado de uma execução do agendador para a próxima, então precisa ser
-# versionado. Os bancos de validação são descartáveis.
-out/*
-!out/mundo_*.db
-__pycache__/
-*.pyc

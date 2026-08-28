@@ -1,3 +1,11 @@
+---
+title: "Call of Duty: War Serpent"
+description: "A world bible set within the world of Call of Duty Zombies, reimagined with substantial creative liberty: a war with no beginning and no end, a serpent coiled around human history, feeding forever on what it has already killed."
+genre: "Cosmic War Horror"
+setting: "Call of Duty Zombies"
+category: "Fanfiction"
+---
+
 # CALL OF DUTY: WAR SERPENT
 ### A World Bible
 

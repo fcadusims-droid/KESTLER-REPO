@@ -49,11 +49,8 @@ export default defineConfig({
   // Do NOT turn dev files or private documents into pages or index them.
   srcExclude: [
     ...excludedGlobs(),
-    // Subfolders are private by default — the rule DESIGN.md has always
-    // stated. It used to be a list of three named folders, which is not the
-    // same thing: kestlerium/*.md was being rendered as pages of the literary
-    // archive, so the engine's design notes sat in the library alongside the
-    // novels. Only root-level Markdown is a work.
+    // Subfolders are private by default: only root-level Markdown is a work.
+    // Anything dropped into a subfolder is never built, linked, or indexed.
     '*/**/*.md',
     '*/*.md',
     '**/node_modules/**'
