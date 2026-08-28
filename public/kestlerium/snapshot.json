@@ -1,9 +1,9 @@
 {
  "mundo": "vila",
  "fios": [],
- "tick": 5752,
- "quando": "27/08/2026 20:00",
- "noite": true,
+ "tick": 5772,
+ "quando": "28/08/2026 06:00",
+ "noite": false,
  "agentes": {
   "ruth": {
    "nome": "Dona Ruth",
@@ -206,8 +206,8 @@
  "estado": [
   {
    "agent_id": "ruth",
-   "location_id": "pensao",
-   "activity": "casa"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "aurelio",
@@ -216,18 +216,18 @@
   },
   {
    "agent_id": "neide",
-   "location_id": "beira",
-   "activity": "descansar"
+   "location_id": "casario",
+   "activity": "dormir"
   },
   {
    "agent_id": "tonho",
-   "location_id": "bar",
-   "activity": "trabalhar"
+   "location_id": "casario",
+   "activity": "dormir"
   },
   {
    "agent_id": "marcia",
    "location_id": "casario",
-   "activity": "casa"
+   "activity": "dormir"
   },
   {
    "agent_id": "zebruno",
@@ -236,23 +236,23 @@
   },
   {
    "agent_id": "lurdes",
-   "location_id": "igreja",
-   "activity": "descansar"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "djalma",
-   "location_id": "casario",
-   "activity": "casa"
+   "location_id": "ponto",
+   "activity": "trabalhar"
   },
   {
    "agent_id": "cida",
-   "location_id": "praca",
-   "activity": "descansar"
+   "location_id": null,
+   "activity": "em_transito"
   },
   {
    "agent_id": "vitor",
-   "location_id": "bar",
-   "activity": "beber"
+   "location_id": "casario",
+   "activity": "dormir"
   }
  ],
  "cabecas": {
@@ -1301,13 +1301,6 @@
   },
   {
    "a": "aurelio",
-   "b": "marcia",
-   "afeto": 0.09,
-   "confianca": 0.45,
-   "tensao": 0.35
-  },
-  {
-   "a": "aurelio",
    "b": "neide",
    "afeto": 0.08,
    "confianca": 0.44,
@@ -1377,13 +1370,6 @@
    "tensao": 0.29
   },
   {
-   "a": "lurdes",
-   "b": "marcia",
-   "afeto": 0.13,
-   "confianca": 0.51,
-   "tensao": 0.32
-  },
-  {
    "a": "djalma",
    "b": "lurdes",
    "afeto": 0.08,
@@ -1403,13 +1389,6 @@
    "afeto": 0.08,
    "confianca": 0.43,
    "tensao": 0.28
-  },
-  {
-   "a": "cida",
-   "b": "vitor",
-   "afeto": 0.08,
-   "confianca": 0.44,
-   "tensao": 0.33
   },
   {
    "a": "ruth",
