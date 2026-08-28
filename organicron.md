@@ -1,3 +1,11 @@
+---
+title: "Organicron"
+description: "After the wars with Cybertron end without settling anything, humanity concludes it can never win by building better war machines — so it engineers a living organism instead. A story about defending a species that refuses to stay the same."
+genre: "Biopunk Science Fiction"
+setting: "Transformers"
+category: "Fanfiction"
+---
+
 # ORGANICRON
 
 ## I. The Conclusion Humanity Reached
