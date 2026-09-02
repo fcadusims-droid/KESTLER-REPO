@@ -12,19 +12,32 @@
 
 *This opening section is written plainly, as a design document. Everything after it is written in-world, in the voice of someone who lives there.*
 
-**Genre:** Open-world, third-person, unarmed-first melee combat game with narrative-driven moral consequence.
+**Genre:** A grounded 3D brawler — a beat 'em up in the modern, cinematic sense of the word, in the family of *The Warriors,* *Sleeping Dogs,* *Sifu,* and *Manhunt* — set in a semi-open world, unarmed-first, third-person, with narrative-driven moral consequence. Not a fighting game (no arena duels, no matchups), and not a classic arcade beat 'em up (no endless hordes, no combo-juggling, no power-ups). Street violence, realistic and without rules, is the core verb.
 
-**The core design tension, and how it is resolved.**
+**Why this genre, and what it is not.**
 
-Fighting games want containment: a closed arena, two bodies, a readable camera, frame-precise inputs. Open worlds want the opposite: continuous space, dispersion, parallel systems, drift. A game that promises both usually breaks one to serve the other. This project refuses to split the difference and instead makes containment *diegetic* — the world itself is built to funnel violence into legible spaces.
+The nearest thing to *ZEV* that has ever shipped is Rockstar's *The Warriors* (2005): a 3D brawler in a semi-open, gang-carved city, where you are not a super-soldier but a goon fighting other goons who are exactly as strong as you, in a grimy, dystopian world where every faction has its own turf, look and fighting style. That game is the spiritual prototype. *ZEV* is what that idea becomes when it is given a real open world, a modern combat system, and a story with teeth.
 
-Concretely:
+Three genre traps to stay out of, because each one pulls the game toward a place it should not go:
 
-- **Combat is fluid-cinematic with a technical spine**, closer to *Sifu* than to *Tekken*. The fantasy in the closed fist is not the memorized combo string; it is *survival through timing* — reads, parries, positioning, the desperate improvisation of a man who cannot afford to lose. Depth comes from defense and spacing, not from a move list the player must drill.
+- **It is not a fighting game.** No arena duels, no character-select, no frame-perfect matchups, no health-bar-versus-health-bar. Those live in containment; this lives in the street.
+- **It is not a classic arcade beat 'em up.** No improbable hordes cleared for score, no juggling a dozen mooks with an infinite combo, no floating power-ups, no artificial difficulty designed to eat coins. Those conventions read as *unreal,* and unreal is the one thing this game cannot be.
+- **It is not a character-action game** (*Devil May Cry,* *Bayonetta*). No stylish-rank meters, no superhuman flourish, no fantasy of mastery-as-spectacle. The fantasy here is survival, not virtuosity.
 
-- **The open world is not a combat arena.** It is the space between fights — the space where the *stakes* of fights are established. Territory, reputation, surveillance, and the search for the brother live in the open world. When violence erupts, the world geometry (alleys, rooftops, tunnel chokepoints, ringed courtyards) collapses the space into something the camera can hold. Fights are *found* in the open world; they are *fought* in pockets the world has pre-shaped for them.
+**What it is: grounded, brutal, and honest about the body.**
 
-- **Weapons are economic, not incidental.** Bare hands are the default and the identity. Bladed and improvised weapons are craftable from scrap but scarce and fragile. Firearms exist but are functionally illegal for almost everyone; possessing one is a political statement, and *using* one is a declaration that must be justified before higher powers. The escalation from fist → blade → gun is an escalation of *consequence*, not just damage.
+Combat is *fluid-cinematic with a technical spine* — the readable, weighty, counter-driven family of *Sleeping Dogs* and *Sifu,* not the twitch-execution of *Tekken.* The load-bearing principles:
+
+- **Few tools, deep application.** *The Warriors* worked with two attacks and a handful of grabs, and it felt brutal because the tools were *well made* and the situations were hard, not because the move-list was long. *ZEV* follows that: a small, legible vocabulary — strike, grab, throw, disarm, shove, counter — that gets its depth from spacing, timing and terrain, not from memorized strings the player must drill. A newcomer should feel competent by the end of the first fight and never stop finding room in it.
+- **Defense is the game.** Reads, parries, counters and positioning carry the depth, in the *Sleeping Dogs* mould — wait for the tell, punish it, and never treat a fight as a race. Mashing gets you killed. Patience under pressure, especially when surrounded, is the skill being trained.
+- **You are outnumbered and outmatched, and it must feel that way.** Fights are small by brawler standards — two, three, five men, not forty — but any one of them can put you down. A crowd is a genuine threat, not a score counter. The fear of being swarmed alone is a design goal, straight out of *The Warriors.*
+- **The body takes damage and shows it.** Injury is visible and it accumulates; the protagonist limps, bleeds, slows, guards a hurt arm. Fights end when a body can no longer continue, not when a number reaches zero, and the animation-driven, physical, ugly texture of that is the whole aesthetic. Violence should look like it hurts — closer to a real street fight than to a martial-arts demonstration.
+- **Grapples, terrain and the environment are weapons.** Slamming a man into a wall, a railing, a stairwell, a car; using the choke of an alley; putting someone through the thing that happens to be there. This is core, not garnish — but it is grounded (a hard surface, a fall, an edge), not the cartoon-lethal set-dressing of a nightclub full of novelty deathtraps. If it would plausibly hurt a man, it is in; if it belongs in a slapstick reel, it is out.
+- **No stagger-locked mooks.** Enemies fight back with the same grammar the player uses — they block, grab, counter, and gang up. The police are the wall the world has already told you they are: they counter your grabs, swarm, and hit hard, and fighting them is a losing proposition you are meant to avoid rather than win.
+
+**Weapons are economic, not incidental.** Bare hands are the default and the identity. Bladed and improvised weapons — a pipe, a brick, a bottle, a knife ground from scrap — are found or made, and they are *scarce, fragile, and situational:* a blade ends a fight fast and breaks, dulls, or has to be dropped before the next street. They do not combo; they do damage and then they are gone, exactly as in the grounded brawlers this game descends from. Firearms exist but are functionally illegal for almost everyone; possessing one is a political statement, and *using* one is a confession — a gunshot is a report to the foreman, as the world establishes. The escalation fist → blade → gun is an escalation of *consequence,* not just damage, and the game is built so that the fist is almost always the correct answer.
+
+**The semi-open world is not a combat arena.** It is the space between fights, where the *stakes* of fights are set — territory, reputation, surveillance, the two markets, the search for Ivan. Structurally it sits where *The Warriors* and *Sleeping Dogs* sit: a connected, explorable city of hand-authored districts, not a procedural sandbox and not a set of loading-door arena stages. When violence erupts, the geometry the world has already built — alleys, stairwells, courtyards, tunnel chokepoints, freight docks — collapses the space into something the camera can hold and the fight can use. Fights are *found* in the open world; they are *fought* in pockets the world pre-shaped for them.
 
 **THE CENTRAL SYSTEM: TWO NUMBERS, NEITHER OF THEM SHOWN**
 
