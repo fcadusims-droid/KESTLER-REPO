@@ -43,7 +43,7 @@ Combat is *fluid-cinematic with a technical spine* — the readable, weighty, co
 
 There is no good/evil bar. There is no karma meter, no reputation slider, no screen where the player reads how corrupt he has become. Instead the game runs two hidden values, and the entire design is staked on the player never seeing either one.
 
-**The first number belongs to the city.** Every registered soul in Zev carries a score kept by the state's surveillance system — a reckoning of how useful they are and how much trouble. It is invisible to them; they feel it only as the world warming or cooling around them. Dragomir does not have one. He was trafficked in as cargo and escaped the intake, which makes him the one thing the machine has no entry for: an unregistered face in a city that registers everything.
+**The first number belongs to the city.** Every registered soul in Zev carries a score kept by the state's surveillance system — a reckoning of how useful they are and how much trouble. It is invisible to them; they feel it only as the world warming or cooling around them. Dragomir does not have one, and the reason is precise: he was taken as cargo but escaped the lorry on the road, hours out, long before the city — so he was never processed, never photographed, never entered anywhere. He is not an escapee from Zev. He never arrived in it, and then he walked in on his own feet to find his brother. That makes him the one thing the machine has no entry for: an unregistered face in a city that registers everything, and the only person in it who came by choice.
 
 **The second number belongs to Dragomir, and it is what he has spent of himself.** Every act that costs him something he used to be — a mercy withheld, a border crossed, a body left, a lie told well — moves it. He never sees it. Neither does the player, directly.
 
@@ -95,6 +95,99 @@ There are no vendor NPCs. Nobody stands at a stall. This is a world rule and it 
 - **Seagulls and sportsmen.** Caches can be stolen before the player arrives; goods bought and lost cannot be reported to anyone. Conversely the player can learn to read hiding places and take other people's drops, which is fast money and makes enemies of the *sportsmen* — enforcers who hunt cache-thieves and careless couriers with their hands, because a gunshot generates a report.
 - **Running caches is early-game work.** Before he has a roof or a name, the protagonist can take the job the city gives its disposable young: walk the streets all day hiding packages. It is one of the few incomes available to a man with no number, it teaches the map, and it is how the city recruits everyone it eventually consumes.
 - **Nothing is offered to the player, ever.** No NPC will approach with an offer. If the player wants something, the burden of finding it is entirely his. This is the design translation of the world's own rule: whoever looks, finds. A player who never goes looking can walk this city for hours and see a functioning ordinary town.
+
+**THE TWO BROTHERS**
+
+**Dragomir.** Early thirties. Tall — well over six foot — fair-haired, pale blue eyes, built by wrestling and then by fighting. The damage reads before anything else does: thickened misaligned knuckles, two badly set fingers, a nose broken more than once, and a cauliflower ear. A stranger's first guess is farm work; the hands correct it within a minute.
+
+Extroverted, easy with strangers, physically confident, and — this is the load-bearing trait — the one who has done the protecting since childhood. He walked his brother to school and stood near him at it for years.
+
+He was an amateur mixed-martial-arts fighter who never went anywhere with it: no organisation, no manager, no record anybody kept. He made money from odd jobs and, mostly, from **unlicensed fights in cellars and back rooms** — which is to say he was already in the underworld, and had been for years, and hid it completely from his parents and his brother because he believed that was how you kept them clear of it.
+
+That concealment is half the game's guilt engine, and it should never be stated aloud by anyone. He hid the underworld to protect his family, which meant nobody in that house ever knew to be careful.
+
+**THE SYMMETRY, AND THE BRIDGE**
+
+Two brothers in one house. Both secretly working for the criminal world. Both hiding it from the same two parents. Neither with the faintest idea about the other. Each convinced his concealment was protection.
+
+Dragomir found out about Ivan — accidentally and stupidly, money that could not be explained or a machine left open — and did what an older brother does. He did not tell the parents; the parents were never going to know about either of them. He decided they would have it out alone, somewhere private, where nothing would get back to the house.
+
+**He drove his brother to a place under a bridge that he knew.** He knew it because of his own life and his own reasons and what he had used a place like that for before: quiet, out of the way, nobody passing, nothing overheard.
+
+The argument was serious and nearly became physical — the boy defensive and contemptuous, Dragomir shouting that he would destroy himself, that he had no idea what kind of people he was working for. A man six years into the underworld telling a seventeen-year-old to get out of it.
+
+And the men who had been watching that family for months had never once been given both targets isolated together, off the street, with no witnesses. That is not something you can arrange from outside. It has to be handed to you.
+
+**He drove them there. He chose the spot. He chose it precisely because nobody could see or hear anything.**
+
+The last real conversation those two brothers ever had was that argument. Everything after it — the last words in a car, the last words under a bridge, the last words in the world — was anger and accusation. Then a lorry, then a river, then a voice on a bank shouting his name.
+
+None of this is ever spoken by the narrative or by a character. It is delivered once, early, by Dragomir himself, flatly, and never referred to again.
+
+**Ivan.** A teenager, sixteen or seventeen. Short — the physical contrast with his brother is deliberate and constant. Closed, quiet, introverted, difficult to reach, content alone. He was able to grow up that strange because Dragomir absorbed the world for him.
+
+And he is a prodigy with computers — not a hobbyist. At school he is a celebrated thing: prizes, competitions, teachers who ran out of material to give him, the small legend a small school builds around a student like that. His parents are proud in the uncomplicated way parents are proud of a talent they do not understand.
+
+**And for about eighteen months he has been doing paid criminal work.** For people he has never met, entirely illegal, and he has been careful about it the way a brilliant seventeen-year-old is careful — flawless in every technical respect and oblivious in every way that actually matters.
+
+That work is what put the van on their street. **It was the boy they came for.**
+
+**They were not snatched. They were scouted.**
+
+The family was watched for months: a van that did not belong on the street, a friendly question asked of a neighbour, two phone calls that hung up, a gym bag gone through with nothing taken. This city does not buy bodies at random — bodies are cheap. It pays real money and takes real risk for **specific capability.**
+
+**Ivan was the target. Dragomir was the second item on the list** — a large violent brother who would obviously come looking, and who happened to be independently worth something in a city with fight rings under it. Cheaper to take both than to leave one behind asking questions.
+
+**The consequence that reframes the whole game.**
+
+The world already establishes a category of *protected hands*: roughly two hundred people whose skill is an irreplaceable revenue stream and who therefore cannot be killed by anybody, for any reason, ever. Chemists, surgeons, forgers, the man who defeats a particular class of banking software.
+
+A boy like Ivan was never going to be tunnel labour. If he is what he appears to be, he is on that list — or being groomed for it.
+
+Which means the player is not racing to save a brother from death. Ivan is very likely alive, warm, well fed and comfortable, and in this city none of those are signs that a person is safe. **The thing keeping him alive is the thing that makes him unreachable. His value is his cage.** Of all the ways to lose a brother in Zev, it is the one with no door in it.
+
+The player should work this out slowly, from evidence, and should get there well before Dragomir does.
+
+**The parents.** A mother and a father, in the house, on the street with the van on it. Dragomir does not know what happened to them — not as a euphemism, genuinely does not know, and has no way to find out from inside Zev and never will. It is raised once, early, in a single sentence, and dropped. It is not a quest. It does not resolve. It is the open question that cannot be worked on, and it should stay open.
+
+**THE OPENING: THE ROAD, THE RIVER, THE MONASTERY**
+
+The game does not open in the city. It opens on the way to it, and the structure of the first hour is the emotional engine for everything after.
+
+**The lorry.** Dragomir and his younger brother Ivan are cargo, in the dark, with roughly twenty others, hours out from Zev. Playable, cramped, near-lightless. The lock is worked open over a long sequence and — this is essential — **the player does not do it alone.** A woman whose name is never given does the part that matters; two men hold the panel; everyone who can reach it takes a turn. The one act of genuine collective courage in the entire game happens before the title card, among people with nothing, and it works. It must not be a solo heroics beat.
+
+**The break.** They go out the back into forest. There is a chase car — there always is — and the twenty scatter into the dark with organized men behind them. Dragomir has Ivan by the wrist.
+
+**The river.** Broken ground, roots, old snow, and a bank that isn't where it looks. Dragomir goes in. February. He is carried, and the player loses control, and the last thing in the scene is **Ivan's voice above him on the bank, shouting his name, not running** — standing there yelling down at water he cannot see into, until the men reach him.
+
+The player does not fail a check here. There is no input that saves Ivan. This is a scripted loss and it must feel like an accident of the ground rather than a punishment, because the guilt Dragomir carries for the rest of the game is not the guilt of being beaten — it is the guilt of having *tripped*.
+
+**The bank.** He comes out downstream, goes back, and is far too late. Empty road. Ivan is a recovered asset, back in the lorry, going where the lorry was always going.
+
+**The monastery, and the whole first act of the game.** Hunted, soaked, in open country, he walks for days and finds one of the forest settlements. The monks do not open the door immediately — two come out to him and ask questions — and what they decide is that **he is not from the city.** They cannot fully articulate how they know.
+
+Account for his condition, because it governs the pacing: a day and a half in the lorry, a full night running through forest in February, the river, the walk back up the bank soaked in the dark, then days of walking. He arrives *finished* — hypothermic, ruined feet, hands that will not close around a cup. He stays roughly two weeks. Not by choice; he is in no state to argue and they are in no state to send a half-dead man back into winter.
+
+**Those two weeks are the game's tutorial, its exposition, and its only safe hour, and all three at once.**
+
+- **Recovery is the pacing.** Movement is limited at first and opens up as he mends. The player learns traversal, basic combat forms, and the environment in an isolated, quiet, low-threat place before the city exists as a space.
+- **The monks deliver the exposition, and they are the right mouth for it.** They want nothing, are not recruiting, will never see him again, and are not selling anything. Over successive evenings they tell him what the works make, what the tunnels are for, what happens to freight and to young men specifically, that the city counts everyone who enters, and that some of the people who offer to help him will be selling him. He enters Zev knowing more about it than most people born there.
+- **They give information, never instruction.** No advice, no plan, no mission. The distinction should be explicit in the writing: they refuse to let him go toward it not knowing what it is, and refuse to tell him what to do about it.
+- **The miracle exchange is the thematic keystone of the entire game.** He asks whether it can be done. They do not say impossible. They say it would be a *miracle* — and then, days later, one of them explains why they chose that word. Getting a man out of Zev is merely *difficult,* and difficult things happen. But he is not asking for a body extracted from a city; he is asking for *Ivan* — and nobody has ever come out of that place as the person who went in. He is asking for something to be returned unchanged that the world does not return unchanged. That is a restoration, not a rescue, and that is what the word miracle is for.
+
+  This is the game's thesis, delivered in hour one by people with no stake, and the player should have forgotten it by hour thirty and remember it at the ending.
+- **What they send him with:** food they cannot spare, winter clothing and boots that belonged to somebody, and a **hunting knife** — the player's first weapon, and a working tool rather than an armament, given without ceremony by an order that has only recently and shamefully begun to carry blades at all.
+- **They pray with him and tell him they will keep praying.** Carefully: not that it will be granted, only that they will keep asking. He tells them he does not believe in it. They tell him that is fine and makes no difference to the arrangement.
+
+This is the tutorial hub, the first save, and the last uncomplicated kindness in the game. It plants a location the player will have reason to return to, and a quiet dread: the state's ideological section has had someone inside a monastery before.
+
+**The walk in.** A brother walks him part of the way and stops where the works are visible on the horizon, and turns back.
+
+Then the player walks into Zev.
+
+That is the title card, and it is the single most important fact about this protagonist: **everyone else in this city was brought or born. He is the only person in eight hundred thousand who chose to enter.** He knows exactly what it is. He goes in anyway, because Ivan went through the door ahead of him.
+
+Everything else in the design — the missing number, the private hunt, the Fringe, the monasteries, the Ninth — follows from that first hour.
 
 **THE ANTAGONIST: THE NINTH, AND THE HEAT THAT IS NOT A WANTED LEVEL**
 
@@ -1662,7 +1755,13 @@ That is what the tourists photograph, in spring, when the light is soft. An empt
 
 I met one of them once. I want to tell you about him, because in one night he showed me the whole machine turning, and because I have not been able to stop thinking about him since.
 
-It was in a cellar bar off one of the ring roads, the kind of place where the light is the color of weak tea and no one looks up when the door opens. He was already drinking when I sat down — a big man, thirties, the kind of build that used to mean farm work before the cities ate the farms. Cold had got into his hands; he kept them around the glass like it was the only warm thing he owned. I have seen a great many frightened men in this city. He was not frightened. He was something worse, something I did not have a word for until later. He was *decided.*
+It was in a cellar bar off one of the ring roads, the kind of place where the light is the color of weak tea and no one looks up when the door opens. He was already drinking when I sat down — a big man, thirties, well over six foot, with the shoulders and the neck of somebody whose living had been physical. My first thought was farm work, the sort of build that used to come out of the country before the cities ate the farms.
+
+I was wrong, and I knew I was wrong within a minute, because of the hands.
+
+They were wrecked. Knuckles thickened and misaligned in the specific way that comes from years of hitting things with them, two fingers that had been broken and set by nobody in particular, and the flat pad of scar across the back of the right hand that you only get one way. His nose had been broken more than once and put back approximately. And when he turned his head to check the door — he checked the door often — I saw the left ear, and that settled it. Nobody gets an ear like that from a farm. You get it from being held down.
+
+He was fair-haired, going darker at the temples, and had the pale blue eyes that this country produces in quantity, and he was so far outside the normal run of a Zev cellar bar that I am still faintly amazed nobody had already come to ask him his business. Cold had got into his hands; he kept them around the glass like it was the only warm thing he owned. I have seen a great many frightened men in this city. He was not frightened. He was something worse, something I did not have a word for until later. He was *decided.*
 
 I asked his name. He said Dragomir. I waited for the rest of it, the way you do, and the rest of it did not come. Just Dragomir. A man who gives you one name is a man who has learned that names are things that can be taken and used against the people attached to them. So I did not press. In this city, half a name is often a kindness — to you, not to him.
 
@@ -1670,21 +1769,225 @@ He told me he was being hunted. He said it the way you would mention a condition
 
 Then he told me the rest, and this is the part I cannot put down.
 
-He had not come here. He had been *brought.* Taken from somewhere outside — he did not say where, and by then I understood that not-saying was simply how he breathed — loaded into the dark with his younger brother and carried into Zev the way everything is carried into Zev, as freight. Ivan, the brother's name was. He said *Ivan* differently than he said anything else, softer, the way you set down something you are afraid to break. Younger. The one he was supposed to look after. That is a thing you could hear under every word he spoke — *I was supposed to look after him* — even when he was not saying it.
+He had not come here. He had been *taken.* Lifted from somewhere outside — he did not say where, and by then I understood that not-saying was simply how he breathed — and put into the back of a lorry with his younger brother and perhaps twenty others, in the dark, on a road, in the ordinary way that this city is supplied. Ivan, the brother's name was. He said *Ivan* differently than he said anything else, softer, the way you set down something you are afraid to break. Younger. The one he was supposed to look after. That is a thing you could hear under every word he spoke — *I was supposed to look after him* — even when he was not saying it.
 
-They were separated at the intake. Of course they were. I could have told him that before he said it; it is the first thing the city does, always, because a man alone is cheaper to spend than a man with someone to protect, and the city does not waste an opportunity to make you cheaper. They pulled Ivan one way and him the other, and that was the last he saw of his brother — a shape going through a different door, into the dark, gone.
+**And here is where I stopped listening politely and started listening properly, because he said a thing that made no sense and then made too much.**
 
-And then Dragomir did the thing almost no one does. He got out. I do not know how, and he did not tell me, and I did not want the weight of knowing. Most of the freight never escapes the intake; the ones who do are usually caught within a day, because they run for a way out, and every way out of this city — the runways, the rail, the four roads north — is the most heavily watched ground in it. But he had got loose and stayed loose, and he had done it not to flee — this is the thing — but to *stay.* He had slipped the leash and then turned around and walked back toward the thing that had caught him, because his brother was still inside it.
+He said they had been watched for months before it happened.
+
+I asked him what he meant and he told me, and the more he told me the colder the room got. Small things, individually nothing, obvious only in a row: a van on their street that was not from their street. A man who asked their neighbour a friendly question about the family. His mother mentioning that somebody had telephoned twice and hung up. A gym bag gone through and nothing taken. Over months.
+
+They were not snatched. **They were scouted.**
+
+And you already know why, because you have read everything above. This city does not buy bodies at random; bodies are cheap and it has more than it needs. What it is permanently short of, what it will pay real money and take real risk for, is *specific capability.*
+
+So let me tell you what those two brothers were, and you will see them the way a recruiter saw them.
+
+**Dragomir fought.**
+
+Not professionally, or not in any sense that pays. He had come up through wrestling and then the mixed bouts, and he had never gone anywhere with it — no organisation, no manager, no record anybody kept properly. What he actually did for money was odd jobs and, mostly, unlicensed fights. Cellars and back rooms and a barn once, for whatever the room had put in. Not so different, I gather, from what happens under the floor of this city, which is a thing I have thought about since and have not enjoyed thinking about.
+
+Which means he was *findable.* A man who fights for money in back rooms is a man who appears, repeatedly, in front of exactly the sort of people who know exactly what such a man is worth here. He spent years being visible to precisely the wrong audience and believed he was being discreet.
+
+And he was discreet — about the wrong thing, from the wrong people. That was the other piece I got out of him, and I got it obliquely, in the way you learn the things men do not intend to tell you. His parents did not know what he did. His brother did not know. He had a story he told at home about work, and he had told it for years, and he had told it because he was protecting them.
+
+Sit with that for a moment, because he has, and it has taken pieces out of him. He hid the underworld from his family in order to keep them clear of it. Keeping it hidden meant nobody in that house ever knew to be careful. And the thing he was hiding is the thing that put a van on their street.
+
+He did not say any of that to me. He does not need me to have said it. It was in his face while he was describing the van.
+
+**Ivan is something else entirely, and this is the part that has kept me awake.**
+
+The younger brother is a teenager. Small — Dragomir made a point of the difference, and made it with the exasperated fondness of a man describing somebody he has been physically shielding since primary school. Where Dragomir is loud and easy with strangers and fills a doorway, Ivan is closed, quiet, difficult to reach, happier alone. Dragomir walked him to school and stood near him at it for years, for the ordinary reason big brothers do that, and it worked, and it is presumably why Ivan grew up able to be as strange as he liked.
+
+And what Ivan can do with a computer is not a hobby.
+
+I do not understand this material and I will not pretend to. What I understood from the way his brother described it — badly, proudly, with the vocabulary of a man repeating something he has heard and not followed — is that the boy is not merely good. He is the kind of good that people notice from a distance and then check on again. Sixteen or seventeen years old and already, in some quiet corner of the world where such things are discussed, a name.
+
+Now put that beside everything I have told you about this city.
+
+We have entire floors of stolen people chained to screens working the world by fraud. We have a house whose function is documents and forgery and the newest trade. We have a settlement machine that runs on other people's accounts. And we have a category of person — I described them to you as the protected hands, two hundred of them, the chemists and the surgeons and the man who beats a particular class of banking software — who cannot be killed by anybody for any reason because their skill is a revenue stream that cannot be replaced.
+
+**A boy like that is not freight. He was never going to be freight.**
+
+The men who watched that street for months were not shopping for a body to put in a tunnel. They were shopping for *him.* Dragomir, I am fairly sure, was the second item on the list — a large violent brother who would obviously come after them, and who happened to be independently worth something in a city with rings under it. Cheaper to take both than to leave one behind asking questions.
+
+I did not say this to him. I want that on the record, because it was the least honest moment of the evening and I have not decided whether it was also the kindest.
+
+I did not tell him that his brother is very likely alive, and comfortable, and warm, and eating well, and that in this city those are not signs that a person is safe. I did not tell him that the protected hands live better than kings and cannot leave, cannot refuse work, and have no enemies because being their enemy is not permitted. I did not tell him that if Ivan is what he sounds like, then the thing keeping the boy alive is the same thing that has made him unreachable — that his value is his cage — and that of all the ways to lose a brother in Zev, this is the one with no door in it at all.
+
+**And there is one more thing, which he raised once and then put down and did not pick up again.**
+
+There were parents. There are, presumably, still parents. A mother and a father, in the house, on the street with the van on it.
+
+He does not know what happened to them. Not a euphemism — he genuinely does not know. He was in the back of a lorry and then in a river and then in a forest, and there is no way for him to find out from here, and there will not be one, and he has no idea whether they are alive, or looking for their sons, or whether anybody ever told them anything at all.
+
+He mentioned it in one sentence, in the middle of something else, and moved on immediately, and I let him. There are wounds you do not put your hand on. I have known men to carry that particular one for forty years — not grief, which at least resolves into something, but the other thing, the open question that never closes and cannot be worked on.
+
+**And now the last piece before the lorry, and this is the one he could barely get through.**
+
+Because Ivan had a secret too.
+
+At school the boy was a celebrated thing. Prizes, competitions, teachers who had run out of material to give him, the sort of student a small school builds a small legend around. The parents were proud in the uncomplicated way parents are proud when a child is good at a subject they do not understand.
+
+And underneath that, for something like a year and a half, he had been doing work.
+
+Dragomir did not know what kind, exactly, and could not explain it to me in any detail, and I could not have followed him if he had. But it was paid, and it was for people he had never met, and it was very much against the law, and the boy had been careful about it in the way a clever seventeen-year-old is careful — which is to say brilliantly in every technical respect and not at all in any of the ways that actually matter.
+
+Dragomir found out. He did not say how. I got the impression it was accidental and stupid, the way these things always are — money that could not be explained, or a machine left open.
+
+**And here is the symmetry that I have not been able to stop turning over since that night.**
+
+Two brothers in one house. Both of them working, secretly, for the criminal world. Both of them hiding it from the same two parents. Neither of them with the faintest idea about the other. Each one absolutely convinced that the concealment was an act of protection.
+
+And it was the *younger* one — the quiet one, the one being protected, the one his brother had been walking to school since he was six — whose work put a van on that street. Because it was the boy they wanted. Dragomir spent years being discreet about the wrong secret, and the family was found through the brother he was shielding.
+
+**So Dragomir did what an older brother does.**
+
+He did not go to the parents. That was the whole point; the parents were never going to know, not about Ivan and certainly not about him. He decided the two of them would have it out alone, somewhere private, where nobody would hear and nothing would get back to the house.
+
+He put his brother in a car and drove him out to a place under a bridge that he knew.
+
+He *knew* it. That is what he said, and he said it twice, in the same voice both times. He knew that spot. It was quiet, it was out of the way, nobody went there, and he knew that because of his own life and his own reasons and the things he had used a place like that for before.
+
+And they had the argument. A serious one — the boy defensive and contemptuous the way clever frightened teenagers are, and Dragomir shouting at him to stop, that he was going to destroy himself, that he had no idea what kind of people he was working for. And Ivan gave it back. It got close to physical. Dragomir told me that, and did not soften it, and I could see what it cost him to say it out loud to a stranger in a bar: that he came near to putting hands on his younger brother, under a bridge, in the dark, about ten minutes before.
+
+He was standing there telling a seventeen-year-old to get out of the criminal world.
+
+He had been in it for six years.
+
+**They had been waiting months for exactly that.**
+
+Two of them, together, off the street, away from the house, out of sight, no neighbours, no parents, nobody passing. That is not a thing you get to arrange from outside; you can watch a family for half a year and never once get both targets isolated in a place with no witnesses. It has to be handed to you.
+
+He drove them there. He chose it. He chose it *because* it was a place where nobody could see or hear anything, which is precisely and exactly what it was chosen for by the men in the second car, who had followed a van-coloured length of road for months waiting for a night like that one.
+
+He did not put it that way. He did not have to. He said only that they came out of the dark on both sides and that he got perhaps one of them before something happened to the back of his head, and that the last clear thing before the lorry was his brother's voice.
+
+**The last real conversation those two ever had was that argument.**
+
+He has not said a kind word to Ivan since before he found out. Everything after that — the last thing in a car, the last thing under a bridge, the last thing in the world — was anger and accusation and *you have no idea what these people are.*
+
+And then a lorry, and then a river, and then a voice on a bank shouting his name.
+
+I have carried a great many people's stories, professionally, for thirty years. That one I have not been able to put down.
+
+**And then he told me the rest, in order, without any decoration at all, and I am going to write it the way he said it because I have not found a better way since.**
+
+They were still hours out. Deep country, forest on both sides, nowhere near the ring. And in the back of that lorry the people worked on the lock.
+
+He was careful to say *the people.* Not him — *them.* He said it took a long time and that a woman whose name he never learned did the part that actually mattered, and that two men held the panel steady, and that everyone who could reach it took a turn, and he wanted me to understand that he did not open that door. **Twenty strangers in the dark opened that door together**, and I have thought about that a great deal, because it is the only act of genuine collective courage anyone has ever described to me in connection with this city, and it happened outside it, by people who had nothing, and it worked.
+
+The lorry stopped for some reason and they went out the back of it into the trees.
+
+But there was a second vehicle. There always is; he did not know that and I did. A chase car runs behind a load precisely for this, and the men in it came out fast and they came out organized, and the twenty scattered into the forest in the dark with men behind them.
+
+He had Ivan by the wrist. That is the detail he gave me, and he gave it twice. By the wrist, not the hand.
+
+They ran. And the ground in that country is not ground you can run over at night — it is roots and holes and old snow — and there was a river he did not know was there, and the bank came out from under him.
+
+He went in. It was February. He was carried, and he does not know how far, and there is a section of this that he cannot account for at all.
+
+And the last thing he had of his brother, and he told me this in the same flat voice he had used for everything else, was Ivan's voice above him on the bank, shouting his name, getting further away — not running, *standing there,* shouting down at the water at a brother he could not see, until the men reached him.
+
+They took Ivan back to the lorry. Of course they did; that is a recovered asset. And the lorry went on to where it had always been going, which is here.
+
+Dragomir came out of that river somewhere downstream and went back. He said that part very quickly. He went back up the bank, in the dark, soaked, in February, to the place, and he was too late by a long time and the road was empty.
+
+**So understand exactly what he was and what he was not, because it is the whole of him.**
+
+He was never processed. He was never at the intake, never photographed, never measured, never entered in any book anywhere. He is not an escapee from this city. **He never arrived in it.** As far as every ledger and lens and desk in Zev is concerned, that lorry delivered its full count and nothing was lost, because nothing that was lost was ever written down.
+
+And then, still being hunted through open country by men who could not go home and report a missing body, he walked.
+
+He would not tell me for how long. Days. And what he found, eventually, was a monastery — one of those settlements out past the farms that I told you about, in the forest, where the believers went when this place became what it is.
+
+They did not open the door immediately. He was very fair about that, and almost defensive of them: he said a stranger coming out of the trees at night in that country is a serious matter and that they were right to be careful. Two of them came out to him instead, and looked at him, and asked him questions.
+
+And then they let him in, and he said the thing that they decided on was that he *was not from the city.* He could not tell me exactly how they knew. Something in how he answered. Something not yet in his face.
+
+**And I want to slow down here, because he did, and because this is the part he told me at length when he had told me everything else in about four sentences.**
+
+Understand what had happened to his body by then. A day and a half in the back of that lorry — no room, no water worth mentioning, no light. Then the break, and a full night of running through forest, in February, in this country. Then the river, and however long the water had him. Then back up the bank, soaked through, in the dark, in the cold that does the actual killing. Then days of walking.
+
+He was not tired when the monks took him in. He was *finished.* He told me his feet were the worst of it and that he did not remember the last part of the walk at all, and that when they brought him inside he could not get his hands to work well enough to hold the cup they gave him, and that a very old brother held it for him and did not comment on it.
+
+He stayed with them, in the settlement and the country around it, for something like two weeks. Longer than he wanted. He was not in a condition to argue and they were not in a condition to let a man walk back into February half-dead, so he stayed, and he slept, and he ate what they ate, and for a while he was well enough to work and so he worked, because there is always something to carry out there.
+
+**And in those two weeks they told him what he was going to walk into.**
+
+This is the thing I keep returning to. Those men owed him nothing. They had no use for him. They were not recruiting and they wanted nothing from him and they were never going to see him again. And they sat with him, evening after evening, and told him the truth about this city — carefully, without decoration, without exaggerating it and without softening it either.
+
+He said they did not tell him what to do. Not once. He was very clear on that, and he seemed to find it important, and he was right to. They gave him no advice and no instruction; they simply refused to let him go toward it not knowing what it was. There is a difference between counsel and information, and those men understood the difference better than almost anyone I have dealt with in sixty-eight years.
+
+So he had it all before he ever crossed the ring. What the works make. What the tunnels are for. What happens to freight, and what happens to young men specifically. That the city counts everyone who enters. That nobody there would help him and that some who offered would be selling him. He arrived in Zev knowing more about it than most people who were born here.
+
+**And then they told him the other thing, which is the part that has stayed with me.**
+
+He asked them — this is how he put it — whether it could be done. Whether he could get his brother out.
+
+And they did not tell him it was impossible. He said that quite firmly, twice, and I believe he needed me to hear it correctly. They did not say impossible.
+
+They said it would be a *miracle.*
+
+And he thought, at the time, that this was a gentle way of saying no. It was some days before one of them explained what they had actually meant, and when Dragomir repeated that explanation to me across a table in a cellar bar I had to put my glass down.
+
+They meant it precisely. In the technical sense. Because — the brother told him — *getting a man out of that place is only difficult.* Difficult is a matter of roads and money and luck, and difficult things happen every day. But that was not what Dragomir was asking for, and they wanted him to understand what he was actually asking for.
+
+He was asking for Ivan.
+
+Not for a body extracted from a city. For his *brother* — that specific person, the one who was standing on the bank shouting his name. And nobody has ever come out of that place as the person who went in. Not one. Not the strong ones, not the good ones, not the ones who were only inside a season. The city takes something from everyone it touches and it does not give it back, and so what Dragomir was asking for was not a rescue. It was a *restoration.* He was asking for something to be returned unchanged that the world does not return unchanged.
+
+That, they told him, is what the word miracle is for. Not for difficult things. For that.
+
+I am not a religious man. I have not been inside a church except for funerals since I was nineteen and I have no expectation of anything after this. And I sat in that bar and understood that four monks in a forest had explained the central fact of my city to a stranger more accurately, and more completely, and in fewer words, than I have managed in this entire letter.
+
+**What they gave him.**
+
+Food, as much as they could spare and slightly more than they could. Proper winter clothing, which was somebody's, and boots. And a knife.
+
+A hunting knife. Not a weapon — a working blade, the kind that is out there for skinning and cutting line and every other ordinary thing, and one of them put it in his hand without any ceremony at all. I have told you already that the brothers out there carry now, and why, and what it costs them to have become people who carry. So understand what it meant that they gave one of theirs away.
+
+And they prayed with him before he went, and they told him that they would go on praying for him. Not that God would grant it. They were careful about that too, apparently. Only that they would keep asking.
+
+He told me that part looking at the table. He said he did not believe in it and that he had said so to them, and that they had said that was fine and that it made no difference to the arrangement.
+
+Then he asked them where the lorry would have gone, and they told him, because they are not liars, and one of them walked him part of the way and stopped at a place where you can see the works on the horizon, and went back.
+
+**And I will tell you the thing I did not say to him.**
+
+Sitting there, listening to a big exhausted man describe two weeks of being fed by strangers who wanted nothing — I understood that I was the second person to tell that man the truth about this city, and that the first had done it better, and that the difference between us was not knowledge.
+
+They told him because they thought he deserved to know. I told him because he had already come this far and it was too late to be useful.
+
+They gave him a knife, and food they could not spare, and their prayers.
+
+I would like it noted that I had not yet decided what I was going to give him.
+
+**And then Dragomir did the thing that nobody in this city has ever done.**
+
+Everyone here was brought. Or born. That is the entire population — cargo and natives, delivered or descended, and not one soul in eight hundred thousand chose this.
+
+He *walked in.*
+
+Out of the trees, off the road, past the ring, into a city he had been carried toward in the dark and had escaped by an accident of the ground — and he came back to it on his own two feet, on purpose, knowing precisely what it was, because his brother had been taken through the door ahead of him.
+
+I have turned that over for a long time. Every man I have ever known here is inside this thing because something put him here. That one entered under his own power. I do not know whether it is the bravest or the stupidest act I have been told about in sixty-eight years, and I have stopped expecting to decide.
 
 I asked him the question you are asking now: why was he not already taken? This city sees everything. A face with no name in it should stand out like a fire in a field.
 
 And he told me, and it was the first moment I understood that this man might actually live a while, because he had worked out the one thing that was protecting him and he had worked it out alone. *The men who lost him cannot report him.*
 
-Think it through. That cargo was inventory. It was counted, it was owed upward, it was written in somebody's book. To go to the state and say *we have lost one* is to stand in front of the foreman and confess that you destroyed stock through your own carelessness — and you know what that is called here. It is not an accident. It is *theft,* the same as if they had put a bullet in him for sport, and it is punished the same way, and the men who lose inventory go down into the tunnels to become inventory themselves. No crew on earth is stupid enough to file that report.
+Think it through, and think about how much worse it is for them than he even realizes.
 
-So they do the only thing left. They hunt him *privately.* Their own men, their own time, their own money, off the books, in the dark, moving quietly so that nobody above them ever learns there was a hole in the count. They cannot ask the Eye for his face. They cannot post his name at the checkpoints. They cannot use the machine at all, because using the machine means explaining to the machine why they need it. Every day he stays loose they are more frightened than he is, because he only risks dying and they risk being *spent.*
+That lorry was inventory. Counted at the loading, owed upward, written in somebody's book, with a number on a manifest that a desk in this city was already expecting. And it did not lose *one.* It lost a doorful — twenty people into the trees in the dark, and however many of those the chase car brought back, the count that arrived at the intake was not the count that left.
 
-That is why the hunt for him is a thing of fists and quiet men in doorways instead of a city-wide net. And that is the joke the city has not noticed it is telling: this place counts every soul that enters, and the one man walking its streets with no number at all is invisible precisely *because* the rules that count everything make it fatal for anyone to admit he exists.
+Now imagine being the men who have to explain that. To go upward and say *the back of the lorry came open on the road* is to stand in front of the foreman and confess that you destroyed stock through your own carelessness, in bulk, and you know what that is called here. It is not an accident. It is *theft,* the same as if they had shot the lot of them for sport, and it is punished the same way, and men who lose inventory go down into the tunnels to become inventory themselves.
+
+So they did not report it. Obviously they did not report it. They did what every crew in that position does: they closed the gap in the count with whatever they could find, they wrote the number that was expected, and they have been quietly, desperately trying to clean up the difference ever since.
+
+Which is why they hunt him *privately.* Their own men, their own time, their own money, off the books, in the dark, moving quietly so that nobody above them ever learns there was a hole in the count. They cannot ask the Eye for his face. They cannot post his name at the checkpoints. They cannot use the machine at all, because using the machine means explaining to the machine why they need it. Every day he stays loose they are more frightened than he is, because he only risks dying and they risk being *spent.*
+
+That is why the hunt for him is a thing of fists and quiet men in doorways instead of a city-wide net. And that is the joke the city has not noticed it is telling: this place counts every soul that enters, and the one man walking its streets with no number at all is invisible precisely *because* the rules that count everything make it fatal for anyone to admit he exists. They cannot look for him without confessing him. He is being hunted by men who need him dead and need, even more urgently, for nobody to ever find out they were looking.
 
 He asked me about the city. Really asked, the way a man asks a doctor about a lump. So I told him. I told him the truth, more of it than I have told most people, more of it than was safe for either of us. I told him what this place is, what it does, where the freight goes and how deep, and what a person becomes down there. I told him about the towers and the tunnels and the long descent between them. I did not soften it. He had not softened anything for me, and I owed him the same.
 
