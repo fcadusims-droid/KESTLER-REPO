@@ -57,7 +57,21 @@ There is no good/evil bar. There is no karma meter, no reputation slider, no scr
 
 **The two numbers are the same object seen from opposite sides, and this is the design's spine.** The city measures what you are worth to it. The spending measures what is left of you. As one rises the other falls, and the game's whole arc is the widening gap between them.
 
-**The critical inversion: emptying makes him stronger.** The more Dragomir has spent, the better he fights — colder, faster, fewer wasted frames, less hesitation before the strike. Hesitation is a mechanic: early on, a killing blow carries a hitch the player must fight through. Late, it does not. The player feels themselves getting *better* while the game is showing them a man getting *emptier,* and it is the same variable doing both. Mechanical reward and thematic loss are welded to one value. This is how the player experiences the theme instead of reading it.
+**The critical inversion: emptying makes him stronger.** The more Dragomir has spent, the better he fights — colder, faster, fewer wasted frames, less hesitation before the strike. Hesitation is a mechanic: early on, a killing blow carries a hitch the player must fight through. Late, it does not. The player feels themselves getting *better* while the game is showing them a man getting *emptier,* and it is the same variable doing both.
+
+**And that alone would break the game, so it is only half the system.**
+
+If spending only made him stronger, the optimal play would be to spend deliberately — and the tragedy becomes a build order. A player farming atrocities to unlock better combat is playing a power fantasy with sad music over it, which is the exact failure this design exists to avoid.
+
+So spending is a **trade, not a track.** Every point of it buys combat and sells everything else:
+
+- **Dialogue options close.** Not greyed out with a lock icon — they simply are not there, because he is no longer a man who would say that. The warm approach, the honest question, the moment of restraint that opens somebody up: these disappear one at a time and the player cannot get them back.
+- **People withdraw.** Existing relationships degrade on their own. The caretaker stops answering. The nurse is busy. Nobody announces why. New relationships get harder to start, because the thing that made people help him early was that he was visibly still a person.
+- **And the investigation pillar runs on relationships.** This is the load-bearing consequence. Finding Ivan requires access, and access is people, and people are what spending costs. **The player who optimises for combat is optimising away their ability to find their brother.**
+
+That is the dilemma the whole game is built on, and it must be a real one: a fight the player cannot win without spending, in a chain that needs a person who will only help a man who has not spent. There is no configuration that maxes both. The ending the player gets is the shape of the trades they made, and the best outcome is available only to a player who left fights unwon, took beatings they could have avoided, and is measurably worse at the game's own primary verb by hour forty.
+
+**None of this is ever stated.** The player must infer it, and many will infer it too late, and that is the correct outcome for this story.
 
 Feedback is diegetic only. Nobody announces the change. It shows in the hitch that stops appearing, in the way NPCs stop meeting his eyes, in dialogue options that quietly close because he is no longer the man who would say that, in the music thinning out.
 
@@ -103,9 +117,13 @@ There are no vendor NPCs. Nobody stands at a stall. This is a world rule and it 
 
 - **Everything is bought through the network.** The player carries a phone running *Slyuda*, the layered-relay browser the city uses to reach what the state's internet hides. It is opened as an in-world device, not a menu.
 - **Two markets, and access is progression.** *Vitrina* — the outsider market — is available immediately: clean interface, curated stock, two-to-five times the real price, and every purchase quietly attaches the buyer to a record. *Dvor* — the residents' market — is where the real inventory lives (documents, an unregistered doctor, a room with no lease, a name, and information) and it cannot be found or bought into. Entry requires a **voucher**: an existing user stakes their own standing on the player. Getting vouched is a mid-game achievement, it costs the player something, and it makes the person who vouched reachable — a permanent hostage the player has created.
-- **Delivery is by dead drop, and the drop is a location the player must physically reach.** Purchase resolves to coordinates and often a photograph of a wall, a bench, a drainpipe. Then the player walks there. This turns every transaction into a small traversal problem through a surveilled city — which lens is between here and there, whether the district is friendly, who else knows where that stash is.
+- **Delivery is by dead drop — but only where the walk earns its place.** A purchase resolves to coordinates and often a photograph of a wall, a bench, a drainpipe, and the player goes and gets it. Done for every transaction this becomes tedious by the fifth repetition, so it is tiered: **routine consumables** (food, bandages, ordinary supplies) resolve to a drop within the district the player is already in, or can be collected next time they pass one, with no dedicated trip. **Anything that matters** — a weapon, documents, a clandestine handset, anything from *Dvor* — is a real drop in a real place, and *that* walk is a designed traversal problem: which lens sits between here and there, whether the district is friendly, and who else knows where that stash is.
+
+  The rule is that the player should never be walking across the city to collect something boring.
 - **Seagulls and sportsmen.** Caches can be stolen before the player arrives; goods bought and lost cannot be reported to anyone. Conversely the player can learn to read hiding places and take other people's drops, which is fast money and makes enemies of the *sportsmen* — enforcers who hunt cache-thieves and careless couriers with their hands, because a gunshot generates a report.
-- **Running caches is early-game work.** Before he has a roof or a name, the protagonist can take the job the city gives its disposable young: walk the streets all day hiding packages. It is one of the few incomes available to a man with no number, it teaches the map, and it is how the city recruits everyone it eventually consumes.
+- **Running caches is early-game work, and it is a placement puzzle rather than a walk.** Before he has a roof or a name, Dragomir can take the job the city gives its disposable young. But the interesting part is not the walking — it is *choosing where.* The player is given a district, a quantity, and a window, and must place each cache under competing pressures: a spot too visible gets taken by a **seagull** before the buyer arrives (and losses come out of the runner's own money); a spot too obscure means the buyer cannot find it and the complaint comes back on the runner; a spot near a lens is a report; a spot in a courtyard where people know him is safe today and burns a relationship if it goes wrong.
+
+  The player is scoring a *terrain read* — sightlines, foot traffic, who lives on that stairwell — which is the same skill the rest of the game needs, and it is how they learn the map without a minimap. It is deliberately finite: once the player has income and a roof, the job stops being worth doing, and the game lets them stop. It should never become a grind, and the moment it stops teaching, it stops appearing.
 - **Nothing is offered to the player, ever.** No NPC will approach with an offer. If the player wants something, the burden of finding it is entirely his. This is the design translation of the world's own rule: whoever looks, finds. A player who never goes looking can walk this city for hours and see a functioning ordinary town.
 
 ---
@@ -165,7 +183,17 @@ That structure is the right skeleton. But it has a known weakness worth designin
 
 - **Clues are earned socially, not triggered.** Information comes out of conversation, observation, patience and risk — buying the right man enough drinks, noticing which two people avoid each other, getting into a back room, reading a room's hierarchy correctly. It is not lying on a table waiting to be picked up.
 - **The board is where sense is made.** A physical case wall in the agent's hotel room — not a metaphysical space; the tone here is grounded. Multiple parallel cases (trafficking, laundering, narcotics, fraud) plus one personal file that is not his job at all: **IVAN**. He keeps it open anyway, next to the others, and the player watches it grow.
-- **Deductions must be made, and can be made wrongly.** Wrong connections produce wrong leads, wasted days, and occasionally exposure. The system should permit a confidently incorrect theory.
+- **The board runs on open questions, not on connecting string.** This is the mechanic and it solves the two ways case boards usually fail — auto-connecting (trivial) or asking the player to guess which two objects link (arbitrary).
+
+  Every case holds a list of **open questions** in plain language: *Who signs for the north dock consignments? Where does a seventeen-year-old with these skills get placed? Why did the Casata stop using this route in March?* Evidence does not connect to evidence; **evidence answers questions**, and the pairing is unambiguous — a signed docket obviously answers who signs, and the player is never asked to intuit a hidden link.
+
+  **The open questions are also the quest log.** They are the game's only objective list, they are written as things a person would actually want to know, and they are how the player always knows what to do next without a marker on a map.
+
+- **Deduction is choosing between readings that are all genuinely supported.** When a question's evidence is sufficient, the board offers **two or three mutually exclusive conclusions**, and the honest situation is that the evidence supports more than one. *The consignment was skimmed by the carrier* / *the consignment was short when it was loaded* / *the paperwork was altered after delivery.* The player commits to one. That commitment writes into the board as fact and everything downstream is built on it.
+
+  **The game never says whether you were right.** No tick, no chime, no correction. You find out by acting on it — the door you were told about is the wrong door, the man you approached was never involved, and a week later something does not add up. A confidently wrong theory can be carried for hours, which is what actual investigation feels like and what almost no game permits.
+
+  Wrong readings cost time, sources and occasionally exposure, and they are recoverable: new evidence reopens a closed question and the board visibly marks that the player once concluded otherwise.
 - **Profiling is reading people, not reading minds.** No supernatural element — the agent is a trained interrogator, and profiling is a scene of sustained attention: what a man's hands do, what he avoids, what he corrects too quickly. It unlocks approaches rather than facts.
 - **Sources are people, and people have consequences.** Anyone who tells the agent something has now become a person who told him something. The world's own rule applies — transmission is deduced when a second person turns out to know. Burned sources do not simply vanish from the board; they get taken.
 
@@ -179,10 +207,12 @@ He does not go into the street and fight. He goes into bars, hotels, restaurants
 
 The tension is not enemies. It is **being read.** Every conversation is a performance in front of people who are professionally excellent at detecting performances, in a city that scores strangers. The systems that carry it:
 
-- **Cover integrity** as a running state — not a bar on screen, but a felt thing conveyed through how rooms treat him. Wrong answers, over-eagerness, knowing something he should not, drinking too little.
+- **Cover integrity** as a running state — not a bar on screen, but conveyed through a consistent, learnable set of tells: how quickly people resume talking after he speaks, whether the barman refills without being asked, whether anyone moves to sit between him and the door. Wrong answers, over-eagerness, knowing something he should not, and drinking too little all cost him, and each one produces an *immediate* visible reaction from somebody in the room. The player never sees a number and is never left guessing whether the last line landed.
 - **Timed dialogue** with real dead air. Hesitation is itself an answer here.
 - **Diverging scenes rather than fail-forward.** Most bad choices cost information, access, or a source, not a life.
-- **And when it does go wrong, it is a failure state, not an ending.** If the agent is made, the player gets a failure screen and restarts the sequence. This is a deliberate concession: the story is authored and he must survive it. But the *character* has no such guarantee, and nothing in the fiction should ever acknowledge the reload. He behaves, always, like a man with one life.
+- **Failure branches. It almost never restarts.** Restarting a twenty-minute social sequence because one line landed badly is the worst thing this pillar could do to a player, so blown scenes overwhelmingly *continue* — he loses the source, loses the access, gets a worse version of the information, or walks out having burned a room he needed later. The case board absorbs it; the story goes on carrying the damage. **Only being definitively unmasked restarts**, that is rare, it is always preceded by stage-two-style warnings the player can act on, and there is a checkpoint immediately before every beat where it is possible.
+
+  This is a deliberate concession: the story is authored and he must survive it. But the *character* has no such guarantee, and nothing in the fiction ever acknowledges a reload. He behaves, always, like a man with one life.
 
 **The pistol.** He carries a suppressed handgun and it is a last resort, used only when the alternative is dying. This is not a stylistic preference — it is the world's law. A gunshot in Zev generates an acoustic report, a record, and an explanation owed upward; a suppressor is a device for *not filing that report.* Every round he fires is a decision about paperwork as much as about a body, and the game should make him hate using it.
 
@@ -201,6 +231,44 @@ The arrangement is transactional and both of them say so. **The agent will use h
 **The handover is played, not cut to.** The conversation ends, Dragomir leaves, and the player — still in control — watches him go up the steps and out of the room. The agent stays sitting. He says he will look into it and see what he finds.
 
 Then the player stands up as the agent, and walks out into the same city, and everything about how the game plays has changed.
+
+---
+
+**THE OTHER MAN KEEPS LIVING: HANDOFFS, BRIEFS, AND WHAT EACH ONE KNOWS**
+
+Switching protagonist is not a level select and must never feel like one. The character the player is not currently controlling is **still in the city, still working, and still in contact.** The system that carries this is the spine that joins the two pillars, and it is the answer to "why are there two of them" at the level of moment-to-moment play rather than plot.
+
+**Getting the channel is itself a beat.** None of this exists at first. Dragomir has no phone he can safely own, and the world establishes that clandestine handsets are expensive, sold only through *Dvor*, and never offered to anyone — you have to go looking. So the first thing the two of them do as partners is solve that: the agent has money and no access, Dragomir has access and no money, and the handset is the first thing their arrangement produces. Until then they meet in person, which is dangerous, slow, and makes the player want the phone badly.
+
+**The channel.** Both men use *Slyuda* — the layered-relay network the city already runs on, and which a rich foreigner using it to shop on *Vitrina* is entirely unremarkable for — to exchange text. Never voice; a voice is identifiable and the agent's is foreign. Messages are **asynchronous**: written, sent, and read whenever the other man next has his handset somewhere safe, which may be hours. Drago's handset is clandestine and unregistered, which is why this works at all, and checking it is a small deliberate act rather than a notification popping over the world. Anything genuinely dangerous does not go over the wire at all — it goes to a physical drop, and the drop becomes a small mission of its own.
+
+**The brief, and the upgrade that makes this a system rather than a cutscene.**
+
+The obvious version is: the agent finds a lead, sends it, and it unlocks a mission for Drago. That version wastes the entire investigation pillar, because unlocking is binary and the fieldwork becomes a key.
+
+**The brief is not a key. It is a variable.** What the player learned as the agent — thoroughly, partially, or barely — is what Dragomir walks in holding, and it changes the mission materially rather than gating it:
+
+- **Thorough fieldwork:** he knows the shift change, the count of men inside, which door is unlocked at which hour, that one of the guards is a Norteño who owes somebody, and that the yard's camera on the west side has been dead since spring. The mission is a plan.
+- **Partial:** he knows the building and roughly when. Everything else he finds out by walking into it.
+- **Blown:** the agent got made and had to leave early, and the brief is two sentences and a guess. **The mission still happens** — Drago is not going to wait — and it is materially, sometimes brutally, worse.
+
+That is the mechanical answer to *why does investigation matter*: it does not open doors, it decides what kind of fight is on the other side of them.
+
+**The brief becomes the notebook.** The message does not sit in a menu. Drago reads it once on the handset and then **copies it into the notebook in his own hand** — abbreviated, misspelled, some of it wrong because he transcribed it wrong. What the player consults in the field is Dragomir's version, not the agent's, and a partial brief is a half-empty page. It also means the intelligence is now a physical object that can be taken off him.
+
+**And the player composes the brief, which is where the drama lives.**
+
+The agent knows things he has chosen not to tell Drago — chief among them what it means that Ivan is valuable. When sending a brief, the player selects what goes in it. Some of this is tactical (mentioning the guard who owes somebody opens a non-violent route). Some of it is not:
+
+- Include everything and Dragomir acts on it, including the parts that will make him reckless.
+- Omit something to protect him and he walks into a situation you knew about and he did not.
+- The game never tells the player which was right. It shows them what happened.
+
+**It runs in both directions.** Dragomir generates work for the agent constantly and mostly by accident — he beats a name out of somebody, sees a lorry with the wrong markings, is told something by a caretaker. Those arrive on the agent's board as **new open questions**, in Drago's phrasing, frequently vague and occasionally wrong. The fist produces leads; the brain produces plans; neither is the senior partner.
+
+**The offscreen man has visibly been living.** When control returns to a character, time has passed and it shows in small, characterful ways rather than in missed content: an injury Drago did not have, entries in the notebook the player did not write, a relationship that has moved a step on its own, a message thread with three unread lines in it, the agent's board carrying a question somebody else answered. Never a major beat — the player must never feel they missed something — but always enough that the man was clearly not in storage.
+
+**And the channel is a liability, which keeps it honest.** Drago's handset goes down with him. If he is beaten unconscious and stripped, the thread goes with it — every brief, every location, and a foreign contact who writes like an educated man. The player will start deleting messages, which is the correct behaviour in this city and, like the notebook, something no tutorial could teach.
 
 ---
 
@@ -357,7 +425,9 @@ The player learns to diagnose a body the way you learn to diagnose a car by its 
 **Waking up: three outcomes, and they are determined by the world, not by a menu.**
 
 1. **The ambulance came.** You wake in the central hospital, treated, repaired and hours later. Response inside the ring is genuinely fast and the medicine is genuinely excellent, for reasons the world section explains and the player never needs told.
-2. **Nobody called.** You wake exactly where you fell, in the cold, still injured, still bleeding, with everything portable gone from your pockets. Now walk. The hospital is a long way and you are in no state, and this is one of the tensest sequences the game can generate.
+2. **Nobody called.** You wake exactly where you fell, in the cold, still injured, still bleeding, with everything portable gone from your pockets. Now get somewhere.
+
+   This is one of the tensest sequences the game can generate *the first time* and a slog by the fourth, so it is built to be survivable in more than one way and to shorten as the player builds a life: field treatment can stabilise him enough to move properly, a known doctor is usually closer than the hospital, a phone gets someone to come, money gets a car, and a relationship in that district gets a door opened two streets away. The long crawl across the city is what happens to a player with **none** of those — which is to say, early, and by design, once.
 3. **Somebody you know came for you.** Only available if the player has built the relationship. You wake on a table in a back room with a doctor who does not file reports.
 
 **What decides whether an ambulance is called is other people.** Not a system roll — the district. In a neighbourhood where the player is known and tolerated, somebody picks up a telephone. In one where he is a stranger, or unwelcome, or where the locals have reason to want nothing to do with what just happened, nobody does. **Being liked is, mechanically, the difference between waking in a hospital bed and waking in a stairwell in February.**
@@ -382,7 +452,15 @@ So Dragomir is one unresolved shape in a river of them on the street, and a hard
 
 - **He can physically walk into monitored buildings.** Nothing stops him at the door. Doors open.
 - **The reader returns nothing, and *nothing* is the alarm.** A forged card produces a routine fraud flag — annoying, survivable, common. A person with no record at all produces something else entirely, because in a city where every face is enrolled there is no such thing as an unenrolled face. It does not read as fraud; it reads as an impossibility, and impossibilities escalate automatically.
-- **So official interiors are timed, escalating hostile spaces for Dragomir.** He can be inside one. He cannot be inside one for long. An alert has already gone somewhere the moment he crossed the threshold, and the game should let him feel the clock without ever displaying it — staff behaviour changing, a phone being picked up at a desk, someone not coming back.
+- **So official interiors are timed, escalating hostile spaces for Dragomir** — and the timer is hidden but never ambiguous. An unshown clock the player cannot read is not tension, it is a coin flip, so escalation runs on a **three-stage ladder that is unmistakable every time and identical in every building**, so the player can learn it once and rely on it forever:
+
+  **Stage one — noticed.** A member of staff looks at him twice and goes back to work. Ambient sound unchanged. This is the whole of his comfortable window and it is generous.
+
+  **Stage two — reported.** Somebody makes a call. The player sees it: a hand on a desk phone, a supervisor called off the floor, a door held open that was not open before. Ambient sound thins — conversations stop in the room he is in. **This is the leave-now signal and it always looks the same.**
+
+  **Stage three — closing.** Movement in the corridors changes direction; people are walking *toward* him rather than past him; exterior doors are being covered. From here it is a chase, not an errand.
+
+  The stages are consistent, legible and generous enough to act on. The tension is what he still has to accomplish before stage two, not whether he can read the game.
 - **The agent has the opposite relationship with the same doors.** His credential is real, current and generated by his cover identity. He walks into every one of those buildings legitimately, which is exactly what he is for.
 
 **THE HOSPITAL SEQUENCE**
@@ -427,7 +505,11 @@ Everything she makes is grounded in real techniques, and each attacks the machin
 
 **Two constraints turn this from a power-up into a system.**
 
-**It degrades, invisibly.** Every piece defeats a *specific version* of a specific system, and the systems update. A pattern that worked in spring is worthless by autumn, and nothing announces the change — the player simply walks past a lens that used to be blind and is not blind any more. Gear is therefore perishable, the relationship must be maintained rather than completed, and the player can never fully trust equipment they have not recently replaced.
+**It degrades — but the player can always find out.** Every piece defeats a *specific version* of a specific system, and the systems update, so gear is perishable and the relationship with the maker must be maintained rather than completed.
+
+Silent expiry would be player-hostile: equipment that stops working without telling you is not tension, it is a betrayal. So the world provides **test surfaces**, and finding them is part of learning the city. A shop window with a security monitor showing its own doorway feed. A bank lobby screen. A bored guard's terminal visible through a window. Stand in front of one wearing the piece and you can see whether the system is resolving you or not — a box drawn around your face, or nothing.
+
+Checking takes a minute, requires being somewhere specific, and is entirely optional. A careful player is never surprised. A careless one walks into a ministry in a coat that stopped working in September.
 
 **And defeating the machine makes you conspicuous to people.** This is the real design gift and it comes straight from the world's own two-layer surveillance: the lenses, and the neighbours who report. Everything that beats the algorithm works by being *strange* — asymmetric makeup, a coat with faces printed on it, glasses that flare white in a doorway. All of which is instantly, unmissably noticeable to the woman selling cigarettes on the corner, and she is the layer that actually gets people taken.
 
@@ -443,7 +525,9 @@ There is no configuration that beats both layers. That is the point, and the mak
 Dragomir has no number, no roof, no crew, no money and no papers. He cannot buy his way through this city and he cannot fight his way through it either. What he can accumulate is **people**, and that is the progression.
 
 - **Everyone is available.** Criminals and civilians both, and the civilians matter more than players will initially assume: a tram driver who works a particular route, a woman who runs a stall in the market, a caretaker with keys to four buildings, a nurse, a *kladman* of nineteen, a monk, a bartender, a Podpolye fight organiser.
-- **Relationships are built through use, time and risk, not dialogue trees with reputation points.** They are built by doing things — carrying something, not saying something, showing up twice, being present when it cost you.
+- **Relationships are built through a small set of concrete acts, not dialogue trees with reputation points.** There are five, they are legible, and every character in the game responds to some subset of them: **do the errand** (carry, deliver, fix, stand somewhere), **take the hit** (absorb a cost that was going to fall on them), **keep the silence** (be asked about them later and say nothing — and the player is *shown* that this was noticed), **return** (visit when there is nothing to gain, which the game tracks and people remark on), and **refuse the profitable thing** in front of them.
+
+  None of these open a menu. All of them are ordinary play. The player will build several relationships without realising they were doing it, which is exactly right, and will lose one the first time they treat a person as a resource in front of another person.
 - **What they unlock is access, not stats.** A place to sleep with no lease. A doctor who does not file. A route through a building. A name. A warning delivered in time. An ambulance called. Someone to vouch for you into *Dvor.* Information that is not for sale.
 - **They cost.** The world's own rule governs this and it must bite: to know something is to be a person who might repeat it, and a source who is caught becomes evidence about you. Relationships in Zev create hostages in both directions. The person who vouched for the player can be reached because of the player, and the game should make that happen at least once, unmistakably, and let the player live with it.
 - **And the spending system runs underneath.** Using people is how Dragomir gets what he needs. Using people is also, precisely, what the city does. The relationship system and the emptying-out system are the same system observed from two angles, and the game never says so.
@@ -470,6 +554,24 @@ The player can carry a phone, keep contacts, and be reached — and everything s
 - **Clandestine handsets exist.** No positioning, no registration, bought through *Dvor* and never on the open market. They cost several times what a legal one does, they are not advertised anywhere, and — per the Law of the Closed Mouth — **nobody will ever offer the player one.** You have to go looking, and finding out who sells them is itself a piece of investigation.
 - **Numbers are burned, not kept.** A clean handset stops being clean the moment it has been used to call something that later becomes interesting. Experienced characters replace them constantly, and the player learns to.
 - **Carrying two is standard and telling.** Anybody found with a legal phone and a clandestine one is instantly identifiable as somebody with something to hide, which means the second phone has to be somewhere other than a pocket.
+
+**THE TWO RESISTANCES, AND WHY ONLY ONE OF THEM IS PLAYABLE**
+
+Players will look for a rebellion to join. The design's answer is that there are two things wearing that name and neither is what they want, and understanding the difference is a significant piece of the game's argument.
+
+**The organised cells** — the outer-ring meetings, the mimeographed sheets, the annual operation that fails — are the state's pressure valve, funded through cut-outs and pruned on schedule. They are joinable. They generate missions. **And working for them accomplishes nothing, ever**, which the player should be allowed to discover slowly and by evidence rather than by being told. Their content is real content — it is not a trap or a waste of the player's time — but its outcomes are always contained, and a player paying attention will notice that every success is somehow followed by nothing.
+
+**The distributed defence** is the one that actually holds a line, and it is not a faction and cannot be joined because it does not exist as an organisation. It is four men in a village taking turns on the nights the road is passable. A monk walking a brother to the next settlement and both back before dark. A farm with a bell. A third-ring stairwell where a grandmother asks a stranger his business before he reaches the second floor, and where the crews have quietly stopped bothering.
+
+Systemically this is not a quest-giver. It is **a property of certain places**:
+
+- Districts and settlements have a **defended state** the player can feel: fewer predatory encounters, strangers challenged, and locals who will not simply watch. It is why an ambulance gets called in one neighbourhood and not another.
+- The player can **strengthen or destroy it**, mostly by accident. Bringing a war onto a defended street is how a defended street stops being one. Doing a favour for the people who hold it — usually a small, boring, unheroic favour — makes it hold better. The change persists and is visible on the next visit.
+- **It cannot be organised.** If the player tries to unite settlements, coordinate them, give them a name or a leader, the attempt succeeds socially and then draws the exact attention that ends them. This should happen at least once, be entirely the player's doing, and never be foreshadowed by anyone.
+
+**The reason the state permits the second one is the world's core economic logic and should never be spoken aloud in dialogue.** The foreman intends to hold this estate for another fifty years, which gives him an interest in it remaining productive — the same interest that pays for the hospital, the schools and the trams. His problem on the Fringe is not rebellion, it is his own tenants: crews are predators, and predators in a place with nothing worth guarding will strip it, because a crew's incentive is this quarter and not the estate's fiftieth year. And he will not garrison a potato field, because nothing out there earns enough to justify one officer's salary.
+
+So the farmers do it. Unpaid, permanently motivated, locally trusted policing of the foreman's own tenants, in the places he has already calculated are not worth policing. He is not tolerating a resistance. **He is accepting free labour.**
 
 **THE PODPOLYE: THE COMBAT SANDBOX WITH NO LEDGER**
 
@@ -725,11 +827,59 @@ If the game ever wants a drug-use scene for narrative reasons, it must be a stor
 
 ---
 
-### X — KNOWN PROBLEMS, SCOPE, AND UNRESOLVED RISKS
+### X — PLAYER-EXPERIENCE AUDIT, AND THE RISKS THAT REMAIN
 
-This section exists because a bible that only argues for itself is a pitch. What follows are the places this design is weakest, stated plainly, with the current position on each.
+This section exists because a bible that only argues for itself is a pitch. The first half lists design faults that were found by reading this document as a *player* rather than as an author, and what was changed to fix them. The second half is what is still genuinely open.
 
-**1. Legibility is this design's largest risk, and it is self-inflicted.**
+---
+
+**RESOLVED: faults found and fixed**
+
+**The emptying system had an incentive bug that would have destroyed the story.** As originally written, spending yourself made you better at combat — full stop. The optimal play was therefore to spend deliberately, which turns a tragedy into a build order and produces a power fantasy with sad music over it. Fixed by making spending a **trade rather than a track**: it buys combat and sells dialogue, relationships and access, and since the investigation pillar runs on relationships, *the player who optimises for fighting optimises away their ability to find their brother.* There is now no configuration that maxes both, and the best ending is reachable only by a player who is measurably worse at the game's primary verb.
+
+**Cache-running was a walking simulator.** "Walk around all day hiding packages" is thematically perfect and mechanically empty. Rebuilt as a **placement puzzle** — sightlines, foot traffic, seagull risk, lens proximity, whose stairwell it is — which scores a terrain read, teaches the map in a game with no minimap, and is deliberately finite rather than a grind.
+
+**Dead-drop collection was friction on every purchase.** Tedious by the fifth repetition. Now tiered: routine consumables resolve locally or on the player's existing route, and only things that matter justify a dedicated trip. The player should never cross the city for something boring.
+
+**The blank-record clock was unreadable.** A hidden timer the player cannot calibrate is not tension, it is a coin flip. Replaced with a **three-stage escalation ladder** — noticed, reported, closing — that is identical in every monitored building, generous enough to act on, and learnable once.
+
+**Counter-surveillance gear expired silently, which is a betrayal rather than a mechanic.** Now testable: the city contains **test surfaces** (shop-window security monitors, lobby screens, a guard's terminal seen through glass) where a player can check whether the system is still resolving them. Careful players are never ambushed by it.
+
+**The wake-up-where-you-fell crawl would be a slog by the fourth occurrence.** Now shortens as the player builds a life — field treatment, a known doctor, a phone, money, a door two streets away. The full crawl is what happens to a player with none of those, which is to say early, and by design, once.
+
+**Agent failure restarting twenty-minute social sequences was the cruellest thing in the document.** Now failures overwhelmingly **branch** — lost source, worse information, burned room — and only definitive unmasking restarts, always preceded by warnings and always checkpointed.
+
+**Relationships were a vague promise.** Now five concrete acts that are ordinary play rather than a menu: do the errand, take the hit, keep the silence, return, refuse the profitable thing.
+
+**The case board was the least-specified system in the project.** Now built on **open questions rather than connecting string** — evidence answers questions unambiguously, the questions double as the game's only quest log, and deduction is choosing between two or three conclusions that the evidence genuinely all supports. The game never confirms whether the player chose correctly; they find out by acting on it.
+
+---
+
+**REMAINING RISKS**
+
+**1. Legibility — solved by three additions, and the residual risk is acceptable.**
+
+The remaining gap after the earlier fixes was specific: the *agent* has a case board full of open questions that doubles as a quest log, and **Dragomir had nothing equivalent.** His half of the game had no objective carrier at all. Three additions close it.
+
+**The notebook.** Dragomir carries a cheap paper notebook and a pencil stub, and writes in it himself — names, streets, times, what somebody said, badly spelled, crossed out and rewritten. It is his quest log and it is entirely diegetic: a man with no papers and no phone he can safely use, terrified of forgetting anything about his brother, keeping the only record he has. It opens as an object in his hands, in his handwriting, which means reading it takes time and leaves him not watching the room.
+
+And it is a liability, which makes it better than a menu: it can be taken off him when he is beaten unconscious, and it can be read by whoever takes it. Losing the notebook is losing the quest log *and* handing somebody a list of everyone who has helped him. The player will start being careful about what they write down, which is the correct behaviour in this city and something no UI could teach.
+
+**The tram network.** A real Soviet-built city runs trams on fixed numbered routes with named stops, and this solves navigation, fast travel and teaching simultaneously. The player learns that the 7 goes to the freight yards and the 3 runs the length of the fourth ring, which is *learning the city's actual geography* rather than bypassing it — the opposite of a fast-travel menu. Routes are posted on shelters, in-world, readable. Trams are also neutral ground, as the letter says, which makes them safe transit through hostile districts and a natural place to overhear things.
+
+**Map scope: the playable city, and the region that is referenced but not built.**
+
+The world's influence covers something like a hundred and fifty kilometres in most directions and the game does not and should not contain it. The playable space is the **city and its immediate belt** — the rings, the industrial edge, the Quiet, the tunnels, and a bounded slice of the Fringe with the farms, one absorbed village and one forest settlement. That is a large open world and it is enough.
+
+Everything beyond it exists in dialogue, on the case board, in freight manifests and in where people say they are from. The region is *felt* rather than traversed: a lorry arrives from four raions away, a man's accent places him from the northern gradient, a monastery is two days' walk. This is how real cities work in fiction and it costs nothing to build.
+
+The single exception is the opening — the road, the forest, the river and the monastery — which happens well outside the city and is authored as a linear sequence, not as open terrain. That is deliberate: the player sees the region once, on foot, at the worst moment of Dragomir's life, and never has free access to it again. It makes the city feel like a place he went *into*.
+
+**Authored density, and honesty about what the rest of the map is.** Most of this city is connective tissue and should be traversed rather than explored. The districts that carry content are hand-built and dense; everything between them is real, walkable, and explicitly not hiding anything. The player is never asked to comb forty identical courtyards on the chance that one contains something. This is what makes the deliberate monotony survivable: the monotony is the *commute*, not the content.
+
+With those three in place, plus landmarks, the open-questions board, reliable directions and stated intent, the design's legibility burden is comparable to a stealth-immersive-sim rather than to a mystery box. That is a genre players already navigate successfully, and the residual risk is one the project can carry.
+
+**1b. Legibility risks that remain**
 
 No HUD, no minimap, no numbers, no vendors, no NPC offering anything, no objective markers, and a city engineered to be visually monotonous. Every one of those is thematically correct and together they are a recipe for a player wandering a grey city for three hours without understanding what to do.
 
@@ -743,21 +893,25 @@ The position is not to add a HUD. It is that **legibility must be paid for diege
 - **Landmarks over uniformity.** The blocks are monotonous; the *city* must not be. Every district needs two or three unmistakable silhouettes — a cooling tower, a bridge, a church, the towers on the skyline — visible from most of it. Real monotonous cities are navigable this way and ours must be.
 - **First-hour teaching happens at the monastery**, in a small, quiet, legible space, before the city exists as a problem.
 
-**2. The hidden numbers need to telegraph direction, even while hiding magnitude.**
+**2. The hidden numbers must telegraph direction even while hiding magnitude.**
 
 "You feel it" is not a teaching mechanism at the resolution required for a player to build a model of how their actions move a variable. Games that hide stats almost always still signal *direction* clearly.
 
 The position: **magnitude stays hidden, direction does not.** Every spend gets one unambiguous, non-numeric, immediate acknowledgement — a specific line of dialogue, a held beat, a reaction from someone present, the hitch being conspicuously absent in the very next encounter. The player should never be able to say what the number is. They should never be in doubt that something moved, or which way.
 
-**3. Two protagonists is two games, and this is the largest production risk in the project.**
+**3. Two protagonists is two games — and the scope is solvable, because the second game does not need a world.**
 
-Shipping a combat system at *Sifu*/*Sleeping Dogs* quality **and** an investigation system above *Alan Wake 2* — because we want clue acquisition to be social and emergent rather than scripted — is two of the most expensive kinds of work that exist. "Clues earned socially, not triggered" is a sentence hiding the least-solved system in this document.
+The fear is that this ships a *Sifu*-quality combat system **and** an *Alan Wake 2*-scale investigation system, which is two of the most expensive kinds of work that exist. That framing is wrong, and correcting it is the solve.
 
-The honest scoping position:
+**The agent adds almost no world.** Every scene he plays happens in an interior the brawler half already required — a bar, a hotel, a depot office, a private room. He needs no new map, no new traversal, no open-world crowd AI, no combat animation set beyond a single suppressed pistol used rarely. What is genuinely new for his pillar is **dialogue systems, the board UI, and scene scripting**, which are among the cheapest content types per hour of playtime that exist, and are precisely where the industry's narrative-adventure studios operate on modest budgets.
 
-- **Emergent social clue acquisition is not achievable at full generality** and should not be promised. *Disco Elysium* got close and did it with skill checks and dice, not with the player noticing which two people avoid each other.
-- The tractable version is **authored scenes with multiple genuine acquisition routes**: each piece of information has three or four ways in (buy a man drinks, catch a lie, get into a back room, trade something), all hand-built, none randomly generated. The player experiences choice and consequence; the systemic generality is a lie the design does not need to tell.
-- If scope has to be cut, **the investigation pillar shrinks in breadth, never in quality** — fewer cases, same depth.
+**The split is asymmetric on purpose.** The agent is roughly a quarter to a third of playtime, delivered as authored chapters, not as a parallel open world. One open-world game, plus a set of narrative chapters that reuse its environments with different verbs.
+
+**And the combat scope is already argued down by the design itself.** The expensive part of *Sifu*-class combat is animation volume against a large move list. This game's own thesis — *few tools, deep application*, the *Warriors* model — calls for a small vocabulary (strike, grab, throw, disarm, shove, counter) with depth coming from spacing, terrain and enemy variety rather than from move count. The design argument and the budget argument agree, which is rare and should be exploited.
+
+**Emergent social clue acquisition is not achievable at full generality and is not promised.** *Disco Elysium* got close and did it with skill checks and dice, not with the player noticing which two people avoid each other. The shipped version is **authored scenes with three or four genuine acquisition routes each** — buy a man drinks, catch a lie, get into a back room, trade something — all hand-built. The player experiences real choice and consequence; the systemic generality is a claim the design does not need to make.
+
+**Sequencing.** Build the brawler vertical slice first, because combat feel is the expensive unknown and everything else is downstream of whether it works. The agent's pillar is validated with a single fully-authored chapter in environments the slice already built. If scope must be cut, **the investigation pillar loses breadth and never depth** — fewer cases, same quality.
 
 **4. The combat loop and the satire rule are in tension, and pretending otherwise repeats the mistake we criticise.**
 
@@ -783,23 +937,59 @@ The answer cannot be "only Dragomir's interior state changes." That is a novel's
 
 The foreman is never removed. Everything under him moves constantly. That distinction is the whole answer and the game must be built to demonstrate it rather than to assert it.
 
-**6. The real distribution threat is not the rating board.**
+**6. Distribution: the real threat is the payment layer, and it is specifically about sex — which this game can survive.**
 
-The classification analysis elsewhere in this document is accurate and it addresses the wrong layer. For a game whose premise is an industrial human-trafficking city, the existential risk in the current market is **payment processors and platform holders**, not ESRB. Card-network pressure in 2025 forced both Steam and itch.io to purge large categories of adult content, and that mechanism kills a project of this kind far faster and with far less appeal than any rating decision.
+The classification analysis elsewhere is accurate and addresses the wrong layer. In July 2025 an advocacy campaign directed at Visa, Mastercard, PayPal and other processors caused Steam to add a rule permitting removal of content that "may violate the rules and standards set forth by Steam's payment processors," and caused itch.io to deindex its entire adult category overnight. No rating board did that. Processors did, in days, with no appeal.
 
-Practical consequences: the M-not-AO discipline matters more, not less; storefront relationships need to be established early rather than at launch; and the game's own restraint — no depicted sexual violence, no sexualised minors, no drug-use rewards — is now a *distribution* requirement rather than a taste one.
+**But look at what actually triggered it, because the specificity is the whole answer.** The campaign was about games depicting rape, incest and child sexual abuse; the precipitating title was a rape simulator; the delisted examples were explicitly sexual. And the legal machinery underneath is **FOSTA/SESTA**, which exposes processors to liability for payments connected to content seen as facilitating sex trafficking.
+
+That last point is the one that matters here, because this game's premise is a human-trafficking city. **The exposure is not violence, gore, drugs or bleakness. It is sexual content and any appearance of sex-trafficking as entertainment.** Which means the risk is real, narrow, and — unusually — almost entirely inside our control.
+
+The mitigations are concrete and most are already how the game is written:
+
+- **Trafficking in this game is depicted as labour.** The freight goes to the plants, the tunnels and the fraud-farms. That is what the player sees, what the missions concern, and what the world's economics describe. Sexual exploitation exists in the fiction — and the narrator explicitly refuses to describe it, which is the correct authorial choice and also, now, the correct commercial one. It is never depicted, never a location the player enters, never an objective, never a mechanic.
+- **The Podpolye's worker-run rooms are the one genuine exposure and must be handled accordingly.** In fiction they are the opposite of trafficking — women who set their own price and keep it, deliberately contrasted with the apparatus above. A screenshot carries none of that context. **Decision: they exist as referenced world, not as an enterable interactive location, and no sexual activity is depicted.** The thematic point survives entirely in dialogue and consequence.
+- **No nudity in any commercial-sex context.** Nudity elsewhere is unproblematic at M; nudity adjacent to a transaction is what the current environment punishes.
+- **Marketing language is a distribution decision, not a copywriting one.** Store pages, trailers and press materials lead with the city, the brother, the fist and the surveillance. They do not lead with trafficking. Every word of the store description should survive being read by a compliance officer who has thirty seconds and no context.
+- **Get the M rating early and treat it as documentation.** A board's formal classification is the single most useful artefact to hand a payment processor or a platform reviewer, because it converts "someone says this game is horrible" into "an independent body rated this and here are the descriptors."
+- **Console certification first.** Sony, Microsoft and Nintendo apply stricter but *stable* published standards, and passing them is durable evidence of good faith that PC storefronts and processors respond to. It also means the game is not dependent on a single PC storefront's risk appetite.
+- **Payment redundancy as insurance, established before launch.** A direct storefront and at least one non-card rail, in place and tested while nobody is looking, so that a delisting is a revenue problem rather than an extinction event.
+
+Handled this way, this is a hard-M crime game with no depicted sex — which is a category that ships on every platform every year.
 
 **7. The houses are built from real diaspora criminal traditions, which is in tension with our own Rule 3.**
 
 We forbid caricaturing identities and require composite institutional archetypes — and then construct the entire faction roster from real ethnic criminal traditions, with the Chechen-coded house as "the knife" and its founding trauma the 1944 deportation. It is written carefully. Careful is not the same as safe, and this is a real exposure rather than a hypothetical one.
 
-Current position, and it is a compromise rather than a solution:
+**And there is an actual solution available, which the world's own logic was already demanding and the document had failed to apply.**
 
-- **The tension is accepted deliberately, because the alternative is worse.** Inventing fictional ethnicities for a story about global organised crime converging on one city produces either a whitewash or a set of thinly veiled inventions that are more insulting than the real referents.
-- **The mitigations are structural.** No house is its ethnicity: each is an *institution* with a function, an internal politics, a forbidden ambition and named individuals who disagree with each other. The city's own thesis is that it *flattens* these traditions and destroys what they were, which frames the reduction as violence done to them rather than as their nature.
-- **The Highlanders specifically need the most care.** Being "the knife" is one line item in a portrait that also contains legal pluralism, the sacredness of the guest, and a deportation the state committed; they are the only house the surveillance system cannot coerce, and they are the only people in the city who will shelter a stranger on principle. If any of that is cut for time, the remainder becomes exactly the stereotype we said we would not write.
-- **Consultation is a production requirement, not an option**, for every house, at writing stage rather than at review stage.
-- **And the scoring system is Chinese-coded technology in a Russian city**, which is the same class of problem at national scale. The mitigation is that it is presented as a *state* apparatus with a Russian institutional history and an Orthodox-icon name, not as an import — but it should be reviewed with that criticism in hand.
+The problem is not that the houses have origins. It is the **one-to-one mapping** — faction equals ethnicity equals behaviour — which is what produces caricature regardless of how carefully each portrait is written.
+
+**Break the mapping: the houses are founding traditions, not ethnic memberships.**
+
+This city has been running for thirty years. A crew that recruited only from its home country in a place like this would have died out or stayed tiny — and more to the point, the city's own Law of the Shared Line *forces* every house to work alongside every other house daily, and Part Nine already establishes that Zev grinds bigotry out of people by pricing it, more effectively than any tolerant country ever managed.
+
+So the houses recruited locally, as real organisations always do. And that means:
+
+- **A Norteño crew in Zev is majority Russian.** The founding family is what it is; the soldiers, the drivers, the chemists' assistants, the woman who runs the district's clinic money are from the fourth ring, from Tajikistan, from Vietnam, from wherever. The *tradition* is Mexican. The *crew* is Zev.
+- **The Irmandade's discipline is the draw, not its passport.** A code that anybody can recite and be judged by is a code anybody can join, and its membership is now overwhelmingly people who were born here and liked the idea of a written rule in a city that has none.
+- **The Casata are the exception, and it is a plot point rather than a portrayal.** They alone recruit by blood, because that is their entire security model — and the document already establishes that this is precisely what destroyed them, because importing relatives through the one watched door built the state a complete genealogy. Their purity is *their weakness*, explicitly, in text.
+- **The Kaigara's code outlived its nationality.** The rituals persist; the men performing them increasingly did not come from where the rituals did, and the older ones have complicated feelings about that which are far more interesting than an ethnic sketch.
+
+This costs nothing thematically. It *strengthens* the central thesis — the city takes what these traditions were and hollows it out, keeping the procedure and burning the meaning — and it removes the structural problem, because no house is any longer a stand-in for a people.
+
+**And the Highlanders get the largest change, because they were the sharpest exposure.**
+
+"The Chechen-coded faction is the killers" is indefensible however carefully written. Two corrections:
+
+- **Violence-for-hire is not a house and never was.** Every house has soldiers and every house does its own wet work. What the Highlanders actually hold is the work *nobody else will touch* — and the document's own text says why, and it is not about nature: **the foreman refuses to grant them ground.** A house with no territory has nothing to trade but service, and is kept that way deliberately, because a landless house has no hostages and is therefore the only one the score cannot coerce. Their function is an assignment imposed to keep them dependent, not a cultural characteristic, and every scene involving them should make that legible.
+- **The portrait's centre of gravity moves off the knife.** What is distinctive about them in this world is legal pluralism, the absolute sacredness of the guest, an inherited certainty that no state's guarantee is real, and the fact that they are the only people in Zev who will shelter a stranger on principle — including, eventually, the protagonist. That is the character of the house. If production ever cuts that material for time, what remains is exactly the stereotype we said we would not write, so **it is protected content, not colour.**
+
+**Remaining commitments:**
+
+- **Consultation is a production requirement at writing stage, not a review-stage sign-off**, for every house.
+- **The scoring system is Chinese-coded technology in a Russian city** — the same class of problem at national scale. Mitigation: it is presented with a Russian institutional lineage and an Orthodox-icon name, and its human informant layer is drawn from this region's own history rather than imported. It should still be reviewed with the criticism in hand.
+- **No house's founding country is ever named in the game.** The letter's practice of describing origins without naming them — *the mountain country where the drug war never ended*, *a small country on a warm sea* — is not coyness. It is the mechanism that keeps these institutions rather than nationalities, and it should hold in every script, subtitle and store page.
 
 **8. Why a settlement house is physically located in a freezing Urals meat-grinder.**
 
@@ -951,6 +1141,50 @@ The resistance has been almost destroyed from within four times in twenty years.
 
 I have wondered, in the small hours, what happens if a generation of them ever exceeds the quota faster than the gardener can prune. I do not know. Nobody does. It has not happened yet.
 
+**But I have given you the cynical half and it is not the whole of it, and the rest took me twenty years to work out.**
+
+Because there is not one resistance in this region. There are two, and they are not the same thing at all, and only one of them is the drainpipe I described.
+
+**The first is what everybody pictures.** Cells in the outer rings. Young men, meetings, a mimeographed sheet, an operation once a year that fails. That is the funded one. That is the theatre, and I have already told you how it is watered and pruned and betrayed on schedule.
+
+**The second is not organised and does not think of itself as resistance at all**, and it is the one that actually holds a line.
+
+Go out past the last tram stop. Out where the farms are, and the absorbed villages, and the settlements around the monasteries. There is nothing out there worth watching, which as I have told you three times now means there is nothing out there being protected either. The Eye does not reach it. Neither does anybody's police. And the country between those places is full of men this city has used up and thrown out — men with nothing, walking, in winter, who know there is food in a monastery kitchen and no one anywhere near it.
+
+So the people out there defend themselves. Not against the state. Against the *overflow.*
+
+It is not an army and it would be embarrassed to be called one. It is four men from a village who take turns sitting up on the nights when the road is passable. It is a monk with an axe walking a brother to the next settlement and both of them coming back before dark. It is a farm with a bell, and the neighbours who come when it rings, and a shared understanding about which barn the woman with the small children goes to. It is a district in the third ring where the stairwells are watched by the people who live in them and a stranger gets asked his business by somebody's grandmother before he reaches the second floor — and where, because of that, the crews have quietly stopped bothering and buy their bread somewhere else.
+
+That is the real thing. It protects farms, monasteries, isolated houses and a handful of stubborn neighbourhoods, it has never once threatened anybody's revenue, and it is more effective than the funded cells have been in twenty years.
+
+**And the state knows about every bit of it, and lets it stand, and I want to explain why properly, because the reason is not sentiment.**
+
+Consider what this city actually is to the men in Moscow. It is not a prize they conquered; it is an *estate they intend to keep*, indefinitely, drawing from it every year. And that changes everything about how a predator behaves.
+
+A robber who is passing through takes everything, burns what he cannot carry, and rides away, because nothing he destroys will ever be his problem. A man who has decided to *stay* cannot afford that. If he strips the farms bare there are no farms next year. If he lets his own people be robbed at random, they stop planting, stop trading, stop building anything worth taking. The moment he settles down, his own interest and the survival of the people he is bleeding become — partially, coldly, and only up to a point — the same interest.
+
+That is the whole logic of this place and it explains everything I have described: the hospital, the schools that are funded above the regional average, the trams that run on time, the children who cannot be touched until their eighteenth birthday. None of it is decency. It is a man protecting the value of an estate he intends to hold for another fifty years.
+
+**And it explains the resistance too, which is the part almost nobody sees.**
+
+The state's problem out on the Fringe is not rebellion. It is *its own tenants.* The houses are predators, and predators left alone in a place with nothing worth guarding will strip it, because a crew's incentive is this quarter's number and not the estate's fiftieth year. The foreman knows this about them perfectly well; it is why he assigns them lanes and functions in the first place.
+
+But he is not going to garrison a potato field. Nothing out there earns enough to justify a single officer's salary, and putting men there would cost more than the entire district produces.
+
+**So he lets the farmers do it.** For nothing. Better than he could, because they live there and know every face and have a reason to sit up all night that no salaried man ever will. A monk with an axe is unpaid, permanently motivated, locally trusted policing of the foreman's own tenants, in exactly the places the foreman has calculated are not worth policing himself. The moment you look at it that way you understand why nobody has ever come to burn those settlements out: **they are doing his work, in a place he had already decided to abandon, at zero cost, and against people he does not fully trust anyway.**
+
+And a hard edge sits underneath it, which the people out there feel and do not name. A crew that wanders out and gets a beating from four farmers with a shotgun has learned a lesson the foreman is glad they learned and did not have to teach. But if those same farmers ever organised, ever coordinated between settlements, ever became a thing with a name and a leader and a demand — they would cease being useful maintenance and start being an actor. And the estate does not permit actors.
+
+So the second resistance survives on the exact condition that keeps it worth having: **it must never become the first one.** It must stay local, defensive, unnamed, and interested in nothing beyond its own road. Everyone out there understands this. Nobody has ever explained it to them.
+
+**And the hope, since I promised you that too.**
+
+Yes — it also serves them that people believe things are not yet entirely lost. A population with nothing left to protect is a population that does the arithmetic differently, and dangerously, and all at once. So the state wants the farms defended and the monasteries standing and the good stairwell in the third ring where the grandmother asks you your business, not only because it is free policing, but because those places are the proof everybody else in this city points to when they need to believe the whole thing is not yet finished.
+
+The decent people are load-bearing. They are the reason the rest of us have not done anything final.
+
+That is the most useful thing they do for the men upstairs, and the cruellest thing I know about my own city, and I am not going to pretend I have made peace with having written it down.
+
 I will let you sit with what that means for anyone who comes here hoping to fight the good fight.
 
 ---
@@ -1037,7 +1271,7 @@ And now the thing nobody explains to newcomers, which gets them killed within a 
 
 *The Fringe.* The rural edge, the farm country, the villages that were absorbed when the city grew and never quite became it. The Eye is thin out there — a few cameras on the roads and nothing else, because there is nothing to watch. No money moves through a potato field. The state's attention follows the money, and the money is all in the middle, and so the outer ring lives under something almost like ordinary neglect. It is the poorest part of Zev and the freest, and those two facts are the same fact.
 
-And before you ask it, because everyone does: no, you cannot simply walk out through the fields. The Eye is thin out there because there is nothing worth watching, not because nobody is watching the way *through.* Every road that leaves has a post on it, the rail has a post, and beyond the farms there are four hundred kilometres of forest and steppe in every direction with nothing in them, in a country where a man without papers cannot buy a ticket, rent a bed or see a doctor. The Fringe is not a door. It is the end of the corridor, and people go there to breathe, not to leave.
+And before you ask it, because everyone does: no, you cannot simply walk out through the fields. The Eye is thin out there because there is nothing worth watching, not because nobody is watching the way *through.* Every road that leaves has a post on it and the rail has a post. And what is past the farms is not a wilderness you could vanish into — it is a hundred and fifty kilometres of villages that all know each other, where a stranger on foot in February is the most interesting thing to happen that month and will be discussed in three houses before he is out of sight, and where the only places big enough to disappear in are other cities that will want his papers the moment he arrives. This is a country where a man without a card cannot buy a ticket, rent a bed or see a doctor. The Fringe is not a door. It is the end of the corridor, and people go there to breathe, not to leave.
 
 *And below all of them,* the tunnels, where there is no law whatsoever except the ledger, and the ledger does not care what happens to you, only that the count comes out.
 
@@ -1596,7 +1830,19 @@ Zev does not leave them to themselves. The foreman takes each of these many-head
 
 That hunger is the truest thing about them, so I will tell you each one's function, and then I will tell you what it *wants,* because the second is what will eventually kill it.
 
-But before the foreigners, understand the ground they stand on. The oldest house here is no house at all — it is *ours,* the native brotherhood, the thieves-in-law and their crews who were in these camps and these tunnels before any charter flight ever landed. They do not hold one function; they are the soil the others are planted in. They control the ports of entry, the local police who are their cousins, the *vory* who judge the disputes, the deep knowledge of which official takes what. The foreign houses are tenants; the brotherhood is the building's own flesh, grown into the foreman-state so completely that no one can any longer say where the crime ends and the ministry begins. The foreigners pay them too, in their way. Everyone pays the ground they walk on.
+**And correct one thing before I start, because everyone gets it wrong and it matters.**
+
+These houses are not colonies. Do not picture a Mexican neighbourhood and a Japanese neighbourhood and a Sicilian one, with each crew full of men from home. That is what it looked like for about six years, thirty years ago, and it has not looked like that since.
+
+Because these are *businesses*, in a city that forces every business to work shoulder to shoulder with every other one, and businesses recruit where they are. A powder crew in this city is run by a family from across the Atlantic and staffed by men from the fourth ring — Russians, mostly, plus Tajiks and Vietnamese and whoever else was hungry the year they were hiring. The brotherhood from the prisons has a written code that anybody can learn and be judged by, which turns out to be exactly the sort of thing that appeals to a young man born here in a place with no rules he can name, and most of their people were. The eastern house's ceremonies are performed, increasingly, by men who have never been east.
+
+So what these houses actually are is *traditions* — a way of organising, a code, a set of rituals, a method — carried here by a handful of people and then filled up with Zev. The founders are foreign. The membership is this city.
+
+There is exactly one exception, and I will come to it, and you will notice that being the exception is what is killing them.
+
+I mention this now because outsiders always want the map to be simpler than it is, with each kind of criminal in his own box, speaking his own language, hating the others. There is plenty of hatred here. It simply does not sort that way. The man taking orders from the Saint's grandson was born four streets from where I am sitting.
+
+**But before the foreigners, understand the ground they stand on.** The oldest house here is no house at all — it is *ours,* the native brotherhood, the thieves-in-law and their crews who were in these camps and these tunnels before any charter flight ever landed. They do not hold one function; they are the soil the others are planted in. They control the ports of entry, the local police who are their cousins, the *vory* who judge the disputes, the deep knowledge of which official takes what. The foreign houses are tenants; the brotherhood is the building's own flesh, grown into the foreman-state so completely that no one can any longer say where the crime ends and the ministry begins. The foreigners pay them too, in their way. Everyone pays the ground they walk on.
 
 **The Norteños — the makers of powder.** They came up from the far side of the Atlantic, from the mountain country where the drug war never ended, and they brought the one thing they do better than anyone alive: they turn chemistry into narcotics at a scale that would make a government blush. In their homeland they fought armies in the street; here, the foreman gave them the deep plants and told them to *make,* and they make. They hold the production floors. They run their district the way a patron saint runs a parish — festivals, funerals, favors, a doctor paid for out of pocket — which is exactly why the people there would die for them, and exactly why the foreman watches them more closely than he watches anyone.
 
@@ -1624,7 +1870,9 @@ Their nearest thing to a leader is a man of forty called **the Gull**, who has n
 
 **The Highlanders — the knife.** From the mountains of the near south, from a people whose grandfathers were loaded onto trains and deported to the cold in one week and who have never once, in any generation since, believed a promise made by a government. That is the whole of them: not a taste for blood, but a total and inherited certainty that no arrangement is permanent and no protector is real. It makes them very hard to frighten with the thing everyone else here is frightened of.
 
-Their function is violence — the settling of what cannot be settled at a *strelka,* the killings other houses need done and cannot be connected to. Their old man is **Movsar**, who is said to have been a schoolteacher once and who has never raised his voice in living memory. *What they want:* ground. They are the only great house in Zev with no district of their own, because the foreman will not give one to a house whose entire trade is killing — and so they are a service, permanently, sold by the job, honored and homeless. Movsar has begun speaking of the men he lost last winter as though they were owed a place to be buried. Everyone who heard it understood it was not about burial.
+And be careful about what follows, because the lazy version of it is wrong. Every house in this city has soldiers. Every house does its own killing. The Highlanders are not the violent ones among peaceable neighbours; they are the ones who take the work nobody else will touch, and the reason is not in their character, it is in the arrangement: **the foreman will not give them ground.** A house with no territory has nothing to sell but service. That is not a fact about them. It is a decision made about them, renewed every year, and everybody involved knows why — a landless house has no hostages, and a house with no hostages is the one thing in Zev the score cannot bend.
+
+So their function is what is left over: the settling of what cannot be settled at a *strelka,* the work other houses need done and cannot be connected to. Their old man is **Movsar**, who is said to have been a schoolteacher once and who has never raised his voice in living memory. *What they want:* ground. They are the only great house in Zev with no district of their own, because the foreman will not give one to a house whose entire trade is killing — and so they are a service, permanently, sold by the job, honored and homeless. Movsar has begun speaking of the men he lost last winter as though they were owed a place to be buried. Everyone who heard it understood it was not about burial.
 
 And beneath and around these great houses swarm the smaller ones — the hawala-men from the old trade roads who move money without a single wire ever crossing a border; the fraudsters from the western coast of the hot continent who came late and hungry and will take any work no one else wants; a dozen lesser crews from a dozen lesser countries, each clawing for a corner, each one more disposable than the last. They arrive the only way anyone arrives, through the one watched door, names in the ledger before their feet touch the ground. And still they come, every season. They always come. The city has room for all of them and mercy for none.
 
@@ -2042,7 +2290,7 @@ So a raid is not a security decision. It is a social catastrophe. Whoever ordere
 
 **The Podpolye is not protected. It is compromising.** It survives on the same principle that keeps the whole city untouchable from outside — too many of the people who would have to act on it have been there — and it survives that way *by accident,* which is the only reason I have any affection for it at all.
 
-It is the one thing in Zev that nobody designed.
+There are exactly two things in this city that nobody designed, and it is one of them. The other is out past the farms, where people sit up on the nights the road is passable, and the two could not be less alike — one is a room where men take four hours off from a life they will go back to on Monday, the other is people holding a line at some cost to themselves. But both exist for the same dull reason: **nobody upstairs ever calculated that it was worth the trouble to stop them.** In Zev, that is what freedom is made of. Not permission. Arithmetic that came out the other way.
 
 That is not freedom. Let me be clear, since I have spent this letter attacking comfortable stories and will not write one now. It is a cold room under a dead railway where the ceiling might come down, full of people taking four hours off from a life they will return to on Monday, and it changes nothing, and most of them do not want it to.
 
@@ -2488,7 +2736,7 @@ They have a procedure for him, of course. They have a procedure for everything. 
 
 That is worth a note in a file. It is not worth a directorate's surveillance budget.
 
-It is worth telling four terrified men that it is their problem now. Their own men, their own time, their own money, off the books, in the dark, moving quietly so that nobody above them ever learns there was a hole in the count. They cannot ask the Eye for his face. They cannot post his name at the checkpoints. They cannot use the machine at all, because using the machine means explaining to the machine why they need it. Every day he stays loose they are more frightened than he is, because he only risks dying and they risk being *spent.*
+It is worth telling four terrified men that it is their problem now.
 
 And that is the joke this city has not noticed it is telling. It counts every soul that enters and it has built the most complete watching apparatus on earth to do it — and the one man walking its streets with no entry at all cannot be looked for with any of it, because the only people permitted to hunt him are the ones who would have to confess, every time they asked the machine for anything, that they still have not finished cleaning up their own disaster.
 
@@ -2674,6 +2922,38 @@ Its name on the paperwork you already know — Sergiyevsk-na-Miass, the saint an
 
 **Zev.** I told you it was older and colder. Here is what it means. It is an ordinary enough word, on its face — a doctor uses it for the *fauces,* the opening at the very back of the throat, the soft ring where the mouth stops being the mouth and becomes the gullet, the last place a thing passes through before it is swallowed and gone. That is what the crews named their city. Not the mouth, which at least smiles. The throat. The part with no expression at all, the part that only swallows. *Going into Zev. Zev took him. You don't leave Zev — Zev finishes with you.* The tourists photograph a city called Sergiyevsk. The residents endure a city called Grey. And the men who understand it best of all, the men who feed it, call it by the name of the place where swallowed things disappear.
 
+**How big it is, and the difference between the city and the thing the city runs.**
+
+This is where everybody's picture goes wrong, including the picture most people who live here carry, and it took me years of listening to men who move freight to correct my own.
+
+There is the **city**, which is a city like any other. Something over five hundred square kilometres of built ground — the towers and the boulevards in the middle, then ring after ring of panel blocks going out, then the industrial belt, then it stops. You can drive across it in forty minutes if the trams are kind. Eight hundred thousand people live inside that, and when a man says *Zev* over a drink, that is what he is picturing.
+
+Then there is the **municipality**, the legal thing, the boundary on the administrative map. The city plus the belt of villages and fields immediately around it that were absorbed when it grew. This is where the ring of very boring infrastructure sits — the traffic post, the road depot, the agricultural station, the men who stand wrong. On paper this is the whole of it.
+
+And then there is the thing that actually matters, which has no line on any map and is perhaps twenty times larger.
+
+**Understand the shape of this country out here.** Beyond the municipality the administrative districts are enormous and almost empty — two, three, four thousand square kilometres each, twenty or thirty thousand people in the whole of one, spread across sixty or eighty villages, some of which are eleven houses and a road that is not surfaced. Population like a mist. A man can drive ninety minutes in this region and pass four settlements.
+
+That emptiness is not incidental to what Zev is. It is the reason Zev works.
+
+Because a city that must move product, freight and people without being observed does not want neighbours. It wants a hundred and fifty kilometres of almost nothing in every direction, threaded by roads nobody counts, dotted with villages too small to have a police post and too poor to have anything worth stealing, where a lorry at three in the morning is not remarkable because there is nobody awake to find it remarkable.
+
+**So the city's reach is not its boundary.** Reckon it at somewhere between a hundred and two hundred kilometres out, in most directions, and understand what that means: a farm on a track four raions away, in a district that has never had any administrative connection to this city whatsoever, is *Zev's*. Not because anybody annexed it. Because the only people who ever come down that track are Zev's people, the only market for what that farm grows is Zev's market, the young men from that village went to Zev to work and half of them did not come back, and if something happens out there the response — if there is one — will come from here. Legally it belongs to somewhere else. Practically it belongs to us, and the people on it know exactly which of those two facts governs their lives.
+
+**And the edge of that is not a line. It is other cities.**
+
+There is no frontier, no fence, no sign. What happens is that as you drive out, the pull weakens, and at some point it is replaced by somebody else's. Go far enough north and the roads start feeding the big city up there instead, and the villages orient that way — their young people leave in that direction, their goods go that way, and the men who come down their track are not ours. Go southwest and you reach the steel country, which is a different order of place with its own arrangements and its own men, and which wants nothing to do with this one. Go west into the mountains and the settlements get older, poorer and more stubborn, and eventually simply stop being anybody's.
+
+Somewhere in the middle of each of those gradients there is a village where nobody could tell you which city they belong to, and where the answer changes depending on which decade you ask. That is what a border looks like out here. Not a line — **a place where one city's gravity gives out before another's takes hold**, and the people standing in the gap are the freest and the most abandoned in the region, which as I have told you repeatedly are the same condition.
+
+**Three things about that vast area are worth knowing specifically.**
+
+*The closed towns.* There are, in this region, a small number of settlements that do not appear properly on maps and never did — built for the atomic work, fenced, guarded, with their own supply and their own rules, and closed since before I was born. They have nothing to do with our arrangement and want nothing to do with it. But they mean that the habit of a place near here being off the map, guarded and unmentioned is *seventy years old* in this region, and nobody local finds it strange, and that is worth a great deal to men who need a city to be unremarkable.
+
+*The steppe and the border.* Go far enough southeast and the forest gives out into open grassland and the roads run to a national frontier that is long, sparsely manned, and older than either country on it. That direction is not a wall. It is an opportunity, and it has been treated as one continuously for two hundred years by everyone who has ever lived here.
+
+*The railway.* The great line runs through, and it has run through since before any of this, and it is the reason there is a city here at all. Everything that has ever been true about this place — the mills, the war factories, the arrangement — grew out of the fact that the country's whole eastern trade has to pass through this gap in the hills. The city is not built on a river or a harbour. **It is built on a throat**, which is a thing I have already said about it in a different sense, and both are true, and only one of them is a metaphor.
+
 **What it is made of.**
 
 Far enough into the continental cold that the grey is the natural state of things and the beauty is the exception. The Köppen letters are *Dfb* if you care for such things; what it means in the mouth is seven months of winter, a sky the color of wet ash from October to April, forty below on the worst January nights, and the black river freezing hard enough to drive a truck across — which they do, when they do not want the bridges watched. The sun barely clears the rooftops in the deep of winter, three hours of thin grey light and then dark again. The concrete was poured in the Soviet years in long identical brutalist rows, spaced as windbreaks against the steppe wind, and it has been going the color of old bone ever since.
@@ -2714,7 +2994,7 @@ Look at those places with an experienced eye and the fiction falls apart in a mi
 
 It is a garrison wearing municipal clothing. And it is not there to keep an enemy out. There is no enemy; nobody is invading a mid-sized industrial city in the Southern Urals. It is there to control what crosses the line, in both directions, and its true function is the one it almost never has to perform.
 
-Because here is the elegance of it: the ring is not a wall you are pushed back from. It is a wall that is never tested, because the only people who would test it are people with nothing — no papers, no ticket, no money, no number — and such a person does not reach the ring at all. He is stopped by the four hundred kilometres of nothing beyond it, and by the fact that he cannot buy a bus ticket, and by the fact that the road he would walk has a post on it, and by simple January. The soldiers exist for the rare case where all of that fails, and for the far more important case that has never yet occurred and is what they are actually for: the day somebody outside decides they would like to come *in* and look around.
+Because here is the elegance of it: the ring is not a wall you are pushed back from. It is a wall that is never tested, because the only people who would test it are people with nothing — no papers, no ticket, no money, no number — and such a person does not reach the ring at all. He is stopped by the hundred and fifty kilometres of watchful villages beyond it, and by the fact that he cannot buy a bus ticket, and by the fact that the road he would walk has a post on it, and by simple January. The soldiers exist for the rare case where all of that fails, and for the far more important case that has never yet occurred and is what they are actually for: the day somebody outside decides they would like to come *in* and look around.
 
 That is what the tanks are for. Not us. Them.
 
