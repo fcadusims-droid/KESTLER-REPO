@@ -10,7 +10,13 @@ She is twenty-six and she looks it, which surprises people who know what happene
 
 She is five foot three. She weighs a hundred and nine pounds and has weighed within four pounds of that number since she was nineteen, because her body long ago decided what it could sustain and stopped negotiating. Her hair is dark and cut short by her own hand with drugstore scissors, unevenly, in a bathroom mirror, every six or seven weeks. Her teeth are bad on the left side and she chews on the right without thinking about it. There is a white line through her left eyebrow where a ring split it open in 2006 and nobody stitched it. Her hands are the part of her that gets noticed — not because they are scarred, though they are, but because they are extraordinarily still.
 
-People find her forgettable. This is the single most useful fact about her and she did not engineer it. It is the residue of eleven years of a specific discipline: to be looked at without being seen was survival, and the habit outlived its usefulness and became her face.
+People find her forgettable. This is the most useful fact about her and she did not engineer it. It is the residue of a discipline: to be looked at without being seen was survival, and the habit outlived its usefulness and became her face.
+
+On a Tuesday when nothing happens she gets up at ten past four because that is when she stops being able to stay in the chair. She walks. She walks between four and nine miles a day and has done since 2014, and it is the only thing she does that could be called a preference. She buys a coffee at a Chevron on Valley Drive and drinks it in the lot. She reads whatever is in the free bin outside the library on Picacho, indiscriminately, and has got through a great deal of nineteenth-century fiction and a manual for a boat engine, and she has strong opinions about none of it and finishes everything she starts because not finishing did not occur to her as an option.
+
+She likes salt more than is good for her. She cannot pass a dog without stopping and she is embarrassed about it. She counts things — cars, fence posts, the tiles above a urinal she cleaned for four months — and this is not a symptom, it is company.
+
+She is funny. This surprises people who meet her, when anyone does. It is very dry, it arrives about four seconds late, and it is almost entirely at her own expense, and when it lands she looks briefly astonished, as though someone else had said it.
 
 She has a name. It is on a birth certificate filed with the New Mexico Department of Health in March of 1990, and a Social Security number issued the same spring, and a second-grade class photograph in a box in a house on Cuervo Road, and a missing-child file that has been open for fourteen years. She has never touched any of it. This is not because the documents are lost. It is because the woman who could walk into a county office and claim them would have to say her name aloud to a stranger in a uniform, and there is no version of Angela Reyes Moreno who can do that.
 
@@ -24,13 +30,13 @@ So she has no identification, but she is not without an identity. Her identity e
 
 The house on Cuervo Road sits eleven miles outside Deming, New Mexico, on a road that is dirt for the last two miles. Ramón Reyes drove a water truck for a dairy operation until his back went in 2001. Alma Moreno cleaned rooms at a motel on the interstate three days a week. They had one daughter and a second child coming, and in the spring of 2002 the truck payment and the hospital were arriving in the same month, and there was no version of the arithmetic where both got paid.
 
-The men who came were not strangers. This is the first thing to understand about the sale and the thing the family has spent fourteen years not saying. Ramón knew one of them from the dairy — a man named Efrén who had moved product across the line in a milk tanker for two years before he moved anything else. Efrén came to the house twice before the day it happened. The first time he came he ate dinner. He complimented Alma's food and he talked about his own kids and he did not mention Angela once, and when he left, Ramón sat on the porch for a long time without saying anything.
+The men who came were not strangers, which is the part the family has spent fourteen years not saying. Ramón knew one of them from the dairy — a man named Efrén who had moved product across the line in a milk tanker for two years before he moved anything else. Efrén came to the house twice before the day it happened. The first time he came he ate dinner. He complimented Alma's food and he talked about his own kids and he did not mention Angela once, and when he left, Ramón sat on the porch for a long time without saying anything.
 
 There was a dinner on the Friday night before it happened, and Alma made arroz con leche, which was the girl's favourite and which nobody explained, and Angela ate it at a table where her mother would not stop crying and her father would not look up.
 
 The second visit was the negotiation. It lasted forty minutes. Ramón asked for twenty thousand. Efrén offered fifteen. They settled at seventeen and Efrén paid in cash on the second Saturday of August, in an envelope, counted out on the kitchen table while Angela stood in the doorway of the room she was about to leave and understood, from the way her father was not looking at her, exactly what was being bought.
 
-That is the detail that organized the next eleven years and everything that came after. Not the truck. Not the room. Not the men's hands. **She watched her father count the money and she did not scream, because she already knew it would not help.** Twelve years old, and she had already learned that lesson somewhere, in some earlier and smaller version of the same house, and the discovery that it applied here too was not a shock. It was a confirmation.
+She watched her father count the money and she did not scream, because she already knew it would not help. Twelve years old, and she had already learned that lesson somewhere, in some earlier and smaller version of the same house, and the discovery that it applied here too was not a shock. It was a confirmation.
 
 Alma cried. Alma stood in the doorway and said *pórtate bien, mija* — as though the girl were going to a cousin's house for the weekend and the instruction had any content. Ramón went inside before the truck pulled out. He has told himself for fourteen years that this was because he could not watch. It was because he could not be watched.
 
@@ -40,7 +46,7 @@ Seventeen thousand dollars in the summer of 2002, in that house:
 
 Four thousand two hundred cleared the truck. Three thousand one hundred went to the hospital in Deming, in advance, for the delivery in January. Twelve hundred went to Ramón's brother, who had been carrying them since the back injury and who never asked where it came from and never will. There was a washing machine — four hundred and ten dollars, secondhand, a white Kenmore with a dented lid — because the old one had died in May and Alma had been washing by hand for three months while eight months pregnant.
 
-**The washing machine is still in the house.** It still works. Alma uses it four times a week. It is the only object in the world that is unambiguously and entirely made of the sale of a child, and it sits in the mudroom, and everyone in that family walks past it every day.
+The washing machine is still in the house. It still works. Alma uses it four times a week.
 
 The remaining eight thousand went the way money goes in a house that has never had any: rent, food, the truck's insurance, a funeral for Alma's mother in 2004, a transmission in 2006. Within four years it was gone and nobody could point to it. That is its own horror — that the thing was not even permanent.
 
@@ -70,7 +76,7 @@ La Curva was three buildings inside a wall: a main house with eight rooms upstai
 
 ### Why It Was Never Found
 
-**La Curva was not a brothel.** It never advertised, never took walk-in trade, never had a phone number, and never in eleven years served a man who could not be vouched for by someone inside the organization. It was a hospitality function of the plaza — the same way the Aparicios kept a cook, a mechanic, and a veterinarian.
+La Curva was not a brothel. It never advertised, never took walk-in trade, never had a phone number, and never in eleven years served a man who could not be vouched for by someone inside the organization. It was a hospitality function of the plaza — the same way the Aparicios kept a cook, a mechanic, and a veterinarian.
 
 This is what kept it invisible, and it is also what made it worse. Because the men were not anonymous. There were, across eleven years, somewhere between fifty and seventy of them, and they came back.
 
@@ -78,7 +84,7 @@ They came back for years. They had names and ranks and reputations. They had pre
 
 She learned all of them. She learned their faces, their voices, their cars, the way they came up the stairs, what they smelled of, what they were afraid of, and what they called each other when they thought nobody in the room spoke Spanish.
 
-**This is the engine of the entire book.** The house that could not be found by the DEA was mapped completely, over eleven years, by a girl everyone believed was a monolingual American who did not understand a word.
+The house that no agency ever found was mapped completely, over eleven years, by a girl everyone in it believed was a monolingual American who did not understand a word.
 
 ### The Household
 
@@ -112,7 +118,11 @@ It bought her the only thing she got out of that house.
 
 Because Serafín Quiroz did his accounts at the long table in the front room, aloud, with the radio on and the American girl mopping ten feet away. Because guards talk on shift change. Because men on the stairs are careless in a language they think is a wall. Because La Doctora, who came every six weeks for eleven years, complained about the drive from Nuevo Casas Grandes and named the road she took.
 
-Angela came out of La Curva with an inventory of an organization that the United States government did not have. She has never given a piece of it to anyone.
+Angela came out of La Curva with an inventory of an organisation that the United States government did not have. She has never given a piece of it to anyone.
+
+In February of 2014 she read, in a five-inch column of a newspaper somebody had left on a bench outside a laundromat, that a joint operation in Chihuahua had taken apart a network in the Nuevo Refugio district and that arrests had been made. She read it twice. She understood, standing there, that the only thing she owned had stopped being worth anything, and that it had stopped without her, in a paragraph, five months after she got out.
+
+She had never intended to trade it. She had not once let herself imagine a room where she handed it over. But it had been there, and it had been hers, and it had been the answer to a question nobody had asked her yet — and she found out on a bench that the question was never going to be asked. She put the paper back down. She has never mentioned it. It is the closest thing to a bereavement she experienced between 2013 and 2015.
 
 ### Isabel Nuncio
 
@@ -120,7 +130,7 @@ Isabel was twenty-five when Angela was twelve. She was from a town outside Fresn
 
 She was not gentle and she was not maternal and the sentimental version of her would be a lie. Isabel Nuncio was calculating, hard-faced, and extremely good at the specific arithmetic of that house — who was dangerous, who was lazy, which guard could be delayed with a question, which nights Serafín drank. She helped Angela because a twelve-year-old who panics is a liability to everyone in the building, and she said so.
 
-She had a daughter. Marisol, born when Isabel was nineteen, left with Isabel's mother outside Fresnillo in the spring of 2001 with the understanding that Isabel would send money from the restaurant job. **Isabel's entire interior life for the six years Angela knew her was organized around a child who was five years old the last time she was touched, and who was getting older at exactly the rate that Isabel was not there for.** She said it once, in 2005, in the washroom — that Marisol would be nine now, and that she did not know what a nine-year-old looked like — and never again.
+She had a daughter. Marisol, born when Isabel was nineteen, left with Isabel's mother outside Fresnillo in the spring of 2001 with the understanding that Isabel would send money from the restaurant job. Isabel's entire interior life for the six years Angela knew her was organized around a child who was five years old the last time she was touched, and who was getting older at exactly the rate that Isabel was not there for. She said it once, in 2005, in the washroom — that Marisol would be nine now, and that she did not know what a nine-year-old looked like — and never again.
 
 They were not friends. There is no word for what they were. For six years they shared a wall, and a mattress in the cold months, and the specific silence of two people who know everything about each other's worst hours and have never discussed any of it. Angela learned from Isabel how to be looked at without being seen, how to read a room's mood in the first two seconds, how to be so consistently unremarkable that a bored man's eye slides off you and onto someone else.
 
@@ -140,11 +150,15 @@ The men who worked in the barn came in from outside. They were not the guards. T
 
 Called El Flaco, which meant nothing — half the thin men in northern Chihuahua were called El Flaco. He was thirty-six in 2003, a career man, eleven years in by then, a former *halcón* from Nuevo Casas Grandes who had been promoted for the two things the work actually requires: reliability and an absence of appetite.
 
-He was not a sadist. This is the load-bearing fact about Bárcena and the reason he functions in this story. He did not enjoy the barn. He was bored in the barn. He was a competent man performing a technical task at which he was better than the people around him, and the primary emotion available to him at work was professional irritation with sloppiness. He complained about people who made a mess. He complained about people who took too long. He believed, and said, that suffering that exceeded its purpose was a failure of skill.
+He was not a sadist, and he was not the cold professional either, which is what people always assume and what he would have liked. What Nemesio Bárcena actually was, and the thing that explains every hour Angela spent in that barn, is that he was a man with a vocation for teaching who had ended up somewhere that teaching was not a job.
 
-At home in Nuevo Casas Grandes he had a wife named Perla and two sons, eight and five in 2003. He coached the older one's baseball. He was, by every account including his own, a good father, and he did not experience this as a contradiction, and the absence of contradiction is what makes him frightening.
+He explained things. He explained them at length. He explained them past the point where anyone was listening, and he corrected people who had not asked, and he had a habit of stopping in the middle of work to demonstrate something properly, and the other men found him tedious and said so, and he knew they said so and could not stop. He had opinions about tools. He had a position on knife maintenance that he would deliver unprompted. Twice a year he gave a small speech about how the failure in this line of work was never nerve, it was preparation.
 
-**Bárcena never touched Angela sexually.** Not once in ten years. He did not do it because he considered the women in the main house to be inventory belonging to a different department, and interfering with another man's inventory was unprofessional. That was the entire reason. There was nothing else in it.
+He was, by his own reckoning, the only person in that organisation who did anything correctly, and he was correct about that, and it had made him lonely in a way he had no vocabulary for and would have rejected the suggestion of.
+
+At home in Nuevo Casas Grandes he had a wife named Perla and two sons, eight and five in 2003. He coached the older one's baseball, badly, over-explaining. There was a period in 2006 when the two halves came into contact and he did not sleep well for some months, and then it passed, the way it passes, and he did not go back to it.
+
+Bárcena never touched Angela sexually. Not once in ten years. He did not do it because he considered the women in the main house to be inventory belonging to a different department, and interfering with another man's inventory was unprofessional. That was the entire reason. There was nothing else in it.
 
 Angela knew that. She has always known that. And it did not matter, because he was the only man at La Curva who did not, and the human nervous system is not equipped to hold *he did not harm me because of a property convention* and *he did not harm me* as separate facts for ten years. She has spent the years since trying to separate them and has not succeeded.
 
@@ -166,7 +180,11 @@ That sentence is the hinge of Angela's life and she heard it and understood it a
 
 It was not a program. Nobody was building an assassin. It began as one bored professional's experiment and continued for ten years because it produced a result he found interesting, and because nobody with authority ever had a reason to stop it.
 
-The sessions were irregular — never a schedule, on average somewhere between one and two a month across a decade, clustering heavily in the first four years and thinning after that. The early ones were forced observation: bound to a chair, made to watch, and when she closed her eyes, made to open them. The instruction came in the third or fourth month and it was genuinely instruction — anatomy sketched with a finger in the dust on a workbench, the difference between the vessels of the neck, angle and depth, why pressure fails and why leverage does not, how long a man takes and what he does while he takes it.
+The sessions were irregular — never a schedule, roughly one or two a month across a decade, clustering in the first four years and thinning after that. The early ones were forced observation: bound to a chair, made to watch, and when she closed her eyes, made to open them.
+
+What the instruction was actually like is the part that resists dramatisation, and the book should not help it. It was repetitive. It was boring. It was a middle-aged man saying the same six or seven things in the same order for years, correcting her grip, making her do a thing again because the angle had been sloppy, sketching something in the dust on a workbench and rubbing it out and sketching it again. There was no artistry in it and Bárcena would have been offended by the suggestion. It was a trade, taught the way trades are taught, by a bore, in a shed, to a child who had no way to leave the room.
+
+The technical content of those years belongs to Bárcena and not to this book. What belongs to the book is the tedium of it, and the fact that she learned, and that learning takes a kind of attention that is indistinguishable from the kind you give something you care about.
 
 The first time she was made to do it she was thirteen and a half. Bárcena put his hand over hers and moved it. She threw up immediately afterward and he was not angry, because he had expected it and had told the others to expect it, and being right in front of colleagues put him in a good mood.
 
@@ -178,13 +196,13 @@ Here is where the account must be exact, because the easy version is wrong.
 
 The easy version is that the barn was the one place nobody hurt her, so her body learned to associate violence with safety. That is not sufficient. Anything that removed her from the house would have produced that association — the laundry, the kitchen, the yard. The relief was attached to *absence*, not to the knife, and absence is not a skill.
 
-What actually happened is that **competence in the barn bought her position in the house**, and everyone involved understood the exchange.
+What actually happened is that competence in the barn bought her position in the house, and everyone involved understood the exchange.
 
-After the fourth session, Serafín moved her downstairs. After the second year, she was carrying keys to two interior doors. By 2006 she was what the household called *de la casa* — staff, functionally, still owned but occupying a category, doing laundry and inventory and mopping the front room where the accounts were read aloud. The men upstairs still came. That never stopped and there is no version of this where it stopped. But it changed in frequency and in kind, and it changed **specifically and legibly in proportion to how she performed in the barn**, and she was sixteen years old when she worked that out.
+After the fourth session, Serafín moved her downstairs. After the second year, she was carrying keys to two interior doors. By 2006 she was what the household called *de la casa* — staff, functionally, still owned but occupying a category, doing laundry and inventory and mopping the front room where the accounts were read aloud. The men upstairs still came. That never stopped and there is no version of this where it stopped. But it changed in frequency and in kind, and it changed specifically and legibly in proportion to how she performed in the barn, and she was sixteen years old when she worked that out.
 
 She has never said this to anyone. It is the fact she would kill to keep.
 
-**Angela Reyes was not conditioned into violence. She traded for it.** She understood the exchange rate, she made the trade repeatedly and knowingly across eight years, and it worked. That is the difference between a victim of programming and a person with something to answer for, and it is the reason this character is a tragedy rather than a weather event.
+She was not conditioned into violence. She traded for it. She understood the exchange rate, she made the trade repeatedly and knowingly across eight years, and it worked.
 
 ### What He Gave Her Besides the Technique
 
@@ -192,7 +210,7 @@ A cigarette, once, in 2005, after a session Bárcena thought was well done. He s
 
 She kept it for eight years. It lived in the seam of a mattress in the room downstairs, moved twice, wrapped in a square of plastic. It was the only object in the world that belonged to her.
 
-She smoked it on the last night, in September 2013, sitting on the floor with her back against the door, and it was stale and it made her sick, and she does not know why she did it and has never been able to explain it to herself.
+She smoked it on the last night, in September 2013, sitting on the floor with her back against the door. It was stale and it made her sick.
 
 ### The One Who Said Thank You
 
@@ -240,17 +258,17 @@ Serafín had all of them in the front room within an hour. He was calm. He was a
 
 Four days later there was a body in the barn and the women were made to walk past the open door.
 
-Angela looked. She was eighteen and she made herself look, and what she saw was a shape on the concrete with a blanket over most of it and dark hair, and she understood it as Isabel Nuncio and she carried that understanding for the next seven years.
+Angela looked. She was eighteen and she made herself look, and what she saw was a shape on the concrete with a blanket over most of it and dark hair, and she understood it as Isabel Nuncio and she carried that understanding for the next eight years.
 
-**It was not Isabel.** Isabel Nuncio crossed into Sonora within thirty-six hours, reached Zacatecas in eleven days, and was living outside Fresnillo with her mother and her daughter by the end of May 2008. She is thirty-nine now. She sells phone credit and lottery tickets out of a window in the front of a house. Marisol is twenty-one and has a job at a call center in Aguascalientes and thinks her mother worked in a restaurant in Chihuahua for nine years and had a hard time.
+It was not Isabel. Isabel Nuncio crossed into Sonora within thirty-six hours, reached Zacatecas in eleven days, and was living outside Fresnillo with her mother and her daughter by the end of May 2008. She is thirty-nine now. She sells phone credit and lottery tickets out of a window in the front of a house. Marisol is twenty and has a job at a call centre in Aguascalientes and believes her mother worked in a restaurant in Chihuahua for seven years and had a hard time, and Isabel has decided that she will go on believing it, and that decision is the largest single act of Isabel's life and it is not one anybody will ever thank her for.
 
 Serafín Quiroz put a body in the barn because his men had lost a woman and a car and he could not be seen to have lost anything, and the body was a man from Janos who had been going to die that week regardless.
 
 ### The Structural Consequence
 
-For seven years, Angela Reyes carried a grief that was false and a lesson that was false with it. The lesson she took was: *she tried, and they killed her, and there is no out.* That lesson is the reason she did not run in 2009, or 2010, or 2011, or 2012. It cost her five years.
+For eight years, Angela Reyes carried a grief that was false and a lesson that was false with it. The lesson she took was: *she tried, and they killed her, and there is no out.* That lesson is the reason she did not run in 2009, or 2010, or 2011, or 2012. It cost her five years.
 
-And when she learns the truth — and she does learn it, in 2015, from a source that is entirely accidental — it does not free her. It does something worse. It tells her that **the person who taught her everything got out, and knew she was leaving, and decided that Angela was not worth the risk of telling.**
+And when she learns the truth — in October of 2016, through Yesenia Rocha, by the only route that could ever have carried it — it does not free her. It does something worse. It tells her that the person who taught her everything got out, and knew she was leaving, and decided that Angela was not worth the risk of telling.
 
 Angela will spend a long time deciding whether Isabel was right about her. The reader will be some distance ahead of her on that question, and the distance is the point.
 
@@ -266,8 +284,6 @@ Angela was twenty-three. She had been there eleven years. She had a category and
 
 ### What She Actually Did
 
-**The escape is hers. This is not negotiable and everything about the character depends on it.**
-
 She had known for years that when the house emptied she would go north in a truck, because that was how everything went north. She had known since 2006 that the tankers Efrén's people used had a top hatch that dogged from outside and a ten-inch cleanout port on the rear head that did not, because two drivers had stood in the yard that summer arguing about that port for twenty minutes, and she had understood every word of it.
 
 In July 2013 she stole a screwdriver from the pump housing. A flat-head, six inches, a wooden handle worn smooth. She carried it inside the waistband of her jeans, at the small of her back, for fifty-one days.
@@ -276,7 +292,7 @@ On the eighteenth of September, nine women were loaded through the top hatch of 
 
 There had been an interdiction on Highway 11 south of Deming: a New Mexico State Police unit and two Border Patrol vehicles, acting on a tip that had nothing to do with the tanker's cargo and everything to do with a load of methamphetamine that was not on that truck.
 
-**Angela did not wait to be rescued.** She had been braced against the rear head since the crossing with the screwdriver in her hand, and when the engine stopped she began working the cleanout port, and she had it half off when the shooting started, and she had it off entirely by the time the shooting stopped.
+Angela did not wait to be rescued. She had been braced against the rear head since the crossing with the screwdriver in her hand, and when the engine stopped she began working the cleanout port, and she had it half off when the shooting started, and she had it off entirely by the time the shooting stopped.
 
 Two of the women helped her turn the fasteners. Neither of them went through it. One tried and could not clear her shoulders and had to be pulled back, and the other had already begun shouting up at the top hatch in Spanish, at the men outside, because the men outside were shouting in English that everyone was safe and she believed them.
 
@@ -296,7 +312,7 @@ She knew a Border Patrol supervisor out of the Deming station had come to La Cur
 
 She had no way to know it was a different man. She had every reason to assume it was not.
 
-**Angela Reyes ran from the police because she recognized the uniform, and she was not wrong to.**
+Angela Reyes ran from the police because she recognized the uniform, and she was not wrong to.
 
 ### The Cost
 
@@ -304,7 +320,7 @@ She went two miles that night, not eight, and she went most of it at a walk, bec
 
 They looked for her. There was a perimeter within twenty minutes and a helicopter out of El Paso by dawn and she was in a culvert under a ranch road for nineteen hours with her face in the mud while it went over her twice.
 
-She was reported. She has a file. **New Mexico State Police incident report 2013-091801 lists eight females recovered from a tanker trailer on State Road 11, one of them deceased, and a ninth unaccounted for — described by three of the survivors as an American who did not speak Spanish.**
+She was reported. She has a file. New Mexico State Police incident report 2013-091801 lists eight females recovered from a tanker trailer on State Road 11, one of them deceased, and a ninth unaccounted for — described by three of the survivors as an American who did not speak Spanish.
 
 That report has sat in a system for three years. It will eventually meet a 2002 missing-child file from Luna County. When those two documents touch, the book changes shape.
 
@@ -318,7 +334,7 @@ She did not begin killing when she got out. She spent eighteen months trying to 
 
 She went east, on foot and then in the back of trucks, and she was in Las Cruces within a month and she stayed. She had no papers, no history, no explanation for an eleven-year gap, and a face that flinched when a man raised his hand to reach a shelf.
 
-She worked. That is the thing that will surprise a reader and it should. She worked at a car wash on Valley Drive for four months, cash, no questions. She worked in the back of a Vietnamese restaurant for seven months and was good at it and the owner's wife tried repeatedly to feed her. She cleaned a self-storage facility on Amador at night, alone, which was the best job she has ever had, and she has thought since that if that job had lasted she might have gone on doing it for thirty years.
+She worked. She worked at a car wash on Valley Drive for four months, cash, no questions. She worked in the back of a Vietnamese restaurant for seven months and was good at it and the owner's wife tried repeatedly to feed her. She cleaned a self-storage facility on Amador at night, alone, which was the best job she has ever had, and she has thought since that if that job had lasted she might have gone on doing it for thirty years.
 
 She slept in a room in a house on Griggs with four other people and a rotating cast, and she paid rent, and she bought a coat, and for stretches of weeks at a time she was a woman with a life so small it was almost sustainable.
 
@@ -332,9 +348,9 @@ Three things, in order.
 
 **The photograph.** In October of 2014, in the window of a laundromat on Solano, she saw a poster.
 
-The National Center for Missing and Exploited Children had produced an age progression for Angela Reyes Moreno in 2012, at twenty-two, from a second-grade class photograph — the only usable image the family ever provided. The artist had given her long hair, because that is what the software does, and had given her a face that had never been broken or starved, and had rendered a pleasant, symmetrical, healthy woman who did not exist and never had.
+The National Center for Missing and Exploited Children had produced an age progression for Angela Reyes Moreno in 2012, at twenty-two, from a second-grade class photograph — the only usable image the family ever provided. The artist had given her long hair, because that is what the software does, and a face that had never been broken or starved, and had produced a pleasant, symmetrical, healthy woman.
 
-She stood in front of it for a long time. It was not that she was distressed. It was that she was looking at the person she was supposed to have become, produced by a stranger who had been trying to help, and the gap between that woman and the one reflected in the glass over her was not survivable as a thought.
+She stood in front of it for a long time. Her own reflection was in the same glass.
 
 She was not able to work after that. Within four months she was out of the house on Griggs and sleeping in her car.
 
@@ -352,7 +368,7 @@ He was standing at a fuel island on the west side of Las Cruces at nine in the m
 
 She followed him for six days. She had no plan, no method, no equipment, and no idea what she was doing. She had not held a knife with intent in five years and she had never in her life chosen to.
 
-**It went badly.** She went at him in the gravel behind a motel on Picacho at eleven at night with a screwdriver — not the screwdriver, a different one, bought at a hardware store for four dollars — because she could not make herself buy a knife. Her left shoulder failed on the first movement, exactly as it had been going to fail since 2013. He was a large man and he fought and he got a hand on her throat and for eleven seconds she was going to die in that gravel.
+It went badly. She went at him in the gravel behind a motel on Picacho at eleven at night with a screwdriver — not the screwdriver, a different one, bought at a hardware store for four dollars — because she could not make herself buy a knife. Her left shoulder failed on the first movement, exactly as it had been going to fail since 2013. He was a large man and he fought and he got a hand on her throat and for eleven seconds she was going to die in that gravel.
 
 It took her four minutes and it was not clean and she vomited afterward, which she had not done since she was fourteen. She sat down in the gravel next to him and could not stand up for a long time. She left a partial palm print on the wall of that motel and a boot impression in the mud at the edge of the lot, and she has spent every day since knowing that both of them exist somewhere in a file.
 
@@ -362,11 +378,11 @@ Dale Wilhelm's death was worked as a robbery-homicide by the Las Cruces Police D
 
 For about ninety minutes she was quiet.
 
-Not happy. Not relieved in any sense that has a positive valence. **The noise stopped.** The permanent, eleven-year, low-frequency scream that had been the floor of her consciousness since she was twelve years old went away, entirely, for an hour and a half, and she sat on a curb two miles away in the dark and experienced the first silence of her adult life.
+Not happy. Not relieved in any sense that has a positive valence. The noise stopped. The permanent, eleven-year, low-frequency scream that had been the floor of her consciousness since she was twelve years old went away, entirely, for an hour and a half, and she sat on a curb two miles away in the dark and experienced the first silence of her adult life.
 
 It came back. Of course it came back. But she had now had ninety minutes of it, and she knew where it came from, and there is no version of a human being who can un-know that.
 
-That is the whole mechanism. Not dopamine, not rewiring, not programming. **A woman in permanent unbearable noise found the one thing that turns it off, and the thing is a man's death, and she is not insane and knows exactly what that makes her.**
+A woman living in permanent unbearable noise found the one thing that turned it off. The thing was a man's death. She is not insane and she knew immediately what that made her.
 
 ---
 
@@ -374,15 +390,21 @@ That is the whole mechanism. Not dopamine, not rewiring, not programming. **A wo
 
 ### The Rule
 
-She made a rule in the spring of 2015 and she made it deliberately, sitting in her car, because she understood immediately what she was standing at the edge of.
+She made a rule in the spring of 2015, sitting in her car outside a hardware store, because she understood what she was standing at the edge of.
 
-**She kills only men she can place in La Curva.**
+The rule has one sentence and she has never altered a word of it: *a man is on the list if she can put him inside the wall at La Curva, with a particular she could not know unless he had been there.*
 
-Not men who look like them. Not men who remind her. Not men who deserve it in some general way. A man must be locatable in a specific room in a specific year with a specific detail that she could not know unless he had been there.
+Not men who look like them. Not men who remind her. Not men who deserve it in some general sense. She follows a man for weeks and waits for the confirming particular — a voice, a laugh, a scar, the specific way a body takes stairs. She has abandoned four men who never produced one. She has twice followed someone for a month and let him go, and both times the letting go took more out of her than the killing.
 
-She built a verification discipline around it and she is rigorous about it in a way that would look, to an outside observer, almost bureaucratic. She follows a man for weeks. She needs a confirming particular: a voice, a laugh, a ring, a scar, a limp, the specific way a body climbs stairs. She has abandoned four men who did not confirm. She has, twice, followed someone for a month and let him go, and both times the letting go took more out of her than the killing.
+The rule is not mercy. She does not experience it as mercy. It is the last thing she owns that the house did not give her, and she knows what happens to her when it goes.
 
-The rule is not mercy. She does not experience it as mercy. **The rule is the last piece of Angela Reyes that is not the house**, and she knows that if it goes, she goes with it.
+And she has already broken it twice, in the only way that is available to her, which is not by adding names.
+
+Nemesio Bárcena satisfies the rule completely. She can put him inside that wall in any year between 2003 and 2013, with a hundred particulars, more certainly than she can place any other living man. He is on the list by every word of the sentence she wrote. He is not on her list, and the reason is not in the sentence, and she has never once let herself look at the gap.
+
+Efrén satisfies it too, and she has known where he is for a year and a half.
+
+The rule is clean. She is the thing that is bending, and it is bending in her favour, and the shape of the bend is the shape of what she is protecting.
 
 ### The Method
 
@@ -392,11 +414,11 @@ She goes for the neck because that is what she was taught and she has never been
 
 She takes nothing. She has never taken a wallet, a watch, a phone, a photograph. This is not discipline; it has simply never occurred to her that these are things a person would want.
 
-**Her signature is not the wound. It is the blade.** She cleans it on the victim's clothing, always, in the same sequence: fold, wipe once toward herself, turn the blade, wipe once away, fold again. Bárcena taught her that in 2004 and told her that a man who does not respect his tools does not last, and she has never in her life cleaned a knife any other way and she cannot.
+The signature is not the wound. It is the blade. She cleans it on the victim's clothing, always, in the same sequence: fold, wipe once toward herself, turn the blade, wipe once away, fold again. Bárcena taught her that in 2004 and told her that a man who does not respect his tools does not last, and she has never in her life cleaned a knife any other way and she cannot.
 
 It leaves a mark. Two paired transfer stains on fabric, at a consistent height, at a consistent angle, on five bodies in three jurisdictions across two states.
 
-**That is the thread. That is how she gets found.** Not by neuroscience and not by profiling. By a laundry pattern taught to a thirteen-year-old in a barn in Chihuahua by a man who was proud of his standards.
+It is the only thing she cannot stop doing: a laundry habit taught to a thirteen-year-old in a shed in Chihuahua by a man who had strong feelings about the care of tools.
 
 ### The List
 
@@ -404,15 +426,19 @@ She left La Curva with somewhere between fifty and seventy faces. The operationa
 
 Eleven or twelve are dead — the plaza came apart in 2014 and the Aparicio organization did not survive it. Perhaps thirty are in Mexico and unreachable by a woman with no passport, no identity, and no ability to cross a border in either direction. Several she can no longer picture clearly enough to satisfy her own rule.
 
-**In the spring of 2015, when she sat in her car and made the rule, she counted what the rule left her. It came to nine.**
+In the spring of 2015, when she sat in her car and made the rule, she counted what the rule left her. It came to nine.
 
 Nine men who had crossed north, who lived or worked or travelled in New Mexico, west Texas and southern Arizona, and whom she could find. Dale Wilhelm had been the first of the nine without her having decided he would be, which is a detail she has never been able to look at directly: the rule was not built to govern the killing. It was built afterward, around a killing that had already happened, to make it into the first of something rather than simply a thing she did. Four were transport contractors. Two were buyers. One was the customs broker, retired in Alpine. One was a former Border Patrol supervisor who took his pension in 2011 and lives in Silver City.
 
-And one is Efrén, who ate dinner at her mother's table in 2002, who is fifty-one now, and who runs a legitimate refrigerated freight business out of Anthony, Texas, with eleven employees and a website.
+And one is Efrén, who ate dinner at her mother's table in 2002, who is fifty-one now, and who runs a refrigerated freight business out of Anthony, Texas, with eleven employees and a website with a photograph of him on it, standing in front of a truck with his arms folded.
 
-She has known where Efrén is since 2015 and she has not gone. She has driven past the yard four times.
+She has known where he is since the summer of 2015. She has driven past the yard four times and once sat in the lot across the road for an hour and forty minutes while men loaded a trailer.
 
-**As of the autumn of 2016 the list holds four names.** She has never written any of it down. It exists in one damaged head and nowhere else on earth, and it is running out at a rate she can calculate and does, constantly, the way other people check a bank balance.
+She tells herself she is waiting until she is sure. She is not waiting until she is sure. She has arranged the order of the list — not on paper, not consciously, but arranged it, the way you arrange the last of the food in a house where more is not coming — so that Efrén is at the end of it. As long as there is one name, the rule exists, and as long as the rule exists she is a woman doing a specific thing for a specific reason.
+
+She is rationing him. He is the last one and she is not going to spend him, and the day she understands that about herself is a day the book has to earn.
+
+As of the autumn of 2016 the list holds four names. She has never written any of it down. It exists in one damaged head and nowhere else on earth, and it is running out at a rate she can calculate and does, constantly, the way other people check a bank balance.
 
 ---
 
@@ -420,11 +446,17 @@ She has known where Efrén is since 2015 and she has not gone. She has driven pa
 
 This is the subject of the book. Everything above is the setup for it.
 
-The rule holds a total of nine men. The noise returns at intervals that are not stable and are not lengthening — fourteen weeks after Wilhelm, then ten, then a stretch of seventeen that nearly killed her and that she survived without understanding how, then six. Simple arithmetic destroys her: **the demand will outrun the supply, and she knows it, and she has known it since the second one.**
+The rule holds a total of nine men.
+
+The intervals — fourteen weeks after Wilhelm, then ten, then a stretch of seventeen she survived without understanding how, then six — are her own bookkeeping, and she keeps it obsessively, and it is not reliable. She keeps it because a number is a thing you can hold. What actually happens has no shape she can predict: it comes when it comes, sometimes eleven days after she has told herself she is finished, sometimes not for four months, and the four months are worse than the eleven days because she spends them waiting.
+
+The relief is not reliable either. The first time it was ninety minutes. Since then it has been forty minutes, and twenty, and once — the third one, in a car park in Deming — nothing at all, no silence, not one second of it, and she sat in her car until it got light and could not make herself understand what had gone wrong. That is the only night in the last three years she has considered stopping in a way she meant.
+
+What does not vary is the arithmetic. Nine names, five spent, and no mechanism anywhere in the world for making more of them.
 
 She is not going to be saved by the list ending. What happens instead is more insidious and it has already started.
 
-**Her verification threshold is degrading.**
+Her verification threshold is degrading.
 
 Not consciously. She has not relaxed the rule and would be genuinely appalled to be told she had. But the confirming particulars she requires are, on examination, extremely common things. A ring is a ring. A laugh is a laugh. A man who climbs stairs on the outsides of his feet is one man in twenty, not one in ten thousand. The faces themselves were taken in bad light, most of them in states of dissociation, many of them more than a decade ago, and the archive she is matching against has been degrading the entire time.
 
@@ -432,17 +464,75 @@ She is going to kill a man who was never there.
 
 She may already have. The fifth one — a man in Alamogordo in February of 2016 — confirmed on a scar and a voice, and there has been a small cold place in her since that she has not examined and will not.
 
-**The tragedy is not that she was programmed and cannot stop. It is that she built the only wall she had out of her own memory, and her memory is the single most damaged thing she owns, and the wall is coming down in a way she cannot see from inside it.**
+She built the only wall she had out of her own memory. Her memory is the most damaged thing she owns. The wall is coming down and she is standing on the inside of it, where it does not look like anything is happening.
 
 And the second half of the tragedy is worse: the day she kills a man she cannot place, and knows it, the rule is gone. And after the rule there is only the noise and the thing that stops the noise, and she will be twenty-seven years old with forty years in front of her.
 
-She is aware of this. That is the part that should be unbearable. She has done the arithmetic and she knows where it ends and she has not stopped, and there is no neurological account that removes her from that sentence.
+She is aware of all of it. She has done the arithmetic, she knows where it ends, and she has not stopped.
 
 ---
 
-## XIII. THE FILE
+## XIII. YESENIA
 
-The institutional layer is not background. It is the second protagonist.
+### The Woman Who Was Looking
+
+Her name is Yesenia Rocha Portillo. She is from a town outside Tepic in Nayarit. She was nineteen years old and eight months into La Curva when she was loaded into a fuel tanker on the eighteenth of September, 2013, and she was one of the seven who were still inside when Angela went through the port.
+
+She is twenty-two now. She has a T visa, which took fourteen months and a lawyer she did not pay for and a series of interviews in which she described the inside of that house to men with laptops. She has a studio apartment on the north side of Las Cruces with a chair, a mattress, a hot plate and a wall calendar. She works six days a week at a call centre on Telshor doing collections in Spanish, which is a job she hates in a way she cannot afford to examine.
+
+She has been in therapy for two and a half years, at a clinic that bills a state programme, with a woman she likes. She takes two medications. She has not slept through a night since 2012, she has an eating problem she has told no one about including the therapist, and there is a fortnight most Februaries when she cannot leave the apartment and calls in sick and is not fired only because the supervisor has stopped asking.
+
+She did everything correctly. She was rescued, she cooperated, she testified, she was believed, she was given papers and treatment and a lawful life in the country where the house had been sending its trucks. What she got for it is an apartment, a calendar, and the specific unwitnessed endurance that is what actually happens to people who survive what she survived. She is not a cautionary tale and she is not a triumph. She is the ordinary outcome, and she is the only thing in this book capable of holding the line against the suggestion that Angela is what such a person becomes.
+
+### What She Never Stopped Doing
+
+In her 2013 statement, Yesenia described nine women in the tank and eight coming out, and she described the ninth: an American, older, thin, who did not speak Spanish and who had taken the cleanout port off the rear head with a screwdriver and gone through it while the shooting was still going on.
+
+Nobody ever found that woman. Yesenia has thought about her every week for three years. Not gratefully — Yesenia does not think the port was opened for her benefit and is right about that. What she thinks about is that there was a person in that tank who did not believe the men outside, and that she herself did believe them, and that both of them turned out to be right about something.
+
+### April 2016
+
+She saw her on the Route 1 bus, northbound on Solano, at twenty past six in the evening.
+
+She did not say anything. She got off two stops early and stood on the pavement and shook for a while. She rode that route at the same time for eleven days before she saw her again, and then she rode it four more times, and on the sixteenth day she sat down in the seat beside her and said, in Spanish, that she had been in the tank.
+
+Angela's face did not move. That was the freeze — the full second of it, the thing that has always been the most dangerous fact about her in public — and Yesenia, who has spent three years learning what that freeze is, watched it happen and understood exactly what she was looking at.
+
+Then Angela said, in Spanish, the first sentence she had said in that language to another human being since she was twelve years old: *No te conozco.*
+
+And got off at the next stop.
+
+### What They Are Now
+
+Yesenia found her again. She is patient and she is extremely stubborn and she has an apartment and a bus route and nothing else to do with the part of herself that has not stopped being nineteen and inside a tank.
+
+They see each other most weeks. It is not friendship and Angela would violently reject the word. It is closer to a debt neither of them can name: Yesenia needs the ninth woman to exist because for three years the ninth woman has been the only part of that night that was not helplessness, and Angela cannot make Yesenia stop, and has discovered, to her horror, that she has stopped trying.
+
+Yesenia does not know what Angela does. This is the pressure the present-tense sections run on. Yesenia is the one person on earth who could identify her, who has an active relationship with a victim services caseworker, and who is teaching her — patiently, week by week, without knowing it — how to be a person in a country that has files.
+
+She is also, functionally, Angela's economy. Angela has not held work since early 2015. She eats because Yesenia feeds her, in a way that is arranged to look like something else, because Yesenia learned in that clinic that you do not offer a person like Angela charity, you cook too much and complain about waste.
+
+### The Mechanism
+
+Survivors find each other. Not in any organised way — there is no network, no register, no list. There are caseworkers who have more than one client from the same corridor, and there are two Facebook groups, and there is a woman in El Paso who runs a Sunday meeting out of a church basement in Spanish and has done since 2011, and things travel.
+
+In October of 2016, Yesenia comes back from that basement in El Paso with a name, because someone there knew someone in Zacatecas, and the name is Nuncio.
+
+Isabel Nuncio is alive. She is thirty-nine, she is outside Fresnillo, she sells phone credit and lottery tickets from a window in the front of a house, and she has been there since May of 2008.
+
+Angela cannot cross a border. Yesenia can.
+
+So the most important fact of Angela Reyes's life is reachable only by handing it to a woman she is lying to about everything, asking her to travel eight hundred miles on her behalf, and waiting.
+
+She would have to say what Isabel was to her. She would have to say the name of the house out loud. She would have to sit in a studio apartment on the north side of Las Cruces and be, for one hour, a person with a history that another person is allowed to hear.
+
+She has never done that. She has no idea how it is done. And there is a woman with a chair and a hot plate and a calendar who is waiting, without pressing, because she was told in a clinic on Amador that you do not press.
+
+---
+
+## XIV. THE FILE
+
+The institutional layer is not background. It moves at its own speed, for its own reasons, and it is not looking for her.
 
 ### The Missing Child
 
@@ -458,11 +548,13 @@ NCMEC produced the age progression in 2012 for the tenth anniversary. It circula
 
 ### The Homicides
 
-Five bodies across three jurisdictions, two states. There is no task force. There is a detective in Doña Ana County named Odalys Rael who has Wilhelm and one other, and who has a photograph on her desk of two transfer stains on a denim jacket, and who has understood for eight months that she is looking at a habit rather than an accident.
+Five bodies across three jurisdictions, two states. There is no task force and there is not going to be one, because two of the dead were men with records and one was found behind a bar and nobody with a budget has yet decided these are the same case.
 
-Rael does not have a profile and does not believe in them. What she has is a laundry pattern and a hypothesis that the person who leaves it was taught to do it by somebody, in an organizational setting, some years ago, and can no longer stop.
+There is a detective in Doña Ana County named Odalys Rael. She is forty-four, she came out of Anthony, Texas, which is a coincidence she will not discover the significance of for a long time, and she has been on violent crimes for six years and has a clearance rate that is neither good nor bad. She works too much. She has a daughter at NMSU studying accounting who thinks her mother is a bureaucrat and is not entirely wrong.
 
-**She is entirely correct and she is going to get there.**
+What Rael has is Wilhelm, and one other, and a photograph on her desk of two paired stains on a denim jacket that she pinned up eight months ago and has not taken down. She does not have a profile and does not believe in them. She has a laundry pattern and a hypothesis that whoever leaves it was taught to do it by somebody, in an organisation, some years back.
+
+She is right about that. She is also wrong about most of the rest of it — she has assumed a man, because everyone would, and because five of five victims are men and the wound is what it is — and the assumption is going to cost her the better part of a year and possibly more than that. She may not get there at all. Two of the five are in a jurisdiction that will not return her calls, and she is one person.
 
 ### The Convergence
 
@@ -472,13 +564,15 @@ Somewhere in the third act, three documents that have been sitting in three sepa
 - New Mexico State Police incident report 2013-091801, which describes an unaccounted-for female from a tanker trailer on Highway 11.
 - Odalys Rael's blade-wipe.
 
-The moment those three become one thing, an entire apparatus of the state understands, all at once, that the woman it has been looking for since 2002 is the woman it has been looking for since 2015.
+If those three ever become one thing, an apparatus that has been holding two unrelated women in two unrelated drawers since 2002 and 2015 will understand, in an afternoon, that it has been holding one.
 
-**And then the state has to decide what it thinks it has found.** That is the question the book ends on and it should not be resolved cleanly, because there is no clean resolution available and pretending otherwise would betray everything above it.
+There is no guarantee it happens. Files sit. Delgado is retired and Rael has never heard of her, and the tanker report belongs to a different agency and describes a victim, and nothing in the world routes a victim's file toward a homicide investigator. It takes a person deciding to look sideways, and people mostly do not.
+
+What the state does with it if it does happen is not settled and should not be settled in advance.
 
 ---
 
-## XIV. THE HOUSE ON CUERVO ROAD
+## XV. THE HOUSE ON CUERVO ROAD
 
 Ramón Reyes is fifty-nine. His back never came right. He did light work for a few years after — a yard, a feed store — and has not worked at all since 2007. He does not drink, which is worse, because he is present for all of it.
 
@@ -492,7 +586,7 @@ She went back once. October 2015, at night, and she did not go in. She sat in a 
 
 She has been back three more times since. She has never gone in.
 
-**What stops her is not fear and not rage. It is that she does not know what she would be going in as.** There is no available role. She cannot arrive as a daughter, because she is not one and they made sure of that. She cannot arrive as an accusation, because she has done the thing she would be accusing them of and she knows exactly how it happens to a person. She cannot arrive as a stranger. There is no fourth option and she has looked for one for a year.
+What stops her is not fear and not rage. It is that she does not know what she would be going in as. There is no available role. She cannot arrive as a daughter, because she is not one and they made sure of that. She cannot arrive as an accusation, because she has done the thing she would be accusing them of and she knows exactly how it happens to a person. She cannot arrive as a stranger. There is no fourth option and she has looked for one for a year.
 
 ### Cristóbal
 
@@ -502,17 +596,31 @@ In November of 2015 he was at a gas station in Deming with his mother and there 
 
 He thought about it for a week and then he stopped.
 
-**Angela has watched her brother eleven times.** Baseball practice twice. Walking home four times. The gas station. She knows his teacher's name and the route he takes and that he is left-handed like her.
+Angela has watched her brother eleven times. Baseball practice twice. Walking home four times. The gas station. She knows his teacher's name and the route he takes and that he is left-handed like her.
 
-She has never spoken to him and does not intend to. What she is doing when she watches him is not longing and it is not surveillance. **She is checking that he is all right, in the way that a person checks a lock they know is locked, over and over, forever.**
+She has never spoken to him and does not intend to. What she is doing when she watches him is not longing and it is not surveillance. She is checking that he is all right, in the way that a person checks a lock they know is locked, over and over, forever.
 
 And underneath that there is a thought she has had exactly twice and pushed away both times, which is that the money that bought his birth bought her eleven years, and that the two of them are the same transaction seen from opposite ends, and that he is the only person alive who owes her something and the only person alive who must never be told.
 
 He turns fourteen in January.
 
+### What Happens to Them
+
+The family has been a condition for fourteen years. In the third act it becomes an event, and the mechanism is not Angela.
+
+If Rael ever looks sideways at the missing-child file, the first thing that happens is not an arrest and has nothing to do with the killings. It is two investigators on a dirt road eleven miles outside Deming asking Ramón and Alma Reyes to account for August of 2002.
+
+Nothing about that is deniable any more. Efrén's freight company has eleven employees and a tax history. The dairy has records. Ramón's brother is alive and was handed twelve hundred dollars he never asked about and has been not asking about it for fourteen years, and he is sixty-three now and tired, and he is the one who will break, because he is the only one who did not do it and has been carrying it anyway.
+
+There is a version of this where Ramón Reyes is charged. There is a version where the statute has run and he is not, and the two of them go on living in that house with the knowledge now public in Luna County, which is worse.
+
+Either way, Cristóbal is thirteen years old and finds out what the washing machine is.
+
+Angela is not in the room for it, and does not learn about it for some time, and when she does learn about it she will have to decide whether it is what she wanted. She has never once allowed herself to want it. It has never occurred to her that the state could reach her parents without reaching her — that there was, all along, a door into that house that did not require her to walk through it.
+
 ---
 
-## XV. NEMESIO BÁRCENA, LIVING
+## XVI. NEMESIO BÁRCENA, LIVING
 
 He is not dead. Nothing in this story is that convenient.
 
@@ -520,25 +628,25 @@ The Aparicio plaza came apart in 2014. Bárcena, who was forty-seven and had ele
 
 He is forty-nine. He is not in the life. He goes to his older son's games. He is, at this moment, a man approaching fifty who fixes cars in Sonora and who has done nothing violent since April of 2014 and who sleeps extremely well.
 
-**He does not think about Angela Reyes.** This is the fact that will do the most damage.
+He does not think about Angela Reyes. This is the fact that will do the most damage.
 
 He does not remember her name — he is not certain he ever knew it. He remembers, as one of perhaps four or five things he retains from La Curva, that there was a quiet American girl who was better with a knife than any of the men he trained, and if you asked him about it in a bar he would tell it as an anecdote, with some professional satisfaction, in about ninety seconds, and then he would talk about something else.
 
 ### The Structural Function
 
-Angela can reach him. Not easily — she cannot cross a border — but there is a version of it, and she has thought about it in detail, and she has a folder.
+She has a folder on him. Not a real one — she owns almost nothing — but a folder in the sense that she has assembled the route in her head and revised it, and she can say the name of the street the body shop is on.
 
-**Bárcena is not on the list.** He was never at La Curva as a client. He is disqualified by her own rule.
+If asked why he is not on the list, she would say he was never a client, which is true and is not the rule. The rule says *inside the wall*, and he was inside that wall for ten years, and no man alive is easier for her to place. She has told herself the client version so many times that it has the texture of something she decided rather than something she needed.
 
-So he sits outside the rule as the one man in the world she wants and cannot have without destroying the only structure holding her together. And the book must eventually make her face what she actually wants from him, which is not his death.
+What she wants from him is not his death, and this is the part she has never been able to get to the edge of.
 
-She wants him to remember her name. She wants to stand in front of him and be recognized as a specific person by the one man who ever told her she was good at something. **She wants the only validation she has ever received in her life to have been real, and she knows, at the very bottom of herself, that it was not, and that the trip would only prove it.**
+She wants him to say her name. She wants to stand in a doorway in Hermosillo and be recognised as a particular person by the one man who ever told her she was good at something — and she knows, at the bottom of herself, that he will look up from a fender with a rag in his hand and be pleasant and completely blank, and that the eight seconds after that would take from her the only thing she got out of eleven years.
 
-That is why she has not gone. Not mercy, not fear, not the rule. She cannot survive finding out that she was an anecdote.
+So she does not go. It has nothing to do with the border and nothing to do with mercy. She cannot survive finding out she was an anecdote, and so she keeps him alive in Sonora as a man who remembers her, which he is not, and which he will go on being for exactly as long as she stays away.
 
 ---
 
-## XVI. WHAT SHE CARRIES
+## XVII. WHAT SHE CARRIES
 
 These do not resolve. They are held simultaneously and they are the character.
 
@@ -556,19 +664,37 @@ Her rule is the only clean thing she owns and she is watching it erode from insi
 
 The ninety minutes of silence after a killing is the only peace she has experienced since she was twelve. She would describe it, if she could describe it to anyone, as the closest thing to being a person she has ever had.
 
-She thinks about Isabel Nuncio every day. She has for eight years — first as a dead woman she failed to save, then as a living woman who did not come back for her — and both versions of that grief were about someone who never existed, and she is not equipped to notice that.
+She thinks about Isabel Nuncio every day, and has for eight years, and both versions of that grief — the dead woman she failed to save, then the living one who did not come back — were about someone who was never there to be either. She is not equipped to notice that. Someone is going to have to tell her, in a room, out loud.
 
 ---
 
-## XVII. PHYSICAL AND SENSORY FACTS
+## XVIII. PHYSICAL AND SENSORY FACTS
 
 The left shoulder subluxes under load. It is the constant, and it turns everything into a gamble.
 
 She has almost no sense of smell — a consequence of a broken nose in 2009 that was never set — and this is one of the few mercies in her life and she does not know it is a mercy.
 
-Diesel she registers through the back of the throat rather than the nose, and it takes her out of a room. Fluorescent tube hum. Interior doors that latch. The specific sound of a man exhaling through his nose in amusement. Any hand entering her peripheral vision above shoulder height. Being addressed in Spanish by a stranger, which produces a full one-second freeze before she can produce the blank English face, and which is the single most dangerous thing about her in public.
+Diesel she registers through the back of the throat rather than the nose, and it takes her out of a room. Fluorescent tube hum. Interior doors that latch. The specific sound of a man exhaling through his nose in amusement. Any hand entering her peripheral vision above shoulder height. Being addressed in Spanish by a stranger, which produces a full one-second freeze before she can produce the blank English face, and which is the most dangerous thing about her in public.
 
 She cannot eat rice pudding. She does not remember why. Her mother made it the last night.
+
+### The Language
+
+She has not spoken Spanish, except to Yesenia and except by accident, since she was twelve.
+
+This is not the same as not having it. She has it completely. She thinks in it about half the time and has done for years, without electing to — the inside of her head is bilingual and the outside is not, and the traffic between them is one-way and has been since 2002. She dreams in Spanish. She counts in Spanish. Bárcena's voice, when it comes, is in Spanish and it is the clearest audio she owns.
+
+What she cannot do is produce it. Eleven years of holding it down did something to the machinery: the sentence arrives fully formed and stops somewhere behind her teeth, and what comes out is nothing, or English. She has tried alone, in a car, and managed single words. She got four sentences out on a bus in April of 2016 and one of them was a lie.
+
+It is her mother's language. It is her brother's first language. It is the language every one of those men used in front of her for a decade because they were certain she could not follow it, and it is therefore both the thing that was taken from her and the only weapon she was ever issued, and there is no version of her getting it back that does not require her to be heard.
+
+### Money
+
+She has not held work since February of 2015. She has a 1997 Corolla she paid four hundred dollars for in cash, registered to a man in Anthony who is dead, and she moves it every two days. She spends almost nothing. She has, at any given time, between eleven and sixty dollars.
+
+The car is fuelled by day labour she takes perhaps twice a month — a morning of unloading, a lot cleared, cash — and by the fact that a woman who eats one meal a day and owns four items of clothing is very cheap to run. Since the spring of 2016 the meal has mostly come from Yesenia's hot plate, arranged so that neither of them has to say what it is.
+
+This is not sustainable and she knows the month it stops being sustainable. She has known since June.
 
 She sleeps ninety minutes to two hours at a stretch, four to five hours a night, sitting up, in a chair or against a wall, and she has not lain flat to sleep since 2002.
 
@@ -578,20 +704,18 @@ She counts exits without knowing she is doing it. Asked how many a room has, she
 
 ---
 
-## XVIII. WHAT THIS IS
+## XIX. CONSTRAINTS
 
-This is not a story about how trauma produces killers. Trauma does not produce killers. Almost everyone who survived what Angela Reyes survived is destroyed inward — into silence, into addiction, into a life of extraordinary and unwitnessed effort, or into an early grave. That is the true and boring and terrible pattern, and Angela is not it, and the book must not pretend she is representative or the whole thing becomes a slander against the people she was in that house with.
+Not a thesis. Four things the book is not permitted to do, and one thing it does not yet know.
 
-**Angela Reyes is an anomaly, and the anomaly is the subject.** Something in her survived that should not have — not her innocence, which went early, but her *agency*, weirdly, obstinately, the part that kept negotiating when there was nothing to negotiate with. She traded, she calculated, she held a lie for eleven years, she stole a screwdriver and carried it for fifty-one days and took her own shoulder out of its socket to get through a ten-inch hole. That is not a broken person. That is a person with a functioning will operating under conditions designed to destroy it.
+**It may not present Angela as representative.** What happens to people who survive that house is Yesenia: a studio apartment, a wall calendar, two medications, a fortnight in February. That is the pattern, it is unglamorous, and it does not make novels. Angela is an exception, and a book that lets her stand for the others is a slander against them. Yesenia is on the page to make that impossible, and if she is ever reduced to a device the constraint has failed.
 
-And the horror of the book is that **the will is what damns her.** A woman with no agency could be forgiven completely. Angela has agency, demonstrably, provably — she made choices in that barn and she is making them now — and so she is answerable, and she knows she is answerable, and she keeps going anyway.
+**It may not resolve the question of what she is owed.** The compassionate reading wants the eleven years to absolve her. The severe reading wants the five bodies to void the eleven years. Both are available to readers and neither is available to the book, and the moment a scene is built to deliver one of them it should be cut.
 
-The eleven years explain her entirely and excuse her not at all, and the book must refuse to collapse that distinction in either direction. Every reader will want it to. The compassionate reader will want the trauma to absolve her. The severe reader will want the murders to void the trauma. Neither is available. She was sold by her father at twelve for a truck payment and a washing machine, and she is killing men in parking lots at twenty-six because it makes the noise stop for ninety minutes, and both of those are completely true at the same time and always will be.
+**It may not let the barn become the subject.** The upstairs rooms are never written, and the risk of that decision is that the trafficking becomes backstory and the killing becomes content. The correction is in the texture: the barn is tedious, the instruction is repetitive, the man teaching it is a bore, and nothing about the technique is permitted to be beautiful on the page. If a reader closes the book impressed by what she can do, the book has gone wrong in a way that no amount of thematic statement will repair.
 
-The last thing: she is going to be caught, or she is going to kill someone who was never in that house, and there is a reasonable chance it happens in that order and a better one that it does not. Whichever comes first, the book ends on the same question, which is the one Odalys Rael will have to ask across a table in an interview room in Las Cruces:
+**It may not solve her.** She has an interlocutor now, a language she cannot speak, a brother turning fourteen, a name in a filing cabinet in Deming and four names left. Any one of those could be the road out and none of them is guaranteed to be. The book should be genuinely uncertain, at the level of the sentence, about which way she goes.
 
-*How many?*
+And the thing it does not know: whether she is caught, whether she kills a man who was never in that house, whether Yesenia ever gets on a bus to Zacatecas, and what Angela says if a recorder is running and somebody asks her how many.
 
-And Angela Reyes will have to decide, in that room, in that second, with a recorder running, whether the ones in the barn count.
-
-That is the whole novel. Everything else is architecture.
+That last one has an answer she has been avoiding since 2015, and it has nothing to do with the five. It is whether the ones in the barn count, and she has never let herself arrive at it alone, and there is no version of the book where she arrives at it alone.
