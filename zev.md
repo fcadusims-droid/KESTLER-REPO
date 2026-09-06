@@ -658,6 +658,100 @@ The player can carry a phone, keep contacts, and be reached — and everything s
 - **Numbers are burned, not kept.** A clean handset stops being clean the moment it has been used to call something that later becomes interesting. Experienced characters replace them constantly, and the player learns to.
 - **Carrying two is standard and telling.** Anybody found with a legal phone and a clandestine one is instantly identifiable as somebody with something to hide, which means the second phone has to be somewhere other than a pocket.
 
+**THE BANK AND THE BOAR: THE CAPITALISM SATIRE, DONE CORRECTLY**
+
+The city's settlement function has a building and a face, and both are designed as the game's sharpest satirical instrument — aimed, per Rule 2, at **finance and the pricing of human beings**, never at any identity.
+
+**The building.** An unremarkable four-storey corner bank in the centre with a genuine retail branch on the ground floor — a real queue, real tellers, real pensioners collecting real money, and a teller who has worked there twenty-six years. None of that is a front in the usual sense; it is simply the top of it. Three excavated levels below, on no municipal plan: **counting** (currency arriving by van from every house, sorted at long tables by women in overalls, under cameras that watch the counters rather than the money), **washing** (layering, shells, invoices for services never rendered, freight manifested and paid for that never moves), and **the ledgers**, where the netting happens and where a debt between two syndicates who will never meet is cancelled against a third. That bottom floor is not a bank; it is the clearing house, and it is the actual reason this city is irreplaceable.
+
+**The man.** Lev Arkadyevich Volin, called **the Boar**.
+
+- **The face is medical, not metaphor.** At thirty-eight he met a brown bear on a road outside the northern works in winter and it took the lower half of his face. He survived by crawling two kilometres in February, which everybody in the city knows and which colours every conversation he has. Four years of reconstruction followed, much of it using **porcine graft material** — which is genuinely used for this and has been for decades. The result is not a mask or a monster; it is a face that has been *assembled*, with a heavy, foreshortened quality the city named without cruelty. He uses the nickname himself.
+- **The voice** went with the nerve damage: low, effortful, slow. A very intelligent man delivering a devastating line at half normal speed is one of the most effective things in the game and requires no writing tricks at all.
+- **The chair** is powered and elevating, built by people who build such things for governments, with a desk that swings across. He raises himself to a standing man's eye level deliberately, at the exact moment in a negotiation when it does the most work.
+
+**Why he is the satire and not a villain.** He is **the only honest man in Zev**, and that is the joke and the horror in one object. Everyone else in this world tells a story about themselves — the state calls extraction administration, the preacher calls it ministry, the houses talk about honour and codes, and even the narrator is explaining himself. Volin does not. He will tell you exactly what a person is worth here, show his arithmetic, and be correct. He does not find it sad; the category does not arise. He regards the entire criminal population as **sentimental**, and he is right, and he considers sentiment a form of innumeracy.
+
+His signature line, delivered flat, after letting a man finish a speech about avenging his cousin: *"Yes. And what does that pay."*
+
+**And his real weapon is not power, it is trust.** He owns nothing, holds no ground, commands nobody, and is technically an employee. He is trusted by men who trust nothing — not because he is good, but because in twenty-two years he has never once shaded a figure in anybody's favour including his own. **Indifference is the only quality a room full of murderers can actually rely on.**
+
+**Institutional friction to play with:** he moves the money; the accounting desk audits whether the people are worth it. He thinks their work is anthropology; they think he would sell the city if the price cleared. Both are correct. They co-sign documents four times a year.
+
+**The crack:** he funds a children's cardiac unit at the central hospital, personally, for eleven years, refuses his name on it, and becomes visibly irritated when it is mentioned. It has been checked for laundering more than once by people who wanted it to be. It is not. **The game never explains it** — the player may form a theory, and no character will confirm one.
+
+**THE VOICE.** A second, separate injury: a post-operative infection in the second year damaged the laryngeal nerve and the surrounding tissue. What remains is low, wet and effortful, with a catch at the start of words — a grunting scrape the throat produces before it can produce speech, repeating on long sentences and worsening when he is tired or cold. **The nickname comes from the face and the voice together, not either alone.** He has never shown any sign of minding it and uses it himself.
+
+Design-wise the voice is worth more than the face: an audience adjusts to a face in minutes and never adjusts to audible *effort*. A man who has to fight for a sentence and delivers it anyway, slowly, to the end, while a room waits, has a negotiating advantage no writing trick can manufacture. He never hurries.
+
+**THE PROJECTION, AND THE HISTORICAL MECHANISM UNDERNEATH IT**
+
+A story circulates constantly in Zev that Volin is Jewish. **He is not**, unambiguously and as a matter of record — born here, to people born here, family on the parish rolls for four generations. The game establishes this plainly and early, and then never argues about it again.
+
+The story is told anyway, by people who have never met him, and the bitter little crews on the fourth ring have a whole vocabulary for him. **The game never reproduces that vocabulary.** Its existence is established; the words are not written, not spoken on screen, and not subtitled. Nothing is gained by supplying them and the page becomes a glossary.
+
+What the game does instead is show the *mechanism*, through the narrator's library and the world's own structure:
+
+- **The historical template is the "sponge."** European rulers licensed a minority into money-lending — barring them from land, guilds and ordinary trades, leaving them the one occupation canon law forbade Christians — and then squeezed the accumulated capital into the treasury through arbitrary levies. Wealth flowed from the countryside to the crown, and the figure the countryside could see and name was standing in the middle. **The hatred was load-bearing**, not incidental: it gave the anger somewhere to go that was not the throne.
+- **And the pogroms were frequently debt cancellation.** In one English city the mob was led by indebted knights who went straight from the killing to the cathedral, seized the chests holding the loan records and burned the contracts in the street. In a Rhine city, after a massacre, the new council formally voided every debt owed to the dead, destroyed the registers, and divided the confiscated cash among the leading families. They were not killing a people; they were closing an account, and the people were where the account was kept.
+- **The modern historiography is the other half and belongs in the design's understanding**: lending was the business of a small minority of a minority — the overwhelming majority were poor, in residual trades — while the great finance of the era ran through Christian merchant companies. The stereotype was never a description of anybody. It was a description of a *position*.
+
+**Which is exactly why Volin works as the satire.** The template gets applied to him with total confidence and he does not fit a single element of it except one: **he occupies the position.** That is the proof that the position was always the point, and it is the sharpest thing this world says about bigotry — the joke is entirely at the expense of the men holding the template, who are wrong about a fact they could check in an afternoon.
+
+**And the load-bearing consequence for the plot: the state has never corrected the story.** Not once in twenty years, though the man's origins are a matter of public record and a single newspaper item would end it. The foreman does not spread it. He simply *benefits* from a city whose anger about money has a face on it that is not his, and does nothing, indefinitely.
+
+**The real danger to Volin is not the bigots — it is the ledgers.** The crews on the fourth ring are broke and irrelevant. But every house in Zev is, at any moment, in debt to that bank in amounts that are not small, and the historical mechanism is unambiguous about what indebted men eventually want: not the banker dead, but **the third basement on fire and the registers with it.** That is a live plot engine, it is available at any point in the story, and the player should understand — before it happens — that a pogrom in this city would not be about hatred at all. It would be an accounting decision with hatred supplied free as cover.
+
+**Narrator handling:** he reports all of this flatly and does not moralise. He states that Volin is not Jewish, states that the story is told anyway, explains the historical mechanism because he owns the books, and notes that the state has never corrected it — and then declines to comment. *"I am going to leave that where it is."* No character in the game ever delivers a verdict on it.
+
+**Design guardrails, stated because this character is the one most likely to go wrong in production:**
+
+- **The target is capital, never a people.** He is a satire of finance and of the pricing of human life. He has no ethnicity, no religion, and no coding of either, and any draft that drifts toward one is rejected. This is not caution; the classic "grotesque banker who secretly controls all the money" caricature is a specific historical libel, and building it would both violate this document's own Rule 2 and destroy the project.
+- **His body is injury, not evil.** The face comes from a documented attack and reconstructive surgery; the chair comes from the same event. Nothing about his appearance signals his morality — indeed the most monstrous-looking person in the game is the only one who never lies. The disability is never used as a shorthand for corruption, and he is never framed for disgust.
+- **He is never physically threatening and never fought.** He is the least violent character in the game and the most dangerous, and the gap is the point.
+
+**THE LAW TIER, THE PROXY CREWS, AND THE POLICE**
+
+Three connected systems that together explain why the city looks the way it does at street level.
+
+**1. The laws only bind the houses.** The foreman legislates against *threat*, not for order. A house holds a function, employs thousands and could start something expensive — so it is governed in punishing detail. A courtyard crew of nine could not damage anything, so no rule was ever written about it. There are three or four hundred small crews in Zev at any moment — corner outfits, estate gangs, cache runners, the park — nobody has counted, and they are not tolerated, licensed or assigned a lane. They are **beneath the level at which law is issued.**
+
+**2. Which makes them the houses' deniable instrument, and this is the important one.** A house cannot interfere in a rival's business — deepest crime, collective punishment. But a small crew has no ground to forfeit, no function to withdraw and no lane to have left, so **the law that would destroy a syndicate does not touch it.** Every serious house keeps two or three crews warm at all times, tells them nothing, pays them in cash through someone met twice, and disclaims them completely if it goes wrong — and the disclaimer is *true* in the only sense the foreman audits, because there was never a connection to find. They are consumables and are treated as such.
+
+**Systemically this is the mission economy's foundation, and it is also the exact shape of Dragomir.** He is the purest version of the instrument the houses already use: unaffiliated, unbound, unwritten-about. The player should meet ordinary proxy crews doing this work well before anyone hires *him*, so that when the offer comes they already understand what they are being offered as.
+
+**3. And the police are real, competent, and pointed exclusively downward.**
+
+A central directorate in the middle of the city, district stations across every ring, a station in most absorbed villages, and jurisdiction extending out over the raions. Uniformed patrol, criminal investigation, traffic, and district officers who each hold a patch and know every stairwell in it.
+
+- **They handle small crime and they are good at it.** Stolen cars, burglary, knife fights, domestic assault, fraud against pensioners, ordinary missing persons, and the estate crews — which are entirely theirs and which they hammer, because the small crews are below the level of law and the police are the only instrument aimed at them. Clearance rates are genuinely excellent and published alongside the school figures.
+- **They have no jurisdiction over a house and never have.** The ministry handles anything that could threaten the machine; the police handle anything that could threaten a shopkeeper; neither crosses.
+- **Good officers and criminal officers both exist, in quantity, and so does the majority in between** — men who do the job correctly six days a week and then do one thing they should not because a house asked and there was no version of refusing that ended well. Fear of reprisal against an officer's family is a documented driver of police corruption in the real world and is not the least respectable one.
+- **The ceiling is the design's key beat.** Every officer finds it within two years: a name comes up, a trail reaches a yard, and the case is taken — never dramatically, just a call from a floor above and a file that goes up for coordination and does not come back. Nobody threatens anybody. The good ones spend careers working *underneath* it and are proud of the work they are allowed; the corrupt ones read it as a map of where the money is; and a very few push, and the game should contain exactly one of those, still in a district station at fifty-nine, passed over eleven times, doing his job.
+- **And the statistical joke, which the player is never told:** the lowest crime figures in the country are real *and* are produced by an institution whose jurisdiction stops precisely where the actual crime begins. The tunnels are not in the crime rate. They were never a case. They are the economy.
+
+**Gameplay consequences:** police are a genuine hazard for ordinary street crime and a near-irrelevance for anything connected to a house, which the player learns by doing; a beating in a courtyard brings a patrol, and the same beating on behalf of a house brings nothing. The honest officer is a recruitable relationship with real value and real cost — he can open doors no criminal can, and being seen with him is its own problem.
+
+**THE PARK, THE CREW, AND GROSH**
+
+The city's Park of Culture and Rest — Soviet foundation, gutted in the nineties, expensively rebuilt by a city that needs a showcase — is one of the game's most important spaces and its most important tonal contrast. Rollercoaster, haunted house, boats, hall of mirrors, and a forty-metre wheel visible from four districts. In winter the paths are deliberately flooded and the whole park becomes a skating ground. **On a Sunday in January it is the happiest place in the game by a distance**, full of families, and none of that is ironic or a facade. Everyone calls the wheel *the devil's wheel*, which is simply the ordinary Russian colloquialism for a Ferris wheel and means nothing — a running joke where foreign visitors keep wanting it to mean something.
+
+**The crew is the game's clearest illustration of how a gang forms without anyone deciding to become criminals.** Roughly ninety park staff — ride operators, ticket sellers, maintenance, costume performers — paid badly in the completely ordinary way municipal leisure staff are paid badly everywhere. What they collectively own is the interesting part: uniforms and costumes that make them unremarkable anywhere on the grounds, keys, radios, an unaudited service area behind the maintenance sheds, a legitimate reason to be anywhere at any hour, hundreds of lockers and plant rooms and disused pavilions — and several thousand unconnected strangers passing through daily.
+
+**So their business is not dealing, extortion or violence. They rent the ground.** A park is the finest handover location in a surveilled city: two strangers pass on a gravel path in a crowd and something changes hands with nothing to see; a cache sits behind a board in the boat shed for six hours; two men sit apart on a bench, arrive separately and leave in different directions, and there is no meeting to record. Every house uses it and every house pays a per-use fee, and what is actually being bought is that the right member of staff is looking elsewhere at the right minute. They earn about four times their wages, have never hurt anybody, and are — by this city's standards — nearly innocent.
+
+**Grosh** is their man, and he must not be written as an American evil clown.
+
+- **He is a genuinely trained performer** out of the Russian circus-and-mime tradition, which is *melancholic and philosophical* rather than frightening: its great figures were mimes who wanted to make you smile and then think about something you had been avoiding, one of whom said the clown brings anarchy, freedom and intuition and that this is a very Russian combination. Grosh does clown, mime, and two or three animal costumes when somebody is off sick, and **he is very good** — the game should show him working a queue for forty minutes with a hat and a piece of string and genuinely delighting people, before it shows anything else about him.
+- **The stage name is the tradition.** Russian clowns name themselves after small objects; his teacher's teacher was called Pencil. *Grosh* is a coin of the smallest denomination — *not worth a grosh* — which he chose himself at eighteen and which is now his only name.
+- **He cannot stay still.** He talks with his whole body, acts out everything he says including other people's dialogue and the weather, and it is exhausting and very hard not to like.
+- **And twice a year he stops.** Completely, sometimes mid-sentence: arms down, weight even, face doing nothing, eyes on a point that is not in the room. **This is not madness — it is the mime's neutral**, the emptied state performers are trained to reach before filling themselves with a character. It is a technique they practise for years. What happens with Grosh is that he goes there and does not come back on schedule, and while he is there **there is no person present to appeal to.**
+- **The killing.** Four or five years ago a man approached him in that state at night in the service yard and said something, almost certainly nothing, and Grosh beat him to death with his hands and then returned to neutral and was still standing there when people arrived. He does not deny it, does not discuss it, and has never given a reason. The crew's rule is simply that you do not approach and do not speak, and he returns in twenty minutes to an hour and is entirely himself and remembers the conversation.
+
+**And the payoff is the protection scale doing its work at the opposite end of the city from the bank.** The dead man had no trade, no crew, no roof and no family that came asking — which places him exactly where the state stops having an opinion. There was an assessment. The crew paid it. It was calculated **against the disruption to the park's operating hours**, not against the man.
+
+That is why this crew belongs in the same part of the document as the Boar: at the top of Zev a man will tell you what a life is worth and show his arithmetic, and at the bottom of it the same arithmetic reaches a service yard behind a rollercoaster and comes out at the price of a few hours of a Ferris wheel.
+
 **RELIGION: THREE LAYERS, AND THE ONE RULE THAT KEEPS IT DEFENSIBLE**
 
 Religion in *ZEV* runs in three strata and the design's whole position rests on keeping them distinct.
@@ -2098,17 +2192,261 @@ When something must be decided that touches more than one crew — a new arrange
 
 And when two crews have a quarrel that has not yet become a war, they hold a *strelka* — a meeting-at-arrows, a parley. Each side sends its men, and they negotiate, and whatever is agreed becomes binding, enforced not by any court but by the certain knowledge of what happens if you break your word at a *strelka.* This is the city's true justice system, and here is the terrible thing about it: it *works.* It is faster than a court, cleaner than a court, and far more final. A businessman here with a dispute does not go to a judge. He sends his *krysha* to a *strelka.* And on the rare day the two sides cannot agree even there — when the parley would otherwise end in blood — that is the day a *vor* is called to rule over both, and his word closes what theirs could not. Negotiation first, between equals; judgment second, from above. Which brings me to the thing that binds the whole city together, top to bottom.
 
+**Who the laws are actually for, which nobody explains and everybody eventually works out.**
+
+I have spent a great deal of this letter setting out the laws of this city — the Closed Mouth, the Shared Line, the Granted Ground, Justified Death, Non-Interference — and I have let you believe they apply to everybody.
+
+They do not. They apply to the **houses**, and to almost nobody else.
+
+Once you see it the logic is obvious and slightly insulting. The foreman does not legislate for the sake of order; he legislates against *threat*. A law is a thing you write about an entity that could damage you. The great houses could — they hold functions, they employ thousands, they move the product, and a war between two of them would cost real money and might not stop where he wanted it to stop. So they are governed, in detail, with a ferocity that never relaxes.
+
+The park crew are ninety people who rent out a gravel path.
+
+Nobody has ever written a rule for them, because there is nothing to write a rule *against*. They could not threaten a house, let alone a directorate. If every small crew in Zev vanished tonight the ledgers would not move by a single figure. So they are simply not addressed — not tolerated in the sense of being permitted, not licensed, not assigned a function or a lane. They are **beneath the level at which law is issued**, the way a man does not draw up a treaty with mice.
+
+And there are three or four hundred of them at any moment, nobody has ever counted properly, and nobody has ever been asked to. Corner outfits, courtyard crews, half a dozen boys running caches on a fourth-ring estate, the men who move stolen parts out of a garage, the park. Most of them will exist for four years and dissolve. None of them appears anywhere in anything I have described about the arrangement, because from upstairs they are not part of it.
+
+**Which makes them enormously useful, and the houses worked this out immediately.**
+
+Follow the arithmetic. A house cannot interfere in another house's business — that is the deepest crime there is and the punishment falls on the whole house. Every king in this city has wanted, at some point, to do something to a rival that he absolutely cannot be seen to do.
+
+But a corner crew is not a house. It has no ground to be forfeited, no function to be withdrawn, no lane to have stepped out of. **The law that would destroy a syndicate does not touch it, because the law was never written about it.** So a thing gets done — a shipment spoiled, a warehouse burned, a man beaten in a stairwell — by six young men from an estate who were paid in cash by somebody they met twice and could not name under any pressure at all.
+
+And if it goes wrong, the house that paid loses nothing. It disclaims them entirely, and the disclaimer is *true* in the only sense the foreman audits: there is no connection, because there was never any connection to make.
+
+Every serious house in this city keeps two or three such crews warm at all times. They are not allies and are not told anything. They are **consumables**, and they are treated as consumables, and when one is used up in a way that draws attention it is dropped without a second thought and another is found within a week, because there is always another.
+
+I want you to hold that beside something I will describe to you much later, about a man with no crew and no number and nothing to lose, and how quickly the houses of this city understood what he was for.
+
+**And this is why there is a police force, which surprises people.**
+
+There is. A real one, and I do not mean that ironically.
+
+There is a central directorate in the middle of the city — a large grey building from the seventies with a duty desk, an investigations floor, a forensic section that is competent and underfunded — and district stations across all the rings, and a station in most of the absorbed villages, and the whole apparatus extends out over the raions as far as the influence does. Several thousand people. Uniformed patrol, criminal investigation, traffic, the district officers who each have a patch and a ledger and know every stairwell in it.
+
+Their motto is on the wall of the entrance hall and it says that by serving the law they serve the people, and I have walked past it perhaps two hundred times.
+
+**What they actually do is the small crime, and they do it properly.**
+
+Domestic assault. Stolen cars. A knife fight outside a bar. The estate crews. A man who beats his wife. A boy who robs a kiosk. Burglary, fraud against pensioners, the drunk who put somebody through a window. Missing persons — the ordinary kind, the ones who turn up in three days at a cousin's.
+
+They investigate those things, and they solve a great many of them, and the clearance rates are excellent and the state publishes them with the school figures. If your car is taken in Zev, report it: you have a real chance of getting it back, better than in most European capitals, and the officer who returns it will be a competent professional who has been doing the job for eleven years.
+
+**And they are the *only* instrument the state has pointed at the small crews**, precisely because the small crews are below the level of law. The directorate has no jurisdiction over a house — it has never opened a case on one and never will — but a courtyard gang on the third ring is entirely theirs, and they hammer it, and the hammering is real. That is the arrangement: the ministry handles anything that could threaten the machine, and the police handle everything that could threaten a shopkeeper, and neither ever crosses into the other's ground.
+
+**They contain good men. I want that written plainly because it is true and it is unfashionable to say.**
+
+There are officers in this city who joined for the reason people join, who work absurd hours for a salary that has never been adequate, who genuinely will not take money, and who have closed murders that nobody upstairs cared about — a woman killed in a flat on the fourth ring, a boy stabbed outside a technical school — because it was their case and it was a person and they are the sort of men who finish things. I know two of them. One of them I would trust with a great deal.
+
+**And they contain the other kind, in quantity.**
+
+Officers who sell protection to the small crews they are supposed to be dismantling — which is not a contradiction but a business model, since the whole point of a roof is that it protects you from the person selling it. Officers who lose evidence for a fee. Officers on a retainer from a house, feeding the schedule of who is being looked at. Officers who beat confessions out of people because there is a quota and a quota does not care whose confession it is.
+
+And a great many who are neither, which is the majority and the most human part of it: men who do their jobs correctly six days a week and then do one thing they should not, because a house asked and there was no version of saying no that ended well. Fear of what organised criminals will do to an officer's family is a documented cause of police corruption everywhere it has been studied, and it is not the least respectable cause.
+
+**But here is the ceiling, and every officer in this city finds it in his first two years.**
+
+There is a point — never written down, never explained, never in any regulation — at which a case stops being yours. You are investigating a beating and a name comes up that belongs to a house. You are following stolen freight and it goes into a yard you have no business in. You are looking at a missing girl and the trail reaches a building that everyone can see and nobody enters.
+
+And then it is taken. Not dramatically. A telephone call from a floor above; the file goes upstairs for coordination and does not come back; you are put on something else that is genuinely urgent. Nobody threatens you. Nobody has to.
+
+The good ones learn the ceiling and spend twenty years working *underneath* it, doing real police work in the space they are allowed, and are proud of it, and are right to be. The bad ones learn the ceiling and understand it as a map of where the money is. And a few — a very small number — do not learn it, and push, and I have known three of those in fifty years. One transferred. One is dead in a way that was recorded as an accident and may even have been one. And one is still here, in a district station on the fourth ring, at fifty-nine, having been passed over eleven times, doing his job.
+
+**And the last thing, which is the joke underneath the statistics.**
+
+I told you this city has the lowest recorded crime in the country and that the number is real.
+
+It is real. It is also produced by an institution whose jurisdiction stops precisely where the actual crime begins. Everything the police can touch, they touch, and they are good at it, and it goes in the figures. Everything else was never a case, was never opened, was never counted, and does not exist in any statistic anywhere.
+
+The tunnels do not appear in the crime rate. They are not *crime*. They are the economy.
+
 **The roof.**
 
 *Krysha.* It means *roof.* It is the most important word in this city, more important than any of the names I have given you, and if you learn only one thing from this letter learn this one.
 
 Everyone here lives under a roof. Not a real one — a roof of protection. Every business, every stall, every workshop, every whore and every dealer and every honest shopkeeper who has never broken a law in his life, pays a portion of what he earns to someone stronger, and in return that someone keeps the rain off — keeps the other predators away, settles his disputes, enforces his debts, makes his problems disappear. A tenth of what you make, a fifth, a third, depending on how much rain there is and how good the roof. This is not extortion, exactly, though it began as extortion and the threat still lives underneath it. It is closer to tax. It is the tax you pay in a place where the state has decided not to be the state. *We will protect you,* the roof says, *against us* — and against everyone worse than us, of which there are always plenty.
 
-And here is where the whole thing closes into a single ring, where you finally see how city and crime and state are one animal. Because the roof over the criminals is another criminal. And the roof over *him* is a bigger one. And the roof over the biggest crews — the roof over the kings themselves — is the state. The police here are not the enemy of the roof; the police *are* a roof, one of the largest, selling the same protection in a different uniform. The official in his ministry and the *pakhan* in his tower are in the same business, the roofing business, and above both of them, holding the highest and heaviest roof of all, is the foreman-state that lets the whole structure stand so long as the water runs downward into its own cisterns. There is no line where crime stops and government begins. There is only roof over roof over roof, all the way up into the grey sky, and every drop of money that falls anywhere in this city runs up through all of them and out.
+And here is where the whole thing closes into a single ring, where you finally see how city and crime and state are one animal. Because the roof over the criminals is another criminal. And the roof over *him* is a bigger one. And the roof over the biggest crews — the roof over the kings themselves — is the state. The police here are not the enemy of the roof; the police *are* a roof — the one with the most customers in the city, though not the most powerful, because their protection is worth a great deal to a shopkeeper and a corner crew and nothing whatsoever to a house. They sell the same product in a different uniform, at the bottom of the market. The official in his ministry and the *pakhan* in his tower are in the same business, the roofing business, and above both of them, holding the highest and heaviest roof of all, is the foreman-state that lets the whole structure stand so long as the water runs downward into its own cisterns. There is no line where crime stops and government begins. There is only roof over roof over roof, all the way up into the grey sky, and every drop of money that falls anywhere in this city runs up through all of them and out.
 
 **What the roof buys the ordinary man.**
 
 Do not imagine, though, that the people hate it. This is the subtlety that outsiders, with their clean countries, cannot feel in the gut. In the districts, the crew is not only the predator — it is also the closest thing to a government the people have. When the state has withdrawn into being nothing but a distant hand that takes, it is the local *pakhan* who fills the empty place. He settles the dispute between neighbors that no court will hear. He punishes the thief who steals from his own street, because theft that is not licensed is bad for business and bad for order both. He pays for the funeral, fixes the boiler in the cold, finds the missing girl — sometimes — when finding her costs him nothing. The people bring their troubles to him because there is no one else, and in bringing their troubles they make him legitimate, and in being legitimate he becomes harder to ever remove than any tyrant enforced by fear alone. The cruelest kings understand this. They give with one hand what they take tenfold with the other, and the street loves them for the giving and forgets to count the taking. A man who owns the people's gratitude owns something the state with all its cameras cannot buy.
+
+**The bank, and the man in it.**
+
+Everything I have told you about settlement — the trillion that clears, the debts of half the world's criminals netted against each other, the reason nobody will ever let this city fall — happens in a building you would walk past.
+
+It is on a corner in the centre, four storeys, pre-revolutionary, recently repointed. Ground floor is a retail bank and it is a *real* one: a queue, three tellers, a machine that takes coins, a woman who has worked there twenty-six years and can tell you about her hip. Pensioners collect there. It holds the mortgage on my building. If you went in and opened an account you would receive a perfectly ordinary account with a perfectly ordinary card, and the service is better than most, and none of that is a front in the sense people mean. It is simply the top of it.
+
+The building goes down further than it goes up.
+
+I have never been below and I am relaying what I have been told, in pieces, over about fifteen years, by four people, two of whom worked there. They did not agree on the details. They agreed completely on the scale.
+
+Three levels, dug in stages through the nineties and never once appearing on a municipal plan. The first is counting — physical currency arriving by armoured van from every house in the city, in sacks and cases and once, memorably, in a domestic refrigerator, sorted and counted by women in overalls at long tables with machines, six days a week, in silence, under cameras that watch the counters and not the money. The second is the wash: the layering, the invoices for services never rendered, the shell companies, the loans made to entities that are themselves, the freight that is manifested and paid for and never moves. The third is where the ledgers live, and where the netting is done, and where a debt between two syndicates who have never met and never will is cancelled against a third — and that floor is not a bank at all, it is a *clearing house*, and it is the actual thing that makes this city irreplaceable to the world's criminals.
+
+Money goes down dirty in bags and comes back up clean in accounts. That is the entire operation and it has run without a serious interruption for twenty-two years.
+
+**And it is run by one man.**
+
+His name is Lev Arkadyevich Volin and everybody in Zev calls him **the Boar**, and I want to be careful here because the nickname is not an insult and the reason for it is a matter of medical record.
+
+He was, in his thirties, an ordinary and extremely capable financial man. In the winter of the year he turned thirty-eight he was on a road out past the northern works, alone, with a stopped car, and he met a brown bear that should have been asleep and was not. It took his face. That is the plain description and there is no gentler one available: the lower half of his face, the jaw, most of the nose, a great deal of the musculature.
+
+He should have died on that road and did not, because he crawled two kilometres in February, which is a fact that everybody in this city knows and which colours every conversation anybody has with him.
+
+What was rebuilt over the following four years was reconstructive surgery of a kind that was experimental then and is merely unusual now, and a great deal of the graft material was **porcine** — pig tissue, which is genuinely used for this and has been for decades. The result is not a mask and it is not a monster; it is a face that has been assembled, and the assembly has a snouted, heavy, foreshortened quality that the city noticed immediately and named without cruelty and without hesitation. He uses the name himself. He signs correspondence with it occasionally, which people find funny and which I think is the single most controlled thing I have ever heard about anybody.
+
+**And then there is the voice, which is a separate injury and came later.**
+
+The bear did not take his voice. The surgery did — or rather an infection did, in the second year, in a hospital, from a graft that turned. It went into the throat and it went deep, and by the time they had it under control it had done damage to the nerve that works the larynx and to the tissue around it, and what came out the other side is not the voice he had.
+
+I have heard men try to describe it and nobody manages it well, including me. It is low, and it is *wet*, and it comes out with effort — every sentence is worked for, and you can hear the work. There is a rasp underneath it and a catch at the start of words, so that a phrase begins with a sound before the sound, a sort of low grunting scrape that his throat has to produce before it can produce speech. On long sentences it repeats. When he is tired, or when the room is cold, or when he has been talking for a while, it gets worse and there are consonants he simply cannot reach.
+
+That is where the name settled. It was the face first — the assembled, foreshortened, heavy look of it — but the face alone would probably have earned him something else. It is the two together. A man with that face making that sound is going to be called what this city calls him, and it happened within a year of his return, and it was never going to be anything else.
+
+I want to record two things about it, flatly, because I have heard both and they belong in the same paragraph.
+
+He has never once, in twenty-two years, given any sign of minding. He uses the name. He is said to have chosen his own telephone extension because of a joke about it. Whether that is composure or something worse I am not qualified to say.
+
+And people are frightened of the sound. Genuinely — more than of the face, which the eye adjusts to in a few minutes. The voice you do not adjust to, because it is *effortful*, and effort is audible, and a man who has to fight to say a sentence and says it anyway, slowly, all the way to the end, while the room waits, has an advantage in a negotiation that no training produces. He knows this. He does not hurry. I have watched a man agree to terms he had come specifically to refuse, and I do not think it was the terms.
+
+He is also enormous, and has been since the injury took his mobility, and he moves in a chair built for him by people who build such things for governments — powered, elevating, with a desk that swings across it, which means he can raise himself to the eye level of a standing man and does so, deliberately, at the exact moment in a negotiation when it will do the most work.
+
+**And here is why he is the most frightening person in this letter, and it has nothing to do with any of the above.**
+
+**He is the only honest man in Zev.**
+
+I mean that precisely and I have thought about it for years. Every other person I have described to you tells a story about themselves. The foreman calls extraction *administration*. The preacher on the second ring calls it *ministry*. The houses talk about honour and family and codes. The Ninth believes it is protecting something. Even I — a man who has written a hundred pages to explain why he never did anything — am telling you a story.
+
+Volin does not.
+
+He will tell you, in that voice, at that speed, without any discomfort whatsoever, exactly what a human being is worth in this city, and then he will show you the arithmetic, and the arithmetic will be correct. He does not think it is sad. He does not think it is *not* sad; the category does not arise. He regards the entire criminal population of this city as **sentimental**, and he is right — they are, hopelessly, all of them, with their codes and their revenge and their pride — and he considers sentiment a form of innumeracy.
+
+The one time I was in a room with him, a house man was arguing that a rival deserved to be ruined for something done to his cousin. Volin let him finish. Then he said — and I am reproducing this as exactly as I can — *"Yes. And what does that pay."*
+
+Not a question. He had not raised his voice or his eyebrows. The man stopped talking and did not start again.
+
+**What he actually does, which is the part people get wrong.**
+
+He does not own anything. He is not a king and holds no ground and has no crew. He is an *employee*, technically, of an institution that is technically Russian and technically legitimate, and he could be replaced by the state at any time except that he cannot, because he is one of the two hundred I described to you and he sits at the very top of that list. He is the most protected human being in the Southern Urals. Nobody has ever seriously considered harming him, because the arithmetic of doing so is so catastrophically bad that it does not require discussion.
+
+His function is allocation. Everything the city earns comes to him filthy; he decides what belongs to whom, and what the state's cut is, and what each house is owed against what it owes, and what is held back against next quarter — and then it goes back out clean, and the houses accept his numbers, and they accept them because in twenty-two years he has never once been found to have shaded a figure in anybody's favour, including his own.
+
+That is his real weapon, and it is worth understanding. **He is trusted by men who trust nothing** — not because he is good, but because he has demonstrated, at enormous length, that he is *indifferent*, and indifference is the only thing that a room full of murderers can actually rely on.
+
+And it is why he and the desk upstairs cannot stand each other. He moves the money. They audit whether the people are worth it. He regards their work as a lot of anthropology; they regard him as a man who would sell the city itself if the price cleared. They are both correct, and they are required to sign the same documents four times a year, and I am told those meetings are the coldest rooms in Zev.
+
+**What is said about him on the fourth ring, which I am going to report and not comment on.**
+
+There is a story about Volin in this city that is told constantly, by people who have never met him, and it is that he is a Jew.
+
+He is not. I want to establish that as a fact and then get out of the way. He was born here, to people born here, in a district I could name; the family is on the parish rolls for four generations; I have met a cousin of his. There is no ambiguity about it and there never was.
+
+It does not matter in the slightest. The story is told anyway, and it has been told for twenty years, and by now a substantial number of people in this city believe it in the ordinary way that people believe things nobody ever told them directly.
+
+The small bitter crews out on the fourth ring — the ones I described to you, with the garage and the stickers and the inability to get a contract — say it constantly. They have a whole vocabulary for him, which I am not going to write down, partly because you can guess it and partly because writing it down is doing their distribution for them. It is not original. That is the striking thing about it, actually: not one word of what they say about that man was invented in this city or in this century. It arrived complete.
+
+**And I know where it arrived from, because I have the books, and I went and looked.**
+
+In the older kingdoms of Europe the rulers licensed a minority into money-lending — barred them from land, from the guilds, from ordinary trades, and left them the one occupation the Church forbade to Christians — and then used them as what one historian called a *sponge*. The minority absorbed the wealth of the knights and the farmers through interest, and the crown then squeezed the sponge whenever it wanted a war, through arbitrary levies and confiscations. The money came from the countryside. It went to the king. And the man the countryside could see, and hate, and name, was standing in the middle.
+
+The hatred was not incidental to that arrangement. It was *load-bearing*. It was what made the arrangement survivable, because the anger had somewhere to go that was not the throne.
+
+And when the debts got too large, there was a procedure for that too, and it is the part that made me put the book down and sit for a while. The killings were frequently organised by the people who owed the money. In one English city the men who led the mob were indebted knights, and after the community was dead they went directly to the cathedral, took the chests where the loan records were kept, and burned the contracts in the street. In a city on the Rhine, after two thousand people were burned in a cemetery, the new council formally cancelled every debt owed to them, ordered the registers destroyed, and divided the confiscated cash among the leading families.
+
+They were not killing a people. They were closing an account. The people were where the account was kept.
+
+**Now look at my city.**
+
+There is one bank. Everything the houses earn goes through it, and it comes back with a number attached that they must accept. Every civilian in Zev with a mortgage owes it. Every crew in Zev is, at any moment, either owed by it or owing to it, and the second is more common, and the amounts are not small.
+
+Standing in the middle, visible, named, alone, with a face and a voice that make him impossible to mistake for anybody else, is one man who did not put himself there.
+
+He is not a Jew. The men who say he is have simply reached for the template, because a template is what you reach for when a thing needs explaining and you have not got an explanation. And the template did not care that it did not fit — it never has; that is the entire history of it. It fits the *position*, and the position was always the point.
+
+**And the state has never corrected the story.**
+
+Not once. It is the most easily corrected thing imaginable — the man's origins are a matter of record and the ministry could put it in the newspaper on a Tuesday. It has not, in twenty years.
+
+I am going to leave that where it is.
+
+**The one thing.**
+
+He funds a children's cardiac unit at the central hospital. Personally, entirely, out of his own money, for eleven years. It is not laundering; it has been checked, more than once, by people who very much wanted it to be laundering.
+
+Nobody knows why. He has never given a reason, has refused to have his name on it, and becomes — by the standards of a man with no expression available to him — visibly irritated when it is raised.
+
+I have my own theory and I am not going to write it down, because it is the only piece of speculation in this entire letter that I think would actually cost somebody something if it turned out to be right.
+
+**And at the other end of the scale entirely: the park.**
+
+I have just described the largest institution in this city. Let me put beside it one of the smallest crews in it, because between them you can see the whole range, and because the second one is more instructive than it looks.
+
+There is a Park of Culture and Rest on the west side. Founded in the thirties, the way they all were — an outdoor cultural enterprise for the working masses, laid out on what had been waste ground, with an arch at the entrance and an observatory and gravel walks and a wheel. It went the way everything went in the nineties: rides sold or stripped, pavilions rotting, the whole place swamped with cheap kiosks. And then, in the middle of the last decade, the city spent an enormous amount of money on it and it came back.
+
+It is now genuinely lovely. That is not sarcasm. There is a rollercoaster, a haunted house, boats on the pond, a hall of mirrors, three cafés, and the wheel — forty-odd metres, rebuilt, the only thing on this side of the city you can see from four districts away. In winter they flood the paths deliberately and the whole park becomes a skating ground, and on a Sunday in January there are two thousand people out there and it is the happiest place in Zev by a distance that is not close.
+
+Everybody here calls the wheel *the devil's wheel*, which is simply what our grandparents called every Ferris wheel and means nothing at all, and which visiting foreigners always want it to mean something.
+
+**And it is run, at night, by the people who run it in the day.**
+
+This is the part that took me a while to understand and that I now think is the single most ordinary criminal origin story in this city.
+
+Park staff are paid badly. Not scandalously — badly in the completely normal way that municipal leisure staff are paid badly everywhere on earth. Ride operators, ticket sellers, the maintenance men, the costume performers who walk the paths in animal suits having their photographs taken with children. Perhaps ninety people. None of them are anybody's idea of a criminal and most of them are still not.
+
+But look at what those ninety people collectively possess.
+
+They have uniforms and costumes, which means they are unremarkable anywhere on the grounds. They have keys. They have radios. They have a service area behind the maintenance sheds that only authorised staff enter, which nobody has audited in fifteen years. They have a legitimate reason to be in any part of a large enclosed public space at any hour of the day or night. They have hundreds of lockers, sheds, plant rooms, ride mechanisms and disused Soviet pavilions. And they have, passing through their ground every single day, several thousand strangers who have no connection to each other and no reason to be noticed.
+
+If you have followed this letter you already know what that adds up to.
+
+**A park is the finest place in a watched city to hand something over.**
+
+Not to sell — nobody sells anything in Zev, I have explained the law. To *hand over*. Two people who have never met can walk past each other on a gravel path in a crowd and something changes hands and there is nothing whatsoever to see. A cache can sit behind a loose board in the boat shed for six hours and be collected by somebody who was, on any camera, simply queuing for the wheel. A conversation can happen on a bench between two men who arrived separately, sat down apart, and left in different directions, and there is no meeting to record because there was no meeting.
+
+So the park crew do not deal, do not extort, do not run girls and do not fight anybody. **They rent the ground.** Every house in this city uses that park for handovers and every house pays for the privilege — a fee per use, cheap by the standards of what it saves them — and in exchange the crew provides the one thing that is actually being purchased, which is that the *right* member of staff is looking the other way at the right minute, and the wrong one is somewhere else.
+
+They earn perhaps four times what the municipality pays them. Nobody has been hurt. Nobody has been sold anything. It is, by the standards of this place, close to innocent, and I am aware of how that sentence reads.
+
+**Their man is called Grosh.**
+
+That is a stage name and it is also now his only name. It means a coin of the smallest possible denomination — *not worth a grosh*, we say, about a thing with no value — and he took it himself, at eighteen, in the tradition of the clowns of this country, who have always named themselves after small objects. His teacher's teacher was called Pencil.
+
+Because that is what he is, and I want to be very clear about it before you assume the wrong thing. **He is a real clown.** Trained, properly, at a circus school, in a tradition this country invented and is genuinely great at — and if your picture of a clown is an American children's entertainer with a rubber nose, or a horror film, put it down, because it is not that at all.
+
+The tradition he comes out of is *melancholic*. Its great figures were mimes and philosophers who were not trying to make you laugh so much as to make you smile and then think about something you had been avoiding. One of them said the clown brings anarchy, freedom and intuition, and that this is a very Russian combination, and he was right. Another became a clown out of despair after failing every drama school in the capital, having been through two wars, and used to say that laughter was more serious than tears.
+
+Grosh is in that line and he is good. I have watched him work a queue for the wheel for forty minutes with no props except a hat and a piece of string, and children followed him, and adults stopped, and I saw a woman who I know had buried her son the previous spring laugh until she had to sit down. He does the clown, he does the mime, he does two or three of the animal costumes when somebody is off sick, and he is better in a suit with a fixed face than most people are with their own.
+
+**And he cannot stop moving.**
+
+That is the first thing anybody notices and it is not an act. He talks with his entire body — shoulders, hands, the tilt of the head — and if he is standing still he is doing something with his feet, and if he is sitting he is doing something with his fingers. In conversation he acts out what he is telling you, all of it, including the parts that do not need it, including other people's dialogue, including the weather. It is exhausting and it is also very hard not to like.
+
+**And perhaps twice a year, he stops.**
+
+Completely. Mid-sentence, sometimes. The body goes down into a neutral — arms at the sides, weight even, face doing nothing at all — and he looks at a point that is not in the room, and he stays there.
+
+The people who work with him understand this and I did not until one of them explained it, and when he explained it I liked it a great deal less. In the training those men do, before you can put on a character you have to empty yourself out first: you take the body to a state with nothing in it, no attitude, no person, and *then* you fill it. It is a technique. They practise it for years.
+
+What appears to happen with Grosh is that he goes there and does not come back on schedule.
+
+And the reason everyone in that park is careful about it is that four or five years ago a man walked up to him in that state, at night, in the service area, and said something to him. Nobody knows what. It was almost certainly nothing.
+
+They found the man in the morning. Grosh had beaten him to death with his hands and had, by the account of the two people who arrived first, gone back to neutral afterwards and was still standing there.
+
+He does not deny it, does not discuss it, and has never given anybody a reason. The crew's rule since then is simply that when he is like that you do not approach, you do not speak, and you wait, and he comes back in twenty minutes or an hour and is entirely himself and remembers the conversation you were having before.
+
+**And I will tell you what this city did about it, because it is the only part of the story that is actually about Zev.**
+
+Nothing.
+
+The dead man was not from a house. He had no trade, no crew, no roof and no family that came asking. He produced nothing and was owed nothing by anybody, which — as I explained to you when I set out the laws — places him at the exact point on the scale where the state stops having an opinion.
+
+There was an assessment. The crew paid it. It was not large, and I am told, by somebody who would know, that it was calculated against the disruption to the park's operating hours.
+
+Not against the man. Against the *hours.*
+
+That is the whole of it, and it is why I have put this beside the bank instead of anywhere else in this letter. At the top of this city there is a man who will tell you exactly what a human life is worth and show you the arithmetic. At the bottom of it there is a clown in a service yard behind a rollercoaster, and the arithmetic reached him too, and it came out at the cost of a few hours of a Ferris wheel.
 
 **The room where it is written down.**
 
@@ -2858,7 +3196,81 @@ I have told you all of that in pieces across this letter. I wanted, once, to put
 
 ---
 
-## PART EIGHTEEN — WHAT THE CITY TAKES
+## PART EIGHTEEN — THE WOOD
+
+I have written you a great deal of unhappiness and I am nearly finished. Before the end I want to put down one morning, because it happened, and because a letter that contained only the machine would be a lie of a different kind.
+
+There is a wood on the north-east edge, twenty minutes past the last tram stop, that has been there longer than anything else I have described to you. It is not the Park of Culture on the west side with the wheel and the skating and the crew who rent out the gravel — nobody has ever confused the two except on paper. This is a forest. The Soviets fenced it, called it a park in the way they called everything a park, put in three paths and a sign, and then largely forgot about it for sixty years, which is the best thing that has ever happened to a forest in this country. It is pine and birch mostly, with some larch, and on the damp side there is old linden. Nobody goes. It is not on the way to anything.
+
+I have been going for thirty years, on the mornings when I cannot be in a room with people.
+
+**What is in it, since you asked me once to be precise about things.**
+
+Roe deer, which is what you will see if you see anything — small, nervous, standing in birch at the edge of a clearing looking directly at you for four seconds before they are gone. Elk, occasionally, and an elk at close range is a genuinely unsettling animal; they are enormous and they are not afraid of you and there is a particular kind of quiet that happens around one. Foxes. Badgers, which are common here and which I like disproportionately. Hares that go white in November and are then, for about three weeks before the snow arrives properly, the most visible object in the entire forest, which I have always found unbearably funny and slightly sad.
+
+Squirrels, the red ones and the striped chipmunks. Pine marten if you are lucky and looking up. There is lynx in this region and I have never seen one and expect never to; a friend who worked the reserves told me you can spend a career in these woods and see only tracks, and that this is correct and proper and the lynx would prefer it that way.
+
+There are wolves out past the farms, which everybody knows and nobody discusses, and brown bear in the deeper country to the west — this range holds more brown bear than anywhere in Europe, which surprises visitors and does not surprise anybody who has driven the forest roads at dusk.
+
+**And the birds, which are the part I actually go for.**
+
+Woodpeckers, five kinds, and in a cold still forest the sound of one carries a distance you would not credit. Black grouse and capercaillie — huge, ridiculous, prehistoric birds that explode out of cover at your feet and take four years off your life. Hazel hen. Tawny owls at the edge of the light, and once, in twenty years, an eagle owl, which is the size of a dog and looked at me with what I can only describe as professional contempt.
+
+In summer the water out there fills with ducks and geese and swans, and the marshes east of the city are on a flyway, which means that twice a year the sky over an industrial district in the Southern Urals fills with birds that will be in Africa or India within the season and have no opinion whatsoever about any of us.
+
+Out in the open ground beyond, where the forest gives up and the steppe starts, it changes completely: hares and ground squirrels and the little burrowing rodents, and above them the buzzards and the kestrels and, twice in my life, a great eagle sitting on a fence post looking at nothing.
+
+**Here is the fact about all of this that I have never got over.**
+
+The Southern Urals are a *seam*. The mountains are the conventional line between Europe and Asia, and the wildlife takes that seriously in a way that nothing else here does: this is the eastern limit for a great many European species and the western limit for a great many Siberian ones, and in these woods they overlap. Animals whose ranges have nothing else in common share this one strip of forest. Two entire faunas, from two continents, meeting on the same hillside and neither of them able to go much further.
+
+I worked out what that reminded me of about ten years too late.
+
+Eight nations' criminals in one grey city, each at the far edge of where their own kind can reach, sharing ground they have no other reason to share. The same seam. The same accident of geography.
+
+The difference is that the animals did not have to negotiate for the space and nobody takes a cut.
+
+**And I should be honest about the damage, because it is not a museum out there.**
+
+Everything within reach of the plants is thinned. Industry has been doing this here for a century and the animals near the works are fewer and warier and smaller than the ones twenty kilometres further out, and there are birds in the old lists that nobody has recorded in my lifetime. The rivers are not what they were. Some of the water in this region should not be drunk and everyone knows which.
+
+And there is a thing further north that I am going to state flatly and not dwell on, because it is real and it is the single strangest fact about this region. There was an accident at a chemical plant in the fifties — a bad one, the kind that empties villages — and the contaminated ground was fenced off and made into a reserve, and people have been kept out of it for seventy years. And the wildlife in there is *thriving*. It is one of the richest tracts in the whole oblast, because nothing with a rifle or a chainsaw has been allowed in since before I was born.
+
+Understand what that means, because it is the same sentence I have written about the farms and the forest monasteries and the men under the floor, arriving one more time from a direction I did not expect: **the healthiest wild place in this region is healthy because it is poisoned.** Nothing here is ever left alone for a good reason. It is left alone because it is worthless, or dangerous, or both, and then it flourishes, and the flourishing is not a reward. It is what happens in our absence.
+
+**Now the morning.**
+
+It was late October, four or five years ago. Raining — not weather anybody would go out in, that fine cold rain that is not quite anything and gets through everything. I had had a bad week for reasons that do not matter and are in another part of this letter, and I went out there because the alternative was the bar.
+
+And I stood in a birch stand for I do not know how long, being rained on, and it was **beautiful**, and I want to be exact about the word because I do not use it.
+
+Birch bark when it is wet goes almost white and the black marks on it come up hard, and there were perhaps four hundred of them going up a slope in front of me with the last of the yellow leaves still on, and the rain was making the small sound rain makes on leaf litter, and somewhere behind me a woodpecker was working. Everything smelled of wet earth and pine resin and the particular cold-metal smell of the first frosts. Roe deer had been through and I could see where. There was nothing to look at and I could not stop looking at it.
+
+I had lived here sixty-odd years and I do not think I had ever properly *seen* it before. Not the region — I had looked at it my whole life. But I had always been looking at it on the way to something, in the middle of thinking about something, and that morning I had nothing to think about and it simply came in.
+
+Snow is the same and worse. When it comes properly and the forest goes silent — and it does go silent, the snow takes the sound out of the air — you can stand between two trees and hear your own pulse, and the light comes down blue, and the tracks are the only evidence that anything anywhere is alive.
+
+**And then there are the other days. Perhaps five a year. Perhaps three.**
+
+They come with no warning, usually in the spring window or on one particular kind of clear afternoon in September, and what happens is that the light goes *wrong* in the right direction — low, gold, almost horizontal — and comes through the birches sideways, and everything it touches stops looking real. The whole forest becomes the sort of thing somebody painted in the last century and hung in a room where people speak quietly. The water holds it. Insects go up through the light like they have been arranged. It lasts perhaps forty minutes and then the sun drops and it is an ordinary cold wood again.
+
+I have seen that possibly thirty times in my life. Every single one of them, I have thought the same idiotic thought, which is: *somebody should be here.* Not me. Somebody who would know what to do with it.
+
+**And I will tell you the real reason I go, since I have been honest about everything else.**
+
+It is the only place I can be where being unable to do anything is not a failure.
+
+Everywhere else in this city I am a man who knows a great deal and acts on none of it, and I have explained to you at length what that has cost and what I have built to justify it. Out there, watching and doing nothing is not cowardice. It is *the correct relationship with a forest.* The deer does not need my help. The woodpecker is not waiting for me to intervene. For two hours I am simply a thing that is present, and that is exactly what I am supposed to be, and it is the only two hours of my week when those two facts are the same.
+
+The city was here for three hundred years and the arrangement for thirty. Those birches were on that slope before either, and the region will still be a forest-steppe seam between two continents when the last of the towers is a shape in the grass and everything I have written you is not even a rumour.
+
+That is not hope. I have told you I do not deal in it.
+
+But I go out there on the bad mornings, and I stand in the rain, and it helps.
+
+---
+
+## PART NINETEEN — WHAT THE CITY TAKES
 
 Now I will tell you the truest thing, and it is the thing the postcards cannot photograph.
 
@@ -2880,7 +3292,7 @@ That is what the tourists photograph, in spring, when the light is soft. An empt
 
 ---
 
-## PART NINETEEN — THE MAN IN THE BAR
+## PART TWENTY — THE MAN IN THE BAR
 
 I met one of them once. I want to tell you about him, because in one night he showed me the whole machine turning, and because I have not been able to stop thinking about him since.
 
@@ -3228,7 +3640,7 @@ Not even the ones who come to save someone.
 
 ---
 
-## PART TWENTY — THE MAN WRITING THIS
+## PART TWENTY-ONE — THE MAN WRITING THIS
 
 I told you at the beginning that I would not say whether I was one of the men who does the cutting or one of the cattle waiting to be cut, and I let you carry that all the way here. It is time I paid for it.
 
@@ -3390,7 +3802,7 @@ Now let me tell you where all of it stands.
 
 ---
 
-## PART TWENTY-ONE — THE BODY OF THE CITY
+## PART TWENTY-TWO — THE BODY OF THE CITY
 
 I have told you what the city is. Let me now tell you where it stands, and what it is made of, because a horror with no body is only a story to frighten children, and this is no story. You will not find what I am describing on any map, though the map has a name for it and a dot in the right place. That is the worst part. Nothing here is hidden. It is standing in the open, in daylight, in front of everyone, under a name printed in an atlas, and it is invisible for the oldest reason there is: a thing is easiest to miss when it is exactly where it says it is.
 
