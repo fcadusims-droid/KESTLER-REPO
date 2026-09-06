@@ -87,7 +87,7 @@ This gives the game its mission economy: **the Law of Non-Interference, the worl
 
 **PROGRESSION AND SURVIVAL**
 
-- **No number means no legitimate life.** He cannot rent, cannot be hired on the books, cannot pass a checkpoint, cannot buy anything that requires a name. Survival is the early loop: cash work, black-market food and shelter, staying off registered transport, learning which lenses see and which are dead.
+- **No enrolment means no legitimate life.** Not because he lacks the house card — civilians do not carry one either — but because every ordinary transaction that must be recorded is verified against a record he is not in. He cannot rent, cannot be hired on the books, cannot pass a checkpoint, cannot buy anything that requires a name. Survival is the early loop: cash work, black-market food and shelter, staying off registered transport, learning which lenses see and which are dead.
 - **A roof is progression.** Crews can extend informal *krysha* (protection) to an unregistered man precisely because he is deniable. Accepting a roof opens resources and closes freedoms — and every roof taken is a spend.
 - **Being registered is a fail-state, not a death.** If the state files him, the game does not end; the city simply begins to metabolize him, and the routes that were open close permanently.
 - **Save points are the secret concerts.** The one room the surveillance system has never learned to see into is a covered kitchen with thirty people in it and a song playing low. The game saves when someone sings.
@@ -515,7 +515,16 @@ The player learns to diagnose a body the way you learn to diagnose a car by its 
 
 **INJURY, TREATMENT, AND THE FACT THAT DRAGOMIR CANNOT GO TO A HOSPITAL**
 
-**Nobody dies.** There is no death screen. The failure state is being beaten unconscious or bleeding until you faint, and what happens next depends entirely on where you were and who you know.
+**There is no death screen and no game over.** Every failure continues the story carrying its damage. But there are **four distinct defeat states**, and which one the player gets is determined by *how they went down* — not by a menu, not by a checkpoint choice, and never by the same screen twice.
+
+The four:
+
+1. **Beaten unconscious** — blunt force, no lethal wound. He wakes where he fell, or wherever somebody moved him to.
+2. **Mortally wounded** — a blade, a fall, a bullet. He does not die on the ground; he is found, and the trauma unit is genuinely one of the best on the continent because it is so practised, and he wakes in the central hospital some hours later, repaired. This is *survival by the city's own competence* and it costs him.
+3. **Bled out** — untreated blood loss, which resolves the same way as (2), because the outcome of losing consciousness from blood in a district with an ambulance service is a hospital bed.
+4. **Arrested** — an entirely separate screen and an entirely separate problem, covered below.
+
+None of these is a reload. All of them advance time, and all of them take something.
 
 **Field treatment is manual, physical and unpleasant.** In the *Far Cry* tradition: unhurried, animated, first-person attention on the body. Setting a dislocated shoulder against a wall. Splinting fingers. Packing a cut and taping it. These animations are long enough to hurt and they cannot be performed mid-fight — treating yourself is a decision to be defenceless for eleven seconds.
 
@@ -525,25 +534,32 @@ The player learns to diagnose a body the way you learn to diagnose a car by its 
 - **Broken bones cannot be self-treated at all.** A break is a persistent condition — degraded combat, degraded traversal, visible in every animation — until somebody who knows what they are doing puts it right.
 - **Blood loss ends in unconsciousness.** Ignore it long enough and the world dims and the player wakes up somewhere.
 
-**Waking up: three outcomes, and they are determined by the world, not by a menu.**
+**Waking up: where you open your eyes is decided by the world, not by a menu.**
 
-1. **The ambulance came.** You wake in the central hospital, treated, repaired and hours later. Response inside the ring is genuinely fast and the medicine is genuinely excellent, for reasons the world section explains and the player never needs told.
-2. **Nobody called.** You wake exactly where you fell, in the cold, still injured, still bleeding, with everything portable gone from your pockets. Now get somewhere.
+1. **The hospital** — for anything mortal. Somebody found him, the ambulance came, and the trauma unit did what it is very good at. He wakes repaired, hours later, in a bed. Response inside the ring is genuinely fast and the medicine is genuinely excellent, for reasons the world section explains and the player never needs told.
+2. **Where you fell** — for a straightforward beating. You wake in the cold, still hurt, with everything portable gone from your pockets. Now get somewhere.
 
    This is one of the tensest sequences the game can generate *the first time* and a slog by the fourth, so it is built to be survivable in more than one way and to shorten as the player builds a life: field treatment can stabilise him enough to move properly, a known doctor is usually closer than the hospital, a phone gets someone to come, money gets a car, and a relationship in that district gets a door opened two streets away. The long crawl across the city is what happens to a player with **none** of those — which is to say, early, and by design, once.
-3. **Somebody you know came for you.** Only available if the player has built the relationship. You wake on a table in a back room with a doctor who does not file reports.
+3. **Somewhere an NPC took you.** You wake in a stranger's kitchen, a stairwell landing, the back of a garage, a doctor's flat. Who moved you and how far depends entirely on where it happened and who owed you anything — a caretaker who dragged you inside out of the snow, a *kladman* you once did a favour for, a woman who did not want a body outside her door. **The player is not told this is going to happen and has no control over it**, and the first time it does it should be genuinely disorienting.
+4. **A known doctor's table** — only if the player has built the relationship. A back room, a bad lamp, and somebody who does not file reports. This is the outcome the player will eventually work very hard to make possible.
 
 **What decides whether an ambulance is called is other people.** Not a system roll — the district. In a neighbourhood where the player is known and tolerated, somebody picks up a telephone. In one where he is a stranger, or unwelcome, or where the locals have reason to want nothing to do with what just happened, nobody does. **Being liked is, mechanically, the difference between waking in a hospital bed and waking in a stairwell in February.**
 
 ---
 
-**THE CARD, AND THE PENALTY FOR NOT HAVING ONE**
+**ENROLMENT, THE CARD, AND ARREST**
 
-Every registered person in Zev carries a state identity credential — colloquially **the chip**, after the contact plate on it. It is not implanted; it is a card, and the chip inside it holds the registration and the reference to the biometric enrolment the Eye already has. It is required for wages, banking, rent, legal phones, medical appointments, school, tickets, anything recorded, and entry to any state-monitored building: ministries, terminals, the hospital, the good hotels, tower lobbies, the plants.
+Two separate systems that outsiders — and most players — will initially confuse, and the distinction is load-bearing.
 
-**Dragomir does not have one and cannot get one.** He was never enrolled anywhere.
+**Enrolment is universal and is not a document.** Every soul in Zev is in it: face taken at birth in a city hospital, or taken at the intake if they arrived in a lorry, and held forever. Nobody consented and nobody was asked. **This is what the readers on monitored doors check** — not a card, but *you*, against a record.
 
-This is the single most important constraint on his half of the game, and it is not a soft one.
+**The card — "the chip" — is required only of people who work for a house.** Not civilians, not the ordinary eight hundred thousand, not the small crews. It is a **condition of a syndicate's licence**: if a house wants ground and a function, every person on its books carries a credential that reports its position continuously, and the ministry knows at all times where each of them is standing.
+
+This is not an anti-crime measure — the state licensed the crime. It is a **leash on the only population capable of threatening the state**, and everybody wearing one understands that exactly. A house cannot assemble quietly; it cannot move forty people into one district at four in the morning without forty references converging on somebody's screen.
+
+**The consequence is one of the setting's best small ironies and should be legible in play: a civilian in Zev is freer than a house lieutenant.** The lieutenant has money, standing and a warmed car, and the ministry knows where he is right now. The pensioner has nothing and is tracked by nobody, because nobody thought her worth issuing a card to. She is not free because she is respected. She is free because she is not a threat.
+
+**Dragomir has neither.** No card, obviously — he works for nobody. But more importantly **no enrolment**: he was never processed, never photographed, never entered anywhere. That is the single most important constraint on his half of the game, and it is not a soft one.
 
 **First, the rule that makes an unregistered protagonist viable at all, because the lore's "cameras that know your face" phrasing invites the obvious objection.**
 
@@ -579,6 +595,18 @@ Dragomir goes down — beaten unconscious, or bled out to fainting. An ambulance
 The sequence that follows is the game in miniature: injured but repaired, unarmed, in a large official building full of civilians and staff who are not enemies, with men arriving who cannot make a scene in a hospital any more than he can. Nobody can start anything openly here — it is not the Quiet, but it is close, and everyone involved has reasons to keep it quiet. It resolves as a chase, an evasion, or a very ugly quiet fight in a stairwell.
 
 **And the lesson is permanent.** The hospital fixed him for free and cost him something he cannot get back. From then on the player understands, without being told, why clandestine doctors are worth finding and why relationships are the real health system.
+
+**ARREST: THE FOURTH DEFEAT STATE, AND A DIFFERENT KIND OF PROBLEM**
+
+The police are real, competent and pointed at exactly the crime Dragomir keeps committing at street level, so arrest is not an edge case — it is a routine outcome of getting street violence wrong in front of the wrong window.
+
+**It is a separate screen and a separate consequence, never a reload.**
+
+- **For an ordinary offender it is a bad week.** The station, the cell, the district officer, the paperwork, and out. Unpleasant, survivable, and the player should see it happen to other people constantly.
+- **For Dragomir it is the worst thing that can happen short of the psychiatric hospital**, and for the reason the whole design rests on: **custody means processing.** Photographed, printed, entered. The one advantage he possesses is destroyed by procedure, politely, in a room with a radiator, by a bored constable who is simply doing his job correctly.
+- **So the arrest sequence is a race that begins before the cell door.** From the moment he is taken there is a window — in the car, in the corridor, at the desk before the forms are started — and it is measured in minutes. What he has built determines what is available: a relationship in that district, a house that wants him out and will make a call, money in the right pocket, an honest officer who has decided he does not like something about the file, or nothing at all.
+- **And if he is processed, the game does not end.** He acquires a record. The Fringe stops being safe. Monitored doors stop being an alarm and start being a *match*, which is worse, because now the machine can follow him rather than merely fail to identify him. The men hunting him can finally ask the system for his face. It is a permanent, irreversible degradation of his position and the story continues from inside it.
+- **For the agent, arrest is a cover crisis rather than an identity one.** He has papers and they are excellent. What he does not have is immunity, and a night in a station is a night during which somebody with more seniority may become curious about a wealthy foreigner, and the foreigners section of the Ninth reads those reports as a matter of routine.
 
 **And here is the trap that makes all of it matter, and it is different for each protagonist.**
 
@@ -752,6 +780,34 @@ The city's Park of Culture and Rest — Soviet foundation, gutted in the ninetie
 
 That is why this crew belongs in the same part of the document as the Boar: at the top of Zev a man will tell you what a life is worth and show his arithmetic, and at the bottom of it the same arithmetic reaches a service yard behind a rollercoaster and comes out at the price of a few hours of a Ferris wheel.
 
+**THREE MORE CREWS, EACH TEACHING SOMETHING DIFFERENT**
+
+**The Little Jackets** (the narrator's name; they have never called themselves anything). Northern rings, ages fifteen to twenty-two, forty to a hundred depending on the month. Identical dark hooded jackets, hoods up in all weather, faces covered from the bridge of the nose down — arrived at deliberately, because they worked out that the machine identifies by facial geometry and that removing the face removes the comparison. **They were right. The Eye has never named one of them.**
+
+**And they are the game's clearest lesson in the two-layer trade-off**, which is why they exist. Everything that defeats the lens makes you unmistakable to people, and a group of masked young men in matching coats is the single most conspicuous object on any street in Zev. The *dvornik* knows which stairwell three of them live in because he has known their mothers for twenty years. So the police pick them up in batches and the whole enterprise never becomes anything.
+
+Mechanically they are **low-threat ambient encounters** that snatch, break and run — noise rather than organised crime — and they serve three purposes: they teach the counter-surveillance principle by demonstration before the player ever buys gear; they are a recruitment pool the houses skim, which the player can watch happening across the game; and they are the most sympathetic antagonists in it. Children from the fourth ring who have been told exactly what they are worth and given a birthday to wait for. The masks are the only power they have and it is not power, and the writing should let the player feel that without a single line about it.
+
+**The Underground Rats.** South, past the industrial belt: the sorting yards, the recycling plant, the transfer station and the tip, and beneath the whole quarter an enormous old storm system connecting somewhere unmapped to the dead metro.
+
+Not a gang — **a population**, two or three hundred, composed entirely of people the city finished with: men whose lungs failed in the works, patients the hospital could not keep, releases from the psychiatric institution, and freight who got loose years ago and could never be registered. They live on refuse, and refuse is genuinely a fortune: a city this size discards metal, cable, working electronics, in-date medicine and restaurant food. **The tip is the richest unguarded ground in Zev.** They surface at night and return before light.
+
+**And their threat is bespoke to Dragomir, which is why they matter.** They are not strong; most are ill. What they have is numbers in the dark and a practice of keeping blades deliberately filthy. In a city with the country's second-best hospital that is a manageable injury — unless you cannot go to a hospital. **A cut from a Rat is not a wound; it is a decision the player has to make within about three days about whether being alive is worth being filed.** No other enemy in the game threatens the protagonist's single structural advantage.
+
+Nobody pursues them, ever, and that is sufficient protection: reaching them means going down at night into a flooded, gassy, unmapped system occupied by two hundred people who know every turn. The game should make one descent available, once, as a genuine horror sequence, and should not require it.
+
+**The village.** Somewhere past the farms to the south-west where the roads stop being surfaced: a settlement of sixty or eighty people, arrived from elsewhere in the nineties.
+
+What exists is **record and ambiguity, and the design must keep it that way.** Eleven persons last seen in that district over eighteen years and not seen again — a great many for a place with eighty inhabitants and no traffic. Two secondhand accounts from people who did not want to be asked twice. And one hard fact: four officers went out on a routine welfare enquiry, in daylight, and none returned. A second visit reported nothing to report; those officers have all since transferred out of the region; the file is closed.
+
+**The state's non-response is the point and it is the document's central rule producing its worst outcome.** The ministry is not frightened and could remove the settlement in an afternoon. The settlement is simply worth *nothing* — no revenue, no route, no product, no ground anyone wants — and the arithmetic upstairs came out below the cost of the fuel. The same indifference that keeps the forest monasteries poor and unmolested has kept whatever is out there fed and unexamined for twenty years. **The rule has no preference. It has a threshold.**
+
+Design constraints, which are firm:
+
+- **The game never resolves it.** No reveal, no dungeon, no cult boss, no confirmation of what happens there. It is reachable, it is optional, and going there is a bad idea that the game will not stop the player from having.
+- **It does not contradict the religion material — it completes it.** The narrator spent a whole section establishing that the lurid version of these things is usually false and that people who go hunting devils generally ruin somebody innocent. He meant it. He has also never been out there, and knows a man who refused to drive somebody there and is not a coward. **He states both, side by side, and does not reconcile them**, and no character in the game ever does either.
+- **Nothing supernatural is ever shown or implied by the systems.** Whatever is out there, if anything is, is people.
+
 **RELIGION: THREE LAYERS, AND THE ONE RULE THAT KEEPS IT DEFENSIBLE**
 
 Religion in *ZEV* runs in three strata and the design's whole position rests on keeping them distinct.
@@ -799,6 +855,56 @@ Systemically this is not a quest-giver. It is **a property of certain places**:
 **The reason the state permits the second one is the world's core economic logic and should never be spoken aloud in dialogue.** The foreman intends to hold this estate for another fifty years, which gives him an interest in it remaining productive — the same interest that pays for the hospital, the schools and the trams. His problem on the Fringe is not rebellion, it is his own tenants: crews are predators, and predators in a place with nothing worth guarding will strip it, because a crew's incentive is this quarter and not the estate's fiftieth year. And he will not garrison a potato field, because nothing out there earns enough to justify one officer's salary.
 
 So the farmers do it. Unpaid, permanently motivated, locally trusted policing of the foreman's own tenants, in the places he has already calculated are not worth policing. He is not tolerating a resistance. **He is accepting free labour.**
+
+**MUSIC AS A MAP: THE CORRUPTION GRADIENT**
+
+The audio direction already established (post-Soviet coldwave, the secret concerts as save points, the state feeding joke culture to the young) sits inside a larger system, and the system is **geographic**.
+
+**Diegetic music in Zev gets dirtier the closer you are to the centre, and cleaner the further out you go.** The gradient is smooth, it maps exactly onto where the money is, and the player can navigate by it.
+
+- **Second ring / towers.** Aggressive, expensive, boastful rap about appetite — money, women as property, cars, drugs described admiringly, violence as punchline. Superb production, four-hundred-word vocabulary, a loop built to be loud. It is a fantasy sold back to people living a worse version of it.
+- **Third and fourth rings.** Rap still, but turned inward: depression, exhaustion, the flat, the winter. This is where the doomer sound belongs. More honest and worse for you.
+- **Past the last tram stop.** Village folk, sung badly and with total conviction at a table. Nobody selling anything. **The melodies are better, and should audibly be better** — four hundred years of editing against thirty years of market.
+- **The far edge, the monastery settlements.** Unaccompanied male voices in a cold building. The oldest sound in the region and the only one with no instrument in it at all.
+
+**Exceptions inside the city are the design's most useful signal.** There are pockets where something beautiful is still played, and *every one is a place the arrangement has not fully reached*: the covered kitchens, one third-ring church with a real choir and a poor priest, a café near the technical institute with a piano nobody charges for, and — pointedly — the amusement park, whose wheel plays something ancient and tinny and cheerful all day and is the least cynical sound in the game.
+
+**A player can locate the uncorrupted parts of Zev by ear.** That should be genuinely reliable and never explained. Walk until the music stops being about appetite, then look around.
+
+**Generational split, and it is total.** The old play *chanson* — the criminal-song tradition, guitar or accordion, a gravelled voice, always a story, out of convict folklore and nineteenth-century urban ballads. Crucially: **in the real world chanson softened once the nineties ended and gangs stopped running everything. In Zev the nineties never ended, so it never softened** — what plays out of those windows is the hard old version, unreconstructed, sung by men in their sixties in a city where every word of it is currently true.
+
+The young play rap and effectively nothing else, and the two generations share a flat with zero overlapping repertoire. The middle generation got the rock of the last Soviet decade and the first free one.
+
+**The houses brought their own traditions and each has a criminal register**, which the player hears in their districts and offices: narrative ballads with accordion and brass naming living armed men; Neapolitan melodrama sung in a dialect outsiders cannot follow, frequently about a man in prison writing to his mother; Balkan accordion-and-drum-machine that grew up alongside a war and its profiteers; restrained, formally strict Eastern material about longing and endurance played at a volume that would not disturb a cat; and the fast Atlantic rhythms that have colonised the fourth ring so thoroughly that local boys now make music in a form invented six thousand kilometres away.
+
+**The point the design is making without stating it:** every one of these traditions independently invented a song about a man in prison explaining himself. The city did not create that. It only gathered all of them into one basin so somebody could notice.
+
+**ART AND PROPS: THE SAME GRADIENT, AND THE WORD FOR IT**
+
+Environment art and set dressing follow the identical corruption gradient as the music, and Russian supplies the exact term for what the centre produces.
+
+**Poshlost.** Untranslatable, and not "vulgarity" — a vulgar man is sincere and a naive painter is innocent. Poshlost is **the falsely important, the falsely beautiful, the falsely clever, the falsely attractive**: the pretence of elevated taste by somebody with no aesthetic feeling of their own. One critic called it *self-satisfied inferiority, moral and spiritual*. And the definition that is functionally the ideology of the second ring: **the belief that the summit of human happiness is purchasable, and that purchasing it ennobles the purchaser.**
+
+By ring:
+
+- **Towers and lobbies.** Enormous corporate abstraction chosen specifically to mean nothing, because meaning might offend a visitor. Bronze in atriums. A public sculpture that cost more than the hospital's imaging equipment and that nobody can describe from memory. **Everything is expensive and technically flawless and empty**, and it must be *well made* — cheapness would be the wrong note entirely.
+- **A king's flat.** Taste being performed: gold where gold has no business being, a copy of something famous whose auction price the owner will quote, hostile furniture, and a library with uncracked spines arranged by height.
+- **The official layer.** Municipal photography of the city in spring, a smiling family, a slogan about opportunity in a typeface somebody was paid well for. Beautifully produced, seen daily by everyone, noticed by nobody. This is the brochure layer already established, and it is the purest poshlost in the game.
+- **Middle rings.** Commercial and desperate. Technically excellent tattoo work on completely stupid subjects. District-commissioned murals — a cosmonaut, a hockey player, a girl with a birch — professionally painted and saying nothing. **The design must not sneer at these people**: they were given nothing, then given money, and the men selling to them know exactly what they are doing.
+- **Fourth ring.** Almost no "art" and a great deal of *making*: embroidery repeated for forty years and correct in a way its maker would be embarrassed to have described, things built in garages, the same window-frames repainted every spring in a colour nobody else uses. **None of it is for sale, and that is the entire difference.**
+- **Past the tram stop.** Carved window surrounds made by somebody's great-grandfather in a tradition with rules learned in order. Textiles whose patterns mean something the maker can explain.
+- **The settlements.** Icons: made to a canon, by somebody who fasted first, under rules so strict that individual expression is nearly impossible — and the least self-satisfied objects in the game. **Constraint produced humility; freedom produced poshlost.** The game states this nowhere and demonstrates it everywhere.
+
+**A player can read the city's corruption off its walls** exactly as they can off its music, and the two systems should agree at every location. Where they disagree, that location is worth investigating.
+
+**POETRY, AND WHY IT MATTERS MECHANICALLY**
+
+This country treats a poet as a witness rather than as a person with an unusual job, and the design uses two historical facts as load-bearing texture:
+
+- **A great poem of the last century could not be written down, so it was not.** Composed in fragments in the author's head, each given to a friend who memorised it, the paper burned — so that for years the only copy existed across a dozen memories, none of which could be arrested simultaneously. **This is the model for how anything true circulates in Zev**, and it is the same architecture as the kvartirniki and the *progon*.
+- **Another poet recited sixteen lines about the head of state to a handful of trusted friends in a room, and somebody in that room repeated them, and he died in a transit camp.** This is the historical origin of the world's central rule — *the offence is never knowing, it is transmission, and transmission is deduced the moment a second person turns out to hold what only one man could have given them.* The narrator explicitly notes he learned it from a book rather than from watching the city.
+
+**In play:** there is no publishing in Zev. Poems circulate spoken, in covered kitchens, on paper that is not kept. Most of it is a young person's rage in a form they have not learned to use. Four or five pieces in the whole game are genuinely extraordinary, exist in no recording, and **will be lost when the people in that room die** — and the game does not let the player preserve them.
 
 **THE PODPOLYE: THE COMBAT SANDBOX WITH NO LEDGER**
 
@@ -1009,6 +1115,96 @@ Design consequences:
 - **The postcard season is a legitimacy operation, not a harvest.** The city spends real money being photographed being lovely. The freight arrives separately, by lorry, at night, from people no government will report missing — and it never, ever comes off the tourist flight.
 - **The seam is the horror.** A resident and a visitor stand on the same boulevard in the same sunlight in two different cities, and there is no seam between them, because nothing is being hidden — only not mentioned, by eight hundred thousand people, continuously, for thirty years.
 
+**RENDERING: STYLIZED REALISM, AND THE RULE THAT GOVERNS THE CARICATURE**
+
+The game is not photoreal and is not cartoon, and the space between those has a name and a well-understood pipeline.
+
+**The style is *stylized realism*, not semi-realism.** The distinction is precise and worth holding: semi-realism *softens* reality — it keeps real proportions and just relaxes the detail. Stylized realism **actively redesigns** it: hands larger than they should be, facial planes sharpened, hair simplified into masses, clothing shapes exaggerated — while the underlying construction stays anatomically believable and the materials still behave like materials. Realistic silhouettes with sculpted, controlled surfacing.
+
+**Technically: stylized PBR.** Physically based materials and lighting under the hood, with the fine detail trimmed — edges softened, roughness and albedo ranges narrowed — so the whole image resolves into something illustrative rather than photographic. Light behaves correctly. Surfaces do not fight for attention. There are no outline shaders and no toon ramps.
+
+**What it explicitly is not:** *Borderlands*. Cel-shading, ink outlines and flat toon ramps are a different substyle entirely and would destroy this project — they read as comedy before a single line is spoken, and this game's humour depends on the surface being straight. The nearest technical relatives are the Arkane titles — *Dishonored*, *Prey*, *Deathloop* — where the world is lit and materialled realistically and the *people* are sculpted.
+
+**And the production argument, which is real:** stylized work sidesteps the ageing curve. A photoreal game competes with rendering technology and loses within a console generation. A game with a coherent designed look is still legible in fifteen years, and for a project of this ambition and this budget that is not a preference, it is a survival strategy.
+
+**THE CARICATURE'S PURPOSE, WHICH IS THE PART THAT MATTERS**
+
+The reference for *technique* is Arkane. The reference for *intent* is somewhere else entirely, and it is the more important one.
+
+**Weimar-era New Objectivity — Grosz, Dix.** Painters working with real academic skill who used it to render a corrupt, unequal, morally exhausted society with deliberate, savage exaggeration: swollen profiteers, cadaverous veterans, faces built out of appetite and damage. Realistic craft aimed at social truth rather than at likeness. That is exactly what this game's art direction is for, and it aligns the visual style with the satire rules already established, because those painters aimed at exactly the same targets — the men at the top.
+
+**And that gives the art direction its governing rule, which is the design's own ethics applied to the rendering:**
+
+> **Caricature scales with power.**
+
+- **The men at the top carry the most exaggeration.** Kings, the ministry, the preacher on the second ring, the delegations, the visiting elites. Sculpted heavier — appetite, softness, the specific physical vocabulary of people who have not carried anything in thirty years. This is where the style is allowed to be cruel, because this is where the satire is aimed.
+- **Ordinary people are rendered with restraint and dignity.** The tram driver, the welder, the nurse, the priest with the leaking roof, the pensioner on the bench. Stylised, yes — the whole world is — but *never* mocked by the geometry. No comic ugliness on anybody the city is grinding.
+- **And the two characters most likely to be got wrong are named:** the Boar is not caricatured for disgust — his face is a documented injury and reconstruction, sculpted with the same seriousness as any other injury in the game, and the most monstrous-looking man in Zev is the one who never lies. Grosh is not a horror clown; he is a trained performer in a melancholic tradition and his design should make the player like him before it makes them anything else.
+
+**Faces read as types without becoming types.** The exaggeration should let a player identify a house soldier, a clerk, a *kladman* or a foreman's man from thirty metres by silhouette and bearing alone — which the no-HUD design needs, since there are no markers and no nameplates. But every one of those types must contain individuals who contradict it, or the shorthand becomes the thing this document has spent a whole section forbidding.
+
+**Consistency across the three registers of grey.** Institutional, residential and subterranean each get the same treatment at different values: the towers cold and clean and hard-edged, the blocks worn and warm-ish and tired, the tunnels wet and black and lit only by what somebody carried in. The spring window is the fourth register and is where the style is allowed, once a year, to be beautiful.
+
+**SPLIT TREATMENT: DIFFERENT ARTISTIC LOGIC FOR PEOPLE AND FOR PLACES**
+
+The question of whether characters and environments can be authored to different artistic philosophies is a real one and the answer is **yes, with one hard constraint that cannot be negotiated.**
+
+**You may vary the authoring. You may not vary the physics.** One lighting model, one material response, one atmospheric system, applied to everything in the frame. The moment characters and environments are lit or shaded by different rules, characters read as *pasted on*, and no amount of art talent recovers it. So: **unified PBR pipeline underneath, three different authoring philosophies on top** — different sculpting, different texture logic, different compositional priorities, identical light.
+
+Within that constraint the split is not a gimmick. It is how the game says different kinds of things with different surfaces.
+
+---
+
+**PEOPLE — Weimar New Objectivity (Grosz, Dix).** Already established above. Social caricature scaled to power, realistic construction, cruelty reserved for the top.
+
+---
+
+**NATURE — Levitan, and Shishkin underneath him.**
+
+Isaac Levitan invented, and the Russian language has a name for, exactly the thing this brief is asking for: **пейзаж настроения — the "landscape of mood"**, in which the shape and condition of nature are spiritualised and become *carriers of states of the human soul*. That is not a metaphor a critic applied afterwards; it is the working method. A road, a lake, a birch stand and a sky are composed to hold an emotional argument, and the argument is legible without a figure in the frame.
+
+His practice supplies three things this game needs:
+
+- **Emptiness as content.** His landscapes are largely devoid of human presence and are not empty of meaning because of it. The Wood, the Fringe and the steppe should be composed the same way — the player alone in a frame that is *about* something.
+- **The gloomy trilogy as a direct model.** *Vladimirka* (1892) depicts the dirt road running east out of Moscow along which convicts walked to Siberia. He painted it exactly as he found it: empty, desolate, under cloud, with the horizon dividing the canvas and one small distant figure to establish the scale of the loneliness. Critics have called it soul-searing, poignant hopelessness. **That painting is the road Dragomir was driven down**, and the opening sequence should be composed against it deliberately.
+- **Ivan Shishkin for the interior of the forest** — density, botanical specificity, the sheer accumulated detail of pine and birch that makes a wood feel like a real place rather than a set of trees. Levitan gives the Wood its emotion; Shishkin gives it its *substance*.
+
+The spring window is where Levitan's brighter register is permitted — *Golden Autumn*, *March* — and it should feel, for nine or ten days, like the game has changed painters.
+
+---
+
+**THE RESIDENTIAL CITY AND ALL INTERIORS — Ilya Kabakov.**
+
+Kabakov spent a career making art out of exactly the space this game is set in: the Soviet communal apartment, and the accumulated material life of ordinary people inside a system. His **"total installations"** are fully immersive constructed environments — objects, lighting and text choreographed so that a room delivers a narrative about an occupant who is not present.
+
+That is the method for every interior in this game, and it is the answer to *how does a building tell its story*.
+
+- **Rooms are authored as characters.** The occupant is absent; the room is the portrait. What is on the walls, what has been repaired badly and repeatedly, what has been kept that should have been thrown out, what is missing from where something obviously used to be. The player reads a life without meeting anybody.
+- **His central subject is the exact mechanism this world runs on.** Kabakov described the communal apartment as the place where *the individual is exhibited and exposed to the gaze of others* — which is the Eye's second layer, stated by an artist forty years early, and it should govern how residential space is laid out: shared corridors, thin doors, kitchens with four of everything, sightlines from every window into every other window.
+- **And his register is precisely the one this document's satire rules demand.** His work sits in a deliberate grey area between genuine affection for that way of life and biting satire of it, and it never resolves which. That is the tone.
+- **Kabakov's own metaphor is almost too apt to use and I am going to use it anyway:** he described the Soviet Union as a giant communal apartment *where life is impossible, but where it is equally impossible to live outside, because leaving is forbidden.* That is Zev in one sentence, written by somebody who had never heard of it.
+
+---
+
+**THE INSTITUTIONAL AND BROCHURE LAYERS — Erik Bulatov and dead Socialist Realism.**
+
+Two related treatments for the state's own surfaces.
+
+- **Bulatov's Sots Art for the propaganda layer.** His method was to paint official slogans directly across luminous, serene, genuinely beautiful skies and landscapes — *Glory to the CPSU* over blue and white cloud. The collision is the work: the language of power laid over open space, neither cancelling the other. **That is the game's brochure layer** — the municipal banners about opportunity and safety, the tourist signage, the investment hoardings, the public-information campaign about civic responsibility, placed with total sincerity in front of the things they contradict. Never framed for irony by the camera. Just there, beautifully lettered, in good light.
+- **Socialist Realism as a ruin of a promise.** The plants, the ministries, the old palace of culture, the metro vestibules that were finished before the money stopped: monumental, heroic, mosaics of workers and harvests and rockets, built to say something specific about the future. All of it still standing, all of it still saying it, to nobody, in a city that settled the question. **Nothing is defaced or vandalised** — that would be too easy, and Zev maintains its property. It is simply *maintained and meaningless*, which is worse.
+
+---
+
+**THE METHOD: EVERY BUILDING ANSWERS THREE QUESTIONS**
+
+A building cannot speak, so the environment art asks the same three questions of every structure in the game and makes all three answers visible simultaneously.
+
+1. **What was it built to promise?** The panel block promised equality. The palace of culture promised a cultivated proletariat. The hospital promised care. The church promised salvation. The park promised rest for the working masses. Every building in this city was built by people who meant something by it, and the original intention must be legible in the architecture and the ornament.
+2. **What happened to that promise?** The block still houses eight hundred thousand people identically and the equality it meant is gone. The mosaic is intact and the future it depicts did not occur. This is read through maintenance history rather than damage: what was repaired, when, how well, with what money, and what was quietly stopped being repaired.
+3. **Who uses it now, and for what?** The retail bank on the ground floor and the counting rooms three levels down. The parish that is a business. The park that is genuinely joyful and is also a handover ground. The layer of present use is almost always *lighter-touch and cheaper* than the original construction, and the contrast between the two is where the storytelling lives.
+
+**And the rule that keeps this from becoming set-dressing: no building in Zev is a ruin.** Everything works, everything is heated, everything is swept, everything is repainted on a schedule. The horror is maintenance, not decay. A city that let its buildings rot would be a city that had given up, and this one has not given up on anything except the reason it was built.
+
 **THE GREY: ART DIRECTION AS A PSYCHOLOGICAL SYSTEM**
 
 The title of the setting is not a description of the weather. *Grey* is the state the city produces in people, and the art direction, audio and systems exist to reproduce it in the player rather than to depict it.
@@ -1041,7 +1237,7 @@ Systemically this means:
 - **Medical care is available, competent and cheap, and the player will use it.** Getting patched up is routine and unremarkable. There is no scarcity-of-healing tension; the tension is elsewhere.
 - **Everything the city provides is downstream.** World-class trauma surgery for trauma the city manufactures. A genuinely effective addiction clinic in the city that produces the narcotics. Excellent psychiatry that cannot work, because you cannot treat post-traumatic stress while the trauma is ongoing — treatment protocols require safety first, and the "after" never arrives here.
 - **Nobody in the game comments on this.** The doctors are sincere, competent and helpful. The irony is entirely structural and must be left for the player to assemble. A character who explains it out loud kills it.
-- **Environment art should read as maintained, not decayed.** Grey and uniform and oppressive, yes — but painted, lit, functional, swept. The horror is that it all works.
+- **Environment art reads as maintained, not decayed** — the rule is set out in full under the art direction above, and it follows from the economics: this city repairs things because a working asset earns and a ruin does not.
 
 **CONTENT, AUDIENCE AND CLASSIFICATION**
 
@@ -2052,7 +2248,7 @@ The temptation is to say the country parishes resisted better. That the monks we
 
 The truth is the same truth as everything else in this letter, and I am sorry about it. **The state's attention follows value, and so does the predator's.** A parish in the centre had money moving through it, property, a position, a congregation with something to give — so it was worth taking, and it was taken. A parish on the fourth ring had a leaking roof and a hundred pensioners, and nobody bothered, because there was nothing there to extract. A monastery in the forest has less than nothing; it has debts and a vegetable garden.
 
-**The church out there was not defended. It was ignored.** Its purity is a side effect of being worthless, exactly like the freedom of the farms and exactly like the freedom of the men under the floor. In this city those three things are the same thing wearing different clothes, and I have now written that sentence three times in three different contexts and I stand by all of them.
+**The church out there was not defended. It was ignored.** Its purity is a side effect of being worthless, exactly like the freedom of the farms and exactly like the freedom of the men under the floor. In this city those three things are the same thing wearing different clothes, and I have written that sentence more times in this letter than I intended to, in contexts that have nothing to do with each other, and I have stopped apologising for it because the city keeps handing it back to me.
 
 And be clear about what *ignored* means, because I have already told you those settlements have graves in them from the nineties. They were not left in peace. They were raided, repeatedly, by starving men with nothing — which is why the brothers carry now, and why it costs them what it costs them. What never happened to them is the *other* thing, the thing that happened to every parish in the middle of this city: nobody ever arrived with a clean shirt and a plan to run the place. Robbery they have survived for thirty years. It is capture they were spared, and they were spared it because there was no revenue in them, and that is the whole difference between a monastery in the forest and a cathedral on the second ring.
 
@@ -2447,6 +2643,82 @@ There was an assessment. The crew paid it. It was not large, and I am told, by s
 Not against the man. Against the *hours.*
 
 That is the whole of it, and it is why I have put this beside the bank instead of anywhere else in this letter. At the top of this city there is a man who will tell you exactly what a human life is worth and show you the arithmetic. At the bottom of it there is a clown in a service yard behind a rollercoaster, and the arithmetic reached him too, and it came out at the cost of a few hours of a Ferris wheel.
+
+**Three more, briefly, because between them they cover the rest of the range.**
+
+**The Little Jackets.**
+
+That is my name for them and nobody else's; they have never called themselves anything, which is part of the point. They are on the northern rings, they are between fifteen and twenty-two, and there are somewhere between forty and a hundred of them depending on the month and the weather.
+
+They dress identically and deliberately: the same dark hooded jacket, hoods up in all seasons, faces covered from the bridge of the nose down. They did not arrive at that by fashion. They arrived at it by working out — correctly, and faster than most adults in this city — that the machine on the corners identifies people by the geometry of a face, and that if you remove the face there is nothing to compare against anything. And they were right. The Eye cannot name them. It has never named one of them.
+
+**And it has never had to, because the second layer takes about four minutes.**
+
+I have told you that everything which defeats the lens makes you unmistakable to people. The Little Jackets are the proof of it, in its purest and most idiotic form. A group of masked young men in identical coats moving up a street at nine in the evening is the single most conspicuous object in any district in this city. Every window sees them. The woman on the corner sees them. The *dvornik* sees them and knows which stairwell three of them live in, because he has known their mothers for twenty years, and the machine's inability to identify them is completely irrelevant to a man who watched them grow up.
+
+So they are caught constantly. The police pick them up in batches, the district officers know every one of them by their walk, and the whole enterprise never becomes anything. They snatch bags, break windows, take a phone, put a brick through a bus shelter, beat somebody occasionally and badly. It is not organised crime. It is *noise*.
+
+I have a certain amount of sympathy and I am aware that this is unfashionable. They are children from the fourth ring in a city that has told them precisely what they are worth and given them a birthday to look forward to when the houses can finally speak to them. The masks are the only power they have and it is not power at all, and I think somewhere underneath they know it, which is why they are so loud.
+
+The houses watch them. Of course they do. That is what a mob of angry unemployed teenagers is *for*, from a certain point of view, and the ones who are any good are picked out and offered something before they are twenty. The rest do it until it stops being interesting, and then get a job, and see the current lot on the same corner ten years later and cross the road.
+
+**The Underground Rats.**
+
+Also my name, and this one I am less comfortable with, and I have kept it because it is what the city says and I have promised to report rather than improve.
+
+In the south, past the industrial belt, is the waste ground: the sorting yards, the recycling plant, the transfer station and the tip. And underneath the whole of that quarter is the old storm system, which is Victorian in its ambitions and enormous, and which connects to the dead metro somewhere that nobody has mapped.
+
+There are people living in it. Not a gang in the sense I have used the word anywhere else in this letter — there is no *pakhan*, no structure, no code, no business. It is a population, of perhaps two or three hundred, and every one of them is somebody this city finished with: men who came out of the works with lungs that no longer function, people the hospital could not keep, the ones who were released from that place I described out past the northern plants, and the freight who got loose years ago and had nowhere at all to go and could never be registered.
+
+**They live on rubbish, and rubbish is genuinely a fortune.** That is not a bleak flourish, it is the economics of the thing: a city this size throws away metal, cable, working electronics, clothing, medicine still in date, and food from restaurants that would feed a family. The tip is the richest unguarded ground in Zev. Whole lives are made down there out of what the second ring puts in a bin.
+
+And yes — before you ask it, because anybody who has read what I wrote about the Podpolye will — that system touches the dead metro, and the people drinking under the floor and the people living in the storm drains are separated by perhaps four hundred metres of dark.
+
+They do not mix, and there is a line, and the line is not marked and everybody on both sides knows exactly where it is. The Podpolye people leave things at it sometimes — food that would otherwise be thrown out, a coat, an old generator that still runs — and the things are gone in the morning and nothing is ever said about it by anyone. There has never been an arrangement. Nobody negotiated. It simply settled that way about fifteen years ago and has held since, and it is the most decent thing that happens underneath this city, and both sides would deny it.
+
+They come out at night and go back before light, and they are, if you meet them badly, extremely dangerous.
+
+And I want to be exact about *why*, because it is not what people expect.
+
+They are not strong. Most of them are ill and many of them are old before their time. Individually a man in reasonable health would not fear one. What they have instead is numbers in a dark place and a habit I first heard about fifteen years ago and did not believe until a doctor confirmed it to me: they keep their blades dirty on purpose. Bedded in the filth of that system, and never cleaned, and the wound is not the point.
+
+The point is what is in the wound afterwards.
+
+In a city with the second-best hospital in the country that would be a manageable problem. Go in, get it cleaned, get the antibiotics, be uncomfortable for a fortnight.
+
+**Unless you cannot go to a hospital.** And there are a great many people in this city who cannot, for reasons I have set out at length, and the Rats know exactly who those people are, because they are those people. A cut from one of them is not a wound. It is a *decision* you now have to make, in three days, about whether being alive is worth being filed.
+
+Nobody goes after them. That is the whole of their protection and it is sufficient. To reach them you would have to go down into that system at night — flooded in places, gas in others, unmapped, with two hundred people in it who know every turn and you do not — and there is nothing down there worth the price of finding out. So they are left alone entirely, and they persist, and every year there are more of them, because this city produces them faster than the tunnels do.
+
+**And the village.**
+
+Now the one I cannot tell you about properly, and I want to be clear that the reason is that I do not know.
+
+Somewhere out past the farms, in the country to the south-west where the roads stop being surfaced, there is a settlement. It has a name and I am not going to write it. Perhaps sixty or eighty people. They have been there since some point in the nineties and they came from elsewhere.
+
+What is on the record, in the ordinary municipal way, is this: over about eighteen years there have been eleven reports of persons last seen in that district who were not seen again, which is a great many for a place with eighty inhabitants and almost no traffic. There are two accounts, both secondhand, both from people who did not want to be asked twice, describing things done at night that they did not have language for and that I am not going to reproduce out of a suspicion that the language would improve them.
+
+And there is one hard fact. Some years ago the police went out there — properly, four officers, in daylight, on a routine welfare enquiry about one of the eleven.
+
+They did not come back. Not one of them.
+
+There was a second visit. That one came back, and reported that there was nothing to report, and the officers who went on it have all since transferred out of the region, and the file is closed.
+
+**And nothing further has ever been done, and here is the part that matters and that I want you to sit with.**
+
+It is not that the state is frightened of them. The state is not frightened of anything within four hundred kilometres and could remove that settlement in an afternoon without writing anything down.
+
+It is that the settlement is worth *nothing*. There is no revenue out there, no route, no product, no ground anybody wants. The arithmetic upstairs came out at a figure smaller than the cost of the fuel, and so nothing happened, and nothing will.
+
+I have written that same sentence about the farms, and about the forest monasteries, and about the men under the floor, and every time it came out as a kind of freedom. This is the same rule producing the opposite result. The machine's indifference is what keeps the monks poor and unmolested, and it is also what has kept whatever is out there fed and unexamined for twenty years.
+
+The rule does not have a preference. It only has a threshold.
+
+**And I will say the last thing plainly.** I spent a section of this letter telling you that the lurid version of these things is almost always false, that the frightening groups are the respectable ones, and that when people go looking for devils in cellars they generally ruin somebody innocent. I meant it and I would write it again.
+
+I have also never been out to that village, and I know a man who was asked to drive somebody there and refused, and he is not a coward.
+
+Those two facts sit next to each other in me and I have not reconciled them, and I am not going to pretend to for the sake of a tidy letter.
 
 **The room where it is written down.**
 
@@ -2884,7 +3156,7 @@ That is what the city takes from a culture, as opposed to what it takes from a m
 
 I have told you what the city does to the body and to the ledger. Let me tell you what it does to the ear, because there is one thing here the foreman never managed to fully confiscate, and it is the only thing in this letter I will speak of with something like tenderness.
 
-The city has a sound. You would know it in three notes.
+The city has a sound. You would know it in three notes — and I should say at the outset that it is not the only thing anybody here listens to, and I will give you the whole map later. But if you asked a hundred people in this city to name the sound of the place they live in, you would get this one, and the ones who named something else would know exactly what you had meant.
 
 It is cold and it is slow and it is played on cheap machines — a drum-box ticking like a bad heart, a bass line walking nowhere in particular, a guitar thin and bright and sad laid over synthesizers that sound like frost forming on a window, and above it all a voice, always a low voice, a flat voice, a voice that has stopped expecting to be answered. It does not rage. Rage is for people who still believe something can change. This music has gone past rage into the grey country on the other side of it, the country where you simply describe what is, in a monotone, because describing it is the only power you have left. We have had this sound for forty years. It came up in the last dead decades of the old empire, when the young understood before their parents did that the future they had been promised was never going to arrive, and it never left, because the future never did arrive, it only changed uniforms.
 
@@ -2938,7 +3210,255 @@ Do not romanticize it too far, though — I have warned you about comfortable st
 
 ---
 
-## PART SIXTEEN — THE PODPOLYE
+## PART SIXTEEN — WHAT PEOPLE PLAY
+
+I have told you about the cold slow music this city makes about itself, and about the covered kitchens where it is played. That was one room. Now let me open the door and let you hear the rest of the building, because I have spent fifty years listening to what comes out of other people's windows and it is the single richest thing about this place.
+
+I am going to say something that will sound absurd after everything else in this letter.
+
+**The musical culture of Zev is extraordinary.** Not in spite of what the city is — I am not going to make that argument, it is sentimental and it is false. Because of what the city is. This place gathered eighty nationalities into one grey basin and gave them all money and nothing to spend it on but appetite, and the result is that on any given Friday you can hear, within four tram stops, things that do not occur together anywhere else on the continent.
+
+**But it is not distributed evenly, and the way it is distributed is the most damning map of this city I know how to draw.**
+
+---
+
+### The generations, first, because they do not listen to the same city
+
+**The old play chanson.**
+
+You will hear it everywhere the old are: in taxis, in kiosks, in the workshops, out of a kitchen window on the third ring at eleven in the morning. Guitar or accordion, a plain melody, a gravelled voice, and a story — always a story, that is the whole architecture of it. A man in a prison. A man remembering a woman. A man who did something and is explaining himself to nobody in particular.
+
+It comes out of convict folklore and nineteenth-century urban ballads, it was passed hand to hand on tape when it could not be sold, and it was rebranded in the nineties with a French word because *criminals' songs* was not a marketable category. Almost none of the men who sing it have ever been inside anything. That is not a criticism; the greatest of them wrote a prison ballad that half this country can sing and never served a day, and was shot dead outside his own house.
+
+**And here is what happened to it everywhere else, and did not happen here.**
+
+Out in the ordinary country, chanson softened. When the nineties ended and the gangs stopped running everything, songs glorifying bandits stopped being interesting, and the genre drifted toward sentimental ballads about mothers and autumn and lost love, which is what it mostly is now: a hybrid, retro, harmless, played at weddings.
+
+In Zev the nineties never ended. So it never softened.
+
+What you hear out of those windows here is the hard old version, unreconstructed, still about the thing it was always about — and it is sung by men in their sixties, in a city where every word of it is *currently true*, and they sing along in the front of taxis without any apparent sense that they are describing the street outside the windscreen.
+
+**The young play rap, and they play nothing else.**
+
+That is not an exaggeration by much. Hip-hop has been the dominant force among the young in this country for fifteen years and in Zev the domination is total: local, Moscow, Kazakh, American, and a specifically northern strain that is slow and cold and buried in bass. If you are under twenty-five here, this is your music and everything else is your parents'.
+
+The two do not meet. A man of sixty and his grandson can share a flat for twenty years and have precisely no overlapping repertoire, and I find that stranger than most of the horrors in this letter.
+
+And there is a third generation between them — mine, and the one after mine — that got the rock. The bands out of the last Soviet decade and the first free one, the ones with a fanatical hold on anybody who was twenty when the country came apart. Their names are on the walls here still. The young think of it the way the young always do.
+
+---
+
+### The map, which is the part I want you to hold
+
+Here is what fifty years of listening at windows has taught me, and I have never heard anybody else say it out loud.
+
+**The music in this city gets dirtier the closer you get to the middle, and it is not a metaphor.**
+
+Stand in the second ring, near the towers, in a bar that costs money. What is playing is aggressive and it is expensive and it is about *appetite* — money, women as property, cars, drugs described admiringly and in detail, and violence as a punchline. The production is superb. The melody is a loop that exists to be loud. The lyrics have the vocabulary of about four hundred words and three of them are the point. It is not stupid music; the men making it are extremely good at what they are doing, and what they are doing is selling a very specific fantasy back to people who are living a worse version of it.
+
+Move outward. The third and fourth rings: rap still, but it goes *dark* rather than boastful. Depression, exhaustion, the flat, the dead-end, the winter. The doomer sound I described to you belongs to this ring. It is more honest and it is worse for you, and it is the sound of people who have stopped pretending they are winning and have not found anything to replace the pretence with.
+
+Keep going. Out past the last tram stop the songs change register entirely and it takes a while to notice why. There is folk out there — actual village material, sung badly and with total conviction at a table, songs about harvest and weather and a girl and a death, and none of it is *about* anything the way the city's music is about something. Nobody is selling. Nobody is performing appetite. And the melodies are, I am sorry to report, better. Much better. They have had four hundred years of editing.
+
+And out at the very edge, in the settlements around the monasteries, there is the singing in the churches, which is the oldest sound in this region and the only one with no instrument in it at all — men's voices in a cold building, unaccompanied, in a form that has barely changed since before this country had a name.
+
+**So: obscenity at the centre, exhaustion in the middle, and beauty at the edges, and the gradient is smooth, and it maps exactly onto the money.**
+
+Which is the joke, and I did not build it, I only noticed it. The music is corrupt in precisely the proportion that everything else here is corrupt, and for the same reason — where there is money to be made from a song, the song is made for money, and where there is no money at all, people sing what they actually like.
+
+**And there are exceptions inside the city, and they matter more than the rule.**
+
+There are pockets in here where something beautiful is still played, and every single one is a place the arrangement has not fully reached. The covered kitchens on the fourth ring. A particular church on the third that has a real choir and a priest with a leaking roof. A café near the technical institute where somebody has an old piano and students come and play it badly and nobody charges anybody. The park, oddly — the wheel plays something ancient and tinny and cheerful all day and it is the least cynical sound in Zev.
+
+You can locate the uncorrupted parts of this city with your ears. I have tested it. Walk until the music stops being about appetite and start looking around: that is where whatever is left is.
+
+---
+
+### What arrived with the houses, and what it did to me
+
+Now the part I actually wanted to write.
+
+When the foreigners came they brought their music, and I want to be honest that I was contemptuous about it for about six years. I was in my forties and I had my rock and I had the language of my own country and I thought I understood everything worth understanding.
+
+Then I started working in their rooms, and you cannot sit in a man's office for four hours a week for a decade without hearing what he puts on when he thinks the meeting is over.
+
+**The ballads from across the Atlantic** were the first that got through, and they got through by ambush. Accordion, brass, a voice with no self-pity in it whatsoever, and lyrics that are pure narrative journalism about men who are alive and armed and named. I asked what one was about and was told, and understood that I had just been played the equivalent of our chanson by people who had arrived at exactly the same solution on a different continent without ever hearing ours. I went and read about the form afterwards. It has rules. It has a metre. It is four hundred years old and it was originally about revolutions.
+
+**The Neapolitan material** took longer and hurt more. It sounds, to an ear like mine, like something soft playing in a restaurant. It is not. It is a whole industry of melodrama with an unmistakable relationship to certain families, sung in a dialect the men from that house use precisely because most Italians cannot follow it either, and the songs are frequently about a man in prison writing to his mother. Our chanson has been doing that since the twenties. I sat with that overlap for a long time.
+
+**The Balkan music** was the one I could not get past at first — accordion and a synthesiser and a drum machine at a volume designed to prevent thought, ecstatic and cheap and completely irresistible in a room after midnight — and I later learned it had grown up in a war, alongside the men who profited from that war, which explained everything about why it sounds the way it does.
+
+**The music from the far East** is the opposite of all of it and the one I have come to like most in old age. Slow, restrained, formally strict, and about longing and endurance and the sea. The men from that house play it in their offices at a volume that would not disturb a cat. Nothing about it is trying to overwhelm you. It is grief with the manners left on.
+
+**And the fastest, angriest thing in this city comes from the other side of the Atlantic too** — the rhythms the brotherhood from the prisons brought, which their young men play out of car windows and which have colonised the fourth ring so completely that half the local boys who make music now are working in a form invented six thousand kilometres away by people they will never meet.
+
+I studied all of it. That is what I do; I have told you about the room under the bar. I read the histories, I learned where the forms came from and what they were for, and I can now tell you which of them is a war song wearing a love song's clothes, which is a prison letter, and which is somebody's grandmother's harvest tune with a drum machine on it.
+
+**It has been, without any competition, the great pleasure of my life.**
+
+I want that in this document somewhere. I have written you a hundred pages about a slaughterhouse and I have been honest throughout, and it would be equally dishonest to leave out that this city has given me something that no ordinary life in an ordinary town would ever have given me. I know eight musical traditions. I know them *properly*, from the inside, from sitting in rooms with the people who grew up in them. That happened because criminals from eight countries were licensed to occupy a basin in the Urals, and there is no version of the story where I got the one without the other, and I have long since stopped pretending there is.
+
+---
+
+### And why I am still here
+
+I said at the start of this letter that I would be honest and I have been, mostly, and this is the last piece of it.
+
+You have read about a man who never married, kept a hundred friendships at arm's length, learned everything and did nothing, and ended up with an empty flat and a room of books. It is a reasonable question what has kept that man getting up.
+
+It is this. It has been this the whole time.
+
+Not as consolation — I am not going to tell you that a song makes any of it acceptable, because it does not and I have watched what happens to people who believe it does. Something narrower and more useful than that.
+
+When I have come home from a room where I have said a sentence in a second language that I knew would end somebody — and there have been more of those than I have admitted here — I have not been able to sit in silence, because silence lets you go back over the afternoon. So I put something on. And whatever it was, it was made by somebody who was also up against it and who chose, instead of doing nothing, to make forty bars of something and put it into the world where I could find it fifty years later in a cellar in a city they never heard of.
+
+That is all it is. It is proof that somebody else was here, and did not stop, and left something behind that is still working.
+
+I have needed that on a great many evenings and I have always found it, and I am aware that this is a very small thing to have built a life on.
+
+It has been enough. It has actually been enough, which surprises me more than it will surprise you.
+
+---
+
+## PART SEVENTEEN — POSHLOST
+
+I gave you the map of the music, and before that I gave you the map of the churches, and I did not notice until I sat down to write this part that I had drawn the same map twice.
+
+So let me draw it a third time, deliberately, and then say what it means — because three unrelated things in one city do not arrive at an identical shape by coincidence, and I have been slow.
+
+For the art there is a better word than any I could invent, because my language already has one, and it is untranslatable, and it is the most useful word in this letter.
+
+**Poshlost.**
+
+There is no English for it and the attempts are all wrong. It is not vulgarity — a vulgar man is at least sincere, and there is nothing wrong with a plain person with plain taste, and the naive painter who has never seen a gallery is not guilty of it. Poshlost is something else and worse. It is **the falsely important, the falsely beautiful, the falsely clever, the falsely attractive.** It is the pretence of elevated taste by somebody with no independent aesthetic feeling of their own — imitation performed by a man who cannot tell what he is imitating and is enormously pleased with the result.
+
+Our writers have been circling it for two hundred years. One of them called it *self-satisfied inferiority, moral and spiritual*, which is exact. Another said that when you call a thing poshlost you are passing a moral judgement and not only an aesthetic one, and that nothing true or honest or genuinely beautiful can ever be described by the word.
+
+And the definition I keep coming back to, because it is the ideology of the second ring stated as a sentence: **poshlost is the belief that the summit of human happiness is purchasable, and that purchasing it somehow ennobles the purchaser.**
+
+That is not a description of bad art. That is a description of this city's centre, written by a man who died before it existed.
+
+---
+
+### The gradient again, in paint and print this time
+
+**At the middle it is total.**
+
+Go into the lobby of a tower. There will be art in it and money was spent. Enormous canvases in the corporate manner — abstraction that means nothing and was chosen to mean nothing, because a thing that means something might offend a visitor. Bronze in the atriums. A sculpture outside one of them that cost more than the hospital's imaging equipment and that nobody in this city can describe from memory, including the men who walk past it twice a day.
+
+Go into a king's flat, and it is worse, because there taste is being *performed*. Gold where gold has no business being. A copy of something famous, and the man will tell you it is a copy, and will tell you what the original sold for. Furniture that is expensive and hostile. A library with the spines uncracked, arranged by height.
+
+And on the walls of the good restaurants, the boulevards, the hoardings: the official aesthetic — enormous photographs of the city in spring, the linden in leaf, a smiling family, a slogan about opportunity in a typeface somebody was paid a great deal for. It is beautifully produced. It is technically flawless. It is the falsely beautiful, exactly, and everybody looks at it every day and nobody sees it.
+
+**In the middle rings it turns commercial and desperate.**
+
+Tattoo parlours doing work of genuine technical quality on subjects of complete stupidity. Enormous murals commissioned by the district administration, professionally painted, saying nothing — a cosmonaut, a hockey player, a girl with a birch. Photographs on the network of things people own. The whole visual economy of a place where a great many people have some money and no education in what to want, which is the most reliable machine for producing poshlost ever built.
+
+I want to be fair to those people and I have not always been. They are not stupid. They were simply never given anything, and then given money, and the men who sell to them know exactly what they are doing.
+
+**Outward, it goes quiet and gets better.**
+
+On the fourth ring there is almost nothing that would be called art by anybody with an opinion, and there is a great deal of *making*. A woman on my staircase has embroidered the same three patterns for forty years and they are correct in a way I cannot explain and she would be embarrassed to have described. Men build things in garages. Somebody has been repainting the same three window-frames on my courtyard every spring for a decade in a colour nobody else uses.
+
+None of it is for sale. That is the entire difference and it is the whole of my argument.
+
+**And past the last tram stop it is the old work.**
+
+Carved window surrounds on the village houses, which were made by somebody's great-grandfather and which are *good* — genuinely good, in a tradition with rules that were learned in an order. Textiles with patterns that mean something and that the woman making them can explain, if you ask properly and have an afternoon.
+
+And in the settlements, the icons.
+
+I am not a believer and I have told you so twice. I am also not going to pretend that what is in those rooms is the same category of object as the canvas in the tower lobby. It is not decoration. It was not made to be looked at by a man deciding whether to buy it. It was made according to a canon by somebody who fasted first, and the rules are so strict that individual expression is nearly impossible, and the result — I have no explanation for this and I have thought about it for thirty years — is the least self-satisfied art in this entire region.
+
+Constraint produced humility and freedom produced poshlost. I would like somebody to explain that to me before I die.
+
+**And now the thing the third map tells me, which the first two did not.**
+
+Churches, songs, pictures. Three trades with nothing whatever in common — different people, different centuries, different skills, no contact between them — and all three degrade along the identical line, at the identical rate, toward the identical centre.
+
+That cannot be about churches, or about songs, or about pictures. Three unconnected things do not develop the same disease independently. It has to be the *air*, and it took me until this page to say it in those terms.
+
+Here is what I think it is, and I will put it as plainly as I can.
+
+**Whenever something in this city can be sold, it is remade to sell, and remaking a thing to sell removes from it exactly the part that was worth having.**
+
+Not most of it. Not the visible part. The specific part — the reason somebody made it in the first place. A hymn sung for God and a hymn sung for a collection plate use the same notes and are not the same object. A song a man wrote because he could not sleep and a song written for the second ring have the same structure and are not the same object. An icon painted under a canon by a man who fasted and a canvas chosen by an interior consultant are both paint on a surface.
+
+And the removal is invisible from outside. That is the whole difficulty. You cannot photograph the difference. Both objects will pass an inspection. The corrupted one is frequently the more accomplished of the two, because money buys craft — the mural on the district wall is better *painted* than the window-frames on my courtyard, and the tower's abstraction cost more than every icon in every settlement out there put together.
+
+So poshlost is not bad work. Let me be finally precise, because I have taken two hundred years of other men's arguments to get here. **Poshlost is what a made thing becomes when the reason for making it has been replaced, and the replacement is money, and the object does not visibly change.**
+
+Which means the gradient I keep drawing is not really about art at all.
+
+It is a map of where the money reaches, drawn in the only ink this city cannot forge — because you can falsify a ledger, and you can falsify a crime statistic, and you can falsify a newspaper, and eight hundred thousand people can be persuaded to falsify their own faces.
+
+**Nobody has ever worked out how to falsify why a thing was made.** It sits there in the object, permanently, legible to anybody who slows down, and no amount of money has ever removed it or put it back.
+
+That is the only honest instrument I have ever found in Zev, and I have been using it for fifty years, and it has never once been wrong.
+
+---
+
+### And the poetry, which is the part I have to be careful about
+
+Because this country has a relationship with poetry that foreigners find incomprehensible, and it is the last thing here I still take seriously.
+
+Elsewhere a poet is a person with an unusual job. Here a poet is understood, by ordinary people who have never bought a book, to be something closer to a witness — the one who says the thing while it is happening so that it cannot afterwards be claimed it did not happen. Our poets have been killed for this with a regularity that suggests the state agrees with the assessment.
+
+There is a story every literate person in this country knows.
+
+During the worst of the last century a woman stood for months in a queue outside a prison with other women, all of them waiting for news of somebody inside. One day another woman in the queue recognised her, and leaned in, and asked — in a whisper, because that is how everything was asked then — whether she could *describe this*.
+
+And she said: **I can.**
+
+The poem she then wrote could not be written. So it was not written. She composed it in fragments in her head, gave each fragment to a friend who memorised it, and burned the paper, and for years the only copy of one of the century's great poems existed in the memory of perhaps a dozen people, none of whom could be arrested at the same time.
+
+And there is the other story, which is the one that concerns me personally.
+
+Another poet, a friend of hers, wrote sixteen lines about the man who ran the country. He never published them. He never wrote them down for circulation. He recited them **to a handful of trusted friends in a room**, which is the safest thing anybody could possibly do with such a thing.
+
+Somebody in that room repeated them.
+
+He was arrested, exiled, arrested again, and died in a transit camp on the way east.
+
+**I have already explained to you, at length, that the offence in a city like this is never knowing. It is transmission — and transmission is not caught, it is deduced, the moment a second person turns out to hold something that only one man could have given them.**
+
+That is not a rule I worked out from watching this city. That is the rule that killed a poet ninety years ago, and I read about it in a book in a cellar, and it is the reason I have spent fifty years not telling anybody anything.
+
+---
+
+### What that has become here
+
+The tradition did not die. It went where it always goes.
+
+There is no publishing in Zev worth the name — there is a house that produces municipal material and a man who prints menus. What there is instead is **the same thing as the music**: poems said aloud in a covered kitchen, passed hand to hand on paper that is not kept, and increasingly held in memory by people who never decided to become the kind of person who memorises things.
+
+It is not good, mostly. I want to be honest about that too. Most of what I have heard in those rooms is a young person's rage in a form they have not yet learned to use, and the ones who can actually do it are as rare here as anywhere.
+
+But four or five times in my life I have sat in a kitchen on the fourth ring with the window covered and heard somebody say something in eleven lines that I have not been able to put down since, and the person who said it will never be published anywhere, and there is no recording, and when the last of us who were in that room dies it will be gone completely.
+
+That is not a tragedy. That is simply the arrangement, and it is the arrangement those women in the prison queue were also under, and it worked for them.
+
+---
+
+### And now the thing I have been avoiding for this entire document
+
+I have spent a hundred pages describing a city, and I have organised it, and I have written some of it well.
+
+And a woman was once asked, in a queue, whether she could describe a thing, and she said she could, and then did it properly — in fragments, in her head, giving it away one piece at a time to people who could hold it, keeping nothing that could be found.
+
+I have done the opposite in every particular. I have written it all down, in one place, at enormous length, on paper, in a cellar with one door, and I have signed it with my name.
+
+I am not comparing myself to her and I would ask you not to either. She was a great poet and I am a translator with a bar.
+
+I am only noting that she solved the problem and I have not, and that the difference between us is not talent.
+
+It is that she still believed there would be somebody afterwards who needed to know, and arranged her whole method around getting it to them intact.
+
+And I have written mine down all at once because I am sixty-eight, and there is nobody after me, and I would rather it existed badly than not at all.
+
+---
+
+## PART EIGHTEEN — THE PODPOLYE
 
 I have told you about a covered kitchen with thirty people in it and a sad song. That is the small, quiet, sincere thing this city has left, and I gave it a whole section because I love it.
 
@@ -3050,7 +3570,7 @@ come back up.
 
 ---
 
-## PART SEVENTEEN — WHY IT IS CALLED THE GREY CITY
+## PART NINETEEN — WHY IT IS CALLED THE GREY CITY
 
 I have used the name in this letter perhaps a dozen times and I have let you assume you understood it. You have been picturing weather. Concrete, low cloud, a sky the colour of wet ash — and all of that is true and none of it is what the name means.
 
@@ -3196,7 +3716,7 @@ I have told you all of that in pieces across this letter. I wanted, once, to put
 
 ---
 
-## PART EIGHTEEN — THE WOOD
+## PART TWENTY — THE WOOD
 
 I have written you a great deal of unhappiness and I am nearly finished. Before the end I want to put down one morning, because it happened, and because a letter that contained only the machine would be a lie of a different kind.
 
@@ -3270,7 +3790,7 @@ But I go out there on the bad mornings, and I stand in the rain, and it helps.
 
 ---
 
-## PART NINETEEN — WHAT THE CITY TAKES
+## PART TWENTY-ONE — WHAT THE CITY TAKES
 
 Now I will tell you the truest thing, and it is the thing the postcards cannot photograph.
 
@@ -3292,7 +3812,7 @@ That is what the tourists photograph, in spring, when the light is soft. An empt
 
 ---
 
-## PART TWENTY — THE MAN IN THE BAR
+## PART TWENTY-TWO — THE MAN IN THE BAR
 
 I met one of them once. I want to tell you about him, because in one night he showed me the whole machine turning, and because I have not been able to stop thinking about him since.
 
@@ -3640,7 +4160,7 @@ Not even the ones who come to save someone.
 
 ---
 
-## PART TWENTY-ONE — THE MAN WRITING THIS
+## PART TWENTY-THREE — THE MAN WRITING THIS
 
 I told you at the beginning that I would not say whether I was one of the men who does the cutting or one of the cattle waiting to be cut, and I let you carry that all the way here. It is time I paid for it.
 
@@ -3802,7 +4322,7 @@ Now let me tell you where all of it stands.
 
 ---
 
-## PART TWENTY-TWO — THE BODY OF THE CITY
+## PART TWENTY-FOUR — THE BODY OF THE CITY
 
 I have told you what the city is. Let me now tell you where it stands, and what it is made of, because a horror with no body is only a story to frighten children, and this is no story. You will not find what I am describing on any map, though the map has a name for it and a dot in the right place. That is the worst part. Nothing here is hidden. It is standing in the open, in daylight, in front of everyone, under a name printed in an atlas, and it is invisible for the oldest reason there is: a thing is easiest to miss when it is exactly where it says it is.
 
@@ -3926,27 +4446,39 @@ The street is a crowd. The door is a question.
 
 Anybody who has understood that has understood how to live in Zev without papers, and a certain number of people do. Listeners in every wire, every phone, every line. The system knows who you called, where you slept, what you bought, which border of which district you crossed and when. And it *scores* you — quietly, constantly. Every soul in Zev carries a number they will never be shown, a reckoning of how useful they are and how much trouble, and that number decides things: which jobs open, which doors stay shut, whether the police who are someone's cousins look at you twice, whether you are worth keeping comfortable or worth selling down. Remember what I told you at the very start — that the city sorts us not into good and bad but into *useful* and *spent.* The number is how it does the sorting. It is the ledger of the first law, kept on every one of us at once, in the dark, forever. You never see the number. You only feel it, in the way the city warms or cools around you without a reason you can name.
 
-**And the thing that makes all of it work in practice: the card.**
+**And the thing that makes all of it work in practice, which is two separate things that outsiders always confuse.**
 
-Every registered person in this city carries one. Formally it is a residence and identity credential; nobody calls it that. Everybody calls it **the chip**, because of the small gold contact plate on the front, and because that is the part that matters.
+**The first is the enrolment, and everybody is in it.**
 
-It is not implanted in anybody. I mention that because outsiders always ask, and because the truth is more elegant and much cheaper than anything surgical. It is a card. You keep it in your coat like everybody keeps everything. And inside it there is a chip holding your registration, your enrolment, and the reference by which the Eye already knows your face, and every door in this city that matters has something on the wall to read it.
+Your face, from the moment you have one. Taken at birth in a hospital in this city, or taken at the intake if you arrived in a lorry, and held by the machine forever after. It is not a document and there is nothing to carry; it is simply the fact that the system has seen you and can recognise you again. Every soul in Zev is in the enrolment and nobody consented to it and nobody was asked.
 
-And it is not optional in the way documents are optional elsewhere. You do not merely present it when asked. **You cannot function without it.** No wages, because you are not employable without a registration. No bank. No rent. No legal telephone. No prescription, no clinic appointment, no school enrolment for a child. No ticket on anything that leaves. It is required to buy anything that must be recorded, and to enter any building the state considers its own — the ministries, the hospital, the terminals, the good hotels, the lobbies of the towers, the plants.
+That is what the readers on the doors are checking. Not a card — *you*, against a record. And the card, where there is one, is only the fastest way of telling the machine which record to compare you against.
 
-I want you to notice how ordinary that sounds. Half the countries on earth are drifting toward some version of it. Here it simply arrived early and arrived complete, and the population absorbed it in about four years, the way populations do.
+Which means the interesting event at a monitored door is not bad papers. It is **no record at all.**
 
-**And now consider what the reader on the wall actually does.**
+A forged document fails a lookup and produces an ordinary, bureaucratic, everyday alarm; people try it constantly, and a man with bad papers is a nuisance and gets a bad afternoon. But somebody who walks through and returns *nothing* — no enrolment, no reference, no history, a face the system has never seen in a city where every face has been seen — is a different category of event. It does not read as fraud. It reads as an impossibility, and impossibilities are escalated.
 
-It does not check whether your card is valid. That would be a small thing. It checks whether *you* are in the enrolment, and it does it against a face the Eye has already got, and the card is only the fastest way of telling the machine which record to compare you against.
-
-Which means the interesting event is not a bad card. It is **no record at all.**
-
-A forged card fails a lookup and produces one kind of alarm — an ordinary, bureaucratic, everyday alarm; people try it constantly, and a man with a bad card is a nuisance and gets a bad afternoon. But somebody who walks through a monitored door and returns *nothing* — no enrolment, no reference, no history, a face the system has never seen in a city where every face has been seen — is a different category of event entirely. That does not read as fraud. It reads as an impossibility, and impossibilities are escalated.
-
-There is nobody in Zev without a record. Everybody was registered at birth or processed at intake. The unwritten — the freight in the tunnels — are unwritten precisely because they are never taken through a monitored door in their lives.
+Because there is nobody here without a record. The unwritten — the freight in the tunnels — are unwritten precisely because they are never taken through a monitored door in their lives.
 
 So a blank walking into a hospital admissions desk is not a man with bad papers. It is a hole in the count, upright and moving, and the system was built by people who understood exactly what that would mean.
+
+**And the second thing is the card, which is not for everybody, and this is the part that gets misreported constantly.**
+
+There is a state credential in this city that people call **the chip**, after the small gold contact plate on the front. It is not implanted in anybody — outsiders always ask, and the truth is more elegant and much cheaper than anything surgical. It is a card. It holds your reference, and it reports where it is, continuously, for as long as it is on you.
+
+**And you are only required to carry one if you work for a house.**
+
+Not civilians. Not the ordinary eight hundred thousand. My neighbours do not have one, the woman who sells cigarettes does not have one, the tram driver does not have one, and none of them has ever been asked to. Nor do the small crews — not the park, not the estate gangs, not the boys on the corner — because nobody has ever written a rule for them at all and this is simply another rule that was never written.
+
+It is a condition of a house's licence. If a syndicate wants ground and a function in Zev, every single person on its books carries the card, and the ministry knows at every moment where each of them is. That is not a security measure against crime. It is a **leash**, and everybody wearing one knows precisely what it is.
+
+Think about what it means for a soldier standing on a door. The state does not care that he is a criminal; it licensed him to be one. What it cares about is that a house is an organisation capable of doing something the state did not sanction, and the way you prevent that is by knowing, always, without asking anybody, where every one of its people is standing. A house cannot assemble men quietly. It cannot move forty people to one district at four in the morning without a screen somewhere showing forty references converging.
+
+**The state chipped exactly the population that could threaten it, and nobody else, because nobody else can.**
+
+And that produces one of the great small ironies of this place, which the men in the towers dislike being reminded of. **A civilian in Zev is freer than a house lieutenant.** The lieutenant has money, standing, men who fear him, a warmed car — and the ministry knows where he is right now. The pensioner on the fourth ring has nothing at all, and can walk out of her building at any hour and go anywhere she likes and nobody on earth is tracking a card, because nobody ever thought it was worth issuing her one.
+
+She is not free because they respect her. She is free because she is not a threat, and I have written that same sentence in this letter about the farms, the forest, and the men under the floor, and here it is again wearing a different coat.
 
 The second layer is older, and worse, and no machine — it is *people.* This is the part the founders learned not from any modern nation but from their own grandfathers, from the old vanished police of the vanished empire who proved that the cheapest camera ever built is a frightened neighbor. In Zev a great share of ordinary people report — the *dvornik* who sweeps your courtyard, the woman who sells cigarettes on your corner, the man at the desk in your building, sometimes the friend across the table, sometimes the wife across the bed. Not most of them out of loyalty. Out of the number. A good word to the Eye lifts your own score; a withheld suspicion lowers it. So the city is arranged, with terrible elegance, so that watching your neighbor is simply how you look after yourself, and the result is a place where no one says the true thing aloud, ever, to anyone, because the one you say it to may already be listening for the Eye — and may not even blame themselves, because they are only keeping their own number up, the way you would.
 
