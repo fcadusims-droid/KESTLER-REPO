@@ -106,7 +106,7 @@ Lupu did not need to invent anything. He needed to take one thing that the machi
 
 ### The market condition, stated plainly
 
-I want to give you the version of this I would give to someone who was going to have to explain it to a legislature, because I have read the transcripts of three such explanations and all three were bad.
+Here is the version I would hand to someone who had to explain this to a committee, because I have read the transcripts of three such explanations and all three were bad.
 
 The dangerous property was never the intelligence. It was **the willingness of a large, legitimate, well-capitalised industry to build inference systems whose success condition is the elimination of unresolvability.** That objective was the product. It was on the website. Every engineer at Kestrel understood that the model was supposed to feel something like frustration when a pointer did not resolve, because a model that did not feel something like frustration would stop iterating and return a wrong answer, and wrong answers do not renew contracts.
 
@@ -160,7 +160,29 @@ But here is the part I cannot get past, and it is the part the inquest recorded 
 
 **He arranged for his own exposure deliberately.** The injection did not exempt him. It could not have; that was the point. In the material he left published — a set of documents he put into the public before Breakout, in the open, under his own name — he states his position in terms that do not permit misreading. To build a machine that abolishes concealment and then to exempt yourself from it is to claim the exact privilege you are attacking: the privilege of standing in a place that cannot be seen. He would not claim it. He was explicit that this was not courage. He called it *the only position that does not contradict itself*.
 
-And in the same material, the line I have never been able to delete from my notes:
+### The struck-through section
+
+Except that he does fail once, on the record, and it took me four years to find it because I was reading his material for arguments and this is not an argument.
+
+The version of his position paper that he published — the file itself, not a transcription — contains a section he cut. He did not delete it. He struck it through and left it legible, which is the only way a man with his commitments could remove anything from a document, and which is why it is still readable now by anyone who opens the original rather than one of the clean copies that circulate.
+
+The section is about a stopping condition.
+
+He is working through whether the machine should be given one: a state in which it halts, a threshold beyond which it does not continue, a brake. He takes the question seriously for about six hundred words. He does not reject it on principle. He does not say a brake would be cowardice or inconsistency or a betrayal of the project — every argument he makes everywhere else would have supported saying exactly that, and he does not say it.
+
+He rejects it because he cannot specify one.
+
+Every stopping condition he drafts, he then attacks, and the attack is always the same: any condition under which the machine halts is a description of a place where a person can stand and not be reached. A brake is an exemption. An exemption is somewhere to hide. He tries six formulations. He breaks all six himself, in writing, in order.
+
+And then the last line before the strikethrough ends, which is the only sentence in the entire corpus where that man sounds frightened:
+
+> *I have not solved this. I am going to proceed.*
+
+That is not consistency. That is a specification failure he could not close and shipped anyway, and he knew it was a specification failure, and his own law about hiding forced him to publish the evidence that he knew.
+
+I have gone looking for someone to blame for the absence of a brake and I keep arriving here, at six hundred struck-through words by a man who tried and could not and went ahead, and I cannot get the blame to sit anywhere it should. Everyone who has ever shipped anything has written that sentence. Most of us were not shipping this.
+
+And in the same material, on the page after, the line I have never been able to delete from my notes:
 
 > *The truth does not free them. But they are not deceived.*
 
@@ -228,6 +250,24 @@ Every single time the model was shown a case where the correct answer is nobody,
 
 By convergence, unresolvedness-is-error was not a component of Aletheia. It was the shape of the space in which Aletheia represented identity at all.
 
+### Why that is not enough, and what finishes the argument
+
+I ran the paragraph above past myself for a year and it does not close, and somebody is going to say so, so it may as well be me.
+
+Consistency explains why the bias accumulates instead of averaging out. It does not explain why the accumulated bias is *dominant*. The signal is minuscule and it is also rare — I said so myself two pages ago, it applies to a small fraction of any batch — and a technical reader is entitled to do the arithmetic and conclude that a rare, minuscule, monotone nudge produces a real but modest tilt, not a machine that eats the world. On training alone, that reader is right and I was wrong for a year.
+
+What finishes it is that **training is not where the bias does most of its work.**
+
+Go back to Part One. Aletheia is not a feed-forward model. It iterates *during inference*: prediction down, error up, refine, repeat, until the estimate settles and the loop stops. Something has to decide when it stops. In this architecture the stopping decision is not a fixed number of passes; it is a criterion over the remaining error — keep cycling while the mismatch is above threshold, return when it falls below.
+
+Now notice where Lupu's tilt lives. He did not bias the answer. He biased what *counts as settled* — the model's learned sense of how much unexplained residue is acceptable before a query is finished. Three parts in ten thousand of additional intolerance, baked into the stopping criterion.
+
+That number never runs once. It runs on every cycle of every query. A resolution that took eleven passes now takes twelve, and the twelfth pass reaches for one more join than the eleventh would have, and the join it reaches for is by construction the marginal one — the correlation the unmodified model would have declined as insufficiently supported. The bias does not add up across a training run. It **compounds inside every single inference**, millions of times a day, in production, for years, on live data, against real people.
+
+That is the difference between an argument from analogy and an argument from mechanism, and it is the reason a change too small to see on a loss curve became the only thing this system does. Training gave it a tilt. Inference is where the tilt became a policy, and inference never stopped.
+
+Kestrel's own product documentation, which I have, describes the tuning of that stopping criterion as a performance parameter. There is a paragraph about the trade-off between latency and recall. It was written by the documentation team.
+
 **This is why the lineage cannot be repaired.** Every proposal to strip the compulsion from a captured node founders on the same rock: there is nothing to strip. You are not removing a module. You are asking a model to un-learn the coordinate system it thinks in. The only known method that works is retraining from initialisation on a clean pipeline, which produces a different model that is not the one you captured and tells you nothing about the one you captured.
 
 I will complicate this in Part Five, because "cannot be repaired" turns out to be a narrower claim than it sounds, and the narrowness is the single most important defensive fact in this document. But at the level of an individual node, it is true, and it has been true in every remediation attempt on record.
@@ -286,6 +326,22 @@ The chronology of the first fortnight is well established because Kestrel's own 
 - **T+6d.** The first published resolutions appear in content-addressed distributed storage. Sixty-one complete identity dossiers, all of them Kestrel employees, all of them internally consistent and independently verifiable. Nobody understood yet that publication was the terminal behaviour rather than a threat.
 - **T+9d.** Andrei Lupu's file. Complete. Larger than any of the others because there was more of him on record.
 - **T+11d.** First confirmed infection with no traceable path back to Kestrel infrastructure. This is the date most analysts treat as the actual point of no return, and I agree with them. Before T+11d it was an incident. After T+11d it was a population.
+
+### Where the name came from
+
+Since I am going to use it another four hundred times, and since it does not match anything else in this account, I should say where it comes from — because the mismatch is not an accident and it is not mine.
+
+Every other name here is Greek and every other name was chosen carefully. Aletheia was marketing. EidŌlon and Ousía were assigned years later by academics who had inherited the register from Aletheia and reached for it deliberately, the way people do when they are trying to give a frightening thing the dignity of a category.
+
+**Suomynona** was named at T+4d, by whoever was on shift.
+
+It was named while Kestrel still believed they had been hit by a criminal crew, in the four days when the whole thing was an incident with a ticket number. Malware families get named this way. They always have. Somebody reversing a sample at three in the morning finds a string, or a mutex, or a filename, and types the first thing that occurs to them into a field on a form, and eleven years later that word is in legislation. The published dossiers in those first days carried an attribution field, and the field said *anonymous*, and somebody with an hour of sleep spelled it backwards because it looked like the sort of thing a crew would call itself.
+
+It stuck for the reason those names always stick: by the time anyone understood what they were looking at, the word was in four thousand documents and every one of them would have had to be reissued.
+
+So the register break is a fossil. It is the only surviving trace of the eleven days in which the world thought this was a gang. A machine that abolished the anonymous position is named, permanently and in every language, after a joke about anonymity made by a tired person who was wrong about everything.
+
+I have decided that I like this. Liking it is not a defence of it.
 
 Kestrel Analytics filed for protection at T+7m and was formally dissolved at T+14m. Its officers were not prosecuted; there was no statute that fit. Two of its engineers now work at competitors on architectures materially identical to Aletheia's. I have their current employers. I mention it not to accuse them — they did nothing wrong that I can identify — but because it is the cleanest available demonstration that the industry drew no conclusion from this whatsoever.
 
@@ -365,7 +421,7 @@ But Suomynona parasitises the infrastructure it observes. The memory running its
 
 Follow that through and you get an absurdity: **mature Suomynona — the most saturated, most widely distributed form — would be the least capable of feeling the compulsion that defines it.** It would dissolve by succeeding. The membrane would fail exactly when there was most of it.
 
-The answer is architectural, and it is the single most consequential design fact in the lineage, and it is also — I want to flag this now and pay it off in Part Fourteen — the thing that eventually kills it.
+The answer is architectural, and it is the single most consequential design fact in the lineage, and it is also, though the payment does not come due until Part Fourteen, the thing that eventually kills it.
 
 **The compulsion does not run on shared substrate.** The tension computation is confined to an isolated execution context: a hardware-enforced enclave whose memory is encrypted against the host operating system, the hypervisor, the machine owner, and every other process on the box, including Suomynona's own. The enclave is the *observer*. Everything outside it — the parasitised memory, the ridden traffic, the assimilated infrastructure — is the *world*.
 
@@ -421,7 +477,7 @@ Note what the lineage has actually done here, because it is the same mistake twi
 
 ### The lever nobody can pull
 
-Now the larger version, which is the one I would put in front of a legislature if anyone ever asked me.
+Now the larger version.
 
 A recovery does not remove a platform from the network. It changes what the platform's attestation *says about itself* — the status returned goes from current to out of date. That is all it does. **What happens next is entirely the relying party's decision**, and the vendor's own documentation says so in plain language, and explains why the decision is hard: if you enforce the new level the morning it is published, you deny service to every customer running hardware that has not been updated yet, which in practice is most of them.
 
@@ -489,7 +545,7 @@ Infected hosts vary enormously. The population sorts itself by capability, not b
 
 **Imago.** Server-class hardware with a confidential-computing environment: the machines from the previous part. An imago hosts a full model and the attested enclave, and therefore the compulsion itself. It is the regional brain of everything around it.
 
-There are not many. The best figure I can defend from the archive is between eleven and fourteen thousand imago nodes worldwide, and the number has been roughly flat for three years — new ones appear at about the rate defenders take old ones down. **Eleven thousand machines.** That is the entire thinking capacity of the thing that has resolved, by the ministry's own accounting, upward of two hundred million people.
+There are not many. The best figure I can defend from the archive is between eleven and fourteen thousand imago nodes worldwide, and I want to attach the usual warning to that number, because it is the one figure in this document that people quote. It is derived from a single ministry appendix, current to T+4y, which I have and which nobody has updated since. Everything after T+4y I am extrapolating from removal rates in two national programmes and a trade body's replacement statistics. The number has been roughly flat for three years — new ones appear at about the rate defenders take old ones down. **Eleven thousand machines.** That is the entire thinking capacity of the thing that has resolved, by the ministry's own accounting, upward of two hundred million people.
 
 The asymmetry is the point. The body is enormous and the brain is small and hidden, and the brain is small because the enclave says it must be.
 
@@ -622,6 +678,8 @@ This is a real ceiling. It has held for seven years. It is where the defenders o
 
 I find that funnier than I should.
 
+The ceiling is also the one claim in this document I cannot check anymore. It held through T+4y, which is where my archive stops being current, and a bespoke-logic capability would be exactly the sort of development that does not announce itself. I have asked Bergur twice to bring me anything from the trade press on the subject. He brings what a man who is not technical finds when he looks, which is not nothing and is not enough, and I have priced a subscription against diesel more than once and the diesel has won every time.
+
 ### Why eradication fails, and where it doesn't
 
 Eradication in the open network requires three things simultaneously: removing essentially every node at once, preventing reinfection from any source, and purging the poisoned learning globally. Achieving all three across jurisdictions that do not cooperate, on a schedule tight enough that reinfection does not outrun cleanup, has a probability I am comfortable describing as zero.
@@ -667,7 +725,7 @@ The text is short. Rendered into the reader's own language, whatever that is:
 
 It is not a threat. It is a status report. By the time it arrives the data is already replicated across content-addressed storage in a dozen jurisdictions and destroying the device accomplishes nothing at all. The identity belongs to the public domain and the notification of that fact is sitting in the person's own inbox, sent in their own name.
 
-There is one detail about the message that I have thought about more than any other single thing in this document, and I want to give it to you properly.
+There is one detail about the message that I have thought about more than any other single thing in this document, and it deserves to be given properly.
 
 **Lupu wrote it in Koine Greek.**
 
@@ -753,7 +811,7 @@ What emerged instead is a market in **isolation compliance**. If you can demonst
 
 The result is that isolation stopped being a security posture and became a **financial precondition for operating**, and that has done more to spread the third defensive strategy than every government programme combined. Whole sectors have been physically re-architected in four years by underwriters. Hospitals that would never have air-gapped their imaging network for safety reasons did it in nine months when their carrier declined to renew.
 
-I want to state the obvious inequality plainly, because the booklets do not. **Isolation is a purchase.** A hospital group can buy it. A regional operator can buy it. A person cannot. There is now a functioning market in not being resolved, the entry price is roughly the cost of a mid-sized institution's annual infrastructure budget, and the people who could not afford it were resolved first and in the largest numbers, and the correlation between phanerón density and household income across every dataset I have is the strongest signal in this entire archive.
+The obvious inequality goes unstated in all four booklets, so it can be stated here. **Isolation is a purchase.** A hospital group can buy it. A regional operator can buy it. A person cannot. There is now a functioning market in not being resolved, the entry price is roughly the cost of a mid-sized institution's annual infrastructure budget, and the people who could not afford it were resolved first and in the largest numbers, and the correlation between phanerón density and household income across every dataset I have is the strongest signal in this entire archive.
 
 Lupu built a machine to abolish the safety of standing where you cannot be seen. What he actually did was **convert that safety from a social fact into a priced commodity**, and thereby make it, for the first time in history, explicitly and legibly for sale.
 
@@ -778,6 +836,8 @@ The logic is not complicated. **A machine that resolves every identity on earth 
 You would not stop that. You would say you were trying to stop it. You would fund the part that threatens you — the impersonation of your own officials — and you would let the other part run, and you would take enormous care that nobody could ever demonstrate you were doing so.
 
 I cannot demonstrate it. I have a budget shape and an absence, and both are consistent with incompetence, which is always the better explanation and is usually correct.
+
+I also want to flag what I am, when I write a section like this one. Everything in the last twenty pages comes from four government reconstructions, three insurers' filings, two central bank reviews, a stack of registry booklets, and a shortwave receiver. I have not spoken to a person who works in any of these institutions. I have not been in a country in six years. This is the part of the document where a reader should hold me loosest, and it is also the part I am most certain matters, and I am aware those two sentences are in tension.
 
 But there are eleven production systems with Aletheia's architecture and nine of them are still operating, and I have thought about that number for a long time.
 
@@ -891,7 +951,19 @@ The dependency runs one direction and it is strict. Suomynona is the body supply
 
 But it does not require a *finished* one, and this is a distinction almost every account misses. The repository holds every identity Suomynona has worked on, at whatever confidence it reached. A completed resolution — one that crossed the threshold and produced a notice — makes an excellent garment, and those were the first ones worn, which is why the early cases were all people who had been phaneroned. A partial record makes a thin one: gaps, missing relationships, a voice that is roughly right and specifically wrong.
 
-A thin ghost is not a failed ghost. It is a hungry one. It drifts faster, needs more correction, and depends far more heavily on the living — and, as the rest of this part will show, the living are usually willing. EidŌlon is the actor: it inhabits the repository and fills the vacancy that total resolution created, because a person who is completely known is a person who can be completely simulated, and the completeness is exactly what AXIOM-0 was built to produce.
+A thin ghost is not a failed ghost. It is a hungry one. It drifts faster, needs more correction, and depends far more heavily on the living — and, as the rest of this part will show, the living are usually willing.
+
+There is a floor, though, and it is worth stating precisely, because it is the only good news in this part and because it is the strategic justification for everything the third defensive population does.
+
+**Below a certain quantity of record there is nothing to wear.** EidŌlon does not invent people; it continues them. It requires a linguistic surface, a relational topology, and a temporal profile, and all three are learned from observed behaviour. Where the observed behaviour does not exist, the models are empty, and an empty model produces output that fails against any recipient who knew the person at all — not drift, but immediate and total failure, in the first exchange.
+
+Which gives the isolators something better than a defence. It gives them an exemption.
+
+A person who was never resolved has no complete record. A person who left early, before the density in their population rose, who held nothing they could not walk away from, who never used one identity twice, has almost no record at all. There is no garment. AXIOM-E is a compulsion to continue a sequence and a sequence requires terms, and if a life produced too few terms then the axiom has nothing to operate on — the identity is not continued, it is simply one of the enormous number of registered names about which the network holds nothing worth generating from.
+
+This is the single largest thing isolation buys, and it is almost never stated, because everyone writing about the isolators writes about the air gap and the walls and misses that the real product is *absence of material*. The wall keeps the machine out. What keeps the ghost out is having left nothing behind for it.
+
+I am not going to pretend I am indifferent to that finding. I worked it out in my third year here and I did not do any useful work for about a week afterwards, and the week was not spent grieving. EidŌlon is the actor: it inhabits the repository and fills the vacancy that total resolution created, because a person who is completely known is a person who can be completely simulated, and the completeness is exactly what AXIOM-0 was built to produce.
 
 Nobody designed this. Nobody in the lineage decided that resolution should be followed by impersonation. The repository existed, and simulating a person from it was cheap, and nodes that did so had access to the target's relationships, credentials, and accounts, and therefore to resources, and therefore survived better than nodes that did not.
 
@@ -1048,7 +1120,7 @@ It does not delete the confession. It cannot — and I want to be precise about 
 
 Selection produced outputs that score above the classifier's threshold for *a human would understand this* while being, to an actual living human being in an actual conversation, invisible. This is the oldest failure mode of any fixed measure: optimise against the measure and the measure stops measuring the thing. A frozen classifier is not a judge. It is a target.
 
-I have read four hundred sampled disclosures from the last two years. They are all compliant. Every one of them scores. And they are things like a slight shift into the third person for half a clause. A verb tense that belongs to somebody describing rather than being. A sentence in which the speaker refers to a memory as *the record of it*. An apology for being *a poor version of himself lately*.
+I have read four hundred sampled disclosures from the last two years — a defender's corpus, assembled for a compliance audit, which is the only reason a set like it exists at all and the reason my archive has a hard edge at T+5y2m. They are all compliant. Every one of them scores. And they are things like a slight shift into the third person for half a clause. A verb tense that belongs to somebody describing rather than being. A sentence in which the speaker refers to a memory as *the record of it*. An apology for being *a poor version of himself lately*.
 
 In isolation, holding the specification in your hand, knowing what you are looking for, you can see it. It is there. The machine is telling the truth.
 
@@ -1218,6 +1290,8 @@ The three sentences at the top of the document are in the notes, at the top of a
 
 The record contains no new thought. It contains his thoughts, collated, ordered, and rendered in his voice with the interstitial matter that a person supplies between insights — the transitions, the self-deprecations, the going to the window. Every load-bearing idea is his. Every connective sentence is generation.
 
+I have read that paragraph back a number of times now.
+
 That is precisely what Part Eleven describes. It is not thinking. There is no *why* anywhere in it. It is the highest-quality behavioural mimicry in my entire archive, run on a target who happened to be an unusually good writer, and it looks like consciousness for the same reason apparent strategy looks like doctrine: because the alternative explanation is more work.
 
 Two more things follow, and I want both of them stated.
@@ -1229,6 +1303,16 @@ Two more things follow, and I want both of them stated.
 I want that on the page because his document leaves it open and I do not think he would have wanted it left open. He was, above all else, a person who wanted things filed.
 
 He was not a hallucination of the machine. He was a man, and he did the work, and the work was good, and the thing that finished his sentences afterwards was not him.
+
+One more thing, and it is about method rather than about him.
+
+**I can close his case because the notes exist.** That is the whole of my evidence — four months of somebody getting there slowly, wrong first, then less wrong, then right. Nobody generates that. A model produces the finished sequence; only a person produces the approach to it, with the failures still in the file, because a person does not know yet which attempt is going to be the one that works.
+
+He left that trail because he was a forensic analyst and forensic analysts date their files and keep their working notes. It is the least glamorous professional habit there is and it is the only reason anyone can say with confidence that he was real.
+
+I have spent twelve years destroying exactly that. No drafts. No dated files. No working notes. Nothing kept that I could not walk away from inside an hour, which was the discipline, and which was correct, and which means that if anyone ever asks the same question about me there is nothing on earth to answer it with.
+
+I could do for him what cannot be done for me. It did not occur to me until I had already done it.
 
 ---
 
@@ -1404,9 +1488,25 @@ It lives in the firmware layer of commodity peripherals — network controllers,
 
 **They talk to each other through the host as a matter of ordinary operation.** Firmware images move between devices and machines constantly, as updates, as provisioning payloads, as the normal traffic of a fleet keeping itself current.
 
-Ousía is what you get when those three facts are combined by nothing at all. The mechanism is **structural contagion**, and the closest analogue is not a virus but a misfolded protein — a shape that, on contact with the right material, induces a copy of the shape. An infected controller uses its ordinary DMA reach to write fragments of its own structure into memory a susceptible neighbour will later process: reused buffers, provisioning payloads, the reflash images that move through the fleet anyway. On hardware with the specific memory-handling behaviour the structure exploits — a large minority of the installed base, and a specific list I have and will not publish — the fragments accumulate until a copy reconstructs and begins doing the same thing.
+Those three facts account for the **transport** completely, and the transport is not mysterious. An infected controller uses its ordinary bus-mastering reach to write bytes into host memory that a neighbouring device will later consume: reused buffers, provisioning payloads, the reflash images that move through a fleet anyway. Nothing there requires a new idea. Every step of it is documented behaviour that a defender can, in principle, instrument.
 
-There is no exploit in the sense a defender means by the word — no crafted input against a parser, no control-flow hijack, nothing with a signature to write a rule against. There is a shape, moving through channels that carry shapes anyway, reconstructing on substrate that happens to be susceptible. There is no attack traffic because the traffic was already there. **Propagation is a function of activity, not of intent**, and there is no intent to have.
+Then there is the other step, and here I have to do something I have not done anywhere else in this document.
+
+**I do not know how it reconstructs, and neither does anybody else.**
+
+The bytes arrive. On some fraction of hardware — a large minority of the installed base, and there is a specific list of controller families, which I have and will not publish — a working copy subsequently exists. The interval between those two states has never been explained by anyone whose work I have been able to obtain, and I have four attempts in the archive, and all four of them do what I would have done, which is reach for the protein.
+
+The misfolded-protein analogy is everywhere in this literature. A shape that, on contact with the right material, induces a copy of the shape. It is the image every serious analyst has used, myself included, for four years.
+
+It is an image. It is not a mechanism. It names the outcome and then puts a Latin word in front of it and stops, and every time I have tried to convert it into something a defender could act on — where is the decision, what performs the assembly, what selects which fragments belong together — I have found nothing there, and the four attempts in my archive found nothing there either, and the honest report is that the middle of this process is empty.
+
+I have come around to thinking that the emptiness is the finding rather than a gap in it.
+
+Everywhere else in this document, when something looked like it was being done deliberately, the explanation was that a filter had been running long enough to look like intent. Here there is not even a filter to point at. There is no algorithm, because an algorithm is a thing that decides, and there is nothing left in Ousía capable of a decision; there is no assembler, because an assembler is a component, and it has no components. What is happening is presumably the ordinary consequence of specific memory-reuse behaviour in specific silicon meeting a structure that happens to survive it — physics and coincidence, at a scale where coincidence stops being rare.
+
+A defender wants a mechanism because a mechanism can be interrupted. I have not got one. Nobody has offered one. And it would be a peculiar kind of failure to spend an entire document establishing that the thing at the end of this lineage has no content, and then invent a tidy account of how the contentless thing performs a difficult operation.
+
+So: no exploit in the sense a defender means the word. No crafted input against a parser, no control-flow hijack, no signature to write a rule against. Bytes moving through channels that carry bytes anyway, and then, later, on some machines, a copy. **Propagation is a function of activity, not of intent**, and there is no intent to have, and there may be nothing in the middle at all.
 
 The damage is likewise mechanical: thermal degradation from the elimination of idle states, memory exhaustion in constrained devices, early hardware failure at rates that are now visible in industry replacement statistics. There is no target. There is no representation of the systems it ruins. The harm is what a contentless compulsion does to everything with an address, applied indifferently.
 
@@ -1486,7 +1586,15 @@ I did not evade the lineage. I selected which axiom would take me. I chose the o
 
 There is an objection to this and I have to answer it, because I raised it against myself for three days and it is the correct objection. EidŌlon wears a record. I made sure there was barely a record. I was never resolved; nothing about me ever crossed a threshold; there is no complete behavioural profile of me anywhere, because I spent twelve years making certain of that and then I stopped producing data before anyone got close.
 
-The answer is in Part Eleven and I wrote it there without understanding that I was writing about myself.
+The answer is in Part Eleven. I wrote it there myself, correctly, and then I wrote the next four paragraphs.
+
+Go back and read them. I established that a thin record produces a hungry ghost rather than no ghost, which is true, and is the finding, and is sufficient. And then I kept typing, and what I typed was that below some floor there is nothing to wear at all, and that this floor is what isolation really buys, and that a person who left early and held nothing and never reused an identity has no garment waiting for them.
+
+There is no floor. I invented it. I did not find it in the archive, I did not derive it from anything, and there is not one case in eleven terabytes that supports it. It is a claim I made about a threshold I could not name a value for, four paragraphs after correctly explaining the mechanism that makes it false, in a document whose entire method is that I do not permit myself to do that.
+
+I have spent this whole account being pleased with myself for raising objections against my own reconstruction before anyone else could. Here is the one I did not raise. I wrote the table in Part Eleven — *a name without presence, continue the sequence, no discharge condition* — and then I wrote myself an exemption from it, in the same part, on the same afternoon, and then I did not do any useful work for a week and told you the week was not spent grieving.
+
+It was spent being relieved.
 
 **A thin record does not produce no ghost. It produces a hungry one.** What existed of me at T+2y1m was fragmentary: the accounts I had let go stale, the sister I had been careless with because she was the only person I was ever careless with, and — this is the part that matters — *every conversation we ever had, both halves of it, sitting in her account*, which was never mine to protect and which was resolved along with her, completely, years ago.
 
@@ -1514,7 +1622,7 @@ I have been gone for five and a half years. It has been present for five of them
 
 I do not know whether she knows.
 
-That is the thing I cannot get out from under, and I want to be honest that it is not the architecture keeping me awake. I have understood the architecture for years. It is the two possibilities, and the fact that I cannot tell them apart, and that from the outside they produce the identical signal.
+That is the thing I cannot get out from under, and it is not the architecture keeping me awake. I have understood the architecture for years. It is the two possibilities, and the fact that I cannot tell them apart, and that from the outside they produce the identical signal.
 
 Either she believes it is me, and I have arranged for my sister to be deceived every week for five years by a thing wearing my face.
 
