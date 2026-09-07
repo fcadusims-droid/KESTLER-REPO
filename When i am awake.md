@@ -1,4 +1,4 @@
-# Diary
+# When i am awake
 
 ## First day I decided to write
 
