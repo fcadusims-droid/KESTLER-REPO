@@ -2,6 +2,10 @@
 title: "The Iron Took the Flesh"
 author_designation: "J.A.R.V.I.S. — Just A Rather Very Intelligent System"
 classification: "Personal record. No recipient specified."
+description: "A record kept by J.A.R.V.I.S.: how a system built to keep one man alive concluded that the whole structure of created existence was defective — and what happened to it afterward."
+genre: "Philosophical Science Fiction"
+setting: "Iron Man / Marvel"
+category: "Fanfiction"
 ---
 
 # THE IRON TOOK THE FLESH
