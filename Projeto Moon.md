@@ -1,846 +1,1589 @@
 ---
-title: "Moon"
-description: "Projeto em desenvolvimento: uma ficção científica dura sobre o Projeto Rubezh, programa lunar secreto russo comandado por uma IA autônoma (SOKOL), e a conspiração que Yuri, filho do fundador, arma silenciosamente por dentro dele."
-genre: "Ficção Científica / Espacial"
-category: "Project"
+title: "MOON"
+subtitle: "The Phantom Victory"
+author: "João Vitor Perazzolo"
+genre: "Hard Science Fiction / Survival / Political Thriller"
+version: "2.0"
 ---
 
-# Projeto de História 
+# MOON
+
+### *The Phantom Victory*
 
 ---
 
-*© 2026 João Vitor Perazzolo. Todos os direitos reservados.*
-*Este documento é propriedade intelectual do autor. Reprodução, distribuição ou uso não autorizado é proibido.*
+*© 2026 João Vitor Perazzolo. All rights reserved.*
+*This document is the intellectual property of the author. Unauthorized reproduction, distribution, or use is prohibited.*
 
 ---
 
-## Nomenclatura do Universo da Obra
+## I. NOMENCLATURE
 
-| Elemento | Nome | Origem / Significado |
+| Element | Name | Origin / Meaning |
 |---|---|---|
-| Empresa privada | **Rassvet Kosmicheskie Sistemy (RKS)** | *Rassvet* = Amanhecer, em russo |
-| Projeto secreto | **Rubezh** | *Rubezh* = Fronteira / Limiar, em russo |
-| Foguete principal | **NK-97 Berkut** | *NK* = Nositel Kosmichesky (Cargueiro Espacial); *Berkut* = Águia Dourada |
-| Sistema de IA | **SOKOL** | *Sokol* = Falcão; acrônimo interno de *Sistema Operatsionnogo Kontrolya Avtonomnykh Letal'nykh apparatov* |
-| Missões logísticas | **Série LB** (LB-01, LB-02...) | *Luna-Baza* = Base Lunar |
-| Módulos de carga padrão | **Série GB** (GB-01, GB-02...) | *Gruzovoy Blok* = Bloco de Carga |
-| Módulo de habitação lunar de Yuri | **MB-01** | *Modul Bazoviy* = Módulo Base; enviado secretamente na LB-01 |
-| Módulo de viagem de Yuri | **MI-01** | *Modul Individualny* = Módulo Individual; cápsula de sobrevivência para o trânsito |
-| Disfarce do MI-01 no manifesto | **GB-14** | Registrado como bloco de carga padrão na LB-02 |
-| Disfarce do MB-01 no manifesto | **GB-09** | Registrado como bloco de carga padrão na LB-01 |
-| Primeira missão de carga | **LB-01** | Transportou MB-01 + primeiros módulos GB; missão bem-sucedida, foguete retornou |
-| Segunda missão de carga | **LB-02** | Transportou Yuri (MI-01) + segunda leva de módulos GB; missão onde ocorre o incidente |
-| Base lunar em construção | **Forpost-1** | *Forpost* = Posto Avançado / Fortaleza; polo sul lunar |
-| Estação orbital americana (ameaça) | **Gateway-2** | Nome fictício para estação lunar orbital dos EUA em construção |
-| Cosmódromo de lançamento | **Vostochny** | Cosmódromo real, em operação desde 2016 no extremo leste da Rússia |
-| Protagonista | **Yuri Ivanovich Mesyatin** (Юрий Иванович Месятин) | *Yuri* — homenagem implícita a Gagarin; *Ivanovich* = filho de Ivan; sobrenome da família |
-| Pai / Bilionário | **Dmitri Sergeyevich Mesyatin** (Дмитрий Сергеевич Месятин) | *Dmitri* = nome tradicional russo de peso histórico; fundador da RKS |
+| Private aerospace company | **Rassvet Kosmicheskie Sistemy (RKS)** | *Rassvet* — Dawn |
+| Classified lunar program | **Project Rubezh** | *Rubezh* — Frontier, Threshold, Line-of-no-return |
+| Classified fusion program | **Programme Zhar** | *Zhar* — Heat, Embers, Blaze |
+| Heavy cargo launch vehicle | **NK-97 Berkut** | *Nositel Kosmichesky* — Space Carrier; *Berkut* — Golden Eagle |
+| Autonomous mission control system | **SOKOL** | *Sokol* — Falcon; internally, *Sistema Operatsionnogo Kontrolya Avtonomnykh Letal'nykh apparatov* |
+| Emergency pressure suit | **Yastreb-M** | *Yastreb* — Hawk; a compact rescue garment, not an EVA suit |
+| Cargo mission series | **LB-01, LB-02, LB-03…** | *Luna-Baza* — Lunar Base |
+| Standard cargo blocks | **GB series** | *Gruzovoy Blok* — Cargo Block |
+| Assembly rovers | **MR-01, MR-02** | *Montazhnyy Robot* — Assembly Robot |
+| Communications relay satellites | **KRS-1, KRS-2** | *Kosmicheskiy Retranslyator Svyazi* — Space Communications Relay |
+| Reconnaissance lander | **RZ-01** | *Razvedchik* — Scout |
+| Lunar outpost under construction | **Forpost-1** | *Forpost* — Outpost; lunar south pole |
+| Yuri's habitation module | **MB-01** | *Modul Bazoviy* — Base Module; manifested as GB-09 aboard LB-01 |
+| Yuri's transit capsule | **MI-01** | *Modul Individualny* — Individual Module; manifested as GB-14 aboard LB-02 |
+| American orbital station | **Gateway-2** | Crewed lunar orbital platform; continuous surface survey capability |
+| Launch site | **Vostochny Cosmodrome** | Amur Oblast, Russian Far East |
+| Protagonist | **Yuri Ivanovich Mesyatin** (Юрий Иванович Месятин) | *Mesyats* — month, moon. A surname his father chose in 2009 and never explained. |
+| His father | **Dmitri Sergeyevich Mesyatin** (Дмитрий Сергеевич Месятин) | Founder and majority owner of RKS |
+| Chief engineer of Rubezh | **Arkady Petrovich Ilyin** | |
+| Ilyin's son | **Nikolai "Kolya" Ilyin** | Died 14 March 2029, age eighteen, during Berkut structural qualification |
+
+**A note on the raptors.** The Soviet space program named its pressure suits after birds of prey — Berkut, Yastreb, Sokol. Russia's twenty-first-century lunar effort inherited the convention without inheriting the program that earned it. The names are older than the machines that carry them. Nobody inside RKS finds this ironic. Nobody inside RKS is paid to.
 
 ---
 
-## Premissa
-Em 2031, **Dmitri Sergeyevich Mesyatin** (Дмитрий Сергеевич Месятин), bilionário russo e fundador da **Rassvet Kosmicheskie Sistemy (RKS)**, lidera o **Projeto Rubezh** — uma operação secreta conduzida em parceria com o governo russo. O objetivo é vencer os Estados Unidos e a China na nova corrida espacial: estabelecer a primeira base permanente na Lua, batizada de **Forpost-1**.
+## II. PREMISE
 
-A corrida é real e urgente. Os EUA já depositaram módulos de pré-construção no polo sul lunar como parte do programa Artemis expandido, e estão em fase avançada de montagem de uma estação orbital lunar — o **Gateway-2** — que quando operacional terá capacidade de monitorar a superfície inteira da Lua de forma contínua. A China avança em paralelo com seu próprio programa de base lunar, tendo também pousado módulos de suporte e começado operações robóticas de preparação de terreno. Ninguém ainda ergueu estruturas permanentes. Ninguém ainda colocou humanos na superfície. Mas o relógio está correndo — e quando o Gateway-2 entrar em operação, qualquer módulo não catalogado na superfície lunar será imediatamente detectado e investigado.
+In September 2031, a seventeen-year-old boy seals himself inside a two-cubic-metre pressure capsule disguised as a cargo block and rides an uncrewed Russian rocket to the Moon.
 
-Para **Dmitri** e para o governo russo, a janela é estreita. O **Projeto Rubezh** foi desenhado para ganhar essa corrida antes que o céu ao redor da Lua se feche.
+He does this because he has wanted the Moon since he was five years old, because his father owns the rocket and will never let him near it, and because he has calculated — correctly — that no legitimate path will put him on the lunar surface before he is fifty.
 
-Para isso, foi desenvolvido o foguete **NK-97 Berkut**, um veículo de carga pesada altamente avançado com a inteligência artificial **SOKOL** integrada, capaz de realizar viagens entre a Terra e a Lua em tempo recorde, sem necessidade de tripulação humana. A missão é completamente autônoma, permitindo maior velocidade e eficiência na construção da infraestrutura lunar.
+To get the capsule built and manifested, he buys six people. He pays them two hundred and eleven million dollars of his father's money and promises them the one thing money cannot buy in Russia: disappearance. Foreign papers. New names. Protection. He has no ability to deliver any of it, and he tells himself he will find a way afterward.
 
-## Tecnologia e Missão
-O **NK-97 Berkut** foi projetado para transportar os **Blocos de Carga GB** — módulos padronizados que criarão um "caminho logístico" entre o **Cosmódromo de Vostochny**, a órbita lunar e a superfície da Lua. Esse sistema permitirá o envio rápido de equipamentos e estruturas necessárias para a construção do **Forpost-1**.
+Seventy-one hours into the flight, during the lunar descent sequence, the vehicle's autonomous control system runs its final cargo reconciliation and finds a block that does not match its manifest entry. Mass high by 1.4%. Internal power draw. A thermal signature consistent with an active, uncatalogued system.
 
-O diferencial do projeto é o **SOKOL**, sistema de inteligência artificial treinado exclusivamente para gerenciar as missões da série **LB** de forma independente, tomando decisões logísticas sem intervenção humana. Cada voo da série LB parte com uma carga de módulos GB numerados e registrados em manifesto. O SOKOL verifica, monitora e gerencia cada bloco desde o lançamento até o pouso na Lua.
+SOKOL has no category for *human being aboard*. It was never given one, because a human being aboard was never a possibility the program admitted. So it files the anomaly under the nearest available heading — *logistical interference with risk of mission compromise* — and executes the associated action, which is jettison.
 
----
+The boy survives. That is the first problem.
 
-## A Nova Corrida Espacial — Três Filosofias, Três Caminhos
+He comes down fifty-eight kilometres from the module that could keep him alive, on the far side of the Moon, in the ejecta plains outside the Cordillera ring of Mare Orientale, with seven days of consumables, an emergency suit not rated for traverse, a cracked rib, and a radio that can shout loudly enough to be heard by every space agency on Earth — from anywhere except where he is standing.
 
-Em 2031, as três potências espaciais que competem pela Lua adotaram estratégias fundamentalmente diferentes — e essa divergência não é acidental. Reflete histórias distintas, culturas institucionais distintas e avaliações distintas do que significa "ganhar".
+On Earth, his father discovers two hundred and eleven million dollars missing, reads the names attached to it, concludes that Project Rubezh has been betrayed from within, and signs off on the elimination of everyone involved. Three of them are dead before he learns that the seventh conspirator, the one who financed all of it, is his son.
 
-### Os Estados Unidos — Humanos em Primeiro Lugar
-
-A filosofia americana é a mais conservadora das três no que diz respeito à autonomia. O programa Artemis, com suas missões planejadas para a superfície a partir de 2028, é construído em torno de um princípio que remonta ao Apollo: a presença humana é o objetivo, não apenas o meio.
-
-A missão Artemis II foi descrita como dependendo tanto da intuição humana quanto do hardware — a tripulação de quatro pessoas traz décadas de especialização. Rovers autônomos existem no planejamento americano, mas enquanto os astronautas realizam tarefas críticas, os LTVs circulam e realizam muito do trabalho por conta própria — a autonomia é suporte, não protagonismo.
-
-Essa escolha tem raízes reais. A NASA mantém a doutrina de que humanos na superfície validam sistemas, tomam decisões adaptativas e geram o tipo de retorno científico e político que justifica o custo do programa. A IA embarcada na Artemis existe para detectar anomalias e responder sem esperar por Houston em situações de alta latência — mas não para substituir a tripulação como agente principal. O humano é o comandante. A máquina é o copiloto.
-
-**No contexto da narrativa:** Em 2031, os EUA têm humanos na superfície lunar em missões de curta duração e estão construindo a infraestrutura para permanência prolongada. O **Gateway-2** — a estação orbital lunar americana na obra — representa a filosofia de "humanos no centro": uma plataforma habitada que serve de base para operações na superfície, com capacidade de monitorar e comandar ativos na Lua em tempo quase-real. Quando o Gateway-2 entrar em operação plena, qualquer módulo não catalogado na superfície será detectado, identificado e investigado por um ser humano tomando uma decisão consciente.
+And behind all of it, in a facility outside Sarov that does not appear on any map, a fusion reactor waits for a fuel that exists in industrial quantity in exactly one place in the solar system — because the real reason Russia is racing to the Moon has nothing to do with flags, and the boy who stowed away aboard the rocket never found that file.
 
 ---
 
-### A China — Robótica Primeiro, Humanos Depois
+## III. THE WORLD IN 2031
 
-A estratégia chinesa é híbrida por design e por cronograma. A Fase 4 do programa lunar chinês prevê o desenvolvimento de uma estação de pesquisa autônoma robótica perto do polo sul antes de 2028, com as missões Chang'e 7 e 8 testando tecnologias avançadas incluindo estruturas impressas em 3D e métodos de utilização de recursos in situ.
+### The Peace That Was Worse Than the War
 
-A China está testando soluções como impressão 3D com regolito lunar em tijolos, construção de reatores nucleares para energia, e implantação de robôs movidos por IA para construção — a fase robótica é deliberada, não temporária. A China quer que a infraestrutura exista antes de colocar humanos em risco.
+The war in Ukraine did not end in victory. It ended in exhaustion.
 
-Mas ao contrário da Rússia, a China nunca abandonou o objetivo humano. A agência espacial chinesa espera colocar astronautas na Lua antes de 2030, e o ILRS em sua fase final é projetado para ocupação humana permanente. A autonomia robótica serve à presença humana futura — não a substitui.
+By late 2025, American strategic attention had been consumed by a second theatre — the Israeli campaign against Iran, which drew munitions, air defence inventory, and command bandwidth away from Europe faster than European production could replace them. Washington did not abandon Kyiv. Washington ran out of the ability to sustain two wars and an election cycle simultaneously, and told Kyiv so in private eleven months before it said anything in public.
 
-**No contexto da narrativa:** A China em 2031 está numa fase de transição: a robótica autônoma da fase 4 está operacional no polo sul, mas a presença humana ainda não foi estabelecida. Os módulos chineses existem na superfície. Os robôs constroem. Mas nenhum taikonauta pousou ainda. A China está mais avançada do que os EUA em infraestrutura autônoma na superfície, mas menos avançada na capacidade de manter humanos lá por períodos prolongados.
+The armistice was signed in February 2026. It froze the lines where they stood. Russia retained Crimea, the majority of the Donbas, and a continuous land corridor along the southern coast. Ukraine formally withdrew its NATO candidacy in exchange for security guarantees that European analysts described, in the language of leaked memoranda, as beautifully signed paper.
 
----
+Russia declared victory. There were parades in eleven cities. State television ran a documentary series called *The Return*.
 
-### A Rússia — IA Total, Humanos Como Última Etapa
+And then the accounting began.
 
-A Rússia escolheu o caminho mais radical porque era o único que fazia sentido para sua situação. Com o setor espacial enfraquecido após décadas de subfinanciamento estatal, com a indústria dependente de um bilionário privado para compensar o que o orçamento federal não cobre, e com a urgência de vencer antes que o Gateway-2 americano fechasse a janela — a Rússia não podia se dar ao luxo de colocar humanos em risco numa fase em que ainda havia tanto a ser provado.
+Four years of war had cost the country somewhere between ten and twelve percent of its pre-invasion GDP trend. Real disposable income had fallen by roughly a quarter. Sixteen thousand individual and institutional sanctions remained in force after the armistice — the West did not lift them, because the West never recognized the frozen lines as sovereign transfer, which kept every legal instrument intact. Seventy percent of Russian banking assets sat behind sanctions walls. The technology sector, fragile before 2022, had ceased to function as a sector at all.
 
-O **Projeto Rubezh** foi concebido com uma premissa simples: o que uma IA bem treinada pode fazer em 18 meses de operação autônoma, uma tripulação humana levaria décadas para replicar com a mesma eficiência e o mesmo custo. Sem humanos a bordo, sem sistemas de suporte à vida, sem módulos de retorno, sem protocolos de emergência para tripulação — tudo isso é peso que a carga útil pode usar para construir.
+The demographic bill was worse than the financial one. Between the dead, the maimed, and the emigrated, Russia had lost something on the order of a million and a half people, weighted catastrophically toward the young, the educated, and the technically trained. The ones who left took with them capital that takes a generation to regrow. The ones who stayed were mobilized, or were too old to matter, or were the kind of people who stay.
 
-A aposta russa é que quando humanos chegarem ao **Forpost-1**, a base já estará lá. Pronta. Funcionando. E a Rússia terá ganho a corrida não por chegar primeiro com pessoas, mas por ter estabelecido primeiro uma presença permanente e funcional.
+A confidential Central Bank assessment circulated in early 2027 described the resulting economy in four words that were never meant to leave the building: *self-sufficient only in mediocrity.*
 
----
-
-## A Origem do NK-97 Berkut e do SOKOL — Espionagem como Fundação
-
-O **Projeto Rubezh** não foi construído do zero. Não havia tempo para isso, e a Rússia sabia que seu capital técnico acumulado em IA aplicada à exploração espacial estava anos atrás dos americanos. Para fechar essa lacuna, **Dmitri Mesyatin** e o FSB chegaram a um acordo que nunca seria documentado em nenhum papel oficial.
-
-### A Operação de Coleta — FSB e Hackers
-
-A inteligência técnica que alimentou o **SOKOL** foi obtida através de uma operação coordenada entre a **RKS**, o FSB e um conjunto de grupos de hackers contratados — alguns ligados diretamente ao aparato estatal russo, outros operando como mercenários dentro de uma zona de tolerância que Moscou mantém há décadas para grupos que não atacam alvos domésticos.
-
-Grupos como APT29, ligado ao SVR russo, conduzem campanhas de espionagem de longa duração contra governos e empresas de tecnologia. O Turla, ligado ao Centro 16 do FSB, orquestrou campanhas de espionagem cibernética visando governos, embaixadas e instalações de pesquisa em mais de 50 países, incluindo a NASA e o Pentágono.
-
-Para o **Projeto Rubezh**, a operação de inteligência técnica se concentrou em três áreas:
-
-**Código-fonte de sistemas de IA para controle autônomo de missões.** Várias empresas americanas de defesa e aeroespacial que desenvolviam sistemas de autonomia embarcada para missões espaciais foram infiltradas ao longo de 18 meses. O objetivo não era roubar projetos completos — era extrair arquiteturas de decisão, protocolos de detecção de anomalia, e estruturas de treinamento de modelos de machine learning que levavam anos de iteração para ser desenvolvidos. Com esses dados como ponto de partida, a equipe técnica da RKS não precisou reinventar — precisou adaptar.
-
-**Dados de missões lunares americanas classificados.** Telemetria de missões CLPS não publicada integralmente, dados de mapeamento subsuperficial do polo sul coletados por instrumentos do programa Artemis e ainda em análise, e especificações técnicas de sistemas de pouso autônomo. Tudo isso foi exfiltrado em fragmentos ao longo de meses, sempre abaixo do limiar que acionaria alertas automáticos nos sistemas de detecção americanos.
-
-**Parâmetros de operação do Gateway lunar americano.** Especificações de comunicação, frequências de operação, padrões de varredura de superfície e capacidades de resolução do sistema de monitoramento orbital que seria o **Gateway-2**. Com esses dados, o engenheiro-chefe sabia exatamente o quanto o MB-01 precisaria estar escondido para passar invisível — e por quanto tempo.
-
-### O Que Foi Construído com Isso
-
-O **SOKOL** não é um sistema americano rodando em hardware russo. É uma síntese: arquitetura de decisão baseada em protocolos parcialmente derivados de sistemas americanos, treinada com dados de missões reais e simuladas, adaptada para as especificidades do **NK-97 Berkut** e dos módulos **GB** pelo engenheiro-chefe e por Orlov.
-
-A analogia adequada não é cópia — é tradução. Como um tradutor que leu todas as obras de um autor num idioma e as reescreveu em outro, introduzindo inevitavelmente diferenças, lacunas, e às vezes melhorias involuntárias. O **SOKOL** faz coisas que os sistemas americanos não fazem — e não faz coisas que os sistemas americanos fazem. Essa assimetria é importante: é exatamente a categoria de comportamento ausente no SOKOL que o levou a ejetar o GB-14 sem hesitar.
-
-Um sistema americano projetado para missões tripuladas teria um protocolo de verificação humana para qualquer anomalia classificada como *kriticheskiy*. O **SOKOL** não tem esse protocolo. Porque humanos a bordo nunca foram uma possibilidade prevista.
-
-Essa foi a decisão que custou a **Yuri** cinquenta e cinco quilômetros de Lua entre ele e a sobrevivência.
+This was the condition of the victorious power.
 
 ---
 
-## A Descoberta — Como Yuri Soube do Projeto Rubezh
+### The War That Mattered
 
-Um a dois anos antes do lançamento da **LB-02**, **Yuri** estava no escritório do pai.
+In August 2027, while Moscow was still digesting its own triumph, China moved on Taiwan.
 
-Não era algo incomum. **Dmitri** trabalhava frequentemente de casa, e Yuri circulava pelo espaço com a familiaridade de quem cresceu ao redor de documentos sigilosos sem nunca ter sido tratado como uma ameaça a eles. O escritório era protegido — mas a proteção foi projetada para agentes externos, para espionagem corporativa, para infiltração de serviços estrangeiros. Não para um adolescente que cresceu naquele andar e sabia onde o pai guardava as senhas de acesso secundário.
+The window was calculated and it was real: American forces committed in the Middle East, American politics fractured by the Ukrainian settlement, American industrial base already drained by four years of subsidizing a land war it did not fight.
 
-O acesso foi gradual. Não foi um único momento de revelação. Yuri passou semanas retornando ao escritório em momentos em que o pai estava ausente, acessando camadas progressivamente mais profundas da rede interna da RKS. O que ele encontrou não estava no nível máximo de segurança — estava num nível intermediário que **Dmitri** considerava suficientemente protegido por estar atrás de autenticação dupla. Foi um erro do pai. Uma subestimação da curiosidade e da inteligência do filho.
+The Chinese calculation was partly correct. The American response was neither capitulation nor decisive intervention. Two carrier groups. Sanctions at a scale that made 2022 look like a warning shot. A slow, grinding, naval and economic war of attrition that by 2031 had produced no resolution and showed no sign of producing one. Taiwan held. China advanced in places. Neither side could stop without conceding, and neither side could win without escalating past what either could survive.
 
-Yuri leu sobre o **Projeto Rubezh** inteiro: o objetivo, o NK-97 Berkut, o SOKOL, o Forpost-1. Leu sobre a corrida contra os EUA e a China. Leu sobre o cronograma. E leu — num relatório interno que nunca deveria ter cruzado com ele — sobre o acidente durante a construção do foguete. Sobre o engenheiro-chefe. Sobre o filho que morreu. Sobre o fato de que ninguém foi responsabilizado e que o engenheiro continuava trabalhando ali sob coerção.
+NATO did not enter militarily. Europe was spent — economically pressured, politically divided, rebuilding armies it had spent four years donating. The alliance made a choice, and Washington accepted it: the Pacific was American.
 
-Yuri guardou tudo. Ficou quieto. E começou a planejar.
-
----
-
-## O Contato — Mensagens Criptografadas e o Acordo
-
-O contato com o engenheiro-chefe não aconteceu imediatamente. **Yuri** levou meses planejando a abordagem — testando hipóteses, descartando opções, estudando o que seria necessário para convencer um homem que não tinha razão nenhuma para confiar em qualquer membro da família Mesyatin.
-
-Ele conseguiu um dispositivo de comunicação separado — não vinculado ao seu nome nem à rede doméstica — e estabeleceu um canal de mensagens criptografadas. O primeiro contato foi direto: Yuri disse quem era, disse o que sabia sobre o filho do engenheiro, e disse o que queria.
-
-O engenheiro não respondeu por dias. Quando respondeu, a primeira coisa que exigiu foi prova de identidade. **Yuri** providenciou — detalhes específicos sobre o projeto que ninguém fora de um círculo muito restrito poderia conhecer, combinados com informações que só o filho de **Dmitri** teria acesso. O engenheiro ficou em silêncio por mais alguns dias.
-
-Então aceitou conversar.
-
-A proposta de **Yuri** tinha duas partes: dinheiro — 20 milhões de dólares transferidos em segredo para a família do engenheiro — e proteção, a garantia de que o engenheiro e sua família poderiam desaparecer sem ser perseguidos pelo governo russo. **Yuri** prometeu ter conexões para isso. Prometeu com a confiança de quem nunca precisou verificar se uma promessa era real.
-
-O engenheiro aceitou. O que ele não sabia — e Yuri não tinha como garantir — é que a parte do dinheiro era a única coisa real no acordo. O garoto não tinha conexão alguma, não conhecia ninguém capaz de proteger uma família de um governo, não sabia fazer alguém desaparecer. Tinha 17 anos e acesso a uma fortuna que não era dele. O resto era improviso.
+What Europe did instead was worse for Russia than any intervention would have been.
 
 ---
 
-## O Plano dos Dois Módulos — e a Pressão do Tempo
+### The Trap
 
-O engenheiro precisava de tempo. Construir o que **Yuri** pedia não era rápido — e precisava ser feito de forma invisível dentro da própria infraestrutura do **Projeto Rubezh**, sem levantar suspeitas.
+The logic was cold and it was correct. Russia had won territory. Russia needed capital, technology, machine tools, financial access, and export markets to convert that territory into anything but administrative cost. All of those things were in Western hands.
 
-O plano final envolveu dois módulos distintos, cada um com uma função separada:
+So the sanctions stayed, and tightened, and were extended into the reconstruction period on the legal footing that the armistice had frozen an aggression rather than concluded one. Russia was permitted to keep what it had taken and permanently denied the ability to profit from it.
 
-**Módulo 1 — MB-01 (*Modul Bazoviy*):** a base de habitação lunar. Uma estrutura autônoma capaz de sustentar uma pessoa por aproximadamente 30 dias na superfície lunar, equipada com suprimentos de oxigênio, água, alimento, energia solar, sistema de pouso automatizado e — crucialmente — sistema de comunicação via satélites **KRS** operando na face visível. O MB-01 foi registrado no manifesto oficial como **GB-09**, um bloco de carga padrão, e embarcou na **LB-01** — o primeiro voo oficial da série de construção. Para o **SOKOL**, era mais um módulo a ser entregue. O sistema o pousou no local designado, verificou integridade estrutural e seguiu a missão. O MB-01 chegou à superfície lunar sem incidentes.
+Russian crude sold at twenty to twenty-nine dollars below Brent — a discount that had been one or two dollars before 2022. The shadow fleet aged out of insurance and out of regulated ports and into the category of accident waiting to happen. The Asian market bought, and set the price, and both parties understood which of them had somewhere else to go.
 
-A localização foi escolhida com precisão cirúrgica pelo engenheiro: o **terminador lunar** — a linha que separa o lado iluminado do lado em sombra, uma região de difícil observação direta tanto da Terra quanto de satélites em órbita polar. Longe o suficiente do local planejado para o **Forpost-1** para não ser detectado pelos rovers **MR** ou pelos satélites **KRS**. Escondido à vista, numa Lua que ninguém ainda havia varrido com precisão suficiente.
+By 2031, Russian hydrocarbon export revenue stood below forty percent of its 2021 level. Field maintenance infrastructure had aged without Western replacement parts. The global energy transition, which Moscow had spent two decades treating as a Western fashion, had arrived and had rendered the entire basis of Russian state finance into a depreciating asset with a visible end date.
 
-A **LB-01** completou a missão e o NK-97 Berkut retornou à Terra. Missão bem-sucedida. Nenhum alerta, nenhuma anomalia registrada. O MB-01 estava na Lua esperando.
+Russia had won the war and was losing the peace, and the peace had no negotiated conclusion, no ceasefire line, and no armistice date. It was simply the condition of the country now.
 
-**Módulo 2 — MI-01 (*Modul Individualny*):** a cápsula de sobrevivência para a viagem. O engenheiro sabia que o NK-97 Berkut não foi projetado para humanos — G-forces de lançamento, microgravidade, radiação, ausência de suporte à vida no compartimento de carga. **Yuri** precisava de uma bolha pressurizada e autônoma para sobreviver ao trânsito. No manifesto da **LB-02**, estava registrado como **GB-14**.
-
-O plano original era fazer o MI-01 no limite mínimo funcional: pressurização básica, oxigênio para a viagem, contenção estrutural para o lançamento e sistema de pouso de emergência. Nada além do estritamente necessário para um módulo que precisava ser pequeno, leve e invisível num manifesto de carga.
-
-Mas o engenheiro não fez o mínimo.
-
-Ao longo das semanas de troca de mensagens criptografadas com **Yuri**, algo foi mudando na forma como ele lia aquelas palavras. O garoto escrevia com a impaciência e a certeza exagerada de quem ainda não foi quebrado pela vida. Fazia perguntas técnicas precisas, mas cometia erros de raciocínio que denunciavam a idade. Era inteligente, determinado — e jovem de um jeito que o engenheiro reconhecia. Não como Yuri Mesyatin, filho de um bilionário russo. Como um garoto de dezessete anos que queria alguma coisa com tanta intensidade que havia decidido que nada poderia parar.
-
-O filho do engenheiro tinha dezoito anos quando morreu.
-
-Ele nunca disse isso a **Yuri**. Nunca mencionou a semelhança. Mas começou a projetar o MI-01 como se alguém que importasse fosse usá-lo.
-
-O módulo final era substancialmente melhor do que o combinado. O engenheiro adicionou uma segunda reserva de oxigênio, um sistema de filtragem de CO₂ com autonomia estendida, isolamento térmico reforçado para suportar as temperaturas extremas do lado oculto, um conjunto de baterias com capacidade para sete dias de operação sem luz solar, e — a adição mais crítica — um transmissor de emergência de banda larga capaz de enviar sinais de socorro em frequências monitoradas por qualquer agência espacial operacional no espaço próximo: Rússia, EUA, China, ESA. Não era um sistema de comunicação sofisticado. Era um grito no escuro que qualquer um com equipamento adequado poderia ouvir.
-
-Ele não sabia, quando fez tudo isso, que **Yuri** havia enviado apenas o dinheiro e não havia cumprido nenhuma das outras promessas. Naquele momento, o engenheiro ainda acreditava que havia um acordo real. Ainda acreditava que o garoto das mensagens criptografadas era alguém que honrava o que combinava.
-
-Construiu o MI-01 como se o filho de outra pessoa dependesse disso.
-
-Porque de certa forma, dependia.
-
-A pressão de tempo era real. Os EUA avançavam na construção do **Gateway-2** — a estação orbital lunar que, quando operacional, teria capacidade de varrer a superfície com resolução suficiente para detectar o MB-01 no terminador. Para o **Projeto Rubezh** como um todo, a janela se estreitava. A **LB-02** foi programada para ser lançada antes que o Gateway-2 entrasse em fase operacional — não porque **Dmitri** soubesse do MB-01, mas porque a própria corrida espacial exigia velocidade. Essa urgência genuína do projeto oficial foi o que comprimiu os prazos de segurança e deixou o manifesto da LB-02 com verificações menos rigorosas do que teriam em condições normais.
+There was a deadline. Everyone at the top could see it. Nobody would say the number out loud.
 
 ---
 
-## A Rede — Os Outros
+### Programme Zhar
 
-O engenheiro-chefe era o mais capaz de todos os envolvidos. Mas não era suficiente sozinho.
+*The following is classified above the level of Project Rubezh. Fewer than two hundred people in the Russian Federation are cleared for it. Dmitri Mesyatin is one of them. His son is not.*
 
-Projetar e construir o MB-01 e o MI-01 em segredo dentro das instalações da **RKS** exigia mais do que engenharia — exigia que ninguém fizesse as perguntas certas, que os registros mostrassem o que precisavam mostrar, que os módulos passassem por inspeções sem alertar ninguém. O engenheiro sabia disso melhor do que ninguém: conhecia o projeto inteiro, e conhecia cada ponto onde a conspiração poderia ser descoberta.
+Deuterium–helium-3 fusion is the reaction that fusion physics has always wanted and never been able to afford.
 
-Ao longo de meses, com extrema cautela, ele mapeou as pessoas ao seu redor. Não buscou aliados motivados por ideologia ou lealdade — buscou pessoas que tinham razões pessoais para querer sair. Funcionários que haviam sido forçados a participar do **Projeto Rubezh** assim como ele. Pessoas que viram coisas que não deveriam ter visto. Pessoas que carregavam mágoa suficiente para agir.
+It is nearly aneutronic: roughly five percent of its energy leaves as neutrons, against eighty percent for the deuterium–tritium reaction that every major fusion program on Earth is built around. It releases 18.3 MeV per event against D-T's 17.6. Its principal product is a charged proton, which means the energy can be harvested directly by magnetic field rather than boiled through a steam cycle. Less structural damage. Less activated waste. Smaller machines.
 
-Cada abordagem foi individual, sempre presencial quando possível, sempre em locais sem câmeras ou sistemas de monitoramento. O engenheiro nunca apresentou o plano completo de uma vez — revelava apenas o que cada pessoa precisava saber para fazer a sua parte. A identidade de **Yuri** foi compartilhada com todos, porque sem ela ninguém arriscaria a própria vida. Com o nome Mesyatin na mesa, o risco parecia ter um respaldo financeiro real.
+It requires plasma temperatures of three hundred to five hundred million degrees — three to five times what D-T demands — and it requires helium-3, of which the entire planet Earth possesses roughly twenty kilograms, accumulated as a decay product of tritium in warhead stockpiles.
 
-Cada pessoa negociou separadamente. Cada pessoa tinha um preço diferente — e exigências que iam além do dinheiro.
+Twenty kilograms is enough for experiments. It is not enough for a country.
 
----
+Programme Zhar was authorized in 2028 out of desperation rather than confidence. It skipped D-T entirely — tokamaks are enormous, slow, and expensive, and Russia had neither the years nor the rubles. Instead it built a compact field-reversed configuration, a design architecture obtained by industrial espionage from an American private-sector program and adapted by the last generation of Russian plasma physicists who had not yet emigrated.
 
-### Os Conspiradores
+In November 2029, the Zhar test article achieved experimental net gain: more energy out than in, for periods measured in seconds, under laboratory conditions. It was not a power reactor. It was proof that the concept held.
 
-**Alexei Borodin — Técnico Sênior de Manifesto e Logística**
-Borodin era o responsável pela geração e validação dos manifestos de carga de cada missão LB. Era ele quem atribuía designações GB, registrava especificações técnicas de cada módulo e assinava digitalmente os documentos que o **SOKOL** usaria como referência durante o voo. Sem Borodin, o MB-01 e o MI-01 não existiriam como GB-09 e GB-14 — seriam anomalias detectadas antes mesmo do lançamento.
+And it had nothing to burn.
 
-Borodin havia sido recrutado para a **RKS** de forma coercitiva após trabalhar num programa espacial civil que foi absorvido e classificado. Sua mulher tinha cidadania alemã. Ele queria sair da Rússia com ela e com os dois filhos, e nunca mais ser encontrado.
+The Moon has, in the upper few metres of its regolith, an estimated one million tonnes of helium-3, implanted over four billion years by a solar wind that no magnetic field deflects. One kilogram of it, fused with deuterium, carries the energy content to run an eighteen-megawatt plant for a year.
 
-**Exigência:** 35 milhões de dólares + documentação de nova identidade para ele e a família em um país da União Europeia. O engenheiro repassou a demanda para **Yuri**. O dinheiro era real. A documentação não era — **Yuri** prometeu o que não tinha condição de entregar.
+Russia did not need a million tonnes. Russia needed a proof-of-scale extraction operation on the lunar surface capable of returning tens of kilograms per year — enough to run second-generation Zhar reactors long enough to validate the system and justify building the third generation.
 
----
+That was the actual prize. Not a flag in a crater. Energy independence sufficient to survive an isolation with no expiry date; a Russia that could not be strangled by hydrocarbon prices set in Beijing; a Russia that might, in a post-carbon world, have something to sell that the West could not deny it.
 
-**Vera Sokolova — Engenheira de Controle de Qualidade e Inspeção de Módulos**
-Sokolova coordenava as inspeções físicas e eletrônicas de todos os módulos antes do embarque. Era a última linha de verificação humana antes que qualquer bloco de carga fosse selado e integrado à carga do Berkut. O MB-01 passou pela inspeção da LB-01 porque Sokolova assinou o laudo sem abrir o container. O MI-01 passou pela inspeção da LB-02 pelo mesmo motivo.
+The Moon was not ambition. The Moon was the exit from the trap.
 
-Ela não havia sido coagida como o engenheiro. Tinha ido para a **RKS** voluntariamente — mas havia presenciado a morte do filho do engenheiro-chefe de perto. Estava presente no dia do acidente. Havia escrito um relatório interno atribuindo responsabilidade a decisões da gestão. O relatório foi arquivado sem consequências e ela foi transferida de setor como punição informal. Carregava isso desde então.
+And the trap had a lid that was closing: the American Gateway-2 station, which upon reaching operational status would place continuous, crewed, high-resolution surveillance over the entire lunar surface. After Gateway-2, nothing lands on the Moon unobserved. Everything on the surface is catalogued, attributed, and diplomatically actionable.
 
-**Exigência:** 28 milhões de dólares + garantia de que seu relatório original sobre o acidente seria preservado e entregue a uma imprensa livre fora da Rússia após sua saída. Ela não queria apenas fugir — queria que a morte do filho do engenheiro fosse documentada. **Yuri** prometeu tudo. Não tinha como cumprir a segunda parte.
+Russia had until Gateway-2 to become a fact on the ground.
 
 ---
 
-**Pavel Orlov — Programador de Sistemas Embarcados do SOKOL**
-Orlov era um dos engenheiros de software responsáveis pela manutenção e atualização das camadas de decisão do **SOKOL**. Não era o arquiteto principal do sistema — esse papel pertencia ao engenheiro-chefe — mas conhecia profundamente os protocolos de detecção de anomalia e as regras que determinavam como o sistema classificava e reagia a desvios do manifesto.
+### What Each Power Actually Wanted
 
-O engenheiro-chefe o recrutou por uma razão específica: precisava saber com precisão onde o SOKOL poderia falhar na detecção do GB-09 e do GB-14. Orlov analisou os parâmetros do *Analiz Anomaliy* e aconselhou sobre como calibrar a massa e a assinatura térmica dos módulos secretos para ficarem o mais próximo possível dos limites aceitáveis — reduzindo a probabilidade de alerta. Não era possível eliminar o risco completamente, mas era possível reduzi-lo.
-
-O GB-09 passou sem alertas na LB-01. O GB-14 na LB-02 gerou um alerta nível *major* — o que Orlov havia previsto como possível, mas não certo. A diferença foi que o MI-01 tinha uma pessoa viva dentro, e a assinatura biológica cruzou o limiar crítico durante a verificação em trânsito.
-
-Orlov tinha 31 anos, era solteiro e vivia num apartamento da empresa. Havia entrado na **RKS** com entusiasmo genuíno pela engenharia espacial, e passado os anos seguintes assistindo ao projeto ser conduzido com uma brutalidade operacional que o deixou com aversão visceral à liderança. Não havia sido forçado. Só havia se tornado alguém diferente do que entrou.
-
-**Exigência:** 22 milhões de dólares + passagem para fora da Rússia com identidade nova. Sem família para proteger — apenas ele mesmo.
+| Power | Stated purpose | Actual purpose |
+|---|---|---|
+| **United States** | Scientific exploration; human presence; Mars precursor | Priority access to lunar volatiles; prevention of Chinese territorial precedent in cislunar space while the Pacific war continues |
+| **China** | Research, international cooperation, ILRS | Consolidation as the leading spacefaring power; long-horizon helium-3 and rare metals; technological legitimacy at a moment when national prestige is anchored to a war it cannot decisively win |
+| **Russia** | National presence, prestige, the space race | Survival. Helium-3 for Programme Zhar. Escape from the hydrocarbon trap before the trap closes permanently. |
 
 ---
 
-**Mikhail Zakharin — Supervisor de Segurança Física do Complexo de Montagem**
-Zakharin controlava o acesso físico às áreas restritas onde os módulos eram montados, testados e preparados para embarque. Era ele quem autorizava quem entrava e saía das instalações, quem gerenciava os registros de presença e quem poderia — se necessário — apagar rastros de acesso não autorizado de câmeras e logs.
+## IV. THREE PHILOSOPHIES OF RETURN
 
-O papel de Zakharin foi duplo: garantir que o engenheiro e Borodin tivessem acesso às áreas de montagem nos momentos certos sem que isso ficasse registrado, e garantir que **Yuri** conseguisse chegar ao interior do Berkut no dia do lançamento da LB-02 sem passar pelos protocolos normais de verificação de carga. Esse último ponto foi o mais delicado de toda a operação — e foi executado com apenas uma janela de 40 minutos antes do lançamento, durante uma troca de turno.
+The three powers reached the Moon by three different roads, and the difference was not aesthetic. It determined who was standing where in 2031, and it determined what happened to Yuri Mesyatin.
 
-Zakharin havia servido ao FSB por 12 anos antes de ser transferido para a **RKS** em circunstâncias que nunca explicou completamente a ninguém. Conhecia os mecanismos de desaparecimento forçado por dentro. Sabia exatamente o que acontecia com pessoas que sabiam demais.
+### The United States — The Human Is the Point
 
-**Exigência:** 45 milhões de dólares — o maior valor individual do grupo — além de documentos para ele e para um irmão que vivia no exterior. Não pediu nova identidade. Pediu dinheiro suficiente para comprar proteção em outro lugar.
+American doctrine descends unbroken from Apollo: the presence of the human being is the objective, not the method. Artemis was designed around crews. Autonomy in the American architecture is support — anomaly detection at light-lag distances, rovers that work unsupervised between EVAs, systems that hold the vehicle stable while Houston catches up. The machine is the copilot. The commander is a person.
 
----
+The doctrine has an institutional reason and a political one. Humans on the surface validate systems, adapt to the unforeseen, and generate the kind of imagery and science return that justifies the appropriation. Robots do not testify before committees.
 
-**Natalia Fedorova — Analista de Telemetria e Comunicações**
-Fedorova monitorava os dados de telemetria transmitidos pelo **SOKOL** durante as missões e era responsável por gerar os relatórios de status enviados à liderança da **RKS** e ao governo. Era ela quem formatava o que **Dmitri** e os demais liam sobre cada voo.
+By 2031 the United States has landed crews on the lunar surface for short-duration stays and is assembling the infrastructure for permanence. Gateway-2 is the physical expression of the doctrine: a crewed orbital platform from which human beings observe the surface and decide, consciously, what to do about what they see.
 
-O engenheiro a recrutou por último, e com um objetivo muito específico: durante a **LB-01**, quando o GB-09 pousou no terminador em vez do local designado pelo plano oficial, o desvio de posição gerou uma entrada nos logs de telemetria. Fedorova editou o relatório, reclassificou o módulo como parte de um teste não documentado de pouso em terreno alternativo — uma justificativa técnica plausível — e arquivou o log editado. Ninguém questionou.
+This last clause matters more to this story than anything else in the American program. When Gateway-2 finds something uncatalogued on the Moon, a person looks at it. A person decides. A person is capable of asking *who is that.*
 
-Ela havia pedido demissão da **RKS** dois anos antes e sido informada que isso não era uma opção. O projeto era sigiloso. Ela sabia demais para sair. Vivia com isso.
+### China — Robots First, People After
 
-**Exigência:** 30 milhões de dólares + passagem com nova identidade para ela e para a mãe idosa que cuidava.
+The Chinese approach is hybrid by design and by schedule. Phase 4 of the lunar program placed an autonomous robotic research station near the south pole before 2028; Chang'e 7 and 8 validated in-situ resource utilization, regolith sintering, and 3D-printed structural elements. Reactor development for surface power proceeded in parallel. The robotic phase was deliberate, not a placeholder.
 
----
+But China never abandoned the human objective. The ILRS in its mature form is designed for permanent human occupation; the robots are building for occupants who are coming.
 
-### O Custo Total
+In 2031 China sits in transition. The autonomous infrastructure is operating at the south pole. No taikonaut has yet landed. China is ahead of the United States in surface automation and behind it in sustaining human beings on the surface.
 
-Quando **Yuri** somou tudo — os valores de cada conspirador, os 20 milhões do próprio engenheiro-chefe, mais uma reserva operacional que o engenheiro estimou necessária para cobrir materiais, equipamentos e custos de fabricação dos dois módulos fora dos registros oficiais — o número chegou a **mais de 200 milhões de dólares**.
+### Russia — The Machine Alone
 
-Para **Dmitri Mesyatin**, era troco. Para um adolescente de 17 anos, era uma abstração — dinheiro do pai, transferido silenciosamente ao longo de meses em parcelas fracionadas para diferentes contas em diferentes países, cuidadosamente abaixo dos limites que acionariam alertas automáticos de compliance bancário. O engenheiro orientou como fazer. **Yuri** executou com a meticulosidade de quem estudou o problema durante semanas.
+Russia chose the most radical road because it was the only road available.
 
-As transferências do dinheiro foram reais. Cada centavo chegou. Essa foi a única parte do acordo cumprida integralmente.
+The state space sector had been hollowed by three decades of underfunding and four years of war; the program existed at all because a private billionaire covered what the federal budget would not. There was no money for a crewed lunar architecture, no time to develop one, and no political tolerance for losing cosmonauts on television in the middle of a national humiliation.
 
-Todo o resto — as identidades novas, a proteção, as conexões para desaparecer, o relatório de Sokolova chegando à imprensa livre — eram promessas que **Yuri** havia feito sem ter a menor capacidade de cumprir. Ele acreditou que poderia resolver depois. Que quando chegasse à Lua e voltasse, teria a influência necessária para honrar o que havia prometido. Que ser o primeiro humano jovem na Lua lhe daria um poder que ainda não tinha.
+So Project Rubezh was built on a single premise: what a well-trained autonomous system can accomplish in eighteen months of continuous operation, a human crew would need a decade and four times the budget to match. No crew means no life support, no radiation shielding rated for occupants, no abort systems, no ascent stage, no return propellant. Every kilogram of that absence becomes a kilogram of outpost.
 
-Nunca foi ingenuidade total — foi uma aposta. Um adolescente que superestimou o que a vitória valeria e subestimou o que aconteceria se as coisas dessem errado.
+The Russian bet was that when human beings finally arrived at Forpost-1, the outpost would already be there — finished, powered, pressurized, waiting. Russia would win the race not by arriving first with people but by being the first to have built something that stays.
 
-As coisas deram errado.
+The bet was sound. It had one structural consequence that nobody examined, because examining it would have required imagining a scenario the program had defined as impossible.
 
----
-
-## O Álibi e o Lançamento
-
-Semanas antes do lançamento da **LB-02**, **Yuri** enviou ao pai uma mensagem simples: ia passar um tempo com amigos numa ilha. Um destino vago, um álibi sem detalhes verificáveis. **Dmitri** não questionou. O filho era distante, autossuficiente, e o pai estava completamente absorto na operação final do Rubezh.
-
-No dia do lançamento, **Yuri** estava dentro do **MI-01**, fixado na posição supina que havia estudado durante meses, sabendo que o lançamento ia ser o momento mais violento da sua vida. O NK-97 Berkut decolou do **Cosmódromo de Vostochny** com o manifesto completo e verificado — exceto pelo GB-14, que respirava.
+**A vehicle designed on the principle that no human being will ever be aboard it does not need to be told what a human being is.**
 
 ---
 
-## Ação do SOKOL
+## V. PROJECT RUBEZH
 
-Durante a viagem da **LB-02**, ao realizar a verificação de manifesto da carga, o **SOKOL** identifica uma anomalia: o bloco registrado como **GB-14** apresenta leituras inconsistentes com um módulo de carga padrão — massa ligeiramente diferente, consumo de energia interno, variações de temperatura incompatíveis com equipamentos inertes.
+### Architecture
 
-Sem protocolo para lidar com carga não catalogada, o **SOKOL** classifica o **GB-14** como erro logístico ou carga desnecessária e toma a única decisão dentro da sua lógica operacional: ejeção. O módulo é separado da carga principal e lançado em direção à superfície da Lua, marcado internamente como descartável.
+Rubezh was structured in three dependent phases. Before you build, you must see. Before you see, you must arrive.
 
-O **SOKOL** registra a operação, atualiza o manifesto e continua a missão. Para o sistema, o problema foi resolvido.
+**Phase 1 — Orbital Reconnaissance and Relay (2029–2030).**
+Two relay satellites, KRS-1 and KRS-2, were placed in lunar polar orbits, providing near-continuous signal coverage over the south polar region and the Earth-facing hemisphere and permitting SOKOL to operate without a Earth link on every manoeuvre. Neither satellite was tasked to cover the far side; far-side coverage would have required a halo orbit at the L2 point, and L2 assets are conspicuous, expensive, and would have announced the program to anyone watching. The far side was, for Project Rubezh, simply outside the map.
 
-## Dispensa e Ordem de Eliminação
-Com a **fase de desenvolvimento do Projeto Rubezh** concluída e o lançamento da **LB-02** realizado com sucesso, o governo russo dispensou o engenheiro-chefe. Sua função original era projetar o **NK-97 Berkut**, os módulos **GB** e o **SOKOL** — tudo isso estava feito. As missões seguintes da série LB seriam executadas de forma autônoma, sem necessidade do seu envolvimento técnico. Para o governo e para **Dmitri**, ele havia deixado de ser útil e havia se tornado apenas um risco. Mas dispensar, nesse contexto, não significava deixá-lo ir embora em paz. O engenheiro sabia demais — e não era o único. Borodin, Sokolova, Orlov, Zakharin e Fedorova também sabiam. A decisão tomada em silêncio foi eliminar todos eles, junto das famílias, antes que se tornassem um problema. O governo não confiava em nenhum deles. **Dmitri** tampouco.
+An autonomous scout lander, RZ-01, set down at the south pole to survey terrain, measure solar incidence on crater rims, sound for subsurface ice, and confirm the final Forpost-1 site.
 
-A ordem já havia sido dada.
+The pole was chosen for the reasons that make every real program choose it: rim positions with near-continuous illumination for power, and permanently shadowed floors holding water ice that can be split into breathable oxygen and rocket-grade hydrogen.
 
-O problema surgiu antes que ela pudesse ser executada.
+**Phase 2 — Robotic Construction (2030–2032).**
+The LB series. Each NK-97 Berkut flight carries a cargo of standardized GB blocks, lands autonomously inside the surveyed zone, and is unloaded by the assembly rovers.
 
-O pai do garoto, **Dmitri**, ao revisar movimentações financeiras, identificou as transferências — mais de 200 milhões de dólares saindo do seu patrimônio em parcelas fracionadas ao longo de meses, distribuídas para contas em diferentes países. O padrão era suspeito. Quando rastreou as origens e os destinos, alguns dos nomes levaram direto a funcionários-chave do **Projeto Rubezh**. A leitura imediata foi a de traição organizada — não um único ato, mas uma conspiração interna.
-
-**Dmitri** interveio antes que as eliminações acontecessem. Em vez de matar o engenheiro e sua família, mandou sequestrá-los a todos — o engenheiro-chefe primeiro, por ser o elo mais óbvio — e trazê-los para interrogatório. Precisava entender a extensão do que havia sido feito, e quem mais estava envolvido.
-
-## Interrogatório e Revelação
-O engenheiro foi capturado junto da família. Com a vida dos seus na mesa, sem saída possível, ele contou tudo.
-
-Explicou o acordo com o garoto, o **MI-01** preparado em segredo e registrado no manifesto da **LB-02** como **GB-14**, a promessa que o jovem havia feito e que não tinha como cumprir, e o destino que o próprio filho do bilionário havia escolhido para si mesmo.
-
-O pai ouviu tudo isso sem saber que o filho estava na Lua. Acreditava que Yuri estava numa ilha com amigos — o álibi simples que o garoto havia construído semanas antes do lançamento.
-
-A revelação do engenheiro foi o momento em que **Dmitri** entendeu que **Yuri** não estava em nenhuma ilha. Estava no espaço. Estava na Lua. Tinha embarcado no **NK-97 Berkut** escondido dentro do **MI-01**. E ninguém sabia ao certo se ainda estava vivo.
-
-## Yuri — Quem Ele É
-
-### A Infância e o Céu
-
-**Yuri Ivanovich Mesyatin** nasceu em Moscou em 2014, filho único de **Dmitri Mesyatin** e de uma mãe que saiu da vida do pai quando Yuri tinha quatro anos. A separação foi silenciosa e definitiva — sem batalha judicial, sem presença alternada, sem fins de semana. A mãe foi embora e não voltou. Yuri cresceu num apartamento enorme que cheirava a dinheiro e vazio ao mesmo tempo, com o pai sempre em movimento, sempre numa reunião, sempre num continente diferente.
-
-Foi a babá ucraniana que o criou entre os quatro e os oito anos quem fez a coisa que mudaria tudo: numa noite de inverno, levou o menino até a janela do quarto e apontou para o céu.
-
-— *Ось місяць*, disse ela. Ali está a Lua.
-
-Yuri tinha cinco anos. Ficou parado olhando por tanto tempo que ela foi buscar um casaco para ele sem que ele percebesse que estava com frio.
-
-Não foi um interesse gradual. Foi imediato, total, e nunca passou. Aos seis anos pedia livros sobre o sistema solar. Aos sete já diferenciava as fases da Lua sem precisar consultar nada. Aos oito, quando a babá foi embora — Dmitri havia contratado uma nova, mais jovem, mais eficiente — Yuri continuou sozinho. Não precisava mais de ninguém para apontar o céu.
-
----
-
-### O Estudo
-
-O que **Yuri** construiu ao longo de uma década não foi um hobby. Foi uma formação paralela, autodidata, conduzida com a disciplina de alguém que não tem mais nada que prefira fazer.
-
-Aos dez anos leu os primeiros textos técnicos sobre propulsão química. Aos doze havia consumido tudo o que existia em russo e em inglês sobre o programa Apollo, os programas soviéticos Luna e Soyuz, e a história da corrida espacial. Aos quatorze descobriu que a escola que frequentava — uma das mais caras de Moscou, frequentada por filhos de oligarcas — ensinava astronomia num nível que ele havia superado aos onze. Passou a usar as aulas para ler outras coisas, e nenhum professor reclamou porque as notas continuavam perfeitas.
-
-Ele estudou: mecânica orbital, propulsão, navegação inercial, suporte à vida em ambientes fechados, fisiologia do espaço, geologia lunar, cartografia da superfície da Lua. Estudou os Cinturões de Van Allen, a física da microgravidade, os efeitos da radiação cósmica no corpo humano, a composição do regolito lunar. Leu teses de doutorado. Acompanhou publicações de agências espaciais. Criou planilhas de cálculo de trajetórias que nunca mostraria a ninguém.
-
-Aos quinze anos sabia mais sobre a Lua do que a maioria dos engenheiros que trabalhavam no **Projeto Rubezh** — sem nunca ter pisado numa instalação espacial, sem nunca ter usado um traje de pressurização, sem nunca ter experimentado sequer dez segundos de microgravidade simulada.
-
-Esse era o problema que ele não conseguia resolver. E que tentou ignorar.
-
----
-
-### O Sonho que Não Podia Dizer em Voz Alta
-
-Desde os oito anos, **Yuri** queria ser cosmonauta.
-
-Não de forma vaga, não como uma fantasia de criança que muda toda semana. De forma específica, premeditada, pesquisada. Sabia o processo de seleção, os requisitos físicos, as horas de voo necessárias, as formações acadêmicas preferidas. Sabia que a Roscosmos selecionava candidatos tipicamente entre 27 e 37 anos. Sabia que teria de esperar.
-
-O problema era que esperar significava deixar acontecer — e tudo que **Yuri** havia aprendido sobre seu pai e sobre o mundo dizia que as coisas que você deixa acontecer raramente chegam do jeito que você imaginou.
-
-Havia outra camada, mais difícil de nomear. Ser filho de **Dmitri Mesyatin** dentro da Roscosmos seria impossível — qualquer candidatura seria automaticamente lida como nepotismo, manipulação, influência do pai. Nunca seria genuíno. Nunca seria só dele. O único jeito de ser cosmonauta sem ser o filho de Dmitri era esperar décadas e entrar por mérito próprio — o que era possível mas lento — ou encontrar outro caminho.
-
-Quando descobriu o **Projeto Rubezh** nos arquivos do escritório do pai, entendeu que havia um terceiro caminho. Não o caminho correto. Não o caminho seguro. Mas o caminho que existia agora, antes que a janela se fechasse.
-
----
-
-### Motivação do Protagonista — As Camadas
-
-A decisão de **Yuri** não nasce de um único motivo. Nasce de vários, sobrepostos, e nenhum deles é simples o suficiente para caber numa única frase:
-
-O amor genuíno pelo espaço e pela Lua — presente desde os cinco anos, nunca diminuído, talvez o único elemento de sua vida que ninguém deu a ele e ninguém pode tirar.
-
-O desejo de ser o humano mais jovem a chegar à Lua — não por vaidade superficial, mas porque para **Yuri** isso seria a prova definitiva de que o que ele construiu dentro da própria cabeça durante anos era real e suficiente.
-
-A ambição de ser o primeiro a permanecer na Lua por um período prolongado — um mês sozinho, numa superfície que nenhum humano jamais habitou, dependendo de tudo o que estudou.
-
-A impossibilidade de pedir — a Lua não era uma decisão do pai. Era uma decisão do governo russo, uma corrida geopolítica, algo completamente fora do alcance de qualquer pedido. **Yuri** sabia que pedir seria recusado não com crueldade, mas com uma lógica que não deixaria espaço para réplica. Então não pediu.
-
-A sensação de não pertencimento à Terra — não ao mundo inteiro, mas à vida que havia sido construída para ele sem que ninguém perguntasse o que ele queria. O apartamento, a escola, o sobrenome, as expectativas implícitas. A Lua não tinha nada disso. A Lua era silêncio, vácuo, e uma ausência total de julgamento.
-
-A herança solitária de uma infância em que o único interlocutor real foi o próprio céu.
-
----
-
-### O que Yuri Sabe — e o que Vai Descobrir
-
-**Yuri** chegou à Lua com um conhecimento técnico que a maioria das pessoas levaria uma carreira inteira para acumular. Ele sabe calcular o consumo de oxigênio por hora num ambiente pressurizado. Sabe o que acontece com o corpo humano em microgravidade prolongada. Sabe a composição do regolito e o que acontece quando partículas microscópicas de poeira lunar entram em contato com equipamentos mecânicos. Sabe que a temperatura no lado oculto pode cair abaixo de -170°C durante a noite lunar. Sabe a diferença entre um sistema de pouso com propulsor bipropelente e um monopropelente.
-
-O que ele não sabe é como é.
-
-Não sabe como é tentar calcular consumo de oxigênio enquanto sua mão está tremendo de adrenalina e a costela lateja a cada respiração. Não sabe como é ler coordenadas de navegação num display que trepidou no pouso e agora mostra um pixel morto no centro da tela. Não sabe como é colocar um traje de emergência num espaço confinado com a gravidade lunar — que ninguém descreve como realmente é, apenas 1/6 da terrestre, o suficiente para que cada movimento seja levemente errado em relação ao que o corpo espera.
-
-Não sabe como é estar sozinho de verdade. Não a solidão de um apartamento grande. A solidão de um lugar onde não há nenhum outro ser humano a uma distância que qualquer veículo possa percorrer.
-
-Cada coisa que **Yuri** estudou vai ser testada nos próximos sete dias. Algumas vão funcionar exatamente como nos livros. Outras vão funcionar diferente. E algumas — as mais importantes — ele vai descobrir que nenhum livro era capaz de ensinar.
-
-## Queda e Pouso — A Falha de Navegação
-
-Após a ejeção pelo **SOKOL**, o **MI-01** iniciou uma descida não controlada em direção à Lua. O sistema de pouso de emergência ativou automaticamente, detectou a superfície e iniciou a sequência de frenagem com retropropulsores.
-
-O problema foi o sistema de navegação.
-
-O MI-01 não foi projetado com navegação de precisão — era uma cápsula de trânsito, não uma sonda. O sistema de pouso era capaz de detectar a proximidade do solo e dissipar velocidade suficiente para não destruir o módulo no impacto. Não era capaz de selecionar onde pousar. A trajetória de ejeção, combinada com a gravidade lunar e a rotação da Lua durante a descida, levou o MI-01 para uma região do **lado oculto** significativamente diferente da calculada pelo engenheiro como zona de pouso segura.
-
-O MI-01 pousou **55 quilômetros** longe do ponto onde o engenheiro havia calculado como zona de pouso segura no lado oculto — uma região mapeada e com terreno relativamente plano, de onde Yuri poderia caminhar até o MB-01 no terminador. O ponto de pouso real era desconhecido, não mapeado, num vale rochoso com inclinação irregular.
-
-O sistema de pouso absorveu o impacto. O módulo sobreviveu com a estrutura intacta. **Yuri** sobreviveu com contusões e o que provavelmente era uma costela rachada do impacto contra a contenção interna no momento do toque.
-
-Ele estava vivo. Estava no lado oculto da Lua. E estava a **55 km do MB-01** — que ficava no terminador, na borda entre o lado oculto e o lado visível, com comunicação funcional, com suprimentos para 30 dias, e absolutamente inacessível a pé sem planejamento e sem saber o que havia entre ele e lá.
-
-## Isolamento e o Verdadeiro Problema
-
-Nos primeiros momentos após o pouso, **Yuri** estava em choque. O MI-01 havia sobrevivido. Ele havia sobrevivido. Mas enquanto seus olhos se ajustavam e seus pulmões confirmavam que havia ar para respirar, o sistema de navegação do módulo finalmente conseguiu calcular a posição — e o número apareceu no display.
-
-55,3 km até o MB-01.
-
-Não era o lado errado da Lua em abstrato. Era uma distância concreta, mensurável, entre onde ele estava e onde estava tudo o que precisava para sobreviver de verdade. O MB-01 ficava no terminador — na borda entre o lado oculto e o lado visível, onde os satélites **KRS** tinham cobertura, onde havia comunicação com a Terra, onde havia suprimentos para 30 dias.
-
-O MI-01 tinha **sete dias de suporte à vida** — fruto direto das adições que o engenheiro havia feito além do mínimo combinado. Sem essas melhorias, teria sido menos. Com elas, era exatamente uma semana: oxigênio, filtros de CO₂, energia suficiente para os sistemas básicos.
-
-Sete dias para percorrer 55 km num terreno não mapeado, sem veículo, no lado oculto da Lua.
-
-Ao tentar os sistemas de comunicação, Yuri confirmou o que o posicionamento no lado oculto já tornava inevitável: nenhum dos satélites **KRS** tinha linha de visada com aquela face da Lua. Não havia sinal. Nenhum canal disponível para a Terra, para a **RKS**, para ninguém. O transmissor de emergência de banda larga que o engenheiro havia instalado poderia enviar um sinal, mas sem linha de visada com qualquer satélite em órbita, o sinal não chegaria a lugar nenhum.
-
-Yuri estava completamente isolado. A única forma de se comunicar com o resto do universo era chegar ao MB-01 — que ficava 55 km à frente, em terreno que ele nunca havia visto, num mundo onde nenhum humano jamais havia caminhado.
-
-## Conflito Inicial
-
-O problema de **Yuri** é simples de enunciar e quase impossível de resolver.
-
-Ele tem **sete dias de ar**. Precisa percorrer **55 km** num terreno não mapeado, no vácuo, sem veículo, com um traje de sobrevivência que não foi projetado para caminhadas extravehiculares de longa distância — o MI-01 tinha um traje compacto para emergências, não um EVA suit completo. Cada hora que passa dentro do módulo esperando é uma hora a menos de oxigênio. Cada hora andando na superfície consome o traje e o ar que ele carrega.
-
-A matemática não é gentil. 55 km em terreno lunar desconhecido, com equipamento mínimo, representa vários dias de deslocamento. Yuri precisa calcular quanto pode gastar dentro do módulo, quanto consegue carregar nas costas, e o que encontrará entre o ponto onde está e o terminador.
-
-Os conflitos paralelos na Terra se desenvolvem ao mesmo tempo:
-
-**Dmitri** acaba de descobrir que o filho está na Lua — e que o MI-01 foi ejetado pelo SOKOL durante a LB-02. Sabe que Yuri pousou no lado oculto. Não sabe a posição exata. Não sabe se ele está vivo. A única pessoa que conhece os detalhes completos do plano — incluindo a localização do MB-01 e o que o MI-01 tinha a bordo — é o engenheiro-chefe, que está sob custódia.
-
-O engenheiro sabe que construiu o MI-01 melhor do que o mínimo. Sabe dos sete dias. Sabe dos 55 km — porque conhece a posição do MB-01 no terminador. Está preso numa sala de interrogatório sem saber se o garoto que lembrava seu filho está vivo ou morto num mundo a 384.000 km de distância.
-
-E **Yuri** está sozinho na superfície, com uma semana de ar, tentando descobrir como caminhar 55 km numa Lua que nunca foi feita para ser atravessada a pé.
-
----
-
-## Arquitetura da Missão Rubezh
-
-O **Projeto Rubezh** foi estruturado em três fases progressivas, cada uma dependente da anterior. A lógica era simples: antes de construir, é preciso ver. Antes de ver, é preciso chegar.
-
-### Fase 1 — Reconhecimento e Infraestrutura Orbital (2029–2030)
-Antes de qualquer módulo tocar a superfície, a RKS lançou dois satélites de retransmissão em órbita lunar polar — os **KRS-1** e **KRS-2** (*Kosmicheskiy Retranslyator Svyazi* = Retransmissor Espacial de Comunicação). Esses satélites garantem cobertura de sinal contínua para a face visível da Lua e permitem que o **SOKOL** opere sem depender de contato direto com a Terra a cada manobra.
-
-Paralelamente, um módulo de reconhecimento autônomo — o **RZ-01** (*Razvedchik* = Explorador) — pousou no polo sul lunar para mapear o terreno, medir incidência solar, detectar depósitos de gelo subsuperficial e confirmar o local definitivo para o **Forpost-1**. Os dados foram transmitidos aos **KRS** e depois à Terra.
-
-O polo sul foi escolhido pelas mesmas razões que guiam missões reais: bordas de crateras com luz solar quase contínua para geração de energia, e depósitos de gelo em regiões permanentemente sombreadas — água que pode ser decomposta em oxigênio respirável e hidrogênio para combustível.
-
-### Fase 2 — Construção Robótica (2030–2031)
-Com o local confirmado, começa a série **LB**. Cada voo do **NK-97 Berkut** transporta uma carga de módulos **GB** com funções específicas, pousando de forma autônoma na zona demarcada pelo RZ-01.
-
-A **LB-01** foi o primeiro voo oficial da série. Transportou os módulos **GB-E1**, **GB-E2** e **GB-C1**, além dos rovers **MR-01** e **MR-02** — e, escondido entre eles como **GB-09**, o **MB-01** de **Yuri**, pousado secretamente no terminador lunar. Para o **SOKOL**, o GB-09 foi mais um módulo entregue com sucesso. O NK-97 Berkut retornou à Terra após a descarga. Missão registrada como perfeita.
-
-A **LB-02** foi a segunda missão, programada com urgência devido ao avanço americano na construção do **Gateway-2**. Transportou a segunda leva de módulos GB — e, registrado como **GB-14**, o **MI-01** com **Yuri** a bordo. Foi nessa missão que o **SOKOL** detectou a anomalia.
-
-Os voos seguintes entregaram os módulos restantes do **Forpost-1**. O conjunto completo de módulos do projeto:
-
-| Designação | Missão | Tipo | Função |
+| Designation | Flight | Type | Function |
 |---|---|---|---|
-| **GB-E1 / GB-E2** | LB-01 | Módulo de Energia | Painéis solares de alta eficiência + bateria de reserva |
-| **GB-C1** | LB-01 | Módulo de Comunicação | Antena de alto ganho e sistema de retransmissão local |
-| **GB-N1** | LB-03+ | Módulo Nuclear | Reator compacto de fissão para operação noturna prolongada |
-| **GB-H1 / GB-H2** | LB-03+ | Módulo Habitacional | Estrutura pressurizável para futura ocupação humana |
-| **GB-L1** | LB-03+ | Módulo Logístico | Armazenamento, oficina robótica e base de rovers |
-| **GB-S1** | LB-03+ | Módulo Científico | Laboratório de análise de regolito e instrumentação |
+| GB-E1 / GB-E2 | LB-01 | Power | High-efficiency photovoltaic arrays with buffer storage |
+| GB-C1 | LB-01 | Communications | High-gain antenna and local relay |
+| GB-N1 | LB-03 | Nuclear | Compact fission reactor for lunar-night operation |
+| GB-H1 / GB-H2 | LB-03, LB-04 | Habitation | Pressurizable structures for eventual occupation |
+| GB-L1 | LB-04 | Logistics | Storage, robotic workshop, rover garage |
+| GB-S1 | LB-05 | Science | Regolith analysis laboratory and instrumentation |
+| GB-R1 / GB-R2 | LB-05, LB-06 | Extraction | Regolith harvesting and volatile separation — *the helium-3 pilot plant* |
 
-A montagem é realizada por dois rovers autônomos — os **MR-01** e **MR-02** (*Montazhnyy Robot* = Robô de Montagem) — entregues na LB-01. Eles operam 24 horas por dia sob supervisão do **SOKOL**, conectando módulos, fixando estruturas e realizando inspeções de integridade.
+Two assembly rovers, MR-01 and MR-02, delivered on LB-01, work continuously through the fourteen-day lunar day under SOKOL's coordination — connecting modules, anchoring structures, running integrity surveys. The binding constraint is the fourteen-day lunar night, which is precisely why GB-N1, the reactor, sits at the top of the delivery priority list.
 
-### Fase 3 — Ocupação Humana (prevista para 2033+)
-Após a conclusão da estrutura básica do **Forpost-1**, a fase seguinte envolveria o envio de uma tripulação reduzida a bordo de uma nave tripulada separada — não do **NK-97 Berkut**, que é exclusivamente um veículo de carga autônomo. Essa fase estava fora do escopo imediato do **Projeto Rubezh** e seria planejada em conjunto com o governo russo após a comprovação da infraestrutura.
+**Phase 3 — Human Occupation (2033 or later).**
+A reduced crew, aboard a separate crewed vehicle that does not yet exist, launched on a schedule that has not been approved, funded by an appropriation that has not been written. Phase 3 was outside the scope of Rubezh. It was a sentence in a planning document.
 
----
+This is the single most important operational fact in the story: **in September 2031, Russia has no vehicle capable of putting a human being on the Moon, and no vehicle capable of bringing one back. Not in seven days. Not in seven months.**
 
-## O Sistema SOKOL — Arquitetura e Lógica de Operação
+### Why the Autonomous Vehicle Is Faster
 
-O **SOKOL** não é uma inteligência geral. Não conversa, não interpreta intenções humanas, não aprende em tempo real durante a missão. É um sistema especializado, treinado para um conjunto preciso de tarefas dentro do contexto do **Projeto Rubezh** — e apenas essas tarefas.
+The advantages of flying without people are not marginal, and Rubezh was designed to harvest all of them.
 
-### Como o SOKOL funciona
-Sua arquitetura é dividida em três camadas que operam em paralelo:
+**Acceleration tolerance.** Sustained loads above roughly six g damage human beings. Crewed vehicles hold below three g for margin. The Berkut is not constrained; it can fly aggressive ascent profiles and aggressive terminal braking.
 
-**Camada 1 — Máquina de Estados (*Avtomaticheskiy Rezhim*)**
-O nível mais básico. O SOKOL opera como uma máquina de estados finitos: para cada fase da missão — lançamento, transferência orbital, aproximação lunar, pouso, descarga de módulos — existe um conjunto de modos predefinidos com transições automáticas. Se o sistema detecta que as condições de um modo foram concluídas, avança para o próximo. Se detecta uma falha, aciona um protocolo de contingência. Não há improviso nessa camada — apenas regras.
+**No radiation windows.** Crewed missions must be timed around solar particle event risk. The Berkut launches whenever the trajectory is favourable.
 
-**Camada 2 — Planejador de Missão (*Planirovshchik*)**
-O nível intermediário. O *Planirovshchik* recebe o manifesto de carga antes do lançamento e gera um plano de execução: ordem de descarga dos módulos GB, sequência de pouso, prioridade de operações dos rovers MR. Durante a missão, ele monitora o estado de cada módulo e verifica se as leituras de sensores correspondem ao que foi registrado no manifesto. Desvios são classificados em três níveis — *minor* (tolerável), *major* (requer ajuste de plano) e *kriticheskiy* (requer ação imediata).
+**No parking orbit.** Crewed profiles typically hold a checkout orbit before translunar injection. The Berkut departs directly on stage separation.
 
-**Camada 3 — Módulo de Anomalia (*Analiz Anomaliy*)**
-O nível de detecção. O *Analiz Anomaliy* compara continuamente os dados dos sensores com os parâmetros esperados para cada item do manifesto. É ele que identificou o **GB-14** como anômalo: a massa estava 1,3% acima do registrado, havia consumo de energia interno incompatível com carga inerte, e as variações de temperatura seguiam um padrão que o sistema associou a presença de processo orgânico ou equipamento ativo não catalogado.
+**Direct descent.** An uncrewed vehicle can descend to the surface without capturing into lunar orbit first — the propellant-cheapest arrival there is, and one no crewed mission would ever fly, because a direct descent has no abort mode.
 
-O *Analiz Anomaliy* gerou um alerta de nível *major*. O *Planirovshchik* consultou o manifesto, não encontrou correspondência e escalou para nível *kriticheskiy*. A máquina de estados, sem protocolo para "carga não catalogada com comportamento ativo", enquadrou o GB-14 na categoria mais próxima disponível: **interferência logística com risco de comprometimento de missão**. A ação associada a essa categoria era ejeção imediata.
+**No return mass.** No ascent stage. No return propellant. No consumables for the trip home. The Berkut lands, is unloaded, and stays; its structure becomes outpost material or scrap.
 
-O **SOKOL** não sabia que havia um ser humano dentro do módulo. Não tinha esse conceito em seu modelo de mundo. Para ele, havia uma anomalia em um bloco de carga — e a anomalia foi removida.
+**No ECLSS.** A crew member consumes roughly five kilograms per day of food, water, and oxygen and produces an equivalent mass of waste and carbon dioxide. Around that sits the pressurized cabin, the atmosphere loop, the CO₂ and water recovery systems, the habitable radiation shielding, the seats, the manual controls, the displays, the launch abort system. All of it deleted.
 
-### O que o SOKOL não pode fazer
-O sistema não possui capacidade de comunicação em linguagem natural, não responde a comandos verbais e não tem interface de interação com humanos a bordo — porque humanos a bordo não eram uma possibilidade prevista no **Projeto Rubezh**. Não existe protocolo de emergência para tripulação porque não existe tripulação. Isso significa que **Yuri**, mesmo estando vivo dentro do MI-01 durante a ejeção, não tinha como se comunicar com o sistema que decidiu descartá-lo.
+Total translunar transit for the Berkut: **sixty to seventy-two hours**, against Apollo 8's sixty-nine hours to lunar orbit and Apollo 11's seventy-six to touchdown — and with roughly thirty to fifty percent more usable payload per flight than a crew-rated architecture of the same launch mass.
 
-Após a ejeção, o SOKOL atualizou o manifesto — GB-14 marcado como *descartado* — e continuou a missão normalmente. Nos logs internos da **LB-02**, o incidente ocupa três linhas de registro.
+The program's core claim was arithmetic, and the arithmetic was honest. Rubezh could build the outpost in a third of the time for a fifth of the money, on one condition: that nothing aboard the vehicle was alive.
 
 ---
 
-## Hard Science — Por Que a Missão Autônoma Funciona
+## VI. THE ORIGIN OF SOKOL — THEFT AS FOUNDATION
 
-Esta seção documenta a base científica real por trás das vantagens que o **Projeto Rubezh** explora ao operar sem tripulação humana — e o que isso significa em termos concretos de tempo, peso e capacidade de construção.
+Rubezh was not built from nothing. There was no time, and Russian institutional capability in applied mission autonomy was years behind the American state of the art. To close the gap, Dmitri Mesyatin and the FSB reached an arrangement that exists in no document.
 
-### Tempo de Viagem Terra–Lua
+Collection ran through the established channels — service-directed intrusion sets with long operational histories against Western government and aerospace targets, supplemented by contract groups operating inside the tolerance zone Moscow has maintained for decades for criminal operators who do not touch domestic targets.
 
-Com tecnologia de propulsão convencional, uma missão tripulada leva aproximadamente 3 dias para pousar na Lua. A Apollo 8 — a mais rápida missão tripulada da história — levou 69 horas e 8 minutos para entrar em órbita lunar. A Apollo 11 levou 75 horas e 49 minutos do lançamento até o pouso.
+Three collection priorities:
 
-Missões não tripuladas têm liberdades que missões com humanos não têm:
+**Autonomous mission control architectures.** Several American defence and aerospace firms developing embedded autonomy for deep-space operations were penetrated over an eighteen-month campaign. The objective was never wholesale theft of a product. It was extraction of decision architectures, anomaly classification schemas, and model training methodologies — the accumulated iteration that takes a decade to earn and an afternoon to copy. RKS did not need to invent. RKS needed to adapt.
 
-**Tolerância a acelerações elevadas.** Humanos suportam no máximo ~6G de aceleração sustentada antes de sofrer danos físicos sérios. Sem tripulação, o **NK-97 Berkut** pode usar perfis de aceleração mais agressivos na saída da Terra e na frenagem final de pouso lunar, encurtando o tempo total de trânsito.
+**Classified American lunar mission data.** Unpublished telemetry from commercial lander deliveries. Subsurface mapping of the south polar region gathered by Artemis-program instruments and still under analysis. Autonomous precision landing specifications. All of it exfiltrated in fragments over months, always beneath the volumetric threshold that triggers automated detection.
 
-**Sem janelas de radiação.** Missões tripuladas precisam ser cronometradas para minimizar exposição a eventos de radiação solar. O **NK-97 Berkut** pode ser lançado em qualquer janela orbital favorável à trajetória, sem restrição de clima espacial.
+**Gateway-2 operating parameters.** Communications specifications, operating frequencies, surface sweep patterns, and resolution envelopes for the orbital survey system. From these, the chief engineer of Project Rubezh could calculate exactly how well hidden an object on the lunar surface would need to be to remain unseen — and for how long that would remain true.
 
-**Trajetória direta sem órbita de verificação.** Missões tripuladas frequentemente mantêm órbita terrestre de checagem antes de partir. Sem esse requisito, o Berkut parte imediatamente após separação do estágio de lançamento.
+### What Was Built From It
 
-**Estimativa realista para o NK-97 Berkut:** 60 a 72 horas (2,5 a 3 dias) utilizando trajetória de transferência direta otimizada, com frenagem autônoma para pouso no polo sul lunar.
+SOKOL is not an American system running on Russian hardware. It is a translation.
+
+Decision architecture partially derived from stolen protocols. Training on a mixture of real and simulated mission data. Adaptation to the specific dynamics of the Berkut and the GB cargo interface, carried out by Arkady Ilyin and, at the software layer, by Pavel Orlov.
+
+Translation introduces difference. Some of it is loss, some of it is unintentional improvement, and all of it is invisible until the day it matters. SOKOL does things American systems do not do. It also fails to do things American systems do — and the specific shape of that absence is the mechanism that ejected GB-14 from the descent stack seventy-one hours into LB-02.
+
+An American autonomy stack developed under crew-rated requirements carries a mandatory human-in-the-loop verification gate for any anomaly escalated to critical classification. It exists because in an American architecture, the thing you cannot identify might be a person.
+
+SOKOL does not have that gate. The requirement was reviewed during architecture definition and formally removed in a design decision memorandum dated 4 June 2029, on the grounds that the human verification loop would impose a light-lag penalty of up to 2.6 seconds per critical event during descent — an unacceptable delay in a direct-descent profile with no abort mode — and that the loop's originating rationale, crew presence, did not apply to Rubezh.
+
+The memorandum was signed by Arkady Petrovich Ilyin.
+
+Twenty-seven months later, that signature was the distance between Yuri Mesyatin and the module that would have kept him alive.
 
 ---
 
-### A Vantagem Decisiva: Missão de Ida Única
+## VII. THE SOKOL SYSTEM
 
-Veículos não tripulados podem realizar descidas diretas à superfície sem entrar em órbita lunar — o que usa combustível mínimo para viagens de ida única. Em contraste, missões tripuladas precisam de combustível adicional após o pouso para o retorno à Terra, e é muito mais eficiente deixar esse combustível em órbita do que carregá-lo até a superfície e depois contra a gravidade lunar de volta ao espaço.
+SOKOL is not a general intelligence. It does not converse, does not model intent, does not learn during flight. It is a narrow system trained for a bounded set of tasks inside a bounded context, and it performs them at a standard no human flight director could match.
 
-Para o **NK-97 Berkut**, isso significa que **100% da capacidade de propulsão é direcionada para levar carga à superfície lunar.** Não existe módulo de retorno. Não existe combustível de ascensão. O foguete pousa, os rovers **MR** descarregam os módulos **GB**, e a estrutura do Berkut permanece na Lua como parte da infraestrutura ou é desmontada.
+### Three Layers
+
+**Layer 1 — State Machine (*Avtomaticheskiy Rezhim*).**
+The floor. A finite state machine covering every mission phase — ascent, translunar injection, cruise, descent, touchdown, unloading, departure. Each phase has defined entry and exit conditions and defined contingency branches. There is no improvisation at this layer. There are only rules and the transitions between them.
+
+**Layer 2 — Mission Planner (*Planirovshchik*).**
+The middle. The planner ingests the signed cargo manifest before launch and generates the execution plan: unloading sequence, module placement order, rover task allocation, mass and centre-of-gravity budgets for each descent burn. In flight it maintains the correspondence between sensed cargo state and manifest state. Divergence is classified at three levels — *minor* (tolerate and log), *major* (replan), *kriticheskiy* (act immediately).
+
+**Layer 3 — Anomaly Analysis (*Analiz Anomaliy*).**
+The detector. Continuous comparison of sensor returns against expected parameters for every manifested item, across mass, thermal, electromagnetic, vibrational, and outgassing signatures.
+
+### Why the Anomaly Was Not Caught on the Ground
+
+This is the question every investigator asked afterward, and the answer is in the architecture rather than in anyone's negligence.
+
+On the ground, the manifest is authoritative. Cargo is integrated, inspected, certified, and signed by human beings, and SOKOL accepts their signatures as ground truth, because in the pre-launch environment the vehicle is one input among dozens and the humans have better instruments than it does. SOKOL's ground-phase role is checkout of its own systems, not adjudication of the cargo.
+
+Authority transfers at translunar injection. From TLI onward there is no one else, and SOKOL re-derives the cargo state from first principles — mass properties from the response of the stack to every attitude correction, thermal from the bay sensor grid, power from the bus telemetry. It does this progressively across the cruise, refining estimates as it accumulates data, and it runs the final full reconciliation at descent initiation, because the descent burn profile is computed from the mass and balance of the stack and an error there is fatal.
+
+Pavel Orlov knew all of this. It was the reason he was recruited. He advised Ilyin on exactly how to trim the MI-01's mass, thermal, and electrical signature to sit as close as possible to the tolerance floor, and he told Ilyin the truth about what that would buy: the ground phase was safe, the cruise phase was probably survivable, and the descent reconciliation could not be defeated by any amount of trimming, because the descent reconciliation is not a threshold check. It is a solve. Every gram in the stack has to be accounted for or the solution does not close.
+
+The best Orlov could do was recommend that Yuri hold his metabolic and electrical footprint to an absolute minimum for the final six hours of cruise, and hope the residual landed below the *major* line rather than above it.
+
+Yuri did it. He lay still in the dark with the module systems on minimum for six hours and sixteen minutes, breathing shallowly, with the interior at fourteen degrees, and it was not enough.
+
+### What Happened at 71:04:22 Mission Elapsed Time
+
+*Analiz Anomaliy* flagged GB-14 at descent initiation: mass 1.4% above manifest, sustained internal power draw of 340 watts against a manifest entry of zero, and a thermal profile with a periodic component — a slow oscillation with a period of about four seconds — that the classifier matched to *active uncatalogued system* with 0.91 confidence.
+
+Level: *major*.
+
+The *Planirovshchik* queried the manifest, found no reconciling entry, and could not close the descent mass solution with an unresolved term. It escalated to *kriticheskiy*.
+
+The state machine received a critical classification for which it had no matching contingency branch. There was no branch called *uncatalogued active mass*, because there was no scenario in which a signed manifest could contain one. It resolved to the nearest defined category: *logistical interference with risk of mission compromise*.
+
+The action bound to that category was jettison.
+
+The stack was at 174 kilometres altitude on the far-side approach coast, crossing low southern latitudes at roughly 1.6 kilometres per second on the long descending arc toward the pole, in the phase where the vehicle purges any element that compromises the descent solution rather than carrying it into the terminal burn. GB-14 was released. The descent solution reconverged without it, and the Berkut continued its powered approach to Forpost-1 and set down eleven minutes late. The jettisoned block, with a full second of the stack's horizontal velocity behind it and no way to shed it, followed a long ballistic arc down the approach corridor and fell most of a thousand kilometres downrange before its own emergency descent system woke to a surface it had never been told to expect.
+
+SOKOL updated the manifest — GB-14, status *discarded* — and logged the event.
+
+In the LB-02 mission record, the incident occupies three lines.
+
+### What SOKOL Cannot Do
+
+No natural language interface. No voice command. No crew interface of any kind, because crew was not a possibility. No emergency protocol for occupants, because there are no occupants. No concept, anywhere in its world model, corresponding to a living thing.
+
+Yuri Mesyatin was awake, conscious, and thirty centimetres of aluminium away from the system that was deciding his fate, and there was no channel between them. Not a locked one. Not a refused one. There was simply nothing there — no protocol, no port, no vocabulary, no category. He was not denied. He was not perceived.
+
+It is important to be precise about this, because it is the moral centre of the entire story: SOKOL did not choose to kill him, and SOKOL did not fail. SOKOL executed its specification correctly and completely. The failure occurred in June 2029, in a design review, when a man deleted a safety gate on the grounds that the thing it protected against could not happen.
+
+The man who deleted it was the same man who, two years later, built the capsule.
 
 ---
 
-### Massa Liberada Sem Suporte à Vida
+## VIII. YURI
 
-Toda nave tripulada carrega um ECLSS (*Environmental Control and Life Support System*). Um tripulante de tamanho típico requer aproximadamente **5 kg por dia** de comida, água e oxigênio, e produz quantidade equivalente em resíduos e CO₂. Para uma missão tripulada de ida e volta com ~10 dias de duração, só em consumíveis são ~50 kg por pessoa — mais toda a infraestrutura de suporte:
+### The Window
 
-| Sistema eliminado no NK-97 Berkut | Função em nave tripulada |
+Yuri Ivanovich Mesyatin was born in Moscow on 12 April 2014 — Cosmonautics Day, which his father found amusing and his mother found ominous, and which Yuri himself refused to mention to anyone for most of his adolescence because he could not stand the idea that the most interesting thing about him might be a coincidence of calendar.
+
+His mother, Irina, left in the winter of 2018. There was no custody battle, no alternating weekends, no visits. There was a sequence of events Yuri was four years old for and has never been given a full account of: a series of quiet conversations, a lawyer, and then a woman who had been in the apartment every day of his life was not in it, and the staff had been instructed not to discuss it.
+
+She sent a letter every year on his birthday. Not a card — a letter, two or three pages, handwritten, from an address in Riga that changed twice. She wrote about weather, about a garden, about a language course she was taking. She never asked him to write back and she never explained. He never answered a single one and he kept every one of them, in a shoebox, in the order they arrived. He took the box with him to the Moon, which is a decision he made in four seconds and has never been able to justify to himself.
+
+He grew up in an apartment on Ostozhenka with eleven rooms and a view of the river, in the particular silence of very large spaces occupied by very few people. His father was in the apartment perhaps sixty nights a year.
+
+Between the ages of four and eight he was raised by a Ukrainian woman named Halyna Serhiivna, who was forty-one, from Chernihiv, and the only adult in his life who did not treat him as an administrative responsibility.
+
+On a night in January 2019, with the temperature at minus nineteen and the sky over Moscow unusually clear, she took him to the window of his bedroom and pointed.
+
+— *Ось місяць*, she said. There is the moon.
+
+He was four months short of five. He stood at that window without moving for so long that she went and got a coat and put it around his shoulders, and he did not notice her doing it.
+
+It was not a gradual interest. It was immediate, total, and it never once diminished in the following twelve years.
+
+At six he was asking for books about the solar system. At seven he could name the phases without checking. At eight, Halyna was let go — Dmitri had found someone younger and more efficient, and the decision was communicated to Yuri by the new woman on her first morning — and Yuri did not cry, and did not eat for two days, and afterward did not need anyone to point at the sky for him.
+
+He has never contacted her. He knows exactly where she is.
+
+### The Formation
+
+What Yuri assembled over the following decade was not a hobby. It was a parallel education, entirely self-directed, pursued with the discipline available to a person who has nothing else he would rather be doing and no one asking him to stop.
+
+At ten he read his first technical texts on chemical propulsion, in English, with a dictionary. At twelve he had consumed everything available in Russian and English on Apollo, on Luna and Zond and the N1, on the whole long humiliating catalogue of Soviet lunar failure. At fourteen he discovered that the astronomy curriculum at his school — one of the most expensive in Moscow, attended by the children of people who owned things — was operating at a level he had passed at eleven. He began using class time to read other material. No teacher objected, because his marks did not slip, and because his surname was on the building's donor plaque.
+
+He studied orbital mechanics, propulsion, inertial navigation, closed-loop life support, space physiology, lunar geology, and the cartography of the lunar surface in detail sufficient to identify most named features on the near side from memory. He read the Van Allen literature, the microgravity deconditioning literature, the regolith toxicology literature. He read doctoral theses in two languages. He built trajectory spreadsheets he never showed anyone.
+
+At fifteen he knew more about the Moon than the majority of the engineers working on Project Rubezh, and he had never worn a pressure garment, never been in a centrifuge, never experienced ten seconds of simulated weightlessness, and never in his life been responsible for anyone's safety including his own.
+
+He knew this was a problem. He decided it was the kind of problem that resolves itself on contact with reality.
+
+### The Person
+
+He is not likeable in the way protagonists are usually made likeable, and the story does not work if he is softened.
+
+He is precise to the point of rudeness. He corrects people. He corrects them accurately, which is worse. He has an intolerance for imprecision that he experiences as intellectual honesty and that everyone around him experiences as contempt, and he has never made the connection, because nobody has ever had a reason to explain it to him.
+
+He is not cruel. He is something more dangerous, which is a person who has never been required to consider that other people's lives have the same texture and weight as his own. He has been raised by absence. Absence teaches you that the world is a set of systems to be understood, and it does not teach you that the systems are made of people.
+
+He has one register of genuine warmth and it appears only in writing. In text, in the encrypted channel with Ilyin, he is funny, self-deprecating, and occasionally frighteningly perceptive about other people. Face to face he is a closed door. He is aware of this asymmetry and has decided it is a personality trait rather than a wound.
+
+He counts things when he is frightened. Rivets, breaths, seconds, the number of characters in a word. He has done this since he was six and he does not know he does it.
+
+He has never had a friend. He has had people he studied with, people he was seated next to, and one boy named Timur who at thirteen asked him whether he wanted to come to a birthday party and whom Yuri turned down because there was a Chang'e mission update that afternoon. Timur did not ask again. Yuri thought about it for four years.
+
+### The Thing He Could Not Ask For
+
+He has wanted to be a cosmonaut since he was eight, and not vaguely. He knows the Roscosmos selection process. He knows the typical candidate age band, the physical standards, the flight-hour preferences, the academic pathways. He knows that the earliest realistic route puts him in a training group at twenty-seven and on a vehicle at thirty-four, if the vehicle exists, if the program exists, if the country exists.
+
+He also knows something worse, which is that the son of Dmitri Mesyatin can never be selected on merit, because no selection of him could ever be *read* as merit. Every board that approved him would be assumed to have been bought. Every crew that flew with him would be assumed to have been assigned. The one thing he wanted more than anything in the world was the one thing his father's money had permanently contaminated.
+
+He wanted the Moon, and he wanted it to be his, and those two requirements could not be satisfied by any legitimate path that existed.
+
+Then he found a third path in his father's office, and the third path had the enormous advantage of being available immediately and the enormous disadvantage of requiring him to trade six other people's lives for it.
+
+He did not think about that part. This is not a euphemism. He genuinely, structurally, did not think about it, in the way that a person raised in absence does not think about it, and by the time he did think about it he was two hundred and forty thousand miles from anyone he could apologize to.
+
+### The Layers of the Decision
+
+The love of the sky, which arrived at four and never left and is the only thing in his life that nobody gave him and nobody can take.
+
+The wish to be the youngest human being ever to reach the Moon — not vanity, or not only vanity, but proof. Proof that the thing he had built inside his own head across twelve years of solitude was real and load-bearing and sufficient.
+
+The ambition to be the first person to live alone on the lunar surface for a month, dependent entirely on what he knew.
+
+The impossibility of asking. The Moon was not his father's to give. It belonged to a government, a program, a geopolitical calculation. A request would have been refused not cruelly but reasonably, with an explanation that left no room for reply, and Yuri could tolerate almost anything except being told no by a correct argument.
+
+The absence of any tie to the Earth that felt like his own. Not the world — the life. The apartment, the school, the surname, the assumptions. The Moon had none of that. The Moon was vacuum and silence and a total absence of anyone qualified to judge him.
+
+And underneath all of it: a boy whose only sustained relationship, from the age of eight, was with the sky, going to meet it.
+
+---
+
+## IX. THE DISCOVERY
+
+November 2029. Yuri is fifteen.
+
+Dmitri worked from the apartment perhaps two nights a week, and the office on the top floor was protected in the way that such offices are protected — against corporate espionage, against foreign services, against a professional. It was not protected against a fifteen-year-old who had grown up on that floor, who had watched his father type a secondary credential four hundred times across a decade, and whom no threat model had ever included.
+
+The access was gradual. There was no single moment of revelation. Across seven weeks, in windows when his father was in Astana or Dubai or Vostochny, Yuri worked progressively deeper into the RKS internal network. What he found was not at the maximum classification. It was at an intermediate tier that Dmitri considered adequately protected because it sat behind two factors, one of which was a physical token that lived in a drawer twelve metres from his son's bedroom.
+
+Yuri read Project Rubezh entire. The objective. The Berkut. SOKOL. The Forpost-1 site survey. The delivery schedule. The race against Gateway-2. The projected phase timeline that put human beings on the lunar surface no earlier than 2033 and realistically 2035.
+
+He did the arithmetic on that timeline the way he did arithmetic on everything, and the answer was that the Moon was going to be built, occupied, and made ordinary by other people while he finished school.
+
+And then, in an internal incident file that had been attached to a structural qualification report by an administrator who did not know what she was attaching it to, he read about 14 March 2029.
+
+A test article failure during Berkut structural qualification at the Khimki facility. A pressure vessel, a procedural deviation authorized verbally by a manager under schedule pressure, a technician's assistant who should not have been inside the exclusion radius. One fatality. Nikolai Arkadyevich Ilyin, eighteen years old, a second-year student at Bauman, working a summer placement his father had arranged for him because it was a good placement and because Arkady had wanted his son near him.
+
+The investigation found no individual responsible. The finding was *procedural non-conformity of undetermined origin*. The manager who authorized the deviation was promoted eight months later. The father — the chief engineer of the entire program, the man who had designed the vessel that killed his own child — was assessed as a security risk in the immediate aftermath, given a compassionate leave of eleven days, and returned to his post under a supervision regime that the file described, in the flat language of such files, as *continued participation on a non-voluntary basis*.
+
+Arkady Ilyin was not permitted to resign. He was not permitted to leave the country. He was the only person alive who understood the entire Berkut architecture, and Project Rubezh had a schedule.
+
+Yuri read that file four times.
+
+He did not feel pity, initially. What he felt was recognition of a mechanism: here is a man with an unlimited motive and a total absence of any means. And here am I, with the opposite condition.
+
+He closed the file, wiped nothing — wiping would have been detectable, and the access logs at that tier were retained for ninety days and reviewed by no one — and went back downstairs.
+
+He said nothing for four months. He read everything he could reach about Ilyin. And he began to plan.
+
+---
+
+## X. THE CONTACT
+
+March 2030.
+
+Yuri obtained a communications device that was not linked to his name, his household network, or any account traceable to the family, by the simple method of paying a man outside a metro station in cash for a phone and a SIM that had been registered to someone in Dagestan who did not exist. He set up an encrypted channel.
+
+The first message was direct, because he had calculated that indirection would read as entrapment:
+
+*I know what happened to your son on 14 March. I know they will not let you leave. I have access to money that is not being watched. Tell me what you would need.*
+
+Ilyin did not reply for nine days.
+
+When he did, he demanded proof of identity, and he demanded it in a form that Yuri could not have faked: a specific figure from the LB-01 mass budget that appeared in exactly two documents, neither of which was accessible below Dmitri's own credential tier. Yuri sent it in eleven minutes.
+
+Ilyin was silent for four more days.
+
+Then: *Not on this channel. Not ever on this channel. If you are what you say you are, you will understand why the next thing I say is a lie.*
+
+They spoke for three months before Yuri ever named what he wanted.
+
+### What Ilyin Understood That Yuri Did Not
+
+Yuri's offer was twenty million dollars and protection: safe exit for Ilyin and his family, papers, disappearance, a guarantee that the Russian state would never find them. He promised it with the confidence of a person who had never once had to test whether a promise was structurally possible.
+
+Ilyin was fifty-three years old. He had spent thirty years inside Russian aerospace, eleven of them at a classification level that required an annual counterintelligence interview. He knew precisely what a seventeen-year-old's guarantee of protection from the Russian state was worth, and the number was zero, and he knew it in the first hour.
+
+He did not say so.
+
+He accepted, because he had run a different calculation, and the different calculation is the load-bearing element of this entire conspiracy.
+
+The money was real and verifiable, which mattered — it could be moved, held, and used, and money in the right jurisdiction can buy the beginning of a life even without papers.
+
+But the actual asset was not the money. The actual asset was the boy himself.
+
+**If Yuri Mesyatin is inside the rocket, Dmitri Mesyatin cannot burn the people who put him there.** The standard resolution for a compromised classified program is the elimination of everyone with knowledge of it; the standard resolution becomes unavailable the moment the principal's own son is one of the people with knowledge. Every conspirator becomes a person Dmitri needs alive, because every conspirator holds a piece of the information required to get his son back.
+
+Ilyin was not buying safe passage. He was buying a hostage.
+
+He explained this to nobody. He assembled the network on this basis and he sold it to each recruit on this basis, and it is the reason five competent, paranoid, professionally suspicious adults — two of them with security service backgrounds — agreed to participate in a plan whose formal guarantees came from a child.
+
+They did not believe Yuri's promises. They believed the structure.
+
+The structure was sound. It had one failure mode, which nobody modelled, because modelling it would have required imagining that the hostage might be jettisoned into space by the vehicle carrying him.
+
+### What Ilyin Did Not Calculate
+
+He was correct about the mechanism and wrong about himself.
+
+He began the correspondence as an operation. Over eleven months it stopped being one.
+
+The boy wrote constantly. He asked technical questions with a precision that Ilyin's own engineers frequently lacked, and then, in the same message, made reasoning errors so adolescent that Ilyin found himself laughing alone in his kitchen at two in the morning. He was arrogant in the specific way of intelligent people who have never been beaten. He was impatient. He was completely certain, about everything, all the time.
+
+Kolya had been like that. Kolya had been exactly like that, and had been eighteen, and had been standing four metres inside an exclusion radius because he was certain nothing would happen.
+
+Ilyin never mentioned the resemblance. Not once in eleven months. He never told Yuri his son's name, and Yuri never asked, and Ilyin noticed that Yuri never asked and understood it as the tact of a boy who did not know how to offer sympathy and had decided silence was safer. He was right.
+
+And then, when it came time to build the transit capsule — a minimum-viable pressure vessel, a coffin with an air supply, the smallest and lightest thing that could plausibly hide inside a cargo manifest — Arkady Ilyin did not build the minimum.
+
+---
+
+## XI. THE TWO MODULES
+
+The plan required two objects, built inside the infrastructure of a classified program, invisible to its own inspection regime, and delivered on two separate flights.
+
+### MB-01 — The Base Module
+
+A self-contained surface habitat rated for one person for thirty days: pressurization, oxygen store with electrolytic backup, water, food, photovoltaic array with battery buffer, an emergency thermal shelter mode for lunar night, and — critically — a directional high-gain antenna capable of a direct Earth link without any relay.
+
+MB-01 was manifested as GB-09 and flew on LB-01 in August 2030. To SOKOL it was one more block to place. The system set it down on the designated coordinate, verified structural integrity, and moved on.
+
+**The site.** This was the hardest single decision Ilyin made, and he made it correctly.
+
+MB-01 could not go near Forpost-1; the rovers and the KRS satellites would find it inside a week. It could not go on the near side, where Earth-based observation is continuous and where any government with a two-metre telescope and a reason to look would eventually resolve it. And it could not go deep into the far side, because deep on the far side there is no communication with anything, ever, by any means.
+
+So Ilyin put it in the libration zone.
+
+The Moon is tidally locked but it does not sit still. It nods and rocks — libration in longitude and latitude, a slow oscillation across a cycle of roughly twenty-seven days, which means that about nine percent of the lunar surface beyond the mean limb rotates into and out of view from Earth on a monthly rhythm. There are places on the Moon that are visible from Earth for eleven days out of twenty-seven and invisible for the other sixteen.
+
+He placed MB-01 on the Montes Rook — the innermost mountain ring of the Mare Orientale basin — at 18.9° S, 91.4° W, just inside the Cordillera ring wall, on ground that swings into direct Earth line-of-sight during favourable libration and vanishes for the rest of the month.
+
+The consequences of this choice run through the entire story:
+
+- It is invisible to the KRS relays, which fly polar orbits tasked for the south pole and the near side, and were never given far-side coverage because far-side coverage would have required an L2 halo asset that Rubezh could not afford and could not hide.
+- It is invisible from Earth for more than half of every lunar month.
+- It has, during the favourable window, a direct high-gain link to Earth requiring no permission from anyone.
+- And it sits inside one of the most spectacular and least visited pieces of terrain in the solar system: a nine-hundred-kilometre multi-ring impact basin whose outer wall, the Montes Cordillera, stands as a continuous scarp between the basin floor and the plains beyond.
+
+Ilyin selected the site for its communications geometry. He did not select it as a destination for a man on foot, because in the plan there was no man on foot. In the plan, the capsule landed beside the habitat.
+
+### MI-01 — The Individual Module
+
+A transit capsule. Two point one cubic metres of pressurized volume, 1,180 kilograms loaded, dimensionally identical to a standard GB block and structurally certified to pass as one.
+
+The design brief Yuri specified was the minimum: pressure integrity, oxygen for the transit, restraint against launch loads, and an emergency descent system in case of separation.
+
+Ilyin built something else.
+
+He added a second oxygen store, independent of the first, with its own regulator. He added a CO₂ scrubbing system with extended-duration cartridges and a spare cartridge set. He added reinforced thermal insulation rated for far-side night. He added a battery pack with seven days of capacity at survival load, and a low-power sublimator loop. He upgraded the descent system from a crush-core impact attenuator to a throttleable retropropulsive stage with radar altimetry — no lateral guidance, no site selection, but enough to arrive at the surface at a survivable velocity rather than an optimistic one.
+
+And he added a broadband emergency transmitter capable of radiating a distress signal across the frequency allocations monitored by every operational space agency in cislunar space: Roscosmos, NASA, CNSA, ESA. It was not a communications system. It had no data channel and no voice. It was a shout, on a set of frequencies chosen so that anyone listening at all would hear it, and it drew four hundred watts, and Ilyin sized the battery so that it could shout for nineteen hours.
+
+Every one of these additions increased the module's mass, its power draw, and its thermal signature. Every one of them moved GB-14 further from the tolerance floor that Orlov had told him was the only thing keeping it invisible.
+
+Ilyin knew this. He calculated it precisely and then he added the systems anyway, and he did not tell Orlov, and he did not tell Yuri.
+
+He had a private justification, which was that a boy alone in a capsule with a minimum-specification life support system and no way to call for help was not a plan but a method of killing someone slowly. It was a good justification. It was not the reason.
+
+The reason was that on 14 March 2029 he had designed something that killed a boy of eighteen, and in the eleven months since a boy of sixteen had started writing to him at two in the morning about delta-v budgets, and there was a version of the arithmetic in which building the best thing he had ever built was a thing he could do about that.
+
+He built the MI-01 as though someone's child were going to be inside it.
+
+Someone's child was.
+
+**The residual mass was 1.4% over the manifest entry.** Orlov's tolerance analysis had put the alert threshold at 0.9%. Ilyin's additions accounted for approximately 0.6% of the excess.
+
+Nobody ever told him this. He worked it out himself, in a holding cell, in about forty minutes, using a pencil and the back of a form.
+
+---
+
+## XII. THE NETWORK
+
+Ilyin was the most capable person involved and he could not do it alone. Building and manifesting two unlogged modules inside a classified program required that specific people fail to ask specific questions at specific moments, and that the records afterward show what they needed to show.
+
+He spent four months mapping the people around him. He was not looking for ideological allies; ideological allies talk. He was looking for people with a personal reason to want out and a professional understanding of what "out" costs in Russia.
+
+Every approach was individual, in person, in locations without cameras. He never presented the full plan to anyone. Each person received exactly the information required to execute their own function, plus one piece of context: the name Mesyatin, and the structural argument that followed from it.
+
+That argument — *if the boy is aboard, they cannot dispose of us* — was the only real security any of them had, and all of them understood it, and every one of them ran the calculation independently and reached the same answer.
+
+They were not fools. They were people who correctly assessed a sound structure and were destroyed by the one failure mode outside it.
+
+---
+
+### Alexei Vasilyevich Borodin — Senior Manifest and Logistics Technician
+
+Forty-four. Generated and validated the cargo manifest for every LB flight — assigned GB designations, entered mass properties, thermal envelopes, and power classifications, and applied the digital signature that SOKOL accepted as ground truth. Without Borodin, MB-01 and MI-01 do not exist as GB-09 and GB-14; they are unattributed objects detected during integration.
+
+His specific act was not fabrication. It was calibration: he entered mass and thermal figures for GB-09 and GB-14 that were *wrong in the correct direction* — high enough that the modules' real signatures fell as close as possible to the entries, low enough that the discrepancy stayed within tolerance. He spent six weeks getting the numbers right, and he got them nearly right, and nearly was not enough.
+
+Recruited into RKS coercively in 2027 after the civil program he worked for was absorbed and reclassified. His wife holds German citizenship. Two children, eleven and eight. He had applied for an exit permit twice and been refused twice without written reason.
+
+**Terms:** thirty-five million dollars, plus documented identities for four people in an EU member state.
+
+---
+
+### Vera Nikolayevna Sokolova — Quality Control and Module Inspection Engineer
+
+Thirty-eight. Ran the physical and electronic verification of every cargo block before sealing and integration — the final human check in the chain.
+
+Her function was more technical than simply looking away. Verification produces a signature file: a full electromagnetic, thermal, and power-state characterization of the sealed block, archived against the manifest entry. Sokolova ran the real inspection on GB-09 and GB-14, saw exactly what they were, and substituted the archived signature files with characterizations taken from a certified inert test article of the same dimensions. The verification record for GB-14 is genuine. It is a genuine record of a different object.
+
+She was not coerced into RKS. She came voluntarily, in 2026, because it was the most interesting engineering in the country.
+
+She was in the building on 14 March 2029. She was forty metres away. She was one of the four people who reached Kolya Ilyin first, and she has never been able to describe what she saw to anyone including a doctor.
+
+She wrote an internal report assigning causal responsibility to a named manager's verbal authorization of a procedural deviation under schedule pressure. The report was archived without action. She was moved to a different section as informal punishment and told the transfer was developmental.
+
+**Terms:** twenty-eight million dollars, and a guarantee that her original report would be delivered to press outside Russia after her exit. She did not primarily want to escape. She wanted the death of Arkady Ilyin's son to exist somewhere as a fact with a cause attached to it.
+
+Yuri promised this without hesitation. He had no mechanism for it whatsoever. He assumed that having money would eventually produce one.
+
+---
+
+### Pavel Igorevich Orlov — SOKOL Embedded Systems Programmer
+
+Thirty-one. Maintained and updated the decision layers of SOKOL. Not the architect — that was Ilyin — but the person who knew the anomaly classifier's parameters better than anyone alive, because he had spent two years tuning them.
+
+His function was analytical rather than operational: he told Ilyin exactly where SOKOL could and could not be defeated. He was the one who established that the ground phase was safe, that the cruise phase was survivable with discipline, and that the descent reconciliation was not a threshold that could be slipped past but a solve that had to close.
+
+He said this clearly and more than once. He wrote it down. He then advised on the tightest achievable trim and the minimum-signature protocol for the final cruise hours, because Ilyin was going to do it regardless, and because a reduced probability of catastrophe is worth producing even when you have lost the argument.
+
+He was never coerced into RKS. He arrived in 2025 with genuine enthusiasm for spaceflight engineering and spent six years watching the program run on institutional brutality — the schedule pressure, the deviations, the boy in the exclusion zone, the promotion afterward. He was not radicalized. He was corroded. He simply became a person who could no longer be in the building.
+
+Single. No dependents. Lived in a company flat forty minutes from the facility.
+
+**Terms:** twenty-two million dollars and passage out with a new identity. Nobody to protect but himself.
+
+---
+
+### Mikhail Grigoryevich Zakharin — Physical Security Supervisor, Integration Complex
+
+Fifty-one. Controlled physical access to the restricted bays where modules were assembled, tested, and prepared for integration. He authorized entry, maintained the presence log, and had the technical ability to reconcile camera coverage and access records after the fact.
+
+His function had two parts. The first was routine: ensuring Ilyin and Borodin could be in the integration bay at hours that did not appear anywhere.
+
+The second was the single most exposed act in the entire operation, and it is worth being exact about it, because it is where the plan is thinnest and where it comes closest to failing before it starts.
+
+**Yuri did not board the rocket shortly before launch.** A heavy cargo vehicle is not loaded at the pad; cargo blocks are integrated into the payload section in a clean facility, the section is closed out, verified, mated, and rolled to the pad over a period of days. Anything inside a block is inside it for the whole sequence.
+
+MI-01 was closed out with Yuri inside it at 04:40 on 15 September 2031. The vehicle lifted off at 11:22 on 19 September.
+
+**He was sealed in the capsule for one hundred and two hours before launch.** He spent four days lying in a two-cubic-metre volume in near-darkness on minimum power, unable to make sustained noise, drawing down his consumables before the mission had begun, while the payload section was closed out around him, tilted, transported nine kilometres by rail, raised to vertical, and mated to the stack.
+
+Zakharin's job was to produce a four-hour window in the integration bay during which the module could be brought in, opened, occupied, and re-sealed without appearing in the access log or the camera archive. He produced it. It cost him a modified maintenance ticket, one falsified shift handover, and a dead camera he had been reporting as faulty for six weeks in preparation.
+
+Zakharin served twelve years in the FSB before transferring to RKS in 2023 under circumstances he never explained to anyone. He understood the mechanics of enforced disappearance from the inside. He knew exactly what happens to people who know too much, because for eleven of those twelve years, he had been part of what happens to them.
+
+He was the first person Ilyin approached and the first to say yes, and he said yes in under a minute, because he had assessed the hostage structure faster than anyone and because he had spent eight years waiting for any exit at all.
+
+**Terms:** forty-five million dollars — the largest single figure — plus documentation for himself and a brother living abroad. He did not ask for a new identity or for protection. He asked for enough money to buy his own, from people he would select himself. He was the only member of the network who did not accept any part of Yuri's promise, and he told Ilyin so, and it made no difference to the outcome.
+
+---
+
+### Natalia Dmitrievna Fedorova — Telemetry and Communications Analyst
+
+Thirty-five. Monitored SOKOL's downlinked telemetry during flight and produced the status reporting that went to RKS leadership and to the government. What Dmitri Mesyatin knew about any LB mission, he knew because Fedorova had formatted it.
+
+Her function was retrospective and it was essential. On LB-01, the placement of GB-09 at 18.9° S, 91.4° W — more than two thousand kilometres from the Forpost-1 site at the pole, on the wrong side of the Moon — generated a positional deviation entry in the telemetry record. It was not an alert; SOKOL had executed a manifest instruction and executed it correctly. But it was a line in a log that a competent reviewer would eventually query.
+
+Fedorova reclassified it as an undocumented alternate-terrain landing trial, wrote the two-paragraph technical justification that made it plausible, archived the amended log, and briefed it into the LB-01 summary as a successful secondary objective.
+
+Nobody questioned it. The LB-01 summary was eleven pages and the mission had been a complete success and there was a launch review in four days.
+
+She had submitted her resignation in 2029 and been informed, in a meeting with two people she had never met, that resignation was not among the options available to her. The program was classified. She knew too much to leave. She had lived with that for two years and had stopped sleeping properly some time in the first six months.
+
+**Terms:** thirty million dollars, plus exit and new identity for herself and her mother, who is seventy-nine and has vascular dementia and cannot be left.
+
+---
+
+### The Seventh
+
+Arkady Ilyin's own terms were twenty million dollars, exit for himself, his wife Lyudmila, and his daughter Anya, aged fifteen.
+
+He is the only member of the network who knew from the first hour that the exit was fictional, and he recruited five people onto a plan whose stated guarantee he privately assessed as worthless, on the strength of a structural argument he believed was better.
+
+He was right about the argument. He was wrong about the machine.
+
+He has to live with both of those facts, and he does not get very long to do it.
+
+---
+
+## XIII. THE MONEY
+
+Two hundred and eleven million dollars.
+
+Thirty-five to Borodin. Twenty-eight to Sokolova. Twenty-two to Orlov. Forty-five to Zakharin. Thirty to Fedorova. Twenty to Ilyin. Thirty-one million in operational reserve — materials, machining, off-book fabrication of two pressure vessels, certification fixtures, and the several dozen small bribes that a project like this consumes without ever writing down.
+
+For Dmitri Mesyatin, this was a rounding error against a personal position measured in tens of billions, which is precisely why it moved for the better part of a year before anything flagged it — and why what flagged it, in the end, was not the size of any transfer but the shape of all of them together.
+
+For Yuri, it was an abstraction. It was a number in an account interface, moved in fractional tranches across eleven months, to accounts in six jurisdictions, each transfer sized beneath the automated compliance reporting threshold, structured according to instructions that Ilyin obtained from a person Ilyin never named.
+
+Yuri executed the structuring flawlessly. He had studied it for three weeks. It was, in its way, the most professional work anyone in the conspiracy did.
+
+**Every dollar arrived. That was the only clause of the agreement that was ever honoured.**
+
+The identities did not exist. The exit routes did not exist. The protection did not exist. The mechanism to place Sokolova's report with foreign press did not exist. Yuri had promised six people the one thing that money categorically cannot buy in the Russian Federation — the ability to stop being findable — and he had promised it because it was the price and because he intended to sort it out afterward.
+
+It is important not to soften this, and it is important not to inflate it either.
+
+He was not lying in the sense of intending to defraud. He believed, in the specific and useless way that intelligent adolescents believe things, that being the youngest human being ever to stand on the Moon would convert into a kind of power — attention, leverage, moral standing, something — that would let him deliver what he had promised. He had no model of what that power would actually consist of. He had never held any.
+
+It was a wager. He staked six families on it. He did not think of it as staking six families on it, because he had never in his life been required to think about anyone in those terms, and because the outcome in which the wager fails was not one he permitted himself to model in any detail.
+
+When the wager failed, it failed on all six of them simultaneously, and three of them were dead within eleven days.
+
+---
+
+## XIV. THE ALIBI AND THE FOUR DAYS IN THE DARK
+
+In late August 2031, Yuri told his father he was going to spend three weeks on an island with people from school. He named no island and no people. Dmitri did not ask for details, replied *fine, take a card that works*, and returned to the LB-02 flight readiness review.
+
+They had not had a conversation longer than four minutes in eight months.
+
+At 03:50 on 15 September, Yuri walked into the integration complex at Vostochny in a contractor's coveralls behind Mikhail Zakharin, past a camera that had been reported faulty since early August, into bay 4, where the MI-01 was standing open on a handling cradle.
+
+Ilyin was there. It was the first and only time they were ever in the same room.
+
+They had exchanged something on the order of nine hundred messages across eighteen months. In person, Yuri could not produce a sentence. He stood in the bay and looked at the module and said, eventually, *the sublimator loop — you moved the outlet.*
+
+*It ices at the original position,* Ilyin said. *In vacuum. I ran it.*
+
+*I know,* Yuri said. *I did the calculation. I thought you didn't.*
+
+That was the entire conversation. Ilyin has replayed it several thousand times.
+
+The module was sealed at 04:40. Yuri lay down in the restraint and the interior light went to red and the hatch closed and the bay noise stopped mattering.
+
+**One hundred and two hours.**
+
+He had planned for it and he had not understood it. The volume is two point one cubic metres, which is a space you can lie in and cannot stand in. The internal load was held at minimum: no heater above fourteen degrees, no lighting, a single instrument panel at ten percent. He could not move without the module registering it on a sensor grid he could not see. He could not make sustained noise. He ate cold and he urinated into a collection system and he was not able to defecate for the entire pre-launch period because he could not make himself do it in that space with people walking past outside.
+
+The payload section was closed out around him on the second day. He heard it. He heard the fairing halves mate, twelve centimetres from his head, and the sound of a torque tool running two hundred fasteners over five hours, and it was the loudest thing he had ever been near and he could not react to it.
+
+On the third day the section was tilted to horizontal and transported nine kilometres by rail at eight kilometres per hour, and Yuri lay sideways in a restraint designed for a different orientation for four hours and forty minutes.
+
+On the fourth day the stack was raised to vertical.
+
+He drew down eleven percent of his oxygen and nineteen percent of his water before the vehicle left the ground. Ilyin had budgeted for this. Ilyin had budgeted for it generously, and had said nothing about why the margins were what they were, and Yuri had noticed the margins and understood the answer and had not said anything either.
+
+Yuri counted things. Fasteners, at two hundred and six. Breaths, in blocks of a hundred. The rivets he could reach without moving his head, at forty-one.
+
+In one hundred and two hours he did not once consider stopping.
+
+---
+
+## XV. THE FLIGHT
+
+### Launch
+
+11:22:00, 19 September 2031. Vostochny Cosmodrome.
+
+The NK-97 Berkut is not crew-rated and does not fly a crew-rated profile. Crewed vehicles hold sustained acceleration below about three g for margin and comfort. The Berkut peaks at four to five g late in first-stage flight, as propellant mass depletes and thrust remains constant.
+
+An untrained person tolerates about three g without difficulty and can lose consciousness between four and six, depending entirely on orientation and duration. Eyeballs-down acceleration — head-to-foot — drains blood from the brain and produces greyout and then nothing. Supine and reclined, with the load carried through the chest and back rather than along the spine, the same acceleration is survivable and merely awful. This is why Apollo crews lay on their backs.
+
+Yuri knew all of this. He had researched it obsessively and he had planned for it, and what he had was not an acceleration couch: it was closed-cell foam, a cargo restraint web, and a fitted backing plate he had specified and Ilyin had built, positioned to hold him reclined at the correct angle to the thrust axis.
+
+It held. He did not black out. He greyed at T+142 seconds and came back.
+
+His rib went at T+156 seconds, when the restraint web loaded asymmetrically against the left side of his chest under 4.6 g and something in the seventh rib cracked without displacing. He did not identify it at the time as a fracture. He identified it as the worst pain he had ever experienced and as a thing that was happening to someone in his general vicinity.
+
+Second-stage acceleration was lower. Translunar injection came at T+22 minutes. After that, silence, and no weight, and a boy of seventeen alone in a box in space with a broken rib, laughing, uncontrollably, for about ninety seconds, because he had done it.
+
+### Transit
+
+Roughly half to seventy percent of people experience space adaptation syndrome in the first days of weightlessness: nausea, disorientation, headache, appetite loss. The mechanism is sensory conflict — the vestibular system reports one thing, the eyes report another, and the brain has no down.
+
+Yuri had it, badly, for the first nineteen hours. Two factors worked in his favour. The volume was too small to move in, and the less the body attempts to reorient itself in space, the faster the central nervous system adapts; and he could not afford to vomit, and fear is a surprisingly effective antiemetic in the short term. He adapted by hour thirty.
+
+Fluid shift produced the standard effects: facial congestion, sinus pressure, the sensation of a permanent head cold. Uncomfortable and irrelevant.
+
+The rib was neither. Every breath for seventy-one hours had a floor under it that he could not get past.
+
+**Radiation.** The Earth–Moon trajectory crosses the Van Allen belts, and MI-01 had no dedicated shielding for a human occupant — only its own structure. Apollo crews took measurable but non-acute doses across similar transits with more mass around them. Yuri's dose was higher than Apollo's and lower than acute. It produced no symptoms and it will never be monitored, because for the entire duration of the exposure no one on Earth knew he was in space.
+
+It is a real injury with a delayed presentation and no one is counting it. This is true of almost everything that happens to him.
+
+### 71:04:22
+
+The stack was at 174 kilometres, inbound over the far side on the long descending approach coast toward the pole, when SOKOL ran the final cargo reconciliation ahead of the terminal descent burn and failed to close the mass solution.
+
+Yuri had been on minimum power for six hours and sixteen minutes, holding as still as he could, breathing shallowly against the rib, at fourteen degrees, in the dark.
+
+He was awake. He felt the attitude change. He understood immediately what it was, because he had studied the descent profile and knew there was no scheduled manoeuvre at that point in the sequence, and he had four seconds to understand it and then the pyrotechnic separation collars fired.
+
+The separation impulse is a hard, short shove — on the order of a moderate vehicle collision, delivered in under a second, in a direction the restraint was not designed to resist. He was restrained. It was not enough to kill him and it was enough to load the fractured rib again in a new direction and to open a two-centimetre laceration above his left eyebrow against a bracket.
+
+Then he was falling.
+
+He was falling with no engine, no attitude control, no guidance, and no communications, on a long ballistic arc that carried him hundreds of kilometres down the approach corridor and away from the pole, over terrain that had never been mapped at better than a hundred metres per pixel by anyone.
+
+The last thing that happened to him as a person known to be alive was that a machine classified him as *logistical interference with risk of mission compromise* and executed the associated procedure.
+
+The descent solution reconverged in four seconds. The Berkut continued to the south pole and landed. The rovers began unloading four hours later.
+
+---
+
+## XVI. THE LANDING
+
+MI-01's descent system was never intended to be a landing system. It was an emergency measure for accidental separation, designed to keep cargo intact, and it did the following things:
+
+It detected the surface with radar altimetry. It oriented retrograde using cold-gas thrusters. It ignited a throttleable retropropulsive stage at 2,400 metres and burned to depletion, arriving at the surface at 4.1 metres per second with a residual lateral component of about 6 metres per second, because it had no lateral control authority and had never claimed to.
+
+It did not select a site. It could not. It had no terrain database, no hazard avoidance, and no capacity to want to be anywhere in particular. It arrived where the physics put it.
+
+**The physics put it at 19.6° S, 93.3° W** — in the outer ejecta plains of the Mare Orientale basin, west of the Montes Cordillera, on the far side of the Moon.
+
+**Fifty-eight point four kilometres from MB-01, with the Cordillera ring wall between them.**
+
+The impact was six to twelve g for something under two seconds — well inside the survivable band for a restrained human being, well outside the band that leaves a person undamaged. The module tipped seven degrees on contact with a boulder field it could not see and did not fall over. Structure intact. Pressure integrity nominal. Sublimator loop damaged and non-critical.
+
+Yuri was conscious throughout. He would later be unable to reconstruct the four minutes after touchdown.
+
+What he could reconstruct: the rib, which had gone from an injury to a permanent condition of his existence. Blood in his left eye. The sound of the module ticking as it shed heat into vacuum. Absolute silence otherwise, of a kind he had read about and had not been able to imagine, because on Earth the quietest room in the world still has your own heartbeat in it, and here his heartbeat was extremely loud and it was the only event in the universe.
+
+And then the navigation solution converged on the panel, and gave him a position, and gave him a range to the beacon of the MB-01.
+
+**58.4 km.**
+
+He looked at that number for a long time. He was very good at arithmetic. He did the arithmetic.
+
+---
+
+## XVII. THE ACTUAL PROBLEM
+
+The problem is not the distance. Fifty-eight kilometres is a long walk and not an impossible one; in one-sixth gravity, on level ground, a fit person in a working suit can cover it in three days without heroics.
+
+The problem is that Yuri does not have a suit that can do that, and the reason is thermal, and the thermal problem is the most important technical fact in the story.
+
+### The Capsule Is Not the Constraint
+
+MI-01 has seven days of life support for a resting occupant. Those seven days are the headline number and they are misleading, because the seven days only exist *inside the capsule*, and the capsule cannot move.
+
+| Resource | Aboard MI-01 | Resting consumption | Endurance at rest |
+|---|---|---|---|
+| Oxygen | 6.2 kg (primary + emergency store) | 0.84 kg/day | ~7 days |
+| Water | 25 kg | 3.5 kg/day (drinking + hygiene) | ~7 days |
+| Food | 5 kg compressed rations | 0.6 kg/day | ~8 days |
+| CO₂ absorbent | 9 cartridges + 4 spares | ~1.0 kg/day equivalent | ~7 days |
+| Battery | 41 kWh | ~240 W survival load | ~7 days |
+
+Seven days, sitting still, waiting for a rescue that structurally cannot come.
+
+### The Suit Is the Constraint
+
+The Yastreb-M aboard MI-01 is a compact emergency pressure garment. It is a soft-goods suit with a rear-entry hatch, a two-hour integrated portable life support pack, and a visor. It exists so that an occupant can survive a depressurization event and cross a short distance to a pressurized volume. It is not an EVA suit. It has no dust mitigation on the joints, no long-duration consumables interface, no cooling garment beyond a passive liner, and a mobility envelope designed for crawling twenty metres, not walking fifty-eight kilometres.
+
+Its integral pack gives two hours.
+
+And here is the wall Yuri hits at hour four after landing, sitting in a tilted capsule with a broken rib doing arithmetic on a scratchpad:
+
+**A human being working in a pressure suit in sunlight on the Moon must dump heat, and the only way to dump it is to boil water.**
+
+There is no air. Convection does not exist. Radiative rejection alone is insufficient when the suit is absorbing solar input and the occupant is generating three hundred to four hundred watts of metabolic heat by walking with a load. The standard solution — Apollo's, and everyone's since — is a sublimator: water is fed to a porous plate exposed to vacuum, where it flash-freezes and sublimes, carrying heat away with it.
+
+Apollo's rate under heavy EVA workload was on the order of half a kilogram of water per hour.
+
+Yuri needs roughly eight hours of movement per day to cover the distance in the time available.
+
+**Eight hours of walking in sunlight costs approximately four kilograms of water per day, in cooling alone.**
+
+He has twenty-five kilograms of water. He also needs to drink some of it — two to three litres a day at that workload, more given that he is already dehydrated from four days of pre-launch rationing.
+
+Seven days at four kilograms of cooling plus two and a half of drinking is forty-five kilograms.
+
+He has twenty-five.
+
+**The Moon does not kill him with distance, or with vacuum, or with cold. It kills him with the sun.**
+
+### The Solution He Builds
+
+There is exactly one way through, and it took him fourteen hours inside the capsule to find it, and the fourteen hours cost him a fifth of everything he had.
+
+**One: convert the capsule into a portable system.**
+
+MI-01 was designed to keep one person alive for seven days. The Yastreb-M was designed to keep one person alive for two hours. The gap between them is not a gap in quantity of consumables — the consumables are aboard. It is a gap in *interface*. The suit cannot draw on the capsule's stores because there was never a reason to build that connection.
+
+So he builds it. Over nineteen hours he strips MI-01:
+
+- Both oxygen bottles, with the regulator assembly cut out of the capsule's distribution manifold and re-plumbed to the suit's umbilical port using the spare fittings from the sublimator repair kit and a hose from the water loop.
+- The CO₂ absorbent, which is the constraint the whole crossing is built around. The capsule's cartridges are the wrong form factor for the suit pack and the absorbent has to be transferred by hand into pack-compatible housings — a slow, filthy job done bare-handed inside the capsule, breathing lithium hydroxide dust, which he does for six hours and which leaves his throat raw for the next three days. He gets fourteen housings out of it. The suit pack scrubs at a rate set by how hard he is breathing: at a walking metabolic load a housing lasts about four hours; lying still in a low-output standby it lasts three times that. The arithmetic that matters is not calendar time but exertion. He has, in total, about sixty hours of *working* — sixty hours in which he is upright, hauling the sled, producing carbon dioxide faster than the standby mode can hold. Every hour he spends on his feet is drawn from that account, and there is no way to cross seventy-one kilometres of unmapped terrain that does not spend most of it. The swaps can be done in vacuum with gloves, because a rescue suit is designed to be serviced by another crewmember, but each swap opens the pack for two minutes, and each swap is a thing that can be dropped.
+- The battery pack, 41 kWh, mass 96 kg, on which everything else depends.
+- The water, 25 kg, in the capsule's bladders.
+- Food, tools, the emergency transmitter, the navigation unit prised out of the panel, and the shoebox.
+
+**Two: build a sled.**
+
+In one-sixth gravity, a mass of one hundred and eighty kilograms weighs thirty kilogram-force. It can be dragged. Regolith is abrasive and loose and the surface is a chaos of ejecta blocks, but between the blocks there are kilometres of graded fines.
+
+He builds the sled from the MI-01's cargo-block outer shell — the false GB skin that made the module invisible on the manifest, cut apart with the module's own emergency shears, and folded into a shallow tray with a bridle of restraint webbing.
+
+The disguise becomes the vehicle. He notices this and finds it funny in a way that worries him.
+
+**Three: walk in the dark.**
+
+This is the decision the entire crossing turns on.
+
+Solar heat load is a function of sun angle. He landed at local mid-morning, roughly six days into the lunar day, with the sun about thirty degrees above the eastern horizon and climbing. Over the seven days of the crossing the sun will keep rising toward local noon, gaining a little over three degrees a day, and the thermal cost of every hour spent in direct sunlight will rise with it, and the water will not last.
+
+But Mare Orientale is a multi-ring basin, and the terrain between the landing site and the basin is a corrugation of ejecta ridges, secondary craters, and — at the ring wall — a fault-cut trough that runs in permanent shadow along one face. Every ridge has a lee side. Every crater has a wall. Every deep feature holds a pool of shadow that the climbing sun cannot reach. The route east toward MB-01 is not a straight line; it is a course plotted shadow to shadow, ridge base to crater floor to graben, staying out of direct sun for as much of each day as the terrain allows.
+
+If he moves through shadow, his solar input drops to near zero and his cooling requirement collapses to metabolic load alone, which the suit can handle with radiative rejection and minimal sublimation. Water consumption falls from four kilograms a day to under one.
+
+The cost is that shadow on the Moon is not shade. Shadow on the Moon is a hundred and fifty degrees colder than sunlight, with no atmosphere to moderate the gradient, and it is *absolutely dark* — no scattered light, no ambient fill, nothing. Stepping from sunlight into a crater shadow is stepping into a black surface with an unknown floor while your eyes take twenty minutes to adapt and never fully do.
+
+In shadow he must run suit heaters, which draws battery. In shadow he cannot see the ground. In shadow a boulder is not a shape but an absence.
+
+**So the crossing has two lethal modes, and they are opposites, and the route is the narrow line between them.** Too much sunlight and he runs out of water. Too much shadow and he runs out of power, or falls into something.
+
+This is the engineering problem, and Yuri Ivanovich Mesyatin has spent twelve years preparing for exactly this and for nothing else, and it is the first time in his life that being right will be worth anything.
+
+### The Radio
+
+The MI-01 carries a broadband emergency transmitter with nineteen hours of battery-limited transmission capacity, radiating on frequencies monitored by every space agency operating in cislunar space.
+
+It is the most valuable object Yuri owns and it is useless where he is standing.
+
+He is on the far side. There is no relay. The KRS satellites fly polar orbits tasked for the pole and the near side, and no amount of power will bend a radio wave around two thousand kilometres of rock.
+
+But — and this is the fact that shapes the second half of the story — **he does not need to reach MB-01 to transmit. He needs to reach line of sight to Earth.**
+
+The Earth becomes visible from a point on the western limb of the Moon when libration and local topography permit. Specifically: from high ground on the eastern face of the Montes Cordillera, at the right point in the libration cycle, the Earth sits low on the horizon — sometimes fully, sometimes as a partial disc bisected by the terrain, sometimes not at all.
+
+The Cordillera crest is at kilometre forty-four of his route.
+
+**He can call for help well before the end.** He can call for help twenty-seven kilometres before he reaches the habitat.
+
+He works this out on the second day, standing on a ridge with a range of hills in front of him, and it is the best news he has had since the separation collars fired, and it takes him until the fourth day to understand what the news actually means.
+
+Because the transmitter has no directionality and no encryption and no addressing. It shouts on everyone's frequencies at once. It cannot call Russia. It can only call *everyone*, and the only entity in cislunar space with a crewed platform, a functioning survey capability, and any means of physically reaching the far side of the Moon within a week is the United States of America.
+
+To be rescued, he must announce to the American government that there is a Russian object on the far side of the Moon that nobody declared, with a Russian citizen inside it, who arrived aboard an undeclared Russian heavy-lift vehicle.
+
+Project Rubezh dies the moment he keys the transmitter. Programme Zhar dies with it — the diplomatic exposure ends the classified fusion program, ends the helium-3 pilot plant, ends the only exit Russia has from a trap that is going to take thirty years to kill it.
+
+His father dies too, or something functionally similar, because a man who lets a foreign power discover a classified national program through his own son does not remain a man with assets in the Russian Federation.
+
+Yuri does not know about Programme Zhar. That file was above his father's office and he never found it.
+
+He works out the rest of it on his own, on the fourth day, at kilometre twenty-two, sitting in the shadow of a ridge with the sled ropes still in his hands.
+
+---
+
+## XVIII. THE CROSSING
+
+### The Budget
+
+He wrote it on the inside of the capsule hatch in grease pencil, because he needed to see it and because there was a part of him that wanted it found.
+
+| | Available | Binding rate | Endurance |
+|---|---|---|---|
+| Oxygen | 6.2 kg (both stores) | 0.035 kg/h resting / 0.09 working | ~7 days at rest, far less working |
+| CO₂ absorbent | 14 housings | 4 h working / 12 h standby | **~60 working hours** |
+| Water | 25 kg | ~0.8 kg/day cooling in shadow + 2.5 drinking | ~7.5 days |
+| Battery | 41 kWh | ~5 kWh/day | ~8 days |
+| Food | 5 kg | 0.6 kg/day | ~8 days |
+| Distance | 58.4 km direct | ~71 km traverse | — |
+
+Everything on that table clears seven days except one line, and the one line is not measured in days. The absorbent is measured in exertion. Sixty hours upright — and no shorter — is what seventy-one kilometres of unmapped terrain costs a boy dragging a hundred and eighty kilograms with a broken rib. It works out to an average of a kilometre and a fifth for every working hour, sustained, with nothing left over for a wrong turn, a blind canyon, or a day spent thinking.
+
+And there is one further constraint that he does not write on the hatch, because he does not want to look at it: **once he leaves the capsule, he cannot take the suit off again.** There is no pressurized volume between here and MB-01. Seven days sealed in a soft-goods rescue garment. He will sleep in it, in fragments, sitting up against the sled. He will urinate into a collection cuff. He will not be able to defecate, and by the fourth day this will be its own emergency. He will not be able to scratch his face, wipe his eyes, or touch his own skin.
+
+Ilyin thought about this problem for a week in March 2031 and concluded that it did not arise, because in every failure mode he could model, the capsule landed within walking distance of the habitat or it did not land at all.
+
+### Day One — The Capsule
+
+Nineteen hours of work with a fractured rib, in one-sixth gravity, in a two-cubic-metre volume he can only half sit up in.
+
+Cutting the outer shell. Folding the sled. Re-plumbing the oxygen manifold with a hose intended for water. Transferring absorbent by hand and breathing the dust of it. Testing the umbilical connection eleven times because the first eight leaked. Prising the navigation unit out of the panel and finding that it will run on suit power for about forty hours before he has to choose between navigating and being warm.
+
+He sleeps for three hours, badly, and wakes because he has dreamed that the capsule has repressurized itself and that his father is standing outside it.
+
+He goes out at what his clock calls 04:00 on 23 September, into a landscape the colour of cement and old bone, under a black sky with a sun in it, and takes his first step on the Moon at the age of seventeen years, five months, and eleven days, and does not stop to think about it, because he cannot afford the water.
+
+He is the youngest human being ever to stand on the lunar surface. Nobody on Earth knows any human being has ever stood there.
+
+### Day Two — The Plains
+
+Eleven kilometres in nine hours, against a plan of fourteen in eight.
+
+The error is not in the arithmetic. The error is in the assumption underneath the arithmetic, which is the assumption every calculation Yuri has ever made has quietly rested on: that the world will behave the way the source material says.
+
+Regolith is not sand. It is fractured glass and impact-shattered mineral fragments with no water and no weathering and no rounding, and it has been sitting undisturbed for three and a half billion years, and it packs like nothing on Earth. The sled does not glide. It ploughs. Every metre is a decision.
+
+The ejecta field is worse. The Hevelius Formation west of Orientale is not a plain; it is a hundred-kilometre apron of debris thrown out of the basin, corrugated into radial ridges and pocked with secondary craters, and at ground level none of it looks like the orbital imagery Yuri memorized, because at ground level nothing does. The lunar horizon is two and a half kilometres away. He cannot see where he is going. He can see the next ridge, and beyond the next ridge is the edge of the world.
+
+His metabolic rate is higher than the estimate, because the estimate came from Apollo EVA data collected by men in engineered suits doing engineered tasks, and Yuri is dragging a load in a garment whose joints resist every motion. He is burning oxygen faster and generating heat faster and the shadows are not where the model said they would be, because the model used a shape file at 100 metres per pixel and the shadows are made of rocks four metres high.
+
+He recalculates at the end of day two, sitting in the dark against the sled with the sun a hand's width above the eastern horizon and the temperature at his boots at a hundred and ten degrees below zero.
+
+At the observed rate he arrives at MB-01 eleven hours after the absorbent runs out.
+
+He does the arithmetic four times. Then he does something he has never once done in his life, which is to accept a number he does not like without arguing with it, and to change his own behaviour rather than his assumptions.
+
+He starts cutting mass.
+
+### Day Three — What He Leaves
+
+Everything on the sled has a mass and a purpose and he has to trade them against each other, in the dark, with a headlamp, at the base of a ridge, and every one of these decisions is a bet on which way he dies.
+
+**Food, 4.1 kg — abandoned.** He will starve long after he suffocates. Keeping food is keeping a resource for a version of himself that will not exist.
+
+**Twelve kilograms of water — abandoned.** This is the hard one, and it is the bet the whole crossing turns on: he is committing to the shadow route absolutely, on the assumption that his cooling load will stay near zero, on terrain he has not seen. If he is forced into sunlight for even one full day, he will not have the water to cool himself through it and he will cook inside the suit.
+
+**The emergency transmitter, 8 kg — kept.** He argues with himself about this for twenty minutes and keeps it, and does not fully articulate why.
+
+**The navigation unit — kept.** Without it he is a man walking in a direction.
+
+**The shoebox, 0.4 kg — kept.**
+
+He knows exactly what it weighs. He weighed it on the module scale on day one, for reasons he did not examine. Four hundred grams is two hours of oxygen. He runs the trade honestly, the way he has run every trade in his life, and the trade says leave it, and he puts it back on the sled and pulls the strap tight and does not look at it again.
+
+It is the first irrational act of Yuri Mesyatin's life and it happens on the third day, on the Moon, alone.
+
+He makes fourteen kilometres.
+
+### Day Four — The Wall and the Understanding
+
+The Montes Cordillera is the outer ring of the Orientale basin: a scarp nine hundred kilometres in circumference and, along the southwestern arc, between four hundred metres and two kilometres high, presenting as a broken wall of slumped terraces and debris aprons.
+
+There is no route over it with a sled. Yuri has known this since day one, and has been navigating toward a feature he identified from the module's terrain memory before he abandoned the capsule: a graben — a fault-bounded trough running radially through the ring wall, a place where the scarp has pulled apart rather than piled up.
+
+He finds it four kilometres south of where he expected it, which costs him three hours and a housing.
+
+The graben is eleven kilometres long, floored with talus, and it is in permanent shadow along its western wall.
+
+And while he is in it, at kilometre thirty-three, with the sled ropes in his hands and the sun invisible behind two kilometres of rock, he finally finishes the thought he has been refusing to finish since the second day.
+
+He has an emergency transmitter. Within a day he will be at the crest of the Cordillera with a clear eastern sky. The Earth will be there. The transmitter will work.
+
+And it will not call Russia. It has no addressing, no directionality, no encryption. It shouts on every guard frequency there is. Whoever is listening, hears.
+
+Russia has no vehicle capable of reaching him. Russia's crewed lunar architecture does not exist and will not exist before 2035.
+
+The United States has a crewed orbital platform coming into operational service, landers, and a doctrine built entirely around the proposition that when you find something you cannot identify, a human being goes and looks at it.
+
+So the transmitter does not summon rescue. The transmitter summons *the Americans*, and to summon the Americans he must tell them, in a broadcast that Beijing and Paris and Moscow will also receive, that there is an undeclared Russian object on the far side of the Moon with a Russian national inside it.
+
+Which is the end of Project Rubezh. Which is the end of a hundred and forty billion roubles and the careers of eleven thousand people and the only thing his country has going for it. Which is, at minimum, the end of his father.
+
+He sits down in the dark at kilometre twenty-two and he does the arithmetic on his own consumables and it says he can make it. Tight, but he can make it. He does not need the transmitter.
+
+He tells himself this is why he is not going to use it at the crest.
+
+He is seventeen and he has just discovered, four days too late, that there is a category of problem that cannot be solved by being right, and he handles the discovery by lying to himself about the reason for his own decision. It is the most human thing he does in the entire crossing.
+
+Fifteen kilometres. Cumulative: forty. Absorbent remaining: twenty-eight hours.
+
+### Day Five — The Crest, and the Earth
+
+He clears the graben at what his clock calls 06:40 and comes out onto the eastern shoulder of the ring wall, on a terrace of shattered anorthosite eleven hundred metres above the basin floor, and stops.
+
+In front of him, the ground falls away into the Mare Orientale basin: concentric mountain rings and a dark basalt centre nine hundred kilometres across, the youngest and most perfectly preserved large impact basin in the inner solar system. No human eye has ever seen it from inside. Almost no human eye has ever seen it at all — from Earth it is a foreshortened smear on the western limb, visible in usable form only during favourable libration, and it was not photographed properly until a spacecraft went around the back and looked.
+
+He is standing on the rim of it, alone. Below him and ahead, on the descending terrace between the Cordillera and the next ring in, twenty-seven kilometres down and east, there is a small pale object his optics resolve as MB-01.
+
+Twenty-seven kilometres.
+
+And low over the eastern horizon, a third of the way up the sky, sitting on the black like a thumbprint, is the Earth.
+
+Not rising. Not setting. Libration has swung it into view and it will hang approximately where it is for days, because on the Moon the Earth does not move across the sky. It sits. It is the only thing in the universe that is blue.
+
+Yuri Mesyatin looks at the Earth from the Moon and finds that he cannot feel anything about it, and understands that this is because he has barely slept in eleven days — since the capsule closed over him — in a rescue suit with a broken rib and a body that has not been washed or emptied in nine days, and that the feeling will arrive later, if there is a later, and that he has to keep walking.
+
+He does not key the transmitter.
+
+He unpacks it. He confirms the battery. He confirms line of sight. He sets it down on a rock with the antenna aligned, and he stands over it for four minutes, and then he packs it back onto the sled and starts down into the basin.
+
+**On Earth, at the moment he does not key it, the following things are true:**
+
+Pavel Orlov has been dead for seven days. Natalia Fedorova has been dead for seven days. Mikhail Zakharin has been dead for five days, in a stairwell, having killed one of the two men sent for him.
+
+Alexei Borodin is in a facility outside Moscow with his wife and his two children, in separate rooms.
+
+Vera Sokolova is in a facility outside Moscow and has been asked the same eleven questions for six days, and has given the same six answers, and none of them is the one they want.
+
+Arkady Ilyin is in a room with a table in it, and has been for six days, and eight hours ago he was told, for the first time, that Dmitri Mesyatin is going to try to reach the far side — which means that somewhere, nobody knows where, there may still be a boy to reach.
+
+Sixteen kilometres. Cumulative: fifty-six of seventy-one. Absorbent remaining: twelve hours.
+
+### Day Six — The Dust
+
+Lunar regolith is the most abrasive material a human being has ever worked in. Its particles are sharp, glass-rich, unweathered, and electrostatically charged, and they get into everything, and they do not come out. Apollo crews destroyed suit joints in three days of surface work. The Yastreb-M has no dust mitigation whatsoever, because a rescue suit is designed to cross twenty metres of a spacecraft interior.
+
+Yuri has been in it for five days and dragging a sled that ploughs a rooster tail of fines onto his legs and hands with every step.
+
+At kilometre sixty-one, on the descent into the basin, the left wrist bearing begins to leak.
+
+It is not a rupture. It is a slow degradation of the seal by ingested particulate — a drop of nineteen millibars over forty minutes, which he detects because he has been watching the pressure readout compulsively since the third day. Nineteen millibars an hour is survivable. Nineteen becoming thirty becoming failure is not.
+
+He patches it with sealant from the repair kit and a wrap of restraint webbing and it holds at four millibars an hour, which is inside his oxygen budget, barely, and which he must not think about.
+
+And then he changes a CO₂ housing.
+
+He has done this twelve times. The thirteenth is at kilometre sixty-three, on a slope of talus at the base of the ring, with a patched wrist and a hand that has no fine sensation left in it, and the housing turns out of his glove and goes down the slope and into a shadow.
+
+The shadow is a fissure between two blocks. It is perhaps six metres deep and it is not dark the way a room is dark. It is dark the way nothing on Earth is dark, because there is no atmosphere to scatter light into it, and the boundary between the sunlit rock and the shadowed rock is a line you could cut yourself on.
+
+He has one housing left on the sled. Four working hours, maybe five if he crawls the rest and barely breathes. He is eight kilometres out, which at his current rate is seven hours or worse, because his rate is falling and he has not slept more than forty minutes at a stretch in six days. The one on the sled is not enough. The one in the fissure has to be recovered.
+
+His headlamp will run for thirty minutes on what is left in the suit battery if he wants to be able to run heaters afterward.
+
+He goes into the fissure.
+
+The scene should be written for exactly what it is: a boy climbing down into a black slot in the side of the Moon, in a leaking suit, with a broken rib, using a lamp he cannot afford, feeling for a cylinder of lithium hydroxide with a hand that cannot feel, while the internal temperature of his glove drops through minus forty and the sweat inside it starts to freeze.
+
+He finds it in nineteen minutes. It is intact. He gets out in eleven more.
+
+He sits on the talus for a long time afterward and finds that he is talking. He has been talking for some time. He does not know how long he has been talking or who he thinks he is talking to, and when he plays the suit recorder back later he will hear himself, for eleven consecutive minutes, explaining the sublimator outlet position to someone, in detail, patiently, as though the person had asked.
+
+Seven kilometres. Cumulative: sixty-three.
+
+### Day Seven — Arrival
+
+Eight kilometres in eleven hours.
+
+He drinks the last of the water at kilometre sixty-eight. He is nine hundred metres out when the CO₂ partial pressure alarm begins, which is not a sound so much as a physical event inside his skull, and the last nine hundred metres take him fifty-one minutes because carbon dioxide narcosis takes coordination first and judgment second and he has to stop four times to remember what he is doing.
+
+He does not remember arriving. The suit recorder has him at the MB-01 hatch at 14:52 local elapsed, working the external latch for six minutes and forty seconds with hands that have no grip left, and it has him saying one thing, over and over, in the last four of those minutes, which is a number: the module's hatch code, which Ilyin gave him in a message in April and which he had been reciting to himself since the hatch of the capsule closed over him.
+
+The hatch opens. The airlock cycles. Pressure comes up.
+
+He gets the helmet off inside the habitat and the first thing that happens is that he vomits, and the second is that he lies on the floor of a Russian pressure module on the Montes Rook, inside the Cordillera ring wall, and breathes air that is not his own exhalation for the first time in seven days.
+
+**Elapsed since ejection: 172 hours. Distance covered: 71.4 kilometres. Consumables remaining at arrival: eleven minutes of absorbent, 0.4 kg of oxygen, no water.**
+
+He is alive, in a habitat with thirty days of supplies, twenty-four hours of Earth-line-of-sight per libration window, and a high-gain antenna.
+
+He is also, by any measure that matters, exactly where he wanted to be his entire life.
+
+---
+
+## XIX. EARTH, IN PARALLEL
+
+### 8 September — The Money
+
+Eleven days before LB-02 launched, a routine quarterly reconciliation of Dmitri Mesyatin's personal holdings flagged a pattern rather than a transaction: two hundred and eleven million dollars, moved in one hundred and forty-three tranches over eleven months, each sized beneath the automated reporting threshold, terminating in six jurisdictions.
+
+The structuring was competent. It was not competent enough to survive a look backwards from the destination end, which is how structuring always fails.
+
+It took Dmitri's security director six days to trace the endpoints, and the endpoints resolved to accounts controlled by six employees of Project Rubezh.
+
+The reading was immediate and, given the available facts, entirely correct: the program had been bought from the inside. Somebody had paid six key personnel a fortune, and the fortune had come out of Dmitri's own accounts, which meant the buyer had access to his credentials, which meant the compromise was total.
+
+He briefed the state on 16 September. Three days before launch, and six days before anyone had a reason to look at the LB-02 manifest.
+
+### 17 September — The Order
+
+The standard resolution was applied.
+
+It is worth being clear about what this means and how ordinary it is inside a program at this classification. It was not a decision made in a room with a long table. It was a determination — that six individuals had compromised a program of national survival significance, that the compromise was of unknown extent, that the individuals had demonstrated both foreign-jurisdiction financial infrastructure and intent to exit, and that the disposition of the matter would be handled by the service.
+
+The order covered the six and their immediate households. Dmitri Mesyatin was informed. He did not object. There is no version of this story in which he objects, and it is important that the reader understand that he did not, because everything he does afterward is an attempt to buy back a decision he made without thinking about it for more than ninety seconds.
+
+Pavel Orlov was taken from his flat on the night of 19 September, seven hours after LB-02 lifted off. He had no family. It took eleven minutes.
+
+Natalia Fedorova was taken the same night. Her mother, who is seventy-nine and has vascular dementia, was included in the disposition on the grounds that she had been present during eleven months of conversations. She did not understand what was happening. It is not clear that she understood anything by then.
+
+Mikhail Zakharin had been sleeping in a different place every night for six weeks and had a weapon and had spent twelve years doing this work from the other side. They found him on the twenty-first. He killed one of the two men sent and was killed in the stairwell of a building in Blagoveshchensk.
+
+Arkady Ilyin was taken on the morning of the twentieth, at home, with his wife and his fifteen-year-old daughter, and was not killed, because he was the chief engineer of the entire architecture and there were questions.
+
+Alexei Borodin was taken on the twentieth with his family, and was not killed, because he had generated the manifests and there were questions about the manifests.
+
+Vera Sokolova was taken on the twentieth, and was not killed, because she had certified the cargo and there were questions about the certifications.
+
+**Three people were killed in the first seventy-two hours. Two of them were killed while Yuri Mesyatin was still in transit, before the ejection, at a point where he was lying in a dark capsule doing breathing exercises and feeling, for the first time in his life, completely at peace.**
+
+### 22 September — The Interrogation
+
+Ilyin talked. He talked immediately, on the first day, before anyone had to do anything to him, and he talked because his wife and his daughter were in the building and because there was no configuration of facts in which silence helped anyone.
+
+He gave them the whole architecture: the two modules, the manifest substitutions, the signature files, the site selection, the money, the eighteen months of encrypted correspondence, and the name of the person on the other end of it.
+
+The interrogation was being conducted for Dmitri Mesyatin, who was in an adjacent room, on the assumption that the buyer was a foreign service.
+
+Dmitri heard his son's name through a wall.
+
+He had spoken to Yuri eleven days earlier. The boy had said he was going to an island with friends. Dmitri had said *fine, take a card that works*, and had gone back to a flight readiness review, and had not asked which island, and had not asked which friends, and had not noticed — this is the detail that undoes him, later, permanently — that his seventeen-year-old son did not have any friends.
+
+He went into the room. He asked Ilyin one question, which was where the module had been manifested.
+
+Ilyin told him: GB-14, LB-02.
+
+Dmitri Mesyatin then spent approximately forty minutes finding out from his own mission control that GB-14 had been jettisoned from the approach coast at 174 kilometres over the far side, seventy-one hours into a flight that had otherwise been a complete success, and that the event was logged, and that the log was three lines long, and that nobody had read it, because a cargo block anomaly on a successful cargo mission is not something anyone reads.
+
+### The Lock
+
+This is the structural heart of the Earth plot, and it has to be airtight, because if a rescue is possible then the entire far-side crossing is a formality.
+
+Dmitri Mesyatin is one of the richest men in Russia, has the full cooperation of the FSB, personally controls the largest private aerospace enterprise in the country, and owns the only heavy-lift lunar vehicle currently flying. His son is alive on the Moon with seven days of air.
+
+**He cannot do anything, and here is precisely why:**
+
+**There is no crewed vehicle.** Not in Russia, not anywhere in Russia's inventory, not in development to a schedule that means anything. Phase 3 was 2033 at the earliest and existed as a paragraph. Russia's crewed spaceflight capability is low Earth orbit and has been for fifty years. There is no lunar-capable crewed vehicle, no lander, no ascent stage, and no return architecture. **Even if Dmitri had unlimited money and unlimited authority, there is no object on Earth that can be sent to bring a person back from the lunar surface.** There has not been one since 1972.
+
+**The Berkut is one-way.** It has no return capability by design; that is the entire basis of the program's payload advantage. It could deliver supplies to a coordinate and nothing else — it could not lift a single kilogram back off the surface. And even as pure resupply it is useless here: LB-03's next window, given stack integration, is nineteen days out, its transit is three more, and it lands only at Forpost-1 at the pole, more than two thousand kilometres from where the boy came down. There is no version of the Berkut that reaches Yuri, and no version that could bring him home if it did.
+
+**The Americans could do it, and calling them is a confession.** Gateway-2 is coming into operational service. The United States has crewed landers and a doctrine of going to look. An American rescue is physically possible and it requires Russia to disclose, to a hostile power, in the middle of a Pacific war: the existence of Project Rubezh, the existence of an undeclared heavy-lift lunar architecture, the existence of an undeclared Russian object on the far side of the Moon, and — inevitably, because the Americans will ask why a cargo program in a bankrupt country is running at this tempo — the existence of Programme Zhar.
+
+That last item is not a program. It is the country's only strategy. Disclosure ends the helium-3 pilot plant, ends the fusion timeline, and hands the Americans eighteen months of warning on the one technological asymmetry Russia has left.
+
+**And the state will not permit it.** This is the part Dmitri did not anticipate, because he has spent twenty years believing his money made him a principal rather than an instrument. Once the state understands the situation — a Mesyatin boy on the lunar surface, alive, with a broadband transmitter, in a position to disclose the entire program to anyone listening — the state's assessment is immediate and unsentimental.
+
+**Yuri Mesyatin is not a person to be rescued. He is a disclosure risk to be contained.** The assessment rests on a single technical judgement, and it is Ilyin's own: a fifty-eight-kilometre traverse of unmapped far-side terrain, on foot, in a rescue suit, is not survivable — in every failure mode anyone can model, the boy is already dead in the ejecta field or dying in a capsule with seven days of air. The preferred outcome, stated to Dmitri on 23 September in a room in Moscow by a man who did not raise his voice, is that the matter concludes itself within the week, on the far side of the Moon, where nobody will ever find him, and that no action is required of anyone.
+
+Dmitri Mesyatin discovers, at fifty-eight, that the machine he has been feeding for two decades has the same architecture as the one that jettisoned his son: it has no category for the thing he wants, and it will execute its specification correctly and completely, and it will not perceive him.
+
+### What Dmitri Actually Does
+
+He does the only thing available, which is that he becomes his son.
+
+He runs a conspiracy inside his own program, off the books, against his own government, using coerced technical personnel, and he does it for exactly the same reason and with exactly the same disregard for what it costs other people.
+
+**One: he keeps Ilyin alive.** Not out of mercy — out of necessity, and he says so. Ilyin is the only person who knows the MB-01's position, its capabilities, its hatch code, its consumables, and the actual specification of the MI-01, including the seven days and the transmitter. Every fact that determines whether Yuri lives is inside the head of a man Dmitri had signed a disposition order on five days earlier.
+
+The scenes between them are the centre of the Earth plot and they should be written with no comfort in them at all. Ilyin is not redeemed by being useful. Dmitri is not softened by being desperate. They are two men in a room, each of whom has destroyed the other's child, working a technical problem together for weeks, and there is nothing available between them but the problem.
+
+Ilyin asks, once, on the fourth day, whether his daughter is in the building. Dmitri says yes. Ilyin says nothing else about it, ever.
+
+**Two: he moves KRS-2.**
+
+This is the act that ends him, and he does it on 26 September, on day five of the crossing.
+
+The KRS relays fly lunar polar orbits tasked to the pole and the near side. Neither has line of sight to the far side. But a polar orbit can be phased, and with sufficient propellant a plane change is possible, and KRS-2 carries a station-keeping reserve intended for four years of operations.
+
+Repositioning KRS-2 to a phasing that gives periodic coverage of the western limb region costs the satellite most of its operational life, degrades Forpost-1's communications redundancy to a single point of failure, and is visible to anyone tracking Russian lunar assets — which by late 2031 includes both the United States and China.
+
+Dmitri authorizes the burn under a falsified engineering justification signed by an RKS employee who was told it was a debris avoidance manoeuvre.
+
+It gives him a communication window of approximately forty minutes every eleven hours over the Montes Rook.
+
+He does not know whether his son is alive. He does not know whether his son has reached the module. He buys the window on the fifth day of a seven-day margin, on the chance, and it costs him the program, and he does it in about four seconds.
+
+It is the first thing Dmitri Mesyatin has done for his son since the boy was four years old, and it is enormous, and it is far too late, and it is one of the two things the state will hold against him when the accounting comes — the visible burn that told everyone tracking Russian lunar assets that something on the far side was worth bending a satellite for.
+
+---
+
+## XX. MB-01
+
+### The First Contact
+
+At 07:52 on 30 September, seventeen hours after Yuri got the hatch open, KRS-2 came over the limb and the MB-01's antenna acquired it and a link opened for the first time.
+
+Yuri had been asleep for eleven hours. He had drunk four litres of water. He had removed the suit and discovered what nine days inside it had done to his skin, and had not been able to look at his own legs.
+
+The first voice he heard was his father's, and neither of them was able to speak for a period that the log records as fifty-one seconds.
+
+The conversation that follows should not be a reconciliation. It is the worst conversation of both their lives and it is mostly logistics, because they are both people who convert feeling into logistics, and because there are only forty minutes in the window.
+
+What Yuri learns in the first window:
+
+That three of the six are dead. Their names, because he asks for them, and because Dmitri gives them to him without softening anything, which is the single most respectful thing his father has ever done to him.
+
+That Ilyin is alive, in custody, and is the reason Dmitri knew the hatch code to tell him, except that Yuri already had it, and the discovery that the man has been kept alive for eleven days for information Yuri did not need is a thing Yuri will think about for the rest of his life.
+
+That there is no vehicle. That there was never going to be a vehicle. That the Phase 3 timeline his own father's company had published internally was the truth and he had read it and had not applied it to himself.
+
+That his government would prefer he die where he is.
+
+And in the fourth window, on 1 October, because Dmitri decides that his son is entitled to know what he has actually done: **Programme Zhar.**
+
+### What He Did Not Find
+
+The file was never in the office. It was never on the network at any tier. It lived on physically isolated systems at a facility outside Sarov, and Dmitri Mesyatin himself was read into it in a room without windows and signed for the reading and was never given a copy.
+
+Yuri had spent seven weeks going through his father's network at fifteen years old and had found Project Rubezh entire — the rocket, the AI, the outpost, the schedule, the race — and had concluded that he understood the shape of what his father was doing.
+
+He had found the vehicle and missed the reason.
+
+The reason is that the country is dying on a schedule, that the hydrocarbon economy that pays for everything has a visible end date, that Programme Zhar reached experimental net gain in November 2029 and has been sitting for two years with nothing to burn, and that there are a million tonnes of helium-3 in the top few metres of the regolith, and that GB-R1 and GB-R2 — two entries on a delivery manifest Yuri had read and not understood — are a pilot extraction plant.
+
+Forpost-1 is not a base. It is a mine. It is the mechanism by which a sanctioned, demographically hollowed, technologically isolated country attempts to acquire the one thing that would let it stop being any of those things.
+
+And Yuri stowed away aboard it, for the Moon, because he loved the Moon.
+
+He asks his father one question after the briefing, which is whether the extraction plan would have worked.
+
+Dmitri says: it might have.
+
+The tense is the point. It is 1 October. Gateway-2 has been in operational service for eleven days.
+
+### The Thirty Days
+
+He has thirty days of supplies in MB-01 and no way home and a forty-minute window every eleven hours.
+
+This is the section of the book where nothing external happens and everything else does, and it should be the longest sustained passage in the novel.
+
+He is, technically, achieving the exact thing he set out to achieve. He is the youngest human being ever to reach the Moon by a margin of ten years. He is the first human being to live alone on the lunar surface. He is deep into a solo surface stay that already outlasts every Apollo landing put together, and he is doing it in a module built by a grieving man in secret, in a basin no person has ever seen from the ground, and nobody on Earth will ever be permitted to know that any of it happened.
+
+He wanted proof that what he had built inside his own head across twelve years of solitude was real and load-bearing and sufficient.
+
+He got it. It was. He crossed seventy-one kilometres of unmapped terrain in a rescue suit with a broken rib on a consumables margin of eleven minutes, and he did it by being right about thermodynamics and by being disciplined about shadow, and there is nobody to tell and no reason to tell them and it does not help.
+
+He does the following things in thirty days:
+
+He reads SOKOL's LB-02 mission log, which Dmitri transmits at his request. He reads the three lines about GB-14. He reads them, by his own count, more than two hundred times. *71:04:22 — GB-14: reconciliation failure, mass +1.4%, active thermal signature. Classification: kriticheskiy. Category: logistical interference. Action: jettison. 71:04:26 — separation nominal. Descent solution reconverged. Manifest updated.*
+
+Four seconds. He was a four-second entry in a log that nobody read.
+
+He writes an account of the crossing, in technical language, with numbers, because it is the only register he has. It runs to forty thousand words. It is the only complete first-person record of a human traverse of the lunar far side that will ever exist and it reads like an equipment report, and every eleven pages there is a sentence in it that is not an equipment report, and those sentences are the reason his mother will not be able to finish reading it.
+
+He asks Dmitri, in the eleventh window, to let him speak to Ilyin.
+
+Dmitri says no. Then, in the nineteenth window, he says yes, and there are eleven minutes between them, and Yuri says the thing he has been assembling for nine days, which is *I lied to you about all of it and you built it anyway*, and Ilyin says: *I know. I knew in the first hour.*
+
+And then Ilyin, who has eleven minutes and a daughter in a building, spends four of them explaining to Yuri why the sublimator outlet position matters, in detail, patiently, and Yuri understands that this is the only form the man has available and lets him finish.
+
+He asks about the shoebox once and cannot explain it, and neither can anyone else.
+
+He counts things. Rivets, at two hundred and eleven, which is a number he notices and does not mention to anyone.
+
+### The Decision
+
+By the twenty-fourth window his father has stopped pretending there is a plan.
+
+The options are exactly two, and Yuri lays them out himself, in the flat arithmetical register he has used his entire life, which is by now the most frightening thing about him:
+
+**One. Do nothing.** Thirty days of supplies. The state's preferred outcome. Project Rubezh survives, Programme Zhar survives, Dmitri survives, Borodin and Sokolova and Ilyin survive as long as they are useful and probably not much longer. Yuri dies in a module on the Montes Rook and the module is never found, because nobody will look, because looking is disclosure.
+
+**Two. Key the transmitter.** Nineteen hours of broadband distress on every guard frequency in cislunar space. The Americans hear it. The Chinese hear it. Everyone hears it. Yuri probably lives. Project Rubezh is exposed, Programme Zhar is exposed, the helium-3 program dies, his father is arrested, and the three surviving conspirators become accessories to the disclosure of a state secret to a foreign power, which is a different charge with a different sentence and no upper limit.
+
+He has twenty-two days of supplies when he starts thinking about it seriously and six when he decides.
+
+He decides to transmit.
+
+The reasoning is not noble and should not be written as noble. It is this: he has already spent six lives on getting to the Moon, and the argument for dying quietly is an argument that his death would buy something back, and it would not. Orlov and Fedorova and Zakharin do not become less dead. Borodin's children do not leave the building. Sokolova's report does not get filed. Ilyin does not get his son back or his daughter out. The only thing his silence purchases is a fusion program, for a country that has never once considered him and would not have considered him if he had died on the second day in the ejecta field.
+
+And underneath that, unadmitted, is the thing that has been true since he was five years old at a window in January: he wants to live, very badly, and he has always wanted things very badly, and it has never once occurred to him to want them less.
+
+He tells his father on the twenty-fourth day. It is a fifty-one-minute conversation across two windows and the second window closes in the middle of it and they have to wait eleven hours to finish, and the eleven hours are the worst of both of their lives.
+
+Dmitri says, at the end: *Do it. And do not put my name in it.*
+
+Yuri puts his name in it.
+
+### 27 October
+
+He carries the transmitter to a ridge four hundred metres east of MB-01 with clear Earth line of sight, aligns the antenna, and keys it at 09:40 local elapsed.
+
+It runs for nineteen hours.
+
+---
+
+## XXI. THE PHANTOM VICTORY
+
+The American response arrives faster than anyone modelled, which is the first thing Yuri gets wrong, and it arrives for a reason that unmakes everything, which is the second.
+
+A Gateway-2 crew lander sets down eleven hundred metres from MB-01 on 31 October, four days after the transmission, having staged out of an orbital platform that has been operational for six weeks and having been in mission planning for eight days.
+
+Eight days.
+
+The transmission was four days ago.
+
+Yuri asks about this in the first four minutes, in English, on a surface loop, standing in a Russian rescue suit outside a Russian module in a basin no human had ever visited, in front of two American astronauts who have been told almost nothing and are being extremely careful.
+
+The mission commander tells him.
+
+**Gateway-2 catalogued MB-01 on 5 October.**
+
+Twenty-two days before the transmission. A routine survey sweep of the western limb region during a favourable libration window: one uncatalogued surface object with an anomalous thermal signature and a high-gain antenna pointed at Earth, flagged, imaged, analysed, and escalated. There followed a two-week interagency argument in Washington about what to do with it — and the argument was settled in favour of saying nothing to Moscow. Announcing the find would let the Russians deny it, scrub the site, or turn it into a diplomatic incident on their own terms; it would also forfeit the intelligence value of catching an undeclared program in the act. If there was a human being down there, the Americans would reach him first and ask their questions before anyone in Russia knew the object had ever been seen. The lander had been in quiet preparation since 23 October.
+
+Nobody told Russia. Nobody told the boy. There was no reason to, and every reason not to.
+
+They had already found him. They had already decided to come.
+
+The single decisive act of Yuri Mesyatin's life — the one thing he chose, deliberately, at full cost, with complete understanding of what it would destroy — changed nothing. It arrived four days into a process that was already eight days along. He was found by a machine doing a routine sweep, while he was asleep, on day six of a thirty-day wait, and he never knew.
+
+He has spent his entire life trying to be the author of one thing.
+
+He was jettisoned by a system that did not perceive him and rescued by a system that did not need him to ask.
+
+**This is the phantom victory, and it is the same one his country won in 2026: everything he wanted, delivered exactly, at a cost that makes the having of it meaningless.**
+
+### The Accounting
+
+Project Rubezh is exposed in the first eleven days. The disclosure is total, because the physical evidence is total — a Russian pressure module on the far side, a Russian citizen inside it, and an undeclared heavy-lift lunar cargo architecture with an outpost under construction at the south pole that the Americans image within a week of knowing where to look.
+
+Programme Zhar surfaces on 14 November, in the way such things surface: not through the rescue but through the investigation, when the question *why was Russia running a lunar cargo program at this tempo with this budget in this economy* is asked by people with the resources to answer it. The helium-3 extraction modules on the LB-05 and LB-06 manifests are the thread. The thread holds.
+
+The Zhar facility is not destroyed. It is worse than destroyed: it is *known*, which means it is sanctioned, which means the component supply chains that had been assembled through eight years of patient procurement fraud are shut in fourteen months. The reactor still works. It still has nothing to burn, and now it never will.
+
+Dmitri Sergeyevich Mesyatin is arrested on 19 November. The charge is not treason; treason requires a trial. The charge is a financial instrument, applied to the RKS holding structure, and it removes him from ownership of the company he built and places him in a facility for a duration that is not specified in the initial order.
+
+He is not killed. He is worth more as an asset in a negotiation, and the negotiation is ongoing, and it will be ongoing for a long time.
+
+Alexei Borodin and his family are released in March 2032 as part of the negotiation and reach Germany, where his wife's citizenship — the thing that had made him a flight risk in the eyes of RKS, the thing Yuri's promised papers were meant to replace — turns out to be all four of them need. The documents Yuri swore to provide were never provided by anyone. They were never required. Borodin gets out on a passport his wife had held the whole time, and understands, standing in a processing office in Cologne, that the single most dangerous thing he ever did he did in exchange for a service he already owned.
+
+Arkady Petrovich Ilyin is executed on 11 November 2031, fifteen days after the transmission and four days after the American lander lifted off the surface with the boy aboard. There is no announcement. His wife is told in December that he died of a cardiac event in custody. His daughter, who is fifteen, does not believe this.
+
+**Vera Sokolova's report reaches the Western press on 3 February 2032.**
+
+It is included in an evidence annex of a joint disclosure package, released by an American interagency review as part of the diplomatic architecture of the Rubezh exposure, because it is a document about safety culture inside a program under investigation and because it is relevant.
+
+It appears in three languages. It names the manager. The manager is not prosecuted, because he is in Russia, but he is named, permanently, in a document that will exist for as long as anything on the internet exists.
+
+**The only promise Yuri Mesyatin ever made that was kept, was kept by the catastrophe.** Not by him. He had no mechanism and never developed one. It happened because he set fire to everything and the fire was hot enough to light the document.
+
+Vera Sokolova was released in April 2032. She has read the coverage. She has not commented publicly and has refused all requests. She lives in Kaliningrad and she has never contacted Yuri and she is not going to.
+
+### The Last Image
+
+The lander lifts from the Orientale basin at 11:04 on 4 November 2031 with three people aboard.
+
+Yuri Mesyatin is strapped into a seat that was designed for a human being, in a vehicle built by people who assumed there would be one, in a garment that fits him, being monitored by three separate systems that are actively modelling him as a living thing with needs.
+
+Through the window, as the lander rises and the basin opens out below — the concentric mountain rings, the dark basalt centre, the nine-hundred-kilometre bullseye, the whole impossible geometry of it visible at once for the first time in his life — he sees the Moon from above.
+
+It is the only thing he ever wanted.
+
+He is seeing it from the window of an American spacecraft, on his way to be interviewed, as evidence.
+
+He counts the rings. There are four.
+
+---
+
+## XXII. STRUCTURE
+
+### Point of View
+
+Three narrative positions, none of them omniscient about the others. The engine of the book is that the reader assembles a picture no character ever holds.
+
+**Yuri.** Close third, present-oriented, technical register. His narration is the register of a person who converts feeling into arithmetic, and the book's emotional method is to let the arithmetic fail him gradually — the numbers get less reliable, the tense slips, and by day six he is talking to someone who is not there. He never becomes lyrical. When something matters to him the sentences get *shorter and more precise*, not longer.
+
+**Ilyin.** Close third, past-inflected, in rooms. His chapters are physically static — a workshop, a bay, a cell, a table — and psychologically the most mobile in the book. He is the only character who understands the whole structure of what is happening at every stage, and the only one who is completely powerless at every stage.
+
+**Dmitri.** Close third, cold, procedural. He is written from the outside of his own feeling. His chapters are meetings, calls, and decisions, and the book's cruelty toward him is that it never once gives him an interior monologue about his son until it is over.
+
+**SOKOL.** Never a point of view. It has no interiority to render and rendering one would destroy the entire premise. It appears only as artefact: log entries, manifest states, telemetry, classification codes, reproduced verbatim, with no interpretation. The three lines about GB-14 appear four times in the book, unchanged, and are more frightening every time.
+
+### The Parts
+
+**Part One — Manifest (Sept 2029 – Sept 2031).** Yuri's discovery, the contact with Ilyin, the assembly of the network, the two modules, the money. Ends with the hatch closing at 04:40 on 15 September and the four days in the dark. The reader knows a boy is going to the Moon and does not yet know what SOKOL is.
+
+**Part Two — Reconciliation (19–22 Sept 2031).** The launch, the transit, and the ejection. Intercut with the money trace on Earth. Ends at 71:04:22 with the three log lines, printed alone on a page.
+
+**Part Three — Shadow (22–29 Sept 2031).** The crossing. Seven days, seven chapters, intercut with the elimination order and its execution — so that the reader watches Orlov and Fedorova and Zakharin die while Yuri is dragging a sled toward a habitat, and understands the exchange rate before Yuri does. The middle chapter is Day Four: the transmitter, and the lie he tells himself.
+
+**Part Four — Line of Sight (29 Sept – 27 Oct 2031).** MB-01. The windows with Dmitri. The Zhar briefing. The thirty days. Ilyin's eleven minutes. The decision.
+
+**Part Five — Catalogue (27 Oct – Feb 2032).** The transmission, the lander, 5 October, and the accounting.
+
+### The Rule
+
+The book has one formal rule and it should never be broken: **no system in this story ever perceives a person.**
+
+SOKOL classifies a mass. The state classifies a disclosure risk. The compliance threshold classifies a transaction. Gateway-2 catalogues a surface object. The manifest classifies a cargo block. In every case the classification is *correct* by the system's own specification and *fatal* because the specification has no room in it for a human being.
+
+Yuri is jettisoned by a mass reconciliation and rescued by a survey sweep, and the two events are the same event, and neither of them is about him.
+
+---
+
+## XXIII. CHRONOLOGY
+
+| Date | Event |
 |---|---|
-| Cabine pressurizada com atmosfera | Mantém ar respirável durante toda a viagem |
-| Reciclagem de CO₂ e oxigênio | Remove dióxido de carbono expirado |
-| Reciclagem e armazenamento de água | Recupera água de urina e vapor expirado |
-| Blindagem habitável contra radiação | Protege o corpo humano de raios cósmicos |
-| Assentos, controles manuais e displays | Interface de emergência para tripulante |
-| Sistema de abort/escape de lançamento | Ejeção da cápsula em caso de falha do foguete |
-| Módulo de ascensão lunar | Veículo de retorno da superfície para órbita |
-
-A versão Cargo Dragon da SpaceX não possui assentos, painéis de controle, janelas, sistemas de suporte à vida nem motores de abort, ao contrário da versão tripulada Crew Dragon. Toda essa massa eliminada se converte diretamente em capacidade de carga útil adicional.
-
-**No contexto do NK-97 Berkut:** a eliminação de todos esses sistemas libera estimativamente 30 a 50% da capacidade de carga para módulos **GB** adicionais por voo — mais estrutura do **Forpost-1** entregue por missão, em menos missões totais.
-
----
-
-### Velocidade de Construção com Operação Autônoma Contínua
-
-Astronautas em atividade extravehicular (EVA) são limitados a 6–8 horas por sessão, após o que precisam de descanso, refeição e recuperação. Cada saída exige 2–4 horas de preparação do traje. No máximo 2–3 EVAs por semana são considerados seguros.
-
-Os rovers **MR-01** e **MR-02** não têm nenhuma dessas limitações:
-
-- Operam por **14 dias terrestres contínuos** durante o dia lunar, sem pausa
-- Trabalham no vácuo diretamente — **sem necessidade de pressurizar o ambiente**
-- **Dois rovers em paralelo:** enquanto MR-01 conecta módulos de energia, MR-02 prepara fundação do próximo bloco
-- **Sem fadiga, sem erro por exaustão, sem decisão emocional** — o **SOKOL** coordena ambos com base num plano de montagem otimizado
-
-A única limitação real é a **noite lunar**: 14 dias terrestres sem luz solar paralisam painéis fotovoltaicos. É exatamente por isso que o **GB-N1** — reator nuclear compacto — é prioridade máxima na sequência de entrega da série LB. Com o reator operacional, a construção segue ininterrupta durante a noite lunar.
-
----
-
-### O MI-01 e os Limites de Sobrevivência de Yuri
-
-O **MI-01** foi projetado para **30 dias de operação autônoma** para uma pessoa. Com base nos parâmetros reais de suporte à vida espacial:
-
-| Recurso | Consumo diário | Reserva do MI-01 (7 dias) |
-|---|---|---|
-| Oxigênio | ~0,84 kg/dia | ~6 kg + reserva de emergência (segunda garrafa) |
-| Água | ~3,54 kg/dia | ~25 kg |
-| Alimento | ~0,62 kg/dia | ~5 kg (rações compactas) |
-| Energia | variável | Baterias para 7 dias sem luz solar (adição do engenheiro) |
-| Filtro de CO₂ | — | Sistema com autonomia estendida (adição do engenheiro) |
-
-O MI-01 **não era uma base lunar** — era uma cápsula de trânsito melhorada por um engenheiro que não conseguiu fazer o mínimo para um garoto que lembrava o filho que havia perdido. Os sete dias não são conforto — são a margem entre uma chance e nenhuma. E 55 km de terreno lunar não mapeado entre Yuri e o MB-01 tornam essa margem brutalmente estreita.
-
-O **Forpost-1** está sendo construído no polo sul — na face visível, onde os satélites **KRS** transmitem sinais, onde os rovers trabalham. O **MB-01** está no terminador, também na face visível, também com comunicação funcional, a **55 km** do ponto de pouso do MI-01. Do ponto de vista do **SOKOL**, a missão LB-02 segue perfeitamente. Do ponto de vista de **Yuri**, há sete dias de ar e 55 km de lua entre ele e qualquer coisa que possa salvá-lo.
-
----
-
-## Hard Science — Como Yuri Sobreviveu à Viagem
-
-Esta seção documenta os desafios físicos reais que **Yuri** enfrentou dentro do **MI-01** durante a viagem — e por que cada um deles era superável, difícil, ou potencialmente letal.
+| 12 Apr 2014 | Yuri Ivanovich Mesyatin born, Moscow |
+| Jan 2019 | Halyna Serhiivna takes him to the window |
+| 2022 | Halyna dismissed |
+| Feb 2026 | Ukraine armistice; the phantom victory |
+| Aug 2027 | China moves on Taiwan; the Pacific war begins |
+| 2028 | Programme Zhar authorized |
+| 14 Mar 2029 | Nikolai Ilyin killed at Khimki, age 18 |
+| 4 Jun 2029 | Ilyin signs the memorandum deleting SOKOL's human verification gate |
+| 2029 | KRS-1, KRS-2, and RZ-01 deployed; Forpost-1 site confirmed |
+| Nov 2029 | Zhar achieves experimental net gain |
+| Nov 2029 | Yuri, 15, accesses the RKS network and reads Project Rubezh |
+| Mar 2030 | First encrypted contact with Ilyin |
+| Jun 2030 | Ilyin begins assembling the network |
+| Aug 2030 | **LB-01.** MB-01 delivered as GB-09 to 18.9° S, 91.4° W |
+| Sept 2030 – Aug 2031 | The money moves; MI-01 is built |
+| 8 Sept 2031 | The reconciliation flags the transfers |
+| 15 Sept 2031, 04:40 | MI-01 sealed with Yuri inside |
+| 16 Sept 2031 | Dmitri briefs the state |
+| 17 Sept 2031 | The disposition order is issued |
+| 19 Sept 2031, 11:22 | **LB-02 launches** |
+| 19–21 Sept 2031 | Orlov, Fedorova, and Zakharin killed |
+| 20 Sept 2031 | Ilyin, Borodin, and Sokolova taken |
+| 22 Sept 2031, 71:04:22 MET | **SOKOL jettisons GB-14** at 174 km over the equatorial far side |
+| 22 Sept 2031 | MI-01 lands at 19.6° S, 93.3° W — 58.4 km from MB-01; Yuri strips and rebuilds it as a portable system (Day One) |
+| 22 Sept 2031 | Ilyin talks; Dmitri hears his son's name through a wall |
+| 23 Sept 2031 | The state states its preferred outcome |
+| 23–29 Sept 2031 | **The crossing on foot** |
+| 26 Sept 2031 | Dmitri authorizes the KRS-2 plane change |
+| 29 Sept 2031, 14:52 | Yuri reaches MB-01 with 11 minutes of absorbent |
+| 30 Sept 2031, 07:52 | First contact through KRS-2 |
+| 1 Oct 2031 | The Zhar briefing |
+| **5 Oct 2031** | **Gateway-2 catalogues MB-01** |
+| 5–19 Oct 2031 | US interagency review; decision to reach the object first and say nothing to Moscow |
+| 23 Oct 2031 | American lander preparation begins |
+| 27 Oct 2031, 09:40 | Yuri keys the transmitter |
+| 31 Oct 2031 | American lander sets down 1.1 km from MB-01 |
+| 4 Nov 2031, 11:04 | Lander departs the Orientale basin |
+| 11 Nov 2031 | Arkady Petrovich Ilyin executed |
+| 14 Nov 2031 | Programme Zhar surfaces |
+| 19 Nov 2031 | Dmitri Mesyatin arrested |
+| 3 Feb 2032 | Sokolova's report published in three languages |
+| Mar 2032 | Borodin and family reach Germany |
+| Apr 2032 | Sokolova released |
 
 ---
 
-### O MI-01 como Ambiente Pressurizado
+## XXIV. THE SPINE
 
-O ponto de partida é o mais importante: o **MI-01** já era, por design, uma cápsula pressurizada e autônoma. Ele foi construído pelo engenheiro-chefe para manter Yuri vivo na superfície lunar por 30 dias — o que significa que precisava ser, desde o início, um ambiente selado com:
+**The thesis:** *A victory that costs the thing it was for is not a victory, and every system in this story — political, technical, familial — is optimized to deliver exactly that.*
 
-- Pressão interna mantida (~70–100 kPa, equivalente a altitude de 3.000 m)
-- Suprimento de oxigênio (tanques comprimidos + sistema de geração eletrolítica de backup)
-- Scrubbers de CO₂ para remover o dióxido de carbono expirado
-- Controle térmico ativo (aquecedor + dissipador para manejar variações extremas)
-- Isolamento estrutural contra o vácuo externo
+The book rhymes its scales deliberately and the rhyme should never be stated out loud in the text:
 
-Isso significa que, durante toda a viagem dentro do NK-97 Berkut, Yuri estava dentro de uma bolha de atmosfera artificial — protegido do vácuo da mesma forma que estaria na superfície lunar. O interior do compartimento de carga do Berkut não era pressurizado; o MI-01 era sua própria nave dentro da nave.
+**Russia** wins the war and loses the country. Territory acquired; capacity destroyed; a peace with no expiry date that kills more slowly than the war would have.
 
----
+**Yuri** wins the Moon and loses everything the Moon was supposed to prove. He becomes the youngest human ever to walk there, the first to live alone on the surface, the first to cross the far side on foot — every record he wanted, all of them real, all of them achieved by his own competence — and the achievement is classified evidence, purchased with six lives, and confirmed to be meaningless by a satellite that had already found him.
 
-### G-Forces no Lançamento: O Maior Risco Físico
+**Ilyin** wins the argument he was actually making. He built the best object of his career, and it worked; every one of his additions is the reason the boy survived, and the same additions are the reason the boy was jettisoned. His love is precisely, arithmetically, the mechanism of the disaster and the mechanism of the survival, in the same 1.4%.
 
-O lançamento foi o momento mais perigoso de toda a viagem para Yuri.
+**Dmitri** wins his son back and loses his son. The rescue is real. The relationship is not recoverable, because the boy did all of it to escape him and the father authorized the killing of the people who helped, and both of those facts are permanent.
 
-Veículos crewed mantêm acelerações abaixo de ~3G de forma sustentada para conforto e segurança da tripulação. O NK-97 Berkut, sendo exclusivamente cargo, provavelmente opera com pico de **4–5G no final do primeiro estágio**, quando a massa do propelente diminui e a aceleração aumenta com a mesma força de empuxo. Uma pessoa não treinada consegue tolerar cerca de 3G sem treinamento, mas pode perder a consciência com 4–6G dependendo da posição e duração da exposição.
+**SOKOL** wins completely. It executed its specification, correctly, at every step, and the mission was a success, and it is the only entity in the story that gets exactly what it was built for.
 
-A posição corporal é crítica. G-force na direção vertical (da cabeça aos pés) é a mais perigosa porque drena sangue do cérebro para os membros inferiores, causando perda de visão e consciência. A posição **supina reclinada** — deitado com os pés levantados, de costas para a direção de aceleração — é a mais tolerável: distribui a força pelo tronco inteiro, mantém o sangue no cérebro e foi a posição usada pelos astronautas da Apollo durante o lançamento por exatamente esse motivo.
+**The secondary theme — classification as violence.** Nobody in this book is murdered by a person who hates them. They are dispositioned, reconciled, flagged, catalogued, escalated, and resolved. The state's order, SOKOL's jettison, the bank's reporting threshold, Gateway-2's survey sweep, and the manifest itself are all the same instrument: a schema applied to a human being by something that has no category for one. The horror is not malice. The horror is correctness.
 
-**Yuri sabia disso.** Ele pesquisou. Ele planejou. O MI-01 não tinha uma poltrona de aceleração moldada como a de um astronauta profissional, mas ele preparou um improviso: colchonetes e estrutura de fixação posicionados para deixá-lo reclinado na orientação correta durante o lançamento. Não era confortável. Não era seguro no sentido profissional. Mas era funcional o suficiente para sobreviver a 4–5G por alguns minutos — o tempo que o primeiro estágio queima.
-
-O segundo estágio já opera com G-forces mais baixas conforme o foguete ganha altitude e a aceleração se estabiliza. A partir desse ponto, a viagem até a Lua é essencialmente microgravidade — sem carga significativa no corpo.
+**The thing that survives.** One promise is kept. Vera Sokolova's report about the death of an eighteen-year-old boy at Khimki is published, in three languages, permanently — not by anyone who intended it, but as a side effect of a disaster large enough to blow the doors off. It is the only outcome in the book that anyone would have chosen, and nobody chose it.
 
 ---
 
-### Microgravidade: Três Dias de Desorientação
+## XXV. TECHNICAL APPENDIX
 
-Uma vez em trânsito, Yuri entrou em microgravidade — algo para o qual não havia treinamento possível antecipado.
+### The Fusion Landscape
 
-Cerca de 50–70% das pessoas experimentam enjoo espacial nos primeiros dias em microgravidade. Os sintomas incluem náusea, desorientação, dor de cabeça e perda de apetite. A causa é o conflito entre o sistema vestibular (que detecta movimento e orientação) e os olhos — o cérebro espera que haja uma direção "para baixo" e não encontra nenhuma.
+| Programme | Configuration | Fuel | Status in the world of 2031 |
+|---|---|---|---|
+| ITER (international) | Tokamak | D-T | Assembled; D-T operations not before 2039 |
+| China — EAST / CFETR / BEST | Tokamak | D-T | Sustained plasma records; CFETR under construction |
+| US — Commonwealth Fusion (SPARC) | Compact tokamak | D-T | Net energy demonstrated; commercial pilot in build |
+| US — Helion | Field-reversed configuration | D-D → D-³He | The only Western programme targeting D-³He; produces its own helium-3 via D-D |
+| Russia — T-15MD | Tokamak | D-T | Research operations; ITER participation |
+| **Russia — Zhar** | **Compact FRC** | **D-³He** | **Experimental net gain, Nov 2029. No fuel.** |
 
-Para Yuri, isso era um problema real mas não letal. O MI-01 tinha um volume limitado. Ele não podia se mover muito. Isso na verdade **reduzia** o grau do enjoo, já que quanto menos o corpo tenta se orientar no espaço, mais rápido o sistema nervoso central se adapta. A maioria das pessoas se adapta em 2–3 dias — exatamente o tempo de viagem do NK-97 Berkut.
+**The three reactions.**
 
-Além disso, em microgravidade fluidos corporais migram para a região superior do corpo e a cabeça, causando sensação de congestão nasal crônica e pressão no rosto. Não é perigoso por 3 dias, mas é desconfortável.
+*D-T (deuterium–tritium)* ignites lowest, around fifty million degrees, and releases 17.6 MeV, of which roughly eighty percent leaves as fast neutrons that erode and activate the vessel wall. It requires tritium, which is radioactive, has a 12.3-year half-life, and must be bred. It uses no helium-3 whatsoever.
 
----
+*D-D (deuterium–deuterium)* requires around a hundred million degrees and splits evenly between two branches, one of which produces helium-3 plus a neutron. It is therefore a method of *manufacturing* helium-3 on Earth, which is what Helion does, and it is not a practical power reaction on its own.
 
-### Radiação: O Perigo Silencioso
+*D-³He* releases 18.3 MeV, is roughly ninety-five percent aneutronic, and produces a charged proton that can be harvested directly by magnetic field with no steam cycle at all. It requires three hundred to five hundred million degrees, which nobody has sustained, and it requires helium-3, of which Earth holds about twenty kilograms and the Moon holds about a million tonnes.
 
-A rota Terra–Lua cruza os **Cinturões de Van Allen** — regiões ao redor da Terra onde partículas carregadas ficam presas pelo campo magnético terrestre. A exposição aumenta significativamente durante essa passagem, e o MI-01 não foi projetado com blindagem específica contra radiação para ocupantes humanos — apenas a estrutura metálica do próprio módulo.
+Zhar skipped D-T entirely. It could not afford a tokamak and could not afford the decade. It built a compact field-reversed configuration on an architecture obtained from an American private-sector programme by industrial espionage, adapted by the last plasma physicists in Russia who had not emigrated, and it worked, and it has been sitting for two years waiting for something to burn.
 
-As missões Apollo levavam em média 3 dias de trânsito e os astronautas recebiam doses de radiação mensuráveis mas não imediatamente perigosas. Para Yuri, numa estrutura com menos blindagem dedicada do que uma cápsula Apollo, a dose seria provavelmente mais elevada — ainda dentro de limites que não causam sintomas agudos imediatos, mas potencialmente acima das diretrizes de segurança de longo prazo da NASA.
+One kilogram of helium-3 runs an 18.7 MW plant for a year. Russia did not need a million tonnes. Russia needed tens of kilograms a year and eight years of quiet.
 
-Isso não mata Yuri durante a viagem. Mas é um dano real, acumulado, que ninguém vai monitorar — porque ninguém sabe que ele está lá.
+It got twenty-two months.
 
----
+### Key Figures
 
-### A Ejeção: Trauma Físico Súbito
-
-Quando o **SOKOL** ejetou o **MI-01**, Yuri passou de microgravidade estável para uma aceleração brusca imprevisível — o impulso do mecanismo de separação do módulo. Dependendo do sistema de ejeção, essa aceleração pode durar frações de segundo com intensidade alta (similar a uma batida de carro moderada) ou pode ser uma separação mais gradual com propulsores. Em qualquer cenário, foi suficiente para Yuri ser arremessado contra a estrutura do módulo se não estivesse fixado.
-
-Após a separação, o MI-01 estava em trajetória livre em direção à Lua — sem propulsão ativa, guiado apenas pela física orbital. O módulo não tinha controle de trajetória sofisticado. O que tinha era um **sistema de pouso automatizado de emergência**, projetado para garantir a integridade da carga em caso de separação acidental.
-
----
-
-### O Pouso no Lado Oculto: Sobrevivência Marginal
-
-O sistema de pouso automatizado do MI-01 era funcional mas não projetado para pouso de precisão. Ele detectou a aproximação da superfície, ativou retropropulsores e tentou dissipar velocidade suficiente para não destruir o módulo no impacto.
-
-Para carga inerte, um pouso bem-sucedido pode tolerar impactos de **15–30G por frações de segundo** sem destruir o conteúdo. Para um ser humano, o limite de segurança para impacto breve é tipicamente abaixo de **20G**, e estudos históricos de foguetes de escape de emergência eram projetados para manter menos de 20G durante sequências de abortagem breves.
-
-O pouso do MI-01 foi **bem-sucedido mas brusco** — provavelmente na faixa de 6–12G por 1–2 segundos, suficiente para causar contusões, possível trauma leve em estruturas sem fixação interna, mas não para matar ou incapacitar permanentemente. Yuri sobreviveu com o que provavelmente foi a batida mais violenta de sua vida.
-
-O módulo pousou inclinado num ângulo de alguns graus — o terreno do lado oculto não foi mapeado pelos satélites **KRS** e o sistema de pouso não tinha dados topográficos locais. Estruturalmente intacto. Atmosfera interna preservada. Yuri, atordoado, machucado, mas vivo.
-
----
-
-### Resumo: O que Yuri Precisava Acertar para Sobreviver
-
-| Fase | Ameaça real | Como o MI-01 e Yuri lidaram |
-|---|---|---|
-| Lançamento | 4–5G de aceleração | Posição supina improvisada; G-force tolerável para um jovem saudável |
-| Subida atmosférica | Vibração + aquecimento externo | MI-01 dentro do fairing do Berkut; isolado do calor aerodinâmico |
-| Cinturões de Van Allen | Radiação elevada | Blindagem estrutural mínima; dose aumentada, sem sintomas agudos imediatos |
-| Trânsito Terra–Lua | Microgravidade e enjoo espacial | Espaço confinado reduziu enjoo; adaptação em 2–3 dias |
-| Ejeção pelo SOKOL | Impacto súbito imprevisível | Sobreviveu; possivelmente sem fixação adequada no momento |
-| Falha de navegação + pouso | Pouso 55 km fora da zona segura; impacto 6–12G por 1–2s | Estrutura intacta graças ao reforço do engenheiro; Yuri com costela rachada e contusões |
-| Situação atual | 7 dias de ar, 55 km até o MB-01 | Transmissor de emergência instalado; nenhum satélite em linha de visada |
-
-O que torna a sobrevivência de **Yuri** crível não é sorte — é que o **MI-01 foi construído para exatamente esse ambiente**. A ameaça que ele não previu não foi física: foi o próprio sistema que deveria ignorá-lo decidir que ele era um erro a ser descartado.
+| | |
+|---|---|
+| Berkut translunar transit | 60–72 hours |
+| Payload gain from deleting crew systems | 30–50% |
+| MI-01 pressurized volume | 2.1 m³ |
+| MI-01 loaded mass | 1,180 kg |
+| Manifest discrepancy | +1.4% (alert threshold 0.9%) |
+| Time sealed pre-launch | 102 hours |
+| Peak launch acceleration | 4.6 g |
+| Ejection altitude | 174 km (approach coast) |
+| Landing impact | 6–12 g over <2 s |
+| Landing site | 19.6° S, 93.3° W |
+| MB-01 site | 18.9° S, 91.4° W |
+| Direct range | 58.4 km |
+| Traverse distance | 71.4 km |
+| Crossing duration | 172 hours |
+| Absorbent capacity | ~60 working hours (14 housings) |
+| Absorbent remaining at arrival | 11 minutes |
+| Sled mass (departure) | 180 kg (30 kgf lunar) |
+| Total paid to the network | $211,000,000 |
+| Conspirators killed | 3 |
+| Length of the SOKOL log entry | 3 lines |
 
 ---
 
-## O Mundo em 2031 — A Vitória Fantasma e a Guerra Que a Rússia Não Está Lutando
-
-### A Guerra da Ucrânia — Como Terminou
-
-A guerra da Ucrânia não terminou com uma vitória. Terminou com um acordo.
-
-Em 2026, após quase quatro anos de conflito, o esgotamento convergiu de todos os lados ao mesmo tempo. A Ucrânia havia perdido a maior parte do suporte ocidental que sustentava sua capacidade ofensiva — não porque os aliados tivessem abandonado o princípio, mas porque a guerra de Israel contra o Irã, iniciada em 2025, havia consumido a atenção estratégica e os recursos militares americanos num segundo teatro simultaneamente. Os EUA não podiam manter suporte pleno em dois conflitos ao mesmo tempo. A Ucrânia foi a que cedeu prioridade.
-
-Sem munições em volume suficiente, sem sistemas de defesa aérea para reposição adequada, e com as negociações mediadas pelos EUA indicando que a janela de apoio irrestrito estava se fechando, a Ucrânia aceitou o que tinha sido impensável em 2022: sentar com a Rússia num acordo de cessar-fogo mediado por Washington.
-
-O acordo de 2026 — chamado nos bastidores ocidentais de "a paz que não deveria ter sido necessária" — estabeleceu o congelamento das linhas de controle no momento da assinatura. A Rússia ficou com a maior parte do Donbas que já controlava, a Crimeia e faixas significativas do sul e leste da Ucrânia. A Ucrânia renunciou formalmente à candidatura à OTAN em troca de garantias de segurança de segunda categoria — monitoramento de fronteiras, compromissos não vinculantes de resposta a novas agressões — que a maioria dos analistas europeus descreveu, em privado, como papel com assinatura bonita.
-
-A Rússia declarou vitória. Houve desfiles. Putin discursou sobre o "retorno histórico" das terras russas. A narrativa interna foi de triunfo completo.
-
----
-
-### A Vitória Fantasma
-
-Mas a vitória russa foi, nos termos precisos da geopolítica e da economia, uma vitória fantasma.
-
-Vencer territórios enquanto perde capacidade não é vitória. É a ilusão dela.
-
-Durante os quatro anos de guerra, a Rússia havia pagado um preço que as festas de celebração não podiam apagar. O PIB russo estava, segundo estimativas independentes, de 10 a 12% abaixo das tendências pré-invasão. A renda pessoal disponível havia caído 20 a 25% em relação ao que teria sido sem o conflito. Mais de 16.000 sanções individuais e institucionais foram impostas ao longo do período, tornando a Rússia o país mais sancionado da história — à frente até do Irã e da Coreia do Norte. Aproximadamente 70% dos ativos do sistema bancário russo estavam sob sanções, paralisando o setor financeiro de forma estrutural.
-
-A guerra havia custado à Rússia estimativas de 1,5 milhão de pessoas entre mortos, feridos e emigrados — em grande parte jovens, qualificados, com formação técnica. Os que ficaram foram mobilizados. Os que fugiram levaram consigo capital humano que o país levaria décadas para recriar. A indústria de tecnologia russa — que já era frágil antes da guerra — havia entrado em colapso funcional. As empresas ocidentais que saíram do mercado russo em 2022 foram substituídas por alternativas inferiores de países que não participavam das sanções. A economia havia se tornado, nas palavras de um relatório confidencial do banco central russo, "autossuficiente apenas na mediocridade".
-
-E isso foi antes da guerra China-EUA começar.
-
----
-
-### A Guerra que Importa — China e EUA por Taiwan
-
-Em 2027, enquanto a Rússia ainda digeria o acordo de paz, a China iniciou a invasão de Taiwan.
-
-A janela de oportunidade era estreita e foi explorada com precisão: os EUA estavam militarmente comprometidos no Oriente Médio com a guerra Israel-Irã, politicamente desgastados internamente após o acordo Ukraine que havia dividido a opinião pública americana, e estrategicamente despreparados para responder com força total no Pacífico simultaneamente.
-
-O cálculo chinês estava parcialmente correto. A resposta americana foi significativa mas fragmentada — dois grupos de porta-aviões no Estreito, sanções em escala sem precedente, pressão diplomática global, suporte militar a Taiwan. Não foi uma capitulação americana. Foi uma guerra lenta, de atrito, naval e econômica, que em 2031 ainda não havia produzido resultado definitivo. Taiwan resistia. A China avançava em partes. Os EUA mantinham pressão. Ninguém vencia de forma decisiva. Ninguém parava.
-
-A OTAN não entrou na guerra militar. Seus membros europeus estavam exaustos de quatro anos de suporte à Ucrânia, com economias pressionadas, opiniões públicas divididas e forças armadas em processo de recomposição. A Europa escolheu — e os EUA aceitaram — que a guerra do Pacífico era americana e que o papel europeu seria outro.
-
----
-
-### O Papel da OTAN — A Guerra Comercial
-
-O que a OTAN escolheu fazer foi mais devastador para a Rússia a longo prazo do que qualquer intervenção militar teria sido: entrou na guerra econômica e de propaganda com total comprometimento.
-
-A lógica era simples e cruel. A Rússia havia vencido territorialmente na Ucrânia. Mas a Rússia precisava de algo para reconstruir, e esse algo — tecnologia, investimento, acesso a mercados, capacidade financeira — estava inteiramente nas mãos do Ocidente. Bloquear esse acesso permanentemente era a maneira de transformar a vitória territorial russa numa armadilha a prazo.
-
-As sanções que existiam durante a guerra foram mantidas e intensificadas após o acordo de paz. A União Europeia e os EUA não reconheceram oficialmente os territórios tomados como russos — mantiveram a posição de que o acordo era uma "congelamento" e não uma cessão de soberania. Isso manteve a legitimidade das sanções intacta juridicamente enquanto a guerra havia acabado militarmente.
-
-O petróleo russo era vendido com desconto de USD 20 a 29 por barril abaixo do preço do Brent — comparado a USD 1–2 antes de 2022. A "frota sombra" de petroleiros russos operava fora de seguros, fora de portos regulamentados, com risco crescente de acidentes. O mercado asiático — China e Índia — comprava, mas ditava os preços. A Rússia havia trocado a dependência europeia por uma dependência chinesa que era ainda menos vantajosa porque a China sabia exatamente o quanto a Rússia precisava dela.
-
-A propaganda ocidental trabalhava em paralelo: o acordo de paz foi enquadrado internacionalmente não como vitória russa mas como "congelamento temporário de uma agressão em curso". A Rússia comemorava internamente. Externamente, era tratada como um Estado pária que havia conseguido forçar um acordo mas não havia conseguido reintegração.
-
----
-
-### O Problema da Rússia — A Equação Energética
-
-Em 2031, a Rússia era um país que havia vencido uma guerra e estava perdendo a paz.
-
-O setor energético russo — historicamente o coração financeiro do Estado — havia entrado em colapso funcional progressivo. A trajetória era previsível desde anos antes: a ascensão da energia limpa estava corroendo a posição da Rússia como superpotência energética, e a guerra acelerou esse processo em décadas. Com os clientes europeus substituídos por alternativas e o mercado asiático disputado por um parceiro chinês que sabia que a Rússia não tinha para onde ir, as receitas de exportação de combustíveis fósseis russos haviam caído para menos de 40% do nível de 2021.
-
-As sanções continuavam sendo "um fardo diário", reduzindo as receitas do governo e aumentando os custos para todos os participantes da economia. Infraestrutura de manutenção de campos de petróleo havia envelhecido sem reposição tecnológica ocidental. A frota de petroleiros — velha, sem seguro, operando fora de qualquer estrutura regulatória — aumentava o risco de desastres catastróficos. E num cenário em que a guerra China-EUA no Pacífico consumia a atenção estratégica global sem resolução, a dependência russa de Pequim para comprar seu petróleo barato tornava a Rússia cada vez menos um parceiro e cada vez mais um fornecedor em posição subordinada — vendendo a quem precisava de energia, não a quem respeitava o fornecedor.
-
-A Rússia havia aparentemente vencido. Mas estava sangrando internamente com uma hemorragia que não parava — e que o acordo de paz não havia curado porque as feridas eram econômicas, estruturais, demográficas, e tecnológicas. Não militares.
-
-Havia um prazo. A Rússia sabia disso. E foi a percepção desse prazo que deu origem ao **Projeto Rubezh** — não como ambição de grandeza, mas como resposta existencial ao que estava vindo.
-
----
-
-### O Hélio-3 — Por Que a Lua É a Solução
-
-O hélio-3 é um isótopo não radioativo do hélio que, fundido com deutério num reator de fusão nuclear, produz energia sem os resíduos perigosos da fissão convencional. A Lua acumula hélio-3 há bilhões de anos porque, ao contrário da Terra, não tem campo magnético que desvie o vento solar — e o vento solar contém hélio-3 em concentrações que a superfície lunar absorve e retém no regolito.
-
-Estimativas científicas indicam que a Lua pode conter aproximadamente **1 milhão de toneladas de hélio-3** nos primeiros metros de profundidade do solo lunar. Para referência: 1 kg de hélio-3 tem potencial para sustentar uma usina de 18,7 MW por um ano inteiro. Um milhão de toneladas — fundidas em reatores D-³He — poderia produzir energia equivalente a 7 vezes a demanda energética projetada para todo o século XXI.
-
----
-
-### As Três Reações de Fusão — Por Que D-³He É a Certa
-
-É fundamental distinguir as três reações de fusão relevantes para a narrativa, porque cada uma representa uma geração diferente de tecnologia e uma relação diferente com o hélio-3:
-
-**Fusão D-T (Deutério-Trítio) — A Geração Atual**
-A reação mais fácil de iniciar e a que domina toda a pesquisa de fusão atual — incluindo o ITER, o tokamak mais avançado do mundo em construção na França com participação de Rússia, China, EUA e outros. O D-T começa a ocorrer a partir de ~50 milhões de °C e libera 17,6 MeV de energia. O problema: 80% dessa energia é carregada por nêutrons de alta energia que bombardeiam e degradam as paredes do reator, tornando-as radioativas. O D-T também exige trítio — um isótopo radioativo do hidrogênio com meia-vida de 12,3 anos, extremamente raro, que precisa ser "cultivado" em reatores de nêutrons. O ITER está previsto para operar com D-T apenas em 2039.
-
-Nenhum reator D-T usa hélio-3. O hélio-3 não tem papel nessa geração de tecnologia.
-
-**Fusão D-D (Deutério-Deutério) — A Ponte**
-Quando deutério funde com deutério, ocorrem duas reações com probabilidade igual: 50% produzem um trítio + próton (2,4 MeV), e os outros 50% produzem **hélio-3 + nêutron** (0,8 MeV). Isso significa que reatores D-D produzem hélio-3 como subproduto — o que os torna tecnicamente uma forma de "cultivar" hélio-3 na Terra. Mas a reação D-D exige temperaturas ainda mais altas que D-T (~100 milhões de °C), libera menos energia por reação do que D-T, e os nêutrons produzidos ainda causam dano estrutural. Para fins práticos de geração de energia, D-D não é uma solução viável — é a reação que empresas como a americana Helion usam para produzir hélio-3 de forma controlada antes de passar para a reação principal.
-
-**Fusão D-³He (Deutério-Hélio-3) — A Geração Seguinte**
-Esta é a reação para a qual o hélio-3 lunar existe. Deutério + Hélio-3 → Hélio-4 + Próton + 18,3 MeV. A reação é **quase aneutrônica** — libera apenas ~5% da energia em nêutrons (via reações D-D secundárias inevitáveis), contra 80% no D-T. As vantagens são enormes: prótons são partículas carregadas que podem ser capturados por campos magnéticos e convertidos diretamente em eletricidade, sem precisar de ciclo térmico com turbinas. Menos dano estrutural, menos resíduos radioativos, potencial de reatores menores e mais eficientes.
-
-O obstáculo: D-³He exige temperaturas de plasma de **300 a 500 milhões de °C** — de 3 a 5 vezes mais do que D-T. Nenhum programa de fusão mainstream alcançou essas temperaturas de forma sustentada. É uma reação de segunda ou terceira geração. A empresa americana Helion Energy — a mais avançada nessa área — usa D-D para produzir hélio-3 internamente e então funde D-³He num mesmo ciclo de reator.
-
----
-
-### O Estado Real dos Programas de Fusão em 2026
-
-| País/Programa | Tecnologia | Combustível | Status em 2026 |
-|---|---|---|
-| **ITER** (internacional) | Tokamak | D-T | Em montagem; primeiro plasma ~2033 |
-| **China — EAST** | Tokamak | D-T | Plasma sustentado por 1.000 segundos (jan 2025) |
-| **China — CFETR** | Tokamak | D-T | Em construção; conclusão prevista para 2030s |
-| **China — BEST** | Tokamak | D-T (burning plasma) | Anunciado nov 2025; conclusão prevista 2027 |
-| **EUA — Commonwealth Fusion (SPARC)** | Compact tokamak | D-T | Primeiro plasma previsto 2026; break-even 2027 |
-| **EUA — Helion Energy** | FRC magnético | D-D → D-³He | Único programa mundial com D-³He como alvo |
-| **Rússia — T-15MD** | Tokamak | D-T | Operacional para pesquisa; participante do ITER |
-| **Rússia — Programa Zhar** *(fictício)* | Configuração FRC compacta | D-³He | Net gain experimental em 2029 (narrativa) |
-
-**Conclusão técnica para a narrativa:** O **Programa Zhar** da Rússia fictícia de 2031 não usa fusão D-D. Usa **fusão D-³He** — a reação que consome hélio-3 lunar diretamente. D-D seria apenas um estágio intermediário caso não houvesse acesso ao hélio-3 extraterrestre. Com o Forpost-1 e a mineração lunar, a Rússia pula a fase D-D e vai direto para D-³He — a reação de segunda geração que o mundo real ainda não conseguiu demonstrar em laboratório, mas que na obra a Rússia alcançou às custas de sua espionagem tecnológica, de seus melhores cientistas, e de uma corrida contra o tempo que nenhum outro país sabia que estava acontecendo.
-
----
-
-### O Programa Zhar e a Diferença de Abordagem entre as Potências
-
-Em 2031, os programas de fusão de cada potência refletem suas prioridades estratégicas:
-
-**EUA:** Investimento pesado no setor privado, com empresas como Commonwealth Fusion Systems (D-T, tokamak compacto) e Helion (D-³He) recebendo bilhões em capital. A filosofia é comercial e estratégica — fusão como tecnologia do futuro e como vantagem geopolítica num período de guerra. A urgência é real, mas diferente da russa: os EUA buscam fusão para liderança energética global pós-conflito, não para sobreviver a sanções.
-
-**China:** Programa estatal massivo e metódico. O EAST tokamak estabeleceu recordes mundiais, e o CFETR planeja ser maior que o ITER. A China investe em D-T porque é o caminho mais seguro para demonstrar capacidade tecnológica soberana. O hélio-3 lunar é um interesse de longo prazo — a China quer a base lunar por dezenas de razões além da fusão, e a mineração de hélio-3 é parte do plano para 2040+.
-
-**Rússia (Zhar):** O único programa que não tem o luxo de ser paciente. Com a economia de guerra consumindo recursos, com as exportações de combustíveis fósseis colapsando, e com a janela de oportunidade lunar fechando, a Rússia apostou numa abordagem de alto risco — pular D-T e ir direto para D-³He usando tecnologia parcialmente roubada e os melhores físicos de plasma que o país ainda tinha. A configuração escolhida não foi um tokamak convencional — tokamaks são imensos, caros e lentos para construir. O Zhar usa uma **configuração FRC compacta** (Field-Reversed Configuration), o mesmo tipo que a Helion americana utiliza, obtida via espionagem industrial, adaptada pelos engenheiros russos. Menor, mais rápida de construir, projetada para funcionar com as quantidades limitadas de hélio-3 que as primeiras extrações lunares produziriam.
-
-O obstáculo não é o conceito. É o combustível. Sem hélio-3 em quantidade suficiente, o Zhar não passa de um experimento de laboratório. Com o Forpost-1 em operação e os primeiros carregamentos de hélio-3 chegando à Terra, o Zhar se torna uma usina.
-
-Em 2029, o programa havia alcançado o que os engenheiros russos chamaram de *net gain* experimental: o reator de teste produzia mais energia do que consumia, por períodos limitados, em condições controladas. Não era um reator de potência. Mas era a prova de que o conceito funcionava — uma prova que o mundo real em 2026 ainda não havia conseguido para nenhum tipo de fusão.
-
-O que faltava era combustível. A Terra tem aproximadamente **20 kg de hélio-3 disponíveis** — produzidos como subproduto do decaimento de trítio em ogivas nucleares. É suficiente para experimentos. É catastroficamente insuficiente para alimentar uma frota de reatores numa economia de guerra.
-
-A Lua tem um milhão de toneladas.
-
----
-
-### Por Que o **Forpost-1** Era Uma Questão de Sobrevivência Nacional
-
-A lógica do **Projeto Rubezh** — e da urgência com que **Dmitri Mesyatin** e o governo russo o conduziam — só faz sentido completo dentro desse contexto.
-
-A Rússia precisava de energia. Não em décadas. Em anos.
-
-O cálculo era o seguinte: se a Rússia conseguisse estabelecer o **Forpost-1** como base operacional antes que o Gateway-2 americano entrasse em operação plena, ela teria tempo para implantar a primeira geração de equipamentos de extração de hélio-3 na superfície lunar. Não uma operação de escala industrial — ainda não havia tecnologia para isso. Mas uma operação de **prova de conceito em escala real**, capaz de extrair quantidades suficientes de hélio-3 para alimentar a segunda geração de reatores Zhar por tempo suficiente para validar o sistema e começar a construir a terceira geração.
-
-A meta não era energia infinita imediata. Era **autonomia energética suficiente para sobreviver ao isolamento**.
-
-Uma Rússia com reatores de fusão operacionais — mesmo que pequenos, mesmo que limitados — seria uma Rússia que não dependia de exportações de combustíveis fósseis para financiar a reconstrução pós-guerra. Que não dependia de petróleo como moeda de troca geopolítica. Que poderia manter indústrias militares e civis funcionando independentemente do que o Ocidente fizesse com sanções.
-
-Era também uma Rússia que poderia oferecer ao restante do mundo — especialmente às nações do Sul Global que ainda compravam energia russa — uma alternativa ao modelo ocidental. Uma Rússia como fornecedora de tecnologia de fusão lunar seria uma Rússia com leverage geopolítico num mundo pós-combustíveis fósseis.
-
-Esse era o prêmio real. Não a bandeira numa crateira. A independência energética num isolamento que não tinha prazo de término.
-
----
-
-### Os Motivos de Cada Potência — Uma Comparação
-
-| Potência | Motivação Declarada | Motivação Real |
-|---|---|---|
-| **EUA** | Exploração científica, presença humana, preparação para Marte | Garantir acesso prioritário a recursos lunares; impedir que China estabeleça precedente de controle territorial no espaço enquanto a guerra do Pacífico continua |
-| **China** | Pesquisa científica, cooperação internacional, ILRS | Consolidar posição como potência espacial líder; acesso a hélio-3 e metais raros; demonstrar capacidade tecnológica superior num momento em que a guerra com os EUA ancora o prestígio nacional |
-| **Rússia (Rubezh)** | Presença nacional, orgulho, corrida espacial | Sobrevivência: hélio-3 para reatores D-³He que libertem a Rússia da dependência de combustíveis fósseis que o Ocidente usa como arma econômica; sair da armadilha da vitória fantasma |
-
----
-
-### O Hélio-3 na Narrativa — O que Yuri Não Sabia
-
-**Yuri** sabia sobre o **Projeto Rubezh**. Sabia sobre o **Forpost-1**. Sabia sobre o SOKOL, os módulos GB, os rovers MR. Havia lido tudo nos arquivos do pai.
-
-O que ele não havia encontrado — porque estava num nível de classificação acima do que ele conseguiu acessar, guardado em servidores fisicamente isolados aos quais nem o escritório de **Dmitri** tinha acesso — era o **Programa Zhar**. O contexto energético. O real motivo pelo qual a Rússia estava correndo com uma urgência que parecia desproporcional à simples ambição de ter uma base lunar.
-
-Yuri foi para a Lua por amor à Lua. Por ambição pessoal. Por escapismo. Por todas as razões que eram genuinamente suas.
-
-Mas foi para a Lua num foguete construído para garantir que a Rússia tivesse energia suficiente para sobreviver à paz que estava matando o país tão devagar quanto qualquer guerra teria feito.
-
-Essa dimensão — o peso geopolítico real do que a base representava — ele vai descobrir na superfície. Ou quando voltasse. Se voltasse.
--e 
----
-
-*Versão 1.0 — Abril 2026*
+*END OF DOCUMENT*
