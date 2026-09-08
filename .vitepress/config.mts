@@ -150,8 +150,13 @@ export default defineConfig({
 
     // No "Edit this page", no repo links, no social links — reader-only site.
     footer: {
-      message: SITE_TAGLINE,
-      copyright: `© ${new Date().getFullYear()} Johnny Kestler`
+      // Authorship disclosure, shown on every page including single documents:
+      // the worlds are the author's; the writing-down and the site are Claude's.
+      message:
+        'Worlds, characters and stories © Johnny Kestler. ' +
+        'Documents written and site built with Claude (AI), ' +
+        "from the author\u2019s original concepts.",
+      copyright: `© ${new Date().getFullYear()} João Vitor Perazzolo (Johnny Kestler). All rights reserved.`
     }
   }
 })

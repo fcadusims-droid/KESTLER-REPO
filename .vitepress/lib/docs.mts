@@ -62,8 +62,7 @@ export const CATEGORY_ORDER = [
   'Worldbuilding',
   'Fiction',
   'Fanfiction',
-  'Game Design Document',
-  'Project'
+  'Game Design Document'
 ]
 
 const DEFAULT_CATEGORY = 'Worldbuilding'

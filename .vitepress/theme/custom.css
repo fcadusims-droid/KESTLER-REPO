@@ -410,3 +410,26 @@
     font-size: 16px;
   }
 }
+
+/* Authorship disclosure at the foot of the archive home. Quiet by design —
+   present and readable, but never competing with the works above it. */
+.archive-colophon {
+  max-width: 46rem;
+  margin: 4rem auto 1rem;
+  padding-top: 1.6rem;
+  border-top: 1px solid var(--vp-c-divider);
+  color: var(--vp-c-text-2);
+  font-size: 0.85rem;
+  line-height: 1.7;
+}
+.archive-colophon-title {
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--vp-c-text-3);
+  margin: 0 0 0.6rem;
+  font-weight: 600;
+  border: 0;
+}
+.archive-colophon p { margin: 0; }
+.archive-colophon strong { color: var(--vp-c-text-1); font-weight: 600; }

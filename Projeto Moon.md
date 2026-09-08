@@ -4,6 +4,7 @@ subtitle: "The Phantom Victory"
 author: "João Vitor Perazzolo"
 genre: "Hard Science Fiction / Survival / Political Thriller"
 version: "2.0"
+category: "Worldbuilding"
 ---
 
 # MOON

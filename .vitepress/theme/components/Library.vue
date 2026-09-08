@@ -103,5 +103,19 @@ const nothing = computed(() => visibleGroups.value.length === 0)
     <p v-if="nothing" class="archive-empty">
       No universes match your search.
     </p>
+
+    <footer class="archive-colophon" role="contentinfo">
+      <h2 class="archive-colophon-title">On authorship</h2>
+      <p>
+        Every universe, character and story collected here is the original
+        creation of <strong>João Vitor Perazzolo</strong>, who writes as
+        <strong>Johnny Kestler</strong>. The documents in this archive, and the
+        website that presents them, were written and built with
+        <strong>Claude</strong>, an AI assistant by Anthropic, working entirely
+        from the author's own concepts, worlds and direction. The invention is
+        the author's; the AI is the instrument that set it down and gave it a
+        place to be read.
+      </p>
+    </footer>
   </div>
 </template>
