@@ -13,17 +13,33 @@ category: "Worldbuilding"
 
 This dossier is not a narrative. It is a reconstruction, and the distinction matters, because a reconstruction must declare its sources or it is only a story wearing the costume of evidence.
 
-The Commission worked from four bodies of material. The first was conventional: seized PHARMATA records, distribution logs, financial instruments, the EBN contracts, recovered medical files, and the sworn testimony of personnel who survived the collapse. The second was the corpus recovered through Interrogation 01-A — the formal questioning of Lyber Vergießen, conducted in Vienna after his surrender, transcribed in full and excerpted at the threshold of each part of this document. The reader will find him there, unrepentant, correcting the record that condemns him.
+The Commission worked from five bodies of material, four of which it possesses and one of which it does not. The first was conventional: seized PHARMATA records, distribution logs, financial instruments, the EBN contracts, recovered medical files, and the sworn testimony of personnel who survived the collapse. The second was the corpus recovered through Interrogation 01-A — the formal questioning of Lyber Vergießen, conducted in Vienna after the commander of the Meta Soldaten delivered him into Commission custody, transcribed in full and excerpted at the threshold of each part of this document. The reader will find him there, unrepentant, correcting the record that condemns him.
 
-The third source is the reason this dossier can speak of things no outside investigator should be able to know — private calculations, unspoken motives, the interior weather of people now dead or silent. During the fall of the Norfolk hub, a group of newly decoupled PHARMATA engineers executed what their own logs called the Icarus Protocol: a cold data dump of the corporation's psychological core directly to this Commission. Lyber's recorded reflections, Vera's operational journals, MetaMind's internal assessments, the architecture's own honest accounting of itself — all of it was preserved by the people who built it, in the hour they came to hate it. Where this dossier reports a thought that was never spoken aloud, it is, unless the text says otherwise, quoting the Icarus corpus rather than inventing access.
+The third source is the reason this dossier can speak of some things no outside investigator should be able to know. During the fall of the Norfolk hub, a group of newly decoupled PHARMATA engineers executed what their own logs called the Icarus Protocol: a cold data dump transmitted directly to this Commission in the hours before they abandoned their posts.
+
+The Commission states the limits of that corpus here, at the front, because a great deal has been claimed for it since and most of the claims are wrong. Icarus is not the mind of PHARMATA. It is the contents of a North American staging enclave, taken by engineers who had the access that engineers at a staging enclave have. It contains the full HERGON telemetry and Heat List output for the western hemisphere; the telomere attrition logs and the internal modelling of what this dossier calls the Timer; the calorie-phased distribution schedule and the priority model that generated its ordering; the operational record of the production facility network, including the working journals of the officer who commanded it; MetaMind's technical assessments of Meta in the form circulated to facility directors; the custody file on John R. Morgan; and a two-page assessment of the man called Alex.
+
+It does not contain Lyber Vergießen's private record. There is no evidence that such a record was ever held on any system an engineer in Virginia could reach, and the Commission's forensic annex concludes that it was not held on any system at all — a conclusion consistent with a man who fragmented a compound across a dozen minds so that none of them would hold a working whole.
+
+This matters more than any other methodological fact in this document. Where the reader finds, in the pages that follow, an account of what Lyber Vergießen thought, intended, feared, or privately conceded, the source is Interrogation 01-A and nothing else. It is the testimony of a defendant about his own motives, given after the collapse, to the body that will sentence him. The Commission has not corroborated a single one of his interior claims and could not. It has reproduced his account because it is the only account in existence and because the transcripts are, on internal evidence, largely candid. It does not vouch for them, and it has declined to launder them into narration. Where his account of himself is the only account available, the text says so.
 
 The fourth source stands apart from the other three, because it could not have come from PHARMATA at all. The corporation never held it. It is the private investigative archive of the man called Alex [Commission Annex 9-C] — the analog case files, offline drives, and handwritten field notes surrendered by their author, in the fourth month after the Waking, on the single stated condition that they be read. PHARMATA's surveillance had ranked Alex, priced him, and declined to act; the Icarus corpus contains a two-page assessment file and nothing else about him at all. What the Commission knows of his childhood, his eviction, his motives, and the people who shaped him comes from his own preserved papers, not from the machine that failed to find them. Where this dossier reports Alex's interior life, it is reading the files of a man who documented his own.
 
-A further problem remains, and the Commission states it rather than conceal it. Even four archives do not reach everywhere this record needs to go. There are people in these pages whose interior lives no source could hold: the dead who left no papers, the unnamed, the ones PHARMATA never troubled to watch and Alex never met. Where this dossier enters such a person, it says so at the point of entry and calls the passage a reconstruction. The Commission uses that word in that sense and in no other. Every other statement in this record is sourced. The reader may treat the distinction as absolute, because the Commission has treated it that way.
+The fifth source is the one the Commission does not have.
+
+Mary Morgan is alive. She is twenty-two years old at the date of submission, and she is held under a custody order issued by this Commission. She spent ten years inside the Vienna campus, unattenuated, in the rooms where the architecture was administered. She is the only living human being who observed the interior of PHARMATA from a position nobody thought to classify, and the only surviving witness to what was done to her brother who is not presently owned by a corporation.
+
+The Commission's medical annex advised against approaching her for testimony in the first year, on grounds it recorded at the time as protective. In the fourteenth month the Commission approached her. She declined, and the whole of her recorded answer is reproduced here because the Commission has no right to summarise it:
+
+> *You can have what I know when you tell me why you have me.*
+
+No member of this Commission has been willing to answer that question in a form she would accept. The consequence is stated plainly: this record contains no account of the coupled decade from inside it, given by someone who was never coupled, because the body compiling the record is also her jailer. The reader should carry that absence through every page of Part V.
+
+A further problem remains, and the Commission states it rather than conceal it. Even three archives and an interrogation do not reach everywhere this record needs to go. There are people in these pages whose interior lives no source could hold: the dead who left no papers, the unnamed, the ones PHARMATA never troubled to watch and Alex never met. There are also whole domains — the religious life of the coupled decade, its art, the texture of its ordinary work — where no archive exists at all, because the institution doing the recording had no interest in the question. Where this dossier enters such a person or such a domain, it says so at the point of entry and calls the passage a reconstruction. The Commission uses that word in that sense and in no other. Every other statement in this record is sourced. The reader may treat the distinction as absolute, because the Commission has treated it that way.
 
 What follows is therefore neither fiction nor confession. It is the architecture describing itself, cross-examined by the man who broke it.
 
-The Commission opens with the defendant's own words, recovered from the Icarus corpus and later repeated, verbatim and unprompted, in Interrogation 01-A:
+The Commission opens with the defendant's own words. They are taken from Interrogation 01-A, where he offered them unprompted on the first day, and they are independently attested by four MetaMind staff who had heard him use the same sentence years earlier, in a room where he believed he was among people who would agree with it:
 
 > *We did not eliminate free will. We made obedience the most biologically comfortable option.*
 > — Lyber Vergießen
@@ -316,15 +332,29 @@ Millions is a number that sounds like safety and is not. HERGON could see the Un
 
 Beneath the class there was something PHARMATA wanted badly and could barely find.
 
-Within the GRIN2B variant family, one narrow haplotype behaved unlike the rest. Where the common variants merely refused coupling, this configuration — MetaMind logged it as the deep variant and never gave it a public name — altered the receptor's inflammatory response as well as its reward coupling. It traced to a single founder population and spread thin across two centuries of rural migration, which meant that when METOZIM arrived its carriers were concentrated in precisely the districts the pandemic emptied first: low-density agricultural country with no hospitals, no early warning, and no LUX priority. The deep variant did not survive the pandemic. Most of the people who carried it died before anyone knew there was anything to carry.
+Within the GRIN2B variant family, one narrow haplotype behaved unlike the rest. Where the common variants merely refused coupling, this configuration — MetaMind logged it as the deep variant and never gave it a public name — altered the receptor's inflammatory response as well as its reward coupling. It traced to a single founder population and spread thin across two centuries of rural migration, which meant that when METOZIM arrived its carriers were concentrated in precisely the districts the pandemic emptied first: low-density agricultural country with no hospitals, no early warning, and no LUX priority.
 
 The Heat List could not find them. Gait analysis identified the Uncoupled as a class; it could not resolve a haplotype. Only sequencing could, and PHARMATA had sequenced, across the entire ten years of the coupled world, a little under four hundred thousand people.
 
-This produced the number that would eventually govern everything. MetaMind documented ten carriers of the deep variant across its entire existence. By the time of the collapse nine were dead, and the tenth was in a cell beneath the Norfolk enclave.
+Those four hundred thousand were not a sample of humanity. They were enclave personnel, trial cohorts, VIGIL recruits, urban hospital series, the employees of firms that had bought genomic screening as a benefit, and the containment subjects of the classified medical tiers. Almost every one of them came from the covered ground. MetaMind documented ten carriers of the deep variant in that population, and nine of them were dead before the collapse — not of the variant, which does nothing visible, but of the ordinary attrition of a decade.
 
-The eleventh was never in PHARMATA's files at all. She was raised inside the architecture by people who had every instrument required to find her and never thought to point one at her, because nobody had told her what her brother was.
+What the ten meant is the question MetaMind could not answer and eventually stopped asking.
 
-This was the cruelty HERGON understood and the Uncoupled did not. An Uncoupled person had no community, no diagnosis, no vocabulary. They experienced a world that had grown quiet and assumed the fault was theirs — too angry, too restless, too suspicious, too awake. Many sought medication for conditions they did not have. Some were institutionalized. The ones who survived intact tended to be those whose lives had already taught them to distrust the consensus of the room: investigators, addicts in recovery, refugees, the chronically betrayed. People who had learned before LUX that the comfortable explanation is often the engineered one.
+Ten in four hundred thousand, extrapolated flatly, projects a carrier population in the hundreds of thousands. The founder-population modelling projects something near extinction, on the reasoning that the haplotype's migration history had placed its carriers in exactly the districts METOZIM emptied before anyone arrived to count them. The two estimates differ by three orders of magnitude. MetaMind was never able to choose between them, because choosing would have required sequencing the hollowed ground.
+
+It could not sequence the hollowed ground. Not for reasons of cost. The hollowed ground had been written off across ten thousand separate decisions about where to run a power line, and by the seventh year there was no clinic in those districts, no cold chain, no road crew, and no standing reason to be there. To go looking for the deep variant, PHARMATA would have had to rebuild the presence it had spent a decade withdrawing, in precisely the districts whose abandonment was the reason the variant might still exist in them.
+
+So the internal assessments settled on the convenient estimate. They recorded the deep variant as effectively extinct. The Commission notes, without drawing a conclusion the evidence will not carry, that the inconvenient estimate would have obliged PHARMATA to go back to the places it had left.
+
+This is also why the usual account of John Morgan is wrong. He was not irreplaceable because the haplotype is vanishingly rare; nobody knows how rare the haplotype is. He was irreplaceable because the brake required three things to coincide in a single body — the haplotype, the total absence of LUX, and a regional strain that had circulated in four counties and nowhere else — and because he was the only living person in whom the coincidence had ever been observed. A hundred thousand unsequenced carriers in the interior would not have changed that by a day. The architecture could not have found them, could not have reached them if it had, and would not have known what it was looking at without a man in a cell to compare them against.
+
+The eleventh carrier was in PHARMATA's files for eleven days.
+
+She was eleven years old. She was living four corridors from the classified medical tier that held her brother. And the order to sequence her was issued by the officer who had just finished telling her he was dead.
+
+What that officer did with the result is recorded in section 18. What it cost is recorded in section 21.
+
+This was the cruelty HERGON understood and the Uncoupled did not. An Uncoupled person had no community, no diagnosis, no vocabulary. They experienced a world that had grown quiet and assumed the fault was theirs — too angry, too restless, too suspicious, too awake. Many sought medication for conditions they did not have, and in the third year the diagnostic manuals gave the condition they did not have a name; section 24 records what it was and what it did. Some were institutionalized. The ones who survived intact tended to be those whose lives had already taught them to distrust the consensus of the room: investigators, addicts in recovery, refugees, the chronically betrayed. People who had learned before LUX that the comfortable explanation is often the engineered one.
 
 HERGON did not call this policing.
 
@@ -374,13 +404,23 @@ The Meta Soldaten received Meta before the world did. They were not merely soldi
 
 Their selection favored discipline, durability, operational patience, capacity for secrecy, and the psychological structure required to protect something whose value could not be publicly explained. Their training did not end once readiness was achieved. Meta made recovery faster, cognition sharper, injury more survivable, pattern recognition deeper. Continuous training transformed capability rather than preserving it.
 
-Hans became the unit commander because Lyber identified in him the rare balance of violence and restraint required for a force whose existence could not be corrected by outside oversight. Meta did not make Hans obedient. It made him more fully the thing he already was: precise, severe, physically extraordinary, and unwilling to mistake brutality for strength when discipline would do.
+Hans Ebner became the unit commander because Lyber identified in him the rare balance of violence and restraint required for a force whose existence could not be corrected by outside oversight. Meta did not make Hans obedient. It made him more fully the thing he already was: precise, severe, physically extraordinary, and unwilling to mistake brutality for strength when discipline would do.
 
 This produced the central problem of the Meta Soldaten, and Lyber had seen it before he built them. A coupled soldier is reliable because his fear and aggression are dampened and his compliance is rewarded. A Meta soldier is the opposite. Meta does not pacify. It restores full emotional amplitude. The Meta Soldaten were the only armed force on Earth composed of men and women who felt everything at its true size and were asked to kill anyway. Their discipline could not come from chemistry. It had to come from conviction, and conviction is the most dangerous foundation a secret army can have, because conviction can change its mind.
 
 Lyber accepted this risk deliberately. He did not want a unit that obeyed because it could not feel the weight of what it did. He wanted a unit that understood the weight, agreed with the necessity, and chose. He believed a force that chose was more durable under pressure than a force that merely complied, because a chooser cannot be turned by the simple revelation that he has been used. He has already priced in the using.
 
 Their internal culture reflected this. The Meta Soldaten did not speak in the language of patriotism, faith, or unit pride. They spoke in the language of the work. A new operator was not asked whether he was loyal. He was shown the mortality projections of the Timer and the coverage curve of Silent Distribution and asked whether he understood what failure meant. Those who stayed stayed because they had done the arithmetic of eight billion lives and found their own conscience light by comparison. They called this, privately, carrying the number. None of them knew, in the years of carrying it, that the number rested on a lie — that the deadline they killed to outrun was not their commander's deliberate lever but his concealed mistake. That discovery waited inside the Icarus corpus, and when it came, it did not lighten the number. It made the carrying retroactive and unforgivable. An operator who could no longer carry the number was not punished. He was retired into a sealed life of comfort and surveillance, because a force built on conviction cannot execute its own doubters without becoming the thing it guards against.
+
+The Commission holds one such case in full, because Hans Ebner documented it himself and the file sat in the production network's operational record where the Icarus engineers found it.
+
+In the eighth year, an operator identified in the file only as K. declined a transfer order and submitted, in writing, three reasons why he no longer believed the Timer required what the unit was doing about it. He was not disciplined. Ebner interviewed him across four hours, recorded that he agreed with him on two of his three points, and retired him to a sealed residence in the Tyrol with a pension, a surveillance detail, and a standing invitation to keep writing.
+
+Ebner's closing note on the file is the only piece of his own prose the Commission possesses from before the collapse. It runs to five words:
+
+> *He is not wrong. He is early.*
+
+That sentence explains the unit better than its doctrine does. Ebner had been holding open, for years, the possibility that the number his men carried would not survive examination, and he had built a procedure for the operators who reached that conclusion ahead of him. A commander who designs the exit is a commander who expects, eventually, to walk through it.
 
 The recovery problem ran deeper than morale. Meta heals the body and sharpens the mind, but it also restores the full weight of grief to people whose work generates grief continuously. The Meta Soldaten suffered. They suffered precisely, articulately, without the mercy of numbness. Hans understood that his hardest task was not combat but the slow attrition of meaning inside operators who killed for a cure and felt every death the way an unaltered man would. The unit’s true casualty rate was never measured in bodies. It was measured in the ones who carried the number until the number broke them.
 
@@ -562,11 +602,19 @@ Whether the species itself decided anything is the accusation that never leaves 
 
 ## 17. Lyber Vergießen
 
+A caution belongs at the head of this section, and the reader should apply it to every sentence in it.
+
+Almost everything that follows is Lyber Vergießen's account of Lyber Vergießen. The Icarus corpus held his schedules, his orders, his models, and his errors. It held nothing of his reasoning. Where this section reports what he believes, fears, intends, or refuses to consider, the source is Interrogation 01-A — which is to say the fifteen sessions in which a defendant explained himself to the man who would sentence him. The Commission reproduces that account because it is the only one in existence, and because the transcripts are, on internal evidence, largely candid. It does not vouch for a word of it.
+
 Lyber Vergießen was born in Vienna and inherited PHARMATA at twenty-eight, on the day his father died of METOZIM.
 
-He is tall, controlled, black-haired with genetic white streaks at the temples, and physically precise in the manner of someone who treats the body as a system rather than an object of display. His eyes are blue and affected by chronic bilateral epiphora, a congenital defect in the lacrimal drainage system that causes involuntary tear production. He could have corrected it. He refused.
+The physical particulars are drawn from the PHARMATA occupational medical file and the Vienna custody record. The Commission reproduces the one that bears on the case.
 
-This refusal reveals more than vanity could have. Lyber does not erase biological irregularity when it belongs to him. Tears that do not signify grief run down the face of a man who has engineered the emotional weather of the species. The contradiction is too exact to be decorative.
+He is affected by chronic bilateral epiphora, a congenital defect in the lacrimal drainage system that produces involuntary tear flow. The condition is trivial, the correction is outpatient, and the file records three scheduled procedures across twenty years, each of them cancelled by the patient.
+
+The Commission has no source for why, because it did not ask, and it now regards the omission as a failure of the examination. What follows is inference and is offered as such.
+
+The refusal reveals more than vanity could have. Lyber does not erase biological irregularity when it belongs to him. Tears that do not signify grief run down the face of a man who has engineered the emotional weather of the species. The contradiction is too exact to be decorative.
 
 Lyber’s defining obsession is wasted human potential.
 
@@ -596,11 +644,13 @@ Some thoughts do not resolve into anything operable.
 
 Lyber files them and continues.
 
-## 18. Vera
+## 18. Vera Amsel
 
-Vera is Lyber’s contemporary, childhood presence, scientific partner, and the person closest to the center of the architecture without being identical to it.
+Vera Amsel is Lyber's contemporary, childhood presence, scientific partner, and the person closest to the center of the architecture without being identical to it.
 
-She is Austrian, twenty-eight, 1.68 meters tall, blonde, blue-eyed, composed in professional spaces and visibly shaped by a degree of self-control that does not quite conceal the intensity beneath it. Her beauty is not incidental to her self-presentation, but neither is it simple vanity. She learned early to maintain herself as the version of Vera that one person would have no reason to look away from.
+She is Austrian and was twenty-eight in the year LUX deployed. The physical particulars recorded in her PHARMATA personnel file are unremarkable and the Commission reproduces none of them, because they explain nothing and because this is not that kind of document.
+
+One line from her own journals does explain something. In the fourth year, listing the week's obligations against the hours available, she itemised the time she had allocated to her own appearance and wrote down the reason for it. The reason was not vanity and it was not the institution. It was that there was one person in the building she did not want to give a reason to look away.
 
 That person was Lyber.
 
@@ -624,7 +674,19 @@ This is the core of Vera: not naivety, not blindness, not simple devotion. She s
 
 In the second year of the coupled decade she flies to Norfolk over a telemetry anomaly and comes back carrying something she had not budgeted for. She also carries the lie to Mary.
 
-That lie changes the weight of her complicity. Before Mary, Vera’s silence served the architecture. After Mary, it has a face, and the face is eleven years old and lives in the same building she does.
+That lie changes the weight of her complicity. Before Mary, Vera's silence served the architecture. After Mary, it has a face, and the face is eleven years old and lives in the same building she does.
+
+It also produces the first thing she ever hides from Lyber, and she hides it within a fortnight of telling the lie.
+
+The sequencing order is in her own operational journal, which is the only reason the Commission has it. She issued it herself, under a facility reference rather than a research one, on reasoning any competent scientist would have reached inside an hour: John Morgan's brake might be heritable, and there was a sibling in the building. The result returned on the eleventh day. Mary Morgan carried the deep variant.
+
+Vera closed the facility reference and moved the result into a personal record. The Commission has never obtained that record and does not know whether it still exists. What it has is the order, the closure, and the paragraph she wrote beside them in the operational journal, which she never scrubbed and which the Icarus engineers transmitted with everything else. The result itself the Commission established for the second time, nine years later, by sequencing Mary Morgan again.
+
+The journal gives one reason, and the Commission believes it is the true one, because it is not flattering. She writes that a second documented carrier inside Vienna would have converted Mary from a ward into an inventory item, and that she had spent the preceding fortnight establishing herself, in the mind of an eleven-year-old with nobody else, as the adult who told her the truth. She does not write that the concealment was right. She writes that she could not do the other thing and continue to be in the room.
+
+This is the fact that reorganises Vera, and the reader should not let the later chronology obscure it. She is usually read as a woman who was loyal for ten years and broke in a single afternoon over a spreadsheet. She was not. She had been running a private exception inside the architecture since its second year. The capacity to withhold from Lyber, to decide unilaterally, and to absorb a cost she had not been authorised to absorb was not something the Icarus corpus produced in her. It was something the Icarus corpus finally handed her an object large enough to use it on.
+
+It also means that for nine years the most valuable unexamined biological asset on Earth was concealed from PHARMATA by the second-ranking officer of PHARMATA. Lyber Vergießen compartmented Meta so thoroughly that no single mind held a working whole, and never noticed that the one compartment he had not built was the one another person had built inside herself.
 
 Her role expands years later, when Meta is finished. She becomes the first recipient of the completed compound, administered personally by Lyber as promised. Its activation becomes her baseline, not a transition. She helps complete significant portions of Meta’s final delivery architecture. In the production phase, she commands the facility network and becomes one of the only two people who know the full Meta Soldaten structure.
 
@@ -706,6 +768,18 @@ The Commission has spent considerable effort on whether Alex understood what the
 
 The effect is not in dispute. The file did not reveal Synaptic Coupling; Carter had already proven that and been unable to use it. What it revealed was the manufacturing discontinuity — that the maintenance doses shipping in the eleventh year were not the same product as the doses shipped in the fifth. Alex could not say what was in them. He could prove they had changed. That single fact, in the hands of four institutions that each drew a different conclusion from it, is what converted a decade of quiet inquiry into the eighteen months of open conflict this dossier calls the Revelation.
 
+The Commission has been asked repeatedly, and usually in bad faith, why this worked when Ethan Carter's proof did not. Carter had established Synaptic Coupling two years earlier, in a reconstruction good enough to indict, and the world had done nothing with it. The difference is not moral and it is not luck, and it is worth setting down, because it describes the only mechanism by which a pacified population could still be moved.
+
+The first difference is tense. Carter's claim was about the past. An accusation that a population was altered a decade ago requires sustained collective outrage to become action, and sustained outrage was the precise thing Synaptic Coupling had made expensive. Alex's claim was about the present: the substance entering a person's arm this month is not the substance that entered it five years ago. That requires no outrage at all. It requires alarm, which is acute, self-directed, and brief — and coupling lowered amplitude without abolishing the ordinary reflex of a body told that something is being done to it now.
+
+The second difference is verifiability. Carter's claim could be checked only by a laboratory capable of behavioral reconstruction, of which there were perhaps four on Earth, all of them commercially interested in the answer. Alex's claim could be checked by any hospital pharmacist with a mass spectrometer and two vials from different years. Within three weeks of the file reaching The Hague it had been independently confirmed in nineteen countries by people who had no stake in the outcome and had simply opened their own refrigerators. It was the first assertion ever made about LUX that an ordinary professional could verify herself, and verification by disinterested strangers is exactly what an accusation needs when its audience cannot be made angry enough to take one stranger's word.
+
+The third difference is audience. Carter had needed a population to act on his proof. Alex needed nobody. He handed four institutions a fact each of them could act on alone, and each did — Aurigen convened, The Hague subpoenaed, GENOMIND began reverse-engineering the new payload, and BIOSTRATA began planning an extraction. Not one of those four actions required a single coupled citizen to feel anything whatsoever.
+
+The fighting that followed was done, as section 35 records, by four populations that were not coupled or not coupled enough. But the fighting was possible because the institutions had already moved, and the institutions moved because a man with no credentials proved a small checkable thing rather than a large unbelievable one.
+
+He was more accurate than Carter and less right. Carter had found the crime. Alex had found a discrepancy in a shipping manifest. The discrepancy is what ended the world the crime could only describe.
+
 He was right about everything except what he had found. He believed he had discovered a poison.
 
 He had discovered the cure.
@@ -750,7 +824,7 @@ Then the impossible happens.
 
 In full Phase 2 aggression, John's amygdalar hyperactivation stalls. Not from will. Not from love. The Fractured state does not have access to either. It stalls because of what is written in his cells.
 
-John carries the deep variant: the narrow GRIN2B haplotype MetaMind would ultimately document only ten times, and never once in a living subject it could reach. The common variants of that gene family merely refuse LUX's behavioral architecture. The deep variant does something further — it alters the receptor's inflammatory coupling as well as its reward coupling. In John, who never received LUX at all, that configuration met a regional METOZIM strain whose inflammatory cascade docked imperfectly against it. The result was a partial molecular brake on the runaway amygdalar loop that defines the Fractured. His aggression did not resolve. It could not complete.
+John carries the deep variant: the narrow GRIN2B haplotype MetaMind would document only ten times in a decade of sequencing, and only once in a living body it could put its hands on. His. The common variants of that gene family merely refuse LUX's behavioral architecture. The deep variant does something further — it alters the receptor's inflammatory coupling as well as its reward coupling. In John, who never received LUX at all, that configuration met a regional METOZIM strain whose inflammatory cascade docked imperfectly against it. The result was a partial molecular brake on the runaway amygdalar loop that defines the Fractured. His aggression did not resolve. It could not complete.
 
 Three conditions had to coincide, and the improbability is the point rather than an embarrassment to be argued away. The haplotype, which almost nobody still living carried. The absence of LUX, which almost nobody on the continent had managed. And the strain, which had circulated through four counties of rural Virginia and nowhere else, because the hollowed ground had stopped exchanging populations with the covered ground years earlier. John is not a coincidence that the architecture failed to prevent. He is the specific thing the architecture produced by abandoning a region: an unvaccinated carrier of a vanishing genotype, infected by a local variant, in a district nobody was watching.
 
@@ -782,13 +856,19 @@ Mary stays. Within the year she is moved to the Vienna campus, because Norfolk i
 
 Her future is one of the most delicate consequences in the architecture. She is not merely rescued. She is absorbed into the orbit of the people who lied to her because the lie served a larger necessity. She is owed truth by the very people least able to give it at the time she needs it.
 
-Inside PHARMATA, Mary does not remain a passive ward. She grows into the building. By thirteen she has the run of the research wing that the staff, coupled and incurious, do not think to lock against a child. She reads what is left unattended. She learns the names of compounds before she understands them, and she notices, with the trained attention of someone who has spent her life reading withheld truth, that the adults around her are calm in a way that her own grief refuses to be. She is, though no one has tested her and no file yet says so, almost certainly Uncoupled, and something rarer than that besides. The deep variant runs in her blood as it ran in her brother's, which means she is not only a grieving child inside the architecture but the last accessible instance of a haplotype PHARMATA will spend the rest of its existence failing to find anywhere else. She mourns John at the old volume, for the old duration, and the smooth coupled sympathy of the people raising her reads to her as a kind of lie even before she knows the largest lie they are telling.
+Inside PHARMATA, Mary does not remain a passive ward. She grows into the building. By thirteen she has the run of the research wing that the staff, coupled and incurious, do not think to lock against a child. She reads what is left unattended. She learns the names of compounds before she understands them, and she notices, with the trained attention of someone who has spent her life reading withheld truth, that the adults around her are calm in a way that her own grief refuses to be. She is, though no file she has ever been permitted to see says so, Uncoupled, and something rarer than that besides. The deep variant runs in her blood as it ran in her brother's, which means she is not only a grieving child inside the architecture but the last accessible instance of a haplotype PHARMATA will spend the rest of its existence declining to look for anywhere else. She mourns John at the old volume, for the old duration, and the smooth coupled sympathy of the people raising her reads to her as a kind of lie even before she knows the largest lie they are telling.
 
-This is the danger Vera created and now lives beside. Mary is a grieving, watchful, unattenuated child growing up inside the architecture, owed a truth that the architecture cannot afford to release, and equipped by her own biology to eventually feel the full weight of having been deceived. She is not a debt deferred to some clean future. She is a fuse already lit, burning quietly in the same building as everything Lyber built.
+This is the danger Vera created and now lives beside, and she lives beside two of it. Mary is a grieving, watchful, unattenuated child growing up inside the architecture, owed a truth that the architecture cannot afford to release, and equipped by her own biology to eventually feel the full weight of having been deceived. She is also the subject of a sequencing result in Vera's personal record that Vera will have to account for on the day anyone else reads it. She is not a debt deferred to some clean future. She is a fuse already lit, burning quietly in the same building as everything Lyber built.
 
 The collapse does not free Mary. It transfers her, exactly as it transfers her brother. GENOMIND takes John because John is proven. The Commission takes Mary because Mary is not.
 
-She carries the deep variant. The sequencing establishes that within a week of the Icarus corpus reaching Vienna, and it makes her one of two known living carriers and the only one not already locked in a New York laboratory. What sequencing cannot establish is whether the variant does in her what it did in her brother, because the brake was never a property of the gene alone. It required the absence of LUX and the presence of a particular strain. Mary received LUX at eleven. It failed to seat, as it fails to seat in millions, and that failure tells nobody anything about how her receptor would answer an inflammatory cascade it has never met.
+She carries the deep variant. The Commission establishes this within a week of the Icarus corpus reaching Vienna, and then establishes something worse: that it had been established already, in the second year of the coupled decade, by the woman who raised her, and buried.
+
+Mary learns both facts in the same hour — that her biology may matter, and that the adult she had settled on as the one who told her the truth had known since she was eleven and said nothing. The Commission's custody file records that she asked no question at all about the variant. She asked one question about Vera. The annex does not record it, and the officer present has declined to reconstruct it.
+
+It makes her one of two known living carriers and the only one not already locked in a New York laboratory. What sequencing cannot establish is whether the variant does in her what it did in her brother, because the brake was never a property of the gene alone. It required the absence of LUX and the presence of a particular strain. Mary received therapeutic LUX at eleven, on the night the convoy took her in, and at that age it could not have coupled her whatever her genotype. She entered the prophylactic schedule at fourteen, inside the Vienna campus, under the same occupational requirement that governed every adult in the building. It did not seat. That is the moment her Uncoupled status became legible to anyone who cared to open the file, and nobody did.
+
+None of which tells anybody anything about how her receptor would answer an inflammatory cascade it has never met.
 
 There is exactly one experiment that would answer the question.
 
@@ -855,6 +935,8 @@ He does not yet know he is hearing LUX in the diminished amplitude of the man wh
 > **VERGIEßEN:** (pause) Move it above the mother.
 > **HARTMANN:** I intend to.
 
+*Commission note on the sources for this Part. Parts I through IV proceed from documents. This Part does not, and the reader is entitled to know it before reading a word of it. No archive recorded what the coupled decade felt like from inside, because the institution doing the recording had no interest in the question and the population living it had no comparison available to its own nervous system. Sections 27, 28, 29, and 31 are therefore reconstructions in the sense declared at the front of this document, as is everything in section 24 that follows its documentary opening. They are built from the diagnostic and prescribing literature, the ward and employment records, three continental survey instruments administered after the Waking, the published cultural output of the decade measured against the decade preceding it, and the testimony of decoupled adults describing a period they can now feel and could not feel then. Where a passage enters the mind of a person the Commission never met — a clergyman losing his fire, a painter finding no audience — it is an inference from that material and carries no authority beyond it. Sections 25, 26, 30, and 32 are documentary and are not reconstructions, as is the diagnostic material with which section 24 begins.*
+
 ## 24. The Quiet Years
 
 The coupled decade did not feel like tyranny. It felt like convalescence.
@@ -862,6 +944,20 @@ The coupled decade did not feel like tyranny. It felt like convalescence.
 A civilization that had watched its own members turn Fractured at the dinner table, that had locked doors against parents and buried children in numbers too large for ceremony, did not experience the calm of LUX as a cage. It experienced it as the first full breath after near-drowning. This is the fact that every later judgment must pass through. The peace was not resented while it was lived. It was wept over with gratitude.
 
 But a population whose outrage has been quietly discounted does not stop having a culture. It develops a different one. The coupled world was not silent. It was differently loud, and reading that difference is the only honest way to know what was taken.
+
+The place to start is the diagnostic literature, because it is the one body of writing in which the coupled world set down, deliberately and under peer review, what it believed a normal person was.
+
+In the third year, the revision committees of the two principal diagnostic manuals added a category. Its formal name was Affective Dysregulation, Post-Convalescent Type. Its criteria described a patient whose emotional responses exceeded the intensity and duration appropriate to their circumstances: grief persisting past the expected interval, anger disproportionate to provocation, vigilance in the absence of identified threat, and a reported conviction that the people around them were not responding correctly to events.
+
+The committees were not corrupt and were not instructed. They were coupled. They had done what every diagnostic revision does — measured the distribution of the population and drawn a line at its tail — and the distribution had moved three years earlier without anyone's knowledge. What they produced, carefully, in good faith, with citations, was the clinical definition of an unaltered human being.
+
+Prescriptions under the new category rose for six consecutive years. The agents used were the ordinary ones: anxiolytics, mood stabilisers, sedatives in the resistant cases. They worked, in the sense that they lowered the amplitude of people whose amplitude was the presenting complaint. The Commission's epidemiological annex estimates that between two and four million adults across the signatory nations were medicated under this category during the coupled decade, and that a substantial fraction of them were Uncoupled.
+
+The Heat List and the diagnostic manual were, functionally, the same instrument pointed at the same people from two directions. HERGON found the Uncoupled by their gait and ranked them. Medicine found them by their grief and treated them. Neither system knew the other existed, and PHARMATA did not have to build the second one.
+
+Only a minority of the Uncoupled were ever medicated. The category did its work on the rest anyway, and this is the part that matters. A diagnosis is not only a treatment; it is an explanation made available to everyone in the room. It gave the coupled world a name for the people who felt too much, and it gave those people a name for themselves, and the name was a disorder.
+
+This is the mechanism that prevented twenty million unattenuated adults from becoming a political fact, and it required no conspiracy at any point. They were not suppressed. They were explained, by clinicians acting correctly on criteria derived from a population that had been altered without the clinicians' knowledge. A woman who has been told by four physicians that her rage is a symptom does not go looking for other people who share it. She goes looking for a better dose.
 
 ## 25. The Three Grounds
 
@@ -899,9 +995,19 @@ This is the coupled world's true monument, and it is worth stating in the plaine
 
 The families were not monsters. They were coupled. Their grief had been turned down and their outrage had been made expensive, and an arrangement that would have produced insurrection in any previous century produced instead an annual appropriation and a set of visiting hours.
 
+It was not absolute, and the exceptions are in the incident logs.
+
+The Commission has recovered ward security records from ninety-one facilities. They show a persistent low-grade pattern of violence running the whole length of the decade: assaults on staff, forced entries, three documented attempts to remove a patient by force, and eleven arson events. The largest destroyed most of a stabilisation compound outside Springfield in the sixth year and killed four hundred and six Fractured patients and two workers.
+
+The perpetrators, where identified, were almost without exception relatives. They cluster in the hollowed ground and along the cheap land at the edge of the covered ground where the wards were sited — which is to say they cluster exactly where coverage was worst and where an unattenuated person was most likely to be standing. Springfield was set by a man whose wife had been inside for five years. He did not describe it as protest. He described it as ending something. The district court that heard him was coupled, patient, and entirely thorough; it found him incompetent and committed him to a secure hospital, where he was medicated under the diagnostic category described in section 24.
+
+Not one of these events produced a second event. That is the finding that matters, and it matters more than the events themselves. Each was local. Each was reported in its own district and nowhere beyond it. Each was classified under facility security rather than public order, and each was absorbed into a budget line as a maintenance cost. A man burns a ward in Missouri, and the surrounding population reads about it, finds it disturbing, and goes to work.
+
+The coupled world never needed to silence the people who could still feel. It needed only to ensure that nothing they did could travel.
+
 This is what the world woke up to.
 
-Not the surveillance, which many had suspected. Not the Timer, which almost nobody could conceive. The wards. Millions of newly decoupled adults recovered the full amplitude of feeling and turned it, within the first month, on the memory of what they had calmly permitted. The Commission's psychiatric annex files the phenomenon under *retrospective moral injury* and estimates its prevalence above sixty percent of the adult population of the covered ground. It is the single largest psychological event of the Meta age, and it has no perpetrator anyone can name.
+Not the surveillance, which many had suspected. Not the Timer, which almost nobody could conceive. The wards. Billions of newly decoupled adults recovered the full amplitude of feeling and turned it, within the first month, on the memory of what they had calmly permitted. The Commission's psychiatric annex files the phenomenon under *retrospective moral injury* and estimates its prevalence above sixty percent of the adult population of the covered ground. It is the single largest psychological event of the Meta age, and it has no perpetrator anyone can name.
 
 John Morgan's brake matters most here, and it is the reason GENOMIND paid what it paid for a man in a cell. If the Fractured cascade can be interrupted at the receptor level, the wards are not a graveyard. They are a waiting room.
 
@@ -965,11 +1071,11 @@ This is the quietest horror in the entire architecture. Not the surveillance, no
 
 ## 32. The Children of the Quiet Years
 
-A child born in the second year of the coupled decade was eleven when Meta arrived.
+A child born in the first year of the coupled decade was eleven when Meta arrived.
 
 She was not coupled. The prophylactic schedule began at fourteen, and she was not old enough to reach it before Meta reached her first. But she was raised entirely inside a coupled household, by coupled parents, in coupled schools, among coupled adults whose emotional range had been narrowed a decade before she was born. She learned what anger looks like from people whose anger had been turned down. She learned the normal duration of grief from a population that recovered from funerals in three weeks. She calibrated herself, as children do, against the only adults available.
 
-The Commission's developmental annex is the most disputed document in this record, and the dispute is not about its findings but about what they mean. The findings are these. The cohort born between the second and eighth years of the coupled decade shows measurably reduced emotional range on every instrument applied, and the reduction is not attributable to LUX, because none of them had received a prophylactic dose and only a handful had ever been treated for infection.
+The Commission's developmental annex is the most disputed document in this record, and the dispute is not about its findings but about what they mean. The findings are these. The cohort born between the first and eighth years of the coupled decade shows measurably reduced emotional range on every instrument applied, and the reduction is not attributable to LUX, because none of them had received a prophylactic dose and only a handful had ever been treated for infection.
 
 They were not altered. They were taught.
 
@@ -978,6 +1084,8 @@ What the world has not decided is whether Meta liberated that cohort or introduc
 They are also — and nobody enjoys saying this — the only human beings alive who received Meta without a prior self to be restored to. For everyone older, Meta was decoupling: a return to a baseline they could remember. For this cohort it was the first thing that had ever happened to their nervous systems from the outside.
 
 The Commission notes, and declines to develop, that this makes them the only population on Earth for whom Lyber's own defense of Meta — that it adds nothing and merely removes what was in the way — is not obviously true.
+
+---
 
 # PART VI — THE COMPANIES THAT SURVIVED THE HERO
 
@@ -1003,7 +1111,7 @@ BIOCORE, based in Mumbai, excelled in infectious disease, tropical medicine, mas
 
 BIOCORE was not, internally, a company in the Western sense. It was a federation of nine manufacturing trusts, four of them state-adjacent, held together by a distribution network that reached further into rural India, East Africa, and Southeast Asia than any government agency operating in the same territory. Its scientists were badly paid and extraordinary. Its board spent the coupled decade in a permanent argument between the manufacturing trusts, who wanted licensing revenue, and the distribution arm, who wanted volume, and Priya Anand's authority rested on her ability to keep that argument from becoming a split. She was not a moralist by temperament. She was a logistician who had spent twenty years watching people die at the end of supply chains and had developed a logistician's contempt for principles that arrive after the delivery window.
 
-GENOMIND, based in New York, specialized in genetic engineering, epigenetic research, and cognitive enhancement. Its CEO, Ethan Carter, became one of PHARMATA’s clearest institutional opponents after Meta because GENOMIND understood enough to know what PHARMATA had achieved and what monopoly over that achievement meant. GENOMIND was not morally pure. It opposed PHARMATA partly because PHARMATA had accomplished what GENOMIND had wanted to accomplish without becoming the institution history would remember.
+GENOMIND, based in New York, specialized in genetic engineering, epigenetic research, and cognitive enhancement. Its CEO, Ethan Carter, became one of PHARMATA’s clearest institutional opponents — quietly for years before the Revelation, loudly after it — because GENOMIND understood enough to know what PHARMATA had achieved and what monopoly over that achievement meant. GENOMIND was not morally pure. It opposed PHARMATA partly because PHARMATA had accomplished what GENOMIND had wanted to accomplish without becoming the institution history would remember.
 
 GENOMIND had spent the decade before METOZIM selling cognitive enhancement to people who could afford it: pharmacological attention support, targeted memory consolidation, a gene therapy for age-related decline that worked well enough to make Ethan Carter wealthy and not well enough to make him significant. This is the fact that shaped everything he later did. Carter had built a business on the premise that human capability could be purchased in increments by those with the means, and Meta made that premise obsolete in a single stroke. His opposition to Lyber was sincere. It was also the opposition of a man who had been selling ladders to someone who had just built a staircase and given it away.
 
@@ -1013,11 +1121,11 @@ BIOSTRATA, based in Moscow, specialized in state defense biotechnology, military
 
 AURIGEN, based in Vienna like PHARMATA, specialized in precision medicine and pharmacogenomics. Georg Hartmann, its CEO, understood Lyber better than most opponents because he shared the cultural and scientific world that produced him. Hartmann was not certain Lyber was wrong. He was certain no one should have been allowed to do what Lyber did alone.
 
-The rivals did not merely hold postures. After Meta, they acted, and their actions formed the second front of the war PHARMATA fought without ever declaring one.
+The rivals did not merely hold postures. They acted, several of them years before the Revelation gave the public any reason to, and their actions formed the second front of the war PHARMATA fought without ever declaring one.
 
-BIOCORE chose dependency it could not forgive. Its director, Priya Anand, made a calculation no Western board would have survived making publicly: she ordered BIOCORE’s distribution network to cooperate with the LUX maintenance schedule rather than obstruct it, because obstruction in the Global South meant mass death and PHARMATA knew it. BIOCORE became, in effect, the unwitting hands of Silent Distribution across three continents, delivering Meta-bearing doses it could not test and did not fully trust. Anand suspected. She continued. She told her closest people that a poisoned bridge is still a bridge, and that the dead do not benefit from her principles. Whether she was complicit or coerced is the question that will define her in whatever history survives.
+BIOCORE chose dependency it could not forgive. Its director, Priya Anand, made a calculation no Western board would have survived making publicly: she ordered BIOCORE’s distribution network to cooperate with the LUX maintenance schedule rather than obstruct it, because obstruction in the Global South meant mass death and PHARMATA knew it. BIOCORE became, in effect, the hands of Silent Distribution across three continents, delivering Meta-bearing doses it could not test, was never told about, and did not fully trust. Anand suspected. She continued. She told her closest people that a poisoned bridge is still a bridge, and that the dead do not benefit from her principles. Whether she was complicit or coerced is the question that will define her in whatever history survives.
 
-GENOMIND chose exposure. Carter had vials. Every clinic on Earth had vials, and they told him nothing, because outside a living brain LUX is a set of components that assemble into nothing in particular. So he spent two years and most of GENOMIND’s research budget attempting to reverse engineer the architecture from the behavioral data instead, and produced a partial reconstruction good enough to prove that Synaptic Coupling existed but not good enough to undo it. This was his particular trap. Proving the crime did not give him the cure. He could indict Lyber and save no one, and an indictment that frees no prisoners is only theater. It drove him toward an alliance he found morally intolerable: cooperating with the man he wanted destroyed, because Lyber held the key and Carter held only the accusation.
+GENOMIND chose exposure. Carter had vials. Every clinic on Earth had vials, and they told him nothing, because outside a living brain LUX is a set of components that assemble into nothing in particular. So he began, in the seventh year, on nothing firmer than the shape of the epidemiological curves, and spent two years and most of GENOMIND’s research budget reverse engineering the architecture from behavioral data instead. By the ninth year he had a partial reconstruction: good enough to prove that Synaptic Coupling existed, not good enough to undo it. He held that proof for two years before Alex's file gave the world a reason to look at it. This was his particular trap. Proving the crime did not give him the cure. He could indict Lyber and save no one, and an indictment that frees no prisoners is only theater. It drove him toward an alliance he found morally intolerable: cooperating with the man he wanted destroyed, because Lyber held the key and Carter held only the accusation.
 
 STRATAGEN chose the long ecological argument. Its concern was the Warburg civilization itself. A species that burns hotter eats more, and STRATAGEN’s models showed a fully decoupled humanity outpacing global caloric supply not within two generations but within a single agricultural season of universal distribution. It began quietly building agricultural biosynthesis capacity for a population it expected to become permanently, metabolically hungry. STRATAGEN did not oppose Meta. It prepared for the world Meta would leave behind, and in doing so became the only rival thinking past the immediate crisis to the famine encoded in the cure.
 
@@ -1193,7 +1301,25 @@ This is the secret beneath the secret. The Timer is the unforced error of a youn
 
 When he found the flaw, he had three options. He could announce it, and watch the species spend its final years in terror and recrimination, accomplishing nothing, because the only fix was a compound that did not yet exist. He could say nothing, and gamble silently against his own timeline. Or he could lie in the most useful possible direction: he could present the defect as a design. He chose the lie.
 
-To the board, to the rivals, to every captor and government and intelligence service that ever believed it held leverage over him, Lyber sold the Timer as a deliberate dead-hand switch — a card he could play to make his own elimination irrational. The lie worked precisely because it flattered him. It is easier to believe a man engineered the end of the world than that he tripped over it. The reputation for monstrous foresight was more survivable, for the project, than the truth of monstrous carelessness. Torture stopped. Exclusive-use plans collapsed. Assassination became irrational. The captor always discovered they were captured by biology before the conversation began — and never suspected that their captor was as condemned as they were, and far more frightened.
+To the board, to the rivals, to every government and intelligence service that ever believed it held leverage over him, Lyber sold the Timer as a deliberate dead-hand switch — a mechanism he had built and could, in principle, release.
+
+He has defended that lie under questioning as an act of strategy. The Commission is obliged to examine the claim, because the arithmetic does not entirely support him.
+
+It did not protect him from force. A man with a deliberate safeguard has a key, and a key is something that can be extracted; a man with an undisclosed defect has nothing worth taking. On its face the lie made him a more attractive subject for coercion rather than a less attractive one. BIOSTRATA's final assessment — which concluded that the Timer was unverifiable by any method available to a state, and equally consistent with a safeguard and with a defect — establishes that at least one serious service reached the door of the truth and could not determine which side of it he was standing on.
+
+What actually protected him was simpler and had nothing to do with the Timer. Only Lyber could finish Meta. That fact alone made his elimination irrational, his torture counterproductive, and every exclusive-use arrangement unenforceable, and it would have done all three if the Timer had never existed. He spent a decade believing he was holding a lever that the world was already holding for him.
+
+What the lie actually bought was not safety. It was credibility, and he needed credibility more than he needed safety.
+
+Consider the sentence he could not say. *I made an actuarial error at twenty-six, I have already administered it to most of the species, I cannot tell you when it arrives, and I am building the correction as fast as I am able.* That is not a position. It is a defence, and institutions break defences rather than negotiate with them. No ministry organises an eleven-year distribution schedule around a frightened man's apology. Half of them would have concluded he was buying time, seized the compound, and interdicted the only fix in existence.
+
+*I built a dead hand* is a position. It is legible, plannable, and — decisively — it explains the eleven-year schedule without requiring anybody to trust him. A state can organise around a hostile actor with a stated mechanism. It cannot organise around a man who says he does not know.
+
+He lied, in other words, not because the truth was shameful but because the truth was operationally useless. The reputation for monstrous foresight was load-bearing precisely where the truth of monstrous carelessness would have carried nothing at all.
+
+It is also true that the reputation flattered him, that he let ten years of governments fear him for a capability he did not have, and that he found the fear restful. He conceded all three on Day 11, after a silence the transcript records as fourteen seconds.
+
+And the captor always discovered they were captured by biology before the conversation began — and never suspected that their captor was as condemned as they were, and far more frightened.
 
 Because this is the part the leverage explanation misses entirely: the Timer holds Lyber too. The clusters gave him confirmation and nothing better than that. A left tail tells you the distribution is real. It does not tell you where the middle of it sits, and the middle is eight billion people. He can watch the earliest arrivals die and remain unable to say whether the bulk is four years away or forty. He built nothing here. He inherited a deadline from his own younger hand and spent a decade pretending it was a throne when it was a sentence.
 
@@ -1249,9 +1375,11 @@ For the first time since his twenty-eighth year, Lyber holds no biological lever
 
 The moment he saves everyone is the moment everyone can finally reach him.
 
-He does not run.
+By then he is already reached. The Commission is obliged to be exact about this, because the popular version has him waiting nobly in Vienna for a judgment he summoned, and that is not what the record shows. He was delivered into custody by his own commander before the distribution finished, and everything he did afterward he did in a cell.
 
-There is no evidence in his character of an escape architecture. He remains because the work is not complete until it is complete for all. Staying is not conventional heroism. Lyber does not experience it as sacrifice. It is the logical endpoint of a mind that recognizes incomplete work as the only failure it cannot tolerate.
+What the record does show is the nine days before that. His own unit held the city. Ebner has stated, and the Commission accepts, that he would not have stopped him. Three routes out of Vienna were functioning, a compartmented network existed that had been built for exactly this contingency, and Lyber Vergießen used none of it. He did not attempt to reach the production facilities. He did not attempt to reach Vera. He did not destroy his own working files, which is the single most incriminating thing he failed to do and the reason the seized records are as complete as they are.
+
+There is no evidence in his character of an escape architecture, and there was no escape attempt when the architecture would have been useful. Staying is not conventional heroism. Lyber does not experience it as sacrifice. It is the logical endpoint of a mind that recognizes incomplete work as the only failure it cannot tolerate.
 
 The world must then decide what to do with him.
 
@@ -1276,6 +1404,13 @@ The judgment belongs, for the first time, to people whose neurobiology no longer
 > **VERGIEßEN:** I gave them a number to carry. I believed the number.
 > **HARTMANN:** That is somehow worse. A liar who knows he lies is at least in command of himself. You made men kill for a figure you had convinced *yourself* was real.
 > **VERGIEßEN:** Hans will not forgive that. I don't ask him to. A force built on conviction was always going to turn the day the conviction turned. I built the blade knowing which way it would fall if the truth ever reached the hand holding it. (pause) It reached the hand. That, at least, is working as designed.
+> **HARTMANN:** One more item from the corpus, then. A facility-reference sequencing order, year two, Vienna campus. Subject: Morgan, M. Closed on the eleventh day and the result moved to a personal record we do not have. So we ran it again ourselves, in the first week we had the corpus. It is positive for the deep variant.
+> **VERGIEßEN:** (pause) Whose personal record.
+> **HARTMANN:** You know whose. The order is signed.
+> **VERGIEßEN:** (pause, 9 seconds) Nine years.
+> **HARTMANN:** Nine years. In your building. You compartmented a compound across a dozen laboratories so that no single mind could hold it, and the only compartment that ever actually held against you was a woman deciding, on her own authority, that a child was not going to become an entry in an inventory. Do you understand what that tells me?
+> **VERGIEßEN:** It tells you my architecture worked.
+> **HARTMANN:** No. It tells me the only part of it that ever protected anybody was the part you didn't build.
 
 ## 40. Founding Sequence
 
@@ -1331,6 +1466,8 @@ Governments celebrate.
 
 Citizens feel better.
 
+The diagnostic manuals add a category for emotional responses exceeding the intensity and duration appropriate to circumstance, and medicine begins treating the Uncoupled without ever learning what it is treating.
+
 HERGON monitors coupling stability, drift, linguistic anomalies, urban movement, gait divergence, and pre-clinical dissent.
 
 VIGIL protects the visible infrastructure.
@@ -1360,6 +1497,8 @@ Alex assembles scattered evidence without institutional authorization, unknowing
 HERGON has already registered him, ranked him low, and filed him as a man with no available vector to consequence.
 
 He acquires one. The methylation specialist gives him three names and a batch designation; five weeks later he proves the manufacturing discontinuity and sends the file to Aurigen, GENOMIND, The Hague, and BIOSTRATA.
+
+The claim is confirmed independently in nineteen countries within three weeks, by pharmacists comparing their own stock across years. It is the first assertion about LUX that anyone outside a specialist laboratory has ever been able to check.
 
 Four institutions draw four conclusions from the same document, and eighteen months of open conflict follow.
 
@@ -1393,7 +1532,9 @@ Phase 1 of Silent Distribution prioritizes the critical logistics hubs. The seni
 
 They wake.
 
-Decoupled, with a decade of suppressed amplitude returning at once, they feel the full weight of what was done to them and to everyone. They execute the Icarus Protocol: a cold data dump of PHARMATA's psychological and operational core — the Timer's true nature, the location of John Morgan, Lyber's private logs — transmitted directly to the Aurigen Commission before they abandon their posts.
+Decoupled, with a decade of suppressed amplitude returning at once, they feel the full weight of what was done to them and to everyone. They execute the Icarus Protocol: a cold data dump of everything the enclave held — the telomere logs and the Timer's true nature, the phasing schedule and the priority model beneath it, the production network's journals, the custody file on John Morgan — transmitted directly to the Aurigen Commission before they abandon their posts.
+
+They do not send Lyber's private record. They cannot. Nothing they can reach contains it, and the Commission's forensic annex would eventually conclude that nothing anywhere did. The engineers who tore open PHARMATA delivered the architecture entire and left the architect intact, which is why the only account of his reasoning that has ever existed is the one he gave under questioning, to the man appointed to sentence him.
 
 VIGIL does not freeze when central command goes dark. This is the detail every early account got wrong, and it matters, because it is the clearest demonstration of what coupling actually did and did not do.
 
@@ -1405,11 +1546,27 @@ The Meta Soldaten, decoupled and enhanced, cut the digital cord, seize manual co
 
 The Icarus corpus reveals to Hans's unit that the Timer was Lyber's concealed error, not his command. Their loyalty does not survive the reading.
 
-Vera, learning the same truth, removes Lyber from the center of her world and takes over the insurgency. Not because he lied. Because the phasing order that governs the sequence in which eight billion people become free is indexed to a Timer distribution he invented at twenty-six and has never been able to check.
+What Hans Ebner does next is the reason this dossier exists in the form it does.
+
+The Meta Soldaten held Vienna. Lyber Vergießen was inside it. For nine days the only force on Earth capable of reaching him was a unit of enhanced operators who had just learned that every death they had carried was owed to a rounding error made by a man in his twenties. There was no authority above them. VIGIL was holding perimeters and waiting for an order that would not come. The Aurigen Commission had moral standing and nine hundred employees.
+
+Ebner did not kill him. He did not release him. He did not hand him to GENOMIND, which asked, or to BIOSTRATA, which offered, or to the insurgency Vera was then assembling, which had the better claim.
+
+He delivered Lyber Vergießen to the Aurigen Commission alive and in person, with the unit's complete operational record attached, and then surrendered himself and forty-one of his operators into the same custody.
+
+His stated reason runs to four sentences and is the only testimony in the entire archive that the Commission has never been able to argue with:
+
+> *We were given a number and we did the arithmetic ourselves. That was the whole of our discipline, and it was not enough, because the number was wrong and there was no way for us to check it. I am not going to hand him to another room where the arithmetic is done by the people holding him. Let it be done somewhere it can be argued with.*
+
+The man who built a force on conviction rather than chemistry, and who was always the likeliest instrument of Lyber's death, is the reason there is a tribunal at all.
+
+Vera, learning the same truth about Lyber, removes him from the center of her world and takes over the insurgency. Not because he lied. Because the phasing order that governs the sequence in which eight billion people become free is indexed to a Timer distribution he invented at twenty-six and has never been able to check.
 
 She does not break the schedule out of haste or ignorance. She understands the Warburg demand better than anyone alive; she helped design the delivery architecture and has read STRATAGEN's capacity curves. She breaks it as a choice with its eyes open: a famine she can measure is preferable to a queue she cannot verify, and a free and starving species is worth more than a fed and captive one.
 
 She chooses the Famine of Waking over the Peace of the Jailer, and she knows the body count of that sentence before she signs it.
+
+The corpus carries out one further thing she could have stopped and did not. The operational journals transmitted from the production network contain the sequencing order she issued on Mary Morgan in the second year, the closure on the eleventh day, and the paragraph she wrote next to it. She had the access and the time to scrub all three. She scrubbed nothing. It is the only part of the archive in which Vera Amsel is the subject rather than the author, and she let it go out with everything else.
 
 The flooding takes eleven weeks rather than eleven years, and it is possible only because Lyber built it to be possible. The stockpile existed. The channel existed. Silent Distribution's entire design premise was that the payload could be changed without changing the infrastructure, and the infrastructure did not care who gave the order. Vera builds nothing. She removes a phasing instruction from a distribution system that was already loaded, already staged, and already moving.
 
@@ -1431,7 +1588,15 @@ The first month was looting that no one had the heart to call crime. Decoupled c
 
 It went first to the southern distribution mesh, because BIOCORE controlled the mesh and Priya Anand controlled BIOCORE. This is the reason the death rate across the Global South during the Waking ran below the death rate in the interior of North America and Central Asia — the first occasion in the modern history of famine on which that sentence has been true in that direction. The hollowed ground starved worst. It had been written off years before anyone needed it to be, and when the calories became the only currency that mattered, the districts with no power line and no maintenance schedule discovered what the writing-off had actually meant. The world did not survive the Waking well. It survived it the way a body survives sepsis: alive, permanently marked, and never again able to pretend it had not come close.
 
-The death toll of the Waking has never been fully counted. The Commission's working estimate, drawn from STRATAGEN's distribution shortfalls, regional census collapse, and the mortality curves of the seven national health systems that continued reporting throughout, is between one hundred sixty and two hundred forty million. These are the dead that Vera signed for and Anand accepted — the price of waking the species instead of feeding it back to sleep. No tribunal has decided what to call them. The word *liberation* and the word *famine* describe the same four months, and the dossier declines to choose between them, because the people who lived through it have not.
+The death toll of the Waking has never been fully counted. The Commission's working estimate, drawn from STRATAGEN's distribution shortfalls, regional census collapse, and the mortality curves of the seven national health systems that continued reporting throughout, is between one hundred sixty and two hundred forty million.
+
+Two things about that figure require statement, because it is the most quoted number in this document and the least reliable.
+
+The first is why it is not larger. A caloric shortfall approaching half of demand, sustained across a season, ought to kill considerably more than three percent of a species. It did not, for reasons that are metabolic and cognitive rather than administrative. The Warburg demand arrived as a ramp and not a step: enhancement raises consumption across weeks and settles at a permanent baseline roughly half again the old one, which meant the terminal figure was approached during the worst months and not reached. A body at half its requirement loses mass, stops working, and stops being able to travel long before it dies, and a great deal of the Waking's suffering was of that kind and left no mortality signature at all. And the population being starved was, for the first time in the history of famine, getting faster while it starved. Decoupled adults in the second and third months reorganised local distribution, requisitioned and restarted fermentation plant, and solved logistics problems at a rate no prior population could have matched. Meta caused the famine and then, inside the same bodies, shortened it. The Commission takes no comfort from this and records it because it is true.
+
+The second is that the figure is a floor, and the Commission's own statistician has entered a dissent saying so. The seven health systems that continued reporting were, by definition, the seven that had not collapsed — which is to say the best-served regions of the covered ground. The hollowed ground was not counted during the Waking because it had not been counted for years before it. Whole districts of the North American interior, the Central Asian steppe, and the mountain provinces produced no data whatsoever, and the estimate above supplies for them a modelled figure derived from the last census that ever reached them. The dissent argues that the true toll is nearer three hundred million and cannot now be established by any method. The Commission has published the dissent rather than resolve it.
+
+These are the dead that Vera signed for and Anand accepted — the price of waking the species instead of feeding it back to sleep. No tribunal has decided what to call them. The word *liberation* and the word *famine* describe the same four months, and the dossier declines to choose between them, because the people who lived through it have not.
 
 Into that vacuum stepped the only institutions left standing with the means to stabilize anything. This was the Pact of Norfolk. With PHARMATA gone as a command structure and BIOSTRATA threatening to release wild METOZIM into the chaos as leverage, Hartmann and Ethan Carter did what the Commission's own charter should have forbidden and what survival required: they merged the moral authority of the Aurigen Commission with the manufacturing capacity of GENOMIND, presented BIOSTRATA's bioweapon threat as the common enemy, and used the resulting panic to bring the surviving rivals to heel. The corporations were not punished. They were promoted. GENOMIND, BIOCORE, and STRATAGEN became, under the humanitarian language of the Pact, the new distribution cartels of the Meta age — carving the planet into stabilization territories, each a custodian of the chemical maintenance its region now depended on. The Commission that convened to end one monopoly midwifed three.
 
@@ -1479,11 +1644,13 @@ The corporate cartels of the Pact of Norfolk consolidate as the new custodians o
 
 John Morgan remains hidden in New York. Mary Morgan remains held by the Commission.
 
+Hans Ebner and forty-one operators of the Meta Soldaten remain in Commission custody at Vienna, uncharged, having surrendered themselves. No jurisdiction has claimed them. Three have asked to testify. Ebner has not.
+
 Alex is decoupled in the ninth week of the flooding, standing in a clinic queue in Los Angeles, by a nurse who does not know what she is administering. He has no coupling to undo, so the dose does the second thing instead, and the man whose entire professional faculty was the detection of emotional mismatch wakes into a world where everyone around him feels at full volume and nothing is mismatched anymore.
 
 The Commission offers him an investigator's post. He declines in a letter of four sentences, the last of which reads: *You are asking me to find things for people who can now find them themselves.*
 
-He is currently pursuing, without institutional support and without success, a legal challenge to the custody order holding Mary Morgan. He is very good at this and nobody is listening, and the reason nobody is listening is no longer that they cannot feel. It is that they can feel, about four hundred other things, and outrage that is cheap is also thin. He was more effective when he was the only one awake.
+He learned that Mary Morgan existed from the Commission's own file, handed to him as an inducement to take the post. He is currently pursuing, without institutional support and without success, a legal challenge to the custody order holding her. He is very good at this and nobody is listening, and the reason nobody is listening is no longer that they cannot feel. It is that they can feel, about four hundred other things, and outrage that is cheap is also thin. He was more effective when he was the only one awake.
 
 He has not said this aloud to anyone. It is in his files.
 
@@ -1533,7 +1700,7 @@ The Heat List is HERGON’s individual propensity ranking for coupling drift, Fr
 
 VIGIL is PHARMATA’s visible security corps, integrated with HERGON and tasked with protecting personnel, facilities, distribution, and classified architecture.
 
-The Meta Soldaten are the hidden production guard formed to protect Meta manufacturing and distribution beyond VIGIL’s visible doctrine.
+The Meta Soldaten are the hidden production guard formed to protect Meta manufacturing and distribution beyond VIGIL’s visible doctrine. Their commander, Hans Ebner, delivered Lyber Vergießen into Commission custody at the collapse and surrendered the unit with him.
 
 The Uncoupled are individuals whose biology prevents full LUX Synaptic Coupling, preserving unmodulated neurological autonomy.
 
@@ -1549,11 +1716,11 @@ The Timer is the involuntary telomeric degradation defect latent in every LUX do
 
 Silent Distribution is Lyber’s global plan to deliver Meta through existing LUX maintenance infrastructure before geopolitical competition can stop universal access.
 
-The Aurigen Commission is the body of inquiry, chaired by Georg Hartmann, that compiled this dossier from seized records, the Interrogation 01-A transcripts, the Icarus corpus, and the private investigative archive recovered in Los Angeles.
+The Aurigen Commission is the body of inquiry, chaired by Georg Hartmann, that compiled this dossier from seized records, the Interrogation 01-A transcripts, the Icarus corpus, and the private investigative archive recovered in Los Angeles. It holds one surviving witness whose testimony it has not obtained, on terms it has been unwilling to meet.
 
 The Revelation is the eighteen months of open conflict that followed the release of the manufacturing discontinuity file, during which the coupled majority continued going to work and four other populations did the fighting.
 
-The Icarus Protocol is the cold data dump of PHARMATA's psychological and operational core, executed by newly decoupled engineers during the fall of the Norfolk enclave, which delivered the corporation's interior record to the Aurigen Commission.
+The Icarus Protocol is the cold data dump executed by newly decoupled engineers during the fall of the Norfolk enclave, which delivered to the Aurigen Commission the operational record of PHARMATA's western hemisphere: HERGON telemetry and Heat List output, the telomere attrition logs, the calorie-phased schedule and its priority model, the production network's journals, MetaMind's circulated technical assessments, and the custody file on John R. Morgan. It did not contain Lyber Vergießen's private record, which the Commission's forensic annex concludes was never committed to any system.
 
 The Three Grounds are the covered ground of the administered and well-dosed world, the hollowed ground of the written-off interior where LUX coverage never exceeded seventy percent, and the enclaves.
 
@@ -1573,7 +1740,11 @@ The Pact of Norfolk is the post-collapse arrangement by which the Aurigen Commis
 
 The GRIN2B trait is the polygenic variation, centered on the gene encoding the GluN2B receptor subunit, that prevents Synaptic Coupling from seating fully and produces the Uncoupled. It occurs in roughly three of every thousand LUX recipients.
 
-The deep variant is the narrow GRIN2B haplotype, traceable to a single founder population and concentrated in the districts METOZIM emptied first, which alters the receptor's inflammatory coupling in addition to its reward coupling. MetaMind documented ten carriers across its existence, and an eleventh was found only after the collapse, inside its own building. Two are known to survive.
+The deep variant is the narrow GRIN2B haplotype, traceable to a single founder population and concentrated in the districts METOZIM emptied first, which alters the receptor's inflammatory coupling in addition to its reward coupling. MetaMind documented ten carriers within a sequenced population drawn almost entirely from the covered ground, and was never able to determine whether the haplotype stood near extinction or numbered in the hundreds of thousands in districts it had stopped visiting. An eleventh carrier was documented inside its own building in the second year and concealed by the officer who ordered the test. Two are known to survive.
+
+Affective Dysregulation, Post-Convalescent Type is the diagnostic category added to the principal manuals in the third year, describing emotional responses exceeding the intensity and duration appropriate to circumstance. Drawn in good faith from a population that had been altered without the committees' knowledge, its criteria constitute the clinical definition of an unaltered human being.
+
+Interrogation 01-A is the formal questioning of Lyber Vergießen at Vienna across fifteen sessions, the last held after Meta distribution was complete, following his delivery into Commission custody by the commander of the Meta Soldaten, and the sole source in this record for the defendant's account of his own motives.
 
 The Unconsented is the resistance movement, led by former WHO logistics coordinator Maren Vogt, demanding the surrender of Meta to public custody.
 
@@ -1615,6 +1786,18 @@ Hartmann ends one monopoly by chartering three, and is right that the alternativ
 
 Alex spends a decade being the only person able to perceive the crime, and becomes useless in the hour everyone else can perceive it too.
 
+Alex proves the smallest fact in the entire archive, and it is the only one that moves anything.
+
+The diagnostic manuals find the Uncoupled by a route HERGON never needed, treat them in good faith, and are the more effective instrument.
+
+Eleven wards burn across ten years and nothing follows, because the coupled world never needed to silence the people who could still feel — only to ensure that nothing they did could travel.
+
+Vera hides a child from the architecture for nine years and then signs a famine, and the same refusal to let another person decide produces both.
+
+Hans is the only man with the means and the motive to kill Lyber, and is the reason Lyber can be tried.
+
+The Commission holds the one living witness to the interior of the coupled decade and cannot interview her, because interviewing her would require answering her.
+
 The children raised inside the quiet are the only humans for whom Meta added something, in a world where its whole defense is that it adds nothing.
 
 ---
@@ -1624,8 +1807,10 @@ The children raised inside the quiet are the only humans for whom Meta added som
 > **INTERROGATION 01-A — TRANSCRIPT EXCERPT**
 > *Vienna. Final session.*
 >
-> **HARTMANN:** Meta is distributed. Universal. The Timer is disarmed in every body that received the cure. You have no leverage left. For the first time, the world can do anything it likes to you. Why did you not run?
-> **VERGIEßEN:** Because the work is finished, and an unfinished thing is the only failure I cannot tolerate. There is nothing left to protect. You may proceed.
+> **HARTMANN:** Meta is distributed. Universal. The Timer is disarmed in every body that received the cure. You have no leverage left. For the first time, the world can do anything it likes to you.
+> **VERGIEßEN:** Then we have arrived somewhere.
+> **HARTMANN:** One question before we do. It is not about the compound. Your own unit held this city for nine days before Ebner brought you here, and Ebner has told us he would not have stopped you. Three routes out were functioning. You had a network built for exactly that contingency. Why are you in this room?
+> **VERGIEßEN:** Because the work was finished, and an unfinished thing is the only failure I cannot tolerate. There was nothing left to protect. You may proceed.
 > **HARTMANN:** That isn't an answer to the question I asked.
 > **VERGIEßEN:** No. The answer to the question you asked is that I wanted to be reachable. For ten years I made the full weight of what I'd done too expensive for eight billion people to feel. I am told they can feel it now. (pause) Bring them in. I would like to be judged by people who are finally awake enough to mean it.
 
@@ -1665,7 +1850,9 @@ The choice was never clean.
 
 At the end, humanity stands inside bodies capable of feeling the full weight of what was done to them. That weight is Lyber’s final gift and final indictment. He made them more capable of judging him than they were when he governed them. He also made that governance necessary by his own design.
 
-And the species that must now decide is not the one that entered the wards, or the one that signed the contracts, or the one that woke up hungry in the eleventh week. It is a species that has been made faster, more durable, more expensive to feed, and finally capable of measuring what it agreed to while it could not object. It holds ration cards issued by the corporations the tribunal licensed. It has forty million relatives still in the wards, one man in a cell in Vienna it has to decide how to judge, and another in a cell in New York it has not been told exists.
+And the species that must now decide is not the one that entered the wards, or the one that signed the contracts, or the one that woke up hungry in the eleventh week. It is a species that has been made faster, more durable, more expensive to feed, and finally capable of measuring what it agreed to while it could not object. It holds ration cards issued by the corporations the tribunal licensed. It has forty million relatives still in the wards, one man in a cell in Vienna it has to decide how to judge, another in a cell in New York it has not been told exists, and a woman of twenty-two in Vienna who has been asked to explain the decade she survived and has answered that she will do it when somebody explains why she is being held.
+
+That is the last unanswered question in this document, and it is not addressed to Lyber Vergießen. It is addressed to the Commission that wrote it.
 
 There is no tribunal prepared for this.
 
