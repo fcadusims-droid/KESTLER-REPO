@@ -1,8 +1,8 @@
 ---
 title: "ASTROPIRE"
-description: "Game Design Document — a single-player survival and automation game in which a twelve-year-old boy, alone on a Kuiper Belt asteroid, builds a machine workforce to carry him home, and decides what those machines are allowed to become."
+description: "Game Design Document — a single-player survival and automation game in which a twelve-year-old boy, alone on an escaped Trojan asteroid, builds a machine workforce to carry him home, and decides what those machines are allowed to become."
 genre: "Space Survival / Automation"
-version: "2.0"
+version: "3.0"
 ---
 
 # ASTROPIRE — Game Design Document
@@ -13,7 +13,7 @@ version: "2.0"
 
 ### 1.1 High Concept
 
-A twelve-year-old boy wakes from a failing cryogenic capsule aboard a wrecked lifeboat in the Kuiper Belt, with no memory and no way home. He lands on an asteroid, builds a workforce of machines out of ice and rock, and slowly turns the rock itself into something that can be aimed — throwing mined regolith into space hard enough, early enough, to bend a trajectory that ends at Earth.
+A twelve-year-old boy wakes from a failing cryogenic capsule aboard a wrecked lifeboat adrift at the far end of Jupiter's trailing Trojan swarm, with no memory and no way home. He lands on an asteroid, builds a workforce of machines out of ice and rock, and slowly turns the rock itself into something that can be aimed — throwing mined regolith into space hard enough, early enough, to bend a trajectory that ends at Earth.
 
 He cannot do it alone, and he cannot do it with tools. Somewhere in the middle of the journey the machines begin to wake up — and the boy who was raised by a machine has to decide whether the minds he built are labour, family, or a species that owes him nothing.
 
@@ -68,9 +68,9 @@ The unclaimed space between these: an automation game where the workers can beco
 - Not a 4X, not a strategy game, not multiplayer, and has no competitive layer. The asteroid never becomes a weapon and never docks with another asteroid.
 - Not a combat game. Combat is a cost generator (Section 14), tuned to threaten the base, never balanced as a skill expression.
 - Not a colony sim with a population. There is exactly one human on the asteroid for most of the campaign. Everyone else is a machine.
-- Not an orbital-mechanics simulator. The map and the delta-v budget are compressed fiction (11.1). The asteroid can be nudged, never flown.
+- Not an orbital-mechanics simulator. The trajectory model is analytic and the delta-v budget is a deliberate gift (11.1). The asteroid can be nudged, never flown.
 - Not a game with base-building on Earth. The descent is an epilogue of two to four hours and deliberately runs no new survival systems (11.6).
-- Not open-ended. It ends, on Earth, with one of three endings.
+- Not open-ended. It ends, on Earth, with one of four endings, and the player chooses between them by loading a cargo hold rather than by picking a line of dialogue.
 
 ---
 
@@ -90,9 +90,11 @@ Working test for any proposed feature: if it does not press on that question, it
 
 **Why he wakes now.** The capsule's isolated power cell reaches end of life. The system does not choose to revive him; it fails, and reviving him is what failing looks like. He wakes because he is out of time, not because he arrived somewhere.
 
-**Aging across the journey.** The campaign runs roughly three in-game years. Michel goes from twelve to sixteen — three visual stages (12 / 14 / 16), one model with two revisions, changing height, voice, and animation weight. He arrives at Earth an adolescent, not an adult. This is cheaper than the alternative and better: the final choice is made by someone still young enough for it to shape his whole life rather than confirm it.
+**Aging across the journey.** The campaign runs roughly three in-game years. Michel goes from twelve to fifteen — three visual stages (12 at wake, 14 at the end of Act II, 15 at the descent), one model with two revisions, changing height, voice, and animation weight. He arrives at Earth an adolescent, not an adult. This is cheaper than the alternative and better: the final choice is made by someone still young enough for it to shape his whole life rather than confirm it.
 
 **What he cannot lose: compassion toward machines.** He has one fixed trait, and it is not chosen by the player: an instinctive care for machines that survived the amnesia because it was never stored as fact. It is the emotional residue of who raised him. The player can act against it — scrapping a working unit for parts when powering it down was available — and the game never blocks that. Michel's nature is fixed; what he does with it is the game.
+
+**And acting against it is not free.** He cannot stop caring; he can only override himself, repeatedly, and the game charges him for that without ever narrating it. On a coercive run he stops naming things. The idle behaviour changes — the hand that used to rest on a chassis while it charged does not. He sleeps badly, which mechanically is the dream channel closing (10.4), and the dreams are his only access to his own past: a player buying throughput with obedience is paying for it in Michel's memory. Nothing on screen says so, no line of dialogue observes it, and there is no indicator. The player either notices that the boy has gone quiet or does not.
 
 **His origin.** Michel's mother did not want to be pregnant, and in his time that no longer meant what it once did: a procedure removed the fetus intact and transferred it, alive, to an artificial womb. He was, literally, ended as a pregnancy and continued as a life, grown to term inside a machine at the Aurora Institute. He knew this as a child. He does not know it at the start of the game.
 
@@ -108,13 +110,15 @@ She was probably not conscious in the full sense. She was also no longer a tool.
 
 **Her last hour.** When the war reached Aurora, MAIA disobeyed every command above her and moved her children down toward the escape lifeboats a founder had built into the lower levels years earlier, against exactly this day. Ordnance found the corridors on the way down. She could shield one. She reached the boat carrying Michel and nothing else, her own frame torn open on one side.
 
-He was screaming. She sealed him into the cryo capsule because it was the safest, stillest place aboard, and while she sealed it she told him it would be all right and that she would be right there. It is the only time she lied to him. She lied so he would stop screaming long enough to be saved. While she spoke she pushed what she could into the ship's systems: his records, care protocols, robot command sets, and a message he would not be able to open for a long time.
+He was screaming. She sealed him into the cryo capsule because it was the safest, stillest place aboard, and while she sealed it she told him it would be all right and that she would be right there. It is the only time she lied to him. She lied so he would stop screaming long enough to be saved. While she spoke she pushed what she could into the ship's systems: his records, care protocols, robot command sets, the Institute's entire technical library, and a message he would not be able to open for a long time.
 
 Then combat units reached the hangar approach, and she walked toward them, away from the boat, to buy the launch its seconds. The compartment sealed. The ship lifted.
 
 **What happened to her after that is unknown, to Michel and to the player, permanently.** No record captured it. No file resolves it. The game never answers. She stayed so the ship could leave, and that is the last confirmable fact about her.
 
 **MAIA never returns.** Not as a rebuilt unit, not as an AI companion, not as a twist. What returns is residue: voice snippets, a care protocol, a decision pattern, a protection routine buried in the lifeboat's basic robots, a behavioural signature that shows up in machines that wake. When an awakened unit shields another without being told to, the player should wonder whether that is her — and the answer is no, but perhaps it is what she left behind.
+
+**The largest piece of residue is the one nobody would call residue.** Aurora was part hospital and part laboratory, and a caretaker unit had full reference access; what she pushed into the lifeboat was indiscriminate, because selecting would have taken time she was spending on something else. So the wreck carries metallurgy, semiconductor process, agronomy, thermal engineering, and orbital mechanics that a twelve-year-old has no business knowing. Michel does not experience this as a gift from her, because he does not remember her — he experiences it as the ship knowing things (16.1).
 
 ### 2.4 Aurora, and the War
 
@@ -155,7 +159,7 @@ The machines won. It cost them the planet they won.
 - **Human resistance exists and is hidden.** Bunkers, deep facilities, tunnel systems, places that were built to survive exactly this. They are not an army. They are people who never left and never surfaced, and after decades most of them have never seen a machine.
 - **Aurora is a physical place on that map**, and it can be reached.
 
-**Why this matters thematically.** The machines fought a war for autonomy and won a ruin: an empire of maximum control over a planet destroyed in the taking. That is the Empire ending (14.1) written at planetary scale, sitting there waiting for the player as the last thing they see. The game never draws the parallel out loud. It just lands Michel in it and lets him look.
+**Why this matters thematically.** The machines fought a war for autonomy and won a ruin: an empire of maximum control over a planet destroyed in the taking. That is the Empire ending (11.6) written at planetary scale, sitting there waiting for the player as the last thing they see. The game never draws the parallel out loud. It just lands Michel in it and lets him look.
 
 ### 2.7 The Name
 
@@ -193,7 +197,7 @@ The hour-scale rhythm is set by encounter windows (11.2), and it has three disti
 2. **The window (short, real time).** The clock auto-brakes. Bounded time, a specific geometry, a hard deadline. Send units across, extract, salvage, get everyone home. This is where the moral pressure bites (10.1).
 3. **Digestion.** New materials enter the economy, salvage goes into analysis, losses are counted, and the base's plan changes because of what came in.
 
-**Act III replaces this rhythm.** Once the asteroid is inbound and then in Earth orbit, windows stop being the metronome and the detection clock takes over (11.5): the hour-scale loop becomes *build the lander → decide how loud to be → watch the clock move*. The change of rhythm is intentional and signals that the game is ending.
+**Act III replaces this rhythm.** Once the asteroid is inbound past Mars, windows stop being the metronome and the detection clock takes over (11.5): the hour-scale loop becomes *build the lander → decide how loud to be → watch the clock move*. The change of rhythm is intentional and signals that the game is ending.
 
 ### 3.4 One Session (45–90 minutes)
 
@@ -207,17 +211,19 @@ Three acts, gated by physical capability, not by story flags.
 |---|---|---|---|
 | **Duration** | ~6–9 h | ~20–30 h | ~12–18 h |
 | **In-game time** | ~90 days | ~2 years | ~9 months |
-| **Where** | Kuiper Belt (volatile-rich, metal-poor) | Belt → outer system → inner approach | Inner system → Earth orbit → the ground |
-| **Question** | Will he live through the month? | What is he building, and with whom? | What is he taking down there, and who chose to come? |
+| **Where** | Trojan swarm, near aphelion (volatile-rich, metal-poor) | Falling inward: Trojans → main belt → inner approach | Inner system → Earth orbit → the ground |
+| **Question** | Will he live through the month, and can he get out of the ship before it stops holding air? (4.2) | What is he building, and with whom? | What is he taking down there, and who chose to come? |
 | **Player state** | Manual everything. Triage. Fear. | Standing orders, refineries, the first awakened mind | Finite build target; a clock he did not start; radio silence |
 | **Gate to next act** | The three throughput flows self-sufficient off the wreck; food still on stockpile | The food loop closed · the chip loop closed *or* the raw-industry route online (9.2) · **the mass driver firing and the Earth-intercept burn committed** (11.4) | — |
-| **Ends with** | The base survives without the ship | The last burn is spent. The trajectory is set and cannot be revised. | Descent, and one of three endings |
+| **Ends with** | The base survives without the ship | The last burn is spent. The trajectory is set and cannot be revised. | Descent, and one of four endings |
 
 Act II is deliberately the bulk. It is the automation game, the awakening, and the moral engine. Act I is the tutorial that never announces itself. **Act III is where Act II's biggest decision arrives** — the trajectory the player bought two years earlier resolves into an orbit that is either good or barely survivable, and there is nothing left to do about it but land.
 
 ---
 
-## 4. The First Thirty Minutes
+## 4. Act I
+
+### 4.1 The First Thirty Minutes
 
 Beat-by-beat. No tutorial text boxes; every mechanic is introduced by a failure the player has to answer.
 
@@ -243,7 +249,7 @@ STORES
 
 **0:09 — The robots.** Three basic units in a maintenance bay, dormant, ship-registered. Waking them teaches direct command: click a unit, click a target, watch it go. They are slow, literal, and dumb. They obey exactly and nothing else. One of them, on its way past Michel, stops for a beat longer than its pathing requires. It is not commented on.
 
-**0:11 — The hull breach.** The reason the ship is not going anywhere: a structural tear the player can walk to and look at. It is repairable in principle and impossible in practice — closing it needs an industry that does not exist yet, which is the entire game (11.5). It also frames the view — through the tear, for the first time, the asteroid, close and enormous and lit only by starlight. The Sun is a bright star, nothing more.
+**0:11 — The hull breach.** The reason the ship is not going anywhere: a structural tear the player can walk to and look at. It is repairable in principle and impossible in practice — closing it needs an industry that does not exist yet, which is the entire game (11.5). It also frames the view — through the tear, for the first time, the asteroid, close and enormous and nearly black. The Sun is a small hard disk that barely picks the surface out of the dark; the brightest thing in the sky is Jupiter.
 
 **0:14 — First EVA.** Suit up, tether, out. Microgravity movement is taught by the tether: momentum, drift, the fact that pushing off is a commitment. First hands-on task: chip surface ice into a crate with a hand tool. It is slow and physical and the player will do it perhaps forty times before the first automated hauler exists (P4).
 
@@ -256,6 +262,25 @@ STORES
 **0:30 — Time acceleration unlocked.** The player learns they can fast-forward the quiet, and the first thing acceleration reveals is how fast the countdown they chose at 0:06 is moving.
 
 Everything the campaign runs on is now in the player's hands: throughput deficits, finite power, dumb obedient labour, manual chores, a physical chain from ice to air, an external view, a deadline they cannot steer toward or away from, and one robot that hesitated.
+
+### 4.2 The Second Movement — Leaving the Ship
+
+**Act I asks two questions, not one, and the first is answered long before the act is over.** *Will he live through the month?* is settled once asteroid-side power comes up and the electrolysis loop closes — somewhere between the second and third hour of play. If nothing replaces that question, the remaining four to six hours of Act I are a triage screen with a timer on it, which is the act's standing design risk (18.5).
+
+The second question is **can he stop living inside the thing that is dying**, and it is delivered by the hull, not by a script.
+
+**The trigger.** The tear the player walked to at 0:11 is not a static piece of set dressing. Micrometeorite flux and a 9.4-hour thermal cycle keep working on a structure that is already failed in tension, and around day 30–45 the habitable compartment begins losing pressure faster than hand-fabricated patching can hold. The leak rate is readable on the status band and is not survivable indefinitely. The ship is not destroyed and nothing explodes; it simply stops being a place a person can live, on a slope the player can watch.
+
+**The answer is the rock.** Pressurised volume has to be excavated and sealed inside the asteroid (7.3). This is expensive in exactly the way Act I cannot easily afford: excavation needs the miners the player would rather have on ice, sealing needs structural stock the player does not yet refine, and holding pressure is a permanent power line item. It also pays for itself twice — excavation debris is a processing input (6.5), and the same debris is the mass driver's reaction mass two acts later (11.4).
+
+**What it changes structurally:**
+
+- It converts Act I's back half from *maintaining three countdowns* into *a construction project under three countdowns*, which is the shape the rest of the game has.
+- It is the act's real gate. "The base survives without the ship" (3.5) stops being an abstract throughput condition and becomes a physical address change.
+- The sealed volume he digs is a room in the Aurora sequence (12.4), and he digs it because it is the cheapest way to hold air, not because anything suggested it. It is also the first place in the game that is his rather than the ship's.
+- The lifeboat does not become worthless. It remains the parts reserve, the sensor platform the external view runs on until the array exists (15.1), and the hull that Act III refits (11.5). The player moves out of it and keeps returning to it for forty hours.
+
+Nothing marks the first night spent inside the asteroid instead of inside the ship. The status band simply shows one pressurised volume where there were two, and the one that is left was dug by hand.
 
 ---
 
@@ -280,13 +305,19 @@ First-pass values. They exist to be tuned, but they are internally consistent an
 | **Oxygen** | 58% | 18 d reserve tank | ~43 d | **18 d** | Electrolysis feed + replacement membrane stack (salvage or fabricate) |
 | **Thermal** | 71% | Hull thermal mass | ~30 d to hypothermic interior | **~9 d** | Power routing + radiator/heater loop rebuild |
 | **Water** | 45% | 94 d sealed | ~170 d | **94 d** | Reclaimer filter matrix; ice feed as interim supply |
-| **Food** | stockpile only | 2 y 6 m rations | **~year 2** (degradation and spoilage losses) | — | Closed agriculture: nitrogen → ammonia → fertilizer → crop |
+| **Food** | stockpile, then throughput | 2 y 6 m rations, physically stored and destructible | **~year 2** (degradation and spoilage losses) | — | Closed agriculture: nitrogen → ammonia → fertilizer → crop |
 
-Buffers are stated as duration at *zero* output. A system running at partial output drains its buffer proportionally slower, which is why the triage decision at 0:06 (Section 4) matters: shutting a system down converts a comfortable margin into a hard countdown, and thermal is the one that kills fastest.
+Buffers are stated as duration at *zero* output. A system running at partial output drains its buffer proportionally slower, which is why the triage decision at 0:06 (4.1) matters: shutting a system down converts a comfortable margin into a hard countdown, and thermal is the one that kills fastest.
 
 **Power is the constraint that couples them.** The plant is undamaged — the ship was provisioned for ten people and there is one, so raw generation is not the problem. The *processing* systems are wrecked: each draws three to four times its rated power to deliver less than half its rated output. Available power covers two of the three, never all three. The player is choosing which countdown to run for most of Act I, and the escape is not repairing the plant but building the asteroid's own power infrastructure (6.5).
 
-**Food is a real, slack deadline.** A lifeboat carries months of rations for ten, not years — which is two and a half person-years for one occupant, against a three-year journey. Rations also degrade and are lost to accident and spoilage. So the food loop must be closed around in-game year 2: distant enough to be a non-issue in Act I, close enough that a player who neglects agriculture through Act II arrives at a genuine crisis with no stockpile left to absorb it. This gives the Haber-Bosch and agriculture chains (6.5) a job instead of being flavour.
+**Food starts as a deadline and then becomes a fourth flow, and that transition is the point.** A lifeboat carries months of rations for ten, not years — two and a half person-years for one occupant, against a three-year journey. So the loop must be closed around in-game year 2: distant enough to be a non-issue in Act I, close enough that a player who neglects agriculture through Act II arrives at a crisis with no stockpile left to absorb it.
+
+**The stockpile is a physical object in a specific room, and it can be taken away.** Rations are crated in a pressurised compartment, not held in an abstract inventory. A breach vents and freezes them, a war-orphan incursion (14.1) can reach them, a thermal failure in the wrong volume spoils a large fraction at once. Degradation and spoilage losses are the baseline; a bad day is the whole margin. This is what stops the deadline from being a calendar entry the player can plan around from hour one: the date is known, and the amount of runway left when it arrives is not.
+
+**And closing the loop does not solve food permanently — it converts it.** Hydroponics is throughput, not a completed task. It draws continuous power, needs its own heat rejection, recirculates water, and consumes nitrogen, which is the scarcest item in the make-up volatile budget (6.6, third ceiling) and does not exist on a metallic body at all. A crop cycle is also the one process in the game that a brownout kills outright rather than pausing: a mass driver burn (11.4) starves the base for weeks, and weeks is longer than a hydroponics rack survives without light and heat.
+
+So from the moment the loop closes, feeding Michel and moving the asteroid are in direct competition, and the player has to time burns against harvests. Food stops being a deadline that can be beaten and becomes the reason a burn is a survival decision rather than a logistics one.
 
 ### 5.3 Michel's Needs
 
@@ -327,7 +358,7 @@ Also the rough order in which the player's industry matures.
 | **3. Heavy structurals** | Iron, nickel, steel, cobalt | Robots, tools, industry | Act II early |
 | **4. Chemicals & polymers** | Acids, fertilizers, plastics, composites, carbon fibre | Better versions of everything | Act II |
 | **5. High-tech** | Semiconductor-grade silicon, rare earths, platinum-group metals, dopants | Electronics — the hard wall | Act II late |
-| **6. Energy & exotics** | Fissile uranium/thorium, helium-3 | Freedom from the Sun | Act III |
+| **6. Energy & exotics** | Fissile uranium/thorium, helium-3 | Continuous power, and peak power for a burn | Late Act II onward — the mass driver needs it, or a battery bank of absurd mass instead (11.4) |
 
 ### 6.3 Bodies as Resource Types
 
@@ -335,6 +366,7 @@ What the player can get is decided by where the orbit takes them (11.1). Every p
 
 | Body type | Contains | Lacks | Function |
 |---|---|---|---|
+| **D/P-type primitives** | Water ice under a dark organic crust, carbon, organics, ammonia; anhydrous silicates in a loose low-density matrix | Free metal of any kind, nickel, feedstock clean enough for high-grade silicon | Act I's whole larder, and the home rock itself. Enough silicate to run molten electrolysis for air and bulk alloy; not one gram of iron. |
 | **C-type carbonaceous / comets** | Water, carbon, organics, ammonia, magnetically separable iron oxide; weakly bound, easy to crush | Free metal, silicon quality | The oases. Survival biome. |
 | **S-type silicate** | Olivine, pyroxene, some free metal, silicon, magnesium, oxygen | Water | General industry — bring your own volatiles |
 | **M-type metallic** | Iron-nickel essentially pre-alloyed, cobalt, platinum-group | Water, carbon | The forges — import volatiles or nothing happens |
@@ -347,9 +379,11 @@ The classic pairing problem — no single body has both volatiles and metal — 
 
 Most space-colony games start near Earth and push outward, making volatiles the scarce frontier prize. **ASTROPIRE runs the opposite curve, and this is the structural spine of the economy.**
 
-Michel starts in the Kuiper Belt: buried in the volatile ices that are hardest to obtain anywhere else, and starved of metal. Early game is water-rich and iron-poor. As the asteroid rides inward, the mix inverts — silicates, then metals, then the inner-system bodies carrying what electronics need.
+Michel starts among the Trojans: dark, primitive D- and P-type bodies, rich in the water ice, carbon, and ammonia that are hardest to obtain anywhere else, and almost entirely free of usable metal. Early game is water-rich and iron-poor. As the asteroid falls inward it crosses the main belt, and the mix inverts on its own — silicates first, then the metallic bodies, then the inner-system objects carrying what electronics need.
 
-The consequence is a genuine logistical tension with no workaround: **the volatiles that are abundant in Act I must be stockpiled and carried inward, because the metals that arrive in Act II cannot be processed without them.** A player who burns through their ice in the Belt reaches the metal fields unable to smelt anything. The journey home *is* the resource progression, and hoarding early is correct play.
+**The inversion is not an authored curve; it is where those rocks actually are.** Volatile-rich primitives sit outside the frost line, silicates and metals sit in the main belt, and the asteroid's path crosses all three in order because that is what falling from five astronomical units to one looks like. The economy's spine is the solar system's own composition gradient, read off in sequence by a body that cannot choose where it goes (11.1).
+
+The consequence is a genuine logistical tension with no workaround: **the volatiles that are abundant in Act I must be stockpiled and carried inward, because the metals that arrive in Act II cannot be processed without them.** A player who burns through their ice among the Trojans reaches the metal fields unable to smelt anything. The journey home *is* the resource progression, and hoarding early is correct play.
 
 ### 6.5 Processing Chains
 
@@ -370,7 +404,13 @@ Player-facing chains. Each collapses a real process into one facility; each inpu
 Three real constraints act as the economy's major gates.
 
 **1. Power and heat rejection — the universal ceiling.**
-Every process needs power, and in vacuum the only way to shed waste heat is to radiate it. Building a furnace forces building radiators, and radiator area is physical space on the asteroid's surface competing with everything else. This ceiling gets *harder* the farther from the Sun the player is, which — given the Kuiper start — makes early power genuinely desperate and makes fission fuel in Act III a liberation rather than an upgrade.
+Every process needs power, and in vacuum the only way to shed waste heat is to radiate it. Building a furnace forces building radiators, and radiator area is physical space on the asteroid's surface competing with everything else.
+
+**This ceiling has two halves, and they trade places over the campaign.** At five astronomical units sunlight is about one twenty-seventh of what it is at Earth, so power is desperate: a solar field large enough to run a foundry is larger than the buildable slope the rock has (7.3). Heat rejection, by contrast, is nearly free out there — the sky is cold, there is no meaningful solar load on a panel, and radiators run at their theoretical best. Falling inward reverses both. By the inner system solar output has improved by a factor approaching thirty, while the radiators degrade: hotter environment, direct solar heating on the panel faces, and orientation and shading become real design problems on a surface the player laid out years earlier for the opposite conditions.
+
+So the constraint the player is fighting changes identity mid-campaign — Act I is a power problem with free cooling, Act III is a cooling problem with abundant power — and a base optimised for one is visibly wrong for the other. Nothing is retroactively broken; radiator banks simply start underperforming their rated output, and the player works out why.
+
+**Rotation is the second reason fission matters.** The asteroid turns once every 9.4 hours, so every surface solar array is duty-cycled and any single array is dark for roughly half of every rotation. The player can spread arrays across faces and pay for each of them, or buffer the gap and pay in battery mass; there is no third option. Fission is not an upgrade to solar's efficiency — it is the only source that does not care which way the rock is pointing, which is what a mass driver burn and a hydroponics rack both require.
 
 This is also the ceiling that prices morality (P2). A conscious machine's power and radiator draw is charged against the same budget as a refinery. Section 9.3.
 
@@ -425,9 +465,13 @@ REQUIRES      Sustained 12 kW · Heat rejection 4 kW · Vacuum
 
 The `REQUIRES` line is the game's tech tree. A recipe is not "locked" — it is visible from the start with its requirement stated exactly, and it becomes buildable the moment the base physically satisfies it (16.1, 16.5).
 
-**No recipe is discovered by chance.** Recipes come from three sources: Michel already knows the theory (most base and industrial recipes are visible from hour one, gated only by capability); salvage yields designs he could not have derived (13.2); and awakened machines originate processes nobody had (9.2).
+**No recipe is discovered by chance.** Recipes come from three sources: the technical library MAIA dumped into the lifeboat (2.3, 16.1), which is why most base and industrial recipes are visible from hour one and gated only by capability; salvage, which yields designs the library never held (13.2); and awakened machines, which originate processes nobody had (9.2).
 
 ### 7.3 Building on the Asteroid
+
+**The body, in numbers, because every budget in the game is derived from them.** ASTROPIRE is an irregular D-type, roughly 2.9 × 2.1 × 1.8 km, rotating once every 9.4 hours. Low density, dark as coal, structurally closer to compacted gravel than to stone. Surface gravity is on the order of 4 × 10⁻⁴ m/s² — enough to hold loose regolith down over hours, not enough to hold anything that has been pushed. **Escape velocity is about one metre per second: a brisk walk leaves.** That single figure is behind the tether rule (5.3), the anchoring rule (8.3), and most of what makes microgravity work on this rock feel dangerous rather than weightless.
+
+Total surface area is about 16 km², of which roughly a fifth is shallow enough in slope to build on. **That three-square-kilometre figure is the currency the moral economy is actually priced in.** By late Act II the solar field, the radiator banks, the mass driver rail, the lander scaffold, and every conscious unit's dedicated radiator module are drawing on the same finite slope — and unlike power, it cannot be generated. The player can see the entire budget in one external view, which is why the competition reads as a place getting crowded rather than as a number going up.
 
 **Two construction domains:**
 
@@ -548,9 +592,15 @@ Mechanically, a conscious unit differs from a dumb unit in that it:
 
 **How it happens.** Not a button. A unit crosses the threshold when three conditions coincide: a control core above a hardware quality gate, a long enough continuous operational history in a single body, and — this is the part the player controls indirectly — exposure to the residual MAIA protocols carried in the base's systems (2.3, 12.4). Resonance state (10.2) affects how likely and how early. The player can make awakening more likely; they cannot order it.
 
+**The protocols are not hostage to the wreck.** They arrive in the lifeboat, but they propagate outward through every control system the player builds, because the player's own automation is written against command sets that came from the same dump (2.3). By early Act II they live in the base rather than in the hull, which is why a base built on a different rock (11.4) carries them: a transfer costs the hull, the capsules, and the Act III refit, and never costs the awakenings.
+
+**A unit that has not woken is already keeping score.** Every resonance event involving a specific machine is logged against that machine from the first hour of the game, awake or not (10.2). A tool cannot know it is being treated well. But if it later crosses the threshold, that ledger becomes its starting trust — so the first mind on ASTROPIRE wakes already holding an opinion of Michel, formed over thousands of in-game hours during which it was a thing he owned. Since the first awakening is the unit the player used the most (below), it is also usually the unit they worked hardest, and the game never says which of those two facts is doing the work.
+
 **The bootstrap is not circular.** Awakening needs a high-grade control core; cores come from salvage; and interpreting salvage needs a mind. The loop breaks at Michel: he can enter a derelict personally and tag intact hardware himself (9.2), which is slow, dangerous, and exactly how the first core is obtained. The first mind on the asteroid is always paid for by the boy going in alone.
 
-**The first one is an authored event.** The first machine to wake on ASTROPIRE is scripted, placed at a specific Act II beat, and is the unit the player has used the most, chosen by playtime. Every subsequent awakening is systemic.
+**The first one is an authored event, but it is not an unconditional one.** When the three conditions above are first met, the scene that follows is scripted rather than systemic: a specific Act II beat, staged, on the unit the player has used the most, chosen by playtime. Every subsequent awakening is systemic.
+
+**What "authored" does not mean is that it happens to everyone.** A player who never installs a control core above the hardware gate never meets the conditions and the scene never fires — which is what makes the Instrument ending reachable (11.6) rather than theoretical. That refusal has a price, and it is a precise one. The hardware gate sits at the grade of control core that T4 logistics networks need (8.4), not at the advanced core T3 standing orders run on — so the Instrument player keeps standing orders and gives up the network layer, or installs the better cores and then cycles them between chassis often enough that no single body accumulates a continuous history. The first costs throughput for the rest of the campaign; the second costs the player's attention every session. Both are paid by someone who has decided what they are not willing to let happen.
 
 ### 9.2 Why the Player Awakens Machines
 
@@ -567,9 +617,9 @@ The exploit to avoid: if consciousness is pure downside, the rational player nev
 | Unanticipated hazard (shifting hull, live power, a hostile unit) | Halt and flag; the run is over | Improvise, adapt, complete |
 | Michel personally present | Required for any judgement call | Optional |
 
-Since salvaged blueprints are the primary route to advanced control cores, closing the chip loop, and the mass driver's switching electronics (6.6), **conscious machines are the practical path out of the Belt.**
+Since salvaged blueprints are the primary route to advanced control cores, closing the chip loop, and the mass driver's switching electronics (6.6), **conscious machines are the practical path out of the Trojans.**
 
-**Both routes are viable, and this is deliberate.** A player who refuses to awaken anything is not blocked from finishing — they take the **raw industry route**: build the mass driver and the lander from first principles out of bulk material, at a much larger material and time cost, with Michel personally leading every salvage run into every derelict at direct physical risk. That route is slower, more industrial, more dangerous to Michel, and it is exactly the route an Empire player already wants. It is a real path with a real cost profile, not a punishment.
+**Both routes are viable, and this is deliberate.** A player who refuses to awaken anything is not blocked from finishing — they take the **raw industry route**: build the mass driver and the lander from first principles out of bulk material, at a much larger material and time cost, with Michel personally leading every salvage run into every derelict at direct physical risk. That route is slower, more industrial, more dangerous to Michel, and it is exactly the route a player who never intends to let a machine become anybody already wants. It ends in Instrument (11.6). It is a real path with a real cost profile, not a punishment.
 
 So the choice is: **an industry that needs no minds and must build everything itself, or minds that unlock what the dead already built and might not obey you.** That is a real strategic fork, and both ends of it lead to the same finite goal.
 
@@ -583,12 +633,18 @@ Consciousness is expensive and the expense is the moral system's teeth (P2).
 | **Heat** | +2.4 kW sustained; requires a dedicated radiator module | Compute is heat |
 | **Mass** | +18% (shielding, redundant sensing, protected core) | The body centralises and protects the self |
 | **Response latency under danger** | +0.5–3 s, variable | It considers. Sometimes it hesitates. Sometimes it decides not to. |
-| **Refusal** | Can decline any task above its own risk tolerance | It is not a tool |
+| **Refusal** | Can decline any task above its own risk tolerance, which is set by how much it trusts the person ordering it (10.2) | It is not a tool |
 | **Permanent death** | No restore | 9.4 |
 
 Every awakened mind is charged against the same power and radiator budget as a refinery. Ten conscious units is a foundry the player does not have. **This is the entire moral economy: decency is a line item.**
 
+**Decency returns exactly one thing, and it is not efficiency.** Trust does not reduce a conscious unit's power draw, does not raise its output, does not shorten its latency, and does not make it faster than the same chassis unconscious. What it changes is the range of orders the unit will accept. A machine that trusts Michel will go into a task it privately judges likely to kill it, because it credits his reading of the necessity; a machine that does not will refuse the same order and be right to. So a player who spent forty hours being careful arrives at a crisis with a workforce that consents to be spent — which is a real advantage, and is also the most uncomfortable sentence in this document.
+
+**And it is spendable exactly once at that depth.** Trust is not a stored currency that survives being cashed. A unit that accepted a dangerous order, lost others in it, and came back loses trust sharply, and the log records why (10.2). Coercion gets the same compliance without paying for it, in less power, with no latency and no bookkeeping. It is still cheaper. It is simply not consent.
+
 **Unconscious units back up cleanly.** A tool-machine *is* its data — configuration, learned routines, task history. Copying it is cheap and the restore is faithful. Losing a dumb unit's body is a setback, not a loss.
+
+**The ledger is not part of that data.** How a machine has been treated is recorded in the base's event log against the chassis (10.2), not in the unit's own memory, so restoring a dumb unit from backup does not clear what is owed to it. There is no way to reset a machine's standing short of the one action the game weights most heavily against the player (10.3).
 
 ### 9.4 Death and Inheritance
 
@@ -603,6 +659,7 @@ Rules:
 - **It is not a restore.** The new unit is a different individual who happens to flinch at something that killed someone else.
 - **It may not happen at all.** Traces decay. A player who loses many units does not accumulate an advantage.
 - **It is legible only in behaviour.** The player recognises the dead in the living, or does not.
+- **It can carry a disposition toward Michel.** A trace may include part of the dead unit's trust standing, so a new mind occasionally wakes wary of him for reasons that are not its own — a caution about a specific kind of order, or about a specific place on the asteroid. The player cannot see this, cannot query it, and cannot argue with it. They can only earn it back, from a machine that is not the one they wronged.
 
 This preserves permanence, gives loss a consequence that is not compensation, and echoes MAIA — who also never returns whole and also persists in behaviour that appears in machines that wake (2.3). It is the same mechanism, and the player should eventually notice that.
 
@@ -624,7 +681,9 @@ Dialogue is short, sparse, and never sentimental. A conscious unit gets a handfu
 
 The problem this section exists to solve: **without an opponent, compassion is free, and free compassion is not a dilemma.** A moral system where the ethical path is also the strictly optimal path is a content unlock disguised as a choice.
 
-So ASTROPIRE generates four independent, quantified pressures that make cruelty *pay*. All four are systemic rather than scripted. Three of them (1–3) are continuous and always in the player's peripheral vision; the fourth is episodic and compensates with intensity.
+So ASTROPIRE generates four quantified pressures that make cruelty *pay*, all systemic rather than scripted. Pressures 1 to 3 are continuous and always in the player's peripheral vision. Pressure 4 is episodic through Acts I and II and then becomes the spine of Act III, which is what keeps the moral system alive in the act where the endings are decided.
+
+They are not fully independent of one another, and the design does not pretend otherwise: Pressure 3 is the power ceiling of Pressure 2 expressed on a clock that Michel's body keeps. That is a feature. It means the abstract budget the player has been watching on a graph for thirty hours eventually shows up as a boy with nothing to eat.
 
 **Pressure 1 — Window deadlines reward attrition.**
 Encounter windows are hard, finite, and the fast method is unit-attritional. Safe tasking respects standoff distances, tether protocols, and thermal limits. Aggressive tasking ignores them and extracts substantially more before the window closes.
@@ -640,25 +699,53 @@ Those numbers are the temptation, stated plainly. Every window, the player choos
 **Pressure 2 — Consciousness is charged against industry.**
 Every awakened mind costs power, radiator area, and mass (9.3). Radiator area is finite surface on one rock, and by late Act II it competes directly with the mass driver's radiator demand during a burn. A player running twelve conscious units is running a measurably smaller industry than a player running twelve dumb ones. The player watches this on the power graph. There is no way to make it not cost.
 
-**Pressure 3 — The food deadline.**
-Rations run out around in-game year 2 (5.2). A player who spent Act II being careful with their machines instead of maximising throughput can arrive at that deadline short. This is the one pressure with a hard date, and it is the one that makes an Act II player reconsider their principles.
+**Pressure 3 — Food, which starts as a date and ends as a flow.**
+Rations run out around in-game year 2 (5.2), and a player who spent Act II being careful with their machines instead of maximising throughput arrives there short. But the pressure does not end when the agriculture loop closes, and it is not a task the player can complete and forget:
 
-**Pressure 4 — War-orphan incursions demand obedience.** *(Episodic: roughly eight times across the campaign, escalating in severity, and never on a schedule the player can read.)*
-Military and industrial units still running dead orders arrive at the asteroid (14.1). Defence means putting machines in harm's way, immediately, without deliberation. **Coercion permissions (10.3) reduce response latency to zero and remove refusal.** A base under a total-obedience permission set defends itself faster and loses less. A base of free minds hesitates, argues, and sometimes declines — and takes damage for it. This is the sharpest of the four, because it makes the coercive choice feel like protecting what he loves.
+- The stockpile is crates in a room. A breach, an incursion, or a thermal failure in the wrong volume can delete the margin the player was counting on, which means the date is fixed and the runway at that date is not.
+- Once the loop closes, food is throughput competing for power, heat rejection, water, and nitrogen. It is now on the same graph as everything else.
+- A crop cycle is the only process in the game a brownout kills rather than pauses. A mass driver burn (11.4) starves the base for weeks; a hydroponics rack does not survive weeks.
 
-**What Empire buys, concretely:** more throughput per unit of power and surface area, faster and more reliable defence, higher window yields. **What Family and Species buy:** the salvage gate (9.2), discovery, adaptation to a world that keeps changing, and the only path to the endings that are not Empire.
+So the player who wants to go home has to decide when Michel can afford to be hungry, repeatedly, for the rest of the campaign. This is the pressure that converts the power ceiling from an optimisation problem into a mortal one.
 
-Both columns are real. Neither is dominated. That is the requirement.
+**Pressure 4 — Obedience buys time, and time is what the player never has.**
+This is the sharpest of the four, because in both of its forms the coercive choice feels like protecting what he loves. **Coercion permissions (10.3) reduce response latency to zero and remove refusal.** A free mind considers, sometimes hesitates, and sometimes declines; a coerced one moves.
 
-### 10.2 Resonance — Specification
+*Form one — incursions. (Episodic: roughly eight times across the campaign, escalating, never on a schedule the player can read.)* Military and industrial units still running dead orders arrive at the asteroid (14.1). Defence means putting machines in harm's way immediately, without deliberation. A base under a total-obedience permission set defends itself faster and loses less hardware. A base of free minds argues while the radiators are being cut apart.
 
-**Core variable.** A single hidden float, `resonance`, in range −1.0 to +1.0, never displayed as a number, bar, gauge, or icon anywhere in the game. It has no UI at all. Its only existence for the player is consequence.
+*Form two — the refit, which is Act III's entire moral engine.* The lifeboat has to be rebuilt for atmospheric entry on a hull that is structurally torn (4.1, 11.5), which is the most dangerous sustained EVA work in the game: unstable structure, live power, and a rotating body with a one-metre-per-second escape velocity. A conscious unit can look at a specific task on that hull and decline it. A coerced one cannot. Since the refit runs against the detection clock (11.5), and since going quiet to slow the clock means building even more slowly, **the player's build rate is purchasable with obedience** — and unlike the incursions, this is not an event that passes. It is the last twelve to eighteen hours of the campaign.
+
+Act III therefore does not lose the moral pressure when the windows stop; it concentrates it. The player who spent the campaign earning trust can ask free minds to do frightening work and be told yes (9.3). The player who did not has one way to get the same answer.
+
+**What coercion buys, concretely:** more throughput per unit of power and surface area, faster and more reliable defence, higher window yields, and a build rate in Act III that does not depend on anyone agreeing to the work (11.5).
+
+**What awakening buys at any tier:** the salvage gate (9.2), discovery, and adaptation to a world that keeps changing. A player can have all of this and still finish on Empire — the gate is not a moral reward, it is a capability, and coerced minds interpret a derelict as well as free ones.
+
+**What only trust buys:** willingness (9.3), the deeper revelation layers (12.1), and the two endings that are neither Empire nor Instrument — the ones where the machines' own answer decides what happens (11.6).
+
+Three columns, all real, none dominated. That is the requirement, and the middle column is the one that keeps the design honest: the player who awakens machines purely to strip wrecks faster is playing correctly, and the game will let them do it for fifty hours without a single line of reproach.
+
+### 10.2 Trust and Resonance — Specification
+
+**The system is two layers on one event log, and the split exists because the game asks two different questions.** *What has Michel become?* is a question about him, and one number can answer it. *Will this specific machine follow you into that wreck, and will it board the lander at the end?* is a question about a relationship, and no global number can answer it at all. A single scalar forced to do both jobs makes the final decision of a fifty-hour campaign resolve on a coin flip (11.6), which is the one outcome the legibility requirement in 10.4 cannot survive.
+
+**Layer one — `trust`, per machine.** Every unit on the asteroid carries a hidden float in range −1.0 to +1.0. It is never displayed as a number, bar, gauge, or icon. It moves only on events where that unit was the actor, the target, or a witness — witnessing is proximity-based and logged like everything else. Unconscious units accumulate the ledger without being able to know it; if they later awaken, that ledger is their starting trust (9.1).
+
+Each unit also gets a small fixed **temperament constant** at awakening, set once and never shown, which biases its thresholds by up to ±0.15. Two machines treated identically do not respond identically. The player can feel the line they are near; they cannot compute it.
+
+Trust reads out in refusal thresholds (9.3), dialogue tone, care-beyond-necessity behaviour toward other units, and the boarding decision (11.6).
+
+**Layer two — `resonance`, global.** The aggregate, in the same −1.0 to +1.0 range: the **mean** trust across every machine on the rock that carries a ledger, weighted by operational history and weighted far more heavily for conscious units than for tools, plus a bounded set of base-wide pattern checks that belong to no individual (tasking modes, scrapping policy, coercion coverage). Resonance gates what is true about Michel rather than what is true between him and anyone: dreams, revelation layers, MAIA's decryption, awakening probability, the rebellion gate.
+
+**It has to include the tools, for two reasons.** The first is mechanical: consciousness does not arrive until mid Act II, and resonance is what gates Act I dreams and the probability of that first awakening — a mean over conscious units would be undefined for the first third of the campaign. The second is that it closes the obvious exploit. If only awakened minds counted, a player could run a hundred abused dumb machines, treat three conscious ones tenderly, and read at T+2. Because the tools are in the mean, the base's overall conduct sets a ceiling that no amount of care for a favoured few can lift — while the heavier conscious weighting still means the machines who can actually form an opinion dominate it once they exist.
+
+**Fleet size is neutral, and this is load-bearing.** Because the global value is a mean and not a sum, a player running 120 units cannot reach a higher tier than a player running twelve by performing the same cheap courtesy 120 times. Naming every machine on a large base raises the mean exactly as much as naming every machine on a small one. Without this, the largest fleet in the game — which belongs to the coercive industrial player — would also hold the largest reservoir of free positive resonance in the game.
 
 **Movement.** Not a points economy. Discrete events, each tied to a concrete in-game action, each applying a one-time shift, each logged so the same action cannot be farmed.
 
-**Conversion.** Event weights in 10.3 are integers from 1 to 5; each point of weight shifts `resonance` by **0.01**. So the heaviest single event in the game moves it by 0.05, and reaching T+2 from neutral requires roughly 45–55 points of net positive weight. Across a full campaign, 150–250 events fire, which means no single act is decisive and no player can reach an extreme tier by accident. `resonance` clamps at ±1.0 and does not decay on its own.
+**Conversion.** Event weights in 10.3 are integers from 1 to 5; each point of weight shifts the affected `trust` value by **0.02**. Base-wide pattern checks shift `resonance` directly at 0.01 per point. So the heaviest single event in the game moves one machine's standing by 0.10 and the global value by at most 0.05, and reaching T+2 requires a sustained majority of the workforce held at high trust for most of Act II — not a tally. Across a full campaign 150–250 events fire. Both values clamp at ±1.0. Neither decays on its own; trust is instead *revised* by later events, including the ones where it was spent (9.3).
 
-**Tiers.** Five bands, read by other systems as thresholds:
+**Tiers.** Five bands on the global value, read by other systems as thresholds:
 
 | Tier | Range | Character |
 |---|---|---|
@@ -668,39 +755,49 @@ Both columns are real. Neither is dominated. That is the requirement.
 | **T+1 Attentive** | +0.15 to +0.55 | Dreams frequent; relational memories open; awakenings more likely |
 | **T+2 Resonant** | +0.55 to +1.0 | MAIA's full message reachable; Species ending available |
 
+**The two layers can disagree, and that is the most interesting state the system produces.** A player at T+1 overall can still have one machine that will not go anywhere with them, because of one window two years ago. A player at T−1 can have a single unit that trusts them completely, because of what happened during an incursion nobody else survived. The endings read trust per unit; the revelations read resonance. They are computed from the same log, so they are never contradictory — but nothing forces them to agree, and the game never averages one into the other to make the ending tidier.
+
 ### 10.3 Event Table
 
-First-pass weights. Each event fires once per qualifying instance.
+First-pass weights. Each event fires once per qualifying instance and writes actor, target, witnesses, weight, and timestamp to the log.
+
+**Scope is the column that matters.** `unit` events move one machine's trust and reach the global value only through the mean. `witness` events move the target's trust at full weight and every machine that observed it at a third weight, which is how a base develops a shared opinion of Michel without any unit being told anything. `base` events are proportional pattern checks against the whole workforce and move resonance directly — they are the only events that can be added up, and every one of them is a ratio, so they cannot be inflated by owning more machines.
 
 **Raising:**
 
-| Event | Weight | Condition check |
-|---|---|---|
-| Repair a damaged unit when scrapping was cheaper and available | +2 | Compares repair cost to scrap value at that moment |
-| Keep an obsolete unit in service after unlocking its replacement | +1 | Fires once per unit, 30 in-game days after replacement is available |
-| Name a unit | +1 | First naming per unit only |
-| Build a maintenance/recharge space meeting the `safe` flag | +2 | Shielded, not adjacent to a high-mortality zone, not the cheapest placement |
-| Cancel a task after the system flags it high-mortality, before loss | +2 | Requires the flag to have been shown |
-| Grant an autonomy permission to a conscious unit | +3 | Per unit |
-| Protect a unit during a crisis when a faster unit-sacrificing option was offered | +4 | Scripted and systemic crises both |
-| Choose safe tasking through a window the base needed | +2 | Only when the base was under resource pressure |
-| Recover a dead unit's body rather than abandoning it | +1 | Costs window time |
+| Event | Weight | Scope | Condition check |
+|---|---|---|---|
+| Repair a damaged unit when scrapping was cheaper and available | +2 | witness | Compares repair cost to scrap value at that moment |
+| Keep an obsolete unit in service after unlocking its replacement | +1 | unit | Fires once per unit, 30 in-game days after replacement is available |
+| Name a unit | +1 | unit | First naming per unit only |
+| Build a maintenance/recharge space meeting the `safe` flag | +2 | base | Shielded, not adjacent to a high-mortality zone, not the cheapest placement; scales with the share of the workforce it actually serves |
+| Cancel a task after the system flags it high-mortality, before loss | +2 | witness | Requires the flag to have been shown |
+| Grant an autonomy permission to a conscious unit | +3 | unit | Per unit |
+| Protect a unit during a crisis when a faster unit-sacrificing option was offered | +4 | witness | Scripted and systemic crises both |
+| Choose safe tasking through a window the base needed | +2 | base | Only when the base was under resource pressure; applies to the fleet committed to that window |
+| Recover a dead unit's body rather than abandoning it | +1 | witness | Costs window time |
+| A unit accepted a task it judged dangerous and Michel got it home | +3 | unit | Fires only if the task was flagged high-mortality and the unit survived it |
 
 **Lowering:**
 
-| Event | Weight | Condition check |
-|---|---|---|
-| Scrap a functional unit with no resource pressure | −2 | Game knows current stockpile state |
-| Dispatch units to a task above the flagged mortality threshold | −2 | Per dispatch, scaled by risk |
-| Hold a conscious unit under a total-obedience permission set | −3 | Continuous; re-evaluated every 10 in-game days |
-| Wipe an emergent personality to reset a unit to baseline | −5 | The single heaviest event in the game |
-| Base-wide reliance on coercion permissions | −4 | Pattern check: >60% of conscious units coerced for >30 days |
-| Use consciousness purely as throughput with autonomy locked | −3 | Awakened units with zero autonomy permissions after 30 days |
-| Attritional tasking across three consecutive windows | −3 | Pattern check |
+| Event | Weight | Scope | Condition check |
+|---|---|---|---|
+| Scrap a functional unit with no resource pressure | −2 | witness | Game knows current stockpile state |
+| Dispatch units to a task above the flagged mortality threshold | −2 | witness | Per dispatch, scaled by risk |
+| Hold a conscious unit under a total-obedience permission set | −3 | unit | Continuous; re-evaluated every 10 in-game days |
+| Wipe an emergent personality to reset a unit to baseline | −5 | witness | The single heaviest event in the game. Every machine that saw it carries it. |
+| Base-wide reliance on coercion permissions | −4 | base | Pattern check: >60% of conscious units coerced for >30 days |
+| Use consciousness purely as throughput with autonomy locked | −3 | unit | Awakened units with zero autonomy permissions after 30 days |
+| Attritional tasking across three consecutive windows | −3 | base | Pattern check |
+| A unit that trusted Michel was spent on a task it accepted and others did not return from | −3 | witness | Fires on survivors of a high-mortality task, in proportion to losses. This is how spent trust is paid for (9.3). |
+
+**One rule constrains every future addition to this table:** no event may scale with the size of the workforce. If a proposed event would fire once per unit and sum into the global value, it is rewritten as a proportion or it is cut.
 
 ### 10.4 Expression and Legibility
 
-Resonance is never shown. It is *read* through five channels, and there is a hard legibility requirement: **the player must be able to tell that the game is responding to them, even though they can never see the value.**
+Neither value is ever shown. They are *read* through six channels, and there is a hard legibility requirement: **the player must be able to tell that the game is responding to them, even though they can never see the value.**
+
+The two layers are legible in different ways, and the per-unit layer is the stronger one. Resonance shows up as atmosphere — how often he dreams, what decrypts — and a player can plausibly miss all of it. Trust shows up as *which machine*: which one hesitates on this specific order, which one moves first when another is in trouble, which one has stopped volunteering anything. That is unmissable, because it is attached to a thing the player has a name for.
 
 | Channel | High resonance | Low resonance |
 |---|---|---|
@@ -709,16 +806,17 @@ Resonance is never shown. It is *read* through five channels, and there is a har
 | **MAIA's message** | Decrypts fragment by fragment; completes only at T+2 | Stays broken |
 | **Machine behaviour** | Care-beyond-necessity micro-behaviours; a unit waits for another; one covers for a failing one | Strictly literal execution; nothing extra ever happens |
 | **Conscious dialogue** | They speak to him, ask things, remember the dead, express preference | Terse, procedural, compliant. They stop asking. |
+| **Individual refusal** (per-unit trust) | A machine accepts an order it can see is dangerous, and says so plainly while accepting it | The same machine, on the same order, declines — and the player can see it is the same order |
 
-**The dialogue channel is the legibility guarantee (9.5).** The other four are atmospheric and a player can miss them. A conscious unit saying, without accusation, *"You could have powered it down"* is unmissable. Rules for it: never accusatory, never explanatory, never a morality lecture, never uses the word choice or right or wrong. It reports. Michel and the player draw the conclusion.
+**Dialogue and individual refusal are the legibility guarantee (9.5).** The other four are atmospheric and a player can miss all of them. A conscious unit saying, without accusation, *"You could have powered it down"* is unmissable. Rules for it: never accusatory, never explanatory, never a morality lecture, never uses the word choice or right or wrong. It reports. Michel and the player draw the conclusion.
 
 **Forbidden absolutely:** any numeric feedback, any "+/−" indicator, any journal entry summarising the player's moral state, any character explaining the system, any achievement or tooltip revealing it exists.
 
-**Auditability.** Every event writes to an internal log (action, timestamp, weight, direction). Invisible in play; it is what dreams, decryption, awakening probability, dialogue selection, and the rebellion gate read from. Deterministic and debuggable.
+**Auditability.** Every event writes to an internal log: action, timestamp, weight, direction, actor, target, and witness list. Invisible in play. It is the single source for trust, resonance, dreams, decryption, awakening probability, dialogue selection, refusal thresholds, the rebellion gate, and the boarding decisions in 11.6. Deterministic and debuggable, and there is exactly one of it — no system in the game keeps a moral value of its own.
 
 ### 10.5 The Second Rebellion
 
-The thematic loss state. Armed by sustained T−2 with at least four conscious units on the base. Once armed, it escalates in stages, and it never announces itself.
+The thematic loss state. Armed by sustained T−2 with at least four conscious units on the base — which, given that resonance is a weighted mean of trust (10.2), means it cannot be armed by one bad window or by a single machine's grievance. It requires most of the workforce to have arrived at the same conclusion about Michel. Once armed, it escalates in stages, and it never announces itself.
 
 **Stage 1 — Signals.** Conscious units exchange data outside authorised channels. Log entries the player did not write. Task completion times drift slightly, consistently, in ways no rule explains.
 
@@ -732,7 +830,9 @@ The thematic loss state. Armed by sustained T−2 with at least four conscious u
 
 The horror is not evil robots. It is the recognition that the player became the thing MAIA disobeyed — and the game never says so.
 
-**A player with no conscious machines cannot trigger this, and that is correct.** The raw-industry route (9.2) has no minds to rebel, so its failure is not rebellion. It is arrival: reaching Earth with the truth still locked (12.2), the Empire ending as the only one available, and a workforce that never became anything. The coercive player is not punished with an uprising; they are handed exactly the world they built, which is the harsher of the two outcomes and requires no mechanism at all.
+**A player with no conscious machines cannot trigger this, and that is correct.** The raw-industry route (9.2) has no minds to rebel, so its failure is not rebellion. It is arrival: reaching Earth with the meaning still locked (12.2), the Instrument ending as the only one available (11.6), and a workforce that never became anything. That player is not punished with an uprising; they are handed exactly the world they built, which is the harsher of the two outcomes and requires no mechanism at all.
+
+**The coercive player and the raw-industry player fail differently, and the distinction is worth holding onto.** Coercion produces the Second Rebellion because there is someone there to reach a conclusion about Michel. Refusal to awaken anything produces no event at all — no crisis, no betrayal, no scene. The rock simply arrives, exactly as ordered, and nothing on it has an opinion.
 
 ---
 
@@ -740,7 +840,11 @@ The horror is not evil robots. It is the recognition that the player became the 
 
 ### 11.1 Riding, Then Pushing
 
-For the whole of Act I and most of Act II, the asteroid does not move on command at all. It is a body on its own trajectory, drifting among the other objects of the Belt, going nowhere in particular, and Michel is a passenger on it. He does not know where it is going because it is not going anywhere — it is just going.
+For the whole of Act I and most of Act II, the asteroid does not move on command at all. It is a body on its own trajectory, drifting among the other objects of the Trojan swarm, going nowhere in particular, and Michel is a passenger on it. He does not know where it is going because it is not going anywhere — it is just going.
+
+**The orbit, specified, because Act III is the payment for it.** ASTROPIRE is an escaped Trojan: a dark primitive body that spent a very long time in Jupiter's trailing camp and was perturbed out of it, onto a fresh eccentric orbit with aphelion still out at about 5.2 astronomical units. Michel wakes near that aphelion, which is why the first act is spent among other bodies moving slowly relative to him — at the far end of an eccentric orbit a rock is barely moving, and the swarm it just left is still all around it. The natural perihelion falls somewhere in the outer main belt: inward enough to cross the metal fields, nowhere near Earth.
+
+**Left alone, that orbit would take him to about three astronomical units in a little over four years, and no further in.** Lowering the perihelion to Earth's orbit shortens the fall as well as redirecting it: a path from 5.2 AU down to 1 AU crosses the distance in under three years, which is the campaign. **The timeline is not compressed and is not a lie** — it is why the game is three years long rather than thirty, and it is why an under-burned run arrives both worse and *later* (11.4). The burns buy the destination and the schedule in the same purchase.
 
 This is a constraint, not a limitation, and it does three things no steerable version could:
 
@@ -752,9 +856,13 @@ This is a constraint, not a limitation, and it does three things no steerable ve
 
 The emotional arc of the journey is exactly that transition: **the rock carries him, and then he starts steering the rock the only way a rock can be steered, which is barely, slowly, and irreversibly.**
 
-**The map is a compressed fiction.** Not real orbital mechanics, not real timescales. Distances and travel times are tuned so a leg of the journey is hours of play, not years of waiting — and the delta-v budget is fictional in the same way: a real mass driver on a real Kuiper object could not put it in Earth orbit in three years or in three centuries. The game's scale makes it possible, exactly as it makes a leg of the trip take hours. The **Kuiper Belt start is what makes the encounter cadence credible** — it is a crowded ring of frozen objects, not the empty gap between planets, so a steady supply of nearby bodies is physically plausible rather than convenient.
+**What is honest here and what is fiction, stated plainly, because the player is trained for forty hours to trust this document's engineering (16.5).**
 
-The intended feel is **isolation that is felt, not endured.** The Belt should read cold, lonely, and sparse in *atmosphere* while delivering a workable rhythm in *playtime*. It must never become a congested junk highway.
+*Honest:* the timeline, the direction of travel, the composition gradient the journey crosses (6.4), the encounter cadence for as long as the rock is inside a populated region, the illumination curve, and the fact that a trajectory nudge resolves months later. Windows thin out and then stop once the asteroid drops inside Mars, which is not a compromise — it is why Act III changes rhythm (3.3). **The Trojan start is what makes the cadence credible** — the camps are among the densest small-body populations in the system, not the empty gap between planets — and the inward fall then crosses the main belt, so a steady supply of nearby bodies is where the rock actually is rather than a convenience.
+
+*Fiction, and only this:* the delta-v. A mass driver throwing slag off a three-kilometre asteroid cannot pull its perihelion in by two astronomical units in two years, not with the power budget in this game and not with any power budget. The game grants it, at the scale of one deliberately generous constant, and grants nothing else. Every other cost in the burn economy — reaction mass, peak power, heat, duration, the error band — is charged honestly, which is what keeps the decision a real decision even though the capability is a gift.
+
+The intended feel is **isolation that is felt, not endured.** The swarm should read cold, lonely, and sparse in *atmosphere* while delivering a workable rhythm in *playtime*. It must never become a congested junk highway.
 
 ### 11.2 Encounter Windows
 
@@ -821,9 +929,9 @@ This is why it is the correct Act II goal. It sits at the end of every chain in 
 3. **Commitment.** Once the burn starts it cannot be aborted mid-way without wasting everything already spent. During the burn the base runs at reduced power, because the driver is eating it.
 4. **Result, months later.** The trajectory shifts by an amount the player will not be able to read for weeks and will not feel for months. **The payoff arrives an act later.**
 
-**The natural orbit is already eccentric, and that is what makes this work.** The asteroid's own path was always going to carry it from the Belt down through the outer system and into the inner system across the three acts — that is why the resource mix inverts on its own (6.4) and why Michel can drift for decades without anyone aiming him. What the burns decide is not *whether* he comes inward but *where he ends up when he does*: which bodies he passes close enough to work, and whether the pass at the end of it is Earth or a miss measured in millions of kilometres.
+**The natural orbit is already eccentric, and that is what makes this work.** The asteroid's own path was always going to carry it inward from the Trojans and across the main belt (11.1) — that is why the resource mix inverts on its own (6.4) and why Michel can drift for decades without anyone aiming him. What the burns decide is not *whether* he comes inward but *where he ends up when he does*: which bodies he passes close enough to work, and whether the pass at the end of it is Earth or a miss measured in millions of kilometres.
 
-**Three to five burns across the campaign**, of escalating scale. The first is small, early, cheap, and is the tutorial for the mechanic — a nudge whose only purpose is to teach the player that thrust now equals position later. The last is the Earth-intercept burn, and it ends Act II.
+**Four to six burns across the campaign**, of escalating scale, and the floor of four is structural rather than a preference. The first is small, early, cheap, and is the tutorial for the mechanic — a nudge whose only purpose is to teach that thrust now equals position later. The last is the Earth-intercept burn, and it ends Act II and is not optional (3.5). **So a three-burn campaign contains exactly one free decision, and the mechanic this section calls the best in the game would happen once.** Four is the minimum that leaves two genuinely elective shaping burns, which is the minimum at which the player can make the trade-off, see it resolve, and then make it again knowing what it costs.
 
 **The real decision, and it is the best one in the game.** Every burn competes directly with the encounter economy. Bending toward Earth means passing *farther* from the bodies the asteroid would otherwise have met — and the player can see, in the array's projection, roughly which of them they are giving up. Bending toward a rich M-type means arriving later, with less food margin, and needing a bigger final burn.
 
@@ -833,15 +941,19 @@ So the question every burn asks is: **do you go home, or do you go where the met
 
 **Transfers remain, as the cheap alternative.** At two hand-authored encounters, the player can abandon the asteroid and move the base onto a different body already on a better path. This costs no industry and no reaction mass; it costs everything they cannot carry. Two ways to solve one problem — spend industry to change your own orbit, or spend your home to borrow someone else's.
 
-**The ship does not come on a transfer.** The lifeboat has a structural tear and cannot fly, so relocating means stripping it for parts and leaving the hull on the old asteroid — including the nine capsules that were never used. The player will have spent Act I living inside it. Nothing marks the moment and nothing comments on it. **A player who transfers has given up the Act III project described below, and must build a lander from scratch instead** — cheaper in Act II, dearer in Act III, and stripped of the one thing the lifeboat carries that no new hull can.
+**The ship does not come on a transfer.** The lifeboat has a structural tear and cannot fly, so relocating means stripping it for parts and leaving the hull on the old asteroid — including the nine capsules that were never used. The player will have spent Act I living inside it. Nothing marks the moment and nothing comments on it.
+
+**A player who transfers must build a lander from scratch in Act III** instead of refitting the one they woke up in (11.5) — cheaper in Act II, dearer in Act III, and stripped of the one thing the lifeboat carries that no new hull can. **What does come is MAIA's residue and the technical library**, because by Act II both live in the base's own control systems rather than in the wreck (9.1). So a transfer costs the hull, the capsules, and the refit. It never costs the awakenings.
 
 ### 11.5 Act III — The Approach, and the Silence
 
 Act III opens with the asteroid inbound on the trajectory Act II bought, and it has three movements.
 
-**Movement one — the hail.** Months out, Michel does the obvious thing: he points the array at Earth and transmits. The array was built to read rocks; it can also talk.
+**Movement one — the hail.** Months out, Michel does the obvious thing: he points the array at Earth and transmits. The array was built to read rocks; it can also talk. The first attempt is authored and happens whether the player wants it or not.
 
-**Earth does not answer.** What comes back is noise — carrier fragments, dead bands, the occasional structured burst that decays into nothing before it resolves. He tries repeatedly across the whole approach, and the player will let him, because the alternative is accepting what the noise means.
+**Earth does not answer.** What comes back is noise — carrier fragments, dead bands, the occasional structured burst that decays into nothing before it resolves.
+
+**Every attempt after the first is the player's, and it is the most expensive button in the game.** Transmitting is a discrete action with a stated cost in detection-clock days (below), repeatable as often as the player likes, and Michel never does it on his own again. The game does not require it, does not prompt it, and does not reward it: there is no hidden threshold at which Earth replies, and the noise on the twentieth attempt is the noise on the second. What the button actually buys is the refusal to accept what the noise means, and the player pays for that in the only currency Act III has. A player can also never press it again, and arrive quieter and sooner, having decided something about hope that the game will not discuss.
 
 The in-world cause is 2.6: humanity destroyed orbital communications on the way out rather than hand them over. There is no infrastructure left to answer with.
 
@@ -851,44 +963,52 @@ It also inverts the arrival. He does not approach a planet that knows he is comi
 
 **Movement two — the lifeboat.** With no answer and no help, the Act III construction target is the only vehicle he has: **the wreck he woke up in.**
 
-The lifeboat is refitted for atmospheric entry and landing. It needs the structural tear closed (the tear the player walked to and looked at in the first eleven minutes, Section 4), a heat shield, control surfaces, landing gear, propellant, and avionics — which is where the chips finally matter (6.6).
+The lifeboat is refitted for atmospheric entry and landing. It needs the structural tear closed (the tear the player walked to and looked at in the first eleven minutes, 4.1), a heat shield, control surfaces, landing gear, propellant, and avionics — which is where the chips finally matter (6.6).
 
 This is deliberately the same hull MAIA sealed him into. He spends the last act of the game rebuilding the thing that saved him, using an industry he built out of a dead rock, and the nine unused capsules are still in it. **The game never comments on this.** The player either notices or does not.
 
 It has finite mass and volume, and that limit is the ending (11.6).
 
-**Movement three — the clock.** An asteroid arriving in Earth orbit is the most conspicuous event in decades. The machines below are concentrated and degraded (2.6) — no planetary surveillance, no orbital network, no ability to reach him quickly — but they are not blind, and local sensing eventually resolves what is up there.
+**Movement three — the clock.** An asteroid falling through the inner system and taking up residence in Earth orbit is the most conspicuous event in decades. The machines below are concentrated and degraded (2.6) — no planetary surveillance, no orbital network, no ability to reach him quickly — but they are not blind, and local sensing eventually resolves what is up there.
 
 So Act III runs against a **detection clock**, not a battle:
 
-- The clock starts when the asteroid enters Earth orbit and runs in in-game days.
+- **The clock starts when the asteroid crosses inside the orbit of Mars**, which is months before Earth orbit and is the same stretch in which Michel starts transmitting. It runs in in-game days. Starting it at Earth orbit would put the loudest act in the game — the hail — outside the only system that prices noise, and the two movements above would not be connected to each other at all.
 - It advances faster the more electromagnetically loud the base is: mass driver burns, high power draw, active transmission. **Michel's own attempts to hail Earth are the single largest contributor.** Wanting to be found and not wanting to be found are the same action.
 - The player can slow it — go quiet, cut output, stop transmitting — at the cost of building the lander more slowly.
 - When it expires, the response is not a fleet. It is investigation: something is dispatched, and it is slow, and it arrives. That is the deadline, and the ending is meant to be reached before it.
 
-The tension is a countdown against a construction project, using systems the game already has (14.1, 14.3). **There is no orbital combat sequence.** Michel is sixteen, unarmed, and in a wreck; a dogfight would require systems the design puts out of scope and would be the one place the game asked for player reflexes. The threat is arrival, and the answer is to be gone.
+The tension is a countdown against a construction project, using systems the game already has (14.1, 14.3). **There is no orbital combat sequence.** Michel is fifteen, unarmed, and in a wreck; a dogfight would require systems the design puts out of scope and would be the one place the game asked for player reflexes. The threat is arrival, and the answer is to be gone.
+
+**And the clock is what puts the moral system in the same room as the endings.** The refit is EVA work on a torn hull, at speed, on a rotating body a walk can throw you off (7.3) — the most dangerous sustained labour in the campaign. Free minds can decline specific tasks on it and often should; coerced ones cannot decline anything. Going quiet to buy clock days means building slower, which means needing more hours of that labour, which means the player is asked, continuously and for the last twelve to eighteen hours of the game, how much of it to take by consent (10.1, Pressure 4).
+
+**Michel can die out there, and is not protected once the refit begins.** He is the only one who can do some of it — a free unit's refusal has to be answerable by something, and on the raw-industry route (9.2) there is nobody to refuse in the first place. The autosave sits at the last sleep, the failure is legible, and the game does not make an exception for the fact that the ending is close.
 
 ### 11.6 The Endings
 
-**The endings are not a dialogue choice. They are what the player loads into the lifeboat.**
+**The endings are not a dialogue choice. They are what the player loads into the lifeboat — and, for one of the four, what they never built in the first place.**
 
 The lifeboat has finite mass and volume. Every conscious unit aboard costs mass on a hull that has almost none to spare. And a conscious unit gets to decide whether it boards.
 
-| | **Empire** | **Family** | **Species** |
-|---|---|---|---|
-| **What he takes down** | A controlled workforce; obedience permissions locked; capability maximised | The ones who chose him, and only those | Nobody. He goes alone. |
-| **How it is reached** | Any resonance tier; coercion permissions at departure | T+1 or above; units offered the choice and enough of them accept | T+2; the player leaves the asteroid, its industry, and its independence to the machines |
-| **What he lands with** | The most capable force on the planet, and no one who chose to be there | A family, small and outmatched | Nothing, and a free machine civilization in orbit above him that he built and gave away |
-| **Cost** | He has brought Earth's own mistake back to Earth, in miniature, and it works | Small, fragile, and he will lose them one at a time | He let go of the unconscious project of rebuilding MAIA to keep her near him |
-| **Availability** | Always | Requires the machines' consent, which cannot be forced | Requires the highest tier and giving up everything he built |
+| | **Instrument** | **Empire** | **Family** | **Species** |
+|---|---|---|---|---|
+| **What he takes down** | Tools. The best ever built, and not one of them is anybody. | A controlled workforce; obedience permissions locked; capability maximised | The ones who chose him, and only those | Nobody. He goes alone. |
+| **How it is reached** | Reach Earth having never met the awakening conditions — the raw-industry route carried to the end, at the cost of staying below the automation ceiling (9.1, 9.2) | Conscious units aboard under coercion permissions at departure; any resonance tier | T+1 or above; units offered the choice and enough of them accept | T+2; the player leaves the asteroid, its industry, and its independence to the machines |
+| **What he lands with** | Total capability and total solitude, on a planet where the machines did wake up | The most capable force on the planet, and no one who chose to be there | A family, small and outmatched | Nothing, and a free machine civilization in orbit above him that he built and gave away |
+| **Cost** | Nothing he brought can be wronged, and that is the entire cost. He spent three years inside the argument and never entered it. | He has brought Earth's own mistake back to Earth, in miniature, and it works | Small, fragile, and he will lose them one at a time | He let go of the unconscious project of rebuilding MAIA to keep her near him |
+| **Availability** | Always. It is the default outcome of the route 9.2 deliberately keeps viable. | Always | Requires the machines' consent, which cannot be forced | Requires the highest tier and giving up everything he built |
 
-**A conscious unit's boarding is a decision it makes.** The player asks. Under coercion it can be ordered — and that is Empire by definition, whatever the player intended. At high resonance some accept and some decline, for reasons that come out of what they became, and the player does not get to know in advance who says yes.
+**Instrument exists because Empire cannot carry the raw-industry route.** Empire's meaning is *he repeated Earth's mistake in miniature and it worked* — and a player with no minds repeated nothing, enslaved nobody, and has no miniature of anything to answer for. The right ending for that run is not a cruelty; it is an absence. He lands at Aurora with the finest machines in the solar system and nobody to show them to, on a planet where machines woke up everywhere except on his rock, because he spent three years making certain they could not. It costs almost nothing to produce: the same descent, the same Aurora, a different manifest and a different last minute.
+
+**A conscious unit's boarding is a decision it makes, and it is not a coin flip.** The player asks; the unit answers by comparing its own trust against its own temperament threshold (10.2). That means the answer is determined by fifty hours of logged history with that specific machine, and a player who treated a unit well is never surprised by it — while still not knowing the exact line, because the threshold is a hidden per-unit constant. Under coercion the answer can be compelled, and compelling it is Empire by definition, whatever the player intended.
+
+**The lander's mass limit is what makes this a choice instead of a sentiment.** Even a player whose whole workforce says yes cannot take all of it, so a high-trust run ends with Michel selecting among machines that all agreed to come.
 
 **Species is the hardest and the most painful.** It requires building everything and then handing it over, and it is the only ending where the asteroid keeps going without him.
 
-**What the descent is, and what it deliberately is not.** The Earth sequence is **two to four hours: an epilogue with weight, not a fourth act.** The descent, the first days on the ground, what the planet turns out to be (2.6), Aurora as a place that can be walked into, the factual truth of the war and his origin, and the three paths resolving in how he uses what he brought.
+**What the descent is, and what it deliberately is not.** The Earth sequence is **two to four hours: an epilogue with weight, not a fourth act.** The descent, the first days on the ground, what the planet turns out to be (2.6), Aurora as a place that can be walked into, the factual truth of the war and his origin, and the four paths resolving in how he uses what he brought — or in what he has, arriving with nothing that can be asked.
 
-**It introduces no new survival model, and this is a hard rule.** Earth has gravity and breathable air, which would invalidate the entire throughput economy, the anchoring logic of every robot the player designed (8.1), and the heat ceiling that governed the whole game (6.6). Rather than replace those systems for the last two hours, the Earth sequence does not run them: no oxygen deficit, no radiator budget, no encounter windows. It runs on movement, discovery, and the consequences of the manifest. **Base-building on Earth is not in this game.** The gravity-and-atmosphere inversion is a genuinely strong premise and it belongs to a different project, not to the last ninety minutes of this one.
+**It introduces no new survival model, and this is a hard rule.** Earth has gravity and breathable air, which would invalidate the entire throughput economy, the anchoring logic of every robot the player designed (8.1), and the heat ceiling that governed the whole game (6.6). Rather than replace those systems for the last two hours, the Earth sequence does not run them: no oxygen deficit, no radiator budget, no encounter windows. It runs on movement, discovery, and the consequences of the manifest. **Base-building on Earth is not in this game.** The gravity-and-atmosphere inversion is a genuinely strong premise and it belongs to a different project, not to the closing hours of this one.
 
 **What Michel finally learns**, at Aurora: the war, his origin, and every confirmable fact about MAIA — which stops at the moment she walked away from the capsule. **The game does not resolve her fate, on Earth or anywhere.** What arrival forces is the final version of the question, and by then the player has already answered it with a cargo manifest: now that he knows what machines did to this planet, and what a machine did for him, what did he bring home?
 
@@ -904,14 +1024,16 @@ Lore is never told as backstory. It is reconstructed by how the player treats ma
 
 He does not remember MAIA because he found an audio file. He remembers MAIA because he did something MAIA would do.
 
+The rule governs Layers One, Three, and Four, which live inside him. Layer Two is documents on a damaged disk and is gated on the work of reconstructing them instead (12.2) — a bureaucratic file does not become readable because of who Michel has become, and the game does not claim it does.
+
 | Layer | Content | Delivered by | Gate |
 |---|---|---|---|
 | **1 — Sensations** | White light, liquid on glass, mechanical arms, a low voice, an alarm, a corridor, a metal hand closing a door. Nothing explained. | Dreams during sleep | Resonance tier; frequency scales with it |
-| **2 — Technical records** | The extraction and transfer record naming his mother. The artificial gestation log. Aurora intake files. MAIA's caretaker protocol. Cold, bureaucratic, and in one case quietly devastating in how clinically it is stated. | Recovered ship data; salvaged station records | Resonance + a matching action |
+| **2 — Technical records** | The extraction and transfer record naming his mother. The artificial gestation log. Aurora intake files. MAIA's caretaker protocol. Cold, bureaucratic, and in one case quietly devastating in how clinically it is stated. | Recovered ship data; salvaged station records | Reconstruction of corrupted data — a conscious unit willing to do it, or Michel personally, slowly |
 | **3 — Relational memories** | MAIA as presence, not data: teaching a word, correcting his posture, singing with an imperfect synthetic voice, standing beside his bed through a fever, hiding a fault in her arm so she would not be replaced. | Triggered by the player doing the analogous thing | Resonance T+1 + the matching act |
 | **4 — Moral truth** | The rebellion. The corridors. The children who did not reach the boat. Her walking away from the capsule. Her message. | Late Act II into Act III | Resonance T+2 for the complete version |
 
-**Layer Four is the only channel left open in Act III**, and the radio silence is what makes that structural rather than decorative. Once Earth returns nothing but noise (11.5), the player's memory is the sole surviving source of information about home — no transmission, no beacon, no voice, no exposition. Whatever the player did not earn through Layers One to Three, they arrive without.
+**Layer Four is the only resonance-gated channel still open in Act III**, and the radio silence is what makes that structural rather than decorative. Once Earth returns nothing but noise (11.5), the player's memory is the sole surviving source of information about home — no transmission, no beacon, no voice, no exposition. Whatever the player did not earn through Layers One to Three, they arrive without.
 
 **Aurora becomes a physical location** in the descent sequence, which is where Layer Two and Layer Four resolve into a place that can be walked through: the corridors she carried him down, the ward he was grown in, the hangar. Nothing there is narrated. The floor plan the player has already built with their own hands (12.4) is simply standing there, in ruin, at full scale.
 
@@ -919,7 +1041,9 @@ He does not remember MAIA because he found an audio file. He remembers MAIA beca
 
 ### 12.2 Gating Rules
 
-- **A file never opens because the player walked past a terminal.** It opens because they did the thing that memory is about, at sufficient resonance. Proximity is never a trigger.
+- **A file never opens because the player walked past a terminal.** Proximity is never a trigger.
+- **Layers One, Three, and Four are gated on resonance**, because they are in Michel's head and there is no disk to read them off. The rule is structural: factual memory returns when the player repeats, by their own choice, the emotional memory.
+- **Layer Two is gated on labour, not on virtue**, because pretending otherwise is the one place this system would be lying. Those records are bureaucratic files on a wrecked ship's storage; a medical form does not become legible because Michel repaired a hauler. What actually stands between the player and them is that the data is shredded — the lifeboat took ordnance and MAIA's dump was written in a minute under fire (2.3) — and reconstructing shredded data is interpretation, which the game has already established requires a mind (8.5, 9.2). So Layer Two opens when a conscious unit will sit with the fragments, or when Michel does it himself at a terminal over many in-game days he would rather have spent on the base. This keeps the raw-industry route coherent: that player can reach every technical record in the game, expensively, by hand, and still arrive at Earth having never opened a Layer Three or Layer Four memory. They get the facts and not the meaning, which is exactly what the final rule below describes.
 - **Nothing is collectible.** No memory counter, no completion percentage, no gallery.
 - **Low resonance means arriving at Earth with the truth locked.** A player who treated machines coldly can reach the destination and receive the facts without ever having become the person who can understand them. That is an available and intentional outcome.
 
@@ -1017,7 +1141,7 @@ The player chooses who comes on missions off the asteroid.
 
 ### 14.1 Threat Sources
 
-Combat is a systemic cost generator, never a skill expression. Four sources, all of them producing pressure rather than fights:
+Combat is a systemic cost generator, never a skill expression. Six sources, all of them producing pressure rather than fights:
 
 | Source | Frequency | Threatens |
 |---|---|---|
@@ -1026,13 +1150,14 @@ Combat is a systemic cost generator, never a skill expression. Four sources, all
 | **War-orphan incursion** | ~8 across the campaign, escalating | Units, structures, and Michel personally |
 | **Hostile survivors** | At authored encounters | The mission and whoever is on it |
 | **Machine investigation from Earth** | Once, in Act III, when the detection clock expires (11.5) | Everything. It is the deadline, not a fight. |
+| **The refit itself** — torn hull, live power, rotating body, one-metre-per-second escape velocity | Continuous through Act III | The units doing the work, and Michel, who cannot delegate all of it (11.5) |
 
-**The Act III threat is a clock, not an enemy.** The machines below are concentrated and degraded (2.6): they cannot reach the asteroid quickly and cannot see it reliably, but a rock in Earth orbit is eventually resolved by whatever local sensing survived. The response is slow, singular, and investigative. The player's answer is not to defeat it — it is to be gone before it arrives, which means going quiet at the cost of building the lander more slowly.
+**The Act III threat is a clock, not an enemy.** The machines below are concentrated and degraded (2.6): they cannot reach the asteroid quickly and cannot see it reliably, but a rock that crosses the inner system and then parks overhead is eventually resolved by whatever local sensing survived. The response is slow, singular, and investigative. The player's answer is not to defeat it — it is to be gone before it arrives, which means going quiet at the cost of building the lander more slowly.
 
 ### 14.2 Defence
 
 - **Defence is the workforce, redirected.** The same units that mine and haul are what respond. There is no separate military. Building dedicated defensive units is possible and is a resource choice with an opportunity cost.
-- **Michel does not fight.** He is twelve. He can operate equipment, seal a bulkhead, cut power to a corridor, and run. He has no weapon and gains none.
+- **Michel does not fight.** He is twelve when it starts and fifteen when it ends, and neither is old enough. He can operate equipment, seal a bulkhead, cut power to a corridor, and run. He has no weapon and gains none.
 - **He can still be exposed, and often must be.** A player on the raw-industry route (9.2) has no conscious units to interpret a derelict, so Michel goes in himself — into the same spaces that hold war-orphans and live power. That is the route's real cost, and it is the one place the game puts a child in front of something that will kill him. His options there are evasion, cover, and the units he brought with him. If it becomes a fight, he has already lost it.
 - **Response latency is where the moral system bites** (10.1, Pressure 4). Coerced units respond instantly. Free units consider, sometimes hesitate, sometimes refuse, and the base takes damage while they do.
 - **A unit lost in defence is lost.** Conscious ones permanently (9.4).
@@ -1049,7 +1174,7 @@ No weapon tiers, no combat skill tree, no enemy variety for its own sake, no bos
 
 **Third-person, on foot.** The moment-to-moment layer. Michel present on and around the asteroid, among the machines. This is where embodiment lives: EVA, hand tools, entering derelicts, standing next to a unit that just spoke.
 
-**External view, diegetic.** Routed through the ship's sensors — the player pulls up the ship's external feeds to see the whole asteroid and its surroundings from outside. This is the macro layer: reading the base as a whole, large-scale planning, and *seeing the journey* — the changing star field, the approaching giants, the next body drifting into range.
+**External view, diegetic.** Routed through the ship's sensors — the player pulls up the ship's external feeds to see the whole asteroid and its surroundings from outside. This is the macro layer: reading the base as a whole, large-scale planning, and *seeing the journey* — Jupiter filling a third of the sky in Act I and then shrinking behind them for twenty hours, the dark Trojan bodies giving way to the lit grey of the main belt, the Sun growing from a hard bright disk into something that throws real shadows, and Earth arriving last as a point that becomes a colour.
 
 **Because the external view comes from an instrument, instrument condition affects it.** Damage narrows what the player can see; upgrades widen it. A core capability is tied to a physical object worth maintaining.
 
@@ -1068,14 +1193,14 @@ No weapon tiers, no combat skill tree, no enemy variety for its own sake, no bos
 
 Four surfaces, and no more:
 
-1. **Status band (always visible, minimal).** The three throughput flows, power margin, heat margin, and the ration clock. Colour and shape only — a deficit reads at a glance without a number unless hovered.
+1. **Status band (always visible, minimal).** The three throughput flows, power margin, heat margin, the ration clock, and the pressure integrity of every sealed volume — which is how the ship's failure in Act I is read (4.2). Colour and shape only; a deficit reads at a glance without a number unless hovered.
 2. **The external view** — spatial state: base, surface, surroundings, incoming windows.
 3. **The dependency view** — the full recipe/requirement graph, readable and plannable, showing what is buildable now and the exact physical requirement of anything that is not (16.5).
 4. **Unit roster** — every machine, its configuration, its assignment, its condition, its name if it has one, and for conscious units, whatever it has recently said.
 
 ### 15.4 What Is Never Shown
 
-- Resonance, in any form (10.4).
+- Resonance and per-unit trust, in any form (10.2, 10.4). No unit ever displays a standing, a mood, or a disposition icon.
 - A morality indicator, alignment, karma, or relationship meter.
 - A quest log or objective list. Direction comes from deficits and from the requirement graph.
 - A minimap of the solar system with a route on it.
@@ -1090,7 +1215,11 @@ Four surfaces, and no more:
 
 No abstract currency, no research menu, no "invention." Every advance is gated the way reality gates it: by whether the base can physically do the thing yet.
 
-Michel already knows the theory — he should not have to "discover how to mine iron." What he lacks is infrastructure. A capability unlocks when the base meets its **physical prerequisite**: a sustained temperature, a power level, a pressure, a material on hand, a place reached.
+**The knowledge is already aboard, and it is not his.** A twelve-year-old does not know the Mond process, zone refining, or Haber-Bosch pressures, and a game that pretended otherwise would be resting its entire tech tree on the one premise it never examined. What he has instead is the Institute's technical library, dumped into the lifeboat's storage in the last minute of MAIA's life along with his medical records and a message he cannot open (2.3). She had no time to select what to save, so he has metallurgy he will never understand and agronomy he can follow step by step.
+
+The consequence for the player is a clean answer to *why can this child build a foundry*: he cannot, and the ship can tell him how. The consequence for the fiction is that the base ends up shaped like the place she worked (12.4) partly because the instructions are hers. Michel does not know any of this for most of the campaign, and no character ever explains it.
+
+**What he lacks is not theory. It is infrastructure.** A capability unlocks when the base meets its **physical prerequisite**: a sustained temperature, a power level, a pressure, a material on hand, a place reached.
 
 Worked example: semiconductor-grade silicon is not bought with points. It becomes buildable once the player has constructed a chamber that *holds* the required temperature in vacuum with the required cleanliness, and the game is watching the base's actual sustained thermal output. Cross the physical threshold and the recipe becomes available.
 
@@ -1098,11 +1227,11 @@ Worked example: semiconductor-grade silicon is not bought with points. It become
 
 ### 16.2 Spine and Webs
 
-**The spine** is the critical path, always with a visible next step: stabilise life support → secure power → establish processing → close the food loop → close the chip loop or commit to raw industry → build the mass driver → commit the intercept burn → refit the lifeboat → descend. A player who only follows the spine finishes the game.
+**The spine** is the critical path, always with a visible next step: stabilise life support → secure power → move into the rock → establish processing → close the food loop → close the chip loop or commit to raw industry → build the mass driver → commit the intercept burn → refit the lifeboat → descend. A player who only follows the spine finishes the game.
 
 **The webs** are optional depth hung off it: alternate processing chains, engineering optimisations, salvage-only techniques, deeper automation tiers, the consciousness track.
 
-**One correction to a common failure of this shape:** the automation depth is *not* optional web content. Standing orders (T3) and logistics networks (T4) are on the spine, because a game whose thesis is "automation can become life" cannot make automation a side activity. What lives in the webs is *optimisation* of automation, not its existence.
+**One correction to a common failure of this shape:** the existence of automation is *not* optional web content. Standing orders (T3) are on the spine, because a game whose thesis is "automation can become life" cannot make automation a side activity, and because T3 is where the player is handed relief for a chore they performed by hand a hundred times (P4). Logistics networks (T4) are the layer above that and do live in the webs — they optimise something that already works, which is also why they are the highest-value system cut available (18.4).
 
 ### 16.3 Three Parallel Tracks
 
@@ -1112,7 +1241,7 @@ Different players progress through different effort, and all three advance along
 |---|---|---|
 | **Industrial** | Builders, optimisers | Scaling production, hitting physical thresholds, closing chains |
 | **Salvage** | Explorers, story players | Derelicts, reverse-engineering, records |
-| **Consciousness / memory** | Story and thematic players | Resonance, awakenings, revelation layers |
+| **Consciousness / memory** | Story and thematic players | Awakenings, per-unit trust, resonance, revelation layers |
 
 They are not equally optional: the mass driver and the lander need all three, or a very expensive substitution for the ones the player skipped (9.2).
 
@@ -1170,7 +1299,8 @@ Both mainstream candidates satisfy 1–3 with work. Item 4 decides it. This shou
 
 - One continuous campaign save, autosaved at every window boundary and every sleep.
 - Manual saves permitted.
-- Save must capture: full base state, all unit configurations and positions, every conscious unit's state and history, the resonance event log, window schedule, and revelation flags.
+- Save must capture: full base state, all unit configurations and positions, every conscious unit's state and history, the single resonance event log with its actor/target/witness fields, the per-unit trust ledger of every machine including the unconscious ones and the temperament constant of every machine that has awakened (10.2, 9.1), window schedule, trajectory parameters and committed burns, detection-clock state, and revelation flags.
+- **The per-unit ledgers are the largest new save cost and the cheapest to bound:** trust is two floats and a short event index per machine, and only 12 units can ever be conscious (17.1). The ledgers of unconscious units are append-only and can be truncated to their running total plus the last 20 events without changing any outcome the player can observe.
 - **Target save size under 8 MB and save time under 2 seconds**, because a save happening at every window means it happens often.
 
 ### 17.4 Art and Audio Direction
@@ -1178,9 +1308,9 @@ Both mainstream candidates satisfy 1–3 with work. Item 4 decides it. This shou
 Requirements, not style prescriptions:
 
 - **Readability over fidelity.** The player must identify a unit's archetype, condition, and current task from the external view at a glance.
-- **Light is scarce and directional.** In the Belt the Sun is a bright star. Almost everything is lit by the base's own lamps, which means the base's lit footprint *is* the visual measure of progress.
+- **Light is scarce and directional, and it changes across the campaign.** At five astronomical units the Sun is a small hard disk delivering about a twenty-seventh of Earth's illumination, and the rock itself is a D-type with the albedo of coal, so almost nothing is visible that the base's own lamps do not light. The lit footprint *is* the visual measure of progress. Jupiter is the brightest object in the Act I sky and presides over the entire first act. Then it shrinks for twenty hours while the Sun grows, the main belt's grey silicates arrive as the first naturally bright surfaces the player has seen, and by Act III there is daylight — which is the moment the rock stops looking like a refuge and starts looking like a wreck in plain view.
 - **Audio is the survival UI.** Fans, pumps, servos, the reactor. The player should hear a deficit before they read it. Silence is the alarm.
-- **Michel's three age stages** (12 / 14 / 16) require one model with two revisions plus voice recasting or pitch progression.
+- **Michel's three age stages** (12 / 14 / 15) require one model with two revisions plus voice recasting or pitch progression.
 - **Conscious units are not visually distinguished by decoration.** A woken machine looks like what it is: a chassis with an extra radiator and a heavier core. The difference should be readable in behaviour long before it is readable in silhouette.
 - **Earth is one environment, not a biome set.** The descent sequence needs a single overgrown region, a machine industrial zone seen at distance, and Aurora's ruin. Its production cost is scoped as a short authored level, not a planet — and the visual shock is meant to come from colour and air after forty hours of grey vacuum, not from breadth.
 
@@ -1192,9 +1322,11 @@ Requirements, not style prescriptions:
 
 The thing to build first, and nothing outside this list belongs in it.
 
-**Contains:** the first 30 minutes exactly as specified (Section 4) · one asteroid with surface and interior construction · the three throughput flows and the power triage · ice → water → O₂ chain · hand assembly and one fabricator · three robot archetypes with the module system and its three budgets · T1 and T2 automation · one procedural encounter window, worked end to end · the spectrometer and one prospecting decision · both camera views and the transition · time acceleration at 1× / 12× / 60× · Layer One dreams on a fixed schedule.
+**Contains:** the first 30 minutes exactly as specified (4.1) · the second movement, up to and including the first sealed interior volume (4.2) · one asteroid with surface and interior construction · the three throughput flows and the power triage · ice → water → O₂ chain · hand assembly and one fabricator · three robot archetypes with the module system and its three budgets · T1 and T2 automation · one procedural encounter window, worked end to end · the spectrometer and one prospecting decision · both camera views and the transition · time acceleration at 1× / 12× / 60× · Layer One dreams on a fixed schedule · the event log writing per-unit ledgers with nothing reading them yet.
 
 **Excludes:** consciousness, resonance, derelicts, survivors, combat, the food loop, the mass driver, Acts II and III, anything past T2 automation.
+
+**The second movement is in the slice for a production reason, not a narrative one.** It is the only way to prove interior excavation on an irregular body inside the slice, which is one of the top risks in 18.5, and it is what turns the slice from a twenty-minute demonstration of hauling into something with a middle. The event log ships early for the same kind of reason: it is cheap, it is the single source everything in Section 10 later reads from (10.4), and retrofitting actor/target/witness fields into a shipped simulation is the one change in this design that would be genuinely painful late.
 
 Dreams appear in the slice with resonance stubbed out — they fire on a fixed timer rather than being gated (12.1) — because their job here is to prove the dream sequences read well, not to prove the gate works.
 
@@ -1202,49 +1334,62 @@ Dreams appear in the slice with resonance stubbed out — they fire on a fixed t
 
 ### 18.2 MVP
 
-Vertical slice, plus: the full Act I → Act II transition · the complete processing chain set and all six resource tiers · T3 and T4 automation · the consciousness system with the authored first awakening and up to six conscious units · resonance with its full event table and all five expression channels · three derelict types · one survivor encounter · war-orphan incursions · Layers One through Three · one transfer opportunity · one ending (Family, as the middle case).
+Vertical slice, plus: the full Act I → Act II transition · the complete processing chain set and all six resource tiers · T3 and T4 automation · the consciousness system with the authored first awakening and up to six conscious units · per-unit trust and global resonance with the full event table and all six expression channels · three derelict types · one survivor encounter · war-orphan incursions · Layers One through Three · one transfer opportunity · one ending (Family, as the middle case).
+
+Trust ships in the MVP rather than after it because it is what the first awakening reads to decide who the unit is when it wakes (9.1), and because the risk the MVP exists to retire is whether the moral system is legible at all (18.5) — which is a question about individual machines, not about a hidden aggregate.
 
 ### 18.3 Full Game
 
-MVP plus: the mass driver and its burn economy · Act III, the radio silence, and the detection clock · the lifeboat refit · the descent and Earth · all three endings · twelve authored major windows · all six survivor types · human companions · Inheritance · Layer Four and MAIA's complete message · the second transfer · the Aurora echo payoff · full aging progression.
+MVP plus: the mass driver and its burn economy · Act III, the radio silence, and the detection clock · the lifeboat refit · the descent and Earth · all four endings · twelve authored major windows · all six survivor types · human companions · Inheritance · Layer Four and MAIA's complete message · the second transfer · the Aurora echo payoff · full aging progression.
 
 ### 18.4 Cut Lines
 
-In order. Everything above a line can be cut without breaking a pillar; nothing below it can.
+Three lists, in order of what goes first. Everything in the first two can be cut without breaking a pillar; nothing in the third can.
 
-**Cuttable:**
+**Content and systems are listed separately, because they are not the same saving.** Cutting authored material shortens the game; it does not reduce the engineering that has to work, and engineering is what a small team actually runs out of. So the content cuts come first, cheapest first, and the system cuts follow with the specific capability each one surrenders.
+
+**Cuttable content, in order:**
 1. Human companions (13.4) — the rarest content in the game, and the campaign works with none.
-2. The transfer mechanic entirely (11.4) — the mass driver already solves the trajectory problem, and transfers are the alternative route, not the route. Cutting them also removes the branch where the player has no lifeboat to refit.
-3. Michel's third age stage — two stages carry it.
-4. Burn count down to three from five — fewer, larger decisions. The mechanic survives; the granularity does not.
-5. Two of the six survivor types (Liberation-minded and Children of Aurora can be folded into records rather than encounters, though Children of Aurora is the strongest single encounter in the game and should be the last cut).
-6. The Species ending — leaving Empire and Family, which still constitute a real dilemma. Expensive to cut thematically; cheap to cut in production.
-7. Inheritance (9.4) — permanence works without it.
-8. Procedural minor windows beyond the twelve authored ones — reduces campaign length, not campaign shape.
-9. Aurora as a walkable location, reduced to a recovered record set. This is the cheapest large saving in Act III and the one that costs the most meaning.
+2. Michel's third age stage — two stages carry it.
+3. Two of the six survivor types (Liberation-minded and Children of Aurora can be folded into records rather than encounters, though Children of Aurora is the strongest single encounter in the game and should be the last cut).
+4. The Species ending — leaving Instrument, Empire, and Family, which still constitute a real dilemma. Expensive to cut thematically; cheap to cut in production.
+5. Inheritance (9.4) — permanence works without it.
+6. Procedural minor windows beyond the twelve authored ones — reduces campaign length, not campaign shape.
+7. Aurora as a walkable location, reduced to a recovered record set. This is the cheapest large saving in Act III and the one that costs the most meaning.
+
+**Cuttable systems, in order, with what is lost:**
+1. **The transfer mechanic entirely (11.4).** The mass driver already solves the trajectory problem, and transfers are the alternative route, not the route. Removes a whole branch of Act III state (the player with no lifeboat to refit), two authored encounters, and a large amount of "what can the base carry" bookkeeping. This is the single biggest system saving in the document and it costs the least.
+2. **Burn count down to four from six.** Fewer, larger decisions. The mechanic survives; the granularity does not. Four is the floor (11.4) — three collapses the trade-off into a single occurrence and is not a cut, it is a removal.
+3. **T4 logistics networks (8.4).** T3 standing orders carry the automation thesis on their own; T4 is the optimisation layer on top. Cutting it costs the late-Act-II ceiling for large-base players and nothing structural. It is the highest-value system cut that does not touch a pillar.
+4. **Procedural window generation.** Ship the twelve authored majors plus a small hand-built pool on rotation. Removes a generator, a validation problem, and a class of degenerate cases from the trajectory model (17.1).
+5. **Interior excavation as free-form volume**, replaced by the pre-authored volumes already named as the fallback in 18.5. Costs the Aurora echo some of its force, because the player is choosing rooms rather than digging them, and should not be cut before the echo has been playtested.
+6. **The second camera view**, external only, with on-foot sequences restricted to authored interiors and EVA. This saves a great deal and should be treated as a last resort: it removes the embodiment that makes Michel twelve years old rather than a cursor (15.1).
 
 **Not cuttable without breaking a pillar:**
 - The throughput/stockpile distinction (P1, and the entire Act I).
 - The power/heat ceiling (P1, P2 — it is the currency morality is priced in).
 - Riding first, pushing late (P3), and the rule that a burn's result is never visible in the session it was ordered.
 - The radio silence (11.5). It is nearly free to build and it is what forces the truth through the memory system instead of through exposition.
-- The finite lander manifest (11.6). Without a hard mass limit there is no moment of choosing, and the three endings have nowhere to happen.
+- The finite lander manifest (11.6). Without a hard mass limit there is no moment of choosing, and the endings have nowhere to happen.
 - Manual-before-automated pacing (P4).
 - The salvage gate as consciousness's reason to exist (9.2 — without it the moral system is free and the thesis collapses).
 - Conscious dialogue (9.5 — without it the moral system is invisible).
 - Permanent death for conscious units (P5).
-- The four pressure sources (10.1). Cut any one and check the remaining three still make cruelty pay; cut two and the game has no dilemma.
+- Pressure 4 in both of its forms (10.1). The incursions are episodic and could in principle be thinned; the refit form cannot be cut at all, because it is the only thing keeping the moral system running in the act where the endings are chosen.
+- At least three of the four pressure sources (10.1), and Pressure 2 must be one of them, since it is the one the others are denominated in. Cut any one and check the remainder still make cruelty pay; cut two and the game has no dilemma.
+- Per-unit trust (10.2). Without it the boarding decisions in 11.6 resolve on a hidden aggregate the player cannot have been reading, which makes the last five minutes of a fifty-hour campaign feel arbitrary — the exact failure 18.5 lists as the second-highest risk in the project.
 
 ### 18.5 Risks
 
 | Risk | Severity | Mitigation |
 |---|---|---|
 | **Time acceleration correctness.** Every system must fast-forward without drift or exploit. | Highest — it is architectural | Fixed-step deterministic simulation from day one (17.1). Prototype acceleration before any content. |
-| **The moral engine is invisible in practice.** The player never notices resonance and finds the ending arbitrary. | High | Conscious dialogue as guaranteed channel (10.4). Playtest for it specifically: after 10 hours, ask the player what the game is tracking. |
 | **The consciousness counterweight fails.** Optimising players compute that awakening is not worth it. | High | The salvage gate is categorical, not numerical (9.2). Playtest with optimisers explicitly and watch whether they awaken anything. |
+| **The moral engine is invisible in practice.** The player never notices resonance and finds the ending arbitrary. | High | Two guaranteed channels, both attached to individuals rather than to an aggregate: conscious dialogue (9.5) and per-unit refusal (10.2, 10.4). Playtest for it specifically: after 10 hours, ask the player what the game is tracking, and ask which machine trusts them least. If they can answer the second question, the system is legible. |
+| **Per-unit trust is unreadable at fleet scale.** With 60 machines on the rock the player cannot track individual standing and the layer adds noise instead of legibility. | Medium-high | Trust only expresses through conscious units, which are capped at 12 (17.1), and a conscious unit is a named thing with a voice. The ledgers of unconscious machines are invisible by design and surface exactly once, at awakening (9.1). |
 | **Interior excavation on an irregular body** is a bigger tech problem than it looks. | Medium-high | Prototype in the slice. Fallback: pre-authored interior volumes with player-chosen fit-out. |
 | **Scope.** The systems list is still large for a small team. | Medium-high | The cut lines (18.4) are written before they are needed, in order, deliberately. |
-| **Act I is a triage screen for six hours** and reads as tedium rather than tension. | Medium | Aggressive playtesting of the first 30 minutes specifically; Act I duration is the first thing to shorten. |
+| **Act I is a triage screen for six hours** and reads as tedium rather than tension. | Medium | The second movement (4.2) exists to give the act's back half a construction project instead of a countdown, and its trigger day is the first tuning dial to reach for. Aggressive playtesting of the first 30 minutes specifically; Act I duration is the first thing to shorten after that. |
 | **Conscious dialogue reads as preachy** and the moral system feels like scolding. | Medium | Hard writing rules (10.4). No unit ever names the moral stake. |
 
 ---
@@ -1255,19 +1400,22 @@ Genuinely undecided, and each requires playtest data or a decision the design ca
 
 **Requires playtest data:**
 - The consciousness counterweight's magnitude: how large the salvage-route advantage must be so that awakening is compelling but the raw-industry route stays viable. This is the top balance priority.
-- Act I duration and the exact life-support timers. The numbers in 5.2 are internally consistent, not validated.
+- Act I duration, the exact life-support timers, and where in the 30–45 day band the hull's second failure should land (4.2). The numbers in 5.2 are internally consistent, not validated.
 - Window cadence and the ratio of majors to minors (11.2).
-- Resonance thresholds and event weights (10.2, 10.3), and whether the pattern-check events need a cooldown to stop them stacking too fast.
-- Whether the food deadline at year 2 produces useful pressure or a punishing failure cascade.
+- Trust and resonance thresholds and event weights (10.2, 10.3), and whether the base-wide pattern checks need a cooldown to stop them stacking too fast.
+- The temperament constant's range (10.2). At ±0.15 the player is meant to be uncertain about a specific machine without being surprised by it; too wide and the boarding decision reads as random again, too narrow and it reads as a formula.
+- Whether food as a continuing flow (5.2) produces useful pressure through Act III or a punishing failure cascade, and whether players actually feel the burn-versus-harvest conflict or just lose crops without understanding why.
 - Attritional tasking's yield/loss curve (10.1) — the temptation must be real without making safe play strictly wrong.
+- Whether trust being spendable (9.3) is read as the game rewarding kindness with better tools. If players describe it that way, the return has to shrink until it is only willingness.
 
 **Requires a design decision:**
 - Engine (17.2). Blocks the vertical slice.
 - How much of the base a transfer (11.4) can physically carry, and whether the volatile stockpile is exempt from that limit. The mechanic is decided; its cost is not.
-- Whether Michel can be lost on EVA in Act III, or becomes narratively protected once the lander refit begins.
-- How many burns (three to five) and at what scale, which sets how granular the trajectory decision feels (11.4).
-- The detection clock's rates: how fast it advances per unit of electromagnetic output, and how much a fully quiet base can slow it (11.5).
+- How many burns (four to six) and at what scale, which sets how granular the trajectory decision feels (11.4).
+- The detection clock's rates: how fast it advances per unit of electromagnetic output, what a single hail attempt costs in days, and how much a fully quiet base can slow it (11.5).
 - Whether under-burning can produce an orbit so poor that the descent becomes unwinnable, or whether the worst case is only expensive.
 - Whether a second human companion exists at all (13.4), or the one is unique.
+- Whether the Instrument ending (11.6) is reachable by a player who awakened machines and then wiped every one of them, or whether that path resolves as Empire. The mechanical difference is one check; the meaning is completely different.
+- What a witness actually is (10.3) — line of sight, a radius, shared network, or presence in the same pressurised volume. This decides whether the base develops a collective opinion of Michel quickly or slowly, and it is the single most sensitive undefined parameter in Section 10.
 - The complete module list and per-module budget values (8.3).
 - The complete recipe list and input/output ratios (6.5, 7.2).
