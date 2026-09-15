@@ -1,13 +1,23 @@
 # NEED FOR SPEED: BEYOND
-## Design Bible — v2.4
+## Design Bible — v3.3
+
+---
+
+> **This is an unofficial fan concept.**
+>
+> *Need for Speed: Beyond* is a fan-made game concept written by **Johnny Kestler**. It is not a real product, not in development, and not affiliated with, authorised by, or endorsed by Electronic Arts Inc. or any of its studios.
+>
+> *Need for Speed* and all related titles referenced in this document — *Underground*, *Underground 2*, *Most Wanted*, *Carbon*, *ProStreet*, *Shift* — are trademarks of Electronic Arts Inc. All vehicle manufacturers, series and championships named here are the property of their respective owners and are referenced for illustrative purposes only.
+>
+> The author has no connection to Electronic Arts. This document is written for its own sake, as a design exercise, and is distributed non-commercially.
 
 ---
 
 ## 1. Premise
 
-**Need for Speed: Beyond** is an open-world racing game built around two halves of the same car culture: the illegal street scene of a single large city, and a months-long sanctioned racing festival held on closed circuits outside it.
+**Need for Speed: Beyond** is a racing game built around two halves of the same car culture: the illegal street scene of **Nitroit**, an open-world American city, and a months-long sanctioned racing festival held across the state of **Revada**, a day's drive away.
 
-The city is the core experience and occupies Acts 1 through 5. The festival is the epilogue — unlocked only after the main story concludes — and functions as a second, parallel career.
+Nitroit is the core experience and occupies Acts 1 through 5. The festival becomes playable in the epilogue — its competition unlocks only after the main story concludes — and functions as a second, parallel career. Jake first makes the drive to Revada at the end of Act 4, and Act 5 is spent assembling what it takes to enter (Section 3.2).
 
 Both halves run on a single simcade driving model. The game does not switch physics when the player crosses from street to circuit.
 
@@ -15,15 +25,39 @@ Both halves run on a single simcade driving model. The game does not switch phys
 
 The title refers to the protagonist's arc: he conquers everything inside the world he built for himself, and then has to go past it.
 
+### 1.1 Setting
+
+Both places are fictional, and both are in the United States.
+
+**NITROIT** — a large industrial city on a river, built around a port, the iron mines in the hills north of it, and the mills and plants that grew between the two. Dense, layered, and old enough to have neighbourhoods that do not like each other. The ore still moves and the port still works, but most of the plants closed a generation ago and left the neighbourhoods behind them. A place where a car is transport, employment and identity at the same time, and where the street scene grew out of all three.
+
+**The city is owned by a small number of families and worked by everybody else**, and both groups race (Section 5.1).
+
+Nitroit is the open world. Seven districts, seamless, drivable end to end, day and night, with live traffic and live police.
+
+**REVADA** — a desert state a day's drive west. Mountains, dry lake beds, canyon highways, two-lane roads that run straight for forty miles, and one city bright enough to be visible from thirty miles out. Legal racing lives here because the land is empty, the weather is predictable and the state licenses it happily.
+
+**Revada is not an open world, and this is deliberate.** There is no free roam, no traffic, no police and no driving between venues. The festival is a calendar of dates, each held at a specific venue somewhere in the state (Section 13.1). The player selects the next date, travels to it, and arrives.
+
+| | Nitroit | Revada |
+|---|---|---|
+| **Structure** | Seamless open world | Venue-based, selected from a calendar |
+| **Traffic** | Live civilian traffic everywhere | None |
+| **Police** | Everywhere, always | None |
+| **Free roam** | Yes | No |
+| **When the player is there** | Acts 1–5, and between every festival date | Only on scheduled race dates |
+
+**The contrast is the point.** Nitroit is somewhere Jake lives. Revada is somewhere he goes, on specific days, for specific reasons, and leaves again. The game never lets him settle there, and the drive back to Nitroit after every race date is the game reminding him he has not moved — he is commuting to the thing he was afraid of.
+
 ---
 
 ## 2. Thematic Core
 
 ### 2.1 The Father
 
-The protagonist's father was a professional GT3 driver.
+The protagonist is **Jake Spaid**. His father, **John Spaid**, was a professional GT3 driver.
 
-GT3 is a category of competition car — race machinery built to a regulation, rear-wheel drive, equalised against rival makes by Balance of Performance, and campaigned by customer teams across national and international championships. His father spent his career in that world: contracts, sponsor liveries, endurance grids, a job rather than a fantasy.
+GT3 is a category of competition car — race machinery built to a regulation, rear-wheel drive, equalised against rival makes by Balance of Performance, and campaigned by customer teams across national and international championships. John spent his career in that world: contracts, sponsor liveries, endurance grids, a job rather than a fantasy.
 
 **GT3 exists nowhere inside the playable world.** Not in the city, not in the festival. It is the tier above both — the level the protagonist's father worked at, the level the ending sends him to, and a level the player never drives at during the game. It appears in this document only in the father's history and in the final scene.
 
@@ -62,11 +96,55 @@ The point is not that the circuit was the right answer and the street was the wr
 | **1** | The Unknown | Entry into the street scene. First district. Reputation from zero. |
 | **2** | Ascent | Multiple districts contested. Crews, rivalries, police attention escalates. |
 | **3** | King of the Streets | Final districts taken. The protagonist becomes the name the city uses for street racing. |
-| **4** | The Hollow | Everything is won and nothing is resolved. Wealth, cars, respect, unchanged guilt. |
-| **5** | The Choice | The festival — present in the world since Act 2 as advertising, television, conversation — stops being background and becomes a decision. |
+| **4** | The Hollow | Everything is won and nothing is resolved. Defending, the last Invitationals, and the only axis left (Section 3.1). |
+| **5** | The Choice | The registration act. Roster, mechanics, five legal cars, salaries (Section 3.2). |
 | **Epilogue** | Beyond | The festival map unlocks. Second career begins at zero Rank. Ends with the championship and a professional contract. |
 
-The city does not close at any point. After the epilogue unlocks, the player moves freely between city and festival for the remainder of the game.
+Nitroit does not close at any point. After the epilogue unlocks, the player moves between Nitroit and the Revada calendar for the remainder of the game.
+
+### 3.1 Act 4 — The Hollow
+
+**Act 4 begins when the last district falls and nothing is left to take.**
+
+Every crew has been beaten, every territory held, the title is King of the Streets, and the REP bar has no tier above it. This is, mechanically, the problem: the game has spent three acts training the player to answer every question by winning something, and Act 4 is the act where that stops producing anything.
+
+**What is actually available to do:**
+
+| Content | What it is |
+|---|---|
+| **Defending** | Holding a district is not permanent. Beaten crews reform under new leadership and reclaim territory the player stops appearing in. Defending is REP-neutral — winning returns the district, losing costs it. There is no gain available, only loss avoided. |
+| **The last Invitationals** | The two unaffiliated racers only make contact at Headliner (Section 11.3), which most players reach here. They are the hardest racing in the city and the highest stakes. |
+| **The List** | The police do not stop. Act 4 is where a player who spent three acts wrecking patrol cars discovers what they bought (Section 6.1). |
+| **Relationships** | The only axis with anywhere left to go. Every uncompleted Loyal storyline is still there, and Act 4 is the last stretch before the roster is locked at registration (Section 12.4). |
+| **Magazines** | Cover-tier offers, requiring builds the player has not had a reason to make until now. |
+
+**The design statement is the shape of that table.** Four of the five entries give the player nothing they do not already have. One of them does. The player will work that out on their own, and what they do about it is the act.
+
+**A player can leave Act 4 with no relationships at all.** Nothing forces the Loyal storylines and nothing gates Act 5 behind them. That player reaches registration and cannot field a legal team, and has to go back — not because the game blocked them, but because they spent an entire act proving they did not need anyone and were wrong.
+
+**Act 4 ends when Jake drives out of Nitroit and into Revada for the first time.** Not when he registers, not when he qualifies — when he makes the drive, arrives at a venue with an event running, and stands at the fence watching it. It is the only story beat in the game triggered by going somewhere rather than winning something, and it is a fourteen-hour drive he makes alone.
+
+### 3.2 Act 5 — The Choice
+
+**Act 5 is the registration act, and it is the only act in the game that is not about racing.**
+
+The festival's entry requirements arrive all at once, and none of them are things the protagonist has (Section 12.4). The act is assembling them.
+
+| Requirement | What Act 5 is actually about |
+|---|---|
+| **Five drivers** | Spread across five crew cultures. Whoever is Friendly or better, right now. Whoever is not, is not coming. |
+| **Five mechanics** | From five shops. Shop Standing is built by using shops, and a player who has bought everything from one place has one mechanic. |
+| **Five legal cars** | Each built to a different discipline's rulebook (Section 13.4). Most of the player's garage is illegal and has to be rebuilt or replaced. |
+| **Salaries** | Ten of them, unless the relationships waive them. This is the largest sum of money the game ever asks for. |
+| **Sponsorship, optionally** | A Loyal Meridian contact covers the lot (Section 5.1). |
+
+**Mechanically, Act 5 is a conversion act: everything the player accumulated in the city becomes something the festival accepts, or it does not come.**
+
+Money becomes cars. Territory becomes nothing at all — it converts to zero, and the game does not soften that. Relationships become a roster. REP becomes nothing; there is no exchange rate.
+
+**The dramatic content is in what refuses to convert.** The protagonist arrives at the end of Act 5 having discovered that most of what he built has no value where he is going, and that the part which does — the people — is the part he paid least attention to.
+
+**Act 5 ends on a submitted registration form.** No race, no victory, no confrontation. He fills it in, and the epilogue opens.
 
 ---
 
@@ -109,7 +187,7 @@ The city is arcade. The festival is *more* simulated — not fully simulated. Th
 | **Damage after an event** | Persists. Costs money to repair. | Persists. Repaired by the discipline's mechanic (Section 12.4.5). |
 | **Restarts** | Freely available | Not available inside a session |
 | **Setup** | Simplified presets plus manual tuning | The mechanic supplies a working baseline; the player adjusts a short list of meaningful values (Section 12.4.5) |
-| **Regulation** | None (Section 5.4) | Scrutineered before the event, spot-checked after (Section 13.3) |
+| **Regulation** | None (Section 5.5) | Scrutineered before the event, spot-checked after (Section 13.3) |
 
 **Where the line is drawn, and why it is drawn there.**
 
@@ -136,7 +214,32 @@ Neither layer is the "real" one. The city is not a tutorial for the festival and
 
 ## 5. The City
 
-### 5.1 Districts and Crews
+### 5.1 Where the Scene Came From
+
+**Nitroit's street scene is not one culture. It is six, and they are divided by neighbourhood because the work was.**
+
+The city grew in layers. The port came first, then the mills that fed off it, then the iron mines in the hills north of the city, then the plants that turned the ore into product. Every wave of people who came to do that work settled where the work was, and their children built cars there. A hundred years later the neighbourhoods have changed and the jobs mostly have not come back, but the car culture stayed exactly where it was planted.
+
+**This is why a district's discipline is not arbitrary.** Dockline runs drag because the docks ran on grudge money for eighty years. Ridge Union drifts because the families who settled the hill brought the practice with them from somewhere it already existed. Riverside judges builds because the people who built that scene were never allowed into the ones that only cared about speed.
+
+**How the game handles this:**
+
+- Culture is expressed through **what a district races, how it judges, what it refuses, and how its people talk** — never as a label on a character.
+- Every crew has members from outside its founding community, and the newer crews have no founding community at all.
+- Nobody in the game gates entry by who someone is. Every district gates by **what car you brought**, which is a rule about the car (Section 5.3).
+- The city's history is present in shop signs, family names recurring across generations, the languages heard at meets, the food at night meets, and what the older NPCs remember. It is texture with mechanical consequence, not a demographic table.
+
+| District | Founding lineage | What it became |
+|---|---|---|
+| **The Docks** | Longshore families — a Black waterfront local that organised in the 1930s, alongside Irish and Polish gangs from the mills | Grudge drag racing, money on the hood |
+| **Old Quarter** | Southern European immigrants — Italian, Portuguese, Greek — who brought sports cars and a hostility to shortcuts | Naturally aspirated circuit purism |
+| **Ridgeline** | Japanese-American families who settled the hill in the post-war years, then a wider Asian-American scene through the 1990s | Drift and mountain running |
+| **Expressway Ring** | None. The newest crew, built by kids from every other district who wanted a road nobody owned | Top speed, and no heritage at all |
+| **Industrial Flats** | All of them. Neutral ground since the plants closed and the lots emptied | Everything, mixed |
+| **Riverside** | Mexican-American families, and a lowrider and custom tradition older than the street racing around it | Build quality judged as seriously as lap time |
+| **The Heights** | The families who owned the mines, the mills and the port | Hypercars, and a private club |
+
+### 5.2 Districts and Crews
 
 The city is divided into **seven districts**. Each is controlled by a crew, and each crew is a complete competitive identity: its own discipline, its own machinery, its own entry rules, and its own reason for existing.
 
@@ -147,16 +250,19 @@ A district is not a region of the map with races in it. It is a filter. What the
 **DOCKLINE — The Docks**
 *Container yards, half-mile straights, poor lighting, standing water.*
 
+- **Lineage:** Longshore families, three and four generations deep. The waterfront local organised in the 1930s and its membership has been predominantly Black ever since; the mill gangs that worked alongside it were Irish and Polish. The racing came out of the same place the union did — people with dangerous work, good money and a shift ending at two in the morning.
 - **Discipline:** Drag, and nothing else.
 - **Events:** Quarter-mile, half-mile, roll racing from 100 km/h, standing-start launch challenges.
 - **Entry rules:** Rear-wheel drive only. No aero of any kind. Classes B through S.
-- **Philosophy:** Power and launch. Nothing in a Dockline build is there to help it turn. They regard cornering as an admission that you did not build enough engine.
+- **How it works.** Dockline racing is **grudge racing**: two people, a private bet, no published times, nothing recorded. The money is the point and the secrecy is part of it — nobody advertises what their car actually runs, and a Dockline racer who tells you his times is lying to you. There are also **gambler nights**, where everyone pays in and the winner takes most of the pot.
+- **Philosophy:** Power and launch. Nothing in a Dockline build is there to help it turn. They regard cornering as an admission that you did not build enough engine. They will race anybody who can cover the bet and respect nobody who cannot.
 
 ---
 
 **THE OLD GUARD — Old Quarter**
 *Narrow street grid, tight corners, heavy civilian traffic, stone kerbs.*
 
+- **Lineage:** The Italian, Portuguese and Greek families who filled the Quarter when the mills were hiring, and who brought a sports-car tradition with them rather than a hot-rod one. The club that became The Old Guard has met in the same social hall since the 1960s, and two of its founders are still alive and still come.
 - **Discipline:** Grip. Multi-lap circuit racing on public streets.
 - **Events:** Multi-lap street circuits, timed single laps, sector runs.
 - **Entry rules:** Classes C and B only, capped. Naturally aspirated engines only. No nitrous.
@@ -167,9 +273,11 @@ A district is not a region of the map with races in it. It is a filter. What the
 **RIDGE UNION — Ridgeline**
 *Mountain road, sustained elevation change, blind crests, no barriers.*
 
+- **Lineage:** Japanese-American families who settled the hill after the war, and the wider Asian-American import scene that grew around them from the late 1980s — the same lineage that produced the American tuner scene in the first place. The city's first import shop is on Ridgeline and is still run by the family that opened it.
 - **Discipline:** Drift, downhill and uphill.
 - **Events:** Solo scored runs, tandem battles, downhill time runs, uphill sprints.
 - **Entry rules:** Rear-wheel drive only — front and all-wheel drive are refused at the gate. Classes B and A. Aero permitted but unfashionable.
+- **The grudge they carry.** For twenty years the rest of Nitroit would not take a four-cylinder import seriously, and Dockline in particular would not race one. Ridge Union stopped asking, built their own scene on a road nobody else wanted, and scores it by their own criteria. They are polite about this and they have not forgotten it.
 - **Philosophy:** Style is the score. A Ridge Union run that is fast but flat scores below a slower run held at angle. They are the only crew in the city that judges rather than times.
 
 ---
@@ -177,6 +285,7 @@ A district is not a region of the map with races in it. It is a filter. What the
 **RINGRUNNERS — Expressway Ring**
 *Elevated multi-lane loop encircling the city. Continuous, no exits, no stopping.*
 
+- **Lineage:** None, and they are proud of it. The Ringrunners were founded fifteen years ago by second-generation kids from every other district who were tired of inheriting somebody's rules. Their membership is the most mixed in Nitroit and the only thing anybody there has in common is the road.
 - **Discipline:** Top speed.
 - **Events:** Speed traps, sustained average-speed runs, full-loop time attacks, rolling standoffs at licence-losing velocity.
 - **Entry rules:** Classes A and S. Minimum top-speed threshold verified before entry — slow cars are simply not eligible. Aero mandatory above a defined power figure.
@@ -187,6 +296,7 @@ A district is not a region of the map with races in it. It is a filter. What the
 **THE YARD — Industrial Flats**
 *Warehouse district, open lots, abandoned infrastructure, endless usable space.*
 
+- **Lineage:** Everyone's. The Flats emptied when the plants closed and nobody owns them, so nobody's rules apply. The Yard's night meets are the only place in Nitroit where all six other scenes stand in the same car park, and the food, the music and the languages at a Yard meet are the whole city at once.
 - **Discipline:** All of them.
 - **Events:** Everything the other six crews run, plus the largest night meets in the city.
 - **Entry rules:** None. Any class, any drivetrain, any build, any car.
@@ -197,22 +307,42 @@ A district is not a region of the map with races in it. It is a filter. What the
 **RIVERSIDE — Riverside**
 *Residential, mid-speed, unpredictable civilian traffic, well-lit boulevards.*
 
+- **Lineage:** Mexican-American families, and a lowrider and custom tradition in Riverside that is older than street racing in Nitroit and was never really about racing at all. The boulevard cruise on Riverside's main street has run on the same night of the week for fifty years, and the racing grew up alongside it rather than replacing it.
 - **Discipline:** Build quality, expressed through racing.
 - **Events:** Cruise runs judged on presentation, short sprints where entry is conditional on the car passing judgement, coordinated multi-car runs.
-- **Entry rules:** No class restriction whatsoever. Instead, the car must pass a **build coherence check** — the game reads the car's Presentation rating (Section 10.4) alongside whether the visual and performance work read as one intentional car rather than an accumulation of parts. A fast car assembled at random is refused; a modest car built with a clear idea is welcomed.
+- **Entry rules:** No class restriction whatsoever. Instead, the car must pass a **build coherence check** — a published, readable list, not a hidden judgement.
 - **Philosophy:** Riverside is the only crew that does not care how fast the car is. It is also the only crew that will refuse the player's best car outright, which is exactly why it exists: it forces a player who has been optimising numbers to make something on purpose.
+
+**The Riverside check.** A car is admitted if it meets the Presentation threshold for the event and fails **none** of the following:
+
+| Condition | Fails if |
+|---|---|
+| **Finish** | Any panel is unpainted, primer, mismatched in shade, or still wearing a previous colour |
+| **Kit integrity** | Front, rear and side bodywork come from different kits, or a kit is partially fitted |
+| **Stance** | Wheel diameter, tyre profile and ride height are not set to one another — wheel gap, stretch or poke outside a stated band |
+| **Damage** | Any unrepaired visible damage (Section 8.1) |
+| **Interior** | The boot is built out but the interior is untouched, or the reverse |
+| **Intent** | Fewer than three of the six customisation categories (body, finish, lighting, wheels, interior, boot) have been touched at all |
+
+Every condition is shown to the player at the gate with a pass or fail beside it, and the failing item is named. **A rejection is never mysterious and never a matter of taste.**
+
+The bar is not quality. A cheap car finished cleanly in one colour, on wheels that suit it, with a worked interior, passes. A hypercar with three kits bolted together and a bare boot does not.
+
 
 ---
 
 **MERIDIAN — The Heights**
 *Millionaires' district. Gated streets, private estate roads, hillside switchbacks, underground garages beneath luxury towers.*
 
+- **Lineage:** The families who own the thing everyone else works for. Meridian's membership is the children and grandchildren of the people who own the iron mines north of Nitroit, the mills that process the ore, the shipping lines that move it and the plants that turn it into product. **Nobody in Meridian earned the money.** They inherited it, from businesses their families still run, employing the parents of half the racers in the rest of the city.
 - **Discipline:** Street racing, on the most expensive machinery in the city.
 - **Events:** Night runs on estate roads, hill sprints through the gated streets, tunnel and garage circuits under the towers, head-to-head challenges for sums nobody else in the city can cover.
 - **Entry rules:** **Classes S and X only.** Road-going supercars and hypercars. The entrant must own the car — no borrowed entries, no detuned cars, no exceptions. Ownership is verified before the gate opens.
-- **Philosophy:** Meridian is a private club inside a rich neighbourhood, and its members are wealthy people who race because they can. Membership is the car. There is no application, no reputation requirement beyond being let in, and no way to buy your way past the class rule except by owning a supercar.
+- **Philosophy:** Membership is the car, and the car is the family. There is no application, no reputation requirement and no way past the class rule except by owning a hypercar — which, for everyone in Meridian, was a birthday.
 
-**Meridian is illegal like everything else in the city.** Nothing about it is sanctioned. There are no marshals, no scrutineers, no timing officials and no rulebook — only a gate, a class restriction, and enough private money that the police in The Heights are slower to arrive and less interested when they do. It is the least *policed* district in the city, and the one with the most expensive consequences for being caught.
+**This is the crew the rest of the city has a real problem with,** and it is the only friction in Nitroit that is about something other than driving. A Dockline racer whose father works a Meridian family's terminal is not neutral about racing that family's son. The game does not resolve this, does not make Meridian villains, and does not make them stupid — several of them are genuinely quick, and Adrian Wolff is the most naturally talented driver in Nitroit after Jake. It simply notes that they never had to be anything else.
+
+**Meridian is illegal like everything else in the city.** Nothing about it is sanctioned. There are no marshals, no scrutineers, no timing officials and no rulebook — only a gate, a class restriction, and enough private money that the police in The Heights are slower to arrive and less interested when they do. It is the least *policed* district in Nitroit, and the one with the most expensive consequences for being caught.
 
 It is also the last district in the campaign, and the hardest wall in the city: the only way in is to own a hypercar, and hypercars are the most expensive thing the game sells. Taking The Heights is the point where street winnings stop being spending money and become capital.
 
@@ -220,7 +350,7 @@ Meridian's machinery is road machinery — Bugatti, Koenigsegg, Pagani and their
 
 **Meridian supplies no drivers and no mechanics to a festival team.** Its members have no discipline in the festival's sense and no interest in working for anybody. What a Loyal Meridian contact offers instead is money: they will sponsor the protagonist's team and cover its salaries for a season (Section 12.4.4). It is the only district whose relationships convert into funding rather than personnel, and it is exactly what a district full of rich people would be worth.
 
-### 5.2 Territorial Rule
+### 5.3 Territorial Rule
 
 **In the city, the crew that controls a district sets the rules inside it.**
 
@@ -237,15 +367,15 @@ To take a district, the protagonist must defeat each ranked member of the contro
 
 Taking a district transfers rule-setting authority to the protagonist. He can then set the district's rules himself — an authority the game deliberately does *not* grant him in the festival.
 
-### 5.3 The Festival in the City
+### 5.4 The Festival in Nitroit
 
-From Act 2 onward, the festival is visible in the city world: billboards, magazine racks, radio spots, television in shop interiors, NPC conversation. It is never hidden and never mysterious.
+From Act 2 onward, the Revada festival is visible all over Nitroit: billboards, magazine racks, radio spots, television in shop interiors, NPC conversation. It is never hidden and never mysterious, and it is eight hundred miles away.
 
 The protagonist's response, consistently, is disinterest. He changes the subject. He looks away. NPCs who bring it up get short answers.
 
 This is the only place in the game where the protagonist's avoidance is dramatised without the player being told it is avoidance.
 
-### 5.4 Street Culture
+### 5.5 Street Culture
 
 The city runs on **underground car culture**: unsanctioned, self-organised, and answerable to nobody but the people inside it.
 
@@ -253,13 +383,13 @@ The city runs on **underground car culture**: unsanctioned, self-organised, and 
 
 **What a car is for.** Identity first, performance second — and the two are not separated. A car that is fast but anonymous earns nothing at a night meet. The scene reads a build the way it reads a person: stance, wheel fitment, paint, exhaust note, engine swap choice, whether the work was done properly or bodged.
 
-**What the rules are.** Whatever the crew that controls the district says they are (Section 5.2). Rules are verbal, local, inconsistent between districts, and enforced socially — by refusal of entry, by reputation damage, by being run off the road.
+**What the rules are.** Whatever the crew that controls the district says they are (Section 5.3). Rules are verbal, local, inconsistent between districts, and enforced socially — by refusal of entry, by reputation damage, by being run off the road.
 
 **What legitimacy looks like.** Recognition. There is no certificate, no licence, no ranking body. A racer is what other racers say he is.
 
 **What is technically permitted.** Everything a car can physically be made to do. Engine swaps across manufacturers, nitrous, illegal-height suspension, straight-piped exhausts, removed catalytic converters, unhomologated aero, non-road-legal tyres. No scrutineering exists because no organising body exists, and no build is ever rejected on grounds of legality.
 
-The only restrictions in the city are **entry conditions set by a controlling crew for its own events** (Section 5.2) — a power cap here, a no-nitrous rule there. These are house rules, not regulations: they apply to one crew's events in one district, they change when the district changes hands, and nobody inspects the car. A racer who ignores them is not disqualified; he is simply not let in.
+The only restrictions in the city are **entry conditions set by a controlling crew for its own events** (Section 5.3) — a power cap here, a no-nitrous rule there. These are house rules, not regulations: they apply to one crew's events in one district, they change when the district changes hands, and nobody inspects the car. A racer who ignores them is not disqualified; he is simply not let in.
 
 **What the risk is.** Police, other racers, and money. Nothing else.
 
@@ -297,19 +427,79 @@ A single numeric score representing the protagonist's standing in the city's str
 | Lose an Invitational | −300 |
 | Decline the same Invitational twice | −200 |
 
-**Tiers:**
+#### Tiers and Titles
 
-| Tier | Threshold | Unlocks |
-|---|---|---|
-| Nobody | 0 | Low-stakes district events only |
-| Known | 2,500 | Crew challenges, night meets |
-| Contender | 8,000 | Wager events, cross-district events |
-| Name | 20,000 | Invitational events, high-tier crew leaders |
-| King | 45,000 | Citywide events, Act 3 conclusion |
+The city's scene names the protagonist as he climbs. The title is what NPCs call him in dialogue, what magazines print under his photograph, and what a stranger at a night meet has already heard before he arrives.
 
-REP determines **access and recognition**. At high REP, NPCs across the city acknowledge the protagonist by name, defer to him in conversation, and refer to him as the city's street king.
+| # | Title | REP | What it means, and what it opens |
+|---|---|---|---|
+| 1 | **Nobody** | 0 | They do not know the car or the driver. Low-stakes district events only. |
+| 2 | **Plate** | 800 | They know the car, not the name. Roaming racers start accepting challenges. |
+| 3 | **Regular** | 2,000 | A face at meets. Night meets and full district payouts. |
+| 4 | **Known** | 4,500 | The name travels between districts. Crew challenges open; first magazine offers arrive. |
+| 5 | **Marked** | 8,000 | The police have a file. **Pursuits start one heat level higher, permanently.** Payouts rise everywhere. |
+| 6 | **Runner** | 13,000 | Known for getting away. Cross-district events; wager events unlock. |
+| 7 | **Contender** | 20,000 | Taken seriously by people who matter. High-tier crew members; pink slips unlock. |
+| 8 | **Name** | 30,000 | The city says the name unprompted. **Invitationals begin arriving** (Section 11.3). |
+| 9 | **Headliner** | 42,000 | Magazine covers rather than features. The two unaffiliated Invitational racers make contact. |
+| 10 | **Untouchable** | 58,000 | **No crew will send anyone below their best.** Crew leaders become challengeable. |
+| 11 | **The Name They Use** | 78,000 | "Street racing" and the protagonist's name have become the same phrase in this city. Final district opens. |
+| 12 | **King of the Streets** | 100,000 | Act 3 conclusion. Every district held. |
+
+REP determines **access and recognition**. At high REP, NPCs across the city acknowledge the protagonist by name, defer to him in conversation, and refer to him by his current title without being prompted.
 
 **REP never decreases below the threshold of a tier already earned.** Progression is not lost, only slowed.
+
+**Titles are not cosmetic.** Three of them change mechanics outright: Marked raises police response permanently, Name opens the Invitationals, and Untouchable removes the easy opposition from every district at once. The rest change what the world says.
+
+#### The List
+
+**The police keep their own ranking, and it does not care what the scene thinks.**
+
+Running from the police accumulates a bounty. Once the protagonist reaches **Marked**, the department adds him to an internal list of the twenty street racers it most wants off the road — ordered by bounty, not by ability.
+
+##### What Raises the Bounty
+
+| Action | Bounty |
+|---|---|
+| Disabling or wrecking a police vehicle | The largest single source in the game |
+| Escaping a pursuit | Scales with the heat level at the moment of escape |
+| Sustaining a pursuit past a duration threshold | Moderate, per threshold crossed |
+| Causing civilian collisions during a pursuit | Moderate |
+| Being busted | Raises it. Being caught is evidence, not absolution. |
+
+**Bounty never decreases.** There is no cooling off, no lying low, no paying it down. The List is the one number in the game that only goes up.
+
+##### What Position Does
+
+Every position gained upgrades the fleet the department sends after him.
+
+| Position | What they send |
+|---|---|
+| **#20 – #17** | Standard patrol sedans. Slow, numerous, easy to lose. |
+| **#16 – #13** | Uprated patrol cars and the first unmarked units. |
+| **#12 – #9** | Pursuit-tuned sedans, coordinated boxing, spike strips as standard. |
+| **#8 – #5** | High-performance interceptors — faster than anything in the player's garage below S class. |
+| **#4 – #2** | A dedicated pursuit unit in cars built for nothing else, driven by people who do nothing else. Helicopter on station rather than called. |
+| **#1** | All of the above, deployed from the first heat level, in every district, permanently. |
+
+This runs on top of Heat (Section 7.1) rather than replacing it. **Heat decides how many and how hard they are trying. The List decides what they are driving.**
+
+**The escalation is permanent and cannot be undone.** A player who spends Act 2 wrecking police cars for the bounty spends Acts 3, 4 and 5 being chased by a fleet that Act 2 bought them.
+
+##### Why It Is Not a Punishment
+
+Bounty is also money and REP. Wrecking police vehicles is the fastest bounty in the game, escaping high-heat pursuits pays better than most events, and the top of the List is genuinely lucrative.
+
+**So the List is a bargain the player strikes without ever being asked whether they want it.** Every pursuit turned into a demolition derby buys cash tonight and a harder city forever. Nobody warns them. The first time most players notice is the night the car that has been catching them all game is suddenly not the fastest thing in the mirror.
+
+##### What It Never Does
+
+Reaching **#1** unlocks nothing. There is no reward, no acknowledgement in dialogue, no NPC who congratulates him, no scene. It is not a goal and the game never presents it as one.
+
+**The two rankings disagree on purpose.** A player who races constantly and rarely runs can reach King of the Streets while sitting at #18, in a city that still sends sedans. A player who spends half their nights at Heat 5 can be #1 at Contender, hunted by interceptors, having won nothing.
+
+The scene's title is what he built. The List is what it cost.
 
 ### 6.2 Standing — Individual Relationship
 
@@ -323,11 +513,33 @@ Every named racer, crew leader, shop owner and recurring NPC in the city carries
 |---|---|
 | Dialogue choices | Primary driver. Every conversation with a named NPC moves Standing by ±1 or holds it. |
 | Contact during races | Repeatedly ramming a specific racer lowers their Standing by 1 per event. |
-| Racing clean against them | Winning without contact raises Standing by 1. |
-| Roaming challenges | Same rules as any race: clean win +1, contact −1 (Section 11.1). |
+| Racing clean against them | Winning without contact raises Standing by 1 — **twice per NPC, and then no more.** |
 | Beating them repeatedly | Three consecutive wins against the same racer lowers Standing by 1 — humiliation costs. |
 | Losing to them | No effect. Losing does not damage relationships. |
 | Wager outcomes | Taking a car from an NPC in a pink-slip event lowers Standing by 2. |
+
+#### The Ceiling on Racing
+
+**Racing alone cannot take anybody past Friendly.**
+
+Clean wins move an NPC from Neutral to +2 and stop there. The last point — the one that separates a competent colleague from someone who will bury their own result for you — comes only from things that are not repeatable:
+
+| Source of the final point | Availability |
+|---|---|
+| A crew's personal storyline, completed | Once per NPC |
+| A dialogue thread across multiple encounters, answered consistently | Once per NPC |
+| Helping them with something that costs the protagonist money or a car | Once per NPC |
+| Declining an Invitational from them | Once per racer. The first refusal is free; a second costs REP (Section 11.3). |
+
+**Loyal is finite by construction.** There is no grind that produces it, and no NPC can be farmed into it.
+
+#### Decay
+
+**Standing decays through neglect.** An NPC the protagonist has not raced, spoken to or done business with drifts one point toward Neutral every fourteen in-game days. It never decays past Neutral, and it never decays below it — abandoning someone makes them indifferent, not hostile.
+
+This applies to shop owners exactly as it applies to racers, which means credit terms erode if the player stops using a shop (Section 7.4).
+
+**The consequence is the one the game is about.** A player cannot build every relationship in the city, because keeping a relationship requires going back, and the days spent going back are days not spent somewhere else (Section 12.6). By Act 5 the roster is not a list of everyone the player was nice to. It is a list of who they kept.
 
 **Outputs:**
 
@@ -337,13 +549,13 @@ Every named racer, crew leader, shop owner and recurring NPC in the city carries
 | Unfriendly (−2 to −1) | Defends aggressively, closes doors, no quarter | Curt, withholds event invitations |
 | Neutral (0) | Races to win, clean by default | Transactional |
 | Friendly (+1 to +2) | Races hard but clean, gives room in ambiguous situations | Shares event locations, warns of police patrols |
-| Loyal (+3) | Will block *for* the player in team events | Offers cars and sells parts at cost |
+| Loyal (+3) | Will work *for* the player in team events, in whatever way their personality allows (Section 6.4) | Offers cars and sells parts at cost |
 
 Friendly and Loyal NPCs are the only people the protagonist can recruit onto a festival team (Section 12.4). Every relationship built in the city is a potential seat on that roster.
 
 **Standing is willingness, not capability.** How an NPC actually drives when it matters is governed by their personality (Section 6.4), which Standing never overrides. A Loyal racer who cannot stand losing will still not let the protagonist past.
 
-**Resolving multiple inputs.** Inputs are applied in the order they occur and accumulate. Three consecutive clean wins against the same racer produce +3 from clean racing and −1 from repeated defeat, for a net +2: beating someone fairly builds respect faster than it builds resentment. Three consecutive wins *with contact* produce −3 and −1, for a net −4.
+**Resolving multiple inputs.** Inputs are applied in the order they occur and accumulate, and the two-win ceiling applies before anything else. Three consecutive clean wins against the same racer produce +2 from clean racing (the third earns nothing) and −1 from repeated defeat, for a net **+1**. Three consecutive wins *with contact* produce −3 and −1, for a net **−4**. Beating someone fairly builds respect slowly; beating them badly destroys it fast.
 
 ### 6.3 How the Two Interact
 
@@ -351,7 +563,7 @@ Friendly and Loyal NPCs are the only people the protagonist can recruit onto a f
 
 REP governs what NPCs *say about* the protagonist and what he can *access*. Standing governs what individual NPCs *do to* him.
 
-A racer at Hostile Standing, in a city where the protagonist has reached King tier, will openly acknowledge him as the king of the streets — and then spend the entire race trying to put him into a wall. Recognition is not affection. Status buys access, not goodwill.
+A racer at Hostile Standing, in a city where the protagonist has reached King of the Streets, will openly acknowledge him as the king of the streets — and then spend the entire race trying to put him into a wall. Recognition is not affection. Status buys access, not goodwill.
 
 There is no REP value high enough to make a Hostile NPC race cleanly, and no Standing value high enough to grant access to an event the player's REP tier has not unlocked.
 
@@ -462,7 +674,7 @@ Damage still persists **after** the event, and it still costs money. It shows on
 
 Damage is **live**. Aerodynamic damage costs downforce and adds drag, a frontal impact reduces power delivery and cooling, and a heavy lateral hit introduces steering pull and uneven grip — all of it immediately, for the rest of the session, with no restart available.
 
-This is the single largest mechanical difference between the two halves, and it is what makes the festival's conduct multiplier (Section 14.1) bite twice: contact costs points *and* costs lap time.
+This is what makes the festival's conduct multiplier (Section 14.1) bite twice: contact costs points *and* costs lap time, in the same incident.
 
 ### 8.3 Repair
 
@@ -476,7 +688,7 @@ In the festival, repair between rounds is handled by that discipline's mechanic,
 
 ## 9. Wager Events
 
-Unlocked at Contender tier.
+Unlocked at Contender (Section 6.1).
 
 **Cash wagers:** both parties stake an agreed sum. Loser pays. No further consequence.
 
@@ -509,7 +721,7 @@ Every car in the game carries a **class**, assigned automatically from a compute
 
 **Class is earned, not bought.** Installing parts raises the index, and when the index passes a class ceiling the car moves up a class. A fully built C-class tuner becomes a B-class car and races B-class fields; it does not become an unbeatable C-class car.
 
-This single index governs every restriction in the game. Crews use it to gate district events (Section 5.2), the festival uses it to assign competition classes (Section 13.3), and both read the same number.
+This single index governs every restriction in the game. Crews use it to gate district events (Section 5.3), the festival uses it to assign competition classes (Section 13.3), and both read the same number.
 
 **A car can be detuned.** Parts can be removed or swapped down to bring a car back under a class ceiling. This is a legitimate strategy — a B-class car at the very top of its class beats an A-class car at the bottom of its own — and it is how a player enters a restricted event with a chassis they have already over-built.
 
@@ -556,7 +768,7 @@ Presentation is not cosmetic bookkeeping. It is an input to three separate syste
 
 **Audio and interior parts have a cost, and it is weight.** A full boot build with subwoofers, amplifiers and screens adds real mass, carried high and behind the rear axle — the worst place in the car for it. The physics model simulates this: a heavily built audio system shifts the balance rearward, slows direction changes, and makes the car lazier on turn-in.
 
-A player can therefore build a 6-Presentation show car that is measurably slower than the same chassis stripped, and the game never resolves that tension for them. Riverside and the magazines want one thing. The Old Guard's stopwatch wants the other. Most players end up keeping two Blueprints for the same car.
+A player can therefore build a 6-Presentation show car that is measurably slower than the same chassis stripped. Riverside and the magazines want one thing; the Old Guard's stopwatch wants the other; and moving a single car between the two states costs days and labour (Section 10.6). The player is choosing which of the two that car is for this week, not toggling between them.
 
 **Presentation does nothing in the festival.** It is not scored, not read, not referenced, and most of what produces it is prohibited there outright (Section 13.3). The rating exists entirely inside the city, which is the only place that cares what a car looks like.
 
@@ -570,7 +782,20 @@ This does not gate content. It is the game's way of letting the player's build s
 
 A **Blueprint** is a complete saved specification of a car: every installed performance part, every tuning value, every visual modification, paint, vinyl layout, wheel choice, ride height and alignment setting.
 
-Each car in the garage holds multiple Blueprints, and the player switches between them freely without re-purchasing anything they already own. A single chassis can hold a street setup, a wet-weather setup and a class-legal circuit setup simultaneously.
+Each car in the garage holds multiple Blueprints. **Switching between them is not a menu action.** Parts are physical objects that have to come off the car and go back on it:
+
+| Switch | Cost |
+|---|---|
+| Tuning values only — damper, alignment, gearing, pressures | Free, instant |
+| Wheels, tyres, minor bolt-on parts | 1 day, small labour charge |
+| Body kit, aero, interior, boot build | 2 days, significant labour charge |
+| Engine, forced induction, drivetrain | 3 days, heavy labour charge |
+
+Labour is charged by the shop doing it, at that shop's rates and credit terms (Section 7.4), or by the discipline's mechanic during a festival season (Section 12.4.5).
+
+**This is what makes the Presentation trade-off real.** A show build and a race build are two states of one physical car, and moving between them costs days the player does not have (Section 12.6) and money they would rather spend elsewhere. Owning both configurations is cheap. *Being in both* is not.
+
+A player who wants to shoot a magazine cover on Tuesday and run an Old Guard circuit on Wednesday has to own two cars, not two Blueprints.
 
 Blueprints are the unit of the game's online system (Section 17).
 
@@ -619,10 +844,12 @@ A Meridian member in a Zonda can be found idling at a light near the Docks. An O
 | Outcome | Effect |
 |---|---|
 | Win | Cash wager, REP +75, Standing with that NPC ±0 |
-| Win with no contact | Cash wager, REP +75, Standing +1 |
+| Win with no contact | Cash wager, REP +75, Standing +1 — **subject to the two-win ceiling** (Section 6.2) |
 | Lose | Wager forfeited, no REP change |
 | Ram the opponent during the race | Standing −1, regardless of result |
 | Busted by police mid-race | Wager forfeited, standard bust consequences (Section 7.2) |
+
+**Roaming challenges cost a day.** Like every city activity, accepting one consumes calendar time (Section 12.6). They are fast money, not free money.
 
 Police do not schedule these races and do not know they are happening — but the race runs through live traffic at speed, and a patrol that sees it joins in. A roaming challenge that starts as easy money can end in impound.
 
@@ -632,7 +859,7 @@ Police do not schedule these races and do not know they are happening — but th
 
 The city's underground car magazines approach the protagonist once he is worth putting on a cover.
 
-**Trigger.** An offer arrives when two conditions are met simultaneously: the player has reached a REP tier the magazine cares about, and owns a car above a **Presentation** threshold (Section 10.4). Offers scale — early magazines want a 2-Presentation build, the last ones will not photograph anything under 5.
+**Trigger.** An offer arrives when two conditions are met simultaneously: the player has reached a title the magazine cares about (Section 6.1), and owns a car above a **Presentation** threshold (Section 10.4). Offers scale — early magazines want a 2-Presentation build, the last ones will not photograph anything under 5.
 
 **The magazines.** Each is tied to a crew culture, publishes accordingly, and wants a specific kind of car:
 
@@ -664,13 +891,13 @@ The city's underground car magazines approach the protagonist once he is worth p
 
 **Afterwards, the cover exists in the world.** It appears on newsstands, in shop interiors, and in the garages of NPCs. Crew members reference it in dialogue. A player who photographed a Dockline drag car for *Quarter* will hear about it from Dockline; so will Riverside, who will have opinions.
 
-**Why this exists.** Magazine features are the only REP source in the game that does not involve winning a race. They are how a player who builds obsessively converts that work into standing, and they are the mechanism that makes the entire customisation system — interior, engine bay, boot audio, none of which makes a car faster — matter to progression instead of sitting beside it.
+**Why this exists.** Only two things in the game produce REP without winning a race: escaping the police, and this. Magazine features are how a player who builds obsessively converts that work into standing, and they are the mechanism that makes the entire customisation system — interior, engine bay, boot audio, none of which makes a car faster — matter to progression instead of sitting beside it.
 
 ---
 
 ### 11.3 Invitationals
 
-Unlocked at **Name** tier. The player does not find these — they arrive.
+Unlocked at **Name** (Section 6.1), with the final two racers appearing at **Headliner**. The player does not find these — they arrive.
 
 Once the protagonist is somebody, the city's best drivers start contacting him directly. An Invitational is an unsolicited one-on-one challenge from a named elite racer, and it is the highest-stakes content in the city.
 
@@ -697,7 +924,7 @@ Invitationals are **endurance events**. They are long, they are unbroken, and th
 Point to point, corner to corner of the map, fifteen to twenty-five minutes. The route crosses every district in the city and finishes in the mountains above Ridgeline — dock roads to city grid to expressway to residential boulevards to a climb that does not stop until the finish. No checkpoints beyond the destination; the player chooses their own way through and so does the rival.
 
 **RING CIRCUIT**
-Three laps of a loop that encircles the entire city, using the Expressway Ring on one side and surface streets on the other. Roughly thirty minutes. The expressway sections are flat-out and the surface sections are traffic-choked, and the two demand opposite setups from the same car.
+Three laps of a loop that encircles the entire city, using the Expressway Ring on one side and surface streets on the other. Twenty to twenty-five minutes. The expressway sections are flat-out and the surface sections are traffic-choked, and the two demand opposite setups from the same car.
 
 **RIDGELINE DUEL**
 The mountain roads above the city, on the steepest sustained gradients in the game. Two phases.
@@ -731,16 +958,16 @@ The distance is not the point, and neither is simulation. The city is arcade (Se
 | Win | Rival's car with all parts, cash purse, REP +2,500, Standing −2 with that racer |
 | Lose | Staked car forfeited, REP −300 |
 | Busted mid-event | Staked car forfeited, event lost, standard bust consequences (Section 7.2) |
-| Decline (first time) | Nothing |
+| Decline (first time) | No REP change. **Standing +1** with that racer, once (Section 6.2). |
 | Decline (second time) | Invitation withdrawn for the act, REP −200 |
 
-Winning an Invitational takes a car from a driver who did not want to lose it, which costs 2 Standing exactly as a pink slip does (Section 6.2). **The nine best drivers in the city are therefore the nine easiest people to turn Hostile**, and a player who wins every Invitational in the game arrives at the festival having alienated the only city racers good enough to have followed him there.
+Winning an Invitational takes a car from a driver who did not want to lose it, which costs 2 Standing exactly as a pink slip does (Section 6.2). Eight of the nine are people the player could otherwise have put on a festival roster, and the consequences of that are set out in Section 12.4.3.
 
 ## 12. The Festival
 
 ### 12.1 What It Is
 
-A large sanctioned motorsport festival held on a dedicated closed-circuit complex outside the city. Grandstands, paddocks, scrutineering, official timing, sponsor presence, a rulebook.
+A large sanctioned motorsport festival held across the **state of Revada**, a day's drive west of Nitroit. Grandstands, paddocks, scrutineering, official timing, sponsor presence, a rulebook.
 
 It is **not** Formula 1, GT3, or any factory-backed professional series. There are no works teams, no manufacturer programmes, no driver contracts, no homologated race cars built for a rulebook from the ground up.
 
@@ -790,7 +1017,7 @@ The festival does not just ask the player to drive better. It asks them to think
 
 **In the festival, the car is a submission.** It is a document handed to an authority that will check it, line by line, against a rulebook it did not write for the player's benefit. The question is no longer what the player wants the car to be. It is what the car is allowed to be, and then how far the player can push it *inside* that.
 
-This is the single largest adjustment in the game, and it lands in three places at once:
+This is the single largest adjustment in the game, and it changes every question the player was asking about a car:
 
 | | City mindset | Festival mindset |
 |---|---|---|
@@ -825,7 +1052,7 @@ The protagonist can win everything in the festival and never gain authority over
 | Individual NPC Standing — and the roster it makes possible | The ability to compete alone |
 | Driving skill, entirely | — |
 
-The protagonist arrives with everything he built and none of what he became. He is a stranger with a garage and ten people who agreed to come.
+Jake arrives in Revada with everything he built and none of what he became. He is a stranger in another state with a garage and ten people who agreed to make the drive.
 
 ### 12.4 The Team
 
@@ -885,9 +1112,13 @@ A Ridge Union driver cannot be registered for Drag. A Dockline mechanic cannot p
 
 #### 12.4.3 The Invitational Problem
 
-The nine best drivers in the city are the nine best drivers the player could put on the roster. They are also the nine hardest people to keep Friendly, because the only way to face them is an Invitational, and winning one takes their car and costs 2 Standing (Section 11.3).
+Nine racers issue Invitationals. **Eight of them are recruitable** — the leaders of the six crews that supply festival personnel, and the two unaffiliated drivers, who carry a discipline of their own despite belonging to nobody (Section 12.4.2). The ninth is Meridian's, and Meridian supplies no personnel to anybody (Section 5.1).
 
-A player who wins every Invitational in the game arrives at registration with an elite garage and a roster of nobodies. A player who declines them keeps the relationships and enters the festival slower than they could have been.
+So for eight of the nine, the best driver available in that discipline and the hardest one to keep are the same person. The only way to face them is an Invitational; winning one takes their car and costs 2 Standing.
+
+The arithmetic is unforgiving because Loyal cannot be farmed (Section 6.2). An Invitational win drops a racer 2 points, and the only route back up is the finite, once-per-NPC material that Loyal is made of — most of which the player has probably already spent.
+
+**A player who wins every Invitational arrives at registration with an elite garage and a roster of nobodies.** A player who declines them keeps the people and enters the festival in slower cars, having paid REP for every refusal.
 
 **The game never resolves this.** It is the sharpest expression of the protagonist's whole problem: he is extremely good at taking things from people, and the one thing he needs cannot be taken.
 
@@ -1016,14 +1247,14 @@ Every festival event scores twice: once for the individual Driver Rank (Section 
 
 Team points from a single event are the sum of both team entries' points — the protagonist's and his teammate's — after each has had its own conduct multiplier applied (Section 14.1). A teammate who finishes fourth cleanly contributes more than one who finishes second by punting someone off.
 
-Team points accumulate across all five disciplines into a single Team Standings table, and that table is public, updated after every race date, and displayed at the festival complex.
+Team points accumulate across all five disciplines into a single Team Standings table, and that table is public, updated after every race date, and posted at whichever venue is hosting next.
 
 **Team Standings are a qualification requirement.** To reach the championship the protagonist must satisfy both conditions (Section 14.2):
 
 1. Top four in all five disciplines individually, and
 2. His team inside the top eight of the Team Standings.
 
-A player can therefore drive flawlessly all season and still fail to qualify, because the five people he recruited were the five people who would have him.
+A player can therefore drive flawlessly all season and still fail to qualify, because the people he recruited were the people who would have him.
 
 ---
 
@@ -1037,17 +1268,55 @@ Neither is a bug and neither is disloyalty. The player chose both of them.
 
 ### 12.5 Standing During a Season
 
-Standing is **frozen for the duration of a festival season**. Festival dialogue does not modify it, contact in a festival event does not modify it, and a teammate cannot be recruited, replaced or lost mid-season. The roster the protagonist registers is the roster he races with until the season ends.
+**The roster is frozen for the duration of a season.** Once registration is submitted, a teammate cannot be replaced, added or dropped until the season ends, whatever happens to the relationship underneath.
 
-Standing continues to move normally in the city between scheduled race dates and between seasons. A player who fails to qualify and re-registers (Section 14.2) does so with a fresh roster drawn from whatever Standing values the city has produced in the meantime — which is the second chance the system offers: a failed season is time to go back and build the relationships that were missing.
+**Standing itself is not frozen.** It keeps moving in the city during the window days between race dates — including downward, including for people on the roster. A drift teammate the player stops visiting decays from Loyal to Friendly mid-season (Section 6.2), and the tandem scores fall with him, and there is nothing to be done about it until the season is over.
+
+Festival events themselves do not move Standing. Contact in a festival event, and dialogue in the paddock, leave it untouched. Only the city changes it.
+
+A player who fails to qualify and re-registers (Section 14.2) does so with a fresh roster drawn from whatever Standing the city has produced in the meantime. That is the second chance the system offers: a failed season is time to go back and repair what was neglected.
 
 ### 12.6 Calendar and Time
 
-The festival calendar consists of scheduled official race dates across its multi-month run.
+**Time is the game's scarce resource, and it is the only one.** Money can be earned, cars can be bought, reputation can be rebuilt. Days cannot.
 
-Time in the city does not advance on a fixed clock. It advances when the player **elects to advance to the next scheduled festival date** from the festival registration menu. Between two scheduled dates, the player has unlimited time in the city to earn money, build cars, contest street events and pursue city content.
+#### The Day
 
-**No festival event can be missed.** The next scheduled date does not arrive until the player chooses to attend it. The months-long duration is fiction the world reflects — seasonal lighting changes, NPC dialogue referencing the festival's progress, updated standings boards — without imposing a real-time failure condition on the player.
+The city runs on a day counter. **Every meaningful city activity consumes days:**
+
+| Activity | Days |
+|---|---|
+| A street event, a roaming challenge, a night meet | 1 |
+| An Invitational | 1 |
+| A magazine shoot | 1 |
+| Workshop time — fitting parts, swapping a Blueprint, a repair | 1 to 3 by scale of work |
+| Time with an NPC — a conversation thread, a storyline step | 1 |
+| Travelling nowhere and doing nothing | 1, if the player chooses to pass |
+
+Nothing is free and nothing is instant. A player who wants a relationship, a magazine cover, a finished build and a full night of racing in the same window cannot have all four.
+
+#### Before the Festival
+
+Acts 1 through 5 have no external deadline. Days pass, Standing decays through neglect (Section 6.2), and the player allocates their time — but nothing expires.
+
+**Decay alone is the pressure.** Keeping a relationship alive costs roughly a day a fortnight. Keeping twelve costs most of what the player would otherwise spend earning, building and racing; keeping five costs almost nothing. Nothing stops a determined player from maintaining more — it simply means doing less of everything else, for five acts, and they feel the trade every time they spend a day driving across the city to talk to somebody instead of winning an event.
+
+#### During a Season
+
+A festival season is **fourteen scheduled race dates across roughly five months**, held at venues across Revada (Section 13.1). Between any two dates the player is back in Nitroit with a **fixed window of city days** — typically eight to twelve, varying by the gap in the calendar.
+
+- Days inside the window are spent freely on anything in Nitroit.
+- **Two of every window are travel days**, one out to Revada and one back. They are not optional and cannot be spent on anything else.
+- When the window is exhausted, the player departs for the next race date.
+- **No festival event can be missed.** The window ends by putting Jake on the road to Revada, never past it.
+
+Revada consumes no days of its own. A race date is a race date; the cost is the travel and the window it ends.
+
+This is the difference the festival makes, and the player feels it immediately: the same city, the same activities, the same costs — and suddenly a budget with two days already gone to the road. Nine days is seven usable ones: a mechanic's Insight session, two builds, a relationship kept alive, and a night of earning. It is not all of them.
+
+#### Between Seasons
+
+A player who fails to qualify (Section 14.2) returns to an uncapped city. The window discipline lifts, decay continues, and the next registration is built from whatever the player does with that.
 
 ---
 
@@ -1067,9 +1336,64 @@ Five disciplines, each with its own ladder and its own points table.
 
 **SPEED** — Long, fast, narrow point-to-point routes where top speed and stability at the limit matter more than cornering.
 
-**SPRINT** — Point-to-point circuit racing on the festival complex's connected road courses. Wheel-to-wheel, no laps, no second chance at a corner.
+**SPRINT** — Point-to-point racing on closed public roads between two marked points. Wheel-to-wheel, no laps, no second chance at a corner.
 
-### 13.1 Race Length and On-Track Strategy
+### 13.1 The Venues, the Field, the Season, and Race Length
+
+#### The Venues
+
+The festival moves. **Ten venues across Revada**, each hosting on particular dates and suited to particular disciplines by its terrain.
+
+| Venue | What it is | Disciplines |
+|---|---|---|
+| **Sandreach Motorsport Park** | Purpose-built permanent circuit. Three configurations. Grandstands, paddock, the closest thing the festival has to a home. | Grip, Sprint |
+| **Vermillion Flats** | Dry lake bed. Flat, white, limitless, no walls anywhere. | Drag, Speed, Drift |
+| **Halloran Basin** | Temporary street circuit through Revada's capital, closed for the weekend. Concrete walls, no run-off. | Grip, Sprint |
+| **Black Mesa Pass** | Mountain highway, closed both directions. Elevation, switchbacks, exposure. | Sprint, Drift |
+| **Tarrow Canyon Road** | Canyon two-lane, closed. The narrowest track in the festival. | Sprint, Speed |
+| **Copper Line** | Abandoned mining rail corridor, forty miles arrow-straight. | Speed |
+| **Anvil Strip** | Purpose-built drag strip. Timing towers, sanctioned, immaculate. | Drag |
+| **Rana Dry Wash** | Desert wash with banked walls and a natural amphitheatre of spectators on the rim. | Drift |
+| **Cold Springs Airfield** | Decommissioned airbase. Runways, taxiways, hangars, cones. | Drag, Grip, Drift |
+| **Mirror Salt** | Salt flat at the northern edge of the state. Nothing in any direction. Used once a season. | Speed |
+
+**Weather and time of day are fixed per date.** The calendar says where and when, and the player does not choose. An event at Black Mesa Pass in late afternoon is an event at Black Mesa Pass in late afternoon, for everybody, every playthrough.
+
+**The Circuit Final is always at Sandreach** (Section 15.2). It is the only permanent circuit in the state, the only venue with a full grandstand, and the only place in Revada that looks like the place where John Spaid died.
+
+#### How Many Teams
+
+A festival season fields **thirty-two registered teams**, which is sixty-four cars.
+
+Not every team contests every discipline. A team registers per discipline, and most register in two or three — the specialists the protagonist competes against in Drag are largely not the ones he competes against in Drift. **His team is one of a small handful registered in all five**, which is why the championship qualification is as hard as it is and why the championship field is eight rather than sixty-four.
+
+#### How an Event Runs
+
+Disciplines with more entries than a grid holds run in **heats**.
+
+| Stage | Structure |
+|---|---|
+| **Heats** | Entrants split into groups of eight. Each heat runs the full event. |
+| **Classification** | The top four of each heat go to the final; the rest are classified from their heat result and score accordingly. |
+| **Final** | Eight cars. The classification of eight that Section 14.1 scores from. |
+
+Drag and Drift skip heats — they are bracket and phase formats already (Section 13.2). Time Attack and Sector Shootout have no grid at all: every entrant runs alone and the classification is the timing sheet.
+
+**Both of a team's cars can appear in the same heat.** Seeding does not separate teammates except in the Drag bracket, where it explicitly does.
+
+#### The Season
+
+| | |
+|---|---|
+| **Race dates** | 14 across roughly five months |
+| **Events per date** | 2 to 4, drawn from different disciplines |
+| **Events per discipline, per season** | 8 to 11 |
+| **City days between dates** | 8 to 12 (Section 12.6) |
+| **Championship** | 4 qualifying rounds plus the Circuit Final, after date 14 |
+
+Eight to eleven events per discipline is what makes the top-four requirement survivable and the grade system meaningful: a bad round is recoverable, a bad discipline is not.
+
+#### Race Length
 
 **Festival races are short.** This is a deliberate calibration, not an omission.
 
@@ -1264,7 +1588,7 @@ Every festival event has an entry specification. A car that does not meet it can
 
 **A car cannot be part-legal.** Every item is checked, and one breach rejects the whole entry.
 
-**This is not the game punishing customisation.** It is the game drawing a line the protagonist has never had to acknowledge: the thing he made to be looked at and the thing he brings to be measured are not the same object. Most players will end up keeping two Blueprints of the same car (Section 10.6) — the one they built, and the one the rulebook allows.
+**This is not the game punishing customisation.** It is the game drawing a line the protagonist has never had to acknowledge: the thing he made to be looked at and the thing he brings to be measured are not the same object. Most players end up owning a separate car for the festival rather than converting their favourite one back and forth, because conversion costs days they do not have during a season (Section 10.6).
 
 **Per-discipline regulations:**
 
@@ -1308,7 +1632,7 @@ Points per event are calculated in two stages:
 
 Every festival event, regardless of format, resolves into a classification of eight. Grip and Sprint classify by finishing order; Speed by trap time; Time Attack and Sector Shootout by lap time; Drag by elimination bracket, where the winner classifies first, the losing finalist second, the losing semi-finalists third and fourth, and so on.
 
-**Drift is scored differently, because of its running order (Section 13.2).** A drift entry's classified position is built from three scores: the driver's own solo run, and the team tandem score, which is awarded identically to both team entries. A protagonist who qualifies brilliantly alone and runs a ragged tandem with a teammate he barely knows classifies below a driver who did both adequately.
+**Drift is scored differently, because of its running order (Section 13.2).** A drift entry's classified position is built from two scores: the driver's own solo run, and the team tandem score, which is awarded identically to both team entries. A protagonist who qualifies brilliantly alone and runs a ragged tandem with a teammate he barely knows classifies below a driver who did both adequately.
 
 **Stage 1 — Base points by classified position:**
 
@@ -1368,7 +1692,7 @@ The festival keeps two entirely separate tables, and they measure different thin
 | **Structure** | Five separate tables, one per discipline (Section 14) | One combined table across all five disciplines (Section 12.4.6) |
 | **What feeds it** | That driver's own classified position and conduct multiplier | Both team entries' points, summed |
 | **What it decides in the regular season** | Whether the protagonist meets condition 1 of qualification | Whether his team meets condition 2 |
-| **What it decides in the championship** | Who the protagonist faces at the end (Section 15) | Which team wins the festival |
+| **What it decides in the championship** | Nothing — the championship keeps its own points table (Section 14.4) | Which team wins the festival |
 
 **The two can disagree sharply, and a teammate is where they disagree hardest.**
 
@@ -1380,19 +1704,67 @@ Neither is wrong. They are different players to have, and the player chooses whi
 
 During the regular season there is no combined Driver Rank — five tables, no overall (Section 14).
 
-**The championship is where an individual overall exists.** Across the five championship rounds (Section 15.1), every qualified driver accumulates championship points into one table. That table is the festival's answer to the question of who the best driver here actually is, and it is the table the game's ending is decided on.
+**The championship is where an individual overall exists.** Across the four qualifying rounds of the championship (Section 15.1), every qualified driver accumulates championship points into one table. The Circuit Final is not part of it — it is what the table decides access to.
 
-**The protagonist's final opponent is whoever is second in it going into the Circuit Final.**
+**The table does two things and nothing else: it names the two drivers who contest the Circuit Final, and it decides which of them starts on pole.** The protagonist's final opponent is whoever is second in it when round four closes.
 
 That is determined by the season the player actually had. It can be a rival from any team. **It can also be his own teammate** — and if that teammate is a Competitor who has been maximising his own result all season while the protagonist did the same, it frequently is.
 
-**This changes nothing about the story.** The narrative requirement is that the team reaches the championship and that the protagonist wins the Circuit Final. Who is in his mirrors on the last lap is not a branch, not an alternate ending, and not a different scene. The dialogue, the staging, the silence on the final lap and the outcome are identical.
+**This changes nothing about the story.** The narrative requirement is that the team reaches the championship and that the protagonist wins the Circuit Final. Who is in the other car is not a branch, not an alternate ending, and not a different scene. The dialogue, the staging, the silence on the final lap and the outcome are identical.
 
 What changes is who it is.
 
-A player who recruited a Loyal Wingman spends the final lap with a stranger behind them and a friend somewhere back in fourth. A player who recruited a Loyal Competitor spends it with the one person in the festival who came here because of them, driving flat out to take it away — which is not betrayal, and the game never frames it as betrayal. It is a man who does not lose to people, doing the thing he was always going to do, in the car the protagonist helped him get there in.
+A player who recruited a Loyal Wingman contests the Circuit Final against a stranger, while the man who spent the season defending him watches from the pit wall. A player who recruited a Loyal Competitor contests it against him — the one person in the festival who came here because of the protagonist, on the grid beside him, driving flat out to take it away. That is not betrayal and the game never frames it as betrayal. It is a man who does not lose to people, doing the thing he was always going to do, in the car the protagonist helped him get there in.
 
 **The game does not resolve which of those is the better ending.** It is the last thing the player built, and it arrived without them choosing it.
+
+### 14.5 Grades and Titles
+
+The festival does not call anybody a king of anything for showing up. It grades drivers, and the vocabulary is borrowed from sanctioned motorsport rather than from the street: a grade is something an organising body issues, records, and can withhold.
+
+#### Competition Grade
+
+Grade is computed from the protagonist's **lowest-placed discipline**, not his best. A driver who is first in Drag and thirtieth in Drift is graded on the Drift number.
+
+This is the festival's first real statement about him, and it is made before he has driven a lap: *you are as good as the thing you are worst at.*
+
+| # | Grade | Requirement | What it means |
+|---|---|---|---|
+| 1 | **Applicant** | Registered, not yet raced | The team's entry is accepted. Nothing else is. |
+| 2 | **Provisional** | Finished one event in every discipline | Permitted to enter full race days rather than single events. |
+| 3 | **Novice** | Top 20 in all five | No longer treated as a curiosity in the paddock. |
+| 4 | **Club** | Top 16 in all five | Eligible for the higher-class events. Other teams start scouting the roster. |
+| 5 | **Regional** | Top 12 in all five | Named on the standings board rather than listed. |
+| 6 | **National** | Top 8 in all five | Press attention. Sponsorship offers reach the team. |
+| 7 | **Elite** | Top 6 in all five | The field stops expecting him to make mistakes. |
+| 8 | **Qualified** | Top 4 in all five, and team top 8 | **Championship entry** (Section 14.2). |
+| 9 | **Festival Champion** | Wins the championship | The last thing the festival has to give. |
+
+#### Discipline Titles
+
+Separate from Grade, and earned one discipline at a time.
+
+**Finishing a regular season ranked first in a discipline earns its title**, in the *ProStreet* idiom the festival inherited:
+
+| Title | Earned by |
+|---|---|
+| **Grip King** | First in the Grip ladder at season close |
+| **Drag King** | First in the Drag ladder |
+| **Drift King** | First in the Drift ladder |
+| **Speed King** | First in the Speed ladder |
+| **Sprint King** | First in the Sprint ladder |
+
+These are held by named NPCs when the protagonist arrives, and taking one takes it *from* someone — a driver who has held it for years, whose entire identity in the paddock is that word.
+
+**Holding a discipline title is not required to qualify**, and this matters. A player can win the championship having never held a single King title, because the championship rewards the driver who was top four everywhere over the driver who was first in one place. The specialists hold the crowns. The all-rounder takes the championship.
+
+**Holding all five at once** is the hardest achievement in the game, has no mechanical reward, is not required by the story, and is never mentioned by any character. The standings board simply lists one name five times.
+
+#### The Title That Is Not Given
+
+There is no festival title for the protagonist's *character*, no nickname, no crowd chant, no name the paddock invents for him. The festival calls him by his grade and his position, and nothing else.
+
+**This is the contrast the two halves are built on.** The city gave him twelve titles, escalating in drama until it just called him the king. The festival gives him a letter grade and a row on a board — and the last thing it gives him is not a title at all. It is a contract (Section 15.5).
 
 ---
 
@@ -1400,34 +1772,52 @@ A player who recruited a Loyal Wingman spends the final lap with a stranger behi
 
 ### 15.1 Structure
 
-The championship is a fixed, scripted sequence of five events — one per discipline — contested only by qualified teams.
+The championship is a fixed sequence of **four qualifying rounds and a decider**, contested only by qualified teams.
 
 Each round is entered by two cars per team: the protagonist and his discipline teammate. Both results feed the team championship. Only the protagonist's results feed the individual championship, which is the one the story is about.
 
 The order is fixed and does not vary between playthroughs:
 
-1. **Drag**
-2. **Speed**
-3. **Drift**
-4. **Sprint**
-5. **Grip — Circuit Final**
+| Round | Discipline | Purpose |
+|---|---|---|
+| 1 | **Drag** | Individual and team points |
+| 2 | **Speed** | Individual and team points |
+| 3 | **Drift** | Individual and team points |
+| 4 | **Sprint** | Individual and team points |
+| — | **Circuit Final** | **Decides the championship outright** |
 
-Championship points accumulate across all five. The Circuit Final carries double points, which makes it mathematically decisive regardless of what came before: no accumulated lead is large enough to win the championship without the Circuit Final going the protagonist's way.
+#### The Circuit Final Is Not a Points Round
 
-The order exists for one reason. **The championship must end on a closed circuit, on a multi-lap race, because that is the kind of race that killed his father.**
+Points from the four qualifying rounds do one thing: **they decide who contests the Circuit Final, and from which side of the front row.**
+
+- The **top two** in the individual championship after round four go to the Circuit Final. Nobody else starts it.
+- Whoever leads on points takes pole. That is the whole of the advantage a good season buys.
+- **The Circuit Final is head to head, and the winner is the champion.** Accumulated points do not carry into it, cannot decide it, and cannot substitute for it.
+
+This is deliberate and it replaces an earlier structure in which the final round merely carried double points. Double points are not decisive — they are only heavier. A driver with a large enough lead could have arrived at the Circuit Final already champion, and a driver could have lost it and won the title anyway.
+
+**Neither outcome is acceptable, for one reason that has nothing to do with balance:** the entire game exists to put the protagonist on a circuit with the championship live and undecided until he crosses the line. A points system that can hand him the title before the flag, or take it from him after he won the race, breaks the only scene the game is built toward.
+
+So the format guarantees it instead. **He cannot win the championship without winning that race, and he cannot lose it if he does.**
+
+The order exists for the same reason. **The championship must end on a closed circuit, on a multi-lap race, because that is the kind of race that killed his father.**
 
 ### 15.2 The Circuit Final
 
-The Circuit Final is structured to reproduce the specific conditions of the father's death — not the outcome, the conditions.
+**Two cars. One race. The title.**
 
-- **Multi-lap closed circuit**, grandstands full, official timing, marshal posts, race control on the radio.
-- The race is designed so that the protagonist arrives at the **final lap in the lead, under pressure, with a car close enough behind to matter.** Field pacing ensures this: a runaway is not permitted to occur, and a large deficit is not permitted to become unrecoverable before the last lap.
-- **The car behind is whoever finished second in the individual championship going into this round** (Section 14.4) — a rival from another team, or the protagonist's own teammate. The staging does not change either way.
-- The final lap runs with **no commentary, no music, and reduced crowd audio.** Engine, tyres, and the car behind.
+- **Sandreach Motorsport Park** (Section 13.1), long configuration. Multi-lap, grandstands full, official timing, marshal posts, race control on the radio. The only permanent circuit in Revada, and the only venue all season that looks like the kind of place his father worked.
+- **The other car is whoever finished second in the individual championship** (Section 14.4) — a rival from another team, or the protagonist's own teammate.
+- The protagonist starts on pole if he led on points, and alongside if he did not.
+- The final lap runs with **no commentary, no music, and reduced crowd audio.** Engine, tyres, and the car alongside or behind.
 
-The protagonist is in the same position his father was in, in the same kind of race, at the same point in it.
+**The race is not staged, paced, or rubber-banded.** There is no field pacing, no artificial closing, and no scripted last-lap proximity. The opponent drives to the same standard every festival AI drives to, which the game has spent a season establishing as high. If the protagonist builds a four-second lead by lap two, he keeps it and wins from the front. If he loses the start, he has the race to recover it.
 
-**With one difference, and it is on the radio.** His Grip teammate is on track and his Grip mechanic is on the channel. Neither can win the race for him and the game does not let them. What they do is make it impossible for him to pretend he arrived alone — which is the only thing about this race that is not a repetition of his father's.
+**The drama does not need to be manufactured, because the format already produced it.** A two-car race for a championship, with no points to fall back on, is inherently the last lap of his father's race whether it is close or not. Manufacturing closeness on top of that would cost the festival the one thing it has been building since Act 5 — that the field is honest and the result is earned.
+
+The protagonist is in the same position his father was in, in the same kind of race, with the same thing at stake.
+
+**With one difference, and it is on the radio.** His Grip teammate is in the paddock and his Grip mechanic is on the channel. Neither can win the race for him and the game does not let them. What they do is make it impossible for him to pretend he arrived alone — which is the only thing about this race that is not a repetition of his father's.
 
 His father died in a crewed, team-entered car, surrounded by people. The protagonist spent five acts believing the lesson was to need nobody.
 
@@ -1443,9 +1833,9 @@ The game does not comment on this. No dialogue acknowledges the retries. The pro
 
 ### 15.4 Winning
 
-He wins on the final lap of a circuit race, from the lead.
+He takes the flag on a closed circuit, in a multi-lap race, with a championship on it.
 
-His father did not finish that lap. He does.
+It may be by four seconds or by a car's length; the game does not arrange which. What is fixed is the shape: he crosses the line at the end of the race his father did not finish.
 
 There is no speech and no montage. The win is the statement.
 
@@ -1465,9 +1855,9 @@ The protagonist spent five acts calling this place the thing he was afraid of. I
 
 ### 15.6 The Ending
 
-The final sequence is the protagonist arriving at a professional circuit as a contracted driver. Team transporter, garage, crew, race suit, a car he did not build and does not own.
+The final sequence is Jake arriving at a professional circuit — not in Revada, not anywhere the game has been — as a contracted driver. Team transporter, garage, crew, race suit, a car he did not build and does not own.
 
-Everything he spent the game surrounded by is gone. No city, no crew, no district, no reputation, no one who knows him. He is at the start of exactly the career his father had, at exactly the level his father started at, with the same thing at the end of it.
+Everything he spent the game surrounded by is gone. No Nitroit, no crew, no district, no reputation, no one who knows him. He is at the start of exactly the career his father had, at exactly the level his father started at, with the same thing at the end of it.
 
 The game ends there. It does not show him winning anything. It does not show him in a world championship. It does not promise that it goes well.
 
@@ -1488,7 +1878,7 @@ It says that he is going, and that fear is no longer the reason for anything he 
 
 After the Circuit Final is won, both halves of the game remain permanently open.
 
-- The city keeps all seven districts, all street events, all police pursuit content, all wager events, and all crew content.
+- Nitroit keeps all seven districts, all street events, all police pursuit content, all wager events, and all crew content.
 - The festival can be re-entered for new seasons; Rank and Team Standings reset per season, cars and money do not.
 - Every NPC the player built a relationship with remains available in both locations, and rosters can be rebuilt season to season.
 - No content is locked out by completion.
@@ -1563,7 +1953,91 @@ The entire game is playable offline with no feature loss. Blueprints authored of
 
 ---
 
-## 18. Identity Statement
+## 18. Cast
+
+A document whose thesis is that relationships are the currency needs the relationships to be people. These are the named roles the systems above refer to.
+
+### 18.1 The Spaids
+
+**Jake Spaid.** The protagonist. Grew up in Nitroit in a house that smelled of solvent, at circuits on weekends, in a paddock before he could drive. Has never held a licence to compete at any sanctioned event, has never been timed by anybody official, and is the best driver in a city of eight hundred thousand people. Speaks rarely and drives constantly.
+
+**John Spaid.** His father. Professional GT3 driver. Customer teams, sponsor liveries, endurance grids — a career spent as somebody else's hired driver, and good enough at it to lead a world championship into its final round. Died on the last lap of that race, in the lead, with the title won on the road and never awarded.
+
+Appears in the game only in photographs, in a magazine on a Nitroit newsstand, and in one recorded interview Jake finds and does not finish watching.
+
+### 18.2 Crew Leaders
+
+Each is the top-ranked racer of their crew, the final challenge for that district, and the Invitational contact for that discipline.
+
+| Crew | Leader | Personality | Discipline supplied |
+|---|---|---|---|
+| **Dockline** | Delia Ward | Brawler | Drag |
+| **The Old Guard** | Tomás Ferreira | Metronome | Grip |
+| **Ridge Union** | Kenji Arakawa | Technician | Drift |
+| **Ringrunners** | Dara Novak | Spike | Speed |
+| **The Yard** | Bilal Haddad | Wingman | Sprint |
+| **Riverside** | Junie Castellanos | Wingman | Sprint |
+| **Meridian** | Adrian Wolff | Competitor | None — sponsorship only (Section 5.1) |
+
+### 18.3 The Unaffiliated
+
+Two drivers who belong to no crew, hold no territory, and issue the two hardest Invitationals in the game. Both are recruitable, and both carry a discipline despite having no culture to inherit it from.
+
+| Name | Personality | Discipline | Who they are |
+|---|---|---|---|
+| **Nadia Ferrante** | Competitor | Grip | Raced professionally, briefly, years ago. Will not say what happened. The only person in the city who knows what the festival is actually like. |
+| **Cass Weller** | Spike | Drift | Has never joined anything. Beats crew leaders in cars that should not be capable of it and gives no explanation. |
+
+### 18.4 Shops and Mechanics
+
+One per district, each supplying that district's discipline.
+
+| Shop | Mechanic | Specialisation | Register |
+|---|---|---|---|
+| **Ward & Sons Machine** (Docks) | Curtis Ward | Engine | Explains everything twice, assumes nothing |
+| **Ferreira Motors** (Old Quarter) | Inês Ferreira | Chassis | Four words a session |
+| **Arakawa Import** (Ridgeline) | Sota Arakawa | Rubber | The city's first import shop, opened 1989. Will not shut up about a car he built in 2009. |
+| **Novak Performance** (Expressway) | Petra Novak | Aero | Openly contemptuous of the festival, does the work perfectly |
+| **The Yard Workshop** (Industrial) | Amira Haddad | Rulebook | Reads regulations for pleasure |
+| **Castellanos Custom** (Riverside) | Junie Castellanos | Chassis | Also the Riverside crew leader — the only NPC who is both |
+| **Meridian Concours** (The Heights) | — | — | Marque-authorised, members only. Nobody there works for anybody outside the club. |
+
+**Family names recur on purpose.** Nitroit is a city of inherited trades, the scene is old, and several of the crew leaders are related to the people who build their cars. A player who works with Curtis Ward for three acts is working with Delia's brother, in a shop their grandfather opened, and the Invitational against her is not a clean transaction.
+
+### 18.5 Festival Title Holders
+
+The five drivers who hold the discipline crowns when the protagonist arrives (Section 14.5). None are recruitable, none appear in the city, and none of them have any interest in him.
+
+| Title | Holder |
+|---|---|
+| **Grip King** | Yusuf Demir |
+| **Drag King** | Lena Brandt |
+| **Drift King** | Mika Sorvari |
+| **Speed King** | Oluwaseun Bright |
+| **Sprint King** | Renata Aguiló |
+
+---
+
+## 19. Production Scope
+
+The parts of scope this document commits to. Platform targets, budget and market positioning are outside it.
+
+| | |
+|---|---|
+| **Structure** | Single-player campaign, five acts plus an open-ended epilogue |
+| **Campaign length** | 30 to 40 hours to the end of Act 5; 60 to 80 to the championship |
+| **Post-championship** | Uncapped. City and festival both remain fully open (Section 16). |
+| **Cars** | 110 to 140, across classes D to X, all road cars (Section 10.1) |
+| **Licensing** | Assumes licensed real manufacturers. The class system, the district entry rules and Meridian's S/X restriction all depend on a real hypercar roster; fictional substitutes would weaken all three. |
+| **Named NPCs** | Roughly 40 — the cast above, plus crew members, magazine editors and festival rivals |
+| **Districts** | 7 districts in Nitroit; 10 festival venues across Revada |
+| **Festival layouts** | 18 to 24, drawn from the 10 Revada venues |
+| **Narrative delivery** | In-world and diegetic. Garage dialogue, radio during events, conversation at night meets and in the paddock, magazines and television in the world. No cutscene the player cannot drive out of, with two exceptions: the end of Act 5 and the final sequence. |
+| **Online** | Asynchronous only (Section 17). Fully playable offline. |
+
+---
+
+## 20. Identity Statement
 
 **Need for Speed: Beyond** is a single-player street racing game with a sanctioned-racing epilogue, not a hybrid of two genres.
 
@@ -1582,7 +2056,7 @@ It is built on **two car cultures that share a physics model and share nothing e
 | **Entry** | Alone. One driver, one car | By team. Five drivers, five mechanics, all recruited in the city |
 | **Simulation** | Arcade. No wear, no fade, damage is visual | Partly simulated. Temperature, fade, live damage — no fuel, no pit stops |
 
-- The city is the game. The festival completes it.
+- Nitroit is the game. Revada completes it.
 - One physics model spans both, so that skill transfers and status does not.
 - The street half rewards specialisation, territory and relationships. The sanctioned half rewards breadth, compliance and clean driving.
 - The festival supplies nothing. Every car in it was earned on the street, and every person on the team was met there.
