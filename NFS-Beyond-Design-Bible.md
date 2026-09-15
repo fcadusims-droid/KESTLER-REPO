@@ -1,5 +1,5 @@
 # NEED FOR SPEED: BEYOND
-## Design Bible — v2.3
+## Design Bible — v2.4
 
 ---
 
@@ -95,23 +95,40 @@ A single simcade physics model governs every event type in both halves of the ga
 
 **The handling model is identical in both halves. The simulation layer on top of it is not.**
 
-The city is arcade. The festival is simulated. This is not a physics change — it is a change in how much of the car's condition the game tracks while the player is driving it.
+The city is arcade. The festival is *more* simulated — not fully simulated. This is not a physics change and it is not an attempt to be Gran Turismo or Forza Motorsport. It is a change in how much of the car's condition the game tracks while the player is driving it, calibrated to races that last minutes rather than hours.
 
 | | City | Festival |
 |---|---|---|
 | **Handling model** | Identical | Identical |
-| **Tyre wear** | Not simulated | Simulated. Compound and driving style determine how long grip lasts. |
-| **Tyre temperature** | Not simulated | Simulated. Cold tyres are slower; overheated tyres lose grip. |
-| **Brake fade** | Not simulated | Simulated over long events |
+| **Tyre temperature** | Not simulated | Simulated. Cold tyres are slower through the opening lap; overdriving them costs grip. |
+| **Tyre wear** | Not simulated | Simulated as a gradual fade, not a cliff. Meaningful in long Sprints, marginal in a three-lap circuit race. |
+| **Brake temperature** | Not simulated | Simulated in the long formats only. Sustained heavy braking fades, and it recovers. |
+| **Fuel** | Not modelled | **Not modelled.** No fuel load, no consumption, no saving. |
+| **Pit stops** | None | **None.** Every festival event runs green to chequered in a single stint. |
 | **Damage during an event** | Visual only. No performance effect. | Aerodynamic, mechanical and alignment damage degrade the car in real time. |
 | **Damage after an event** | Persists. Costs money to repair. | Persists. Repaired by the discipline's mechanic (Section 12.4.5). |
 | **Restarts** | Freely available | Not available inside a session |
-| **Setup depth** | Simplified presets plus manual tuning | Full setup: dampers, ride height, camber, toe, gearing, differential, brake bias, pressures |
-| **Regulation** | None (Section 5.4) | Scrutineered before and after (Section 13.2) |
+| **Setup** | Simplified presets plus manual tuning | The mechanic supplies a working baseline; the player adjusts a short list of meaningful values (Section 12.4.5) |
+| **Regulation** | None (Section 5.4) | Scrutineered before the event, spot-checked after (Section 13.3) |
 
-**Why it is split this way.** The city is where the protagonist is comfortable, and the game lets the player be comfortable there. Street racing in *Beyond* is immediate: get in, drive, win, leave. Nothing is being measured except whether you were first.
+**Where the line is drawn, and why it is drawn there.**
 
-The festival measures everything. It measures tyre temperature, it measures contact, it measures whether the car was legal, and it measures it in public. **The step up in simulation is the same step up the protagonist is taking**, and the player feels it in the controller the first time they put a lap in on cold tyres and wonder why the car will not turn.
+The festival simulates **what a driver can feel and act on from inside the car during the race**. It does not simulate what a professional engineering department would manage around the race.
+
+| Simulated | Deliberately absent |
+|---|---|
+| Tyre temperature and the grip window | Fuel load, consumption and saving |
+| Gradual tyre fade over a long run | Pit stops, stop windows, undercuts |
+| Brake fade in the long formats | Tyre-change decisions |
+| Live damage effects | Telemetry screens, data logging, engineer callouts |
+| Slipstream | Balance-of-performance adjustment |
+| Surface condition and weather | Component wear across a season |
+
+**The distinction in one line: strategy in *Beyond* happens on the track, not on a pit wall.** The player never opens a strategy menu, never chooses a stint plan, and never watches a race unfold from a timing screen. Everything they decide, they decide at speed, with their hands on the wheel.
+
+**Why it is split this way.** The city is where the protagonist is comfortable, and the game lets the player be comfortable there. Street racing in *Beyond* is immediate: get in, drive, win, leave. Nothing is measured except whether you were first.
+
+The festival measures more. It measures whether the tyres are ready, whether the contact was yours, whether the car was legal, and it measures it in public. **The step up is real and it is meant to be felt** — but it is a step up in what the driver has to manage, not in what a team of engineers has to model.
 
 Neither layer is the "real" one. The city is not a tutorial for the festival and the festival is not the game's true form. They are two different relationships with the same car.
 
@@ -492,7 +509,7 @@ Every car in the game carries a **class**, assigned automatically from a compute
 
 **Class is earned, not bought.** Installing parts raises the index, and when the index passes a class ceiling the car moves up a class. A fully built C-class tuner becomes a B-class car and races B-class fields; it does not become an unbeatable C-class car.
 
-This single index governs every restriction in the game. Crews use it to gate district events (Section 5.2), the festival uses it to assign competition classes (Section 13.2), and both read the same number.
+This single index governs every restriction in the game. Crews use it to gate district events (Section 5.2), the festival uses it to assign competition classes (Section 13.3), and both read the same number.
 
 **A car can be detuned.** Parts can be removed or swapped down to bring a car back under a class ceiling. This is a legitimate strategy — a B-class car at the very top of its class beats an A-class car at the bottom of its own — and it is how a player enters a restricted event with a chassis they have already over-built.
 
@@ -541,7 +558,7 @@ Presentation is not cosmetic bookkeeping. It is an input to three separate syste
 
 A player can therefore build a 6-Presentation show car that is measurably slower than the same chassis stripped, and the game never resolves that tension for them. Riverside and the magazines want one thing. The Old Guard's stopwatch wants the other. Most players end up keeping two Blueprints for the same car.
 
-**Presentation does nothing in the festival.** It is not scored, not read, not referenced, and most of what produces it is prohibited there outright (Section 13.2). The rating exists entirely inside the city, which is the only place that cares what a car looks like.
+**Presentation does nothing in the festival.** It is not scored, not read, not referenced, and most of what produces it is prohibited there outright (Section 13.3). The rating exists entirely inside the city, which is the only place that cares what a car looks like.
 
 ### 10.5 Cultural Fit
 
@@ -727,21 +744,23 @@ A large sanctioned motorsport festival held on a dedicated closed-circuit comple
 
 It is **not** Formula 1, GT3, or any factory-backed professional series. There are no works teams, no manufacturer programmes, no driver contracts, no homologated race cars built for a rulebook from the ground up.
 
-It is the tier directly below that: **the sanctioned tuner scene** — the *ProStreet* model. Built cars, not race cars. Private entrants, small independent teams, and sponsored tuning shops. Closed tracks, scheduled race days, technical scrutineering, official timing, and a championship at the top.
+It is also not a street meet with cones. It sits deliberately in the middle: **legal, organised, scrutineered, public — and not yet professional.** The *ProStreet* model. Built road cars, not race cars. Private entrants, small independent teams, and sponsored tuning shops. Closed tracks, scheduled race days, a published rulebook, official timing, grandstands, and a championship at the top.
+
+**The festival is open to the public, and it is a bridge rather than a destination.** Spectators buy tickets, the standings board is posted where anyone can read it, and professional teams send scouts. Nobody in the festival is at the top of the sport. A meaningful number of them are trying to get there, and a few of them will (Section 15.5).
 
 It **runs for several months**, not a single weekend, with events held on scheduled official dates.
 
 ### 12.1.1 Sanctioned Culture
 
-**Who is in it.** Semi-professionals and professionals: drivers who race for a living or close to it. Shop-sponsored entrants, funded privateers, team-run cars with dedicated crews, engineers, data, and telemetry. No manufacturer money and no works programmes — the support is commercial and local, not industrial. Some of these drivers have never raced on a public road in their lives.
+**Who is in it.** A mixed field, and the mixture is the point: semi-professionals who race for a living or close to it, shop-sponsored entrants, funded privateers, small teams with two or three good people in them, and a handful of genuine professionals between contracts. No manufacturer money, no works programmes, no engineering departments. The support is commercial and local, not industrial.
 
-**What a car is for.** Winning within a rulebook. Visual identity still exists — liveries, sponsor decals, team presentation — but it is subordinate to legality and effectiveness. An illegal car is not a bold statement here. It is a car that does not start.
+**What a car is for.** Winning within a rulebook. Visual identity still exists — livery, sponsor decals, team presentation — but it is subordinate to legality and effectiveness. An illegal car is not a bold statement here. It is a car that does not start.
 
-**What the rules are.** Fixed, written, published in advance, identical for everyone, and enforced by scrutineers who inspect cars before and after events. No crew and no amount of winning changes them (Section 12.2).
+**What the rules are.** Published in advance, identical for everyone, and enforced by scrutineers who check cars before the event and spot-check them after. No crew and no amount of winning changes them (Section 12.2).
 
 **What legitimacy looks like.** Ranking. Timing sheets, standings boards, championship points. The scene does not care who you are; it cares what the clock and the classification say.
 
-**What is technically permitted.** Only what each discipline's regulations allow (Section 13). Everything else is rejected at scrutineering.
+**What is technically permitted.** Only what each discipline's regulations allow (Section 13.3). Everything else is rejected at scrutineering.
 
 **What the risk is.** Disqualification, penalties, suspension, and failing to qualify.
 
@@ -749,7 +768,7 @@ It **runs for several months**, not a single weekend, with events held on schedu
 
 The festival is the hardest content in the game, and it is hard for six compounding reasons — none of them arbitrary difficulty inflation.
 
-**1. The field is better than the city's field.** Street racers in the city are amateurs driving cars they built themselves. Festival competitors are professionals and semi-professionals with team support, engineering data, and track-specific setups. Festival AI runs tighter lines, brakes later and more consistently, defends without error, and does not make the unforced mistakes that city AI makes under pressure. A build that dominates a district will finish mid-pack in its first festival event.
+**1. The field is better than the city's field.** Street racers in the city are amateurs driving cars they built themselves. Festival competitors are semi-professionals and professionals with a prepared car, a mechanic who knows the circuit, and a season's worth of practice on it. Festival AI runs tighter lines, brakes later and more consistently, defends without error, and does not make the unforced mistakes that city AI makes under pressure. A build that dominates a district will finish mid-pack in its first festival event.
 
 **2. The festival gives the player nothing.** No cars are awarded, loaned, or provided for any event, including championship rounds. Every car the player enters must be a car they acquired in the city and built themselves. The festival is a competition the protagonist enters using the product of the life he spent avoiding it.
 
@@ -759,7 +778,9 @@ The festival is the hardest content in the game, and it is hard for six compound
 
 **5. He cannot enter alone.** Registration is by team, not by driver — five drivers, five mechanics, all of them named people recruited in the city (Section 12.4). The single hardest entry requirement in the game is not a car or a lap time. It is having ten people willing to put their season in the hands of a street racer.
 
-**6. The car is being simulated now.** Tyres wear and change temperature, brakes fade, and damage degrades the car live with no restart available (Section 4.1). None of this existed in the city. A player arriving from five acts of arcade street racing will lose their first festival event to a set of cold tyres and not understand why.
+**6. The car is being simulated now.** Tyres come up to temperature and fade, brakes fade in the long formats, and damage degrades the car live with no restart available (Section 4.1). None of this existed in the city. A player arriving from five acts of arcade street racing will lose their first festival event on the opening lap, on cold tyres, and not understand why.
+
+None of these six is an engineering problem. There is no pit wall, no fuel number and no stop to plan (Section 13.1). Every one of them is solved with the car moving.
 
 ### 12.1.3 The Shift in Mindset
 
@@ -882,7 +903,7 @@ Every registered team member draws a salary for the season, paid from the player
 | Standing at Loyal | Waived entirely — they are not doing it for money |
 | Discipline scarcity | A driver for a discipline the player has few contacts in commands more |
 
-A roster of Friendly professionals is expensive enough to compete with the five-car budget (Section 13.3), and the player will be back in the city earning between race dates to cover both. A roster of Loyal friends costs nothing and is the single largest economic advantage available in the game.
+A roster of Friendly professionals is expensive enough to compete with the five-car budget (Section 13.4), and the player will be back in the city earning between race dates to cover both. A roster of Loyal friends costs nothing and is the single largest economic advantage available in the game.
 
 **Sponsorship.** A Meridian contact at Loyal Standing will underwrite the team's salaries for a full season (Section 5.1). This is the only way to field a roster of paid professionals without funding it out of street winnings, and it is the one thing The Heights is good for beyond hypercars.
 
@@ -905,7 +926,7 @@ Every mechanic carries an **Expertise rating from 1 to 5**, inherited from their
 | Function | Effect |
 |---|---|
 | **Baseline setup** | The car's starting tune for that track. A 1-Expertise mechanic hands over something generic; a 5 hands over something already close to optimal. |
-| **Scrutineering** | Catches regulation breaches before registration (Section 13.2). A weak mechanic misses things and the car is rejected at the gate; a strong one flags the problem and proposes the fix. |
+| **Scrutineering** | Catches regulation breaches before registration (Section 13.3). A weak mechanic misses things and the car is rejected at the gate; a strong one flags the problem and proposes the fix. |
 | **Repair between rounds** | Faster and cheaper repair of damage carried out of an event. At Expertise 5, repairs are free. |
 | **Tyre strategy** | Chooses compound, pressure and starting temperature against the conditions — a festival-only concern, since the city does not simulate wear (Section 4.1). |
 
@@ -917,7 +938,7 @@ Beyond Expertise, every mechanic has one **technical specialisation**. It is whe
 
 | Specialisation | What they are unusually good at |
 |---|---|
-| **Engine** | Extracting power inside restrictor and aspiration limits |
+| **Engine** | Extracting power inside the class weight and index limits |
 | **Aero** | Finding downforce inside the dimensional limits, and cutting drag nobody noticed |
 | **Chassis** | Geometry, weight distribution, damper and spring work |
 | **Rubber** | Compound selection, pressure, temperature windows, wear management |
@@ -935,11 +956,13 @@ Every mechanic holds a personal set of **Insights** — specific, legal, non-obv
 
 Examples of the form:
 
-- A shorter intake runner recovers most of what a class restrictor takes away, and the restrictor rule says nothing about runner length
-- Running the minimum permitted ride height at the front and two millimetres above it at the rear passes the ride-height check and produces measurable rake
-- The permitted treaded competition tyre has a compound that comes in a full lap earlier than the one everybody runs
+- The minimum ride height is measured at the front axle only, which means rake is free
+- The permitted treaded tyre has a compound that comes up to temperature a full lap earlier than the one everybody runs — worth more over three laps than anything else on the car
 - A splitter cut to the inner edge of the dimensional limit rather than the outer edge loses almost no downforce and sheds real drag
-- The minimum weight is verified post-event, not pre-event, which means where the ballast sits is entirely the team's business
+- Minimum weight is a total, not a distribution, so where the remaining mass sits is entirely the team's business
+- The Drift rulebook caps camber but says nothing about the steering arm, and the angle available is not the angle most people run
+
+None of these is a grey area and none of them would embarrass anybody if the scrutineer read it aloud. They are simply places where a short rulebook is silent and most of the field assumed it was not.
 
 **How Insights are acquired.** They are not bought and not unlocked by progression. Each mechanic's Insights become available as Standing with that mechanic rises — a Neutral mechanic prepares the car, a Friendly one starts thinking out loud, a Loyal one tells the player everything he knows. Expertise is what he can do; Insights are what he will share.
 
@@ -953,7 +976,7 @@ The mechanic is present. He watches what the player installs, and he comments �
 
 The register is a working mechanic talking to somebody he is building a car with:
 
-> *"That restrictor's going to strangle you. But the rule's on the restrictor, not the plenum — put the short runners on and you'll get most of it back. Nobody in this class does it. I don't know why."*
+> *"They measure ride height at the front axle. Only the front axle. Lift the back two millimetres and you've got rake for free, and it's legal, and I've never seen anyone in this class do it."*
 
 > *"Don't. That kit's four millimetres over on the splitter. It'll pass a glance and fail the gauge, and they check the gauge."*
 
@@ -1040,13 +1063,57 @@ Five disciplines, each with its own ladder and its own points table.
 
 **DRAG** — Straight-line over a fixed distance. Manual staging, launch, shift precision. Build specialisation is near-total; a drag car is useless elsewhere.
 
-**DRIFT** — Scored runs judged on angle, speed, line and commitment. Two solo runs and a team tandem; see Section 13.1.
+**DRIFT** — Scored runs judged on angle, speed, line and commitment. Two solo runs and a team tandem; see Section 13.2.
 
 **SPEED** — Long, fast, narrow point-to-point routes where top speed and stability at the limit matter more than cornering.
 
 **SPRINT** — Point-to-point circuit racing on the festival complex's connected road courses. Wheel-to-wheel, no laps, no second chance at a corner.
 
-### 13.1 Running Order
+### 13.1 Race Length and On-Track Strategy
+
+**Festival races are short.** This is a deliberate calibration, not an omission.
+
+| Discipline | Length |
+|---|---|
+| **Grip — Open / Class** | 3 to 6 laps, by circuit |
+| **Grip — Time Attack** | One timed lap, one attempt, plus an out-lap |
+| **Grip — Sector Shootout** | One full lap, sectors timed independently |
+| **Sprint** | 8 to 20 minutes point to point — the long format |
+| **Drag** | Seconds |
+| **Drift** | Three scored runs (Section 13.2) |
+| **Speed** | 5 to 12 minutes point to point — the other long format |
+
+Nothing in the festival runs for an hour. Nothing requires a stop. A driver gets in the car, races, and gets out.
+
+---
+
+#### What "Strategy" Means Here
+
+The festival demands more of the player than the city does, and none of it is spreadsheet work.
+
+**Strategy in *Beyond* is a set of decisions made at speed, inside the race, with no menu open.** That is the whole of it:
+
+| Decision | Where it comes up |
+|---|---|
+| **When the tyres are ready** | Opening lap of every circuit event. Push on cold rubber and lose the car; wait too long and lose the position. |
+| **How hard to lean on the tyres** | Long Sprints and Speed runs, where fade is gradual and the driver decides whether the last third matters more than the first. |
+| **When to spend the brakes** | Long formats only. Heavy braking every corner fades them; the driver chooses which corners are worth it. |
+| **Attack or hold** | Every wheel-to-wheel event. Contact costs points through the conduct multiplier (Section 14.1), so an overtake that would be free in the city is a calculation here. |
+| **Slipstream** | Speed, and the long Sprints. When to sit in it, when to pull out, whether to give it to a teammate. |
+| **Committing in a tandem** | Drift phase three. How close is close enough before the contact risk outweighs the synchronisation score. |
+| **Damage management** | Everywhere. Live damage does not repair mid-event, so a driver carrying a broken splitter decides whether to keep racing it or settle for the classification he has. |
+
+**What strategy is never:**
+
+- Choosing a stint plan before the start
+- Deciding when to pit — there are no pits
+- Managing a fuel number
+- Reading telemetry
+- Watching the race from a timing screen
+
+**The test the festival actually sets is this: can the player hold a race together from green to chequered, in a car that is being worn down, against people who do not make mistakes, without touching anybody?** In the city, the answer never mattered. Here it is the whole score.
+
+### 13.2 Running Order
 
 **Every festival event is entered by two cars from the same team** — the protagonist and his discipline teammate (Section 12.4). How those two cars run is not the same in any two disciplines.
 
@@ -1164,27 +1231,35 @@ The team total is the sum of both cars, so a teammate sacrificing his own trap s
 | **Drift** | Teammate solo, protagonist solo, then tandem pair | A partner, and the score depends on it |
 | **Speed** | Released as a pair | A tow, or someone using yours |
 
-### 13.2 Technical Regulations
+### 13.3 Technical Regulations
 
 Every festival event has an entry specification. A car that does not meet it cannot be registered, and the player is told exactly which regulation it fails at the registration screen — never mid-event.
 
-**Universal regulations (all disciplines):**
+**The rulebook is short, and that is intentional.** The festival is not a professional series and does not pretend to be one. There is no homologation process, no technical passport, no sealed components, no balance-of-performance adjustment and no post-event teardown. What exists is a scrutineer with a checklist, a tape measure and a set of scales, checking the things that actually matter: that the car is safe, that it is in the right class, and that it is not carrying anything the discipline prohibits.
 
-- Full roll cage, fixed racing seat, harness, external kill switch, fire suppression
+**Safety regulations (all disciplines):**
+
+- Roll cage, fixed racing seat and harness
 - Working lights, functional windscreen, no exposed sharp bodywork
-- Minimum weight by class, verified post-event
-- Nitrous is prohibited in every discipline except Drag
+- Battery cut-off within the driver's reach
+- Brakes and tyres in serviceable condition
+
+**Competition regulations (all disciplines):**
+
+- Minimum weight by class
+- Nitrous prohibited in every discipline except Drag
+- Class assignment by the same performance index the city uses (Section 10.1)
 
 **Visual and interior regulations.** The rulebook governs how the car is built, not only how it performs, and this is where a city build is most often rejected:
 
 | Item | Ruling |
 |---|---|
-| **Boot audio** — subwoofers, amplifiers, screens, display panels | **Prohibited outright.** Classified as unsecured ballast. The boot must be empty or contain only permitted equipment. |
-| **Neon** — underglow, wheel-well, interior | Prohibited. No exterior lighting beyond the homologated units. |
+| **Boot audio** — subwoofers, amplifiers, screens, display panels | **Prohibited outright.** Unsecured mass in the back of a car on a circuit. The boot must be empty or carry only permitted equipment. |
+| **Neon** — underglow, wheel-well, interior | Prohibited. No exterior lighting beyond the standard units. |
 | **Body kits** | Permitted only within the dimensional limits for that discipline. A wide-body kit legal in Sprint is illegal in Grip. Overhang, splitter projection and wing dimensions are measured. |
-| **Interior trim** | Non-structural trim, upholstery and dashboard dressing must be removed. Only the cage, seat, harness, wheel, pedals and instrumentation remain. |
+| **Interior trim** | Non-structural trim, upholstery and dashboard dressing must come out. Cage, seat, harness, wheel, pedals and instruments stay. |
 | **Glass and tint** | Tint above a defined limit is prohibited. Side glass may be replaced with permitted lightweight panels. |
-| **Ride height and camber** | Minimum ride height enforced per discipline. Camber is capped. |
+| **Ride height and camber** | Minimum ride height enforced per discipline. Camber capped. |
 | **Livery** | Unrestricted, and the only part of the car's visual identity the festival does not touch. Paint, vinyls, decals and sponsor branding are entirely the team's. |
 
 **A car cannot be part-legal.** Every item is checked, and one breach rejects the whole entry.
@@ -1195,15 +1270,15 @@ Every festival event has an entry specification. A car that does not meet it can
 
 | Discipline | Drivetrain | Aspiration | Aero | Tyres | Additional |
 |---|---|---|---|---|---|
-| **Grip** | Any | Any | Wing and splitter within dimensional limits | Treaded competition tyre, no slicks | Fuel restrictor by class; ride height minimum |
-| **Drag** | Any | Any, nitrous permitted | Wheelie bar permitted; front aero unrestricted | Drag radial or slick permitted | Parachute required above a defined trap speed; no traction-limiting electronics |
+| **Grip** | Any | Any | Wing and splitter within dimensional limits | Treaded competition tyre, no slicks | Minimum ride height |
+| **Drag** | Any | Any, nitrous permitted | Wheelie bar permitted; front aero unrestricted | Drag radial or slick permitted | Parachute required above a defined trap speed |
 | **Drift** | **Rear-wheel drive only** — front and all-wheel drive are barred outright | Any | No limits | Any | Angle kit permitted; ABS must be disabled |
-| **Speed** | Any | Any | Stability aero mandatory above class power threshold | Speed-rated tyre mandatory | Minimum brake specification enforced |
-| **Sprint** | Any | Any | Same dimensional limits as Grip | Treaded competition tyre | Same restrictor rules as Grip |
+| **Speed** | Any | Any | Stability aero mandatory above a class power figure | Speed-rated tyre mandatory | Minimum brake specification |
+| **Sprint** | Any | Any | Same dimensional limits as Grip | Treaded competition tyre | Minimum ride height |
 
 **Performance classes.** Each discipline runs three competition classes, drawn from the same performance index that governs the city (Section 10.1): a lower class covering C and B, a middle class covering A, and a top class covering S and X. Upgrading a car past a class ceiling moves it up rather than making it dominant in the class below, and detuning to re-enter a lower class is legal here exactly as it is in the city. The player cannot buy their way out of a competitive field.
 
-### 13.3 The Five-Car Requirement
+### 13.4 The Five-Car Requirement
 
 Because regulations are discipline-specific and mutually exclusive, no single car can legally contest all five disciplines.
 
@@ -1233,7 +1308,7 @@ Points per event are calculated in two stages:
 
 Every festival event, regardless of format, resolves into a classification of eight. Grip and Sprint classify by finishing order; Speed by trap time; Time Attack and Sector Shootout by lap time; Drag by elimination bracket, where the winner classifies first, the losing finalist second, the losing semi-finalists third and fourth, and so on.
 
-**Drift is scored differently, because of its running order (Section 13.1).** A drift entry's classified position is built from three scores: the driver's own solo run, and the team tandem score, which is awarded identically to both team entries. A protagonist who qualifies brilliantly alone and runs a ragged tandem with a teammate he barely knows classifies below a driver who did both adequately.
+**Drift is scored differently, because of its running order (Section 13.2).** A drift entry's classified position is built from three scores: the driver's own solo run, and the team tandem score, which is awarded identically to both team entries. A protagonist who qualifies brilliantly alone and runs a ragged tandem with a teammate he barely knows classifies below a driver who did both adequately.
 
 **Stage 1 — Base points by classified position:**
 
@@ -1382,7 +1457,9 @@ The offer is a real one and it is specific: a seat, a contract, a season, in GT3
 
 It is the first time in the protagonist's life that he is offered a car he did not build and does not own, and the first car he will ever drive that was never a road car.
 
-It is not a reward for winning the festival. It is a consequence of it: a driver who placed top four in five disciplines and then won a championship against the people who did the same is exactly the profile a professional team recruits from. The festival is where that recruitment happens, and always was — which is why the professionals in it are there.
+It is not a reward for winning the festival. It is what the festival is for. **This is the level professional teams recruit from** — a public, sanctioned, semi-professional series where a driver's results are on a board anyone can read, run close enough to the real thing to mean something and far enough from it to be reachable. Scouts are in the paddock all season. A driver who placed top four in five disciplines and then won a championship against the people who did the same is exactly the profile they are there for.
+
+The protagonist spent five acts calling this place the thing he was afraid of. It was a bridge the whole time.
 
 **He accepts.**
 
@@ -1503,7 +1580,7 @@ It is built on **two car cultures that share a physics model and share nothing e
 | **Failure costs** | Bail, impound, repair, lost wagers | Penalties, suspension, failing to qualify |
 | **Authority available to the player** | Total — districts can be taken and ruled | None — the festival cannot be owned |
 | **Entry** | Alone. One driver, one car | By team. Five drivers, five mechanics, all recruited in the city |
-| **Simulation** | Arcade. No wear, no fade, damage is visual | Simulated. Wear, temperature, fade, live damage |
+| **Simulation** | Arcade. No wear, no fade, damage is visual | Partly simulated. Temperature, fade, live damage — no fuel, no pit stops |
 
 - The city is the game. The festival completes it.
 - One physics model spans both, so that skill transfers and status does not.
