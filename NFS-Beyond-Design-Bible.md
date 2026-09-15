@@ -1,5 +1,5 @@
 # NEED FOR SPEED: BEYOND
-## Design Bible — v3.8
+## Design Bible — v4.2
 
 ---
 
@@ -89,28 +89,49 @@ He was a wealthy nineteen-year-old with no parents, no obligations, and a hundre
 
 #### What He Did With It
 
-He sold the house. He put every cent of it, and every cent of his father's money, into an account. He did not tell anyone where he was going.
+He sold the house. Every cent of it, and every cent of his father's money, went into one account, and he left it there.
 
-He bought a pickup, drove out of the state, and kept driving. He took months over it — across the country, through places nobody knew his surname, stopping when he felt like it and moving when he did not. He was not looking for anywhere in particular. He was looking for a place where the phrase *John Spaid's son* meant nothing.
+**He does not consider it his.**
 
-**He stopped in Nitroit because nobody there had ever heard of his father.**
+This is the part of the trauma that is not about the crash. John Spaid earned that money doing a job, over twenty years, at the level Jake was supposed to reach and did not. Jake was given the talent, the head start and the seat, and he walked away from all three. In his own reckoning that money is the product of a life he refused to continue, and taking it would mean accepting the inheritance while rejecting everything that produced it.
 
-He rented a cheap house in a cheap part of town. He drew **twenty-five thousand dollars** out of the account to live on, and left the rest exactly where it was.
+**He has not got the right to it. That is the sentence in his head, and no one has ever talked him out of it, because he has never said it out loud.**
+
+What he took was **twenty-five thousand dollars** — enough to leave on, and nothing more. Not an allowance and not a stake. He treated it as the cost of getting away, and he has been spending it down ever since.
+
+#### Getting to Nitroit
+
+He did not buy a car. **A man who has just refused his father's money does not spend it on a vehicle.**
+
+He left on a bus, with a bag. Over the following months he crossed the country the slow way — long-distance coaches, sitting in terminals at four in the morning, and, more than anything else, **walking**. Days of it. Small towns, service roads, the edges of highways. He was not going anywhere. He was putting distance between himself and everyone who had an opinion about what he owed his father.
+
+**He stopped in Nitroit because nobody there had ever heard of John Spaid.**
+
+He got off a coach at the downtown terminal with a bag and no plan, and checked into a hostel on the edge of the Old Quarter because it was the cheapest bed within walking distance.
+
+**He has been there a few weeks when the game starts. There is fifteen thousand dollars left.**
 
 #### The Money
 
-**Jake does not touch his father's money, and this is not a plot device — it is a standing rule the game enforces on itself and a decision it hands to the player.**
+**The account is not in the game.**
 
-The account balance is visible in the garage menu from the first hour of the game. It is large. It is accessible. **The game will let the player spend it, at any moment, on anything.**
+It has no menu, no balance readout, no interface, no button. The player cannot see it, transfer from it, borrow against it or interact with it in any way, at any point, in either half of the game. There is no unlock, no late-game option and no hidden path to it.
 
-- Nothing gates it. There is no story beat that unlocks it and no character who forbids it.
-- Money moved out of the account never goes back.
-- No NPC ever mentions it. Nobody in Nitroit knows it exists.
-- The game never comments, warns, praises or punishes.
+**It exists as fact, not as a system.** It is referenced in dialogue, it is known to exist, and it is the reason Jake is in a hostel in a rust-belt city with fifteen thousand dollars instead of anywhere else doing anything else. That is its entire function.
 
-**Everything else in the game — the impound fees, the shop credit, the wagers, the ten festival salaries, the five legal cars — is balanced on the assumption that the player does not open it.** The tension is not that they cannot. It is that they can, at any time, and that using it would mean the last five acts were about nothing.
+**This is deliberate, and the reason is that it is not a decision the game is entitled to reopen.**
 
-The twenty-five thousand is the entire starting position: rent, a cheap car, and whatever is left.
+Jake made it before the campaign started — alone, at nineteen, in the weeks after his mother's funeral. It is settled. Putting a withdraw button in the menu would turn a finished piece of character into a standing temptation, and would tell the player that Jake is still arguing with himself about it. **He is not.** He is done arguing about it. That is what makes it a scar rather than a dilemma.
+
+The money is also not a resource the game could survive making available. Every economic system in *Beyond* — impound fees, shop credit, wagers, rent and property, the ten festival salaries, the five legal cars — is a real constraint precisely because there is no reservoir behind it. **There is no reservoir. There is fifteen thousand dollars and whatever Jake wins.**
+
+**Where the player encounters it:**
+
+| Where | How |
+|---|---|
+| **Dialogue** | Jake mentions it twice in the entire campaign, both times briefly, neither time as a possibility. |
+| **The ending** | Never resolved. The game does not say what happens to it. |
+| **Everywhere else** | Not at all. |
 
 #### Why He Wins
 
@@ -157,11 +178,49 @@ Nitroit does not close at any point. After the epilogue unlocks, the player move
 
 ### 3.1 Act 1 — Opening Position
 
-**The game starts with a rented house, a pickup, and twenty-five thousand dollars.**
+**The game starts in a hostel bunk with fifteen thousand dollars and no car.**
 
-Jake has been in Nitroit a few weeks. He knows nobody, owes nothing, and has told no one anything true about himself. The first hour is him buying a car — a cheap one, D or C class, because that is what is affordable once rent is accounted for — and finding out that the city races at night.
+Jake has been in Nitroit a few weeks. He knows nobody, owes nothing, has told no one anything true about himself, and has been walking everywhere because that is what he has been doing for months.
+
+#### The Opening Sequence
+
+**The game opens outside a car, and it is the only time it does.**
+
+A short non-interactive sequence: a coach pulling into the downtown terminal, a bag, a hostel desk, and then Jake walking. Not a level and not a tutorial — a few minutes of him crossing Nitroit on foot and by bus, over some weeks, ending on Pier Road at the eastern edge of the Docks, where a fenced lot sits next to a machine shop with the same family name on both signs.
+
+**From the moment he buys a car, the player is in it.** *Beyond* is played entirely from inside a vehicle. Jake never gets out under player control, there is no on-foot movement, no walking around a garage and no exploring anything on two legs. Every location the player visits, they drive into.
+
+Cutscenes are the exception and the only exception (Section 19).
+
+#### The Lot
+
+**Halvorsen Motors** is eleven cars on cracked asphalt behind a chain-link fence, and it is where every playthrough of *Beyond* begins.
+
+**Three of those cars are for sale to Jake.** The rest are priced beyond fifteen thousand dollars with anything left for parts, and the game does not pretend otherwise — they are visible, they are labelled, and they are not an option this week.
+
+The three are deliberately unequal in character and deliberately equal in price. None is better. Each is the cheap end of a different tradition in this city:
+
+| Car | What it is | What it points at |
+|---|---|---|
+| **Rear-drive coupé, eighteen years old** | Tired straight-six, soft suspension, rust in the arches. Slow, balanced, endlessly modifiable, and the natural starting point for anybody who wants the back end to move. | Ridgeline |
+| **Front-drive hatchback, light, high-mileage** | Small naturally aspirated four, nothing broken, nothing special. The most forgiving car of the three and the quickest to be competitive in a low class. | The Old Quarter |
+| **Rear-drive V8 sedan, two owners, one repaint** | Heavy, torquey, hopeless in corners, and the fastest of the three in a straight line before anybody touches it. | The Docks |
+
+**The choice gates nothing.** Every district, event, crew and storyline is available whatever Jake drives, and the car can be sold or replaced within the first act. What the choice does is decide which part of Nitroit is easy first and which part is a fight, and the player makes it before they know that.
+
+**Nobody recommends one.** The lot's owner will answer questions about all three honestly and will not steer the player. There is no correct answer and no NPC who behaves as though there is.
+
+#### What the Purchase Establishes
+
+**The first time the player takes control of a vehicle, it is a car Jake chose, paid for himself, and owns outright.**
+
+That matters more than it looks. Everything in the garage from here is his, none of it came from the account (Section 2.2), and **the game never gives him a car for free at any point in either half** — not as a reward, not as a story beat, not in the festival, not after the championship.
+
+**And the shop is next door.** The machine shop sharing the fence is Ward & Sons (Section 18.4), which means the first car purchase and the first mechanic relationship happen within an hour of each other, in the district whose crew leader will eventually cost Jake something he cannot get back (Section 12.4.3). None of that is signposted. It is simply where the cheap cars are.
 
 **He is better than everyone he meets and he loses anyway**, because his car is worse, he does not know the roads, and he has never been chased by anybody in his life. The opening act's difficulty curve is not about teaching the player to drive. It is about a trained driver discovering that driving was never the only thing that mattered.
+
+**The hostel is temporary and the player is expected to leave it.** It holds one car and no more (Section 10.7), which is fine until the moment it is not — and the first economic goal the game sets is somewhere with a second space in it.
 
 #### The Name
 
@@ -197,7 +256,7 @@ Every crew has been beaten, every territory held, the title is King of the Stree
 
 **A player can leave Act 4 with no relationships at all.** Nothing forces the Loyal storylines and nothing gates Act 5 behind them. That player reaches registration and cannot field a legal team, and has to go back — not because the game blocked them, but because they spent an entire act proving they did not need anyone and were wrong.
 
-**Act 4 ends when Jake drives out of Nitroit and into Revada for the first time**, eight months after the first billboard went up. Not when he registers, not when he qualifies — when he makes the drive, arrives at a venue with an event running, and stands at the fence watching it. It is the only story beat in the game triggered by going somewhere rather than winning something, and it is a fourteen-hour drive he makes alone.
+**Act 4 ends when Jake drives out of Nitroit and into Revada for the first time**, eight months after the first billboard went up. Not when he registers, not when he qualifies — when he makes the drive, pulls up at the perimeter of a venue with an event running, and sits there with the engine off, watching through the fence. It is the only story beat in the game triggered by going somewhere rather than winning something, it is a fourteen-hour drive he makes alone, and he does not get out.
 
 ### 3.3 Act 5 — The Choice
 
@@ -893,7 +952,7 @@ An impounded car remains in the impound lot until the player pays its release fe
 
 **The release fee scales with the car's total value** — its base market value plus the cumulative value of every installed performance and visual part. A heavily built flagship car costs dramatically more to reclaim than a stock entry-level chassis.
 
-The player may hold multiple cars in impound simultaneously and reclaim them in any order. Nothing in impound expires or is sold off.
+The player may hold multiple cars in impound simultaneously and reclaim them in any order, provided there is space for them (Section 10.7). A reclaimed car is collected by driving to the lot in another vehicle and driving the reclaimed one out. Nothing in impound expires or is sold off.
 
 This is the system's actual teeth: the punishment for reckless driving with police present is **economic and escalating**, and it scales precisely with how much the player has invested in the car they were caught in. Driving the best car in the garage during high heat is the highest-risk decision available in the city.
 
@@ -1064,6 +1123,91 @@ A player who wants to shoot a magazine cover on Tuesday and run an Old Guard cir
 
 Blueprints are the unit of the game's online system (Section 17).
 
+### 10.7 Property and Storage
+
+**Cars have to live somewhere, and where they live is a system.**
+
+Jake starts in a hostel bunk with no garage at all (Section 3.1). Everything after that is bought or rented with money he earned in Nitroit.
+
+#### What Is Available
+
+| Type | Capacity | Notes |
+|---|---|---|
+| **Hostel bunk** | 1 | Starting position. Weekly fee. One car, kept outside. |
+| **Rented room** | 1 | Cheap, immediate, available in any district in the first act. Still outside. |
+| **Rented apartment** | 2 | Secure parking below the building. |
+| **Rented house** | 3 | A real garage and a driveway. |
+| **Owned apartment** | 3 | No rent. Capital tied up. |
+| **Owned house** | 4–6 | The standard mid-game home. |
+| **Warehouse unit** | 8–12 | Industrial Flats and the Docks only. Bulk storage and workshop space. |
+| **Private lot** | 6–8 | Open-air, fenced, cheapest capacity per car. Everything in it is kept outside. |
+
+**A player can hold several properties at once**, and by the festival most will have to: five discipline cars plus a street garage does not fit in one house.
+
+#### Capacity Is a Hard Cap
+
+**Jake cannot own more cars than he has space for.** Capacity is checked at the point of acquisition, and there is no overflow state:
+
+| Situation | What happens |
+|---|---|
+| Buying a car with no space | The purchase is refused at the point of sale. The player is told the number and where their space is. |
+| Winning a car in a pink slip or an Invitational with no space | The player chooses, before accepting the wager, which car they would give up to make room. The choice is made in advance, never after. |
+| Reclaiming from impound with no space | Refused. The car stays in impound at no extra cost until there is somewhere to put it. |
+
+**Nothing is ever lost to a capacity problem.** The game refuses the transaction instead of taking anything.
+
+#### Indoor and Outdoor Space
+
+Capacity comes in two kinds, and the difference is upkeep, not risk.
+
+| | Indoor | Outdoor |
+|---|---|---|
+| **Where** | Apartments, houses, warehouse units | Hostel, rented rooms, private lots |
+| **Cost** | Higher per space | Lowest per space |
+| **Effect on the car** | None. A car left indoors is exactly as it was. | Slow cosmetic degradation. Paint dulls, trim fades, glass pits. |
+| **What that costs** | Nothing | Presentation (Section 10.4), which cuts Riverside entry and magazine offers |
+
+Outdoor degradation is gradual, entirely cosmetic, and reversible at any shop for money. **No car is ever stolen, towed, damaged mechanically or removed for being kept outside.** A player who stores a twelve-car collection on a fenced lot in the Flats has made a legitimate economic choice and will have a slightly tired-looking collection.
+
+#### Switching Cars
+
+**The player never walks between vehicles, because the player never walks** (Section 3.1).
+
+Changing cars means driving to a property or a shop with space in it. The car goes in, the screen transitions, another car comes out. Any owned property with capacity works, as does any shop the player has access to.
+
+**This is why property location is not only a matter of days but of reach.** A player whose entire garage is in a warehouse in the Docks is a long drive from the Ridge every time they want a different car, and that drive is the reason most players end up owning somewhere in the north as well.
+
+#### Rent, Ownership and the Account
+
+Rent is charged weekly and comes out automatically. Ownership removes the weekly charge and locks up a large sum instead.
+
+This is the game's only long-horizon financial decision, and it is deliberately placed against everything else the money is for: a house is a drag car, a mechanic's salary for a season, or a hypercar he is not allowed into The Heights without.
+
+**Property can be sold.** Not at a loss, not at a gain — at market, minus a fee. It is a place to store money, not a way to make it.
+
+#### Location Matters
+
+**A property sits in a district, and living in a district makes that district cheaper in days** (Section 12.6).
+
+| Effect | Detail |
+|---|---|
+| **Upkeep** | Maintaining Standing with NPCs in the district you live in costs no day. You already see them. |
+| **Workshop** | Work done at a shop in your own district takes one fewer day, to a minimum of one. |
+| **Events** | Nothing. Every event in Nitroit is available to everyone, always. |
+
+**This turns where Jake lives into a statement about who he is keeping.** A player living in Ridgeline holds their drift relationships almost for free and pays full price for everyone else. A player who moves to the Flats is next to nobody in particular and next to everybody equally — which is what The Yard is (Section 5.3).
+
+**A warehouse in the Docks and a house on the Ridge is a legitimate and common configuration**, and it is the player saying, in the only language the calendar understands, that these are the people they intend to keep.
+
+#### What Property Never Does
+
+- It does not unlock events, districts, crews or content.
+- It does not affect REP, Standing or any festival system directly.
+- It does not appear in the story. No cutscene happens in Jake's house and no NPC visits it.
+- There is no decorating, no furniture and no interior customisation. The garage is the point.
+
+**Jake's living situation improves across the campaign and the game never remarks on it.** He goes from a hostel bunk to a house with six cars in it over five acts, entirely on money he earned, and nobody in Nitroit ever knows he could have skipped all of it.
+
 ---
 
 ## 11. Street Event Types
@@ -1077,7 +1221,7 @@ Blueprints are the unit of the game's online system (Section 17).
 | **Speed Run** | Highest average speed across a long high-speed route. |
 | **Crew Event** | Team format. Aggregate crew position determines outcome. |
 | **Rival Challenge** | One-on-one against a named racer. |
-| **Night Meet** | Non-competitive gathering. Build display, dialogue, event invitations, spontaneous challenges. Presentation drives NPC reaction. |
+| **Night Meet** | Non-competitive gathering. The player drives in, parks among the others and stays in the car; dialogue, build display, event invitations and spontaneous challenges all happen through the window. Presentation drives NPC reaction. |
 | **Wager Event** | Cash or pink slip. See Section 9. |
 
 All street events run with live civilian traffic and active police presence unless the controlling crew has arranged otherwise.
@@ -1137,13 +1281,18 @@ The city's underground car magazines approach the protagonist once he is worth p
 | **Redline** | Ringrunners | Aero, long gearing, speed machinery, expressway backdrop |
 | **Private Plate** | Meridian | Class S and X only. Hypercars, nothing else. |
 
-**The shoot.** The player controls the photograph:
+**The shoot.** The player controls the photograph through a free camera:
 
 - **Car.** Any owned car that meets the magazine's brief and threshold.
 - **Location.** Any district. The backdrop is the district's real geography.
 - **Time of day and weather.** Set freely.
 - **Panels.** Doors, hood and boot open or closed, independently.
 - **Camera.** Position, height, angle, focal length, depth of field.
+- **Jake.** A set of fixed positions relative to the car — behind the wheel, leaning on a wing, sitting on the sill with the door open, standing at the front, arms folded against the rear quarter, or out of frame entirely.
+
+**Jake's position is a pose, not movement.** He is placed, he holds, and the shot is taken. There is no walking, no free control and no leaving the car under player input — **the rule that the player is always in the vehicle (Section 3.1) holds, because a photograph is not play.** This is the one place in the game where Jake is visible outside the car without a cutscene, and he is visible the way a person in a magazine photograph is visible: standing still, on purpose, for a camera.
+
+**The brief covers this too.** *Boulevard* wants the owner in the frame — it is a presentation magazine and a car without a person beside it reads as a catalogue page. *Quarter* does not care and will print the engine bay alone. *Torque & Tenths* explicitly does not want him in it.
 
 **Scoring.** The magazine issues a brief, and the shot is graded against it rather than against taste. *Quarter* asked for the engine bay — a beautiful photograph with the hood closed scores badly. *Private Plate* asked for a hypercar — a perfectly composed shot of a built Civic is rejected outright. *Boulevard* asked for the boot build; the boot had better be open.
 
@@ -1153,6 +1302,12 @@ The city's underground car magazines approach the protagonist once he is worth p
 | Brief met, weak composition | +300 |
 | Brief partially met | +100 |
 | Brief ignored | Offer withdrawn, no REP, magazine will not approach again for that tier |
+
+#### Photo Mode
+
+The same camera exists outside the magazines. **Photo Mode can be opened anywhere in Nitroit or at any Revada venue**, at any time the car is stationary, and carries the same controls: free camera, panel states, time of day, and the same fixed set of positions for Jake.
+
+It scores nothing, unlocks nothing and is never requested by anybody. It is there because the game spends a hundred hours asking the player to make a car look like something, and giving them no way to look at it would be absurd.
 
 **Afterwards, the cover exists in the world.** It appears on newsstands, in shop interiors, and in the garages of NPCs. Crew members reference it in dialogue. A player who photographed a Dockline drag car for *Quarter* will hear about it from Dockline; so will Riverside, who will have opinions.
 
@@ -1557,6 +1712,7 @@ The city runs on a day counter. **Every meaningful city activity consumes days:*
 | Workshop time — fitting parts, swapping a Blueprint, a repair | 1 to 3 by scale of work |
 | Time with an NPC — a conversation thread, a storyline step | 1 |
 | Travelling nowhere and doing nothing | 1, if the player chooses to pass |
+| Moving house, or taking on a new property | 1 |
 
 Nothing is free and nothing is instant. A player who wants a relationship, a magazine cover, a finished build and a full night of racing in the same window cannot have all four.
 
@@ -1672,7 +1828,7 @@ Eight to eleven events per discipline is what makes the top-four requirement sur
 | **Drift** | Three phases across one session (Section 13.2) |
 | **Speed** | 5 to 12 minutes point to point — the other long format |
 
-Nothing in the festival runs for an hour. Nothing requires a stop. A driver gets in the car, races, and gets out.
+Nothing in the festival runs for an hour and nothing requires a stop. A driver rolls out of the paddock, races, and rolls back in.
 
 #### What "Strategy" Means Here
 
@@ -2248,7 +2404,7 @@ A document whose thesis is that relationships are the currency needs the relatio
 
 ### 18.1 The Spaids
 
-**Jake Spaid.** The protagonist. Not from Nitroit — he arrived at nineteen, from a state he does not name, in a pickup, with twenty-five thousand dollars and no intention of explaining himself. Karted from seven, won from nine, quit at fourteen, and has not been timed by anybody official since. Speaks rarely and drives constantly. Full history in Section 2.2.
+**Jake Spaid.** The protagonist. Not from Nitroit — he arrived at nineteen by coach, from a state he does not name, with a bag and no intention of explaining himself. Karted from seven, won from nine, quit at fourteen, and has not been timed by anybody official since. Speaks rarely and drives constantly. Full history in Section 2.2.
 
 **Grace Spaid.** His mother. Married to a professional driver for twenty years and never once at the circuit on a race weekend, which nobody in the family ever asked her about. Raised Jake alone for five years after the accident and was the only person in his life who did not tell him what he ought to be doing with his talent. Died of cancer when he was nineteen. She has no photographs in the game and no recorded voice; what the player knows of her comes from Jake refusing to discuss her.
 
@@ -2285,7 +2441,7 @@ One per district, each supplying that district's discipline.
 
 | Shop | Mechanic | Specialisation | Register |
 |---|---|---|---|
-| **Ward & Sons Machine** (Docks) | Curtis Ward | Engine | Explains everything twice, assumes nothing |
+| **Ward & Sons Machine** (Docks) | Curtis Ward | Engine | Explains everything twice, assumes nothing. Shares a fence with Halvorsen Motors, where the game begins (Section 3.1). |
 | **Ferreira Motors** (Old Quarter) | Inês Ferreira | Chassis | Four words a session |
 | **Arakawa Import** (Ridgeline) | Sota Arakawa | Rubber | The city's first import shop, opened 1989. Will not shut up about a car he built in 2009. |
 | **Novak Performance** (Expressway) | Petra Novak | Aero | Openly contemptuous of the festival, does the work perfectly |
@@ -2328,13 +2484,15 @@ The scope the design commits to. Platform targets, budget and market positioning
 | **Structure** | Single-player campaign, five acts plus an open-ended epilogue |
 | **Campaign length** | 30 to 40 hours to the end of Act 5; 60 to 80 to the championship |
 | **Post-championship** | Uncapped. City and festival both remain fully open (Section 16). |
-| **Cars** | 110 to 140, across classes D to X, all road cars (Section 10.1) |
+| **Cars** | 110 to 140, across classes D to X, all road cars (Section 10.1). Three starter options at the opening lot (Section 3.1); none is ever awarded free. |
+| **Property** | Rentable and purchasable across all seven districts, garage capacity 0 to 12 (Section 10.7) |
 | **Licensing** | Assumes licensed real manufacturers. The class system, the district entry rules and Meridian's S/X restriction all depend on a real hypercar roster; fictional substitutes would weaken all three. |
 | **Named NPCs** | Roughly 40 — the cast above, plus crew members, magazine editors and festival rivals |
 | **Districts** | 7 districts in Nitroit; 10 festival venues across Revada |
 | **Festival layouts** | 18 to 24, drawn from the 10 Revada venues |
-| **Narrative delivery** | In-world and diegetic. Garage dialogue, radio during events, conversation at night meets and in the paddock, magazines and television in the world. No cutscene the player cannot drive out of, with three exceptions: the end of Act 5, the final sequence, and the post-credits scene (Section 15.7). |
-| **Starting position** | A rented house, a pickup, and $25,000. An inherited account, visible and spendable, that the game is balanced on the player never opening (Section 2.2). |
+| **Camera and control** | Entirely in-car. No on-foot movement at any point; every location is driven into. Jake appears outside the car only as a fixed pose in photography (Section 11.2) and in the four cutscenes. |
+| **Narrative delivery** | In-world and diegetic. Garage dialogue, radio during events, conversation at night meets and in the paddock, magazines and television in the world. The player is out of the car only in cutscenes, of which there are four: the opening sequence (Section 3.1), the end of Act 5, the final sequence, and the post-credits scene (Section 15.7). |
+| **Starting position** | A hostel bunk, $15,000, and no vehicle. The inherited account is story context only and is not present in the game as a system (Section 2.2). |
 | **Online** | Asynchronous only (Section 17). Fully playable offline. |
 
 ---
