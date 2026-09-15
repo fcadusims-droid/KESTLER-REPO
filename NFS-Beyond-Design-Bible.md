@@ -1,5 +1,5 @@
 # NEED FOR SPEED: BEYOND
-## Design Bible — v3.3
+## Design Bible — v3.8
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Need for Speed: Beyond** is a racing game built around two halves of the same car culture: the illegal street scene of **Nitroit**, an open-world American city, and a months-long sanctioned racing festival held across the state of **Revada**, a day's drive away.
 
-Nitroit is the core experience and occupies Acts 1 through 5. The festival becomes playable in the epilogue — its competition unlocks only after the main story concludes — and functions as a second, parallel career. Jake first makes the drive to Revada at the end of Act 4, and Act 5 is spent assembling what it takes to enter (Section 3.2).
+Nitroit is the core experience and occupies Acts 1 through 5. The festival becomes playable in the epilogue — its competition unlocks only after the main story concludes — and functions as a second, parallel career. Jake first makes the drive to Revada at the end of Act 4, and Act 5 is spent assembling what it takes to enter (Section 3.3).
 
 Both halves run on a single simcade driving model. The game does not switch physics when the player crosses from street to circuit.
 
@@ -31,11 +31,11 @@ Both places are fictional, and both are in the United States.
 
 **NITROIT** — a large industrial city on a river, built around a port, the iron mines in the hills north of it, and the mills and plants that grew between the two. Dense, layered, and old enough to have neighbourhoods that do not like each other. The ore still moves and the port still works, but most of the plants closed a generation ago and left the neighbourhoods behind them. A place where a car is transport, employment and identity at the same time, and where the street scene grew out of all three.
 
-**The city is owned by a small number of families and worked by everybody else**, and both groups race (Section 5.1).
+**The city is owned by a small number of families and worked by everybody else**, and both groups race (Section 5.2).
 
 Nitroit is the open world. Seven districts, seamless, drivable end to end, day and night, with live traffic and live police.
 
-**REVADA** — a desert state a day's drive west. Mountains, dry lake beds, canyon highways, two-lane roads that run straight for forty miles, and one city bright enough to be visible from thirty miles out. Legal racing lives here because the land is empty, the weather is predictable and the state licenses it happily.
+**REVADA** — a desert state a day's drive west, and home of the **Revada Festival**. Mountains, dry lake beds, canyon highways, two-lane roads that run straight for forty miles, and one city bright enough to be visible from thirty miles out. Legal racing lives here because the land is empty, the weather is predictable and the state licenses it happily.
 
 **Revada is not an open world, and this is deliberate.** There is no free roam, no traffic, no police and no driving between venues. The festival is a calendar of dates, each held at a specific venue somewhere in the state (Section 13.1). The player selects the next date, travels to it, and arrives.
 
@@ -59,7 +59,7 @@ The protagonist is **Jake Spaid**. His father, **John Spaid**, was a professiona
 
 GT3 is a category of competition car — race machinery built to a regulation, rear-wheel drive, equalised against rival makes by Balance of Performance, and campaigned by customer teams across national and international championships. John spent his career in that world: contracts, sponsor liveries, endurance grids, a job rather than a fantasy.
 
-**GT3 exists nowhere inside the playable world.** Not in the city, not in the festival. It is the tier above both — the level the protagonist's father worked at, the level the ending sends him to, and a level the player never drives at during the game. It appears in this document only in the father's history and in the final scene.
+**GT3 exists nowhere inside the playable world.** Not in Nitroit, not in Revada. It is the tier above both — the level Jake's father worked at and the level the ending sends Jake to, and the player never drives at it. It exists in the game as history and as a destination, and the player sees it exactly twice: in what happened to John Spaid, and in the final scene.
 
 In his last season he reached the only stage GT3 offers that carries a world title: the GT3 class of the world endurance championship. He led the championship into the final round, and he led the final race.
 
@@ -67,21 +67,74 @@ In his last season he reached the only stage GT3 offers that carries a world tit
 
 He never took the flag. The championship was never awarded to him.
 
-### 2.2 The Inversion
+### 2.2 The Son
 
-This is the load-bearing fact of the entire game, and it is deliberately ironic: the only death in this fiction happened in the *sanctioned, regulated, scrutineered, marshalled* environment — the one the protagonist's own reasoning tells him is the safer of the two.
+**Jake was going to be a professional driver, and everybody knew it.**
 
-The protagonist knows this intellectually. Emotionally he inverts it. After the funeral he never returns to a closed circuit. He goes to the streets instead, because on the street he believes he controls the variables: he knows the roads, he knows the racers, he knows when the police run patrols and when they don't. Control is the lie he tells himself; familiarity is what he actually has.
+He started in karts at seven. He was winning by nine. By thirteen he was the kind of junior everyone in the paddock had already heard of — the sort of talent that gets talked about early, in the specific way people talk about a driver they expect to see on television in ten years. He had his father's job lined up before he had a driving licence, and he wanted it.
+
+**He was fourteen when John Spaid died.**
+
+He did not race again. Not in karts, not in juniors, not anywhere. The seat he had been promised went to somebody else and he did not ask about it.
+
+#### What Happened Next
+
+He lived with his mother, **Grace Spaid**, for five more years. She never pushed him back toward it and never once suggested he was wasting anything, which made her the only person in his life who did not.
+
+**Everybody else pushed.** His father's old team principal. Two of his father's former teammates. An uncle. Family friends who had watched him win at nine and could not understand why a boy that gifted would simply stop. Every conversation at every family occasion, for five years, arrived at the same place: *you should be racing, Jake, your father would have wanted it.*
+
+**Grace Spaid died of cancer when Jake was nineteen.** He is an only child. Everything came to him — the house, the savings, and the entire career earnings of a professional driver who had spent twenty years being paid well to race.
+
+He was a wealthy nineteen-year-old with no parents, no obligations, and a hundred people who had opinions about his future.
+
+#### What He Did With It
+
+He sold the house. He put every cent of it, and every cent of his father's money, into an account. He did not tell anyone where he was going.
+
+He bought a pickup, drove out of the state, and kept driving. He took months over it — across the country, through places nobody knew his surname, stopping when he felt like it and moving when he did not. He was not looking for anywhere in particular. He was looking for a place where the phrase *John Spaid's son* meant nothing.
+
+**He stopped in Nitroit because nobody there had ever heard of his father.**
+
+He rented a cheap house in a cheap part of town. He drew **twenty-five thousand dollars** out of the account to live on, and left the rest exactly where it was.
+
+#### The Money
+
+**Jake does not touch his father's money, and this is not a plot device — it is a standing rule the game enforces on itself and a decision it hands to the player.**
+
+The account balance is visible in the garage menu from the first hour of the game. It is large. It is accessible. **The game will let the player spend it, at any moment, on anything.**
+
+- Nothing gates it. There is no story beat that unlocks it and no character who forbids it.
+- Money moved out of the account never goes back.
+- No NPC ever mentions it. Nobody in Nitroit knows it exists.
+- The game never comments, warns, praises or punishes.
+
+**Everything else in the game — the impound fees, the shop credit, the wagers, the ten festival salaries, the five legal cars — is balanced on the assumption that the player does not open it.** The tension is not that they cannot. It is that they can, at any time, and that using it would mean the last five acts were about nothing.
+
+The twenty-five thousand is the entire starting position: rent, a cheap car, and whatever is left.
+
+#### Why He Wins
+
+**Jake is not a natural who discovered racing in Nitroit. He is a trained junior driver who stopped at fourteen and started again at nineteen in a place with no scrutineers.**
+
+This is the honest explanation for something the game otherwise has to hand-wave. He arrives in Nitroit already knowing how to find a limit, how to read a corner, how to be smooth under pressure and how a car is supposed to feel when it is working. What he does not know is the city, the people, the police, or how to build a car with his own hands — and the first act is him being outdriven by worse drivers in better cars while he learns all four.
+
+It is also why the festival is not a step up in skill for him. **It is a step back into a place he already knows how to work.** What he has to learn there is not driving. It is everything around it — the rulebook, the mechanic, the ten people, the fact that it is not his name on the entry alone.
+
+### 2.3 The Inversion
+
+This is the load-bearing fact of the entire game, and it is deliberately ironic: the only death in this fiction happened in the *sanctioned, regulated, scrutineered, marshalled* environment — the one Jake's own reasoning tells him is the safer of the two.
+
+Jake knows this intellectually. Emotionally he inverts it. After the funeral he never returns to a closed circuit. He goes to the streets instead, because on the street he believes he controls the variables: he knows the roads, he knows the racers, he knows when the police run patrols and when they don't. Control is the lie he tells himself; familiarity is what he actually has.
 
 **What the avoidance actually covers.** Not laps, not corners, not racing in circles — the city has lap-based street events and he runs them without difficulty. What he avoids is the *apparatus*: a permanent circuit, grandstands, an organising body, scrutineering, official timing, marshal posts, a classification sheet with his name on it. His father died inside that apparatus, and it is the apparatus he will not walk into. This distinction is precise and load-bearing: a scene in which he races a multi-lap loop through The Heights at 3 a.m. is not a scene about his trauma, and a scene in which he stands outside a festival gate is.
 
-The game never argues that street racing is morally lesser than sanctioned racing, or the reverse. It argues that the protagonist chose one over the other for a reason that has nothing to do with racing.
+The game never argues that street racing is morally lesser than sanctioned racing, or the reverse. It argues that Jake chose one over the other for a reason that has nothing to do with racing.
 
 **The central transformation is not that he stops being a street racer. It is that he stops racing out of fear.**
 
-### 2.3 The Shape of the Ending
+### 2.4 The Shape of the Ending
 
-For most of the game the protagonist cannot choose. One of the two doors is closed, and he is the one holding it shut.
+For most of the game Jake cannot choose. One of the two doors is closed, and he is the one holding it shut.
 
 The festival is him opening it. The championship is him walking through. What he does on the other side — a professional career, the exact path his father was on — is the first decision in his adult life that fear did not make for him.
 
@@ -93,16 +146,38 @@ The point is not that the circuit was the right answer and the street was the wr
 
 | Act | Title | Content |
 |-----|-------|---------|
-| **1** | The Unknown | Entry into the street scene. First district. Reputation from zero. |
+| **1** | The Unknown | A rented house, a cheap car, and a city that has never heard of him (Section 3.1). |
 | **2** | Ascent | Multiple districts contested. Crews, rivalries, police attention escalates. |
-| **3** | King of the Streets | Final districts taken. The protagonist becomes the name the city uses for street racing. |
-| **4** | The Hollow | Everything is won and nothing is resolved. Defending, the last Invitationals, and the only axis left (Section 3.1). |
-| **5** | The Choice | The registration act. Roster, mechanics, five legal cars, salaries (Section 3.2). |
-| **Epilogue** | Beyond | The festival map unlocks. Second career begins at zero Rank. Ends with the championship and a professional contract. |
+| **3** | King of the Streets | Final districts taken. The **Revada Festival** appears in Nitroit for the first time, late (Section 5.5). |
+| **4** | The Hollow | Everything is won and nothing is resolved. Defending, the last Invitationals, and the only axis left (Section 3.2). |
+| **5** | The Choice | The registration act. Roster, mechanics, five legal cars, salaries (Section 3.3). |
+| **Epilogue** | Beyond | The Revada calendar opens. Second career begins at zero Rank. Ends with the championship, a professional contract, and a cemetery (Section 15.7). |
 
 Nitroit does not close at any point. After the epilogue unlocks, the player moves between Nitroit and the Revada calendar for the remainder of the game.
 
-### 3.1 Act 4 — The Hollow
+### 3.1 Act 1 — Opening Position
+
+**The game starts with a rented house, a pickup, and twenty-five thousand dollars.**
+
+Jake has been in Nitroit a few weeks. He knows nobody, owes nothing, and has told no one anything true about himself. The first hour is him buying a car — a cheap one, D or C class, because that is what is affordable once rent is accounted for — and finding out that the city races at night.
+
+**He is better than everyone he meets and he loses anyway**, because his car is worse, he does not know the roads, and he has never been chased by anybody in his life. The opening act's difficulty curve is not about teaching the player to drive. It is about a trained driver discovering that driving was never the only thing that mattered.
+
+#### The Name
+
+**Nobody in Nitroit knows who Jake is, and that is the entire reason he is there.**
+
+Through Acts 1 to 5 he is nobody's son. The magazines print his first name and his car; the crews use whatever they decide to call him; the police have a plate and a file. **Spaid never comes up.** He does not volunteer it, no NPC recognises it, and the city has no reason to care.
+
+**This changes at the festival, and it changes because of a timing sheet.** Every festival entry is filed under a legal name. The first time a standings board in Revada prints *J. Spaid*, somebody in that paddock is old enough to read it twice.
+
+It is not a revelation scene and nobody confronts him about it. It is a slow drift across a season: a scrutineer who pauses over the entry form, a rival's team manager who mentions it to somebody, an older driver who watched his father race and says so once, briefly, and then never again. By the Circuit Final it is known, quietly, by everybody who matters.
+
+**Which is exactly what makes the invitation at the end land** (Section 15.5). The team that approaches him is not approaching a talented unknown. They are approaching John Spaid's son, who just won a championship, in the place where they go to find people.
+
+He spent five years being told what that name obliged him to do, then eight hundred miles getting away from it — and the name is what he wins with.
+
+### 3.2 Act 4 — The Hollow
 
 **Act 4 begins when the last district falls and nothing is left to take.**
 
@@ -113,36 +188,36 @@ Every crew has been beaten, every territory held, the title is King of the Stree
 | Content | What it is |
 |---|---|
 | **Defending** | Holding a district is not permanent. Beaten crews reform under new leadership and reclaim territory the player stops appearing in. Defending is REP-neutral — winning returns the district, losing costs it. There is no gain available, only loss avoided. |
-| **The last Invitationals** | The two unaffiliated racers only make contact at Headliner (Section 11.3), which most players reach here. They are the hardest racing in the city and the highest stakes. |
+| **The last Invitationals** | Whichever of the nine are still outstanding, including the two unaffiliated racers — the hardest driving in Nitroit and the highest stakes. Each of the nine can be raced once per act, so Act 4 is a fresh set. |
 | **The List** | The police do not stop. Act 4 is where a player who spent three acts wrecking patrol cars discovers what they bought (Section 6.1). |
 | **Relationships** | The only axis with anywhere left to go. Every uncompleted Loyal storyline is still there, and Act 4 is the last stretch before the roster is locked at registration (Section 12.4). |
 | **Magazines** | Cover-tier offers, requiring builds the player has not had a reason to make until now. |
 
-**The design statement is the shape of that table.** Four of the five entries give the player nothing they do not already have. One of them does. The player will work that out on their own, and what they do about it is the act.
+**Four of those five give the player nothing they do not already have. One of them does.** Nobody tells them which. The player works it out from the fact that everything else has stopped paying, and what they do about it is the act.
 
 **A player can leave Act 4 with no relationships at all.** Nothing forces the Loyal storylines and nothing gates Act 5 behind them. That player reaches registration and cannot field a legal team, and has to go back — not because the game blocked them, but because they spent an entire act proving they did not need anyone and were wrong.
 
-**Act 4 ends when Jake drives out of Nitroit and into Revada for the first time.** Not when he registers, not when he qualifies — when he makes the drive, arrives at a venue with an event running, and stands at the fence watching it. It is the only story beat in the game triggered by going somewhere rather than winning something, and it is a fourteen-hour drive he makes alone.
+**Act 4 ends when Jake drives out of Nitroit and into Revada for the first time**, eight months after the first billboard went up. Not when he registers, not when he qualifies — when he makes the drive, arrives at a venue with an event running, and stands at the fence watching it. It is the only story beat in the game triggered by going somewhere rather than winning something, and it is a fourteen-hour drive he makes alone.
 
-### 3.2 Act 5 — The Choice
+### 3.3 Act 5 — The Choice
 
 **Act 5 is the registration act, and it is the only act in the game that is not about racing.**
 
-The festival's entry requirements arrive all at once, and none of them are things the protagonist has (Section 12.4). The act is assembling them.
+The festival's entry requirements arrive all at once, and none of them are things Jake has (Section 12.4). The act is assembling them.
 
 | Requirement | What Act 5 is actually about |
 |---|---|
-| **Five drivers** | Spread across five crew cultures. Whoever is Friendly or better, right now. Whoever is not, is not coming. |
+| **Five drivers** | One per discipline, drawn from the six crews that supply them (Section 12.4.2). Whoever is Friendly or better, right now. Whoever is not, is not coming. |
 | **Five mechanics** | From five shops. Shop Standing is built by using shops, and a player who has bought everything from one place has one mechanic. |
 | **Five legal cars** | Each built to a different discipline's rulebook (Section 13.4). Most of the player's garage is illegal and has to be rebuilt or replaced. |
 | **Salaries** | Ten of them, unless the relationships waive them. This is the largest sum of money the game ever asks for. |
-| **Sponsorship, optionally** | A Loyal Meridian contact covers the lot (Section 5.1). |
+| **Sponsorship, optionally** | A Loyal Meridian contact covers the lot (Section 5.3). |
 
 **Mechanically, Act 5 is a conversion act: everything the player accumulated in the city becomes something the festival accepts, or it does not come.**
 
 Money becomes cars. Territory becomes nothing at all — it converts to zero, and the game does not soften that. Relationships become a roster. REP becomes nothing; there is no exchange rate.
 
-**The dramatic content is in what refuses to convert.** The protagonist arrives at the end of Act 5 having discovered that most of what he built has no value where he is going, and that the part which does — the people — is the part he paid least attention to.
+**The dramatic content is in what refuses to convert.** Jake arrives at the end of Act 5 having discovered that most of what he built has no value where he is going, and that the part which does — the people — is the part he paid least attention to.
 
 **Act 5 ends on a submitted registration form.** No race, no victory, no confrontation. He fills it in, and the epilogue opens.
 
@@ -187,7 +262,7 @@ The city is arcade. The festival is *more* simulated — not fully simulated. Th
 | **Damage after an event** | Persists. Costs money to repair. | Persists. Repaired by the discipline's mechanic (Section 12.4.5). |
 | **Restarts** | Freely available | Not available inside a session |
 | **Setup** | Simplified presets plus manual tuning | The mechanic supplies a working baseline; the player adjusts a short list of meaningful values (Section 12.4.5) |
-| **Regulation** | None (Section 5.5) | Scrutineered before the event, spot-checked after (Section 13.3) |
+| **Regulation** | None (Section 5.7) | Scrutineered before the event, spot-checked after (Section 13.3) |
 
 **Where the line is drawn, and why it is drawn there.**
 
@@ -214,9 +289,73 @@ Neither layer is the "real" one. The city is not a tutorial for the festival and
 
 ## 5. The City
 
-### 5.1 Where the Scene Came From
+### 5.1 The Shape of Nitroit
 
-**Nitroit's street scene is not one culture. It is six, and they are divided by neighbourhood because the work was.**
+Nitroit is built the way American industrial cities are built, and the map is legible because of it. Every district's road character is a consequence of when that part of the city was laid out and what it was laid out for.
+
+#### The Layers
+
+**1. The Old Quarter — before the grid (1810s–1850s).**
+The original settlement on the river bend, laid out by nobody in particular. Irregular blocks, streets that follow old cart tracks and the shoreline, inconsistent widths, stone kerbs, alleys that are not on any map. Downtown grew on top of it rather than replacing it, so the Quarter is now a knot of narrow nineteenth-century streets with twentieth-century towers standing in it.
+
+**2. The grid — the industrial explosion (1860s–1920s).**
+Most of Nitroit. A strict orthogonal grid, numbered off two baselines: **River Street**, which runs along the water, and **Foundry Avenue**, which runs due north from it into the hills. Everything east and west is numbered from Foundry; everything north is numbered from River. Addresses in Nitroit tell you where you are, which is true of American grid cities and is used in-game for navigation and for how NPCs give directions.
+
+**3. Rail and industry (1870s onward).**
+Freight rail runs from the port, through the mills, north to the mines. The corridors cut the grid into wedges and are the reason the districts have hard edges rather than fading into one another — a rail cut with three bridges over it is a border whether anybody meant it to be or not.
+
+Industrial land was zoned in large blocks near the water and the rail, which is the Docks and the Industrial Flats: enormous parcels, long straights, few intersections, almost no residents.
+
+**4. Residential flight from industry (1900s–1950s).**
+Riverside and the northern neighbourhoods exist because people with money to move moved upwind of the mills. Wide boulevards, planted medians, deep setbacks, a street grid that is still a grid but a gentler one.
+
+**5. The expressway (1960s).**
+An elevated ring was driven through the city, as it was in most American cities of this size, and it went where the land was cheapest — which meant through neighbourhoods rather than around them. **The Expressway Ring is a scar as much as a road**, and older NPCs from the districts it cut through say so.
+
+**6. The Heights (1970s onward).**
+Built last, built privately, and built on terrain the grid could not climb. Curvilinear estate roads, cul-de-sacs, gated access, no through traffic. The suburban pattern of the late twentieth century, at a scale almost nobody can afford.
+
+#### Terrain
+
+**The grid fails where the land rises**, which is the single geographic fact that produces Ridgeline. North of the city the ground climbs into wooded hills, and the streets there stop being a grid and become switchbacks, because nothing else works on that gradient.
+
+| Feature | Where | Effect on driving |
+|---|---|---|
+| **The river** | South and west edge | Crossed by five bridges. Every crossing is a bottleneck and every pursuit route eventually involves one. |
+| **The hills** | North | Elevation, switchbacks, blind crests, no barriers. |
+| **The flats** | Centre and east | Dead flat, laid out square, built for trucks. |
+| **The rail cuts** | Throughout | Hard district borders with limited crossings. |
+| **The quarry lakes** | North-east, beyond the mines | Flooded workings. Paved access roads, guardrails, water on both sides. |
+
+#### Green Space
+
+**Nitroit is overwhelmingly asphalt, and that is the point — but it is not uniformly asphalt.** Four places in the city are green, all of them paved, all of them drivable, none of them a race venue:
+
+| Place | What it is |
+|---|---|
+| **Riverbend Park** | Riverfront parkland along the south edge. A paved parkway with no traffic lights runs its length. |
+| **The Ridge Forest** | Wooded state land wrapping the northern hills. The mountain roads run through it; the trees are why the crests are blind. |
+| **Quarry Lakes** | Flooded mine workings with a paved loop around them. Nobody lives there and almost nobody goes. |
+| **Old Quarter Commons** | The city's original square, still there, still cobbled, ringed by the oldest streets in Nitroit. |
+
+**There is no off-road racing in *Beyond*.** No rally, no dirt, no gravel, no unpaved events, in either half of the game. Every surface the player competes on is sealed.
+
+These places exist to be **driven through, not raced on**: they are where the free roam stops being a network of events and becomes a city somebody lives in. Night meets happen at the edges of them. The Ridge Forest road is a competition route because it is a mountain road, not because it is in a forest. The parkway and the quarry loop host nothing at all — they are simply the two best drives in Nitroit, and the game never puts a marker on either.
+
+#### Scale
+
+| | |
+|---|---|
+| **Population** | ~800,000 in the city, ~2 million in the region |
+| **Drivable area** | Roughly 40 km² of streets, plus the expressway ring and the hill roads |
+| **Longest continuous straight** | The Docks container road, 1.9 km |
+| **Highest point to lowest** | 310 m, Ridgeline crest to the waterline |
+| **Bridges** | 5 |
+| **Rail crossings** | 14, of which 9 are grade-separated |
+
+### 5.2 Where the Scene Came From
+
+**Nitroit's street scene is not one culture. It is five founding cultures and two districts that have none, and they are divided by neighbourhood because the work was.**
 
 The city grew in layers. The port came first, then the mills that fed off it, then the iron mines in the hills north of the city, then the plants that turned the ore into product. Every wave of people who came to do that work settled where the work was, and their children built cars there. A hundred years later the neighbourhoods have changed and the jobs mostly have not come back, but the car culture stayed exactly where it was planted.
 
@@ -226,7 +365,7 @@ The city grew in layers. The port came first, then the mills that fed off it, th
 
 - Culture is expressed through **what a district races, how it judges, what it refuses, and how its people talk** — never as a label on a character.
 - Every crew has members from outside its founding community, and the newer crews have no founding community at all.
-- Nobody in the game gates entry by who someone is. Every district gates by **what car you brought**, which is a rule about the car (Section 5.3).
+- Nobody in the game gates entry by who someone is. Every district gates by **what car you brought**, which is a rule about the car (Section 5.4).
 - The city's history is present in shop signs, family names recurring across generations, the languages heard at meets, the food at night meets, and what the older NPCs remember. It is texture with mechanical consequence, not a demographic table.
 
 | District | Founding lineage | What it became |
@@ -239,7 +378,7 @@ The city grew in layers. The port came first, then the mills that fed off it, th
 | **Riverside** | Mexican-American families, and a lowrider and custom tradition older than the street racing around it | Build quality judged as seriously as lap time |
 | **The Heights** | The families who owned the mines, the mills and the port | Hypercars, and a private club |
 
-### 5.2 Districts and Crews
+### 5.3 Districts and Crews
 
 The city is divided into **seven districts**. Each is controlled by a crew, and each crew is a complete competitive identity: its own discipline, its own machinery, its own entry rules, and its own reason for existing.
 
@@ -350,7 +489,7 @@ Meridian's machinery is road machinery — Bugatti, Koenigsegg, Pagani and their
 
 **Meridian supplies no drivers and no mechanics to a festival team.** Its members have no discipline in the festival's sense and no interest in working for anybody. What a Loyal Meridian contact offers instead is money: they will sponsor the protagonist's team and cover its salaries for a season (Section 12.4.4). It is the only district whose relationships convert into funding rather than personnel, and it is exactly what a district full of rich people would be worth.
 
-### 5.3 Territorial Rule
+### 5.4 Territorial Rule
 
 **In the city, the crew that controls a district sets the rules inside it.**
 
@@ -367,15 +506,141 @@ To take a district, the protagonist must defeat each ranked member of the contro
 
 Taking a district transfers rule-setting authority to the protagonist. He can then set the district's rules himself — an authority the game deliberately does *not* grant him in the festival.
 
-### 5.4 The Festival in Nitroit
+### 5.5 The Revada Festival in Nitroit
 
-From Act 2 onward, the Revada festival is visible all over Nitroit: billboards, magazine racks, radio spots, television in shop interiors, NPC conversation. It is never hidden and never mysterious, and it is eight hundred miles away.
+**The festival does not exist in this game until Act 3 is nearly over.**
 
-The protagonist's response, consistently, is disinterest. He changes the subject. He looks away. NPCs who bring it up get short answers.
+For the whole of Acts 1 and 2 there is no mention of it anywhere: not on a billboard, not on the radio, not in a single line of NPC dialogue. The player is given no reason to believe the game has a second half, and every structural signal says it does not — districts are falling, the REP ladder is visibly running out of rungs, and the last crew leader is in sight.
 
-This is the only place in the game where the protagonist's avoidance is dramatised without the player being told it is avoidance.
+**The player is supposed to think they are finishing the game. They are supposed to be right up until they are not.**
 
-### 5.5 Street Culture
+#### How It Arrives
+
+Late in Act 3, with five or six districts held, the **Revada Festival** appears in Nitroit all at once, the way a real event with a marketing budget appears in a real city.
+
+| Channel | What it looks like |
+|---|---|
+| **Radio** | The station the player has had on for thirty hours starts running spots. Then the news at the top of the hour starts covering it as a story. Each station carries it differently (Section 5.6). |
+| **Billboards** | Bought across the expressway and the commercial strips, in the space of about a week of in-game time. |
+| **Television** | Shop interiors, the waiting area at every garage, bar screens. Highlight packages from previous seasons. |
+| **Magazines** | The same newsstands that have been printing Jake's covers (Section 11.2) start carrying festival preview issues. |
+| **NPCs** | Crew members bring it up unprompted. Shop owners mention it while working. It becomes the thing the city is talking about. |
+
+#### What the Advertising Says
+
+The festival does not sell itself as a race series. **It sells itself as a door.**
+
+The pitch is consistent across every channel: Revada is where drivers get seen. Teams scout it. Careers start there. It is the last open entry point into professional motorsport for anybody who did not come up through a factory junior programme, and it runs once a year, and if you are good and you are not in it, that is a decision you made.
+
+*An event you cannot afford to miss* is the line, and it is aimed squarely at people exactly like Jake — except that Jake is the one person in Nitroit for whom the pitch is not an opportunity.
+
+#### What It Does to the Player
+
+**The timing is the design.** The festival lands at the moment the player has run out of city to conquer, on a wave of advertising that explicitly promises a professional career, in a game that has spent three acts establishing that its protagonist will not go anywhere near one.
+
+Everybody else in the scene reads the advertising as a chance. Jake reads it as the thing that killed his father, wearing a sponsor's logo.
+
+**He says nothing about it.** Asked directly, he changes the subject. The player is told nothing they have not already worked out. This is the only place in the game where his avoidance is dramatised without a single line naming it.
+
+### 5.6 Radio
+
+**Radio in *Beyond* is not a music player with a skip button.** Nitroit's stations are real stations: they have call letters, licences, formats, hosts, shows, schedules and things to say. They run on a clock, they identify themselves at the top of the hour, and they carry the story of the city — including, eventually, the Revada Festival (Section 5.5).
+
+#### How They Work
+
+The game builds them the way American radio is actually built:
+
+| Element | What it is in *Beyond* |
+|---|---|
+| **Legal ID** | At the top of every in-game hour, each licensed station states its call letters and city of licence, as the FCC requires. It is the only line every station reads identically. |
+| **Imaging** | Sweepers, liners, jingles, beds and drops between tracks — the audio branding that tells you where you are without interrupting anything. Each station's imaging matches its format: Millennium's is loud and cut hard, Umbra's is low and warm, TKK's is distorted on purpose. |
+| **Dayparting** | Stations do not sound the same at 2pm and 2am. Hosts have slots; the slots have their own imaging and their own energy. |
+| **Shows** | Named, recurring programmes with their own formats — not a shuffled playlist with occasional talk. |
+| **Live reads** | Hosts read local advertising themselves, in their own voice, for businesses the player can actually visit. Shops the player has a relationship with buy spots. |
+| **Talk breaks** | The hosts have opinions, running bits, and things going on in their lives across the length of the campaign. |
+
+**Nothing on the radio is static.** Hosts react to the season, to the weather, to what is happening in the city, and to the festival's arrival. A player forty hours in is listening to stations that have changed since Act 1.
+
+---
+
+#### WMLN — "MILLENNIUM 101.3"
+*Nitroit's Rock Station. Active rock: nu metal, alternative, hard rock, punk and pop punk.*
+
+**Host: Z Mike.** One man, most of the broadcast day, and audibly incapable of doing anything at low volume.
+
+Z Mike talks fast, talks over intros, shouts song titles, and treats every track as though it is the best thing he has ever put on the air. He is not ironic about the music and never winks at it. The station's whole position is unapologetic nostalgia for a specific era of American rock radio, and Z Mike is the last person alive who thinks that era should not have ended.
+
+**Why he works during a race.** Millennium's imaging is cut tight and short, its talk breaks are brief and loud, and Z Mike's job is to hand off to the next song with as much momentum as possible. A Millennium sweeper landing as the player comes out of a tunnel at 190 km/h is the single best audio moment the station produces, and it is designed to be.
+
+**Shows:**
+
+| Show | When | What |
+|---|---|---|
+| **Wake Up Screaming** | Morning drive | Z Mike, at maximum, at an hour nobody should be. Traffic, weather, and the loudest song in the library at 7:00. |
+| **The Long Haul** | Midday | Deep cuts and album tracks. The one slot where he stops shouting. |
+| **Requests After Dark** | Evening | Listeners call in. Z Mike argues with them about which record is better. |
+| **Rust Belt Rewind** | Weekly | An hour on one album, one band or one year. The only time he talks about anything seriously. |
+
+---
+
+#### UMBRA
+*Underground hip hop. On the air from sunset to sunrise, and not one minute before.*
+
+Umbra shares its frequency with a daytime-only station, which is a real and unglamorous arrangement: the other licence holds the daylight hours, and Umbra signs on when they sign off. **The player cannot listen to Umbra in the afternoon. Not because the game locks it — because the station is not broadcasting.**
+
+The signal is weak, the audio is warm and slightly murky, and it drops out under the rail bridges. None of this is a defect.
+
+**Hosts: Kane, Zane and Dwayne.** Three friends in a booth, which is the format that underground hip hop radio actually invented — unsigned artists, rarities, B-sides, live freestyles, and three people whose chemistry with each other is half the reason anybody is listening.
+
+They are crate-diggers, not broadcasters. They interrupt each other, lose the thread, argue about records for ten minutes, and play things twice because the first time got talked over. **They have been friends since before the show and it is obvious in every break.** The in-jokes are unexplained, the nicknames are inherited, and a player who listens across the whole campaign works out the history between them without any of it being narrated.
+
+**Why it matters to the city.** Umbra is Nitroit's own scene. The artists are local, unsigned and real inside the fiction — some of them are NPCs the player meets at night meets, which means the record playing in the car at 2am belongs to someone who was standing in a car park in the Industrial Flats earlier that evening.
+
+**Shows:**
+
+| Show | When | What |
+|---|---|---|
+| **Sundown** | Sign-on | The first hour. Slow, low, nobody raises their voice. |
+| **The Basement** | Late evening | New local records, most of them unreleased. |
+| **Open Mic** | Late night, weekly | Local MCs come in and freestyle live over whatever Kane has on the decks. Recorded off the air by people in Nitroit onto whatever they have. |
+| **Last Call** | Pre-dawn | Whoever is still awake. Sometimes just one of them, talking. |
+
+---
+
+#### TKK
+*Frenchcore, hardstyle, hard techno, freetekno, hardtek, jumpstyle. Unlicensed.*
+
+**TKK has no call letters, because TKK has no licence.** It is a pirate station, run out of somewhere in the Industrial Flats, broadcasting on whatever frequency is clear that week. It never gives a legal ID because it legally does not exist, and every so often it moves — **the frequency the player has tuned changes during the campaign, and finding it again is left entirely to them.**
+
+This is not affectation. The music TKK plays comes out of the European free-party scene, which is unlicensed by nature, and a station playing it in an American rust-belt city would be a pirate or it would not be there at all.
+
+**Hosts: Blitz and Krieg.** Brother and sister. She is Blitz, he is Krieg.
+
+**Blitz** does most of the talking — fast, clipped, dry, funny in a way that takes a second to land. She handles the transmitter, knows the law well enough to stay ahead of it, and treats getting shut down as a scheduling inconvenience.
+
+**Krieg** barely speaks. When he does it is one sentence, usually flat, usually the funniest thing in the break. He selects the music and he is the reason the station is good.
+
+Their dynamic is siblings who work together and do not need to explain themselves to each other, broadcasting to a few thousand people from a room with the window open.
+
+**Shows:**
+
+| Show | When | What |
+|---|---|---|
+| **Signal Check** | Sign-on, irregular | Blitz confirms the frequency, reads out where they are not, and starts. |
+| **Hard Line** | Peak hours | Continuous, mixed, no talk for forty minutes at a time. |
+| **Teknival** | Weekend nights | Live from wherever the party is. Audio quality varies wildly and they do not care. |
+| **Off Air** | — | Sometimes the station is simply not there. It comes back. |
+
+---
+
+#### Radio and the Rest of the Game
+
+- **The police listen too.** At high List positions (Section 6.1), Nitroit's news bulletins start covering the pursuits. Z Mike reads it as a traffic story. Umbra reads it differently. TKK finds it funny.
+- **The festival arrives through these stations** (Section 5.5), and each one carries it in character: Millennium sells it, Umbra is sceptical of it, TKK ignores it entirely until Blitz makes a joke about the ticket prices.
+- **Local advertising is the city's own economy.** The shops the player uses buy spots. A player at Loyal with a shop will eventually hear that shop's owner read their own advert badly.
+- **There is no radio in Revada.** Nitroit's stations do not reach that far, and the drive out is scored by them fading into static. At a festival venue there is PA, race control and engine noise, and nothing else. **The silence is one of the ways Revada is established as somewhere Jake does not belong.**
+
+### 5.7 Street Culture
 
 The city runs on **underground car culture**: unsanctioned, self-organised, and answerable to nobody but the people inside it.
 
@@ -383,13 +648,13 @@ The city runs on **underground car culture**: unsanctioned, self-organised, and 
 
 **What a car is for.** Identity first, performance second — and the two are not separated. A car that is fast but anonymous earns nothing at a night meet. The scene reads a build the way it reads a person: stance, wheel fitment, paint, exhaust note, engine swap choice, whether the work was done properly or bodged.
 
-**What the rules are.** Whatever the crew that controls the district says they are (Section 5.3). Rules are verbal, local, inconsistent between districts, and enforced socially — by refusal of entry, by reputation damage, by being run off the road.
+**What the rules are.** Whatever the crew that controls the district says they are (Section 5.4). Rules are verbal, local, inconsistent between districts, and enforced socially — by refusal of entry, by reputation damage, by being run off the road.
 
 **What legitimacy looks like.** Recognition. There is no certificate, no licence, no ranking body. A racer is what other racers say he is.
 
 **What is technically permitted.** Everything a car can physically be made to do. Engine swaps across manufacturers, nitrous, illegal-height suspension, straight-piped exhausts, removed catalytic converters, unhomologated aero, non-road-legal tyres. No scrutineering exists because no organising body exists, and no build is ever rejected on grounds of legality.
 
-The only restrictions in the city are **entry conditions set by a controlling crew for its own events** (Section 5.3) — a power cap here, a no-nitrous rule there. These are house rules, not regulations: they apply to one crew's events in one district, they change when the district changes hands, and nobody inspects the car. A racer who ignores them is not disqualified; he is simply not let in.
+The only restrictions in the city are **entry conditions set by a controlling crew for its own events** (Section 5.4) — a power cap here, a no-nitrous rule there. These are house rules, not regulations: they apply to one crew's events in one district, they change when the district changes hands, and nobody inspects the car. A racer who ignores them is not disqualified; he is simply not let in.
 
 **What the risk is.** Police, other racers, and money. Nothing else.
 
@@ -442,7 +707,7 @@ The city's scene names the protagonist as he climbs. The title is what NPCs call
 | 7 | **Contender** | 20,000 | Taken seriously by people who matter. High-tier crew members; pink slips unlock. |
 | 8 | **Name** | 30,000 | The city says the name unprompted. **Invitationals begin arriving** (Section 11.3). |
 | 9 | **Headliner** | 42,000 | Magazine covers rather than features. The two unaffiliated Invitational racers make contact. |
-| 10 | **Untouchable** | 58,000 | **No crew will send anyone below their best.** Crew leaders become challengeable. |
+| 10 | **Untouchable** | 58,000 | **No crew will send anyone below their best.** Crew leaders become challengeable. Revada Festival advertising begins appearing in Nitroit (Section 5.5). |
 | 11 | **The Name They Use** | 78,000 | "Street racing" and the protagonist's name have become the same phrase in this city. Final district opens. |
 | 12 | **King of the Streets** | 100,000 | Act 3 conclusion. Every district held. |
 
@@ -545,7 +810,7 @@ This applies to shop owners exactly as it applies to racers, which means credit 
 
 | Standing | On-Track Behaviour | Out-of-Race Behaviour |
 |---|---|---|
-| Hostile (−3) | Actively blocks, brake-checks, forces contact, will crash themselves to stop the player | Insults, refuses information, will tip off police |
+| Hostile (−3) | Actively blocks, brake-checks, forces contact, will crash themselves to stop the player | Insults, refuses information, and will call in the player's location — pursuits in that NPC's home district start one heat level higher while Standing stays Hostile |
 | Unfriendly (−2 to −1) | Defends aggressively, closes doors, no quarter | Curt, withholds event invitations |
 | Neutral (0) | Races to win, clean by default | Transactional |
 | Friendly (+1 to +2) | Races hard but clean, gives room in ambiguous situations | Shares event locations, warns of police patrols |
@@ -721,7 +986,7 @@ Every car in the game carries a **class**, assigned automatically from a compute
 
 **Class is earned, not bought.** Installing parts raises the index, and when the index passes a class ceiling the car moves up a class. A fully built C-class tuner becomes a B-class car and races B-class fields; it does not become an unbeatable C-class car.
 
-This single index governs every restriction in the game. Crews use it to gate district events (Section 5.3), the festival uses it to assign competition classes (Section 13.3), and both read the same number.
+This single index governs every restriction in the game. Crews use it to gate district events (Section 5.4), the festival uses it to assign competition classes (Section 13.3), and both read the same number.
 
 **A car can be detuned.** Parts can be removed or swapped down to bring a car back under a class ceiling. This is a legitimate strategy — a B-class car at the very top of its class beats an A-class car at the bottom of its own — and it is how a player enters a restricted event with a chassis they have already over-built.
 
@@ -762,7 +1027,7 @@ Every build carries a **Presentation** rating from 1 to 6, computed from the vis
 
 Presentation is not cosmetic bookkeeping. It is an input to three separate systems:
 
-- **Riverside entry** (Section 5.1) — the build coherence check reads Presentation alongside build consistency
+- **Riverside entry** (Section 5.3) — the build coherence check reads Presentation alongside the coherence list
 - **Magazine features** (Section 11.2) — magazines only approach cars above a Presentation threshold
 - **Night meet dialogue** — NPC reactions to the car scale with it
 
@@ -967,13 +1232,13 @@ Winning an Invitational takes a car from a driver who did not want to lose it, w
 
 ### 12.1 What It Is
 
-A large sanctioned motorsport festival held across the **state of Revada**, a day's drive west of Nitroit. Grandstands, paddocks, scrutineering, official timing, sponsor presence, a rulebook.
+The **Revada Festival**: a large sanctioned motorsport event held across the state it is named for, a day's drive west of Nitroit. Grandstands, paddocks, scrutineering, official timing, sponsor presence, a rulebook.
 
 It is **not** Formula 1, GT3, or any factory-backed professional series. There are no works teams, no manufacturer programmes, no driver contracts, no homologated race cars built for a rulebook from the ground up.
 
 It is also not a street meet with cones. It sits deliberately in the middle: **legal, organised, scrutineered, public — and not yet professional.** The *ProStreet* model. Built road cars, not race cars. Private entrants, small independent teams, and sponsored tuning shops. Closed tracks, scheduled race days, a published rulebook, official timing, grandstands, and a championship at the top.
 
-**The festival is open to the public, and it is a bridge rather than a destination.** Spectators buy tickets, the standings board is posted where anyone can read it, and professional teams send scouts. Nobody in the festival is at the top of the sport. A meaningful number of them are trying to get there, and a few of them will (Section 15.5).
+**The Revada Festival is open to the public, and it is a bridge rather than a destination.** Spectators buy tickets, the standings board is posted where anyone can read it, and professional teams send scouts. Nobody in the festival is at the top of the sport. A meaningful number of them are trying to get there, and a few of them will (Section 15.5).
 
 It **runs for several months**, not a single weekend, with events held on scheduled official dates.
 
@@ -1031,7 +1296,7 @@ This is the single largest adjustment in the game, and it changes every question
 
 The car is not bad. The car is not *for this*.
 
-**And the skill the festival actually rewards is the one the city never asked for: working inside somebody else's constraints and finding room in them.** That is the protagonist's father's job description. It is also, not coincidentally, the thing he has spent the entire game refusing to do — and the mechanic is the person who teaches it to him.
+**And the skill the festival actually rewards is the one the city never asked for: working inside somebody else's constraints and finding room in them.** That is his father's job description. It is also, not coincidentally, the thing he has spent the entire game refusing to do — and the mechanic is the person who teaches it to him.
 
 ### 12.2 Regulation
 
@@ -1106,13 +1371,13 @@ A Ridge Union driver cannot be registered for Drag. A Dockline mechanic cannot p
 
 **Standing decides who will come. Personality decides what they are worth once they do** (Section 6.4) — for drivers. For mechanics, Standing decides who will come and **Expertise, specialisation and Insights** decide what they are worth (Section 12.4.5). A player choosing between two Friendly drift drivers is choosing between two temperaments; a player choosing between two drift mechanics is choosing between two bodies of knowledge.
 
-**The consequence is unavoidable: the player must build relationships across the entire city.** A player who spent the campaign inside one district, however dominant, cannot field a legal roster. The five disciplines map onto five crew cultures, and the festival requires all five.
+**The consequence is unavoidable: the player must build relationships across the entire city.** A player who spent the campaign inside one district, however dominant, cannot field a legal roster. The five disciplines are supplied by six of the seven crews, and the festival requires a driver and a mechanic for every one of the five.
 
 ---
 
 #### 12.4.3 The Invitational Problem
 
-Nine racers issue Invitationals. **Eight of them are recruitable** — the leaders of the six crews that supply festival personnel, and the two unaffiliated drivers, who carry a discipline of their own despite belonging to nobody (Section 12.4.2). The ninth is Meridian's, and Meridian supplies no personnel to anybody (Section 5.1).
+Nine racers issue Invitationals. **Eight of them are recruitable** — the leaders of the six crews that supply festival personnel, and the two unaffiliated drivers, who carry a discipline of their own despite belonging to nobody (Section 12.4.2). The ninth is Meridian's, and Meridian supplies no personnel to anybody (Section 5.3).
 
 So for eight of the nine, the best driver available in that discipline and the hardest one to keep are the same person. The only way to face them is an Invitational; winning one takes their car and costs 2 Standing.
 
@@ -1136,7 +1401,7 @@ Every registered team member draws a salary for the season, paid from the player
 
 A roster of Friendly professionals is expensive enough to compete with the five-car budget (Section 13.4), and the player will be back in the city earning between race dates to cover both. A roster of Loyal friends costs nothing and is the single largest economic advantage available in the game.
 
-**Sponsorship.** A Meridian contact at Loyal Standing will underwrite the team's salaries for a full season (Section 5.1). This is the only way to field a roster of paid professionals without funding it out of street winnings, and it is the one thing The Heights is good for beyond hypercars.
+**Sponsorship.** A Meridian contact at Loyal Standing will underwrite the team's salaries for a full season (Section 5.3). This is the only way to field a roster of paid professionals without funding it out of street winnings, and it is the one thing The Heights is good for beyond hypercars.
 
 **Relationships are the game's real currency, and this is where it is spent.**
 
@@ -1225,7 +1490,7 @@ A player who ignores their mechanic can still win the festival. They will be doi
 
 They have personalities anyway, and they come through entirely in dialogue: the one who explains everything twice, the one who says four words a session, the one who is openly contemptuous of the festival and does the work perfectly regardless, the one who will not shut up about a car he built in 2009. None of it touches a number. All of it is why the player remembers which one they took.
 
-A player with a Loyal mechanic at Expertise 5 has, functionally, a second protagonist — the only character in the festival who is there for every build, every registration, every repair, and every radio call.
+A Loyal mechanic at Expertise 5 is the most constant presence in the epilogue — the one character who is there for every build, every registration, every repair and every radio call, including the last one.
 
 ---
 
@@ -1346,15 +1611,15 @@ The festival moves. **Ten venues across Revada**, each hosting on particular dat
 
 | Venue | What it is | Disciplines |
 |---|---|---|
-| **Sandreach Motorsport Park** | Purpose-built permanent circuit. Three configurations. Grandstands, paddock, the closest thing the festival has to a home. | Grip, Sprint |
+| **Sandreach Motorsport Park** | Purpose-built permanent circuit. Three configurations. Grandstands, paddock, the closest thing the festival has to a home. | Grip |
 | **Vermillion Flats** | Dry lake bed. Flat, white, limitless, no walls anywhere. | Drag, Speed, Drift |
-| **Halloran Basin** | Temporary street circuit through Revada's capital, closed for the weekend. Concrete walls, no run-off. | Grip, Sprint |
+| **Halloran Basin** | Temporary street circuit through Revada's capital, closed for the weekend. Concrete walls, no run-off. | Grip |
 | **Black Mesa Pass** | Mountain highway, closed both directions. Elevation, switchbacks, exposure. | Sprint, Drift |
 | **Tarrow Canyon Road** | Canyon two-lane, closed. The narrowest track in the festival. | Sprint, Speed |
 | **Copper Line** | Abandoned mining rail corridor, forty miles arrow-straight. | Speed |
 | **Anvil Strip** | Purpose-built drag strip. Timing towers, sanctioned, immaculate. | Drag |
 | **Rana Dry Wash** | Desert wash with banked walls and a natural amphitheatre of spectators on the rim. | Drift |
-| **Cold Springs Airfield** | Decommissioned airbase. Runways, taxiways, hangars, cones. | Drag, Grip, Drift |
+| **Cold Springs Airfield** | Decommissioned airbase. Runways, taxiways, hangars, cones. | Drag, Grip, Drift, Sprint |
 | **Mirror Salt** | Salt flat at the northern edge of the state. Nothing in any direction. Used once a season. | Speed |
 
 **Weather and time of day are fixed per date.** The calendar says where and when, and the player does not choose. An event at Black Mesa Pass in late afternoon is an event at Black Mesa Pass in late afternoon, for everybody, every playthrough.
@@ -1404,12 +1669,10 @@ Eight to eleven events per discipline is what makes the top-four requirement sur
 | **Grip — Sector Shootout** | One full lap, sectors timed independently |
 | **Sprint** | 8 to 20 minutes point to point — the long format |
 | **Drag** | Seconds |
-| **Drift** | Three scored runs (Section 13.2) |
+| **Drift** | Three phases across one session (Section 13.2) |
 | **Speed** | 5 to 12 minutes point to point — the other long format |
 
 Nothing in the festival runs for an hour. Nothing requires a stop. A driver gets in the car, races, and gets out.
-
----
 
 #### What "Strategy" Means Here
 
@@ -1447,11 +1710,11 @@ Some disciplines put them on track together. Some run them one at a time. One sc
 
 #### SPRINT — Both cars, together, from the same grid
 
-Full grid, both team entries released at once. Eight cars, four teams, two apiece.
+Full grid, both team entries released at once — eight cars, in the heat or final structure of Section 13.1.
 
 There is no phase structure and no solo running. It is a point-to-point race from a standing start, and the teammate is simply another car in it — one who happens to be wearing the same colours.
 
-**Team relationship: positional, and it is where the Wingman earns his keep.** Sprint has no phase structure and no cooperation mechanic, but it does have a rival directly behind the protagonist, and a teammate is a car that can be between them.
+**Team relationship: positional, and it is where the Wingman earns his keep.** Sprint has no cooperation mechanic of its own, but it does have a rival directly behind the protagonist, and a teammate is a car that can be between them.
 
 | Personality | Behaviour toward the protagonist's race |
 |---|---|
@@ -1794,11 +2057,11 @@ Points from the four qualifying rounds do one thing: **they decide who contests 
 - Whoever leads on points takes pole. That is the whole of the advantage a good season buys.
 - **The Circuit Final is head to head, and the winner is the champion.** Accumulated points do not carry into it, cannot decide it, and cannot substitute for it.
 
-This is deliberate and it replaces an earlier structure in which the final round merely carried double points. Double points are not decisive — they are only heavier. A driver with a large enough lead could have arrived at the Circuit Final already champion, and a driver could have lost it and won the title anyway.
+**A weighted points round could not do this job.** Extra points for the last event make it heavier, not decisive: a large enough lead arrives at the Circuit Final already champion, and a driver can lose the race and take the title anyway.
 
-**Neither outcome is acceptable, for one reason that has nothing to do with balance:** the entire game exists to put the protagonist on a circuit with the championship live and undecided until he crosses the line. A points system that can hand him the title before the flag, or take it from him after he won the race, breaks the only scene the game is built toward.
+**Both outcomes are unacceptable for one reason that has nothing to do with balance:** the entire game exists to put Jake on a circuit with the championship live and undecided until he crosses the line. Any scoring system that can hand him the title before the flag, or take it from him after he has won the race, breaks the only scene the game is built toward.
 
-So the format guarantees it instead. **He cannot win the championship without winning that race, and he cannot lose it if he does.**
+The format guarantees it instead. **He cannot win the championship without winning that race, and he cannot lose it if he does.**
 
 The order exists for the same reason. **The championship must end on a closed circuit, on a multi-lap race, because that is the kind of race that killed his father.**
 
@@ -1849,7 +2112,7 @@ It is the first time in the protagonist's life that he is offered a car he did n
 
 It is not a reward for winning the festival. It is what the festival is for. **This is the level professional teams recruit from** — a public, sanctioned, semi-professional series where a driver's results are on a board anyone can read, run close enough to the real thing to mean something and far enough from it to be reachable. Scouts are in the paddock all season. A driver who placed top four in five disciplines and then won a championship against the people who did the same is exactly the profile they are there for.
 
-The protagonist spent five acts calling this place the thing he was afraid of. It was a bridge the whole time.
+Jake spent five acts calling this place the thing he was afraid of. It was a bridge the whole time — and by the Circuit Final the paddock knows whose son he is (Section 3.1), which is not why the offer comes, but is why it comes so fast.
 
 **He accepts.**
 
@@ -1859,18 +2122,44 @@ The final sequence is Jake arriving at a professional circuit — not in Revada,
 
 Everything he spent the game surrounded by is gone. No Nitroit, no crew, no district, no reputation, no one who knows him. He is at the start of exactly the career his father had, at exactly the level his father started at, with the same thing at the end of it.
 
-The game ends there. It does not show him winning anything. It does not show him in a world championship. It does not promise that it goes well.
+The credits run there. The sequence does not show him winning anything, does not show a championship, and does not promise that it goes well.
 
 **What the ending explicitly does not do:**
 
 - It does not present the streets as a mistake or a phase. Nothing in the final sequence disowns them.
 - It does not have him announce that he has healed, moved on, or made peace.
-- It does not give him his father's title, or any title.
-- It does not close the city. The player returns to a fully open game (Section 16).
+- It does not close Nitroit. The player returns to a fully open game (Section 16).
 
-The father died with a world championship won on the road and never awarded. The son signs a contract for the first season of a career that might get him to the same place. The game does not say whether it will.
+His father died with a world championship won on the road and never awarded. Jake signs a contract for the first season of a career that might get him to the same place. The main game does not say whether it will.
 
 It says that he is going, and that fear is no longer the reason for anything he does.
+
+### 15.7 After the Credits
+
+**Years later.**
+
+A cemetery, in the state Jake left at nineteen. Overcast, still, no music. The first time the game has shown anywhere that is not Nitroit, Revada or a circuit.
+
+He is older. The clothes are a driver's clothes, but there is no car in the shot and no engine on the audio. He is carrying two things.
+
+**He goes to his mother first.** He leaves flowers on Grace Spaid's grave. He stays a while. The camera does not move in and he does not speak.
+
+**Then he goes to his father.** He is carrying a trophy — the professional championship John Spaid led into a final lap and never collected, won by his son at the level his father worked at. He makes no speech. He sets it at the headstone, straightens it, and leaves it there.
+
+He walks back the way he came. The shot holds on the two graves, flowers on one and a trophy on the other, and ends.
+
+**What the scene withholds on purpose:**
+
+- **Which championship, and which year.** The trophy is not identified and nothing captions it. That it is the thing his father was denied is the entire content.
+- **Whether he is still racing.** The game does not say whether this is the middle of a career or after it.
+- **Dialogue.** He does not speak. Nobody else is in the scene.
+- **Nitroit.** No crew, no teammate, no mechanic appears or is mentioned. Whether he kept any of them is left with the player who decided what they were worth.
+
+**Why the order matters.** Flowers for Grace first, trophy for John second — and Grace gets the longer beat and the greater silence. The game spent its whole length on the man who died in the lead and comparatively little on the woman who raised Jake through it, and the last thing it does is correct that by an order of operations rather than a line of dialogue.
+
+**The trophy is the only object in the game that leaves the player's possession permanently.** Cars, money and titles all stay in a save file the player can return to. This one he puts down on purpose, in the ground, and walks away from.
+
+That is the end of *Need for Speed: Beyond*.
 
 ---
 
@@ -1959,7 +2248,9 @@ A document whose thesis is that relationships are the currency needs the relatio
 
 ### 18.1 The Spaids
 
-**Jake Spaid.** The protagonist. Grew up in Nitroit in a house that smelled of solvent, at circuits on weekends, in a paddock before he could drive. Has never held a licence to compete at any sanctioned event, has never been timed by anybody official, and is the best driver in a city of eight hundred thousand people. Speaks rarely and drives constantly.
+**Jake Spaid.** The protagonist. Not from Nitroit — he arrived at nineteen, from a state he does not name, in a pickup, with twenty-five thousand dollars and no intention of explaining himself. Karted from seven, won from nine, quit at fourteen, and has not been timed by anybody official since. Speaks rarely and drives constantly. Full history in Section 2.2.
+
+**Grace Spaid.** His mother. Married to a professional driver for twenty years and never once at the circuit on a race weekend, which nobody in the family ever asked her about. Raised Jake alone for five years after the accident and was the only person in his life who did not tell him what he ought to be doing with his talent. Died of cancer when he was nineteen. She has no photographs in the game and no recorded voice; what the player knows of her comes from Jake refusing to discuss her.
 
 **John Spaid.** His father. Professional GT3 driver. Customer teams, sponsor liveries, endurance grids — a career spent as somebody else's hired driver, and good enough at it to lead a world championship into its final round. Died on the last lap of that race, in the lead, with the title won on the road and never awarded.
 
@@ -1977,7 +2268,7 @@ Each is the top-ranked racer of their crew, the final challenge for that distric
 | **Ringrunners** | Dara Novak | Spike | Speed |
 | **The Yard** | Bilal Haddad | Wingman | Sprint |
 | **Riverside** | Junie Castellanos | Wingman | Sprint |
-| **Meridian** | Adrian Wolff | Competitor | None — sponsorship only (Section 5.1) |
+| **Meridian** | Adrian Wolff | Competitor | None — sponsorship only (Section 5.3) |
 
 ### 18.3 The Unaffiliated
 
@@ -2004,7 +2295,17 @@ One per district, each supplying that district's discipline.
 
 **Family names recur on purpose.** Nitroit is a city of inherited trades, the scene is old, and several of the crew leaders are related to the people who build their cars. A player who works with Curtis Ward for three acts is working with Delia's brother, in a shop their grandfather opened, and the Invitational against her is not a clean transaction.
 
-### 18.5 Festival Title Holders
+### 18.5 Radio
+
+| Station | On air | Who |
+|---|---|---|
+| **WMLN — Millennium 101.3** | Licensed, most of the day | **Z Mike** — American, hyperactive, sincere, never lowers his voice |
+| **Umbra** | Sunset to sunrise, share-time AM | **Kane, Zane and Dwayne** — three friends, crate-diggers, terrible at staying on topic |
+| **TKK** | Unlicensed, irregular, moves frequency | **Blitz** (sister, talks) and **Krieg** (brother, does not) |
+
+Full profiles in Section 5.6.
+
+### 18.6 Festival Title Holders
 
 The five drivers who hold the discipline crowns when the protagonist arrives (Section 14.5). None are recruitable, none appear in the city, and none of them have any interest in him.
 
@@ -2020,7 +2321,7 @@ The five drivers who hold the discipline crowns when the protagonist arrives (Se
 
 ## 19. Production Scope
 
-The parts of scope this document commits to. Platform targets, budget and market positioning are outside it.
+The scope the design commits to. Platform targets, budget and market positioning are separate decisions and are not set here.
 
 | | |
 |---|---|
@@ -2032,7 +2333,8 @@ The parts of scope this document commits to. Platform targets, budget and market
 | **Named NPCs** | Roughly 40 — the cast above, plus crew members, magazine editors and festival rivals |
 | **Districts** | 7 districts in Nitroit; 10 festival venues across Revada |
 | **Festival layouts** | 18 to 24, drawn from the 10 Revada venues |
-| **Narrative delivery** | In-world and diegetic. Garage dialogue, radio during events, conversation at night meets and in the paddock, magazines and television in the world. No cutscene the player cannot drive out of, with two exceptions: the end of Act 5 and the final sequence. |
+| **Narrative delivery** | In-world and diegetic. Garage dialogue, radio during events, conversation at night meets and in the paddock, magazines and television in the world. No cutscene the player cannot drive out of, with three exceptions: the end of Act 5, the final sequence, and the post-credits scene (Section 15.7). |
+| **Starting position** | A rented house, a pickup, and $25,000. An inherited account, visible and spendable, that the game is balanced on the player never opening (Section 2.2). |
 | **Online** | Asynchronous only (Section 17). Fully playable offline. |
 
 ---
