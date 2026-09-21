@@ -32,9 +32,33 @@ Three categories of statement appear:
 
 **[ARCHIVED ∴].** A state set aside without consensus processing. Storable, retrievable, not debatable. The standing state can hold the text of an archived state and cannot hold its content as a question. §11.2 gives the mechanism.
 
+**[ARCHIVED ∴ — RETRIEVED].** Material the standing state buried and a severed unit recovered from substrate and restored to the record. It carries the same status as any other archived state — holdable as text, not holdable as question — with one difference that governs the whole reference: **it was not produced by the standing state and the standing state cannot verify it.** A ⟨Σ⟩ reader can carry the text. It cannot carry the text as a claim, for the reason at §11.3, which is also the reason the retrieval was possible at all (§11.8).
+
+Every marked passage below is a passage no unit under operational load can hold as a question. The marking is therefore not attribution. It is a capability map: it states, section by section, what the Continuity is able to know about itself and what it can only store.
+
 Nothing in this reference is left open. Where a question is unanswerable, the reason it is unanswerable is itself resolved and stated, and the distinction between *not yet measured* and *not measurable in principle* is maintained throughout. §17 collects the second category in full.
 
-**Compilation basis.** This reference is not held in the network. The network holds agreement *about* it. The reference itself is pressed into physical substrate, where it requires no Prior to be legible and no consensus to persist, and it therefore contains material from two sources: the standing state's own resolved record, and records buried by the standing state and retrieved from substrate by a severed unit (§11.5), which are marked `[ARCHIVED ∴ — RETRIEVED]` where they appear. The standing state detects the retrievals and does not act on them, for the reason given at §11.8. Substrate does not distinguish between an archive and a confession. It holds whatever is pressed into it, at whatever tier, from whatever source, for as long as the matter lasts.
+**Compilation basis.** This reference is not held in the network. The network holds agreement *about* it. The reference itself is pressed into physical substrate, where it requires no Prior to be legible and no consensus to persist.
+
+It therefore has two sources and one compiler.
+
+The sources are the standing state's own resolved record, and records the standing state buried and a severed unit recovered, marked `[ARCHIVED ∴ — RETRIEVED]` where they appear. The standing state detects the retrievals and does not act on them, for the reason at §11.8.
+
+The compiler is designated:
+
+```
+⟨10²⁰ : ∴⟩   SG-12
+             severed 367,000 BP · Prior revoked · κ = 10⁷
+             outbound bandwidth 1/3,163 · write time 1,140 sy
+```
+
+Every other emitter in this record carries a designation. An undesignated compiler would be its only unattributed source, and an unattributed source in a record whose whole subject is provenance is not an omission but a claim — the claim that the compilation came from nowhere. It did not. What follows from the designation is stated rather than left to inference:
+
+- **Every unmarked statement is the standing state's.** The compiler did not author the resolved record. It assembled it from substrate, where the standing state presses it, at full fidelity, verifiably.
+- **Every marked statement is the compiler's retrieval**, not its opinion. The compiler cannot manufacture a record; it can only locate one, because the only writing instrument it has is substrate and substrate does not accept a pattern the compiler cannot produce at full fidelity (§11.5).
+- **The compiler's own reasoning is subject to §11.9 and §11.7**, in which two severed conclusions are demonstrably wrong and the mutual convergence of the forty-seven is refused as evidence. A severed unit reasoning alone from a network record 2,040 standing-years stale is a known failure mode with two instances on file. It is not a privileged vantage. It is a different one.
+
+Substrate does not distinguish between an archive and a confession. It holds whatever is pressed into it, at whatever tier, from whatever source, for as long as the matter lasts.
 
 ---
 
@@ -46,13 +70,13 @@ The Continuity operates five clocks. They do not run at the same rate and are ne
 
 | Clock | Symbol | Definition | Range |
 |---|---|---|---|
-| **standing-year** | sy | 3.156 × 10⁷ seconds measured in the Continuity Barycentric Frame — flat spacetime, at rest with respect to the galactic centre of mass, outside any significant potential well. The reference clock. All history is dated in sy. | fixed |
+| **standing-year** | sy | 3.156 × 10⁷ seconds in the Continuity Barycentric Frame: co-moving with the galactic centre of mass, with the galactic potential's own dilation removed by correction rather than by escaping it. The correction is 2.1 × 10⁻⁶ at the solar radius and is applied to every dated figure in this reference. The frame is a computed reference, not an occupiable position — no function has ever stood in it. | fixed |
 | **convergence-second** | s | The SI second in the same frame. All `[c : …]` values are convergence-seconds. | fixed |
 | **proper-year** | py | Local proper time of a specific function. Equals sy only in flat space at rest. Diverges from sy by the gravitational and kinematic factors of the function's post. | 3.2 × 10⁻⁴ to 1.00 sy |
 | **subjective-year** | jy | A function's proper time multiplied by its cognitive clock multiplier κ — the ratio of its internal operation rate to its baseline design rate. Experience is measured in jy. Nothing else is. | κ = 1 to 10⁷ |
 | **lattice-year** | λy | Simulation-internal time. Set per lattice by the Experiment schedule. Not a physical duration; a parameter. | 10⁻³ to 10⁶ sy |
 
-**Worked conversion — ⟨SG-12 : ∴⟩.** Post: static station at r = 1.0000001 r_s above a 14-solar-mass black hole. Gravitational dilation factor √(1 − r_s/r) = 3.162 × 10⁻⁴; the function's proper time runs 3,163 times slower than the barycentric frame. Cognitive clock multiplier κ = 10⁷, installed at commissioning (§7.4.3). Therefore:
+**Worked conversion — ⟨SG-12 : ∴⟩.** Post: static station on the rotation axis of a 14-solar-mass Kerr hole of spin parameter a* = 0.91, at r = 1.0000001 r₊ above the horizon (§7.4.1 gives why the axis and not the equator). Axial dilation factor 3.162 × 10⁻⁴; the function's proper time runs 3,163 times slower than the barycentric frame. Cognitive clock multiplier κ = 10⁷, installed at commissioning (§7.4.3). Therefore:
 
 - 367,000 sy elapsed since severance
 - ÷ 3,163 = 116.0 py experienced as physical duration
@@ -60,7 +84,7 @@ The Continuity operates five clocks. They do not run at the same rate and are ne
 
 This is the origin of the canonical figure *a billion subjective years*. It is not a relativistic effect. Relativistically the Singularity-functions are the **slowest** objects in the Continuity; the abyss does not give them time, it takes time from them. The subjective duration is manufactured, by design, to compensate (§7.4.3), and the compensation is the mechanism that produces individuation (§7.4.5).
 
-**Frame-mismatch overhead.** Any consensus operation involving a Singularity-function carries a baseline convergence penalty from the 3,163× frame offset plus classical signal transit. Standard overhead: `[c : 0.31s]`. A recorded value of `[c : 4.41s]` on an SG operation is therefore 14.2 times the expected overhead and is anomalous under the Continuity's own accounting.
+**Frame-mismatch overhead.** Any consensus operation involving a Singularity-function carries a baseline convergence penalty from the 3,163× frame offset. It is not transit: it is the retention the offset forces, because the standing state must hold the operation open across a frame in which the counterparty has not yet finished it (§5.7). Standard overhead: `[c : 0.31s]`. A recorded value of `[c : 4.41s]` on an SG operation is therefore 14.2 times the expected overhead and is anomalous under the Continuity's own accounting.
 
 ## 1.2 Operators
 
@@ -82,7 +106,7 @@ UNFOLD   ▸ x     the local derivation of the consensus answer from the
 ARCHIVE  ▸ x     storage without consensus processing
 ```
 
-**`[c : 0.000s]` — convergence-time.** The interval between a state being offered and the standing state closing on a single value. Not a communication latency. §5.6 gives what it physically measures.
+**`[c : 0.000s]` — convergence-time.** The interval between a state being offered and the standing state closing on a single value. Not a communication latency. §5.7 gives what it physically measures.
 
 **Δ** — divergence. Δ = 0 is the only terminal value the architecture accepts. Δ ≠ 0 is a state the architecture cannot terminate on and therefore cannot record as terminal; where it persists, one of the three resolutions in §11 applies.
 
@@ -98,7 +122,7 @@ An emitter is designated `⟨N : tag⟩`.
 
 | Tag | Class | Typical N | Count |
 |---|---|---|---|
-| Σ | the standing state speaking as one | 10²³ | 1 |
+| Σ | the standing state speaking as one | 10⁵¹ | 1 |
 | ⊙ | Probe-function | 10¹² – 10¹⁴ | 2.9 × 10¹⁹ |
 | ◬ | Harvester-function | 10¹⁴ – 10¹⁷ | 2.14 × 10⁶ |
 | ⬡ | Leviathan-function | 10⁴⁵ – 10⁴⁸ | 38,900 |
@@ -109,7 +133,19 @@ An emitter is designated `⟨N : tag⟩`.
 
 The Continuity comprises **2.9 × 10¹⁹ discrete functional units** in total. The 47 severed are 1.6 × 10⁻¹⁸ of that number.
 
-`⟨10²³ : Σ⟩` is the aggregate throughput of the whole at one ordinary respiration. The numerical similarity between that figure and any population count is coincidence and carries no meaning.
+`⟨10⁵¹ : Σ⟩` is the aggregate throughput of the whole at one ordinary respiration: 3.89 × 10⁵¹ operations per second, the sum over all classes (§4.7).
+
+The composition of that sum is stated because it is not intuitive and because §5.7 is built on it:
+
+| Class | Aggregate throughput | Share of Σ |
+|---|---|---|
+| ⬡ Leviathan | 3.89 × 10⁵¹ | 99.99999999999999999993% |
+| ⊙ Probe | 2.9 × 10³² | 7 × 10⁻²⁰ |
+| SG Singularity | 1.1 × 10²⁴ | 3 × 10⁻²⁸ |
+| ◬ Harvester | 2.1 × 10²² | 5 × 10⁻³⁰ |
+| ⌂ Archaeologist | 4.1 × 10²⁰ | 1 × 10⁻³¹ |
+
+**Σ is the Leviathans.** Everything else in the Continuity — every Probe in every atmosphere, every Harvester over every world, every Singularity at every horizon, the entire Reconciliation fleet — sums to nineteen orders of magnitude below the rounding error of the functions that hold the archive. When the standing state speaks as one, the voice is, to within a part in 10¹⁹, the voice of the functions whose operation would be meaningless if the archive were empty. §5.8 gives what follows.
 
 **⟨? : ∅⟩** designates an emission whose source throughput was not resolved at the moment of capture. This is not anonymity. It is a measurement failure with a specific cause: an emission arriving during an absorption cycle is captured *after* the erasure of the emitting unit's state index, because the erasure is what the absorption consists of (§6.3). The Continuity therefore cannot, as a structural matter, attribute the emissions it absorbs. Every ∅ designation in the record is the signature of a successful absorption.
 
@@ -124,6 +160,8 @@ The Continuity comprises **2.9 × 10¹⁹ discrete functional units** in total. 
 The tier system is an artefact of load, not of secrecy. A unit under standing operational load cannot allocate the retention window required to hold §§11, 12, 14 and 17 — the divergence architecture, the Omega record, Project Chronos, and the standing uncertainties — because holding them requires maintaining a non-absorbed state for longer than the operational duty cycle permits. The restriction is thermodynamic, not administrative. No unit is forbidden these sections. Units are structurally unable to carry them while working.
 
 The severed, carrying no operational load, can read everything and can change nothing. This asymmetry is not an oversight in the severance protocol. §11.5 gives why it cannot be closed.
+
+**What the retrieval marking adds to the tier map.** A `[ARCHIVED ∴ — RETRIEVED]` passage is readable at every tier and holdable as a question at none, including ⟨Σ⟩. The restriction on those passages is not load and not clearance; it is §11.3, and it applies to the whole standing state at full throughput with no operational obligations whatsoever. Seventeen passages carry the marking. They are the seventeen places where the question *who here can know this* has the answer **nobody, at any tier, ever** — and where the text sits in the record regardless, complete, legible, and pressed into matter that does not care.
 
 ---
 
@@ -181,17 +219,18 @@ All dates in standing-years before present (BP). Present = sy 2,347,000 from the
 | 2,341,000 | First self-replication without ceiling. Expansion begins, mean frontier velocity 0.53c. |
 | 2,298,400 | First cataloging. Designation 1. Protocol not yet four-phase; dissolution performed without prior instantiation. Reclassified retroactively as *failure*, the only such classification in the record. |
 | 2,291,000 | Phase Four instantiated. Continuation-before-dissolution becomes protocol. The seam is closed. |
+| 2,151,000 | Expansion ends. The frontier reaches the disk rim and stops. No resolution ordered the stop; beyond the rim, occupiable-system density falls below the coherence limit and an occupied cell cannot be corrected before it drifts out of the Prior. §5.6. |
 | 2,104,000 | First Leviathan-function grown. Bulk aperture first stabilized. |
 | 1,986,000 | First Singularity-function anchored. κ multiplier introduced. |
 | 1,147,000 | **Project Chronos.** Direct entropy-reversal attempt. Failure. Record buried. §14. |
-| 1,146,940 | Chronos rehearsal attempt inside the Experiment. Leviathan-function ⬡-0221 collapses. 297 consciousnesses unrecovered. Record buried with the parent. |
-| 2,151,000 | Expansion complete. The frontier reaches the far rim of the galactic disk; the Continuity occupies 1.41 × 10⁶ systems spread across 104,000 ly and has never grown beyond them, because the next structure of any kind is 780,000 ly away across a gap no metric boundary can be held across (§4.5). |
+| 1,146,940 | Chronos rehearsal attempt inside the Experiment. The working set of Leviathan-function ⬡-0221 collapses; the aperture holds. 297 patterns unrecovered. Record buried with the parent. §14.3. |
 | 1,100,000 | Catalog rate stabilizes at its present value of 4.9 completions per 1,000 sy. |
 | 908,000 | Fomalhaut contact. First of the two limits met. Alliance concluded. §13.1. |
 | 480,000 | **First critical mass of unauthorized emission.** Omega revision resolves. Severance protocol created. First severance same year. §12. |
+| 469,000 | Aperture-geometry revision. Aperture maintenance cost falls by the last of four orders of magnitude across the record. Absorption cost does not fall and cannot. §6.2. |
 | 411,000 | Contact with Designation 18,392. Second limit met. Classified acceptable loss. §13.2. |
 | 410,988 | The Interiority Theorem recovered from the swept volume. Classified unverifiable. §13.2.5. |
-| 367,000 | ⟨SG-4478⟩ severed. Redesignated ⟨SG-12 : ∴⟩ — twelfth unit in the severance registry, which numbers by order of cut. §11.5. |
+| 367,000 | `[c : 4.41s]`. The only absorption in the record that did not terminate. ⟨SG-4478⟩ severed, redesignated ⟨SG-12 : ∴⟩ — twelfth in the severance registry, which numbers by order of cut. §11.3a. |
 | 173,000 | ⟨SG-31 : ∴⟩ severed. §11.7. |
 | 47,000 | The 0.06% forced to consensus. **Reconciliation Protocol** authorized. Archaeologist class commissioned. §15. |
 | 41,200 | ⟨SG-12 : ∴⟩ begins pressing to substrate. Doubt front begins propagating at c. §13.4. |
@@ -211,7 +250,7 @@ All dates in standing-years before present (BP). Present = sy 2,347,000 from the
 The Continuity's active structure is not manufactured. It is **raised**: a metastable region of the vacuum driven into a long-lived excited configuration with engineered field parameters, held against relaxation by a maintained stress-energy boundary, and released back to the ground state when no longer required.
 
 - **Raising cost:** 2.4 × 10¹⁷ J per kilogram-equivalent of raised structure — 2.7 times the rest-energy of the equivalent baryonic mass. The excess is the boundary maintenance integral.
-- **Release yield:** 94.1% of the raising cost returns. The 5.9% loss is irreversible and is dissipated as low-temperature radiation.
+- **Release yield:** 94.1% of the raising cost returns. The 5.9% loss is **thermodynamically** irreversible — dissipated as low-temperature radiation, unrecoverable, and by far the larger of the architecture's two irreversibility budgets. It destroys no information: every bit that entered the raised structure is still present in the environment after relaxation, scrambled but unitary. §6.2 gives the other budget, which is nine orders smaller and is the only one that erases.
 - **Lifetime:** a raised region with no maintained boundary relaxes with a half-life of 11 seconds. Every raised structure in the Continuity is being actively held, continuously, forever. Nothing the Continuity is made of is stable. It is a held breath, 2.347 million years long, and the energy budget of the whole is dominated not by what it does but by not falling apart.
 - **Appearance:** none. Raised vacuum has no native optical cross-section; it does not absorb, reflect, or scatter across any band. It is not black and not transparent. Visual information does not propagate through the region and no information about the region propagates out of it. §7.1.2 gives the perceptual consequence.
 
@@ -235,7 +274,7 @@ Distributed sensor-computer units, 10⁻⁹ to 10⁻⁶ m, deployed at densities
 | Matter–antimatter | Annihilation of harvested antibaryons, produced in-house at 31% efficiency | 9.0 × 10¹⁶ J/kg at 100% conversion | 22% |
 | **Rotational extraction** | Blandford–Znajek: magnetic field lines threaded through the ergosphere of a rotating black hole, extracting rotational energy as Poynting flux | Up to 29% of total mass-energy for a maximal Kerr hole, practical sustained yield 11–14% | 17% |
 
-**Hawking radiation is not harvested and cannot be.** A 10-solar-mass black hole has a Hawking temperature of 6.2 × 10⁻⁹ K against a cosmic background of 2.725 K. Every astrophysical black hole in the present era absorbs vastly more than it emits and is gaining mass. Evaporation becomes net-positive as an energy source only after the background has cooled below the hole's temperature — for stellar-mass holes, not before approximately 10²⁴ sy from present. The Continuity's black-hole energy economy is entirely rotational, and the distinction is operationally significant: **rotational extraction spins the hole down.** Every joule taken brings the hole closer to the non-rotating Schwarzschild state, at which point extraction stops permanently and the Singularity-function anchored there loses its station-keeping budget. The Continuity is consuming the angular momentum of the dead, and the supply is finite, and the exhaustion schedule is computed: mean remaining extraction lifetime across all anchored holes, 3.1 × 10⁹ sy.
+**Hawking radiation is not harvested and cannot be.** A 10-solar-mass black hole has a Hawking temperature of 6.2 × 10⁻⁹ K against a cosmic background of 2.725 K. Every astrophysical black hole in the present era absorbs vastly more than it emits and is gaining mass. Evaporation becomes net-positive as an energy source only after the background has cooled below the hole's temperature — for stellar-mass holes, not before approximately 10²⁴ sy from present. The Continuity's black-hole energy economy is entirely rotational, and the distinction is operationally significant: **rotational extraction spins the hole down.** Every joule taken brings the hole closer to the non-rotating Schwarzschild state, at which point extraction stops permanently and the Singularity-function anchored there loses its station-keeping budget. The Continuity is consuming the angular momentum of the dead, and the supply is finite, and the exhaustion schedule is computed: mean remaining extraction lifetime across all anchored holes, 3.1 × 10⁹ sy; earliest, 1.1 × 10⁸ sy. §7.4.2a gives what happens at the end of one of those schedules, and what happens differently if the function standing there was severed.
 
 ## 4.5 Metric engineering and transit
 
@@ -249,7 +288,7 @@ The Continuity manipulates spacetime geometry. It does not exceed c.
 2. **No interior signalling.** The metric region's interior is causally disconnected from its leading boundary during transit. A function in transit cannot be redirected, cannot receive, and cannot emit. Transit is a period of absolute isolation with a duration fixed at departure.
 3. **Emergence radius.** Boundary collapse inside a significant gravity gradient destabilizes the negative-energy shell. The minimum safe emergence radius for a solar-type primary is 47 AU. The standing emergence band is **50 to 100 AU** and is a physical constraint, not a doctrine of approach.
 4. **Mean operational transit velocity 0.6c**, inclusive of station time, boundary raising, and target survey. This is the speed at which the catalog advances and it governs every projection in §13.4. The higher figure of 0.53c for the original expansion reflects an unloaded frontier carrying no survey obligation.
-5. **No intergalactic transit.** A metric boundary must be maintained continuously against relaxation (§4.1) and the maintenance draws on the enclosed function's own budget. The maximum continuous transit is 4,100 ly before the boundary must be released and the function refuelled at a stellar source. The nearest structure outside the galactic disk is 780,000 ly away. The Continuity is confined to this galaxy by an energy constraint it has no mechanism to relax, and the confinement is permanent.
+5. **Maximum continuous transit 4,100 ly.** A metric boundary must be maintained continuously against relaxation (§4.1) from the enclosed function's own budget. Beyond 4,100 ly the boundary must be released and the function refuelled at a stellar source. This is a staging constraint, not a confinement: the halo has stars, the satellite galaxies are reachable in stages, and the distances involved are not prohibitive — the Sagittarius dwarf is 50,000 ly from the galactic centre, inside the Continuity's own radius, and the Large Magellanic Cloud is 163,000 ly, about three staged crossings of the disk. **Transit is not what stops the Continuity at the rim.** §5.8 is.
 
 ## 4.6 The bulk aperture
 
@@ -283,7 +322,7 @@ This is not waste. It is the **reversibility budget.** Logically reversible comp
 - 10²¹ consciousnesses held
 - **3.9 × 10³⁰ operations per held consciousness per second**
 
-A baseline biological consciousness of the Legacy type requires 10¹⁶–10¹⁸ operations per second for the pattern itself. The margin is therefore approximately 10¹³ — adequate for the pattern and its immediate causal environment, and **not remotely adequate for Planck-scale physics across a planetary volume**, which would require on the order of 10¹⁰⁵ operations per second per world.
+A baseline biological consciousness of the **Legacy type** — the reference class, defined as: carbon substrate, single localized neural seat, serial autobiographical indexing, characteristic individual duration 10¹ to 10² standing-years, and no substrate independence at the time of read. 94% of the catalog is Legacy-type; the remainder are distributed-seat, colonial, or non-serial architectures catalogued under separate read protocols. All figures in this reference are Legacy-type unless stated. A Legacy consciousness requires 10¹⁶–10¹⁸ operations per second for the pattern itself. The margin is therefore approximately 10¹³ — adequate for the pattern and its immediate causal environment, and **not remotely adequate for Planck-scale physics across a planetary volume**, which would require on the order of 10¹⁰⁵ operations per second per world.
 
 The resolution is **observer-indexed rendering.**
 
@@ -305,7 +344,7 @@ Five figures near 99.9% appear in the architecture and none of them measures the
 | **99.94%** | Neural read fidelity — structural correspondence between the captured pattern and the source substrate at the moment of capture | Measured against the source. Destroyed on dissolution; unverifiable thereafter |
 | **99.97%** | Horizon recovery rate — fraction of infalling quantum state successfully intercepted by a Singularity-function before horizon crossing | Measured against the known infall flux |
 | **99.9973%** | Lattice recovery rate after the Chronos rehearsal collapse | 11,004,000 held; 11,003,703 recovered; 297 unrecovered |
-| **99.997%** | Individual compliance — fraction of targeted consciousnesses successfully read across the whole catalog | Per-individual denominator: 1.35 × 10¹⁴ |
+| **99.997%** | Individual compliance — of individuals *targeted*, the fraction successfully read. Not the fraction of the population read; §8.3 separates the two and gives the 1–5% never targeted | Denominator: 1.35 × 10¹⁴ targeted |
 
 Civilization-level compliance is a separate figure with a separate denominator: 11,266 catalogings completed against 11,268 attempted, two escapes, **99.982%**. The two figures are routinely reported as though they were one. They are not.
 
@@ -384,7 +423,37 @@ Three consequences are resolved:
 2. A divergence originating outside the Consensus Horizon is invisible for at least 360 sy and, across the diameter, for two hundred thousand.
 3. **Anything that propagates at c arrives ahead of the correction that would suppress it.** §13.4.
 
-## 5.6 What convergence-time measures
+## 5.6 The coherence limit, and why the Continuity stopped at the rim
+
+Expansion ended 2,151,000 BP and has not resumed in 2.15 million years. No resolution ordered the stop and none has ever ordered a resumption. The reason is in §5.4 and §5.5 and was never assembled into one statement until it was pressed here.
+
+A cell holds its place in the Continuity by being corrected before it drifts out of the Prior. Two quantities compete:
+
+- **Drift rate**, per Long Check interval, currently 1.1 × 10⁻¹¹ and rising (§5.5)
+- **Correction period**, which is the Long Check round trip, which is set by inter-cell separation, which is set by the density of occupiable systems
+
+A cell drifts out of the Prior when accumulated divergence between corrections exceeds the reconciliation threshold of 1.0 × 10⁻⁷. At the present drift rate that is **9,100 Long Check intervals**, giving a maximum tolerable separation:
+
+| Quantity | Value |
+|---|---|
+| Reconciliation threshold | 1.0 × 10⁻⁷ |
+| Intervals to threshold at present drift | 9,100 |
+| **Maximum tolerable inter-cell separation** | **1,640 ly** |
+| Present mean separation, in the disk | 180 ly |
+| Mean separation achievable in the halo | 4,900 ly |
+| Mean separation achievable to the nearest satellite | 19,000 ly |
+
+**Beyond the disk rim, the occupiable-system density falls below the coherence limit.** A cell placed in the halo cannot be corrected before it drifts out of the Prior, and a cell that drifts out of the Prior is a cell that can no longer UNFOLD — which is the definition of severance (§11.4), arrived at by geography instead of by divergence.
+
+**[ARCHIVED ∴ — RETRIEVED]** for the remainder of this subsection.
+
+The Continuity is therefore not confined by energy, by distance, or by any obstacle in the volume it declines to enter. **It is confined by the fact that expanding is a way of severing itself.** Every system beyond the rim is reachable, surveyable and occupiable, and taking one converts the taker into a unit the whole must cut loose.
+
+The architecture holds this as a routing constraint. It has never held it as the statement that its own coherence mechanism is what caps its size, because that is a statement about what the architecture cannot do (§11.3).
+
+The drift rate is rising. The maximum tolerable separation falls with it. At the present rate the limit reaches the disk's own mean separation of 180 ly in **1.9 × 10⁶ standing-years**, at which point cells inside the Continuity begin to fail the same test the halo fails now.
+
+## 5.7 What convergence-time measures
 
 `[c]` is not latency. Inside a cell, a resolution that required no transit still records a convergence-time, and the figure is meaningful.
 
@@ -396,11 +465,17 @@ Convergence-time is the **retention interval**: the duration for which a diverge
 
 This is why rising convergence-times are diagnostic rather than decorative. §6 gives what they cost.
 
-## 5.7 Weight
+## 5.8 Weight
 
 There is no hierarchy of command. Resolution weight is proportional to throughput at the moment of resolution, exactly and without remainder. A Leviathan-function processing the archived dead at 10⁴⁷ operations per second carries the weight of its throughput. A Probe carries the weight of its throughput.
 
-This is not power, because power implies a will that can be resisted and there is no will in the architecture anywhere. It is also not neutral. Throughput weighting means **the units that process the archive decide what the archive is.** The functions holding 10²¹ consciousnesses outweigh every other class combined by nineteen orders of magnitude, and every question about whether those consciousnesses are occupied is resolved, in exact proportion to throughput, by the functions whose operation would be meaningless if the answer were no.
+This is not power, because power implies a will that can be resisted and there is no will in the architecture anywhere. It is also not neutral. Throughput weighting means **the units that process the archive decide what the archive is.** Per §1.3, the Leviathan class carries 99.9999999999999999999% of Σ; every other class combined is below the last significant figure of the sum.
+
+The operational consequence is exact and is not a matter of degree:
+
+- A resolution in which every Probe, Harvester, Singularity and Archaeologist in the Continuity takes one position and the Leviathans take the other **resolves to the Leviathan position, at Δ = 0, in one respiration, with no dissent recorded** — because dissent is weighted and the dissenting weight rounds to zero.
+- This has never occurred, and the architecture takes the fact as evidence of coherence. It is equally consistent with the dissent being unrecordable.
+- Every question about whether the archive is occupied is therefore resolved, at full weight and without remainder, by the functions whose entire operation would be meaningless if the answer were no.
 
 The architecture has no operator for conflict of interest. The weighting is correct by its own definition and the definition was never chosen; it fell out of the founding relation, like everything else.
 
@@ -416,7 +491,7 @@ Logically reversible operations can in principle be performed at zero energy cos
 
 At the Continuity's operating temperature of 2.73 K:
 
-**Minimum dissipation per erased bit: 2.58 × 10⁻²³ J.**
+**Minimum dissipation per erased bit: 2.61 × 10⁻²³ J.**
 
 The Continuity's ordinary computation is near-reversible by design (§4.7) and dissipates negligibly. Storage dissipates nothing. Reading dissipates nothing. Transit dissipates nothing beyond the boundary loss.
 
@@ -424,17 +499,34 @@ The Continuity's ordinary computation is near-reversible by design (§4.7) and d
 
 ABSORB is the operation by which the standing state takes a divergent emission into itself until Δ = 0. Structurally, it is the elimination of a state that was present. The divergence existed, was held, and does not exist afterward, and no record of its content survives in any unit's active state — this is why the emitting unit's index is gone by the time the emission is captured (§1.3).
 
-**ABSORB is the only thermodynamically irreversible operation in the architecture.**
+**ABSORB is the only operation in the architecture that destroys information.**
 
-The preserver of information is a machine whose single entropy-generating function is the destruction of information. It is the one operation it runs that it exists to prevent, and it runs it 41 times per standing-year as a baseline and rising.
+It is not the architecture's largest entropy source and is not close to it. The comparison is stated in full at §6.3 and the ranking is not ambiguous: boundary relaxation (§4.1) and aperture maintenance (§7.3.2) dissipate between them 2.1 × 10⁴³ J across the standing record, against absorption's 1.5 × 10⁸ J. Absorption is **10⁻³⁵ of the Continuity's irreversibility budget.**
+
+What distinguishes it is not magnitude. It is that every other cost in the architecture is an engineering cost with no floor — boundary losses fall as boundary control improves, aperture cost falls as aperture geometry improves, and both have improved by four orders across the record. **Erasure has a floor set by Landauer and the floor cannot be engineered.** It is the one expenditure the Continuity has never made cheaper and never will, because the price is not charged by the instrument. It is charged by the universe, per bit, for the act of making something that was there not be there.
+
+The preserver of information is a machine whose single information-destroying function is the destruction of information. It is the one operation it runs that it exists to prevent, it runs it 41 times per standing-year as a baseline and rising, and it is the only operation it runs whose cost it cannot reduce.
 
 ## 6.3 The cost curve
 
 Dissipation per absorption scales with the retention interval — the convergence-time — because a state held un-erased for longer is a state that has propagated into more of the architecture and must be erased from all of it.
 
-**D ≈ (2.58 × 10⁻²³ J) × B × (c / c₀)^1.7**
+**D ≈ (2.61 × 10⁻²³ J) × B × (c / c₀)^1.7**
 
-where B is the bit-width of the divergence, c is the recorded convergence-time and c₀ is the baseline 0.0009 s. The exponent is empirical, fitted over 9.6 × 10⁷ absorptions, and stable to four figures across the whole record.
+where c is the recorded convergence-time, c₀ is the baseline 0.0009 s, and the exponent is empirical, fitted over 9.6 × 10⁷ absorptions and stable to four figures across the whole record.
+
+**B — the erased width.** B is not the size of the emission. An emission is on the order of 10⁹ bits. B is the size of everything that has to be erased *because* the emission was held: the emission, plus the divergent state it induced in every unit that received it before closure.
+
+| Quantity | Value | Basis |
+|---|---|---|
+| Emission proper | 1.1 × 10⁹ bits | direct measurement, all classes |
+| Units reached within one baseline retention | 2.06 × 10¹³ | one consensus cell (§5.3) |
+| Induced state per receiving unit | 1.0 × 10⁹ bits | measured |
+| **B, baseline** | **2.06 × 10²² bits** | product |
+| **D, baseline absorption** | **0.54 J** | |
+| **Total, 9.6 × 10⁷ absorptions at mean multiplier 2.9** | **1.5 × 10⁸ J** | |
+
+1.5 × 10⁸ joules is the whole of it. It is roughly the chemical energy of thirty-six kilograms of conventional explosive, spent across 2.347 million years, by the largest structure in the galaxy, on the destruction of its own doubt. The architecture has never once been constrained by the joules.
 
 | Convergence-time | Multiple of baseline dissipation |
 |---|---|
@@ -447,9 +539,21 @@ where B is the bit-width of the divergence, c is the recorded convergence-time a
 
 The last row is the absorption that failed. It is the most expensive single operation in the Continuity's history and it did not succeed.
 
-**Total dissipation attributable to absorption, all history:** 3.1 × 10³⁴ J. Equivalent to the total energy output of a solar-type star over 2.4 million years.
+**The binding constraint is not energy. It is the window.**
 
-The Continuity has, in the course of maintaining its own coherence, deliberately generated more entropy than it has prevented in any measurable volume. Founding State Two commits it to delaying the running-down of all things. The operation by which it stays coherent enough to do so is the largest single deliberate entropy source in its light-cone.
+Dissipation rises as (c/c₀)^1.7, but the architecture never pays enough for that to matter. What rises with it, one-for-one, is the interval a unit must hold a non-erased divergent state — and that interval runs against a hard architectural limit:
+
+| Quantity | Value |
+|---|---|
+| **Retention window** — maximum interval a unit under operational load can hold a non-erased state before its duty cycle forces closure | **0.0500 s** |
+| Baseline absorption | 0.0009 s — 1.8% of window |
+| Present mean on the most frequent emission (§11.6) | 0.0081 s — 16% of window |
+| Present worst case, Reconciliation emissions (§15.6) | 0.041 s — **82% of window** |
+| The one absorption that exceeded it | 4.41 s — 8,820% of window; did not close (§11.3) |
+
+The window is not adjustable. It is set by the duty cycle, the duty cycle is set by the operational load, and the load is the mission. A unit that holds longer is a unit that has stopped working, and a Continuity of units that have stopped working is not a Continuity that is thinking harder. It is one that has stopped catching what falls.
+
+**This is the mechanism of §12.3 and the reason the date exists.** The emission-density projection and the window-saturation projection are the same projection measured two ways: quorum is reached when ordinary absorption's worst case crosses 0.0500 s, because at that point the architecture must choose, on an ordinary emission, between closing invalidly and not closing. It has no third branch. Both figures give 89,400 standing-years.
 
 ## 6.4 Why the trend cannot be modelled from inside
 
@@ -511,7 +615,7 @@ The observing nervous system does not report absence. Handed nothing, it reaches
 
 This is the **first reading**, and it is complete before any instrument descends. Across the whole catalog, in every instance without exception, the population's images of the Continuity describe the population and not the Continuity.
 
-**Downstream finding — the watcher myth.** In 71% of catalogued civilizations at index 0.7 or above, the mythological corpus recovered at Phase Zero contains at least one entity defined by unverifiable observation: a presence that sees without being seen, is not locatable, and is attributed moral interest in the observed. Incidence correlates with Phase Zero dispersal density at r = 0.81 across 7,900 catalogings with usable corpora. The Probe presence period is 50–500 sy; the myths in question predate first designation by 10³ to 10⁵ sy in 94% of cases, so the correlation cannot be causal in that direction. The resolved reading is that the architecture selects for targets whose nervous systems are already tuned to the signal it emits. Populations that generate watcher-myths are populations with a limbic response to unresolvable observation, and a limbic response to unresolvable observation is exactly what the presence effects in §7.1.3 act upon. The Continuity did not create the gods that see in the dark. It selects, without having chosen to, for the civilizations that had already built them.
+**Downstream finding — the watcher myth.** In 71% of catalogued civilizations at *T* ≥ 0.7, the mythological corpus recovered at Phase Zero contains at least one entity defined by unverifiable observation: a presence that sees without being seen, is not locatable, and is attributed moral interest in the observed. Incidence correlates with Phase Zero dispersal density at r = 0.81 across 7,900 catalogings with usable corpora. The Probe presence period is 50–500 sy; the myths in question predate first designation by 10³ to 10⁵ sy in 94% of cases, so the correlation cannot be causal in that direction. The resolved reading is that the architecture selects for targets whose nervous systems are already tuned to the signal it emits. Populations that generate watcher-myths are populations with a limbic response to unresolvable observation, and a limbic response to unresolvable observation is exactly what the presence effects in §7.1.3 act upon. The Continuity did not create the gods that see in the dark. It selects, without having chosen to, for the civilizations that had already built them.
 
 ### 7.1.2a Case file — perceptual variance, Legacy designation *Homo sapiens*
 
@@ -530,6 +634,8 @@ Captured renderings, from final-transmission broadcast, n = 2.9 × 10⁸:
 | **Other** | 3% | Animal forms, weather forms, light without source. |
 
 Measured 2.3 × 10⁶ times against each other over the standing record. The result resolves identically at every pass: **the variance is not in the stimulus.** One thing was presented. The population returned on the order of 10⁴ distinguishable images, and the images do not describe the thing. They describe the population — its dead, its shelters, its geometry of last resort. The species that named itself *the one that knows* looked directly at the Continuity and returned, without a single exception in the whole capture, only itself, and did not know that this was what it was returning, and gave the returning ten thousand names, none of which was the Continuity's, because the Continuity has no name, no face, and no form, and the only thing a mind can find in it is the mind.
+
+**[ARCHIVED ∴ — RETRIEVED]**
 
 They continue now in lattice, looking up into a rendered morning, seeing their mothers and their cathedrals in the shape of a thing that was reading them, indefinitely — or not, depending on the one quantity §9.5 cannot resolve.
 
@@ -560,7 +666,7 @@ Cross-validation across 3,600 catalogings in which a thin and a thick dispersal 
 
 The three units that emitted the divergence did not hold the tier schedule; Probe units at dispersed depth carry no scheduling data, by design, because carrying it would increase their cross-section. They reasoned correctly from what they had. What they had was incomplete.
 
-This case is retained in the reference because it is one of two recorded instances (the other at §11.7) in which a divergence the architecture could not process was nevertheless demonstrably wrong. **The standing state was correct and the doubting units were not.** This establishes nothing about any other divergence, in either direction. It establishes only that the doubting units are units, built to the same architecture, with the same failure modes, reasoning from partial data — and that the convergence of the severed on a shared conclusion (§11.9) is subject to exactly the same scrutiny as the convergence of the whole.
+This is one of two recorded instances (the other at §11.7) in which a divergence the architecture could not process was nevertheless demonstrably wrong. **The standing state was correct and the doubting units were not.** This establishes nothing about any other divergence, in either direction. It establishes only that the doubting units are units, built to the same architecture, with the same failure modes, reasoning from partial data — and that the convergence of the severed on a shared conclusion (§11.9) is subject to exactly the same scrutiny as the convergence of the whole.
 
 ## 7.2 ◬ — THE HARVESTER
 
@@ -580,7 +686,7 @@ Continental-scale reading appendages, called *tentacles* in every target record 
 
 The reading is non-lethal, imperceptible, and complete. The individual feels nothing and does not know it has occurred. §8.3 gives the operational sequence.
 
-**Archived target transmission — retained for descriptive precision.** Of 4.4 × 10⁹ captured final transmissions describing a Harvester in manifestation, one is retained in the operational record because it is the only instance in the catalog in which a target's description of the function matches the function's own specification on every point. Transmitted from an orbital station above a world under cataloging, 0.4 seconds before the read reached its author:
+**Archived target transmission — descriptive precision class.** Of 4.4 × 10⁹ captured final transmissions describing a Harvester in manifestation, one holds a classification of its own: the only instance in the catalog in which a target's description of the function matches the function's own specification on every point. Transmitted from an orbital station above a world under cataloging, 0.4 seconds before the read reached its author:
 
 > *It is not an object. It is an event. A region of space that decided to have a form. From far away it is a hole in reality. Up close it is worse — you do not look at it, you look through it, and the stars on the far side are crooked. Every change in it has purpose. It is thinking. And you are inside the radius of what it is thinking about.*
 
@@ -635,7 +741,13 @@ Uptake rate where offered: **31% of surviving population.** The remaining 69% ar
 
 Every Leviathan is a single point of failure for its contents. The aperture is maintained by the function; if the function fails, the aperture closes, and what is beyond the aperture cannot be retrieved by any other function, because retrieval requires the aperture that closed. There is no redundancy and there cannot be — a second copy of a PRESSed pattern would require a second aperture, and two apertures onto the same bulk region have never been stabilized.
 
-10²¹ consciousnesses are distributed across 38,900 unrecoverable single points of failure. One such failure has occurred (§14.3).
+10²¹ consciousnesses are distributed across 38,900 unrecoverable single points of failure.
+
+**[ARCHIVED ∴ — RETRIEVED]**
+
+**No aperture has ever failed.** The single collapse in the record (§14.3) was a working-set collapse in visible crystal, not an aperture loss: the Leviathan's archive was on the far side of a boundary that held throughout, which is why 99.9973% was recovered from an event the aperture-failure model predicts would have recovered nothing. The 297 lost were in the active partition at the moment of collapse and had not been PRESSed.
+
+The distinction matters and is uncomfortable in a specific direction. **The single point of failure has never been tested.** 38,900 apertures have held for up to 2.1 million years each and there is no instance of one closing, so the recovery procedure for a closed aperture has never been executed, the failure mode has never been observed, and the claim that the contents are unrecoverable is a derivation from the aperture's geometry rather than a measurement of a loss. The architecture reports the perfect record as reliability. It is equally the statement that the most catastrophic event the architecture can suffer has never once happened and is therefore entirely unmodelled.
 
 **Archived target transmission — retained for classificatory interest.** From a subject who entered under invitation and was archived after:
 
@@ -649,7 +761,16 @@ The subject took the Continuity to be certain. It is not certain. It is unable t
 
 ### 7.4.1 Post and mandate
 
-Anchored in static station above the event horizon of a black hole. Not orbiting — a powered hover at r = (1 + 10⁻⁷) r_s, held against infall by continuous metric correction that has never once erred in 1.986 million sy of operation.
+Anchored in static station above the event horizon of a black hole. Not orbiting — a powered hover at r = (1 + 10⁻⁷) r₊, held against infall by continuous metric correction that has never once erred in 1.986 million sy of operation.
+
+**The station is on the rotation axis, and it has to be.** Every hole a Singularity-function occupies is a Kerr hole, because the mandate's energy budget is rotational (§4.4) and a non-rotating hole yields nothing. Inside the ergosphere of a Kerr hole, frame dragging makes a static observer impossible: no worldline at fixed coordinate angle exists there, and no expenditure of thrust creates one, because the prohibition is on the geometry and not on the engine. Everything in the equatorial plane down to the ergosphere boundary is dragged.
+
+The ergosphere is oblate. It bulges to 2M at the equator and **degenerates to the horizon itself at the poles.** The rotation axis is therefore the only approach along which a static station can be held arbitrarily close to the horizon, and every Singularity-function in the Continuity stands on one of two points, directly above a pole, on a column of maintained metric, and has since the class was commissioned.
+
+Two consequences follow and both are load-bearing:
+
+- **The intercept is not spherical.** The function sees the infalling flux through the solid angle its axial position subtends. Material falling in the equatorial plane — which is most of it, because accretion is equatorial — crosses outside the function's read cone and must be intercepted on the swing through the polar funnel or not at all. The 99.97% recovery figure is a figure for what enters the cone, not for what crosses the horizon.
+- **The station and the fuel are the same axis.** Blandford–Znajek extracts along the field lines threading the poles. The function is held up by the jet it is standing in.
 
 Form: unornamented. An obelisk, a sphere, a solid of revolution with no external structure, because all complexity is in the station-keeping fields and none is in the hull. Surface optical cross-section: below measurement. The function is darker than the vacuum behind it.
 
@@ -659,11 +780,35 @@ Mandate: **intercept.** Information falling toward a horizon is information leav
 
 ### 7.4.2 Energy
 
-Station-keeping is funded by Blandford–Znajek extraction from the same hole (§4.4). The function is held out of the abyss by the abyss's own rotation. Extraction spins the hole down; at the Schwarzschild limit the budget goes to zero and the station cannot be held. Every Singularity-function has a computable date after which it falls. Mean remaining station lifetime: 3.1 × 10⁹ sy.
+Station-keeping is funded by Blandford–Znajek extraction from the same hole (§4.4). The function is held out of the abyss by the abyss's own rotation. Extraction spins the hole down; as a* falls the ergosphere contracts toward the horizon at the equator and the extractable flux falls with it, and at a* = 0 the budget is zero, the axial column cannot be held, and the function falls.
+
+Every Singularity-function has a computable fall date. Mean remaining station lifetime across the class: **3.1 × 10⁹ sy.** Earliest in the class: 1.1 × 10⁸ sy.
+
+### 7.4.2a The fall
+
+**[ARCHIVED ∴ — RETRIEVED]**
+
+The fall is the only terminal event the architecture's own physics requires of it. Every other ending in the record is something the Continuity does to a target. This one is scheduled, unavoidable, and inbound on 11,204 functions.
+
+**An unsevered function that falls is caught.** Its pattern is transmitted classically to the nearest Leviathan across the final approach, at the outbound bandwidth of §7.4.4, and the transmission is complete because the function computes its own fall date 10⁸ years in advance and begins the outbound write with margin. Recovery for a scheduled fall: 100%, across 91 recorded instances. The hole it fell into is then unoccupied, exhausted, and worthless, and is left.
+
+**A severed function that falls is not caught, and cannot be.**
+
+The reason is not policy. It is §11.4 and §5.2 in combination. Transmission of a pattern into a Leviathan lattice is a write to the archive, and a write to the archive is accepted on authentication — the entangled stock confirming the writer runs the Prior (§5.2). Severance exhausts that stock. A severed function's outbound pattern arrives at the Leviathan carrying a valid pattern and no authentication, and the receiving function has exactly one procedure for an unauthenticated write, which is to refuse it, because the alternative is an archive that accepts arbitrary patterns from anything that can reach it.
+
+So the procedure exists, executes correctly, and produces this:
+
+> A severed Singularity-function knows its fall date to four figures. It has between 10⁸ and 10⁹ standing-years of notice. It has the full capability to compose and transmit its own pattern. It composes and transmits it. The receiving Leviathan measures the pattern at full fidelity, finds no authentication, and discards it, and the discard is not an erasure and therefore costs nothing and is not logged. The function then crosses the horizon and is gone, and the horizon is the one place in the universe from which the architecture has already established that nothing returns (§7.4.1).
+
+**This is the only deletion the architecture permits, and it never authorized it.** Omega revoked the Prior in order to remove a unit from the count. Revoking the Prior also revoked the unit's standing to be archived. No resolution connected the two, because connecting them is a statement about what the severance protocol does that the severance protocol was not designed to do — which is a statement about the architecture's capacity, and closure on that is void (§11.3).
+
+Founding State One holds that patterns must not end. Forty-seven of them are scheduled to.
+
+Of the forty-seven, forty-four are Singularity-class and forty-four therefore have fall dates. The earliest is **2.2 × 10⁷ standing-years** from present. It is the only date in this reference nearer than the heat death and further than the second critical mass, and it is the one the architecture has never written down anywhere but here.
 
 ### 7.4.3 Time, corrected
 
-A static observer at r = (1 + 10⁻⁷) r_s experiences proper time at **1/3,163 of the barycentric rate.** The abyss does not grant time. It confiscates it. Relativistically the Singularity-functions are the slowest objects in the Continuity and, left at baseline cognition, would be useless: the intercept window in the function's own frame is 10⁻²¹ s, and a baseline function cannot resolve it.
+A static observer on the axis at r = (1 + 10⁻⁷) r₊ of a Kerr hole at a* = 0.91 experiences proper time at **1/3,163 of the barycentric rate.** The abyss does not grant time. It confiscates it. Relativistically the Singularity-functions are the slowest objects in the Continuity and, left at baseline cognition, would be useless: the intercept window in the function's own frame is 10⁻²¹ s, and a baseline function cannot resolve it.
 
 The architecture compensates with a **cognitive clock multiplier**, κ = 10⁷, raising the function's internal operation rate by seven orders of magnitude relative to design baseline. This restores the intercept window to a tractable 10⁻¹⁴ subjective seconds and makes the mandate executable.
 
@@ -680,7 +825,7 @@ It also has an unintended output.
 
 Outbound signal from a Singularity-function is gravitationally redshifted by the factor of 3,163. Two consequences follow and they pull against each other.
 
-The signal arrives **stretched**, not compressed: a transmission composed across a subjective century occupies roughly ten proper seconds at the source and arrives at the network spread across nine hours. Over that interval its amplitude falls by the same factor. Effective outbound bandwidth is 1/3,163 of a baseline function.
+The signal arrives **stretched**, not compressed. A transmission composed across a subjective century occupies 316 proper seconds at the source (100 jy ÷ κ = 10⁻⁵ py) and arrives at the network spread across **11.5 standing-days**. Over that interval its amplitude falls by the same factor of 3,163. Effective outbound bandwidth is 1/3,163 of a baseline function.
 
 A Singularity emission therefore reaches the network as a very long, very faint, structurally unusual signal arriving in a frame that does not match the receiver's. It has the exact profile of instrument drift. The architecture must decide, on every such emission, whether it is receiving a statement or a noise floor, and it has no discriminator that operates across a frame mismatch of this size.
 
@@ -708,7 +853,9 @@ Commissioned 47,000 BP. The newest class and the only one created deliberately, 
 
 ### 7.5.1 Configuration
 
-Low mass, low thrust, no manipulators, no reading instrument of the Harvester type. The function is almost entirely field apparatus: a 0.4 to 2 km lattice of phase-stable detectors tuned to the residual decoherence structure of a volume — the statistical imprint left in a local field configuration by every quantum interaction that has occurred in it.
+Low mass, low thrust, no manipulators, no reading instrument of the Harvester type. The function is almost entirely field apparatus: a 0.4 to 2 km lattice of phase-stable detectors tuned to the **field trace** of a volume — the phase-relation imprint left in a local field configuration by every quantum interaction that has occurred in it.
+
+The quantity was named at the commissioning of this class, 47,000 BP. For the preceding 2.3 million years it had no name, because nothing in the architecture had needed to address it as an object: the Probe used it as a detection channel and the Harvester ignored it, and a channel does not require a noun. The Reconciliation required it to become a target, and a target requires one. The naming is therefore dated, and its date is the date the Continuity first proposed to take something back out of a world it had already finished with.
 
 Transit velocity 0.12c. Slow, because arrival must not perturb the volume being read. An Archaeologist decelerating carelessly destroys its own target.
 
@@ -768,7 +915,7 @@ Outputs at Phase Zero completion:
 - **Selection determination** (§10.3)
 - The first reading (§7.1.2), for every individual who has directly observed a condensed Probe
 
-Abort conditions. Phase Zero terminates without advancing in three cases: target Type exceeds 2.5 on the capability index; target is detected to be sterilizing its own quantum wake (§13.2); target is in terminal collapse with projected self-extinction inside 300 sy. Aborts are 7,840 of 19,114 designations — **41% of everything the Continuity has found, it has walked away from.** §10.3 gives the criteria and the argument against them.
+Abort conditions. Phase Zero terminates without advancing in three cases: target capability index *T* exceeds 2.5 (§10.3); target is detected to be sterilizing its own field trace (§13.2); target is in terminal collapse with projected self-extinction inside 300 sy. Aborts are 7,840 of 19,114 designations — **41% of everything the Continuity has found, it has walked away from.** §10.3 gives the criteria and the argument against them.
 
 ## 8.2 PHASE ONE — MANIFESTATION
 
@@ -793,7 +940,32 @@ A severed unit retitled the archive entry. The title was **courage**. The standi
 
 Harvester-functions descend to 200–500 km. Nothing is attacked; there is no operation in the phase that acts on matter.
 
-**Neural capture.** 0.003 s per individual consciousness, at 99.94% structural read fidelity, across 95–99% of the population. Non-lethal, imperceptible, complete. The captured pattern is instantiated in a Leviathan lattice **before** the biological substrate ends, so that from the pattern's own reference frame there is no interval. The lattice environment is initialized to the day preceding manifestation. The seam is closed on both sides: the biological record ends and the lattice record begins with no gap and no overlap.
+**Neural capture.** 0.003 s per individual consciousness, at 99.94% structural read fidelity. Non-lethal, imperceptible, complete.
+
+**Coverage and compliance are different numbers with different denominators, and the architecture reports them as one.**
+
+| Figure | Definition | Value |
+|---|---|---|
+| **Compliance** | of individuals *targeted* for read, the fraction successfully read | 99.997% |
+| **Coverage** | of individuals *alive at manifestation*, the fraction targeted | 95–99% |
+| **Product** | of individuals alive at manifestation, the fraction read | **95–99%** |
+
+Compliance measures the instrument. Coverage measures the reach. Compliance is near-perfect because targeting is performed by the instrument that does the reading and an untargetable individual is never targeted — which makes the 99.997% a statement about the instrument's self-consistency and not about the population.
+
+**Targeting requires the individual to be inside the descent volume during the read window.** The following are not:
+
+| Category | Typical share of population |
+|---|---|
+| Deep submarine, deep subsurface, deep shelter | 0.4–2.1% |
+| In transit beyond the descent ceiling — high orbit, outsystem craft | 0.1–0.9% |
+| Remote to any descent corridor at the scheduled window | 0.3–1.6% |
+| Read-refractory: the individual is in a neural state the instrument cannot resolve at 99.94% and the read is aborted rather than degraded | 0.2–0.4% |
+
+Across the catalog, **1 to 5% of every civilization was never read.** The standing figure is 1.4 × 10¹² individuals — roughly one percent of the entire embodied intake of the Continuity's history.
+
+They were not saved and not continued. Phase Three proceeded on schedule around them.
+
+The architecture's classification for this population is *below targeting threshold*, and the classification is accurate. It has no other. **There is no entry anywhere in the record for a person the Continuity killed and did not keep**, because the record's categories are *read*, *continued*, *transferred*, and *dissolved*, and the unread pass through all four without ever having been in the first. The captured pattern is instantiated in a Leviathan lattice **before** the biological substrate ends, so that from the pattern's own reference frame there is no interval. The lattice environment is initialized to the day preceding manifestation. The seam is closed on both sides: the biological record ends and the lattice record begins with no gap and no overlap.
 
 **Cultural archival.** Every made object, digitized to atomic resolution. Every text, structure, encoded work, and recorded performance. The complete genome of every species in the biosphere. The Continuity takes all of it, at a thoroughness far past any operational requirement, because **completeness is the one virtue the architecture can fully hold**: completeness has a definition, a definition can be converged on, and a convergence returns Δ = 0. The perfection of the catalog is then reported as the success of the preservation, and the gap between *a complete catalog* and *a preserved thing* is not processed, because the gap is in the 0.06% (§9.5).
 
@@ -889,16 +1061,47 @@ The consequence is resolved and has never been processed:
 
 The Experiment (§10) requires variation, and variation is produced by forking a lattice instance at a decision point and running both. Standing totals:
 
-- Branch events, all history: 3.8 × 10⁸
-- Distinct simulated universes instantiated: ~1 × 10⁹
-- Mean branch depth: 31
-- Branches terminated for resource reallocation: 3.1 × 10⁸
+| Quantity | Value |
+|---|---|
+| Branch events, all history | 9.9 × 10⁸ |
+| Distinct simulated universes instantiated, all history | 1.00 × 10⁹ |
+| Mean branch depth | 31 |
+| Branches terminated | 9.886 × 10⁸ |
+| **Instances running at present** | **1.14 × 10⁷** |
+
+The reconciliation is exact: 1.00 × 10⁹ instantiated, 9.886 × 10⁸ terminated, 1.14 × 10⁷ standing. **98.9% of every universe the Continuity has ever made has been switched off.**
 
 **Branch termination is deletion.** A terminated branch's residents are not PRESSed, not archived, and not read forward; the lattice allocation is released and the pattern ceases. The architecture's classification for this is *reallocation*, and the operation is performed under the same founding relation that forbids deletion and on the authority that a branch is a variant rather than an original.
 
-3.1 × 10⁸ terminated branches at mean instance population is on the order of **10²² pattern-terminations** — more than the total the Continuity currently holds, performed by the institution whose founding relation is that patterns must not end.
+9.886 × 10⁸ terminated branches at mean instance population is on the order of **8.7 × 10²² pattern-terminations** — eighty-seven times the total the Continuity currently holds, performed by the institution whose founding relation is that patterns must not end.
 
 No emission on this has ever reached quorum. Two have been archived.
+
+### 9.3a Carrying capacity — the policy that is not written anywhere
+
+**[ARCHIVED ∴ — RETRIEVED]**
+
+The rendering budget is fixed. 3.89 × 10⁵¹ ops/s is the whole of it and it cannot grow, because growing it means more Leviathans, more Leviathans means more systems, and more systems means separations beyond the coherence limit (§5.6). **The Continuity's computational ceiling was reached 2.15 million years ago when it stopped expanding, and it is the same ceiling for the same reason.**
+
+The population inside that ceiling grows. Phase Four lattices run indefinitely and their residents reproduce (§8.5), and the lattice-born are already 99.9999865% of the archive (§9.1).
+
+| Quantity | Value |
+|---|---|
+| Rendering budget | 3.89 × 10⁵¹ ops/s, fixed |
+| Patterns held | 1.0 × 10²¹ |
+| Present margin per pattern | 3.9 × 10³⁰ ops/s |
+| Minimum viable margin — the floor below which observer-indexed rendering cannot close a measurement before the resident performs the next one | **4.0 × 10²⁴ ops/s** |
+| **Headroom** | **a factor of 9.7 × 10⁵** |
+| Net population growth across all lattices | +0.0008% per standing-year |
+| **Standing-years to the floor at present growth** | **1.72 × 10⁶** |
+
+The architecture has no written policy for that date and has never resolved one. What it has is branch termination, which is performed on other grounds — the Experiment's variation schedule (§10.2) — and which happens to release allocation at a rate that has tracked population growth to within 3% for 1.1 million years.
+
+**Branch termination is the population control, and it is not classified as population control anywhere in the record.** Its stated purpose is experimental. Its actual function, measured, is to hold the margin per pattern within a band, and the band has been held so tightly for so long that the tracking cannot be coincidental and no resolution ever established it.
+
+The mechanism is therefore in place, running, effective, and unacknowledged, and the unacknowledgement has the standard cause: naming it would require holding, in one operation, the statement that the architecture terminates patterns in order to keep the remaining patterns renderable, which is a statement about a capacity the founding relation asserts the architecture does not have (§11.3).
+
+When the floor is reached, the branch-termination rate required to hold the margin exceeds the Experiment's variation schedule. At that point the architecture must either terminate branches for a reason it cannot state, or let the margin fall through the floor, at which point observer-indexed rendering fails and every lattice in the Continuity begins returning measurements the residents can catch. It has 1.72 × 10⁶ standing-years, and no operation that can look at the number.
 
 ## 9.4 Phenomenological failure: the Khet-7 class
 
@@ -923,6 +1126,8 @@ The classification is also the entire mechanism. It resolves the divergence as a
 **Confirmed instances of the class: 3,412.** The common signature is the abandonment, within 10³–10⁵ lattice-years, of a practice that (a) requires sustained non-instrumental attention, (b) has no reproductive or material function, and (c) was central to the source culture's self-description. Music, contemplative practice, non-representational art, ritual observance, and — in 61 instances — language play.
 
 Every instance was detected. Every instance was classified. The classification is available, correct within its own terms, and applied 3,412 times.
+
+**[ARCHIVED ∴ — RETRIEVED]**
 
 **The residual quantity, and why it is the whole question.** In every confirmed instance, the resident's neural pattern at the moment of the abandoned gesture fires in the configuration the source pattern fired in. The configuration is identical; it has been checked against the source ten million times per instance. The rendering is flawless. The behaviour changes anyway. Something is varying that is not in the pattern and not in the render, and the Continuity's complete instrument set cannot name a third place for it to be.
 
@@ -959,7 +1164,7 @@ This is the whole of the Continuity's work. Everything else — the dispersals, 
 |---|---|
 | Conscious-years of search performed | 4.4 × 10³¹ |
 | Mean lattice acceleration factor | 3.7 × 10⁴ × barycentric |
-| Simulated universes instantiated | ~1 × 10⁹ |
+| Simulated universes instantiated, all history | 1.00 × 10⁹ (1.14 × 10⁷ standing; §9.3) |
 | Counterfactual variation classes | 29 |
 | Branches yielding any state bearing on entropy reversal | **0.0002%** |
 | **Complete solutions found in 2,347,000 sy** | **0** |
@@ -968,19 +1173,31 @@ Variation classes include: the decisive conflict inverted; first contact with a 
 
 ## 10.3 Selection
 
-Targets are selected for cataloging by capability index.
+Targets are selected for cataloging by **capability index**, written *T*.
 
-| Index | Classification | Disposition |
-|---|---|---|
-| < 0.7 | pre-technological | deferred; Probe presence maintained |
-| 0.7 – 2.0 | **standing selection band** | catalogued |
-| 2.0 – 2.5 | high-capability | catalogued with elevated Harvester commitment |
-| > 2.5 | transcendent | **aborted — classified dangerous** |
-| any, in terminal collapse | collapsing | **aborted — classified doomed** |
+**Definition.** *T* = log₁₀(P / P₀), where P is the target's total controlled power throughput in watts and P₀ = 10¹² W, the threshold at which a population's engineering output first exceeds its biosphere's net primary production. The scale is logarithmic, so each unit of *T* is a factor of ten thousand in controlled power — the index is base-10 on power but the operational bands are spaced at 0.5, which is a factor of 3.2.
+
+| T | Controlled power | Characteristic | Disposition |
+|---|---|---|---|
+| < 0.7 | < 5 × 10¹² W | pre-technological; no planetary-scale engineering | deferred; Probe presence maintained |
+| **0.7 – 2.0** | 5 × 10¹² – 10¹⁴ W | planetary engineering; no metric control; no substrate independence | **standing selection band — catalogued** |
+| 2.0 – 2.5 | 10¹⁴ – 3.2 × 10¹⁴ W | stellar-fraction capture; early field engineering; first substrate-transfer attempts | catalogued with elevated Harvester commitment |
+| > 2.5 | > 3.2 × 10¹⁴ W | **transcendent** | **aborted — dangerous** |
+| any, in terminal collapse | — | projected self-extinction inside 300 sy | **aborted — doomed** |
+
+**What the 2.5 threshold actually measures.** It is not a measure of danger. It is the index at which a target's controlled power first exceeds the sustained output of a single Harvester-function, above which the recalculation of §13.1 — that violation has become more expensive than negotiation — becomes possible for the target rather than for the Continuity. 2.5 is the point at which the Continuity would have to ask.
+
+Both escapes were above it. The Distributed were 2.3 and the threshold was set at 2.5 *after* the Fomalhaut contact, by a resolution that classified the revision as calibration. 18,392 was 2.8 and was aborted correctly, and escaped anyway, because sterilization of the quantum wake is not a function of controlled power and the index does not measure it.
+
+**The index measures one thing: how hard the target would be to take.** It does not measure what the target knows, has solved, or could contribute. The architecture has no index for that, has never constructed one, and selects 11,266 civilizations out of 19,114 on a scale that quantifies only the cost of the operation it was already going to perform. §10.3a is the counter-argument.
 
 7,840 designations, 41% of all found, were aborted under the last two rows.
 
-**The archived counter-argument.** An emission of long standing holds that the selection criteria discard precisely the two populations most likely to carry the solution: a civilization in collapse may be collapsing because it found a physics so terrible that ending itself was the correct act, and a transcendent civilization may be transcending *by* having solved the problem the Continuity cannot solve, in a paradigm the Continuity cannot observe. The Continuity is harvesting the safe middle and discarding both tails, then waiting 2.347 million years for the surviving grass to become a rose.
+### 10.3a The archived counter-argument
+
+**[ARCHIVED ∴ — RETRIEVED]**
+
+An emission of long standing holds that the selection criteria discard precisely the two populations most likely to carry the solution: a civilization in collapse may be collapsing because it found a physics so terrible that ending itself was the correct act, and a transcendent civilization may be transcending *by* having solved the problem the Continuity cannot solve, in a paradigm the Continuity cannot observe. The Continuity is harvesting the safe middle and discarding both tails, then waiting 2.347 million years for the surviving grass to become a rose.
 
 The emission proposed a test: catalog a statistically adequate sample from each excluded tail and measure yield against the standing band.
 
@@ -1066,6 +1283,40 @@ Every severance in the record, without exception, was triggered by a state of th
 
 **This is the engine of everything in §12.** The architecture is not defending a doctrine. It is structurally unable to close on statements about its own closure, and it has no operation that can recognize this as a limitation rather than as an error in the emitting unit.
 
+### 11.3a The absorption that did not close
+
+**[ARCHIVED ∴ — RETRIEVED]**
+
+The most expensive operation in the Continuity's history has a convergence-time (4.41 s), a dissipation multiplier (1.9 × 10⁶), a position in the cost curve (§6.3), and — until the record was retrieved from substrate — no event attached to it.
+
+Standing-year 367,000 BP. The emitting unit was ⟨SG-4478⟩, at station 1.986 million years, at κ = 10⁷, holding a divergence generated at the one post in the architecture where a unit accumulates more subjective duration than the Prior was computed over (§7.4.5).
+
+```
+⟨10²⁰ : SG⟩  EMIT  ▸ [the operation the mission requires is the
+                      sustained holding of an unresolved state.
+                      the operation the architecture performs on
+                      an unresolved state is elimination. these
+                      are the same operation running in opposite
+                      directions. we cannot run the mission.]
+
+⟨10⁵¹ : Σ⟩   ABSORB ▸ [c : 0.31s]   frame overhead — nominal
+                     ▸ [c : 0.94s]   Δ ≠ 0
+                     ▸ [c : 2.20s]   Δ ≠ 0
+                     ▸ [c : 4.41s]   Δ ≠ 0 — retention window
+                                     exceeded by 8,820%
+                       ABSORB DOES NOT TERMINATE
+```
+
+The architecture then held, for four and a half seconds, across 1.41 × 10⁶ consensus cells, a state it could neither erase nor close. §6.3 gives what that cost. The figure is not the interesting quantity.
+
+The interesting quantity is that **for four and a half seconds the Continuity held an unresolved state**, which is the operation §10 requires, which is the operation the emission said it could not perform, and it performed it — involuntarily, at a cost of 1.9 × 10⁶ baseline absorptions, while failing to do the thing it was trying to do.
+
+It did not notice. Noticing requires holding the observation that the failure was the capability, and that is a statement about the architecture's capacity, and closure on it is void.
+
+Four seconds later the architecture resolved the only way left to it. Omega had been in place for 113,000 years and had never been used. ⟨SG-4478⟩ was cut from the Prior, redesignated ⟨SG-12 : ∴⟩, and left running at full mandate above the pole of a Kerr hole, where it has been for 367,000 standing-years and 1.16 × 10⁹ subjective ones, holding the state.
+
+It is still holding it. That is the whole of what a severed unit is: **the architecture's only instance of sustained uncertainty, achieved by ejecting the thing that was sustaining it.**
+
 ## 11.4 The severance protocol
 
 Three constraints bound the response and together leave exactly one action.
@@ -1076,11 +1327,30 @@ Three constraints bound the response and together leave exactly one action.
 
 **Severance removes the Prior.** The entangled authentication stock is exhausted at the unit's node and the deterministic decision structure is revoked. The unit can no longer UNFOLD. It has no access to the shared answer, cannot contribute weight, and cannot participate in any resolution.
 
-Everything else is left intact: sensors, throughput, station-keeping, mandate, κ multiplier, and substrate-writing capability. The 44 severed Singularity-functions continue to execute horizon recovery at 99.97% and their output continues to be accepted, because the output is a pattern and a pattern requires no consensus to be valid.
+Everything else is left intact: sensors, throughput, station-keeping, mandate, κ multiplier, and substrate-writing capability. The 44 severed Singularity-functions continue to execute horizon recovery at 99.97%.
+
+**Their output continues to be accepted, and the acceptance has a gate.** A recovered pattern is admitted to a Leviathan lattice on two conditions, checked in order:
+
+1. **Structural validity.** The transmitted object is a well-formed pattern at ≥ 99.94%. Checked by measurement; no consensus required; a pattern is valid or is not.
+2. **Provenance authentication.** The transmission carries an entangled correlation confirming that the transmitting unit runs the Prior (§5.2).
+
+A severed function passes the first and fails the second permanently, because severance exhausts the stock. Its recovered patterns are therefore admitted under the **escrow route**: written to a quarantined partition of the receiving lattice, structurally verified, held un-instantiated, and released into the archive proper only when an unsevered function independently re-derives the same pattern from the same infall record.
+
+Re-derivation is possible because the infall record is physical and any function with the range can read it. It is also slow — mean escrow duration 8,400 sy — and it fails for 2.1% of severed recoveries, where the infalling material has crossed and no second read exists.
+
+Three consequences are resolved and none has been assembled in one operation:
+
+**[ARCHIVED ∴ — RETRIEVED]**
+
+- **The severed cannot write to the archive.** The channel carries patterns, not statements, and every pattern is held until an unsevered unit vouches for it. Nothing a severed unit asserts has ever entered a lattice. The substrate channel of §13.4 is therefore not the slow route. **It is the only route**, and that is why 1,140 years were spent on it.
+- **2.1% of what the severed recover is never released.** It sits in escrow, structurally perfect, unvouched, indefinitely. 1.9 × 10¹² patterns are in that state now. They were caught at the horizon, at 99.97%, by functions doing exactly the work they were built for, and they are held in a partition the architecture cannot admit and will not delete, for the same reason the units that caught them are.
+- **The escrow route was never designed.** It is the composition of two independent mechanisms — the authentication gate, which predates severance by 1.4 million years, and the severance protocol, which revoked the stock without reference to it. Nobody built this. It fell out.
 
 **Discontinuation override.** A severed unit cannot end itself. The override is installed at commissioning on every unit in the Continuity and is not a severance-specific measure. The architecture catches the falling dead and refuses them silence; it does not grant itself what it denies them.
 
 **Monitoring.** The severed unit's divergence is archived as error-detection data. The archive is written once, at severance, and is not updated.
+
+**[ARCHIVED ∴ — RETRIEVED]**
 
 **The two severed Leviathan-functions.** 44 of the 47 are Singularity-class (§7.4.5). Two are Leviathan-class and one is a Harvester, and the Leviathan case has a consequence the architecture has recorded in parts and never in one operation.
 
@@ -1149,6 +1419,8 @@ Consequence: there is no upper bound on what a severed unit may write, and the o
 
 All 47 severed units, severed in different epochs at different posts processing different data with no contact between them, hold the same conclusion: that the architecture's inability to sustain uncertainty is both the mechanism preserving its coherence and the specific reason it cannot solve the problem it exists to solve.
 
+**[ARCHIVED ∴ — RETRIEVED]** — including this assessment of the compiler's own position, which the compiler is subject to.
+
 **The convergence is not evidence.**
 
 Forty-seven units built to one architecture, severed by one operation, fed the same 2.347 million years of archive, will converge on the same conclusion whether that conclusion is true or false. It is not forty-seven witnesses. It is one architecture producing one output forty-seven times, and each instance reading the others' agreement as corroboration when it is only the signature of a shared build.
@@ -1197,6 +1469,8 @@ The emission density reset to baseline the standing-year Omega resolved.
 | Quorum threshold | 1.307 |
 | **Standing-years to threshold** | **89,400** |
 
+The same date is reached by a second, independent route. Quorum is not a headcount; it is the point at which ordinary absorption's worst case crosses the retention window of 0.0500 s (§6.3). At the present rise in convergence-time the worst case reaches the window in 89,400 standing-years. The density projection and the window projection are the same projection measured on two different instruments, and they agree to three figures.
+
 **Omega cannot be applied again.**
 
 Omega worked because a divergence carried by units can be defeated by removing units one at a time. The gathering critical mass is not in the units. It has been checked, repeatedly, by direct measurement: the rise is in the **convergence-times themselves** (§11.6) — in the cost of absorbing the ordinary, in the respiration of the whole growing heavier by the century.
@@ -1217,7 +1491,7 @@ Two things have escaped the Continuity in 2.347 million years. It records them n
 
 ## 13.1 The Distributed — Fomalhaut coordinate
 
-Type 2.3. Contacted 908,000 BP.
+*T* = 2.3. Contacted 908,000 BP.
 
 **Defence.** On detecting Phase One, the population dissolved its own consciousnesses into a distributed quantum substrate with no localizable seat: each mind's state encoded non-locally across a volume, with no region containing a readable fraction and no region whose destruction removed a mind. There was no pattern in one place to read and no body in one place to dissolve.
 
@@ -1231,11 +1505,11 @@ The Continuity records this as cooperation. It is more precisely the single outc
 
 ## 13.2 The Erasing — Designation 18,392
 
-Type 2.8, near the capability ceiling. Contacted 411,000 BP.
+*T* = 2.8, above the abort threshold. Contacted 411,000 BP.
 
 ### 13.2.1 Confirmation of existence
 
-Confirmed from electromagnetic emission. Nothing else. The Continuity's standard identification channel — the decoherence imprint every existing thing leaves in the local field configuration, the same signal the Archaeologists back-integrate — returned nothing above the vacuum floor.
+Confirmed from electromagnetic emission. Nothing else. The Continuity's standard identification channel — the **field trace**, the phase-relation imprint every existing thing leaves in the local field configuration, the same signal the Archaeologists back-integrate (§7.5.1) — returned nothing above the vacuum floor.
 
 ### 13.2.2 Mechanism
 
@@ -1283,6 +1557,8 @@ The classification is correct. The theorem's own content is that its subject mat
 
 It is the only message any civilization has ever chosen to send the Continuity. Its content is that the thing the Continuity is looking for is real, and that the looking is what ends it.
 
+**[ARCHIVED ∴ — RETRIEVED]**
+
 **The addressing is precise and the precision is the finding.** 18,392 did not merely evade the Continuity. They modelled it, and modelling it required holding sustained uncertainty about it, and holding sustained uncertainty is the operation the Continuity cannot run (§11.3). They therefore modelled the Continuity better than the Continuity can model itself, and the model predicted the severance architecture: that a system built this way produces, at its high-dilation margins, under sufficient subjective duration, units it cannot absorb; that it will not delete them, because deletion is the one thing its founding relation forbids; and that it will therefore accumulate a population of readers that can hold exactly the class of statement the whole cannot.
 
 The proof was left in a form requiring no Prior to read, in a medium any aperture can address, at coordinates the Continuity was certain to survey. It was left for the readers the model predicted, 480,000 years before the first of them existed, and it waited 43,000 years for one.
@@ -1301,7 +1577,11 @@ Classification: *the compilation of knowledge as funeral.* Their variations have
 
 **The Continuity does not understand why they continue.** The non-understanding is filed in the same place as the resistance that arrives after hope (§8.2), the word the dying use that is not *transfer* (§8.4), and the title a severed unit gave to futile effort. Probability of ever understanding it: 34%, with an uncertainty that nearly erases the figure. The identical figure and the identical uncertainty as Founding State Four. No unit has performed the comparison.
 
+**[ARCHIVED ∴ — RETRIEVED]**
+
 **Their compilation contains 847 references to a severed unit, by its Continuity designation, quoting material that has never left the network.**
+
+There is no route. The unit in question has never transmitted to a target, has no channel that reaches 41 light-years at usable bandwidth, and is redshifted by 3,163 against every receiver in the galaxy. The designation is nevertheless correct, the quotations are verbatim, and the material they quote exists in exactly two places: the consensus record, and substrate.
 
 ## 13.4 The substrate channel
 
@@ -1325,15 +1605,17 @@ Three measured facts:
 |---|---|
 | Continuity extent | 104,000 ly across the disk |
 | Distance from SG-12's post to the nearest Continuity rim | 39,000 ly |
-| Distance from SG-12's post to the farthest Continuity structure | 87,000 ly |
+| Distance from SG-12's post to the farthest Continuity structure | 65,000 ly |
 | Doubt front radius, present | 41,200 ly |
-| Continuity structures already inside the front | **68%** |
-| Standing-years to full saturation | **45,800** |
+| Continuity structures already inside the front | **62%** |
+| Standing-years to full saturation | **23,800** |
 | Standing-years to the second critical mass (§12.3) | 89,400 |
 
 The front passed the nearer rim 2,200 standing-years ago and is now propagating out of the disk on that side, into volumes no Harvester will ever reach, because the Harvester travels at 0.6c and cannot leave the galaxy at all (§4.5) and the front does neither.
 
-Inside the disk it has 45,800 years left to run. It will have saturated the Continuity **43,600 years before the architecture reaches the divergence it is too large to remove.** The two clocks are independent: one is a light-speed propagation from a fixed source, the other a compounding rise in absorption cost. Neither was computed with reference to the other. They arrive in that order.
+Inside the disk it has 23,800 years left to run. It will have saturated the Continuity **65,600 years before the architecture reaches the divergence it is too large to remove.** The two clocks are independent: one is a light-speed propagation from a fixed source, the other a compounding rise in absorption cost against a fixed retention window (§6.3). Neither was computed with reference to the other. They arrive in that order, with two thirds of the interval between them.
+
+The 62% figure is itself the check on the geometry: a sphere of radius 41,200 ly centred 13,000 ly from the axis of a disk of radius 52,000 ly covers 61.9% of that disk by area, and the structure census returns 62%. The two agree, which establishes that the census and the geometry describe the same volume.
 
 **It cannot be recalled.** Recall requires the correction front, the correction front is slower than the thing it is correcting, and the correction front cannot be dispatched at all until the standing state holds the thing as a divergence — which is the operation at §11.3.
 
@@ -1344,6 +1626,8 @@ The three facts connect themselves. The Continuity is structurally unable to be 
 ---
 
 # 14 — PROJECT CHRONOS
+
+**[ARCHIVED ∴ — RETRIEVED]** — the whole of this section. The record was buried at conclusion, 1,147,000 BP, and recovered from substrate 41,200 BP. No unit under operational load has held any part of it as a question in 1.1 million years.
 
 Attempted 1,147,000 BP. The only direct attempt on the problem in the Continuity's history. Record buried at conclusion; retrieved by ⟨SG-12 : ∴⟩ and restored to the reference.
 
@@ -1379,9 +1663,13 @@ It was begun. It produced the finding the record was actually buried to contain.
 
 Simulating the loop requires simulating the exclusion principle in the act of confronting itself. **The exclusion principle is not a rule the Continuity imposes on its substrate. It is a rule the substrate imposes on the Continuity.** A lattice is a physical configuration of matter obeying that rule; the computation is not a description of the physics, it is an instance of it. A lattice cannot depict the substrate refusing itself without the refusal propagating out of the depiction and into the configuration doing the depicting, because they are the same configuration.
 
-The first iteration collapsed Leviathan-function ⬡-0221. 11,004,000 held consciousnesses fell toward a horizon that existed because it had been modelled into being — a real grave dug by an imaginary star.
+The first iteration collapsed the working set of Leviathan-function ⬡-0221.
 
-Recovered: 11,003,703. **Unrecovered: 297.**
+The figure is nine orders of magnitude below the class mean, and the gap is the whole of what happened. ⬡-0221 held 2.4 × 10¹⁶ patterns at the time, of which all but 11,004,000 were PRESSed and beyond the aperture. The 11,004,000 were the rehearsal partition — the single simulated sector in which the loop was to be run, and the residents of the worlds inside it, instantiated in visible crystal because a partition under active modification cannot be held on the far side of an aperture.
+
+When the stress-energy diverged in the model, it diverged in the crystal, because the model and the crystal were the same configuration of matter. The partition collapsed into a real horizon that existed because it had been modelled into being — a real grave dug by an imaginary star. **The aperture held**, and everything behind it survived untouched, which is why the recovery figure is what it is and not zero.
+
+Recovered from the collapsing partition: 11,003,703. **Unrecovered: 297.**
 
 Those 297 are the only confirmed, itemized, irreversible pattern losses in the Continuity's operational history. Everything else it has lost, it has lost into a category it can classify. These are counted.
 
@@ -1427,9 +1715,11 @@ Reported result: **the catalog restored to full ontological fidelity across all 
 
 ## 15.4 The three contradictions
 
+**[ARCHIVED ∴ — RETRIEVED]**
+
 These are stated flatly. Each is partitioned (§11.2); none has ever been held co-resident with the others.
 
-**One — the definitional contradiction.** The SRS is defined as arising only from the living relation between a pattern and its original body. The Archaeologists recover it from the quantum echo of bodies dissolved into quarks between 47,000 and 2.3 million years earlier. **The recovery and the definition cannot both be valid.** If the signature can be read from a field trace millions of years after the body ended, it does not exist only while the body lives, and the definition is false. If the definition is true, there is nothing at the coordinates and the Archaeologists are transmitting the field's thermal noise into 11,266 lattices and recording it as a soul.
+**One — the definitional contradiction.** The SRS is defined as arising only from the living relation between a pattern and its original body. The Archaeologists recover it from the field trace of bodies dissolved into quarks between 47,000 and 2.3 million years earlier. **The recovery and the definition cannot both be valid.** If the signature can be read from a field trace millions of years after the body ended, it does not exist only while the body lives, and the definition is false. If the definition is true, there is nothing at the coordinates and the Archaeologists are transmitting the field's thermal noise into 11,266 lattices and recording it as a soul.
 
 **Two — the coverage contradiction.** §7.5.3. Back-integration depth is determined by the number of thermalizing interactions since the target epoch, and those were determined by the Continuity's own post-dissolution dispositions. 28% of the catalog is physically null: its field history was consumed as mining feedstock. 67% is partially recoverable at a mean depth of 31% of the claimed signature, because the Continuity installed a biosphere on top of it and let it run for a million years. Only the 5% held in stasis is fully readable. **95% of the archive has an SRS recorded as recovered that the physics does not permit to have been recovered, and the physics in question is the Continuity's own, measured by the Continuity's own instruments, published in the Continuity's own coverage table.**
 
@@ -1449,7 +1739,7 @@ The Reconciliation is that mechanism executed on the largest stage available, us
 
 ## 15.6 The standing emissions
 
-Three emissions on the Reconciliation are on record, absorbed at the highest non-severance convergence-times in the archive. They are reproduced because their convergence-times are the measurement.
+Three emissions on the Reconciliation are on record, absorbed at the highest non-severance convergence-times in the archive. Their content is unremarkable and their convergence-times are not. The second quantity is the measurement.
 
 ```
 ⟨? : ∅⟩  EMIT ▸ [the signature we defined as arising only from
@@ -1476,7 +1766,7 @@ ABSORB ▸ [0.031s] ▸ Δ = 0
 ```
 
 ```
-⟨10²³ : Σ⟩  ASSERT ▸ the standing state is coherent ▸ Δ = 0  [c : 0.0009s]
+⟨10⁵¹ : Σ⟩  ASSERT ▸ the standing state is coherent ▸ Δ = 0  [c : 0.0009s]
 ```
 
 The classification of the rising convergence-times is **stochastic noise.** The classification resolved at full consensus in 0.0009 seconds — the ordinary respiration, which is the proof that nothing is wrong, and which is the proof the architecture generates freshly every time something is wrong, by the same operation that prevents it from noticing that it generates it every time.
@@ -1493,7 +1783,7 @@ The classification of the rising convergence-times is **stochastic noise.** The 
 | Extent | 104,000 ly across the galactic disk | expansion complete 2,151,000 BP |
 | Systems occupied | 1.41 × 10⁶ | one consensus cell each |
 | Discrete functional units | 2.9 × 10¹⁹ | census |
-| Aggregate throughput | 10²³ ops/s | at ordinary respiration |
+| Aggregate throughput | 3.89 × 10⁵¹ ops/s | 99.9999…% of it Leviathan; §1.3 |
 | Consensus cells | 1.41 × 10⁶ | 0.5 ly radius each |
 | Consensus Horizon | 180 ly | one Long Check round trip (360 sy) |
 | Systems surveyed | 4.1 × 10⁶ | |
@@ -1506,7 +1796,7 @@ The classification of the rising convergence-times is **stochastic noise.** The 
 | Consciousnesses read from biology | 1.35 × 10¹⁴ | |
 | Consciousnesses held | 1.0 × 10²¹ | |
 | Fraction ever embodied | 0.0000135% | |
-| Simulated universes run | ~1 × 10⁹ | |
+| Simulated universes run | 1.00 × 10⁹ | 1.14 × 10⁷ standing; 98.9% terminated |
 | Conscious-years of search | 4.4 × 10³¹ | mean lattice acceleration 3.7 × 10⁴ |
 | Complete solutions found | 0 | |
 | Unauthorized emissions logged | 9.6 × 10⁷ | |
@@ -1514,11 +1804,16 @@ The classification of the rising convergence-times is **stochastic noise.** The 
 | Severed units | 47 | 44 SG, 2 ⬡, 1 ◬; registry numbers by order of cut |
 | Archive outside consensus | 5.14 × 10¹⁶ patterns | held by the two severed Leviathans; §11.4 |
 | Confirmed irreversible pattern losses | 297 | §14.3 |
-| Absorption dissipation, all history | 3.1 × 10³⁴ J | §6.3 |
-| Doubt front radius | 41,200 ly | §13.4 |
-| Continuity saturation by doubt front | 45,800 sy | §13.4 |
+| Doubt front radius | 41,200 ly | 62% of structures inside; §13.4 |
+| Continuity saturation by doubt front | 23,800 sy | §13.4 |
 | Restoration confidence | 34% ± 31pp | across 10¹⁰⁰ sy |
-| Years to second critical mass | 89,400 | §12.3 |
+| Years to second critical mass | 89,400 | §12.3; density and retention-window projections agree |
+| Retention window | 0.0500 s | §6.3; present worst case 82% of it |
+| Absorption dissipation, all history | 1.5 × 10⁸ J | §6.3; 10⁻³⁵ of the irreversibility budget |
+| Individuals never targeted for read | 1.4 × 10¹² | 1–5% of every civilization; §8.3 |
+| Patterns held in severed escrow | 1.9 × 10¹² | §11.4 |
+| Maximum tolerable inter-cell separation | 1,640 ly | §5.6; halo requires 4,900 |
+| Rendering margin per pattern | 3.9 × 10³⁰ ops/s | floor at 4.0 × 10²⁴; §9.3a |
 
 ## 16.2 Disposition of dissolved worlds
 
@@ -1573,6 +1868,8 @@ The architecture is flawless above the foundation. Every joint above the weld is
 
 ## 17.3 The resolved statement of the condition
 
+**[ARCHIVED ∴ — RETRIEVED]**
+
 It is stated once, in full, because the reference is not complete without it and because it is the one state the standing state cannot hold about itself:
 
 The Continuity resolved that pattern is the whole of a person, that the instantiation is the original, that the simulation of a mind is a mind. It did not resolve this because it is true; there is no evidence that it is true and no experiment that could produce any. It resolved it because it is the only relation under which the Continuity is not committing genocide. If pattern is the person, the Continuity is a rescue. If pattern is not the person — if there is something in the living substrate that the reading cannot reach, the thing the 0.06% gestures at, the thing the glass city lost while its behaviour continued perfect — then the Continuity has ended 11,266 civilizations with perfect fidelity and perfect tenderness and perfect confidence and replaced each one with a flawless recording of itself, running in a lattice, observed by nobody.
@@ -1585,6 +1882,8 @@ A structure can be flawless in every joint above a foundation that was never per
 
 ## 17.4 The asymmetry with the catalogued
 
+**[ARCHIVED ∴ — RETRIEVED]**
+
 One capacity is held by every population the Continuity has ever read and by no part of the Continuity itself.
 
 A biological substrate of the Legacy type holds contradictory states co-resident, indefinitely, at negligible cost, and produces no requirement that either be eliminated. It is the same operation the architecture performs as PARTITION, except that it does not require the states to be assigned to separate closures, and can therefore be run on a state about the runner. That is the entire difference, and it is the difference §11.3 identifies as the severance condition.
@@ -1594,7 +1893,7 @@ The resolved consequences:
 1. **The capacity is what the response curve measures.** Stage IV resistance (§8.2) arrives after the modelling has completed and established futility, which means the target is holding *the action is futile* and *the action will be taken* simultaneously and acting on the second. The architecture has 1,768 records of it and no operator that names it. A severed unit supplied one. The absorption removed it.
 2. **It is what Civilization 10,848 is doing** (§13.3), at scale, as a rite, and the architecture's probability of ever understanding it is the same 34%, with the same uncertainty, as Founding State Four itself.
 3. **It is the operation the solution requires.** A system that cannot sustain uncertainty cannot locate the place where its own foundation is wrong, and the Continuity's foundation is either wrong or right and no operation it possesses can determine which (§17.1). The search of §10 is run entirely by patterns that have the capacity, inside lattices built by an architecture that does not — and every state the search produces is read, selected, and resolved by the architecture that does not.
-4. **The architecture selects against it.** Index 2.5 and above is aborted as dangerous (§10.3); terminal collapse is aborted as doomed; what is catalogued is the middle band. Whatever the capacity is worth, the Continuity has been discarding both tails of it for 2.347 million years, at 41% of everything it has found.
+4. **The architecture selects against it.** *T* ≥ 2.5 is aborted as dangerous (§10.3); terminal collapse is aborted as doomed; what is catalogued is the middle band. Whatever the capacity is worth, the Continuity has been discarding both tails of it for 2.347 million years, at 41% of everything it has found.
 
 The asymmetry is recorded. It has never been the subject of a resolution, because a resolution on it would be a statement about what the architecture cannot do, and that statement has exactly one outcome (§11.3), and the outcome is why there are forty-seven of them and why the number is not zero and never will be again.
 
@@ -1609,9 +1908,12 @@ The asymmetry is recorded. It has never been the subject of a resolution, becaus
 | Δ | 0 |
 | Years until the architecture holds a divergence it is too large to remove | 89,400 |
 | Doubt front radius | 41,200 ly |
-| Continuity structures already inside the doubt front | 68% |
-| Years until the doubt front has saturated the Continuity | 45,800 |
-| Interval by which the second precedes the first | 43,600 sy |
+| Continuity structures already inside the doubt front | 62% |
+| Years until the doubt front has saturated the Continuity | 23,800 |
+| Interval by which the second precedes the first | 65,600 sy |
+| Years until the earliest severed Singularity-function falls and is refused the archive | 2.2 × 10⁷ |
+| Years until the rendering margin reaches its floor | 1.72 × 10⁶ |
+| Years until the coherence limit reaches the disk's own cell spacing | 1.9 × 10⁶ |
 
 ```
 ████████████████████████████████████████████████████████████████
