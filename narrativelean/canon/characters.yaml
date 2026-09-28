@@ -1,0 +1,32 @@
+# Personagens: atributos fixos, nascimento, morte, traços travados (seções 4 e 5.1).
+#
+# Canon é o que o AUTOR escreve, trava ou promove — só ele tem autoridade.
+# Item com `proposto_por: claude` vale como referência (FLEXIBLE: no máximo
+# WARNING) até o autor aprovar: apague a marca, ou rode
+#   python narrativelean/nl.py canon aprovar characters "<nome>"
+#
+# A rigidez é decisão do autor, nunca do sistema: declare o padrão do arquivo.
+rigidez_padrao: STRICT
+
+personagens:
+  # PILOTO (lattice_zero.md). O texto nunca diz o ano de nascimento de Reiter;
+  # 1948 é a leitura do Claude a partir de quatro idades que o próprio texto dá
+  # (29 em 1977, 48 em 1996, 61 em 2009, 81 em 2029) — 1947 também fecha.
+  - nome: Anselm Reiter
+    aliases: [Reiter, Dr. Anselm Reiter, Dr. Reiter]
+    tipos: [cientista]
+    nascimento: 1948
+    morte: 2029
+    atributos: {}
+    travas: []
+    proposto_por: claude
+
+# Formato completo:
+#  - nome: Ana
+#    aliases: [Ana Souza]
+#    tipos: [maga]                 # é_um, para as regras do mundo
+#    nascimento: 1987              # ou "1987-05-02"
+#    morte: null
+#    atributos: { olhos: verdes }  # atributos fixos
+#    travas: [voz.evita.girias]    # traços de voz travados (Fase 2)
+#    rigidez: STRICT               # sobrepõe o padrão do arquivo

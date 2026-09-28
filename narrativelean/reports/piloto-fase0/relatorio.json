@@ -1,0 +1,241 @@
+{
+  "versao": "v1",
+  "gerado_em": "2026-09-28T20:32:15Z",
+  "documentos": {
+    "lattice_zero.md": {
+      "classificacao": {
+        "tipo": "biblia",
+        "fonte": "declarado",
+        "confianca": "alta",
+        "evidencias": [
+          "declarado em doctypes.yaml"
+        ]
+      },
+      "unidades": 23,
+      "nao_extraidas": [],
+      "fatos": 48,
+      "por_modo": {
+        "narrador": 44,
+        "documento_interno": 2,
+        "pensamento": 1,
+        "fala": 1
+      },
+      "predicado_livre": [],
+      "rejeitados": 0,
+      "rejeitados_por_motivo": {},
+      "divergencias": [],
+      "estabilidade": [
+        {
+          "unidade": "lattice-zero#iv-the-synthetic-threshold",
+          "cache": 2,
+          "nova": 2,
+          "em_comum": 2,
+          "jaccard": 1.0
+        },
+        {
+          "unidade": "lattice-zero#vii-the-bloom",
+          "cache": 2,
+          "nova": 2,
+          "em_comum": 2,
+          "jaccard": 1.0
+        },
+        {
+          "unidade": "lattice-zero#ix-the-modeling-engine",
+          "cache": 1,
+          "nova": 1,
+          "em_comum": 1,
+          "jaccard": 1.0
+        },
+        {
+          "unidade": "lattice-zero#xi-the-man-they-buried",
+          "cache": 4,
+          "nova": 4,
+          "em_comum": 4,
+          "jaccard": 1.0
+        },
+        {
+          "unidade": "lattice-zero#xiii-the-compromise-he-could-not-make",
+          "cache": 1,
+          "nova": 1,
+          "em_comum": 1,
+          "jaccard": 1.0
+        },
+        {
+          "unidade": "lattice-zero#xv-the-instruction",
+          "cache": 0,
+          "nova": 0,
+          "em_comum": 0,
+          "jaccard": 1.0
+        },
+        {
+          "unidade": "lattice-zero#xvii-the-disclosure",
+          "cache": 5,
+          "nova": 5,
+          "em_comum": 5,
+          "jaccard": 1.0
+        }
+      ]
+    }
+  },
+  "avisos": [],
+  "diagnosticos": [
+    {
+      "prefixo": "TL",
+      "nivel": "WARNING",
+      "verificador": "timeline",
+      "camada": "formal",
+      "metodo": "timeline",
+      "titulo": "Restrições de tempo em conflito",
+      "regra": "consistência interna (rede de tempo)",
+      "evidencias": [
+        {
+          "arquivo": "lattice_zero.md",
+          "linha_inicio": 281,
+          "linha_fim": 281,
+          "citacao": "He came out of the ground in 2037 carrying two hundred and eleven doses of Lattice Zero",
+          "unidade": "lattice-zero#xviii-the-distribution",
+          "fato": "F-689d47631eff",
+          "modo": "narrador",
+          "fonte": "obra",
+          "confianca": "alta"
+        },
+        {
+          "arquivo": "lattice_zero.md",
+          "linha_inicio": 241,
+          "linha_fim": 241,
+          "citacao": "In 2034 the organism went in first.",
+          "unidade": "lattice-zero#xvi-the-successor",
+          "fato": "F-23d9f90d40ab",
+          "modo": "narrador",
+          "fonte": "obra",
+          "confianca": "alta"
+        },
+        {
+          "arquivo": "lattice_zero.md",
+          "linha_inicio": 245,
+          "linha_fim": 245,
+          "citacao": "twelve years old in every way that experience counts",
+          "unidade": "lattice-zero#xvi-the-successor",
+          "fato": "F-6b03b4562409",
+          "modo": "narrador",
+          "fonte": "obra",
+          "confianca": "media"
+        },
+        {
+          "arquivo": "lattice_zero.md",
+          "linha_inicio": 303,
+          "linha_fim": 303,
+          "citacao": "in the hands of a twelve-year-old man wearing a dead scientist's face",
+          "unidade": "lattice-zero#xviii-the-distribution",
+          "fato": "F-3f434e86f740",
+          "modo": "narrador",
+          "fonte": "obra",
+          "confianca": "media"
+        },
+        {
+          "arquivo": "lattice_zero.md",
+          "linha_inicio": 301,
+          "linha_fim": 301,
+          "citacao": "Seventy-four doses have been placed in four years.",
+          "unidade": "lattice-zero#xviii-the-distribution",
+          "fato": "F-4e71b1f39d10",
+          "modo": "narrador",
+          "fonte": "obra",
+          "confianca": "alta"
+        }
+      ],
+      "conflito": "Estas restrições não podem valer ao mesmo tempo:\n- o sucessor viaja_para superfície em 2037\n- o organismo entra primeiro no sucessor ocorre em 2034\n- o sucessor tem_idade 12: 0–0 dias depois de o organismo entra primeiro no sucessor ocorre\n- o sucessor tem 12 anos em: o sucessor tem_idade 12\n- o sucessor tem_idade 12: 0–0 dias depois de setenta e quatro doses aplicadas ocorre\n- setenta e quatro doses aplicadas ocorre: 4–4 anos depois de o sucessor viaja_para superfície\nJuntas, elas exigem um intervalo impossível (faltam 1815 dia(s)).",
+      "acao": "REVISAO",
+      "pergunta": "qual dos trechos está certo?",
+      "confianca": "media",
+      "notas": [
+        "contradição interna da obra, sem canon envolvido"
+      ],
+      "chave": {
+        "tipo": "rede",
+        "origens": [
+          "F-23d9f90d40ab",
+          "F-3f434e86f740",
+          "F-4e71b1f39d10",
+          "F-689d47631eff",
+          "F-6b03b4562409"
+        ]
+      },
+      "id": "TL-001",
+      "suprimido": false,
+      "supressao": null,
+      "revisao": null,
+      "impressao": "bfddcb57a354ce40",
+      "trecho_hash": "bc76eff0d51553e2"
+    },
+    {
+      "prefixo": "REF",
+      "nivel": "SUGGESTION",
+      "verificador": "referencia_sem_definicao",
+      "camada": "semantica",
+      "metodo": "proprio",
+      "titulo": "'United States' é citado e nunca definido",
+      "regra": "lente: informação não estabelecida, adaptada a bíblia (método próprio, seção 6.4)",
+      "evidencias": [
+        {
+          "arquivo": "lattice_zero.md",
+          "linha_inicio": 13,
+          "linha_fim": 13,
+          "citacao": "four hundred Americans, none of whom worked, on paper, for the United States.",
+          "unidade": "lattice-zero#i-site-anvil",
+          "fato": null,
+          "modo": null,
+          "fonte": "obra",
+          "confianca": null
+        },
+        {
+          "arquivo": "lattice_zero.md",
+          "linha_inicio": 251,
+          "linha_fim": 251,
+          "citacao": "is the largest problem he has, because Anselm Reiter is a man the United States government is certain it killed in 2016, in an operation still",
+          "unidade": "lattice-zero#xvi-the-successor",
+          "fato": null,
+          "modo": null,
+          "fonte": "obra",
+          "confianca": null
+        },
+        {
+          "arquivo": "lattice_zero.md",
+          "linha_inicio": 257,
+          "linha_fim": 257,
+          "citacao": "On the ninth of March, 2036, the President of the United States told the world that we are not alone, that we have not been alone",
+          "unidade": "lattice-zero#xvii-the-disclosure",
+          "fato": null,
+          "modo": null,
+          "fonte": "obra",
+          "confianca": null
+        }
+      ],
+      "conflito": "'United States' aparece 4 vez(es) e não há verbete, título, termo em negrito, primeira coluna de tabela ou item do canon que o defina.",
+      "acao": "NOVO_CONTEUDO",
+      "pergunta": "definir o termo num verbete, ou declará-lo em canon/entidades.yaml → termos_conhecidos?",
+      "confianca": "alta",
+      "notas": [
+        "método próprio (sem fonte publicada): limitado a SUGGESTION"
+      ],
+      "chave": {
+        "termo": "united states"
+      },
+      "id": "REF-001",
+      "suprimido": false,
+      "supressao": null,
+      "revisao": null,
+      "impressao": "3cab58c359a17f0e",
+      "trecho_hash": "4b0a3d81075e2dda"
+    }
+  ],
+  "indeterminadas": [],
+  "lacunas": [],
+  "regras_fora_do_solver": [],
+  "supressoes_expiradas": [],
+  "contagem": {
+    "WARNING": 1,
+    "SUGGESTION": 1
+  },
+  "arquivo": "reports/v1/relatorio.md"
+}

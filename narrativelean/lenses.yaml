@@ -1,0 +1,32 @@
+# Lentes ativas por tipo de documento (seções 4.3 e 6.4).
+#
+# sim | nao | adaptada. Os padrões são os da tabela da seção 4.3; o autor escolhe
+# quais ativar. Nenhuma lente emite ERROR, e uma lente ativa que ainda não foi
+# implementada não roda — `nl.py validar` avisa quais são.
+#
+# Implementadas hoje: timeline, regras_do_mundo, atributos, regra_x_regra
+# (formais) e referencia_sem_definicao (bíblia, método próprio).
+# `adaptada` em `ramificado` ainda não existe (verificação por estado
+# alcançável): os fatos de documentos ramificados ficam de fora, e o relatório
+# avisa. Geografia e conhecimento são das Fases 3 e 4.
+
+lentes:
+  timeline: {prosa: sim, roteiro: sim, biblia: sim, ficha: sim, cronologia: sim, ramificado: adaptada}
+  regras_do_mundo: {prosa: sim, roteiro: sim, biblia: sim, ficha: sim, cronologia: sim, ramificado: adaptada}
+  atributos: {prosa: sim, roteiro: sim, biblia: sim, ficha: sim, cronologia: sim, ramificado: adaptada}
+  regra_x_regra: {prosa: sim, roteiro: sim, biblia: sim, ficha: sim, cronologia: sim, ramificado: adaptada}
+  geografia: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: sim, ramificado: adaptada}
+  conhecimento: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: adaptada}
+  voz: {prosa: sim, roteiro: adaptada, biblia: adaptada, ficha: nao, cronologia: nao, ramificado: sim}
+  coerencia_acao_fala: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: sim}
+  resolucao_final: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: adaptada}
+  custo_poderes: {prosa: sim, roteiro: sim, biblia: adaptada, ficha: adaptada, cronologia: nao, ramificado: sim}
+  setup_payoff: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: adaptada}
+  fios_abertos: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: adaptada}
+  cena_muda_algo: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: sim}
+  motivacao_ritmo: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: sim}
+  arco_personagem: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: adaptada}
+  dialogo_expositivo: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: sim}
+  causalidade_episodios: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: sim}
+  informacao_nao_estabelecida: {prosa: sim, roteiro: sim, biblia: nao, ficha: nao, cronologia: nao, ramificado: sim}
+  referencia_sem_definicao: {prosa: nao, roteiro: nao, biblia: adaptada, ficha: nao, cronologia: nao, ramificado: nao}

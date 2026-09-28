@@ -1,0 +1,46 @@
+fonte: lattice_zero.md
+copia: narrativelean/tests/seeded_errors/lattice-zero/obra_plantada.md
+erros:
+- id: E-001
+  categoria: idade
+  dificuldade: facil
+  origem: claude
+  linha_inicio: 115
+  linha_fim: 115
+  descricao: idade de Reiter no recrutamento incompatível com as outras três idades
+- id: E-002
+  categoria: idade
+  dificuldade: distante
+  origem: claude
+  linha_inicio: 147
+  linha_fim: 147
+  descricao: idade de Reiter em 2009, a capítulos de distância das outras
+- id: E-003
+  categoria: tempo
+  dificuldade: relativo
+  origem: claude
+  linha_inicio: 91
+  linha_fim: 91
+  descricao: 1983 + 23 anos passa do Bloom de 1996, quando a sétima geração já existia
+- id: E-004
+  categoria: tempo
+  dificuldade: relativo
+  origem: claude
+  linha_inicio: 241
+  linha_fim: 241
+  descricao: integração em 2031 + três anos no subsolo não dá a saída em 2037
+- id: E-005
+  categoria: idade
+  dificuldade: distante
+  origem: claude
+  linha_inicio: 215
+  linha_fim: 215
+  descricao: idade na morte incompatível com o nascimento
+- id: E-006
+  categoria: tempo
+  dificuldade: implicito
+  origem: claude
+  linha_inicio: 71
+  linha_fim: 71
+  descricao: testes em humanos "por quase uma década" de sucesso antes de Harrow (1983) — impossível começando
+    em 1994

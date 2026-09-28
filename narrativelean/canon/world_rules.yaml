@@ -1,0 +1,25 @@
+# Regras do mundo (seção 5). Cada regra STRICT gera também uma pergunta
+# dirigida para a extração.
+#
+# `descricao` é o texto do autor. `aplica_a`/`exige`/`excecoes` são a forma que
+# os verificadores usam. Se a forma foi traduzida pelo Claude, a regra leva
+# `formalizacao: { proposta_por: claude }` e vale como FLEXIBLE até o autor
+# conferir as CONSEQUÊNCIAS e aprovar:
+#   python narrativelean/nl.py regras bateria R-...
+#   python narrativelean/nl.py regras aprovar R-...
+# A aprovação guarda o hash da forma; mudou a forma, a aprovação cai.
+rigidez_padrao: STRICT
+
+regras: []
+
+# Exemplo (seção 5):
+#  - id: R-MAGIA-03
+#    descricao: toda magia exige um objeto-âncora, exceto as bênçãos de sacerdotes
+#    aplica_a: { predicado: usa_poder }
+#    exige: { ancora: true }
+#    excecoes:
+#      - { sujeito_e_um: sacerdote }
+#    rigidez: STRICT
+#    grupo: magia                    # afinidade no checklist agrupado
+#    sinais: [feitiço, magia, runa]  # pré-filtro: decide a granularidade, nunca a inclusão
+#    formalizacao: { proposta_por: claude, aprovada_hash: null }

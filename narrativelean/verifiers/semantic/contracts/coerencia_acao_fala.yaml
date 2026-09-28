@@ -1,0 +1,27 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: coerencia_acao_fala
+metodo: Aristóteles, Poética, cap. XV
+fonte: https://monadnock.net/aristotle/poetics-15.html
+o_que_o_metodo_afirma: O personagem deve falar e agir de modo necessário ou provável, dado quem ele é.
+o_que_o_metodo_nao_afirma: Não define 'provável' de forma calculável; é julgamento.
+operacionalizacao: Ação ou fala sem explicação plausível a partir do perfil e do contexto → WARNING. REVISÃO
+  só se o problema for a forma; senão, só relatório.
+nivel_maximo: WARNING
+acao: revisao
+criticas_conhecidas:
+- '''provável'' é julgamento, não cálculo'
+- personagens contraditórios de propósito
+tensao_com:
+- com: lente:voz
+  motivo: a mesma cena pode ser lida como desvio de voz ou de ação
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: sim
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

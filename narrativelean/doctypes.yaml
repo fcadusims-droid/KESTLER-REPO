@@ -1,0 +1,32 @@
+# Tipo de cada documento verificado (seção 4.3). Só os documentos listados aqui
+# entram no pipeline — a verificação é opt-in, para o custo ficar sob controle.
+#
+# Campos:
+#   arquivo       caminho relativo à raiz do repositório
+#   tipo          prosa | roteiro | biblia | ficha | cronologia | ramificado
+#                 (sem tipo: classificação automática; confiança baixa vira
+#                 pergunta ao autor e o documento não é verificado)
+#   canon         true = bíblia promovida a canon (ainda não implementado:
+#                 o cruzamento bíblia × prosa é da Fase 3)
+#   rigidez       STRICT | FLEXIBLE, se promovida
+#   secoes        tipo por seção, para documentos mistos:
+#                 - { titulo: "Cronologia", tipo: cronologia }
+#   experimento   true = cópia de teste (erros plantados); só roda quando pedida
+#
+# Para ver o palpite do classificador: python narrativelean/nl.py classificar --todos
+
+documentos:
+  # PILOTO DA FASE 0 — escolhido pelo Claude para o teste de fumaça.
+  # O classificador automático deu confiança BAIXA para este documento (é uma
+  # crônica expositiva, sem diálogo nem tabela), então o tipo precisa ser
+  # declarado. `biblia` foi a leitura do Claude: o texto afirma proposições
+  # sobre o mundo e traz registros internos (logs, relatórios oficiais).
+  # O AUTOR confirma ou troca.
+  - arquivo: lattice_zero.md
+    tipo: biblia
+
+  # Cópia com erros plantados (teste de fumaça do harness). Só roda quando
+  # pedida pelo nome: `verificar --documentos <este arquivo>`.
+  - arquivo: narrativelean/tests/seeded_errors/lattice-zero/obra_plantada.md
+    tipo: biblia
+    experimento: true

@@ -1,0 +1,28 @@
+# Perguntas dirigidas que acompanham os verificadores formais ativos (seção 5,
+# "Extração dirigida por regra").
+#
+# Cada regra STRICT do canon gera a sua pergunta automaticamente. Estas aqui são
+# as perguntas dos verificadores que não dependem de uma regra específica — a
+# timeline, por exemplo, precisa de todas as datas e idades, estejam elas ligadas
+# a uma regra ou não.
+#
+# `sinais` alimenta o pré-filtro: uma unidade com sinal recebe a pergunta
+# estreita, sozinha; as demais recebem a mesma pergunta dentro do checklist
+# agrupado. O pré-filtro decide a granularidade, NUNCA a inclusão.
+
+perguntas:
+  - id: Q-TEMPO
+    grupo: tempo
+    verificador: timeline
+    pergunta: >-
+      Há neste trecho alguma data, ano, idade, nascimento, morte, duração ou intervalo de tempo
+      ("três dias depois", "onze anos antes", "aos vinte e nove")? Registre cada ocorrência como
+      fato, com a citação literal.
+    predicados: [nasce_em, morre_em, tem_idade, ocorre, participa_de]
+    sinais_regex:
+      - '\b(1[0-9]{3}|2[0-9]{3})\b'
+      - '\b\d{1,3}\s*(anos|years?)\b'
+      - '\b(aged?|idade|aos)\s+\w+'
+      - '\b(dias?|semanas?|meses|m[eê]s|anos?|days?|weeks?|months?|years?)\s+(depois|antes|later|after|before|ago|mais tarde)\b'
+      - '\b(born|nasceu|nascid[oa]|died|morreu|faleceu|morte|death)\b'
+      - '\b(twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|vinte|trinta|quarenta|cinquenta|sessenta)\b'

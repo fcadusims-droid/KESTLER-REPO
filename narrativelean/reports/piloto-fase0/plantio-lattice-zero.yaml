@@ -1,0 +1,94 @@
+recall:
+  k: 4
+  n: 6
+  valor: 0.667
+  ic95:
+  - 0.3
+  - 0.903
+por_grupo:
+  categoria:idade:
+    k: 3
+    n: 3
+    valor: 1.0
+    ic95:
+    - 0.438
+    - 1.0
+  categoria:tempo:
+    k: 1
+    n: 3
+    valor: 0.333
+    ic95:
+    - 0.061
+    - 0.792
+  dificuldade:distante:
+    k: 2
+    n: 2
+    valor: 1.0
+    ic95:
+    - 0.342
+    - 1.0
+  dificuldade:facil:
+    k: 1
+    n: 1
+    valor: 1.0
+    ic95:
+    - 0.207
+    - 1.0
+  dificuldade:implicito:
+    k: 0
+    n: 1
+    valor: 0.0
+    ic95:
+    - 0.0
+    - 0.793
+  dificuldade:relativo:
+    k: 1
+    n: 2
+    valor: 0.5
+    ic95:
+    - 0.095
+    - 0.905
+  origem:claude:
+    k: 4
+    n: 6
+    valor: 0.667
+    ic95:
+    - 0.3
+    - 0.903
+detalhes:
+- id: E-001
+  achado: true
+  por:
+  - TL-001
+  descricao: idade de Reiter no recrutamento incompatível com as outras três idades
+- id: E-002
+  achado: true
+  por:
+  - TL-002
+  descricao: idade de Reiter em 2009, a capítulos de distância das outras
+- id: E-003
+  achado: false
+  por: []
+  descricao: 1983 + 23 anos passa do Bloom de 1996, quando a sétima geração já existia
+- id: E-004
+  achado: true
+  por:
+  - TL-004
+  - TL-005
+  descricao: integração em 2031 + três anos no subsolo não dá a saída em 2037
+- id: E-005
+  achado: true
+  por:
+  - TL-003
+  descricao: idade na morte incompatível com o nascimento
+- id: E-006
+  achado: false
+  por: []
+  descricao: testes em humanos "por quase uma década" de sucesso antes de Harrow (1983) — impossível começando
+    em 1994
+diagnosticos_fora_dos_plantados:
+- REF-001
+nota: 'recall em erros plantados é um TETO: o valor real é menor. Diagnósticos fora dos plantados são
+  erros naturais ou falsos positivos — vão para o gabarito por pooling.'
+parada:
+  recall: PARE (limite inferior 0.300 vs mínimo 0.8)

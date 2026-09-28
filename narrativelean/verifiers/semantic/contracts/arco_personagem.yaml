@@ -1,0 +1,29 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: arco_personagem
+metodo: Weiland, Creating Character Arcs; Truby, The Anatomy of Story
+fonte: https://www.helpingwritersbecomeauthors.com/character-arcs-3/
+o_que_o_metodo_afirma: O arco nasce do choque entre o que o personagem quer e o que precisa, sustentado
+  por uma crença falsa; perto do fim vêm autorrevelação e decisão moral.
+o_que_o_metodo_nao_afirma: Arcos planos e trágicos também são válidos.
+operacionalizacao: Identifica crença falsa e necessidade no início; verifica se o final as confronta.
+  Tipo de arco declarado em intencoes.yaml.
+nivel_maximo: WARNING
+acao: novo_conteudo
+criticas_conhecidas:
+- arcos planos
+- arcos trágicos
+- personagens que não mudam de propósito
+tensao_com:
+- com: intencao:arcos
+  motivo: arco plano ou trágico declarado
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: adaptada
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

@@ -1,0 +1,31 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: resolucao_final
+metodo: Aristóteles, Poética, cap. XV; Sanderson, primeira lei
+fonte: https://www.brandonsanderson.com/blogs/blog/sandersons-first-law
+o_que_o_metodo_afirma: O desenlace deve nascer da própria trama. Resolver conflito com magia só satisfaz
+  na medida em que o leitor entende essa magia.
+o_que_o_metodo_nao_afirma: Sanderson não proíbe magia pouco explicada; só diz que ela resolve conflitos
+  de forma insatisfatória. Magia suave pode CRIAR problemas à vontade.
+operacionalizacao: Rastreia cada elemento usado no clímax até a primeira aparição. Elemento sem aparição
+  prévia, ou magia pouco explicada resolvendo o conflito → WARNING, NOVO_CONTEUDO.
+nivel_maximo: WARNING
+acao: novo_conteudo
+criticas_conhecidas:
+- as 'leis' são diretrizes que funcionaram para o autor, não regras
+- finais deliberadamente abruptos
+tensao_com:
+- com: lente:setup_payoff
+  motivo: payoff sem setup e resolução sem base costumam ser o mesmo problema
+- com: intencao:magia=suave
+  motivo: a primeira lei pesa diferente quando a magia é declarada suave
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: adaptada
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

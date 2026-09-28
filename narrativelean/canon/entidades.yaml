@@ -1,0 +1,12 @@
+# Hierarquia é_um e instâncias (seção 5, "Hierarquia de entidades e exceções").
+# Vale para predicados (cura é_um usa_poder) e para sujeitos (sacerdote é_um clerigo).
+e_um: {}
+#  cura: [usa_poder]
+#  sacerdote: [clerigo]
+
+instancias: {}
+#  Lira: [maga]
+
+# Termos que não precisam de verbete (nomes do mundo real, termos óbvios).
+# Silenciam a lente "referência sem definição" para eles.
+termos_conhecidos: []

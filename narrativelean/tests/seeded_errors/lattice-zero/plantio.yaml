@@ -1,0 +1,55 @@
+# Erros plantados — TESTE DE FUMAÇA do mecanismo, não validação.
+#
+# Estes 6 erros foram plantados pelo CLAUDE (origem: claude) só para provar que
+# o harness funciona. Eles não servem para medir recall: a seção 11 exige pelo
+# menos 60 erros, plantados pelo AUTOR, com cota de erros difíceis — o Claude
+# planta justamente o tipo de erro que ele mesmo detecta. `nl.py plantar status`
+# diz isso.
+#
+# Formato: cada erro troca `localizar` (aparece UMA vez no original) por
+# `substituir` (aparece UMA vez na cópia). A cópia vai para obra_plantada.md,
+# nesta pasta, e o gabarito com as linhas de cada erro, para gabarito_plantado.yaml.
+fonte: lattice_zero.md
+erros:
+  - id: E-001
+    categoria: idade
+    dificuldade: facil
+    origem: claude
+    localizar: "Anvil recruited him in 1977, at twenty-nine"
+    substituir: "Anvil recruited him in 1977, at thirty-nine"
+    descricao: idade de Reiter no recrutamento incompatível com as outras três idades
+  - id: E-002
+    categoria: idade
+    dificuldade: distante
+    origem: claude
+    localizar: "Reiter was sixty-one."
+    substituir: "Reiter was seventy-one."
+    descricao: idade de Reiter em 2009, a capítulos de distância das outras
+  - id: E-003
+    categoria: tempo
+    dificuldade: relativo
+    origem: claude
+    localizar: "Seven generations were produced in thirteen years."
+    substituir: "Seven generations were produced in twenty-three years."
+    descricao: 1983 + 23 anos passa do Bloom de 1996, quando a sétima geração já existia
+  - id: E-004
+    categoria: tempo
+    dificuldade: relativo
+    origem: claude
+    localizar: "In 2034 the organism went in first."
+    substituir: "In 2031 the organism went in first."
+    descricao: integração em 2031 + três anos no subsolo não dá a saída em 2037
+  - id: E-005
+    categoria: idade
+    dificuldade: distante
+    origem: claude
+    localizar: "He died in the spring of 2029, eighty-one years old"
+    substituir: "He died in the spring of 2029, ninety-one years old"
+    descricao: idade na morte incompatível com o nascimento
+  - id: E-006
+    categoria: tempo
+    dificuldade: implicito
+    origem: claude
+    localizar: "Human trials began in 1974"
+    substituir: "Human trials began in 1994"
+    descricao: testes em humanos "por quase uma década" de sucesso antes de Harrow (1983) — impossível começando em 1994

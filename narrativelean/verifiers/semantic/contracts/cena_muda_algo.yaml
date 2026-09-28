@@ -1,0 +1,27 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: cena_muda_algo
+metodo: McKee, Story (1997); Coyne, The Story Grid (Cinco Mandamentos)
+fonte: https://storygrid.com/5-commandments-storytelling-revisited/
+o_que_o_metodo_afirma: Toda cena deve virar um valor na vida do personagem; muitas cenas seguidas com
+  a mesma polaridade indicam problema de ritmo.
+o_que_o_metodo_nao_afirma: Não vale para obras contemplativas que suspendem a virada de propósito.
+operacionalizacao: Valor e polaridade no início e no fim de cada cena. Cena sem virada ou sequência longa
+  com a mesma polaridade → SUGGESTION, só relatório.
+nivel_maximo: SUGGESTION
+acao: relatorio
+criticas_conhecidas:
+- muito ligado à ficção comercial
+tensao_com:
+- com: genero:contemplativo
+  motivo: obras contemplativas violam de propósito
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: sim
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

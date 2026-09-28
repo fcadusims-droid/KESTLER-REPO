@@ -1,0 +1,27 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: causalidade_episodios
+metodo: Aristóteles, Poética, cap. IX
+fonte: https://monadnock.net/aristotle/poetics-15.html
+o_que_o_metodo_afirma: 'O pior enredo é o episódico: acontecimentos sem relação provável ou necessária.'
+o_que_o_metodo_nao_afirma: Não vale para gêneros episódicos por natureza (picaresco, antologia).
+operacionalizacao: Evento importante sem causa ligada a eventos anteriores → WARNING, NOVO_CONTEUDO.
+nivel_maximo: WARNING
+acao: novo_conteudo
+criticas_conhecidas:
+- picaresco
+- antologia
+- narrativa em mosaico
+tensao_com:
+- com: genero:episodico
+  motivo: gêneros episódicos devem desativar a lente
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: sim
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)
