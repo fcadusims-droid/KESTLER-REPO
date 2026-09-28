@@ -1,0 +1,37 @@
+# Configuração do projeto de verificação.
+nome: NarrativeLean — obras de Johnny Kestler
+
+# Onde estão as obras, relativo a esta pasta. As obras NÃO são copiadas nem
+# movidas: o sistema lê os .md da raiz do repositório onde eles já estão.
+obras_raiz: ..
+
+# Versão atual dos fatos e dos relatórios (facts/<versão>/, reports/<versão>/).
+versao_atual: v1
+
+# Prompts versionados (prompts/<nome>.md). O HASH do texto entra na chave do
+# cache: editar um prompt invalida as extrações feitas com ele, sempre.
+prompts:
+  aberta: extrair_aberta_v1
+  dirigida: extrair_dirigida_v1
+  baseline: baseline_v1
+  retrotraducao: retrotraducao_v1
+  advogado: advogado_v1
+
+# Comando padrão do operador (um processo por pacote). Nada pago:
+#   "claude -p"                    → Claude Code não interativo, no plano do autor
+#   "ollama run qwen2.5:14b"       → modelo aberto e gratuito, local
+operador_padrao: "claude -p"
+
+# Tamanho do checklist agrupado de perguntas dirigidas (seção 5). Começa em 7 e
+# deve ser calibrado no golden set: grupo grande demais derruba o recall.
+checklist_tamanho_grupo: 7
+
+# Critérios de parada da Fase 1, definidos ANTES de começar (seção 11).
+# Todos comparam com o LIMITE INFERIOR do IC 95% de Wilson, não com o valor
+# observado. Com 60 erros plantados: 0.80 exige achar 55; 0.90 exige achar 59.
+criterios_parada:
+  extracao_recall_min_li: 0.80
+  extracao_precisao_min_li: 0.80
+  plantados_recall_min_li: 0.80
+  plantados_minimo: 60
+  quota_dificeis_min: 0.30

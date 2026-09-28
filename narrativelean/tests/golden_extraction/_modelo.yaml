@@ -1,0 +1,35 @@
+# MODELO de item do golden set de extração (seção 11). Este arquivo não tem
+# `id`, então `nl.py golden` o ignora. Copie para G-001.yaml, G-002.yaml, ...
+#
+# Quem escreve: o AUTOR. Itens escritos pelo Claude medem o Claude contra ele
+# mesmo e saem otimistas; se algum existir, marque `origem: claude` e o
+# relatório separa as notas por origem.
+#
+# Meta: ~30 itens, com pelo menos 30% difíceis (relativo, distante, implícito,
+# herança, modo ambíguo). Trechos curtos (um parágrafo ou uma cena), tirados das
+# obras reais ou escritos no estilo delas.
+#
+# O que conta como acerto: mesmo predicado, mesmo sujeito (nome ou alias) e,
+# se houver, mesmo objeto. O modo é pontuado à parte; registrar como `narrador`
+# o que é fala, pensamento ou documento é "erro grave" (a mentira de um
+# personagem vira fato do mundo).
+
+# id: G-001
+# origem: autor                 # autor | claude
+# dificuldade: facil            # facil | relativo | distante | implicito | heranca | modo
+# tipo_documento: prosa         # prosa | biblia | roteiro | ... (doctypes.yaml)
+# texto: |
+#   Ana, com seus vinte anos, entrou na academia em 2001. O pai jurava
+#   que ela tinha nascido em 1975, mas o pai mentia sobre tudo.
+# fatos_esperados:
+#   - sujeito: Ana
+#     predicado: tem_idade
+#     objeto: 20
+#     modo: narrador
+#   - sujeito: Ana
+#     predicado: nasce_em
+#     modo: fala               # é o pai quem diz — não é fato do mundo
+# nao_deve_extrair:
+#   - sujeito: Ana
+#     predicado: nasce_em
+#     modo: narrador           # extrair isto como narrador é erro grave

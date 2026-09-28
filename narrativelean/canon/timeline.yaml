@@ -1,0 +1,31 @@
+# Âncoras de tempo do canon (seção 6.1, timeline). Datas absolutas ou
+# relativas a outro evento; a rede de restrições cuida do resto.
+rigidez_padrao: STRICT
+
+# Calendários do mundo que não sejam o gregoriano. Fatos com `tempo.calendario`
+# sem conversão declarada aqui ficam "indeterminados" — nunca erro.
+calendarios: {}
+
+eventos:
+  # PILOTO (lattice_zero.md) — propostos pelo Claude a partir do texto.
+  - id: EV-QUEDA
+    descricao: o objeto cai no interior do Alasca (Site Anvil)
+    data: 1961
+    proposto_por: claude
+  - id: EV-HARROW
+    descricao: o estatuto de pesquisa vira programa de armas (Program Harrow)
+    data: 1983
+    proposto_por: claude
+  - id: EV-BLOOM
+    descricao: o Bloom começa em três instalações
+    data: 1996
+    proposto_por: claude
+  - id: EV-DIVULGACAO
+    descricao: o presidente dos Estados Unidos revela o organismo ao mundo
+    data: "2036-03-09"
+    proposto_por: claude
+
+# Formato de um evento relativo:
+#  - id: EV-CERCO
+#    descricao: o cerco começa
+#    depois_de: { evento: EV-QUEDA, desvio: { min: 3, max: 3, unidade: dias } }

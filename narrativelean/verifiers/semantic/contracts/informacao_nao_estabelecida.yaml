@@ -1,0 +1,25 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: informacao_nao_estabelecida
+metodo: proprio
+fonte: nenhuma (método próprio, sem fonte publicada)
+o_que_o_metodo_afirma: —
+o_que_o_metodo_nao_afirma: —
+operacionalizacao: Cena que depende de uma informação que o leitor ainda não recebeu → SUGGESTION, NOVO_CONTEUDO.
+nivel_maximo: SUGGESTION
+acao: novo_conteudo
+criticas_conhecidas:
+- mistérios retêm informação de propósito
+tensao_com:
+- com: intencao:mistério
+  motivo: retenção deliberada
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: sim
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

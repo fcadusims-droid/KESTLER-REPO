@@ -1,0 +1,25 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: dialogo_expositivo
+metodo: '''As you know, Bob'' (Turkey City Lexicon)'
+fonte: https://www.helpingwritersbecomeauthors.com/as-you-know-bob/
+o_que_o_metodo_afirma: Personagens contando uns aos outros o que ambos já sabem, só para informar o leitor.
+o_que_o_metodo_nao_afirma: Não proíbe repetição com função dramática.
+operacionalizacao: Fala que transmite algo que o ouvinte comprovadamente já sabe (usa o verificador de
+  conhecimento) → SUGGESTION, REVISÃO.
+nivel_maximo: SUGGESTION
+acao: revisao
+criticas_conhecidas:
+- personagem que repete por nervosismo
+- ritual e cerimônia
+tensao_com: []
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: sim
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

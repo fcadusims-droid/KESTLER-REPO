@@ -1,0 +1,42 @@
+_gerado: 'NÃO EDITE: gerado de verifiers/semantic/contracts/*.yaml (campo tensao_com) por `nl.py contratos`.
+  Edite os contratos.'
+tensoes:
+- lente: arco_personagem
+  com: intencao:arcos
+  motivo: arco plano ou trágico declarado
+- lente: causalidade_episodios
+  com: genero:episodico
+  motivo: gêneros episódicos devem desativar a lente
+- lente: cena_muda_algo
+  com: genero:contemplativo
+  motivo: obras contemplativas violam de propósito
+- lente: coerencia_acao_fala
+  com: lente:voz
+  motivo: a mesma cena pode ser lida como desvio de voz ou de ação
+- lente: custo_poderes
+  com: intencao:magia=suave
+  motivo: magia suave não promete custos explícitos
+- lente: fios_abertos
+  com: intencao:fios_abertos_de_proposito
+  motivo: fio declarado aberto não é defeito
+- lente: informacao_nao_estabelecida
+  com: intencao:mistério
+  motivo: retenção deliberada
+- lente: motivacao_ritmo
+  com: lente:cena_muda_algo
+  motivo: as duas medem ritmo por critérios diferentes
+- lente: resolucao_final
+  com: lente:setup_payoff
+  motivo: payoff sem setup e resolução sem base costumam ser o mesmo problema
+- lente: resolucao_final
+  com: intencao:magia=suave
+  motivo: a primeira lei pesa diferente quando a magia é declarada suave
+- lente: setup_payoff
+  com: critica:iceberg de Hemingway
+  motivo: detalhes sem consequência como técnica
+- lente: setup_payoff
+  com: lente:resolucao_final
+  motivo: payoff sem setup é caso da resolução
+- lente: voz
+  com: lente:arco_personagem
+  motivo: um desvio de voz persistente pode ser início de arco

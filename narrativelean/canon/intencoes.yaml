@@ -1,0 +1,9 @@
+# Escolhas deliberadas que o sistema NÃO deve tratar como defeito (seção 4.1).
+# Os verificadores e o advogado do diabo leem este arquivo antes de julgar.
+genero: null
+tom: null
+magia: null                     # rigida | suave
+arcos: {}                       # personagem: mudanca | plano | tragico
+fios_abertos_de_proposito: []
+narradores_nao_confiaveis: []
+fontes_internas_contraditorias_sao_intencionais: true   # seção 4.3, padrão

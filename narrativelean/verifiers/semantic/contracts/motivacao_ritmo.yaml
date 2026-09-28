@@ -1,0 +1,26 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: motivacao_ritmo
+metodo: Swain, Techniques of the Selling Writer (1965)
+fonte: https://en.wikipedia.org/wiki/Scene_and_sequel
+o_que_o_metodo_afirma: 'Cena: objetivo, conflito, desastre. Sequel: reação, dilema, decisão, que gera
+  o próximo objetivo.'
+o_que_o_metodo_nao_afirma: Não é a única estrutura possível; nem toda obra segue o ciclo.
+operacionalizacao: Mudança de objetivo sem reação, dilema ou decisão perceptível → WARNING, NOVO_CONTEUDO.
+nivel_maximo: WARNING
+acao: novo_conteudo
+criticas_conhecidas:
+- estrutura de ficção comercial
+tensao_com:
+- com: lente:cena_muda_algo
+  motivo: as duas medem ritmo por critérios diferentes
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: sim
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

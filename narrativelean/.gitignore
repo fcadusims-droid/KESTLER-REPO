@@ -1,0 +1,4 @@
+# Pacotes e respostas em trânsito. O que importa fica no cache/ e em facts/.
+work/
+__pycache__/
+*.pyc

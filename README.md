@@ -1,10 +1,10 @@
-# Johnny Kestler — Archive
+# João Vitor Perazzolo — aka Johnny Kestler
 
-Original worldbuilding, fiction, fanfiction and game design documents by
-**Johnny Kestler** (João Vitor Perazzolo), published as a static site straight
-from this repository.
+The writing portfolio of **João Vitor Perazzolo**, who writes as
+**Johnny Kestler**: worldbuilding bibles, original stories, fanfiction and game
+design documents, published as a static site straight from this repository.
 
-## The archive
+## The site
 
 Every Markdown file at the root of this repository is a work, and every work
 becomes a page automatically. There is no index to maintain and no build step to
@@ -14,7 +14,7 @@ next deploy.
 **Privacy is the default.** A file is published only if it sits at the root, is
 not a development file, and does not carry `publish: false` or `draft: true` in
 its front matter. Anything inside a subfolder stays private and never appears
-in the library.
+in the portfolio.
 
 Front matter drives the presentation:
 
@@ -34,7 +34,11 @@ published, using its filename as the title.
 
 ## Author
 
-**Johnny Kestler** — worldbuilder and author.
+**João Vitor Perazzolo**, aka **Johnny Kestler** — writer and worldbuilder.
+
+Every universe, character and story here is the author's original creation.
+The documents and the site were written and built with Claude, an AI assistant
+by Anthropic, working from the author's own concepts, worlds and direction.
 
 ## Licence
 

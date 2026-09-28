@@ -1,0 +1,41 @@
+# Formato de um fato extraído — schema v1 (seção 5).
+#
+# Este arquivo é a referência humana do formato. A validação de verdade está em
+# nlean/schema.py e nlean/extraction.py; se os dois divergirem, o código está
+# errado e este arquivo é que manda.
+#
+# Mudar este formato é uma decisão consciente: aumente schema/VERSION, e todo o
+# cache de extração deixa de valer (a versão entra na chave do cache).
+
+fato:
+  id: F-1a2b3c4d5e6f            # atribuído pelo sistema na ingestão, nunca pelo extrator
+  tipo: evento                  # evento | atributo | relacao | conhecimento | localizacao
+  sujeito: Ana
+  predicado: teleporta_para     # só do vocabulário fechado (schema/predicados.yaml)
+  objeto: Berlim
+  qualificadores:               # propriedades que as regras do canon exigem (ex.: contato_fisico)
+    contato_fisico: true
+  tempo:
+    ano: 2020                   # ou null
+    mes: null
+    dia: null
+    relativo_a:                 # tempo relativo, ou null
+      ref: queda_da_ponte       # `ref` de outro fato do MESMO documento, ou
+      evento: null              # id de evento de canon/timeline.yaml
+      descricao: null           # âncora em texto livre, quando nenhuma das duas cabe
+      desvio: { min: 3, max: 3, unidade: dias, sentido: depois }
+    flashback: false            # flashback NÃO é modo: é tempo (seção 4.2)
+    calendario: null            # calendário do mundo, se não for o padrão
+  modo: narrador                # narrador | fala | pensamento | hipotetico | documento_interno
+  falante: null                 # quem diz/pensa, quando modo é fala ou pensamento
+  ref: teleporte_para_berlim    # rótulo opcional para outro fato se ancorar neste
+  tipo_documento: prosa         # herdado da classificação do documento (seção 4.3)
+  condicao: null                # só em documentos ramificados
+  citacao: "Ana tocou o ombro de Carlos e os dois sumiram, reaparecendo em Berlim."
+  local:                        # CALCULADO pelo código a partir da citação — nunca vem do extrator
+    arquivo: cap17.md
+    unidade: cap17#4
+    linha_inicio: 88
+    linha_fim: 88
+  confianca_extracao: alta      # alta | media | baixa
+  origem_extracao: aberta       # aberta | dirigida (seção 5, extração dirigida por regra)

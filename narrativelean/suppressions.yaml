@@ -1,0 +1,10 @@
+# Supressões — o `# noqa` da obra (seção 8).
+#
+# Uma edição ou diagnóstico rejeitado pelo autor pode ser registrado aqui, com
+# um MOTIVO. O trecho deixa de ser acusado até mudar: cada supressão guarda o
+# hash do trecho citado, e se o texto mudar ela expira e o diagnóstico volta.
+#
+# Não edite à mão: use
+#   python narrativelean/nl.py suprimir <id-ou-impressão> --motivo "..."
+
+supressoes: []

@@ -1,0 +1,28 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: referencia_sem_definicao
+metodo: proprio
+fonte: nenhuma (adaptação de 'informação não estabelecida' ao tipo biblia, seção 4.3)
+o_que_o_metodo_afirma: —
+o_que_o_metodo_nao_afirma: 'Não diz que todo termo precisa de verbete: termos do mundo real e termos óbvios
+  não precisam.'
+operacionalizacao: 'Detector determinístico (nlean/verifiers/references.py): termo cunhado (sequência
+  com maiúscula, sigla, negrito no meio do texto) que não aparece em título, negrito abrindo item, primeira
+  coluna de tabela nem no canon → SUGGESTION, NOVO_CONTEUDO.'
+nivel_maximo: SUGGESTION
+acao: novo_conteudo
+criticas_conhecidas:
+- nomes do mundo real geram ruído
+- termos definidos em prosa corrida, sem marcação, não são reconhecidos
+tensao_com: []
+lente_padrao: ativa
+estado: implementado
+tipos:
+  biblia: adaptada
+testes:
+  dispara:
+  - tests/verifiers/test_references.py::termo citado e nunca definido
+  nao_dispara:
+  - tests/verifiers/test_references.py::termo definido em título
+  - tests/verifiers/test_references.py::termo declarado em termos_conhecidos
+  violacao_intencional:
+  - tests/verifiers/test_references.py::bíblia que usa termo do mundo real sem verbete

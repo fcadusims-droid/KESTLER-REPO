@@ -1,0 +1,32 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: voz
+metodo: 'Estilometria: Burrows, Computation into Criticism (1987); Delta de Burrows (2002)'
+fonte: 'Burrows 1987; Burrows, ''Delta: a Measure of Stylistic Difference'' (2002)'
+o_que_o_metodo_afirma: Hábitos de fala aparecem nas palavras mais frequentes e permitem distinguir personagens
+  de um mesmo autor.
+o_que_o_metodo_nao_afirma: Não diz que todo desvio é erro. O Delta foi feito para autoria em textos de
+  1.500+ palavras; falas curtas dão sinal fraco.
+operacionalizacao: Perfil por fase com leave-one-out e suporte mínimo (seção 5.1); traços travados como
+  sinal principal; distância estilométrica opcional. Contexto (destinatário, estado, gênero, intenção)
+  avaliado antes de comparar (seção 6.3).
+nivel_maximo: WARNING
+acao: revisao
+criticas_conhecidas:
+- falas curtas dão sinal estilométrico fraco
+- arcos intencionais parecem desvio
+- o motivo do tom pode só aparecer capítulos depois
+tensao_com:
+- com: lente:arco_personagem
+  motivo: um desvio de voz persistente pode ser início de arco
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: adaptada
+  biblia: adaptada
+  ramificado: sim
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

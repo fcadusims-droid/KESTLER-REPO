@@ -38,11 +38,12 @@ const nothing = computed(() => visibleGroups.value.length === 0)
 <template>
   <div class="archive">
     <header class="archive-hero">
-      <p class="archive-eyebrow">The Archive</p>
-      <h1 class="archive-title">A library of fictional universes</h1>
+      <p class="archive-eyebrow">Portfolio</p>
+      <h1 class="archive-title">João Vitor Perazzolo</h1>
+      <p class="archive-aka">aka <strong>Johnny Kestler</strong></p>
       <p class="archive-sub">
-        {{ totalCount }} original {{ totalCount === 1 ? 'work' : 'works' }} — worldbuilding bibles,
-        stories, fanfiction and game design documents. Choose a universe to begin reading.
+        Writer and worldbuilder. {{ totalCount }} {{ totalCount === 1 ? 'work' : 'works' }} — worldbuilding
+        bibles, original stories, fanfiction and game design documents. Choose a universe to begin reading.
       </p>
 
       <div class="archive-controls">
@@ -50,8 +51,8 @@ const nothing = computed(() => visibleGroups.value.length === 0)
           v-model="query"
           type="search"
           class="archive-search"
-          placeholder="Search the library…"
-          aria-label="Search the library"
+          placeholder="Search the portfolio…"
+          aria-label="Search the portfolio"
         />
         <div class="archive-chips" role="tablist" aria-label="Filter by type">
           <button
@@ -109,7 +110,7 @@ const nothing = computed(() => visibleGroups.value.length === 0)
       <p>
         Every universe, character and story collected here is the original
         creation of <strong>João Vitor Perazzolo</strong>, who writes as
-        <strong>Johnny Kestler</strong>. The documents in this archive, and the
+        <strong>Johnny Kestler</strong>. The documents in this portfolio, and the
         website that presents them, were written and built with
         <strong>Claude</strong>, an AI assistant by Anthropic, working entirely
         from the author's own concepts, worlds and direction. The invention is

@@ -1,0 +1,28 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: setup_payoff
+metodo: Chekhov, cartas (1889)
+fonte: https://en.wikipedia.org/wiki/Chekhov%27s_gun
+o_que_o_metodo_afirma: 'Não pôr em destaque algo que não será usado: é uma promessa ao leitor.'
+o_que_o_metodo_nao_afirma: Não diz que todo detalhe precisa de consequência.
+operacionalizacao: Elemento introduzido com ênfase e nunca retomado → SUGGESTION, NOVO_CONTEUDO (briefing
+  só se o autor pedir).
+nivel_maximo: SUGGESTION
+acao: novo_conteudo
+criticas_conhecidas:
+- 'Hemingway e o iceberg: detalhe sem consequência pode ser intencional'
+tensao_com:
+- com: critica:iceberg de Hemingway
+  motivo: detalhes sem consequência como técnica
+- com: lente:resolucao_final
+  motivo: payoff sem setup é caso da resolução
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: adaptada
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

@@ -1,0 +1,30 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: custo_poderes
+metodo: Sanderson, segunda e terceira leis; Tolkien, On Fairy-Stories
+fonte: https://faq.brandonsanderson.com/knowledge-base/what-are-sandersons-laws-of-magic/
+o_que_o_metodo_afirma: Limitações importam mais que poderes; expandir o que existe antes de inventar.
+  Um mundo secundário precisa de consistência interna.
+o_que_o_metodo_nao_afirma: Tolkien descreve um efeito no leitor, não uma regra. Consistência com regras
+  explícitas é do verificador formal.
+operacionalizacao: 'Prosa: poder usado sem o custo/limite estabelecido, ou capacidade nova surgindo onde
+  é necessária. Bíblia e ficha: cada poder tem custo e limite definidos?'
+nivel_maximo: WARNING
+acao: novo_conteudo
+criticas_conhecidas:
+- sistemas de poder deliberadamente misteriosos
+tensao_com:
+- com: intencao:magia=suave
+  motivo: magia suave não promete custos explícitos
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  biblia: adaptada
+  ficha: adaptada
+  ramificado: sim
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)

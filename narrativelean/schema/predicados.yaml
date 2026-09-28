@@ -1,0 +1,101 @@
+# Vocabulário fechado de predicados (seção 5).
+#
+# A extração só pode usar os predicados daqui. O que não couber vai para
+# `predicado_livre` e aparece listado no relatório; os que aparecem com
+# frequência são candidatos a entrar nesta lista.
+#
+# `python narrativelean/nl.py vocab sincronizar` acrescenta os predicados que as
+# regras do canon citam. Toda mudança aqui deve aumentar `versao` — a extração
+# dirigida então varre a obra só para o que é novo, sem reextrair tudo.
+#
+# Campos de cada predicado:
+#   tipo       evento | atributo | relacao | conhecimento | localizacao
+#   objeto     o que vai no campo `objeto`: texto | pessoa | lugar | inteiro | evento | nenhum
+#   funcional  true = um sujeito só tem UM valor (duas respostas diferentes conflitam)
+#   descricao  o que o predicado quer dizer, para o extrator e para o autor
+
+versao: 1
+
+predicados:
+  nasce_em:
+    tipo: atributo
+    objeto: lugar
+    funcional: true
+    descricao: nascimento de alguém. A data vai em `tempo`; o lugar, se houver, em `objeto`.
+  morre_em:
+    tipo: evento
+    objeto: lugar
+    funcional: true
+    descricao: morte de alguém. Data em `tempo`. Morte que só alguém acredita ter acontecido é `pensamento` ou `fala`, não `narrador`.
+  tem_idade:
+    tipo: atributo
+    objeto: inteiro
+    descricao: idade de alguém num momento. `objeto` é o número de anos; o momento vai em `tempo`.
+  ocorre:
+    tipo: evento
+    objeto: nenhum
+    descricao: um acontecimento datado. `sujeito` é o nome curto do acontecimento; use `ref` para outros fatos se ancorarem nele.
+  participa_de:
+    tipo: evento
+    objeto: evento
+    descricao: alguém toma parte num acontecimento (objeto = nome ou ref do acontecimento).
+  age:
+    tipo: evento
+    objeto: texto
+    descricao: alguém faz algo relevante para a trama (objeto = a ação em poucas palavras). Use quando nenhum predicado mais específico couber.
+  esta_em:
+    tipo: localizacao
+    objeto: lugar
+    descricao: alguém ou algo está num lugar num momento.
+  viaja_para:
+    tipo: localizacao
+    objeto: lugar
+    descricao: deslocamento de um lugar a outro.
+  teleporta_para:
+    tipo: evento
+    objeto: lugar
+    descricao: deslocamento instantâneo por meio sobrenatural ou tecnológico.
+  usa_poder:
+    tipo: evento
+    objeto: texto
+    descricao: uso de magia, poder, anomalia ou tecnologia extraordinária (objeto = qual poder).
+  mata:
+    tipo: evento
+    objeto: pessoa
+    descricao: alguém mata outra pessoa ou criatura.
+  fere:
+    tipo: evento
+    objeto: pessoa
+    descricao: alguém fere outra pessoa ou criatura.
+  trabalha_para:
+    tipo: relacao
+    objeto: texto
+    descricao: vínculo de trabalho, serviço ou recrutamento (objeto = organização ou pessoa).
+  membro_de:
+    tipo: relacao
+    objeto: texto
+    descricao: pertence a uma organização, facção, família ou grupo.
+  parente_de:
+    tipo: relacao
+    objeto: pessoa
+    descricao: parentesco. Grau em `qualificadores.grau` (mae, pai, irmao, filho...).
+  lidera:
+    tipo: relacao
+    objeto: texto
+    descricao: comanda ou dirige uma organização, grupo ou operação.
+  tem_atributo:
+    tipo: atributo
+    objeto: texto
+    descricao: característica fixa (cor dos olhos, altura, cargo...). O nome do atributo vai em `qualificadores.atributo`; o valor, em `objeto`.
+  sabe:
+    tipo: conhecimento
+    objeto: texto
+    descricao: alguém sabe uma informação (objeto = a informação).
+  aprende:
+    tipo: conhecimento
+    objeto: texto
+    descricao: alguém descobre ou é informado de algo, num momento.
+  define:
+    tipo: atributo
+    objeto: texto
+    descricao: numa bíblia, o verbete define um termo, lugar, facção ou conceito do mundo (sujeito = o termo).

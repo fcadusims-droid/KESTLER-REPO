@@ -1,0 +1,28 @@
+# Contrato da lente (seção 6.4). Preenchido ANTES de qualquer código.
+verificador: fios_abertos
+metodo: Quociente MICE (Orson Scott Card, Characters and Viewpoint)
+fonte: https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/
+o_que_o_metodo_afirma: Cada tipo de fio (ambiente, pergunta, personagem, evento) abre e fecha de um jeito;
+  fios aninhados fecham na ordem inversa.
+o_que_o_metodo_nao_afirma: Não proíbe fios abertos de propósito (sequência, ambiguidade).
+operacionalizacao: Registra abertura e fechamento de cada fio. Fio que nunca fecha ou fecha fora de ordem
+  → WARNING, NOVO_CONTEUDO, salvo se declarado em intencoes.yaml.
+nivel_maximo: WARNING
+acao: novo_conteudo
+criticas_conhecidas:
+- finais abertos deliberados
+- séries com fios que atravessam volumes
+tensao_com:
+- com: intencao:fios_abertos_de_proposito
+  motivo: fio declarado aberto não é defeito
+lente_padrao: inativa
+estado: especificado
+tipos:
+  prosa: sim
+  roteiro: sim
+  ramificado: adaptada
+testes:
+  dispara: []
+  nao_dispara: []
+  violacao_intencional: []
+  _nota: a escrever antes de implementar (Fase 5)
