@@ -194,6 +194,15 @@
   background-clip: text;
   color: transparent;
 }
+.archive-aka {
+  font-size: 1.15rem;
+  color: var(--vp-c-text-2);
+  margin: -0.5rem 0 1.25rem;
+}
+.archive-aka strong {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+}
 .archive-sub {
   font-size: 1.08rem;
   line-height: 1.7;

@@ -13,7 +13,7 @@ const isHome = computed(() => page.value.relativePath === 'index.md')
 
 <template>
   <nav v-if="!isHome" class="breadcrumbs" aria-label="Breadcrumb">
-    <a :href="withBase('/')">The Library</a>
+    <a :href="withBase('/')">Portfolio</a>
     <span class="breadcrumbs-sep">/</span>
     <span class="breadcrumbs-current">{{ title }}</span>
   </nav>

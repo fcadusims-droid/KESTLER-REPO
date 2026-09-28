@@ -5,8 +5,9 @@ import { discoverDocs, groupByCategory, excludedGlobs } from './lib/docs.mts'
 // Public site identity. Change SITE_* here (or via env) if the repo is renamed
 // or moved to a custom domain — nothing else needs to be touched.
 // ---------------------------------------------------------------------------
-const SITE_NAME = 'The Kestler Archive'
-const SITE_TAGLINE = 'An archive of original fictional universes.'
+const SITE_NAME = 'Johnny Kestler'
+const SITE_TAGLINE =
+  'Portfolio of João Vitor Perazzolo, aka Johnny Kestler: original fictional universes, stories and game design documents.'
 // GitHub Pages project site: https://<user>.github.io/<repo>/
 // NOTE: the <repo> path segment is CASE-SENSITIVE on GitHub Pages. The CI
 // workflow overrides these from the real repository name so they always match
@@ -117,7 +118,7 @@ export default defineConfig({
     siteTitle: SITE_NAME,
 
     // Minimal top navigation — no GitHub links, no external branding.
-    nav: [{ text: 'The Library', link: '/' }],
+    nav: [{ text: 'Portfolio', link: '/' }],
 
     // Automatic left sidebar listing every universe (drives prev/next too).
     sidebar,
@@ -143,7 +144,7 @@ export default defineConfig({
     },
 
     returnToTopLabel: 'Back to top',
-    sidebarMenuLabel: 'Library',
+    sidebarMenuLabel: 'Works',
     darkModeSwitchLabel: 'Appearance',
     lightModeSwitchTitle: 'Switch to light',
     darkModeSwitchTitle: 'Switch to dark',
