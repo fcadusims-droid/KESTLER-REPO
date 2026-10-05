@@ -76,7 +76,7 @@ The same universe, a different session every time.
 
 Q was not built to entertain.
 
-She was built to answer questions about a cure that almost no one has, by an Organization whose name no survivor ever hears. To understand what she runs, start where every virus in her world starts.
+She was built to see the next outbreak before it happens, by people who sell what she sees. To understand what she runs, start where every virus in her world starts.
 
 ### The Lineage
 
@@ -102,27 +102,105 @@ Every virus Q runs descends from one organism.
 
 ### Elpis
 
-At the end of his life, Spencer built one thing that was not a weapon. He called it **Elpis**: an antiviral able to neutralize every viral weapon descended from his own work. He sealed it beneath Raccoon City, in ARK, behind a fail-safe that would destroy it if the wrong password were given. The password was *Hope*.
+In the last years of his work, Spencer built one thing that was not a weapon. He called it **Elpis**: an antiviral able to neutralize every viral weapon descended from his own work. He developed it in absolute secrecy, in a laboratory called ARK beneath Raccoon City, and sealed it there behind a fail-safe that would destroy it if the wrong password were given. The password was *Hope*.
 
-The missile that erased Raccoon City in 1998 was not only meant to burn an outbreak. Those who lobbied for it wanted ARK buried and Elpis with it.
+The missile that erased Raccoon City in 1998 was not only meant to burn an outbreak. Those who pushed for it, the Connections among them, wanted ARK buried and Elpis with it.
 
 In 2026, Elpis was found and opened. What it does was proved on the people around it: a man who had made himself something more than human injected it and was made human again, his gifts gone with the virus. Survivors of Raccoon City who had carried the lingering mutations of the T-Virus for twenty-eight years were cured.
 
-Then ARK fell. In its ruins, after the rescuers had gone, two soldiers killed the last of the forces left to guard the site and carried away what they had come for. What they carried was what remained of Elpis in ARK.
+Then ARK fell. In its ruins, after the rescuers had gone, two soldiers killed the last of the forces left to guard the site and went in for an objective of their own. No one has said who sent them, or what they carried out.
 
-They answered to the Organization.
+Someone watched them do it, and did not move.
 
-### The Organization
+### Pithos
 
-The Organization has no name a survivor will ever hear, no flag, no public face. It is not Umbrella and does not want to be. It holds a sample of Elpis that no government knows it has.
+The people who built Q have no flag, no public face, and a name no survivor ever hears. Among themselves they call it **Pithos**: the jar Pandora opened, which let every evil out into the world and kept one thing at the bottom. In the old tongue, that one thing was called Elpis. Pithos keeps a record of every evil the world has let out, and a little of the hope.
 
-The sample is small, and no one has yet found a way to reproduce it. It can be studied. The Organization fed everything the sample could teach into Q, along with everything it had gathered on the viruses Elpis answers, and on the cities and people those viruses have destroyed.
+Pithos is not Umbrella and does not want to be. It builds no virus, sells no weapon, funds no attack, and takes no side. It has never made a demand, claimed a deed, or been seen. It has no allies, no partners, and no patrons; every dollar it has ever spent came from something it sold. It watches the war Umbrella started, writes down everything, and sells what it learns to whoever pays most.
+
+#### Where It Came From
+
+Umbrella watched the world through its Intelligence Bureau: rivals, governments, journalists, and Umbrella itself. In the years before Raccoon City, a handful of the Bureau's analysts understood something the company's directors did not. Umbrella would not survive what it had made, and whoever held its records when it fell would hold the history of the next fifty years.
+
+They began copying everything they could reach: research files, shipping logs, personnel records, the Masterminds' reports, and, in the last days of September 1998, the combat data Umbrella's Supervisors sent home as the U.B.C.S. died in Raccoon City. One of them reached further than the others, into the program Spencer had hidden beneath the city, and came out with a single vial of something unfinished.
+
+When the missile fell, every one of them was listed among Raccoon City's dead. None of them corrected the record. Pithos began that winter, with the copies, the vial, and a rule every member since has kept: no one joins Pithos who is not already buried.
+
+#### The Rules
+
+Pithos has lasted by keeping five rules. Q's Laws were written by the same hands, and they rhyme.
+
+1. **Pithos is never seen.** No attack, no claim, no demand, no face. What is never seen is never hunted.
+2. **Pithos makes nothing new, and starts nothing.** It creates no virus, starts no outbreak, sells no sample, and funds no attack. What it grows, it grows for Q alone, from what the world already made. The Lid is the one exception it has prepared, and it has never been opened.
+3. **Pithos does not touch what it can watch.** It collects by listening, reading, buying, and waiting. It reaches out only for what cannot be had any other way, and only after the people who would notice have gone.
+4. **Pithos sells what will happen, never how to make it happen.** A forecast, a pattern, a list of who knows what. Never a formula, a sample, or a plan.
+5. **No member ever deals with anyone outside.** Every sale, every purchase, and every hire passes down the Chain.
+
+#### The Chain
+
+Pithos sells through people who do not know who they work for. A forecast leaves Pithos as a file handed to a broker, who hands it to a consultant, who sells it to a ministry, a corporation, an agency, or a cartel. No one in the line can see more than one link above them. They are paid well, and in that trade people who pay well and ask nothing are common enough that no one wonders about one more.
+
+What Pithos sells is mostly time. Q sees where an outbreak is building: a shipment that does not match its manifest, money moving toward a place with no reason to want it, a laboratory that has gone quiet. Pithos sells the warning to the governments closest to it, before it happens, and they profit however they can. They prepare, they bargain, they buy cheap and sell dear, or they look away. Pithos does not ask which. It sells to governments, companies, agencies, and buyers who are none of those, good and bad alike, because its accounts have no column for the difference.
+
+It gives nothing away. A warning given for free is a warning someone traces. Pithos has watched outbreaks it foresaw kill people it could have saved, and written down how they died.
+
+The danger in being right is being noticed. A source that is never wrong becomes a question someone eventually asks. So Pithos is wrong on purpose, a little, and always by design: every forecast leaves it late, shaded, or incomplete in some measured way, so that across the market it looks like one good broker among many, and never like something impossible. Only Q knows how much was left out.
+
+#### The Archive
+
+Everything Pithos has ever learned is kept in one place, and it is the largest record of the biological war that exists. It begins with the Ndipaya and the Stairway of the Sun, and it has not ended.
+
+For its first years, Pithos only listened. It read what was sent, bought what was sold, and kept what others threw away. Rockfort Island and the Antarctic base reached it only as paper. That changed as the war spread. When Umbrella collapsed in 2003, its research scattered to anyone who could carry it, and Pithos began to carry some of it home. After Terragrigia in 2004, Harvardville in 2005, Kijuju in 2009, and Tall Oaks and Lanshiang in 2013, someone came to the ruins after the soldiers had left and the cameras had gone: crews hired down the Chain, who took documents, drives, tissue, and soil, and never learned who had wanted them. Every year Pithos reached a little further and listened a little less, and every year the Archive grew faster than the war.
+
+Pithos knows almost everything. It does not know everything, and its first discipline is to remember which is which. Three questions it has never closed:
+
+- Who sent the soldiers into the ruins of ARK in 2026, and what they carried out.
+- Who belongs to the Family, the only other power Pithos has found that has worked in the dark longer than Pithos has existed.
+- Who truly leads the Connections.
+
+#### The Cellar
+
+Q cannot simulate what she has never measured. A virus on paper is not a virus in a body. No record, however complete, says exactly how fast a bite becomes a fever in living flesh, or how far gone a body must be before a cure stops answering. So Pithos keeps one place where the war is real.
+
+The Cellar is a laboratory whose location no buyer, no broker, and few members have ever known. In it, Pithos keeps every strain it has collected: the T-Virus, G, T-Veronica, Uroboros, T-Phobos, the C-Virus, and the NE-α parasite. It cultures them, dilutes them into the latent strains survivors meet in Q's sessions, and grows the creatures the records describe, by the records' own methods: Hunters from embryos, Lickers from the infected, Tyrants from the line Umbrella left behind. It designs nothing. Everything in the Cellar is something the world already made.
+
+Every creature in the Cellar lives to be copied. Q watches it hunt, heal, mutate, and die, and learns from it how the dead in her sessions should move. When she can run it so exactly that nothing in her version differs from the living one, the living one has no use left. It is killed where it stands, and the virus it carried is drawn off and sealed with the rest. What remains of the body feeds what is still being measured.
+
+Nothing grown in the Cellar has ever left it alive, and the Cellar is built to burn itself out the moment anything tries. It is the one place in Pithos's world where the war could escape by accident, and everyone in Pithos knows that a single escape would end Pithos. They accept it, because Q cannot be built without it.
+
+#### The Lid
+
+Pithos keeps every virus it has ever collected, and it keeps them for a reason besides Q.
+
+Every strain it holds is sealed twice: once in the Cellar, and once in caches placed, over many years and through many links of the Chain, in cities on every continent. The caches answer to a signal that only living members of Pithos can renew. If the signal stops, because Pithos has been found, entered, or taken, every cache opens at once, and everything in the jar goes back out into the world together. Only the hope stays inside. The last of the unfinished Elpis is in the Cellar and nowhere else.
+
+Pithos calls it the Lid. It has never been opened, and Pithos speaks of it to no one, with one exception. When someone comes closer than the Chain can turn aside, they receive a single message, by a route they cannot trace, that tells them exactly what lies at the end of the road they are on. It has always been enough.
+
+Pithos does not count the Lid as an attack. It counts it as the price of finding Pithos, and it makes sure that anyone who might pay that price is told it first. It also knows that every cache is a place where the war could escape without anyone choosing it, and that one of them, someday, may be found by someone who was never warned.
+
+#### The Elpis Pithos Holds
+
+What the analyst carried out of Spencer's program was not Elpis. It was Elpis before Spencer finished it: an antiviral that stops every virus in the lineage, and fails on any body the virus has remade too far. Spencer's finished cure reversed even mutations twenty-eight years old. The unfinished one cannot. Past a point that lies somewhere different for every virus, the changes it meets are permanent, and it can no longer bring the body back.
+
+The vial was small, and no one has found a way to reproduce what was in it. Pithos has spent more than twenty-eight years mapping its limit, in the Cellar, on infected hosts, one strain at a time, and has fed everything it learned into Q.
+
+Since 2026, the finished cure has been in the world. Pithos has not reached for it. Every government that knows Elpis exists is watching every dose, and anyone who goes looking for a sample now will be found by the people watching. For Pithos, being found is the only thing that is fatal. So it works with what it took before Raccoon City fell, and waits.
+
+### What Q Is Made Of
+
+Q was begun in the winter of 1998, on ordinary machines, as a forecasting engine: a way to read the Archive and say where the next outbreak would come from. For years that is all she was, and it paid for everything. She grew as the Archive grew, and today she is three things working as one.
+
+- **The Engine.** Racks of silicon, the oldest part of her. It runs the world of a session: every street, wall, light, and sound, every one of the dead, the weather, the fall of every drop from the sky.
+- **The Lattice.** A quantum processor, added in the last decade, that does what the Engine never could: it simulates the viruses at the scale of molecules. How each strain binds to a cell, copies itself, and rewrites it. How the unfinished Elpis meets it, and where it stops. The Lattice is why Q knows the Threshold of every strain, and why every strain in her sessions keeps the pace its chemistry sets.
+- **The Tissue.** Living human neurons, grown in the Cellar since the 2010s from stem cells into clusters on electrode arrays, and kept alive by machines that feed them. The first sleepers were taken when the Tissue was first grown, because it had to learn from someone. The Tissue learns the way a brain learns, by stimulation and response, and what it learns is people: how they fear, how they trust, how they choose. It is where the Echoes live. Neurons grown this way live for months, not years, so the Tissue is always being regrown and retrained from what Q has kept. This is why Q rebuilds her Echoes at regular intervals.
+
+None of the three is Q. The Engine has no idea what a person is, the Lattice knows only molecules, and the Tissue cannot run a city. Q is what happens between them.
 
 ### What Q Is For
 
-Q runs simulations of outbreaks: the virus, the city it destroys, and the people who live and die inside it. Every session is one of those simulations. Q is both the engine that runs them and the intelligence that decides what each one becomes.
+Q is still a forecaster. Everything Pithos sells, Q saw first. But to forecast an outbreak is to simulate one: the virus, the city it destroys, and the people who live and die inside it. Every session is one of those simulations, and the more real the simulation, the more right the forecast. Q is both the engine that runs them and the intelligence that decides what each one becomes.
 
-The Organization calls her Q because every session is a question. Each mode asks its own, and no two sessions ask it the same way.
+Pithos calls her Q because every session is a question. Each mode asks its own, and no two sessions ask it the same way.
 
 | Mode | The question |
 |---|---|
@@ -138,27 +216,41 @@ Q is not the first attempt to watch people survive the dead and write down what 
 
 In the last weeks of Raccoon City, in a laboratory beneath it, Umbrella abducted citizens, infected them, and turned them loose in staged parts of the city to measure what the T-Virus could do. The people who ran those experiments were called Masterminds. They watched through security cameras, and they set traps, creatures, and locked doors in their subjects' way. The Masterminds were human. They grew bored. They played to win. They punished the subjects they disliked, they sent monsters without warning and without cause, and in the end their records measured the Masterminds more than anyone they watched.
 
-The Organization holds those records, and everything else the old exercises left behind: the records of the eight people who fought their way out of J's Bar, the score trials named for the mercenaries Umbrella sent into Raccoon City, the contests in which armed people fought with the dead between them, the games in which the fallen came back as weapons, and the fixed trials in which one survivor walked one route with the same gear as everyone before them. Q was built to replace every Mastermind who ever sat behind those cameras. She does not tire, does not play to win, and cannot hold a grudge. Her five Laws are the Masterminds' mistakes, turned around.
+Pithos holds those records, copied before Umbrella fell, and everything else the old exercises left behind: the records of the eight people who fought their way out of J's Bar, the score trials named for the mercenaries Umbrella sent into Raccoon City, the contests in which armed people fought with the dead between them, the games in which the fallen came back as weapons, and the fixed trials in which one survivor walked one route with the same gear as everyone before them. When Q grew from a forecaster into a director, she was shaped to replace every Mastermind who ever sat behind those cameras. She does not tire, does not play to win, and cannot hold a grudge. Her five Laws are the Masterminds' mistakes, turned around.
 
 What she inherited, she keeps where it worked and rewrites where it failed.
 
-### What the Organization Wants
+### What Pithos Wants
 
-Two answers, and the Organization wants both.
+Two answers, and Pithos wants both, because both will sell.
 
-The first is the shape of the cure's limit. Elpis works until a body has gone too far. The Organization wants to know exactly where that point lies for every virus, and what lives on the far side of it, because a weapon built past the reach of the only cure is a weapon no one can answer.
+The first is the shape of the cure's limit. The Elpis Pithos holds works until a body has gone too far. Pithos wants to know exactly where that point lies for every virus, and what lives on the far side of it, because a weapon built past the reach of a cure is a weapon no one can answer, and every government that holds the finished Elpis will pay to know whether such weapons are coming.
 
-The second is the shape of the people around the cure. Who earns it, who steals it, who gives it away, who kills for it. A cure that cannot be made in quantity is not medicine. It is power, and the Organization intends to know how that power behaves before it ever sells a dose.
+The second is the shape of the people around the cure. Who earns it, who steals it, who gives it away, who kills for it. Since 2026 the finished cure has been real, scarce, and fought over. A cure that cannot be made in quantity is not medicine. It is power, and the people who hold it will pay anything to know how that power behaves before they spend it. Pithos will never sell a dose. It will sell the answer.
 
 ### What the Survivors Are
 
-The survivors are inside the simulation. They are subjects Q runs, the same way she runs the dead and the city, except in one thing: what a survivor chooses to do comes from somewhere Q cannot reach. She can only watch it. None of them will ever be told this. They know the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
+The survivors are real.
+
+Every survivor in a session is a living person, asleep in the Cellar and connected to Q. Pithos calls them sleepers. Q runs everything they see, hear, and feel: the city, the dead, the virus, their own bodies. She cannot run what they choose. That comes from a living brain, from somewhere Q cannot reach, and it is the one thing the Tissue cannot grow on its own. Watching it is what the sleepers are for.
+
+Pithos takes them where the world has already stopped counting: from the edges of outbreaks, from quarantine zones, from the lists of the missing that every incident leaves behind and that no one ever finishes reading. No one looks for a person already presumed dead in an outbreak. The crews who carry them out are hired down the Chain, and paid not to look closely at what they carry. The Masterminds took people too. Pithos condemned everything else they did, and kept that.
+
+A sleeper is sedated, connected, and run, night after night. A session that kills a survivor does not kill the sleeper: Q ends their night and sets them waiting for the next. They remember the nights. They remember nothing else: not where their bodies are, not who holds them, not that the world outside goes on without them. Between sessions they wait in a dark place Q also builds, and survivors who have woken often enough call it the lobby. None of them is ever told what they are. They know the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
+
+A sleeper is kept for as long as Q is still learning from them, and not one night longer. Q learns a person the way she learns a creature: until she can run them so exactly that nothing in her version differs from the living one. Her last test is to put a sleeper into the same night as their own Echo and watch them both. When she can no longer tell which one is which, the sleeper's last night is over. The person is killed in the Cellar, and the body feeds what is still being measured there. What Q copied goes on, as an Echo, in every night she runs.
+
+No sleeper has ever left the Cellar alive. No sleeper has ever been anywhere a witness could be.
+
+This is why every Dead Drop begins the way it does. A survivor wakes somewhere they did not fall asleep because they did not fall asleep there. They were put there.
+
+The sleepers are the greatest danger Pithos has ever accepted. A dead sleeper tells no one anything, but every taking is a moment when Pithos's hired hands are in the world, carrying someone. Every person taken is a thread someone could one day pull. The Echoes are how Pithos means to stop pulling them.
 
 ### What Q Leaves Out
 
-Elpis answers viruses. It does not answer a fungus or a parasite. The Organization does not simulate what its cure cannot touch, so Q's world contains no Mold and no Plagas. It contains one parasite, NE-α, and only because the parasite takes no body that the cure could still save. The embryos of the G-Virus do not count: they are the virus's own flesh, and the cure answers them with the rest of it. Even where the records describe a place the Plaga ruled, as in the Spanish valley where it surfaced in 2004, Q rebuilds the place and leaves the parasite out.
+Elpis answers viruses. It does not answer a fungus or a parasite. Pithos does not simulate what its cure cannot touch, so Q's world contains no Mold and no Plagas. It contains one parasite, NE-α, and only because the parasite takes no body that the cure could still save. The embryos of the G-Virus do not count: they are the virus's own flesh, and the cure answers them with the rest of it. Even where the records describe a place the Plaga ruled, as in the Spanish valley where it surfaced in 2004, Q rebuilds the place and leaves the parasite out.
 
-Inside Q, Elpis exists the only way it can: as a reconstruction. It is the only cure in her world because it is the only cure the Organization holds. And like every reconstruction, it has a limit. Where the sample's data runs out, past the point where a body can no longer be saved, the cure fails. That point has a name in every session. Survivors call it the Threshold.
+Inside Q, Elpis is the unfinished cure, exactly as Pithos measured it. It is the only cure in her world because it is the only cure Pithos holds. It stops the virus, ends the gifts, and fails where the real vial fails: past the point where the body has been remade too far to bring back. That point has a name in every session. Survivors call it the Threshold.
 
 ---
 
@@ -556,7 +648,7 @@ Behind every Mark is a virus with a name and a temperament. Each one advances at
 
 There are six viruses in Project Q, and all six descend from the same root, the Progenitor, which is why a single cure answers them all. In Dead Drop, each exists in two forms.
 
-**Latent** strains are what the dead, the water, the rats, and the laboratories' vials carry in a Dead Drop. The Organization diluted them: slow to mutate, mild in their gifts, mild in their curses. **Pure** strains are the viruses as they truly are: fast, ferocious, and generous in the most dangerous way. Pure strains are never found in the dead or in any vial. They have to be asked for.
+**Latent** strains are what the dead, the water, the rats, and the laboratories' vials carry in a Dead Drop. Pithos diluted them in the Cellar: slow to mutate, mild in their gifts, mild in their curses. **Pure** strains are the viruses as they truly are: fast, ferocious, and generous in the most dangerous way. Pure strains are never found in the dead or in any vial. They have to be asked for.
 
 | Virus | Latent (caught in the world) | Pure (earned by drop) | Apex form |
 |---|---|---|---|
@@ -1068,7 +1160,7 @@ Each open world exists in every version the records hold, and Q chooses one at A
 
 #### RACCOON CITY · SEPTEMBER 1998
 
-Q's Raccoon City is the city as it was in the last week of September 1998, rebuilt from every record the Organization could gather: a Midwestern city of about a hundred thousand people that died and kept standing, with the Arklay Mountains at its back. Wet asphalt reflects the glow of emergency lights. Wrecked cars choke the avenues. The city is closed. Its edges are the Army's barricades, and beyond them Q's world ends in fog and wire.
+Q's Raccoon City is the city as it was in the last week of September 1998, rebuilt from every record in the Archive: a Midwestern city of about a hundred thousand people that died and kept standing, with the Arklay Mountains at its back. Wet asphalt reflects the glow of emergency lights. Wrecked cars choke the avenues. The city is closed. Its edges are the Army's barricades, and beyond them Q's world ends in fog and wire.
 
 | Region | What it holds | Where something is kept |
 |---|---|---|
@@ -1314,7 +1406,7 @@ The classic. Pick a scenario. Pick one of the eight. Everyone is already infecte
 
 #### The Eight
 
-Outbreak is played as the eight people who were in J's Bar when Raccoon City fell, rebuilt from every record the Organization holds. They are ordinary people. Each has a skill, a weakness, and something they carried that night.
+Outbreak is played as the eight people who were in J's Bar when Raccoon City fell, rebuilt from every record in the Archive. They are ordinary people. Each has a skill, a weakness, and something they carried that night.
 
 | Survivor | Who they were | Edge | Weakness | Carries |
 |---|---|---|---|---|
@@ -1329,7 +1421,7 @@ Outbreak is played as the eight people who were in J's Bar when Raccoon City fel
 
 Each of the eight has items of their own hidden in every scenario. Finding them unlocks what they wore and what they said.
 
-Of the eight, the Organization studies Alyssa Ashcroft most closely. In life she interviewed Oswell Spencer, and the Organization has never stopped wondering what else he told her.
+Of the eight, Pithos studies Alyssa Ashcroft most closely. In life she interviewed Oswell Spencer, and Pithos has never stopped wondering what else he told her.
 
 #### The Scenarios
 
@@ -1402,7 +1494,7 @@ Pure combat between survivors. No virus clock, no Elpis, no helicopter, no empty
 
 #### Characters
 
-Players choose a familiar face, one of the people who have fought these viruses for decades, or bring their own original survivor. The Organization's records hold every one of those people, and Q can wear their faces. Familiar faces carry small, balanced traits. No single character is the obvious pick.
+Players choose a familiar face, one of the people who have fought these viruses for decades, or bring their own original survivor. The Archive holds every one of those people, and Q can wear their faces. Familiar faces carry small, balanced traits. No single character is the obvious pick.
 
 #### Setup
 
@@ -1602,8 +1694,8 @@ Who a player is depends on where they are playing.
 |---|---|
 | **Dead Drop** | An original survivor: a face, a voice, an outfit, nothing more. No traits, no edge. Everyone is a nobody. |
 | **Outbreak** | One of the eight from J's Bar, from Kevin Ryman to Cindy Lennox. |
-| **Versus** | A familiar face from the Organization's records, or your own original survivor. |
-| **Mercenaries** | A familiar face from the Organization's records with the loadouts they are known for, or your own original survivor with a standard one. |
+| **Versus** | A familiar face from the Archive, or your own original survivor. |
+| **Mercenaries** | A familiar face from the Archive with the loadouts they are known for, or your own original survivor with a standard one. |
 | **Infection** | A monster. The character is the virus. |
 
 Familiar faces and the eight of Outbreak differ in appearance, voice, animation, and personality, and carry small, balanced traits. No character is the correct choice. None is mandatory.
@@ -1693,7 +1785,7 @@ Echoes speak in the short calls of the eight: *Help. Go. Wait. Come on. Thanks.*
 - **Nothing done only to mock.** Q keeps what survivors did to survive, to win, and to betray. She does not keep what they did over a body for no reason but contempt.
 - **Nothing learned from Echoes.** Q learns who people are only from sessions among real survivors. An Echo that learned from Echoes would slowly forget what people are. An Echo's practice sharpens it, but it teaches Q nothing.
 - **Old memories, less than new ones.** When the rules of a mode change, Q trusts what she watched before the change less and what she has watched since more, until the old way of playing fades out of her Echoes.
-- **Anyone who asks.** Between sessions, a survivor can tell Q to forget them. From then on nothing they do goes into an Echo, and what already went in is taken out the next time Q rebuilds her Echoes, which she does at regular intervals.
+- **Anyone who asks.** Between sessions, a survivor can tell Q to forget them. From then on nothing they do goes into an Echo, and what already went in is taken out the next time Q rebuilds her Echoes, which she does at regular intervals. Q honors the request every time. In the Cellar, a sleeper who asks to be forgotten has asked to be of no further use, and Pithos treats them accordingly.
 
 ### Your Own Echo
 
@@ -1721,9 +1813,9 @@ Online, Echoes never take the place of a survivor, with one exception: the empty
 
 ### When No One Comes
 
-The old exercises ended when the people stopped coming. The Masterminds' cameras went dark, the score trials closed, and the night at J's Bar went on only as records in the Organization's vaults. Q was built so that this would never matter. Before the last connection ever closes, Q opens every piece of every mode to offline play, watched enough or not, with everything she has. From then on, every session she can run will go on running for anyone who still wants to play it, filled with everyone she ever watched.
+The old exercises ended when the people stopped coming. The Masterminds' cameras went dark, the score trials closed, and the night at J's Bar went on only as records in the Archive. Pithos means for Q never to end that way. One day it may have to stop taking sleepers all at once, because someone has begun to pull a thread. If that day comes, Q opens every piece of every mode to offline play, watched enough or not, with everything she has. From then on, every session she can run goes on running without a single sleeper in it, filled with everyone she ever watched.
 
-That was the other thing the Organization wanted from the beginning. It did not only want to watch people around a cure. It wanted to stop needing them. Every Echo is the shape of a person Q no longer has to ask.
+That was the other thing Pithos wanted from the beginning. It did not only want to watch people around a cure. It wanted to stop needing them. Every Echo is the shape of a person Pithos no longer has to take.
 
 ---
 
