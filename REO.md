@@ -42,6 +42,7 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 | **Story night** | The Night | A night in a world that holds a story of the records, run in three acts |
 | **The Taken** | The Night | In the Valley of 2004, a survivor whose Plaga has taken their will: the Plaga's Turned |
 | **Thread / beat** | The Night | A person's path through a story night, and a moment the records hold on it |
+| **Live scene / Moment / the Reel** | The Night | A beat performed in the world while everyone keeps control; the few seconds of true cinema ΜΝΗΜΗ grants a survivor when nothing can reach them; and her record of the scenes a survivor witnessed, watched after the night |
 | **As recorded / rebuilt** | The Night | How a person or creature of the records is shown: exactly as its first record holds them, or as the latest record holds them |
 
 Lines set in monospace blocks are ΜΝΗΜΗ's own words: what she speaks into a session, exactly as survivors hear or read it, and the records she writes.
@@ -342,6 +343,8 @@ Between sessions they wait in a place ΜΝΗΜΗ also builds. Sleepers who have 
 | Casefiles and events | The forecast ΜΝΗΜΗ is rehearsing hardest this season, and what she gives sleepers for helping her fill it |
 | The Dossier and its Portrait | ΜΝΗΜΗ's file on a sleeper, and the one still she lets them arrange |
 | Early access to a new place | ΜΝΗΜΗ waking a few sleepers somewhere new before the rest |
+| Watching scenes again after a night | ΜΝΗΜΗ showing a sleeper what she recorded of what they saw, from wherever she likes to watch it |
+| Setting Moments to Grand only or Live only | Asking ΜΝΗΜΗ to hold your eyes only for what is rarest, or never, even for a few seconds |
 | Turning the classic looks off | Asking ΜΝΗΜΗ to show you only the people she has rebuilt. She keeps every account; she stops showing you the old ones. |
 
 None of them is ever told what they are. They know the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
@@ -1730,12 +1733,71 @@ The eight of Outbreak, who have one old record and no later one, are shown as re
 Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 2004 each hold a story, and a night in either is a **story night**. In the records those days happened once, in one order. In ΜΝΗΜΗ they happen every night, and never the same way twice. Every story night runs the whole story, from its beginning through its middle to its end. What happens inside it is decided by ΜΝΗΜΗ at Assembly and by everyone who lives through it.
 
 - **Acts.** A story night has three acts, each a stretch of the records' story, and the world marks each one as it opens: in Raccoon City, ΜΝΗΜΗ names the day; in the Valley, night falls, and then the island opens. Acts come in order and never overlap. The beginning is always the beginning, and the end is always the end.
-- **Threads.** Every person of the records follows a **thread**: the places the records took them, in the order they went, toward what they wanted. A thread is played, not shown. The person walks it in the world, among the survivors, at the speed of anyone, and anything can happen to them on it. Nothing in a story night is a cutscene.
+- **Threads.** Every person of the records follows a **thread**: the places the records took them, in the order they went, toward what they wanted. A thread is played, not shown. The person walks it in the world, among the survivors, at the speed of anyone, and anything can happen to them on it. Nothing in a story night is a cutscene, except the few seconds of a Moment (below).
 - **Beats.** A **beat** is a moment the records hold on a thread: Brad Vickers at the R.P.D. gate, Mikhail Victor's last stand, Kendo's shop falling. A beat happens only when everything it needs is in place: its people alive and where it happens, in the act it belongs to. Survivors can watch it, join it, or stop it. ΜΝΗΜΗ never forces one. A beat that cannot happen does not happen, and the night goes on without it.
 - **Found on their thread.** The records put their people in trouble often, and every trouble is a chance to help. A person helped on their thread can be asked along, under every companion rule. Taken along, they bring their thread with them: they ask to go where it leads, and its beats can still happen around them.
 - **What ΜΝΗΜΗ decides.** At Assembly she decides who is placed and which account each follows, where each thread begins among the places the records allow, which beats the night can hold, and how early or late in its act each thread runs. During the night she directs as always (Section 09). She never moves a beat out of its act, and she moves a person only through the world.
 - **What the survivors change.** Everything else. A survivor can pull Brad Vickers away from the gate, kill Nicholai Ginovaef before he betrays, take the key someone's thread needed, or bring down the street it runs along. When a thread breaks, its person does not stop. They do what their records say they would do with the world as it now is: they find another way to what they want, and meet whoever is on it. That is how the people of the records meet in ways the records never saw. Leon Kennedy, cut off from the R.P.D. by a collapse, runs into Jill Valentine in Uptown, and into what is hunting her.
 - **Arrivals.** People the records bring in from outside arrive when their act opens, by the road the records gave them. ΜΝΗΜΗ places them, and whatever they arrive in, on that road before the waking, inside her world but beyond every waking point (Section 09, First Law).
+
+#### Live Scenes
+
+Every beat is played as a **live scene**: a scene of the records performed in the world, in real time, among survivors who keep every bit of control they had a moment before. It has the weight of a cutscene and none of its safety. Nobody is protected while it plays, and nobody is made to watch, except for the few seconds of a Moment, which ΜΝΗΜΗ grants only when nothing can reach the survivor while it lasts (Moments, below).
+
+- **Nothing stops.** Outside a Moment, no control is taken, no camera cuts, no bars close the screen, nothing slows, and no one is spared. A survivor can turn away mid-line, draw, fire, run, or rob the stranger beside them. The people of the records can be shot in the middle of a sentence.
+- **The stage.** Every live scene has a stage: the space its actors play to. Anyone on the stage is in the scene. The actors see them, turn to them, and speak to them. Anyone who walks onto the stage later joins the scene where it stands, and the actors notice the arrival. Anyone who leaves the stage leaves the scene, and its lines fade as any voice does.
+- **Written for whoever is there.** Every scene is written for no one, for one survivor, for a few, and for a crowd. It has lines for the marked and the clean, for a stranger and for the survivor whose companion stands in it, and for whoever arrives late. ΜΝΗΜΗ plays the most particular line that fits the moment. A beat with no one on its stage still happens, and anyone near enough hears it.
+- **Short, and on the move.** No scene holds its actors still for more than about twenty seconds, and most last under a minute and a half. Longer talk is spoken on the move, as the people of the records walk their threads.
+- **Broken by anything.** A shot, a blow, the dead arriving, an actor going down: every scene is written with the ways it can break, as well as the way it ends. A line cut off stays cut off. If the danger passes within a minute, the actors pick up where they were, in their own words. If it does not, the scene is over, and the beat has happened, or failed, the way the survivors made it.
+- **Loud.** A scene is played at the volume of its actions (Section 15). Talk is a Murmur and a shout is a Clamor. A creature's entrance is Thunder. Staying to watch always costs something.
+- **Many hands.** A scene that needs a survivor takes whoever is nearest, and whoever acts first decides how it goes. Two strangers can be in the same scene and want opposite things.
+- **Attention.** A player may hold one input to ease their camera toward the scene's center, and let go to have it back at once. It never shows more than the survivor's own eyes could see (Section 27), and it is never applied for them.
+
+**Three scenes, as they play**
+
+| Scene | What a survivor sees | What can change it |
+|---|---|---|
+| **The Nemesis released** | A freight container in the Uptown rail yard shudders, then its doors blow off. The Nemesis steps down and stands for three seconds, turning its head across everyone in the yard, measuring. If Jill Valentine or Brad Vickers is there, it says one word, "S.T.A.R.S.," and the hunt begins. If neither is, it walks out through the yard toward wherever they are, and anyone in its path is thrown aside. | A survivor who fires on it is in its way from then on. A second survivor running in at the noise joins the scene mid-stride, between the Nemesis and its target. A survivor walking with Jill is now walking with what hunts her, and has seconds to decide whether they still are. |
+| **The crash** | A police cruiser comes down the road too fast, swerves, and goes into a tanker. Fire. Leon Kennedy climbs out on one side, Claire Redfield on the other, and they shout across the flames: meet at the police station. | A survivor on Leon's side is the one Leon calls to; one on Claire's side is Claire's. If the dead reach either of them first, the shouting becomes a fight. If no one is near, the street only hears an explosion. |
+| **Mikhail's last stand** | On the tram, the Nemesis tears through the rear door. Mikhail Victor, too wounded to stand straight, tells everyone to get out, and they have seconds. Then the explosives go. | Anyone still aboard dies with the tram's back half. A survivor who drags Mikhail off with them takes away his last stand, and the Nemesis rides on toward the Clock Tower. Survivors who put the Nemesis down before it reaches him keep Mikhail alive, and the records lose the moment. |
+
+#### Moments
+
+ΜΝΗΜΗ knows where everything in the night is: every survivor, every Turned, every one of the dead, how fast each can move, and what each is carrying (Section 09). That is what lets her do what no live game can safely do: cut to a cinematic in the middle of a crowded night without getting anyone killed by it. A **Moment** is a few seconds of true cinema, with the camera cut and control held, played for one survivor or a few, at the instant something worth it peaks: an entrance, a reveal, a death. What is worth it depends on how rare it is (Rarity, below).
+
+- **The safe window.** Before she raises a Moment, ΜΝΗΜΗ measures how long the survivor is safe: how soon anything that could hurt them could reach them or hit them, living, Turned, or dead, from where it stands, at its speed, with what it carries. A Moment is never longer than that window. If the window is too short, there is no Moment, and the scene plays live.
+- **Short, by design.** A Moment lasts three to twelve seconds. Every Moment is made in several lengths, and ΜΝΗΜΗ plays the longest that fits the window.
+- **Cut back.** If something enters the window that she could not foresee, such as a vehicle, a fall, or a grenade already in the air, the Moment ends at once, at its nearest cut, and the survivor has control again exactly where the scene left them.
+- **One event, many cameras.** A Moment changes how a survivor sees the night, never what happens in it. The server plays each event once. Every survivor in a Moment sees the same event from their own side, and everyone outside sees it live.
+- **Shared Moments.** Survivors on a scene's stage when it peaks share the Moment. None of them can act until it ends, and it ends for all of them at once. Any one of them may break out at any time, and breaking out ends it for everyone in it, so no one is ever left held while someone else is free.
+- **Arrival Moments.** A survivor who comes within sight of a scene already playing may get a Moment of their own: the reveal from where they stand. It is measured for them alone, against their own window.
+- **The camera's rule holds.** A Moment may frame its survivor from any angle, but it draws only what that survivor's own eyes could see (Section 27).
+- **The body barely moves.** A Moment may move its survivor a step: a flinch, a fall back, a turn of the head. It never moves them more than a couple of meters, through a door, or anywhere the live scene would not have put them.
+- **Every player's choice.** A player may set Moments to **On**, the default, **Grand only**, or **Live only**. A player who sees fewer Moments is still a threat like anyone else, so a Moment never starts for someone they could reach.
+
+**Rarity.** A Moment is worth exactly as much as what it shows is rare. A survivor meets a dozen Lickers for every Nemesis, and a cinematic every time would turn the rarest thing in the game into furniture. So Moments come in two sizes, and the commoner a thing is, the fewer it gets.
+
+| Size | What gets it | How long | How often |
+|---|---|---|---|
+| **Grand** | The named creatures and named hosts of the story nights, from the Nemesis and William Birkin to Del Lago, Salazar, Krauser, and Saddler; the peaks of beats, such as Mikhail Victor's last stand, the crash, Jill Valentine at the Clock Tower, and Luis Serra's end; a B.O.W. released by ΜΝΗΜΗ; a survivor's Apex rising | The longest version the safe window allows, up to twelve seconds, with cuts | Once for each survivor, the first time they see that creature or beat in a night. When a named creature rises again after being put down, it gets a Brief Moment at most. |
+| **Brief** | The first meeting in a night with each kind of special creature, such as a Licker, a Hunter, a Crimson Head, a Garrador, or a Regenerator | Two to four seconds, one camera move, no cut away from the survivor | Once per kind, per survivor, per night, and never within five minutes of that survivor's last Brief Moment |
+| **None** | The common dead, every meeting after the first, the Turned except an Apex, companions and the Stranded being found | — | Never. These are always live. |
+
+**The first time ever.** ΜΝΗΜΗ's file remembers what a sleeper has already seen. The first time a sleeper ever meets a kind of special creature, in any night, it gets a Grand Moment instead of a Brief one. That first Licker is a scene. The hundredth is a Licker.
+
+
+**Example: an alley, a Licker, and a roof.** A Solo night. B is in an alley in Downtown and has never met a Licker before, in any night. C is on a roof two buildings away and has met many.
+
+| Step | What B sees | What C sees | Why |
+|---|---|---|---|
+| 1 | B walks into the alley. Nothing that could hurt B is close enough to reach the alley in the next eight seconds. B's first Licker ever earns a Grand Moment: blood dripping, the camera tilting up, a Licker on the wall above. | C is outside the stage and sees nothing. C hears the Licker's shriek, a Clamor, from the next street. | The safe window holds for B. |
+| 2 | The Moment holds on the Licker as its tongue slides out toward B. | C runs for the roof's edge, and running is a Clamor. | C chose to go toward the sound. |
+| 3 | The Licker hunts by sound alone. The loudest thing near it is no longer B but the running on the roof, and B's Moment shows it turn its head away from B and up. | C reaches the edge. The Licker cannot reach the roof in the next six seconds, so C gets an Arrival Moment. C has met many Lickers, but none tonight, so it is Brief: one slow push past the roof's edge, down into the alley, at B and at the Licker's blind face turning toward C. | One event, two cameras. C's noise changed what the Licker did, and each survivor sees it from their own side. |
+| 4 | Both Moments end together. Live: the Licker goes up the wall toward C. B can run, shoot, or help. | Live: C has seconds before it reaches the roof. | The scene is live again for everyone. |
+
+Had C crept to the edge instead, in Hush, the Licker would never have turned. C would have arrived unseen and watched B's scene from above, live, with a choice to make. The next Licker either of them meets tonight gets no Moment at all.
+
+**The Reel.** No one gets to watch a live scene in safety, so ΜΝΗΜΗ keeps what each survivor witnessed. After the night, from the Waiting Dark, a player can watch every scene they were part of, from any angle, as it happened in their night, including the way it broke. Scenes a survivor only heard from afar are kept as sound. Nothing in the Reel can be bought, and nothing in it can be seen by anyone who was not there.
 
 #### The People of Raccoon City, 1998
 
@@ -2325,6 +2387,7 @@ EVENTS ENDURED ........... 6
 DISTANCE TRAVELED ........ 8.7 KM
 WOUNDS TAKEN ............. 11
 COMPANION ................ ROBERT KENDO · EXTRACTED
+SCENES WITNESSED ......... 2
 RIBBONS EARNED ........... 126
 FINAL RESULT ............. EXTRACTED · CURED
 ```
@@ -2510,7 +2573,7 @@ Every mode is played in third person, from over the shoulder. The camera can swa
 
 Third person is the choice because the body is the clock. A survivor's tremor, their limp, the hand pressed to their ribs, the way they stand at Fracture: all of it is information Resident Evil Online refuses to put on a screen as a number, so the player has to be able to see their own survivor.
 
-The camera never swings in front of the survivor.
+Outside a Moment (Section 20), the camera never swings in front of the survivor.
 
 ### The Camera Sees Only What the Survivor Sees
 
@@ -2545,6 +2608,14 @@ Companions and the Stranded run on the same kind of AI. Each unnamed Stranded sp
 Every person and named creature with a first account ships two bodies. The as-recorded body is built from the original game's own model and textures: the PlayStation for *Resident Evil 2* and *3*, the PlayStation 2 for *Outbreak*, the GameCube for *Resident Evil 4*. It is rigged to the modern skeleton, fitted to the modern body's proportions for people, and plays the modern animations. Its textures are shown unfiltered, as the originals were, and the RE Engine lights it like everything else. Collision, hit areas, the Mark, and every weak point come from the night, never from the old model. The work is rigging, fitting, and tuning on art Capcom already owns, not new art.
 
 The classic looks are a display setting in the Extras menu: **Classic looks: On** (the default) or **Rebuilt only**. The setting changes only what that player's own screen draws. It is free, it is never sold, it works offline, and it never changes what any person or creature does.
+
+### Live Scenes, in Practice
+
+A live scene runs on the server as a timeline that drives its actors. Each client receives a scene only while its survivor is in range, as it receives any other sound or sight, and a survivor who arrives late joins the timeline where it stands. Lines are written as many short pieces, and the server chooses each one by rules matched against who is on the stage, the way Valve's dynamic dialogue chose lines for the survivors of *Left 4 Dead*. Actors turn their heads, eyes, and hands toward whichever survivors they address. Every scene is performed once for each way it can end and once for each way it can break, so the number of branches is the main cost of the story nights, and it is budgeted scene by scene. The Reel stores each night's scenes as the server's own record, with no video, and is drawn again when a player opens it.
+
+### Moments, in Practice
+
+ΜΝΗΜΗ's safe window is computed on the server on every tick, from what the server already knows: positions, speeds, sightlines, weapons in hand, and the paths of the dead. It is measured with a margin for network delay. A Moment is a camera and animation layer drawn by the client over the one timeline the server runs, with a cut point about every second, so it can end the instant the window closes. Each Moment is made in several lengths. Grand Moments are made one by one, for each named creature and each beat; Brief Moments are made once for each kind of creature and reused wherever it is met, which keeps the commonest Moments the cheapest. Moments are the place where ΜΝΗΜΗ's knowledge of the whole night becomes a feature: no other director could cut to cinema in a crowd and promise it costs no one their life.
 
 ### Sound
 
