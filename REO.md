@@ -4,7 +4,7 @@
 
 > **ΜΝΗΜΗ remembers.**
 
-*Created by Johnny Kestler, with Claude (Anthropic). Generative AI was used in the creation and editing of this document.*
+*Resident Evil Online is a fan-made concept for an online Resident Evil game. It is an unofficial work by a fan, with no connection to Capcom or to anyone involved in the Resident Evil series. Resident Evil and its characters, places, and names belong to Capcom.*
 
 ---
 
@@ -22,20 +22,27 @@ The game is described in two registers, and they are kept apart on purpose.
 
 One rule binds them: **every feature of the Service has a face in the Night, and the Night states only the numbers of a single night.** How many survivors woke, how many doses the Reserve holds, how many seats wait: those belong to the night, and ΜΝΗΜΗ may say them. How many people are playing, how many sleepers the Cellar holds, how many nights a mode needs before it can be played alone: those belong to the Service, and the Night never names them. A matchmaking queue is, in the Night, ΜΝΗΜΗ assembling a night. A menu is the Waiting Dark. A cosmetic is how a sleeper is allowed to see themselves. A ranking is a page of the Ledger. The Service never speaks in the fiction's place.
 
-The player is a sleeper. Not a particular one: the sleeper is the role the player steps into, the way a reader steps into a narrator. The player's file, though, is particular, and in the Night a file can outlive the person it was opened for (Section 6). The Night never says whether the hand in the Waiting Dark is still the first one.
+The player is a sleeper. Not a particular one: the sleeper is the role the player steps into, the way a reader steps into a narrator. The player's file, though, is particular, and in the Night a file can outlive the person it was opened for (Section 06). The Night never says whether the hand in the Waiting Dark is still the first one.
 
 ### Terminology
 
 | Term | Register | Meaning |
 |---|---|---|
-| **Subject** | ΜΝΗΜΗ's voice | What she calls every survivor, Echo, and companion in a session |
+| **Subject** | ΜΝΗΜΗ's voice | What she calls every survivor, Echo, companion, and Stranded in a session |
 | **Survivor** | The Night | Anyone living inside a session, played by a sleeper or rebuilt by ΜΝΗΜΗ as an Echo |
 | **Sleeper** | The Night | The real person in the Cellar whose choices drive a survivor |
 | **Echo** | The Night | A survivor ΜΝΗΜΗ has rebuilt from the sleepers she watched |
 | **Companion** | The Night | A survivor from the records, played by ΜΝΗΜΗ, whom a sleeper can rescue and lead |
+| **Tie** | The Night | A bond the records hold between two people of the records: loyalty, command, distrust, enmity, use, or betrayal |
+| **Defector** | The Night | A companion who has turned on the living. ΜΝΗΜΗ plays them; they are no longer a companion and are not counted among a night's survivors |
+| **The Stranded** | The Night | People from the records whom ΜΝΗΜΗ places trapped in a Dead Drop and plays. Not counted among a night's survivors; any one of them can be freed, left, or taken along as a companion |
 | **The dead** | The Night | Everything the virus has taken that ΜΝΗΜΗ plays, including Turned bodies that kept no mind |
 | **Player** | The Service | The real person holding the controller. Used only when describing the Service |
 | **Session / night** | Both | One self-contained run of a mode |
+| **Story night** | The Night | A night in a world that holds a story of the records, run in three acts |
+| **The Taken** | The Night | In the Valley of 2004, a survivor whose Plaga has taken their will: the Plaga's Turned |
+| **Thread / beat** | The Night | A person's path through a story night, and a moment the records hold on it |
+| **As recorded / rebuilt** | The Night | How a person or creature of the records is shown: exactly as its first record holds them, or as the latest record holds them |
 
 Lines set in monospace blocks are ΜΝΗΜΗ's own words: what she speaks into a session, exactly as survivors hear or read it, and the records she writes.
 
@@ -89,7 +96,7 @@ Somewhere above all of it, something is paying very close attention, and it does
 
 **Resident Evil Online** is an online survival horror game built around one idea: *every session is a different nightmare, and the nightmare is directed.*
 
-It is not a campaign. There is no fixed route and no scripted set piece waiting at the end of a corridor. A survivor enters a session, fights to stay alive in a hostile world, completes objectives that may not exist five minutes from now, endures events no one can predict, and reaches a way out, or does not.
+It is not a campaign. There is no fixed route, and no scripted set piece that must happen. A survivor enters a session, fights to stay alive in a hostile world, completes objectives that may not exist five minutes from now, endures events no one can predict, and reaches a way out, or does not.
 
 It is not a shooter wearing a Resident Evil skin. In the survival modes, firearms are rare, ammunition is rarer, and pulling a trigger is one of the loudest things a survivor can do.
 
@@ -117,20 +124,20 @@ Every virus ΜΝΗΜΗ runs descends from one organism, and every part of her wo
 
 | Year | Event |
 |---|---|
-| 1966–1967 | Oswell E. Spencer, Edward Ashford, and James Marcus find the Progenitor virus in a West African flower the Ndipaya called the Stairway of the Sun. The virus can be cultivated only in the flower's native soil. |
+| 1966–1967 | Oswell E. Spencer, Edward Ashford, and James Marcus find the Progenitor virus in a West African flower the Ndipaya called the Stairway of the Sun. Flowers grown anywhere else never carry the virus, and no one ever learns why. |
 | 1968 | The three found Umbrella as a pharmaceutical front for Progenitor research. Ashford dies the same year, killed by the virus he was studying. |
 | 1978 | Marcus combines Progenitor with leech DNA and creates the **T-Virus**. |
 | Early 1980s | Alexia Ashford binds Progenitor to an ancient virus found in a queen ant and creates **T-Veronica**. Her father, Alexander, is its first human subject. He survives as the thing the Antarctic staff called Nosferatu. |
 | 1980s | Umbrella's Arklay laboratory builds the **Hunter** line: reptilian DNA bound into human embryos by the T-Virus. |
 | 1988 | Marcus is assassinated on Spencer's order by his own protégés, William Birkin and Albert Wesker. Umbrella Europe begins the Nemesis Project. |
-| 1988 onward | Birkin implants the Nemesis parasite, **NE-α**, into Umbrella's longest-held test subject, Lisa Trevor. Her body consumes it. From what it leaves behind, Birkin spends the next ten years developing the **G-Virus**. |
+| 1988 onward | Wesker and Birkin implant the Nemesis parasite, **NE-α**, into Umbrella's longest-held test subject, Lisa Trevor. Her body consumes it. From what it leaves behind, Birkin spends the next ten years developing the **G-Virus**. |
 | 1998 | Umbrella Europe implants NE-α into a T-103 Tyrant. The parasite takes no human host, but it takes a Tyrant. The result is the **Nemesis-T Type**. |
 | September 1998 | The T-Virus reaches Raccoon City. Birkin, shot by Umbrella's own soldiers, injects himself with the G-Virus. The city falls over a little more than a week. |
 | October 1, 1998 | At sunrise, a single missile destroys Raccoon City. |
 | 2003 | Umbrella collapses under the weight of the Raccoon Trials. Its research scatters to buyers, thieves, and successors. |
 | 2009 | In the old Ndipaya lands, Wesker and Tricell finish **Uroboros**, a strain that judges its host: it adapts to a few and consumes the rest. |
 | 2011 | Alex Wesker completes **T-Phobos**, a strain that sleeps until its host is afraid, and then rewrites them. |
-| 2012–2013 | Carla Radames builds the **C-Virus** from T-Veronica and G and turns it loose on the world through Neo-Umbrella. |
+| 2012–2013 | Carla Radames, who has been building it since 2001 from T-Veronica and G, turns the **C-Virus** loose on the world through Neo-Umbrella. |
 | 2026 | Beneath the ruins of Raccoon City, in the facility called ARK, Spencer's last creation is unsealed. |
 
 ---
@@ -209,7 +216,7 @@ Pithos knows almost everything. It does not know everything, and its first disci
 
 ΜΝΗΜΗ cannot simulate what she has never measured. A virus on paper is not a virus in a body. No record, however complete, says exactly how fast a wound becomes a fever in living flesh, or how far gone a body must be before a cure stops answering. So Pithos keeps one place where the war is real.
 
-The Cellar is a facility whose location no buyer, no broker, and few members have ever known. It holds every strain Pithos has collected: the T-Virus, G, T-Veronica, Uroboros, T-Phobos, the C-Virus, and the NE-α parasite. It holds living specimens of the creatures the records describe, kept from the lines the war left behind: Hunters, Lickers, the last of Umbrella's Tyrant stock. It designs nothing. Everything in the Cellar is something the world already made.
+The Cellar is a facility whose location no buyer, no broker, and few members have ever known. It holds every strain Pithos has collected: the T-Virus, G, T-Veronica, Uroboros, T-Phobos, the C-Virus, the NE-α parasite, and the Plaga. It holds living specimens of the creatures the records describe, kept from the lines the war left behind: Hunters, Lickers, the last of Umbrella's Tyrant stock. It designs nothing. Everything in the Cellar is something the world already made.
 
 Every creature in the Cellar lives to be copied. ΜΝΗΜΗ watches it hunt, heal, mutate, and die, and learns from it how the dead in her sessions should move. When she can run it so exactly that nothing in her version differs from the living one, the living one has no use left. It is destroyed where it stands and its remains are burned.
 
@@ -335,6 +342,7 @@ Between sessions they wait in a place ΜΝΗΜΗ also builds. Sleepers who have 
 | Casefiles and events | The forecast ΜΝΗΜΗ is rehearsing hardest this season, and what she gives sleepers for helping her fill it |
 | The Dossier and its Portrait | ΜΝΗΜΗ's file on a sleeper, and the one still she lets them arrange |
 | Early access to a new place | ΜΝΗΜΗ waking a few sleepers somewhere new before the rest |
+| Turning the classic looks off | Asking ΜΝΗΜΗ to show you only the people she has rebuilt. She keeps every account; she stops showing you the old ones. |
 
 None of them is ever told what they are. They know the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
 
@@ -361,9 +369,35 @@ This is why every Dead Drop begins the way it does. A survivor wakes somewhere t
 
 ## 07 · WHAT ΜΝΗΜΗ LEAVES OUT
 
-Elpis answers viruses. It does not answer a fungus or a parasite. Pithos does not simulate what its cure cannot touch, so ΜΝΗΜΗ's world contains no Mold and no Plagas. It contains one parasite, NE-α, and only because the parasite takes no body that the cure could still save. The embryos of the G-Virus do not count: they are the virus's own flesh, and the cure answers them with the rest of it. Even where the records describe a place the Plaga ruled, as in the Spanish valley where it surfaced in 2004, ΜΝΗΜΗ rebuilds the place and leaves the parasite out.
+Elpis answers viruses. It does not answer a fungus or a parasite. Pithos does not simulate what its cure cannot touch, so ΜΝΗΜΗ's world contains no Mold, and no Plaga but in one place: the Spanish valley where the Plaga surfaced in 2004 (The Plaga, below). Everywhere else it contains one parasite, NE-α, and only because the parasite takes no body that the cure could still save. The embryos of the G-Virus do not count: they are the virus's own flesh, and the cure answers them with the rest of it.
 
-Inside ΜΝΗΜΗ, Elpis is the unfinished cure, exactly as Pithos measured it. It is the only cure in her world because it is the only cure Pithos holds. It stops the virus, ends the gifts, and fails where the real vial fails: past the point where the body has been remade too far to bring back. That point has a name in every session. Survivors call it the Threshold.
+Inside ΜΝΗΜΗ, Elpis is the unfinished cure, exactly as Pithos measured it. It is the only cure for a virus in her world because it is the only one Pithos holds. It stops the virus, ends the gifts, and fails where the real vial fails: past the point where the body has been remade too far to bring back. That point has a name in every session. Survivors call it the Threshold.
+
+### The Plaga
+
+The Valley of 2004 is the one place in ΜΝΗΜΗ's world where the Plaga lives. It is also the one place where the records hold the Plaga's own cure: the machine Luis Serra built to burn a Plaga out of a living body, in a laboratory on the island. Pithos does not simulate what its cure cannot touch. In the Valley the cure stands in the world, so the parasite can too.
+
+Nothing of the viruses exists in the Valley: no strain map, no Elpis, no road, no Petition, no pure strain, no Parasite Drop. Everything below replaces them there, and only there.
+
+- **The hosts.** The villagers are Ganados, the castle's cultists are Zealots, and the island's soldiers are Ganados in uniform. All of them are living hosts of the Plaga, under the will of a dominant one. They keep their speech, their tools, and the habits of the people they were. They do not bite and they do not infect: a grab they win ends in a blow, not a bite. They fight, and they take.
+- **Being taken.** The cult wants hosts, not bodies. A survivor who goes down among the hosts is not killed but held while a host plants an egg in them. A few seconds later they are back on their feet, wounded, with a Plaga inside. A survivor who already carries one is killed instead. The deep galleries of the mines below the castle hold the Plaga's spores, and a survivor who stays in them for more than two minutes at a time is taken the same way.
+- **The stages.** The Plaga has its own clock, and it runs like the virus's: inside the body, with nothing on the screen.
+
+| Stage | About | The survivor feels | Others see or hear |
+|---|---|---|---|
+| **Egg** | Ten minutes | Nothing | Nothing |
+| **Hatched** | Fifteen minutes | A cough that tastes of blood | The cough, which is a Murmur |
+| **Grown** | Fifteen minutes | A voice that is not theirs, whenever a dominant host is near | Eyes that glow red in the dark |
+| **Taken** | — | Their will is gone | The Last Breaths (Section 13) |
+
+- **Seized.** A survivor whose Plaga is Grown, within sight of a dominant host (Bitores Mendez, Ramón Salazar, Jack Krauser, or Osmund Saddler), can be seized. For a few seconds the dominant host moves their body toward the nearest living person, as Saddler once moved Leon Kennedy's hands to Ada Wong's throat.
+- **Suppressant.** Luis Serra's suppressant, a pill or an injection, holds a Plaga back. Each dose sets its clock back ten minutes, never past the start of the stage it has reached. The night holds only what ΜΝΗΜΗ sets at Assembly, the **Suppressant Reserve**, which replaces the Elpis Reserve here. Luis carries some, and the rest lie where the records kept medicine: the castle's laboratory and Luis's own rooms.
+- **The machine.** In Luis's laboratory on the island, the removal machine burns a Plaga out of a living body. It takes two people: one lies in it, and another works it. It works on one patient at a time, for about thirty seconds, and the patient's screaming is a Clamor. An Egg or a Hatched Plaga comes out clean. A Grown Plaga comes out too, but the patient comes out down and must be raised. A Taken host is past it.
+- **The Taken.** At the end of Grown, the Plaga takes the will. The **Taken** are the Valley's Turned, and Section 13 applies to them, except for what they become. Every Plaga host keeps a mind, so a Taken sleeper always plays on, on the side of the hosts, under the Turned's win conditions. They rise where they stood, as a Ganado in the village, a Zealot in the castle, or a soldier on the island.
+- **After dark.** From the second act, when night falls, a host shot through the head may not stay down. Its Plaga bursts from the neck as a scythe, a jaw, or a spider that drops away and goes looking for another host. A flashbang kills an exposed Plaga outright.
+- **Surge.** A Surge in the Valley quickens every Plaga in the region by about five minutes, instead of contaminating it. Nothing else of Section 09 changes.
+- **Saddler's death.** When Osmund Saddler dies, every Plaga in the Valley dies with him, and so does every host still carrying one: Ganados, Zealots, soldiers, the Taken, and every survivor or companion whose Plaga the machine has not burned out. Only those the machine has cleared, and those never taken, live through it.
+- **Results.** A survivor who leaves with a Plaga is **Extracted · Infected**, one the machine cleared is **Extracted · Cured**, and one never taken is **Extracted · Clean**.
 
 ---
 
@@ -388,7 +422,7 @@ Dead Drop and Outbreak are the **survival modes**: the infection clock, Elpis, t
 ### The Lifecycle of a Dead Drop
 
 1. **Request.** A sleeper asks ΜΝΗΜΗ for a night, alone or with their squad.
-2. **Assembly.** ΜΝΗΜΗ selects the map and its version and builds the session: condition, strain map, Elpis Reserve, ways out and seats, threats, resources, companions, puzzles. Then she places every subject at a waking point.
+2. **Assembly.** ΜΝΗΜΗ selects the map, its version, and, for a story night, its threads and beats, and builds the session: condition, strain map, Elpis Reserve, ways out and seats, threats, resources, companions, the Stranded, puzzles. Then she places every subject at a waking point.
 3. **The Waking.** Each survivor wakes where ΜΝΗΜΗ put them, clean, alone, and empty-handed.
 4. **Observation.** ΜΝΗΜΗ watches everything from the first footstep. Survivors choose: cooperate, separate, hide, hunt, betray.
 5. **Infection.** The first survivors are bitten, scratched, or needled. Their Marks rise and their clocks start.
@@ -408,7 +442,7 @@ There is no cabin, no drop, no jump to choose. Before the simulation starts, whi
 ΜΝΗΜΗ chooses each waking point from hundreds built into every map, at random, within one rule: **equal ground.** No survivor begins with an advantage that came from where they were put.
 
 - **Clean and empty.** Every waking point is sheltered and free of the dead at the moment of waking. Nothing within reach is better than an improvised weapon: a pipe, a bat, a kitchen knife. No firearm, ammunition, or medicine lies in the room.
-- **The same distance from everything that matters.** No waking point is near an armory, a vault, a laboratory, a safe room, a way out, or a companion. Each lies about as far from its nearest one as every other point does from theirs.
+- **The same distance from everything that matters.** No waking point is near an armory, a vault, a laboratory, a safe room, a way out, a companion, or one of the Stranded. Each lies about as far from its nearest one as every other point does from theirs.
 - **The same first danger.** Every waking point starts in a region at Low threat, with the same density of the dead around it.
 - **Never shared.** No two survivors from different squads wake within sight or earshot of each other.
 - **Squads together, but not in one room.** Members of a squad wake in the same building or on the same block, each in a different room, close enough to find one another by sound.
@@ -463,7 +497,7 @@ Survivors call what follows the Second Night.
 
 **The private voice** goes through the Mark, behind one survivor's eyes, and no one else hears it. Strains are named this way, and Trials arrive this way. A survivor who has never been marked cannot hear her private voice at all. A cured survivor still can: the scar carries her voice as the Mark did, though she has far less left to say to them.
 
-ΜΝΗΜΗ never lies in either voice. Everything she says is true. The world, however, can be wrong. A radio broadcast, a beacon, a note on a wall, another survivor: none of these are ΜΝΗΜΗ, and any of them can lead somewhere that was never safe. When ΜΝΗΜΗ orders a survivor to investigate a signal, she promises that the signal exists, not that its source is kind.
+ΜΝΗΜΗ never lies in either voice. Everything she says is true. The world, however, can be wrong. A radio broadcast, a beacon, a note on a wall, another survivor, one of the Stranded: none of these are ΜΝΗΜΗ, and any of them can lead somewhere that was never safe. When ΜΝΗΜΗ orders a survivor to investigate a signal, she promises that the signal exists, not that its source is kind.
 
 ### What She Sees
 
@@ -482,7 +516,7 @@ Within a session, ΜΝΗΜΗ knows:
 
 Every tool she has works through something already in the world. She can:
 
-- place every subject at a waking point before the simulation begins;
+- place every survivor at a waking point, every companion and Stranded where they wait, and every person of a story night where their thread begins, before the simulation begins;
 - seed each region with a strain before the simulation begins;
 - create, alter, or remove objectives;
 - impose temporary restrictions;
@@ -506,7 +540,7 @@ Above all, ΜΝΗΜΗ does not simply make things harder. She changes **the natu
 **First Law: Every consequence has a visible cause.**
 She works through the world, not around it. She does not teleport monsters into a survivor's face. She makes noise travel, lets signals draw attention, opens routes the dead can use, unseals the cages that were already there. When something terrible happens, a survivor should be able to think: *I fired a shot, so they came.* Never: *she hates me.*
 
-The only things she places directly are what exists before a session begins: the survivors at their waking points, the strains in their regions, the armed and the dead in a compact map's corners. Once the first survivor opens their eyes, nothing appears that was not already there.
+The only things she places directly are what exists before a session begins: the survivors at their waking points, the companions and the Stranded where they wait, the people of a story night where their threads begin, the strains in their regions, the armed and the dead in a compact map's corners. Once the first survivor opens their eyes, nothing appears that was not already there.
 
 **Second Law: Pressure falls on places. Rewards follow deeds.**
 When she applies pressure, she reads regions and situations, not people: districts that have grown stagnant, stockpiles that have grown fat, standoffs that have grown still. She does not persecute the winning survivor or rescue the losing one.
@@ -533,7 +567,7 @@ Every change to the rules, the routes, the objectives, or the ways out is announ
 | **Crisis** | There is no good option | Triggers a major event or a high-tier threat |
 | **Aftermath** | Relief, loss, recalculation | Backs off. Lowers the region's threat. Lets survivors count what they have left. |
 
-A Crisis must be earned by what came before it, and a release must be real. She never starts a second Crisis in a region that has not had its Aftermath. Survivors can still make one: a gunfight, a Turn, a bell rung in the wrong place. Those are theirs, and she lets them happen. Over a whole night she releases no more than one B.O.W. for every thirty-two survivors, never two at once, and never into a region still in its Aftermath.
+A Crisis must be earned by what came before it, and a release must be real. She never starts a second Crisis in a region that has not had its Aftermath. Survivors can still make one: a gunfight, a Turn, a bell rung in the wrong place. Those are theirs, and she lets them happen. Over a whole night she releases no more than one B.O.W. for every thirty-two survivors, never two at once, and never into a region still in its Aftermath. The named creatures of the story nights do not count against this: their beats release them (Section 20).
 
 The single exception to the rhythm is the extraction signal. It may rise in the middle of a Crisis. The end does not wait for anyone to catch their breath.
 
@@ -601,7 +635,7 @@ In Dead Drop, there are five ways to stop being clean.
 | **The city itself** | Water drawn from the taps of an infected region, or a bite from the rats in its sewers | The strain of the region |
 | **A Surge** | Staying in a region ΜΝΗΜΗ has contaminated, past her warning | The strain of the region |
 
-The needle is the quietest weapon in the game: no noise, no blood, and a victim who may not know for a minute what was done to them. Latent vials are found only in laboratory spaces: NEST, the hospital's hidden floors, the university's research wing, the Army's field laboratory, the BSAA depot, the castle's dungeons. They are rare, and survivors who find them learn quickly that a vial is worth more in a pocket than a bandage.
+The needle is the quietest weapon in the game: no noise, no blood, and a victim who may not know for a minute what was done to them. Latent vials are found only in laboratory spaces: NEST, the hospital's hidden floors, the university's research wing, the Army's field laboratory, the BSAA depot. They are rare, and survivors who find them learn quickly that a vial is worth more in a pocket than a bandage.
 
 A survivor who is already infected cannot be infected again by a second strain. The first virus to arrive keeps the body. Only a pure strain, Embraced on purpose, can take it from the first.
 
@@ -609,7 +643,7 @@ A survivor who is already infected cannot be infected again by a second strain. 
 
 Before the simulation begins, ΜΝΗΜΗ seeds each region of the map with one of the six strains. The dead made in a region carry its strain, and so do its water and its rats. Some regions share a strain, and every map holds at least three.
 
-Each version of a map leans toward the virus the records put there. In the Raccoon City of September 1998, the T-Virus holds the heart of the city and the G-Virus holds the laboratory beneath it. Every night, ΜΝΗΜΗ seeds at least a third of the city's regions with strains that can leave a mind, T-Veronica, T-Phobos, or the C-Virus, so that even in the city the T-Virus took, some of the Turned remember who they were. A survivor who has learned to read the dead knows before they are ever bitten what each district will give them, and chooses their streets by it. The strain map is never announced. It is learned by watching how the dead behave and by reading the Marks of those who were bitten there.
+Each version of a map leans toward the virus the records put there. The Valley of 2004 has no strain map: its infection is the Plaga (Section 07). In the Raccoon City of September 1998, the T-Virus holds the heart of the city and the G-Virus holds the laboratory beneath it. Every night, ΜΝΗΜΗ seeds at least a third of the city's regions with strains that can leave a mind, T-Veronica, T-Phobos, or the C-Virus, so that even in the city the T-Virus took, some of the Turned remember who they were. A survivor who has learned to read the dead knows before they are ever bitten what each district will give them, and chooses their streets by it. The strain map is never announced. It is learned by watching how the dead behave and by reading the Marks of those who were bitten there.
 
 ### The Stages
 
@@ -639,7 +673,7 @@ At any pace, Seed takes roughly the first quarter of the clock, Fever runs to ju
 
 **What does not slow it.** Nothing a survivor can do. Bandages close wounds but do not touch the virus. Rest does not slow it. Hiding does not slow it. Only Elpis ends it. The one exception belongs to the strain, not the survivor: T-Phobos sleeps while its carrier is calm.
 
-**What ΜΝΗΜΗ can do.** She can never slow the virus. She can only quicken it. When stagnation in a region has defeated every gentler measure, she may Surge it: the virus jumps forward by about five minutes of the clock in every infected survivor standing there, and the region is contaminated (Section 9). It is never silent.
+**What ΜΝΗΜΗ can do.** She can never slow the virus. She can only quicken it. When stagnation in a region has defeated every gentler measure, she may Surge it: the virus jumps forward by about five minutes of the clock in every infected survivor standing there, and the region is contaminated (Section 09). It is never silent.
 
 ```
 ΜΝΗΜΗ: VIRAL ACTIVITY INCREASING IN THIS DISTRICT.
@@ -826,11 +860,11 @@ A survivor who Embraces a strain always rises as its Apex form, the strongest th
 
 Elpis can still end an Embrace, but only before the Threshold, and an Embrace leaves very little time. It strips the gifts away with the virus.
 
-### The Dark Drop
+### The Parasite Drop
 
 The T-Virus alone makes a Tyrant. What makes a Nemesis is the NE-α parasite, Umbrella Europe's attempt to give a bioweapon a second brain and a hunter's single purpose. No human body survives it. A Tyrant's does.
 
-The parasite never grows inside any body in ΜΝΗΜΗ's world. She delivers it, and she delivers it once per session, to the first survivor in a Dead Drop who rises as a Tyrant-class.
+The parasite never grows inside any body in ΜΝΗΜΗ's world. She delivers it, and she delivers it once per session, to the first survivor in a Dead Drop who rises as a Tyrant-class. The one exception is a Raccoon City of 1998 in which she has placed the Nemesis of the records: it is that night's NE-α, and there is no Parasite Drop (Section 20).
 
 ```
 ΜΝΗΜΗ: NE-α DEPLOYED.
@@ -981,7 +1015,7 @@ Some ways out check who boards. Military and Umbrella-built ways out were made t
 | Way out | Where | Seats | What it asks | Checks |
 |---|---|---|---|---|
 | **The Emergency Train** | Deep under the city, in NEST, reached from the R.P.D.'s underground. The train Leon Kennedy, Claire Redfield, and Sherry Birkin rode out of the laboratory. | 8 | The laboratory's voice counts down to self-destruct once the platform is powered. The train leaves when the count ends, full or not. | A bioscan arch at the carriage door: no black Mark passes |
-| **The Factory Helicopter** | The disposal factory on the Industrial Edge. The helicopter that carried Jill Valentine and Carlos Oliveira out before the missile. | 4 | Nothing but getting there. It is the farthest point from everything else. | None |
+| **The Factory Helicopter** | The disposal factory on the Industrial Edge. Where, in the first account, a helicopter carried Jill Valentine and Carlos Oliveira out before the missile. | 4 | Nothing but getting there. It is the farthest point from everything else. | None |
 | **The Clock Tower** | St. Michael Clock Tower, in Raccoon Park | 4 | Someone must ring the bell to call the helicopter, and the bell is Thunder. What the bell draws has brought a helicopter down here before. If the helicopter falls, its seats are gone. | None |
 | **The Rooftop** | The roof of the R.P.D. A pickup meant for a single operative who made it up from below. | 2 | A flare, lit on the roof. The helicopter does not land; it hovers. | The crewman at the door will not take a hand with a black Mark |
 | **The Subway** | A Kite Bros Railway car, in the tunnels beneath Uptown | 10 | Power restored at the substation and the points thrown at the junction: two levers, far apart, pulled within seconds of each other | None |
@@ -996,15 +1030,16 @@ Some ways out check who boards. Military and Umbrella-built ways out were made t
 | **The Culvert** | A storm drain beneath the wall, its grille cut long ago, with a smuggler's boat waiting at the outflow | 5 | Clearing the flooded drain, which the oldest dead in the city have made their home | None |
 | **The Breach** | A collapsed stretch of the wall, where a rope ladder hangs on the outside | 3 | Nothing but the climb, which is slow, loud, and exposed | None |
 
-**The Village and the Castle · Autumn 2004** *(40 to 64 survivors · 20 seats built)*
+**The Valley · Autumn 2004** *(64 to 100 survivors · 28 seats built)*
 
 | Way out | Where | Seats | What it asks | Checks |
 |---|---|---|---|---|
-| **The Jet Ski** | A sea cave beneath the castle cliffs. The way Leon Kennedy and Ashley Graham got off that coast. | 2 | The cave's sea gate raised from the castle above | None |
-| **The Tower Helicopter** | The highest tower of the castle. A pilot who leaves the moment the rotors are up to speed. | 2 | Climbing the castle, which was built to keep people out | The pilot checks necks, as the Checkpoint does |
-| **The Motorboat** | The lake, out through the river at its southern end | 6 | Fuel, and crossing the lake, which is deep and not empty | None |
+| **The Motorboat** | The lake, out through the river at its southern end | 6 | Fuel, and crossing the lake, which Del Lago holds for as long as it lives | None |
 | **The Cable Car** | Across the gorge, to the road out of the valley | 4 | The machine house's power restored. The car crosses slowly, in the open. | None |
-| **The Mine Cart** | The rail line through the mines below the castle, out to the mouth of the valley | 6 | The points set along the line. Whatever lives in the mines hears the cart coming. | None |
+| **The Mine Cart** | The rail line through the mines below the castle, out to the mouth of the valley | 6 | The points set along the line, and a ride through the spore galleries. Whatever lives in the mines hears the cart coming. | None |
+| **The Tower Helicopter** | The highest tower of the castle. A pilot who leaves the moment the rotors are up to speed. | 2 | Climbing the castle, which was built to keep people out | The pilot looks every passenger in the eye: no red glow passes |
+| **Mike's Helicopter** | The island's military base. The helicopter Ingrid Hunnigan sent, which in the records was brought down. | 8 | The anti-aircraft guns silenced. Mike lands only where no one is shooting at him. If he is brought down, his seats are gone. | None |
+| **The Jet Ski** | The underground dock beneath the island. The way Leon Kennedy and Ashley Graham got off the island. | 2 | Its key. Ada Wong throws it to whoever stands at the dock when Saddler dies; if no one does, it hangs by the dock. | None |
 
 ### The Signal
 
@@ -1023,7 +1058,7 @@ From the moment the signal is raised, the world goes into Frenzy. The dead conve
 
 ### The Boarding
 
-A way out carries anyone living who reaches it, until its seats are full. A companion takes a seat like anyone else. Where a way out checks, it checks at the door, and whoever it turns back stays on the ground.
+A way out carries anyone living who reaches it, until its seats are full. A companion or one of the Stranded takes a seat like anyone else. Where a way out checks, it checks at the door, and whoever it turns back stays on the ground.
 
 Seats are judged at departure, not at boarding. A survivor aboard whose Mark turns black before the way out leaves has crossed the Threshold in a seat, and the Turn comes twenty to forty seconds later, among everyone else aboard. Where a way out checks, the check acts again: the crew throws them out, the scanner opens the door and sounds, and the seat is open. Where it does not, the living aboard must decide, in the Last Breaths, whether to put them off, put them down, or stay beside them through the Turn. A Turned body cannot ride. If the Turn completes aboard, the thing it makes is thrown out at departure and the seat leaves empty. A Turned that kept its mind lands where the way out left it and goes on playing; one without a mind is Lost.
 
@@ -1047,6 +1082,8 @@ REASON: LANDING ZONE COMPROMISED.
 When a way out leaves, every survivor aboard it wins. The session ends when the last way out she opened has left. Survivors left behind, and any Turned still standing, do not win.
 
 If every way out leaves with no survivor aboard while living survivors remain somewhere in the world, the session does not end. The night goes on, and ΜΝΗΜΗ opens another way out when she judges it time. If no living survivor remains anywhere, the session ends there: the Turned win if any of them is still standing, and otherwise no one does.
+
+In the Raccoon City of 1998, the missile ends the night instead (Section 20, The Last Morning). In the Valley of 2004, the island's end does (Section 20, The Island's End).
 
 ---
 
@@ -1090,7 +1127,7 @@ The majority of the creatures in any session. Zombies are slow, relentless, and 
 
 ### B.O.W. Events
 
-The most dangerous creatures in the world are not common. They are **events.** A Nemesis does not roam every session. A Tyrant is not waiting in every basement. When a region has built toward Crisis and ΜΝΗΜΗ judges the moment, one is released.
+The most dangerous creatures in the world are not common. They are **events.** A Nemesis does not roam every session. A Tyrant is not waiting in every basement. When a region has built toward Crisis and ΜΝΗΜΗ judges the moment, one is released. The named creatures of the story nights are the exception: their beats release them (Section 20).
 
 ```
 ΜΝΗΜΗ: EXTREME THREAT DETECTED.
@@ -1185,7 +1222,7 @@ Most objectives are announced in ΜΝΗΜΗ's public voice, to anyone who can he
 | **LOCATE** | Find a specific item |
 | **ACTIVATE** | Restore power or systems in a region |
 | **RECOVER** | Retrieve a vital resource |
-| **RESCUE** | Find someone who needs help |
+| **RESCUE** | Find someone who needs help: a companion or one of the Stranded |
 | **ESCAPE** | Reach a specific point |
 | **DEFEND** | Protect a location for a set time |
 | **INVESTIGATE** | Trace the source of a signal |
@@ -1249,7 +1286,7 @@ A vault behind a lock built for two always holds enough for two, and when the tw
 
 **STRAIN DROP.** A pure strain falls under a red strobe.
 
-**DARK DROP.** A parasite falls without light.
+**PARASITE DROP.** A parasite falls without light.
 
 **EXTRACTION SIGNAL.** Columns of white light over every way out.
 
@@ -1279,11 +1316,11 @@ Each world is a few square kilometers of dense streets, buildings, and tunnels: 
 |---|---|---|---|
 | **Raccoon City** | September 1998 | 40 to 100 | The city in its last week, during the outbreak, before the missile |
 | **Raccoon City** | Ruins, 2026 | 40 to 64 | The same city twenty-eight years later, walled, cratered, and still not empty |
-| **The Village and the Castle** | Autumn 2004 | 40 to 64 | A valley in rural Spain, its village, farms, lake, church, and the castle above the sea |
+| **The Valley** | Autumn 2004 | 64 to 100 | A valley in rural Spain, its village, the castle above the sea, and the island beyond. Not at launch. |
 
 #### RACCOON CITY · SEPTEMBER 1998
 
-The city as it was in its last week, rebuilt from every record in the Archive: a Midwestern city of about a hundred thousand people that died and kept standing, with the Arklay Mountains at its back. Wet asphalt reflects the glow of emergency lights. Wrecked cars choke the avenues. The city is closed. Its edges are the Army's barricades, and beyond them ΜΝΗΜΗ's world ends in fog and wire.
+The city as it was in its last week, rebuilt from every record in the Archive: a Midwestern city of about a hundred thousand people that died and kept standing, with the Arklay Mountains at its back. Wet asphalt reflects the glow of emergency lights. Wrecked cars choke the avenues. The city is closed. Its edges are the Army's barricades, and beyond them ΜΝΗΜΗ's world ends in fog and wire. Each night runs the city's last three days and ends with the missile (Section 20).
 
 | Region | What it holds | Where something is kept |
 |---|---|---|
@@ -1314,23 +1351,47 @@ The dead here are old. Some have been dead since 1998, and the virus in them has
 | **Raccoon Park** | The park grown wild, the cemetery, the clock tower without its clock | The flooded maintenance building under the cemetery |
 | **The Underground** | Flooded sewers, the culvert, collapsed tunnels, what is left of NEST | The sealed sectors of NEST |
 
-#### THE VILLAGE AND THE CASTLE · AUTUMN 2004
+#### THE VALLEY · AUTUMN 2004
 
-A valley in rural Spain: a village of stone houses around a plaza, farms and a quarry, a deep lake, a church on the hill, and above it all, on the cliffs over the sea, a castle. The island off the coast is not part of ΜΝΗΜΗ's world. It ends at the castle's sea wall.
+*The Valley is not in the game at launch. It arrives after the Opening (Section 33).*
 
-In the records, the people of this valley carried the Plaga. ΜΝΗΜΗ leaves the parasite out. The villagers who walk the valley carry her viruses instead, most of them the C-Virus. Most are its common dead: the virus took them quickly, and what is left keeps the habits of the people they were. They still move in groups, still carry pitchforks, sickles, and axes, and still call to one another in a language most survivors do not speak, though nothing they say means anything now. Where the threat rises to High, J'avo lead them, and the J'avo still mean what they say.
+A valley in rural Spain and the sea beyond it, rebuilt as the records hold them: a village of stone houses around a plaza, farms, a quarry, a deep lake, and a church on the hill. Above it all, on the cliffs over the sea, stands the castle of the Salazar family. Offshore is the island where Los Iluminados keep their laboratories and their soldiers. It is the largest of the Dead Drop worlds, and the only one that holds the Plaga (Section 07).
 
-| Region | What it holds | Where something is kept |
+It is one world in three parts, and the story decides when each part opens. Every survivor wakes in the village. The castle and the island are in the world from the first minute, in sight across the valley and the water, and closed. Each part opens with a beat of the story (Section 20). If no one makes that beat happen, it opens at the latest moment the story allows.
+
+| Part | Opens | At the latest |
 |---|---|---|
-| **The Village** | The plaza, the stone houses, the chief's manor | The manor's cellar |
-| **The Farm** | Fields, barns, a cattle pen, a well | A barn with its doors chained shut |
-| **The Quarry** | The quarry, the ravine below it, machine sheds | The explosives store |
-| **The Lake** | The deep lake, its boathouse, the caves and the waterfall | The flooded caves |
-| **The Church** | The church on the hill and its graveyard | The crypt |
-| **The Gorge** | The cable car and its machine house, the cliff paths | The machine house's lower floor |
-| **The Castle** | Gates, courtyards, great halls, the treasury, the clock tower, the mines below, the sea cave beneath | The castle's dungeons |
+| **The village** | At the waking | — |
+| **The castle** | When Bitores Mendez's false eye is held to the retinal scanner at the castle gate | At the forty-fifth minute, when the Zealots lower the drawbridge to come down into the village |
+| **The island** | When someone takes the boat key Ada Wong leaves at the castle dock after Ramón Salazar dies | At the signal, when the cult's boats put in at the castle dock to carry the last hosts across to Saddler |
 
-The church bell still works. Ringing it is Thunder across the whole valley.
+Once the island is open, the boats at the castle dock carry anyone across, over open water.
+
+| Part | Region | What it holds | Where something is kept |
+|---|---|---|---|
+| Village | **The Road** | The forest road in, the hunter's lodge, the bridge over the ravine | The lodge's basement |
+| Village | **The Village** | The plaza and its watchtower, the stone houses, the town hall, the chief's manor | The manor's cellar |
+| Village | **The Farm** | Fields, barns, the cattle pen, the well, the villa at its edge | A barn with its doors chained shut |
+| Village | **The Valley Road** | The old factory where captives are chained, the boulder path, the tunnel | The factory's back room |
+| Village | **The Lake** | The deep lake, the boathouse, the fish farm, the shrines, the caves, and the waterfall | The lake itself |
+| Village | **The Quarry** | The quarry, its machine sheds, the ravine below | The gate in the quarry wall |
+| Village | **The Church** | The church on the hill and its graveyard | The crypt |
+| Village | **The Checkpoint** | The road up to the castle, the cliff walkway, the slaughterhouse | The slaughterhouse pens |
+| Village | **The Gorge** | The cable car and its machine house, the cliff paths | The machine house's lower floor |
+| Castle | **The Gates** | The drawbridge, the retinal-scan gate, the catapults, the battlements and their cannon | The cannon tower |
+| Castle | **The Halls** | The audience chamber, the dining hall, the gallery, the ballroom, the grand hall, the throne room, the clock tower | The ballroom's nest |
+| Castle | **The Gardens** | The courtyards and the hedge maze | The kennels |
+| Castle | **The Library** | The library and the mausoleum | The suits of armor |
+| Castle | **The Dungeon** | The cells, the wine cellar, the bindery | The cells |
+| Castle | **The Depths** | The laboratory, the sewers, the mines and their spore galleries, the blast furnace, the ancient chantry | The laboratory |
+| Castle | **The Sea Cave** | The cave beneath the cliffs and the castle dock | — |
+| Island | **The Coast** | The wharf, the rocky coast, the radio tower | — |
+| Island | **The Facilities** | The holding cells, the waste disposal, the storeroom where the Amber was kept, the crane yard | The holding cells |
+| Island | **The Ruins** | Krauser's camp, the trapped ruins, the caves below them | The caves |
+| Island | **The Summit** | The military base and its anti-aircraft guns, the sanctuary, Luis's laboratory and its machine, the comms facility | The base's pens |
+| Island | **The Docks** | The construction site and its cranes, the loading docks, the underground dock | — |
+
+The church bell still works. Ringing it is Thunder across the whole valley, and every host who hears it walks to the church, as the records say they did.
 
 ### The Compact Maps
 
@@ -1359,13 +1420,13 @@ Each compact map is a single piece of Raccoon City and the land around it, as th
 |---|---|---|---|---|---|---|
 | Raccoon City, 1998 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Raccoon City Ruins, 2026 | ✓ | ✓ | ✓ | — | — | ✓ |
-| The Village and the Castle, 2004 | ✓ | ✓ | ✓ | ✓ | — | ✓ |
+| The Valley, 2004 | ✓ | ✓ | ✓ | ✓ | — | ✓ |
 | The Hospital | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | The Laboratory | — | — | — | ✓ | ✓ | ✓ |
 | The Military Base | ✓ | ✓ | ✓ | ✓ | — | ✓ |
 | The Metro | — | — | — | ✓ | ✓ | ✓ |
 
-The ruins have been dark for twenty-eight years, so Blackout changes nothing there, and their wall is a quarantine that never ends. The valley has no checkpoints to seal. The Military Base is the quarantine. The Laboratory and the Metro never see the sky.
+The ruins have been dark for twenty-eight years, so Blackout changes nothing there, and their wall is a quarantine that never ends. The Valley was never quarantined. The Military Base is the quarantine. The Laboratory and the Metro never see the sky.
 
 ---
 
@@ -1373,7 +1434,7 @@ The ruins have been dark for twenty-eight years, so Blackout changes nothing the
 
 ΜΝΗΜΗ assembles every session from layers. Every layer but the last is seeded before the survivors arrive and rewritten as the session unfolds. The last is written by the survivors themselves. Layers a mode does not use are left empty.
 
-**MODE** + **MAP** + **VERSION** + **CONDITION** + **WAKING POINTS** + **STRAIN MAP** + **INFECTION PACE** + **THREATS** + **RESOURCES** + **ELPIS RESERVE** + **WAYS OUT AND SEATS** + **COMPANIONS** + **PUZZLES** + **OBJECTIVES** + **RESTRICTIONS** + **EVENTS** + **SURVIVOR BEHAVIOR**
+**MODE** + **MAP** + **VERSION** + **THREADS AND BEATS** + **CONDITION** + **WAKING POINTS** + **STRAIN MAP** + **INFECTION PACE** + **THREATS** + **RESOURCES** + **ELPIS RESERVE** + **WAYS OUT AND SEATS** + **COMPANIONS** + **THE STRANDED** + **PUZZLES** + **OBJECTIVES** + **RESTRICTIONS** + **EVENTS** + **SURVIVOR BEHAVIOR**
 
 Into one result:
 
@@ -1385,6 +1446,7 @@ Into one result:
 |---|---|
 | Mode | Dead Drop, sixty-four survivors in Solo |
 | Map | Raccoon City, September 1998 |
+| Threads and Beats | Three acts. Jill Valentine's flight from the Nemesis begins in Uptown; Leon Kennedy and Claire Redfield arrive in Act II; Kendo's shop can fall, and Mikhail Victor can make his last stand |
 | Condition | Night, Rain |
 | Waking Points | Sixty-four, on equal ground |
 | Strain Map | T-Virus across the heart of the city; G-Virus beneath it; C-Virus in Raccoon University; T-Phobos in the Hospital District; T-Veronica in Raccoon Park |
@@ -1394,6 +1456,7 @@ Into one result:
 | Elpis Reserve | Six doses |
 | Ways Out and Seats | The Subway (10), the Clock Tower (4), the Rooftop (2): sixteen seats |
 | Companions | Leon Kennedy, Claire Redfield, and Robert Kendo, each in need of rescue somewhere in the city |
+| The Stranded | Eight, among them Ben Bertolucci in the R.P.D. cells, Marvin Branagh holding the station's main hall, Cindy Lennox behind the bar at J's Bar, and a nurse barricaded in a Hospital District pharmacy |
 | Puzzles | The R.P.D. medallions, the subway's points, the vault behind Kendo's gun shop |
 
 ### An Outbreak
@@ -1494,16 +1557,374 @@ Once bitten, each member carries their own virus, clock, and road. A dose cures 
 - **Each companion exists once.** There is one Leon Kennedy in a session. Whoever gets him out first gets him.
 - **One at a time.** A team whose companion is gone may rescue another, if anyone is still waiting.
 - **The rescue is the price.** A companion is always somewhere dangerous, and getting them out is always loud.
-- **Companions are who the records say they were.** They fight with the skills and weapons they are known for, help up a survivor who is down, and take part in puzzles built for two. Most are loyal. A few, like Nicholai Ginovaef, are exactly as loyal as they ever were.
+- **Companions are who the records say they were.** They fight with the skills and weapons they are known for, help up a survivor who is down, and take part in puzzles built for two. Most are loyal. A few, like Nicholai Ginovaef, are exactly as loyal as they ever were, and what each owes the others is written in their ties (below).
 - **Companions follow simple calls.** Follow. Wait here. Go there. Leave.
 - **Companions are mortal.** They can be wounded, killed, and infected. An infected companion's clock runs like anyone's, but they walk no road: the only dose that can cure them is one someone else earned. A companion who turns is no longer a companion. ΜΝΗΜΗ plays what they became, and if the strain left them a mind, they use it.
 - **Companions need seats.** An extracted companion is written into the team's report.
+- **Companions belong to their moment.** A map's version is a moment in the records, and only people the records place there, at that moment, can wait in it, as they were then. Chris Redfield is not in the Raccoon City of September 1998: the records put him in Europe. No one waits in a moment they had not yet reached or had already left, and no one is younger or older than the records make them there. A new companion arrives only with a version whose moment holds them.
 
 | Map | Roster |
 |---|---|
-| Raccoon City, 1998 | Leon Kennedy and Claire Redfield on their first night in the city, Jill Valentine, Carlos Oliveira, Robert Kendo, Marvin Branagh, Ada Wong, Nicholai Ginovaef |
-| Ruins, 2026 | Leon Kennedy, twenty-eight years older and sick with what the city left in him, and Grace Ashcroft, Alyssa Ashcroft's daughter. Leon's old infection runs no clock, and because the first virus to arrive keeps the body, nothing in the ruins can infect him again. |
-| The Valley, 2004 | Leon Kennedy on the mission that brought him there, Luis Sera, Ada Wong, and Ashley Graham, who does not fight but fits through gaps no one else can and can sit in the second chair of any puzzle built for two |
+| Raccoon City, 1998 | Leon Kennedy and Claire Redfield on their first night in the city, Ada Wong, HUNK, Robert Kendo, Jill Valentine, Carlos Oliveira, Mikhail Victor, Nicholai Ginovaef, Tyrell Patrick. Each is found on their thread, from the act it begins in (The People of Raccoon City, 1998, below). |
+| Ruins, 2026 | Leon Kennedy, twenty-eight years older and sick with what the city left in him, and Grace Ashcroft, Alyssa Ashcroft's daughter, an FBI analyst who was never trained to fight. Leon's old infection runs no clock, and because the first virus to arrive keeps the body, nothing in the ruins can infect him again. |
+| The Valley, 2004 | Leon Kennedy on the mission that brought him there, Luis Serra, Ada Wong, and Ashley Graham, who does not fight but fits through gaps no one else can and can sit in the second chair of any puzzle built for two |
+
+#### The Stranded
+
+Not everyone in a Dead Drop is a survivor. Before the waking, ΜΝΗΜΗ places a few people from the records where the records put people in trouble: a man locked in an R.P.D. holding cell, a nurse barricaded in a pharmacy, a family in a stalled bus with the dead around it, a man sealed in a cargo container who will not come out. Survivors call them **the Stranded**. They are neither sleepers nor Echoes, and ΜΝΗΜΗ plays them as she plays companions. They are not counted among a night's survivors: not in its numbers, not in her verdict (Section 14), and not among those the Turned must outlast.
+
+- **Where, and how many.** In the Raccoon City of 1998, about one for every eight survivors. Each waits somewhere the dead can reach, and no waking point is near one (Section 08).
+- **Decided before the waking.** What a Stranded carries, what they know, whether they tell the truth, and whether they were bitten before the door closed are all set before the first survivor opens their eyes, never for whoever finds them.
+- **Named and unnamed.** Most are people of the city with no story in the records beyond that night. A few are named, and those are always who the records say they were: Ben Bertolucci in the R.P.D. cells, a reporter who has been digging into the chief's bribes and never comes along; Dario Rosso, sealed in a cargo container in an Uptown warehouse, who will not come out for anyone and talks only through the door. The named Stranded of each moment are listed with its people (The People of Raccoon City, 1998, below). ΜΝΗΜΗ changes what the named carry and know from night to night, never who they are.
+- **They carry the Mark like anyone.** A Stranded bitten before the night began starts it at Seed or Fever, and a pinprick in a dark cell is easy to miss. Their clock runs like a survivor's. They walk no road: the only dose that can cure them is one someone else earned and gives them. A Stranded in a G-Virus region may have met a Brood Host before the door closed, and their clock runs fast.
+
+**Talking.** The Stranded are the only people in a Dead Drop who answer more than a call. When a survivor stands close and faces one, up to four replies appear at the edge of the screen, and choosing one says it aloud, as a Murmur. Apart from ΜΝΗΜΗ's own, these are the only words a Dead Drop ever lays over the world. A Stranded speaks in their own voice, never in hers: like any stranger, they can be wrong, and they can lie (Section 09).
+
+| Reply | What follows |
+|---|---|
+| **Get them out** | The survivor opens what holds them: finds the cell key, cuts the chain, pulls down the barricade. It is never quiet. |
+| **Ask what they know** | Where a key is, where a vault's code is written, which way out the Army still holds, which streets the dead have filled. Sometimes true, sometimes out of date, sometimes a lie told to be let out. |
+| **Ask for what they carry** | A key, a few shells, a herb, a code. Some give it at once, some only once they are out, and some promise and never pay. |
+| **Take them along** | They become the team's companion, if the team has none (below). |
+| **Leave them** | Nothing is opened, and nothing is owed. |
+
+**What comes after.** A Stranded is never only a reward.
+
+- **Left behind,** a Stranded stays where they are. Someone else may free them, the dead may reach them, or a bite they already carried may finish its work in place, and whoever opens that door later meets what they became.
+- **Let go,** a Stranded goes to ground behind the nearest door that locks and waits. When the signal rises, they make for the nearest way out and take a seat if one is left when they arrive. Every Stranded let go is one more person who may need a seat.
+- **A Stranded who turns** is one of the dead, never one of the Turned. They turn by the same beats and into the same forms as anyone (Section 13), in the clothes they wore when they were freed, and ΜΝΗΜΗ plays what they became. A survivor who let a bitten man walk out of a cell can meet him again two districts later.
+- **Robbed or threatened,** a Stranded shouts, and the shout is a Clamor. They never come along, and never tell that survivor the truth again.
+
+**As companions.** A Stranded taken along fills the team's one companion place, so a Squad of 4 can free them but never take them, and follows every companion rule: the simple calls, the seats, mortality, and no road. They are not Leon Kennedy. Each does one thing well, from who they were, and has the limits of an ordinary person.
+
+| Who they were | What they do well | Their limit |
+|---|---|---|
+| Police officer or soldier | A steady handgun; holds a doorway | Few rounds, and none to give away |
+| Firefighter or laborer | An axe; forces a door faster, though still as a Clamor | No gun |
+| Doctor or nurse | Treats wounds; reads a stranger's stage at a glance | Will not fight unless cornered |
+| Mechanic | Gets a stalled vehicle running; opens a jammed hatch | Weak in a fight |
+| Anyone else | Knows the streets: a shortcut, an unlocked back door, a place to hide | Weak in a fight |
+
+A Stranded companion can break. When the dead reach arm's length of them, or the survivor they follow goes down, they may run or scream, and a scream is a Clamor. Police officers and soldiers rarely break. Anyone else often does.
+
+**The Stranded in the record.** A Stranded freed is a deed in the Ledger, and one brought out through a way out is a larger one. Nothing done to a Stranded counts, only what was done for them. A Stranded can also be a RESCUE objective or a Mission on someone's road (Sections 11 and 17). Echoes meet the Stranded as their Way's sleepers do: they free, question, rob, and leave them in the same measure.
+
+**By moment.** The Stranded belong to their moment, as companions do. The Raccoon City of 1998 is still full of its people, and the Stranded are many. In the Ruins of 2026 they are few, about one for every sixteen survivors: scavengers who climbed the wall for what the city left behind, a BSAA soldier cut off from the cordon. In the Valley of 2004 they are fewest: one or two outsiders the village took and kept, each already carrying a Plaga.
+
+#### Ties
+
+The records hold what these people were to one another, and ΜΝΗΜΗ keeps it. A **tie** is a bond the records hold between two people who can wait in the same moment: loyalty, command, distrust, a use, an old enmity, a betrayal waiting for its hour. Ties are written only for the people of the records: companions, the named Stranded, and the named hosts of the Valley. ΜΝΗΜΗ never invents one, never changes one for a sleeper, and never chooses when one wakes: she plays a tie as the records wrote it, and the cause of what follows is the meeting the survivors made.
+
+- **A tie wakes when they meet.** Two tied people meet when they see each other, hear each other's voice, or, if the records gave them radios on a shared channel, hear each other on it. The U.B.C.S. carry such radios. A call on that channel is a Murmur from the radio itself, so any survivor near a U.B.C.S. companion hears both sides of it.
+- **Only people of the records.** A survivor in U.B.C.S. dress is not one of Mikhail Victor's men, and nothing of the records treats them as one. Nothing worn ever wakes a tie (Section 28, Promise 2).
+- **A tie outranks a call.** While a tie is acting, a companion follows it, not their survivor's calls.
+- **A companion who goes to someone they are tied to** holds no team's place. They walk beside the one they went to, ΜΝΗΜΗ plays them, and they still need a seat.
+
+| Tie | What it does |
+|---|---|
+| **Loyalty** | Each asks their survivor to go to the other. If the survivor refuses, they stay, unless the records say they would go anyway. |
+| **Command** | The officer gives orders to the others of their unit, and they obey unless another tie forbids it. |
+| **Distrust** | They warn their survivor aloud about the other, and everyone in earshot hears the warning. |
+| **Enmity** | They attack each other on sight. |
+| **Use** | They stay close while the other is useful, and leave for what they came for when it is within reach. Leaving is not betraying: they hold no team's place, are no Defector, and still need a seat. |
+| **Betrayal** | They wait for a trigger the records give them, then turn on whoever stands in the way. |
+
+**Betrayal has rules.** It is the only tie that kills, so it is the most bound.
+
+- **Every betrayal has a trigger, written in the records, and the trigger is something a survivor can see:** a laboratory reached, a pure strain within reach, a survivor down, a Mark with lines.
+- **Every betrayal has a tell, before the first shot:** a question asked too often, a word on a private channel in another language, a step back to let the others go first. A Distrust tie says the tell out loud.
+- **A companion who betrays is a Defector.** They leave the team's place empty and keep everything they carried. ΜΝΗΜΗ plays them with the skills the records gave them. They can be wounded, infected, and killed like anyone. A Defector who has what they came for makes for a way out and takes a seat.
+- **Betraying is never a tool of pressure.** It follows from who was freed and who was brought together, never from how a survivor is doing.
+
+**The ties of each moment**
+
+| Moment | Between | Tie |
+|---|---|---|
+| Raccoon City, 1998 | Leon Kennedy and Claire Redfield | **Loyalty.** Separated on their first night. Each asks their survivor to go to the other. |
+| Raccoon City, 1998 | Carlos Oliveira and Jill Valentine | **Loyalty.** Each asks their survivor to go to the other, and if Carlos's survivor falls, he goes to Jill. |
+| Raccoon City, 1998 | Carlos Oliveira and Tyrell Patrick | **Loyalty.** Partners. Each asks their survivor to go to the other. |
+| Raccoon City, 1998 | Carlos Oliveira and Murphy Seeker | **Loyalty.** Carlos goes to his friend. If Murphy asks him to end it, Carlos does, and is never the same that night. |
+| Raccoon City, 1998 | Mikhail Victor and the U.B.C.S. | **Command.** Mikhail calls his men on the U.B.C.S. channel. Wherever two of them meet, he leads every survivor near them toward the nearest way out made ready, and puts himself between them and the dead. He is wounded, as the records say, and cannot run. |
+| Raccoon City, 1998 | Nicholai Ginovaef and everyone | **Betrayal.** A U.B.C.S. sergeant who is secretly Umbrella's Supervisor, paid for combat data. He turns when a laboratory or a pure strain is within his reach, or when someone beside him goes down or shows a Mark with lines. He kills the marked and the fallen and calls it protocol. His tell: he asks where the laboratories are. |
+| Raccoon City, 1998 | Nicholai Ginovaef and Mikhail Victor | **Command, deceived.** Mikhail does not know what Nicholai is. When Nicholai kills someone who carried a Mark with lines, Mikhail believes him and stands with him: he orders every marked survivor away from the group at gunpoint, and fires if they come on. When Nicholai kills someone clean, or Carlos or Tyrell saw what happened, Mikhail turns on him. |
+| Raccoon City, 1998 | Jill Valentine, Carlos Oliveira, and Nicholai Ginovaef | **Distrust.** Both distrust him from the start. When Nicholai betrays, they fight him. Carlos never fires on the survivor who freed him, or on anyone because of a Mark unless they ask: he refuses Mikhail's order. |
+| Raccoon City, 1998 | Tyrell Patrick and Nicholai Ginovaef | **Two accounts.** In the first, Tyrell distrusts him and says why to anyone in earshot, and fights him when he betrays. In the second, he never suspects him. |
+| Raccoon City, 1998 | Ben Bertolucci and Brian Irons | **Enmity.** Ben has the story on Irons, and Irons knows it. |
+| Raccoon City, 1998 | Brian Irons and everyone | **Betrayal.** He asks to come along, and turns on whoever he is alone with, the first time they are. |
+| Raccoon City, 1998 | Annette Birkin and Ada Wong | **Enmity.** Annette knows what Ada came for and fires on her on sight. |
+| Raccoon City, 1998 | HUNK and everyone | **Use.** He walks with a survivor while it takes him toward his extraction, and leaves for it when the signal rises. |
+| Raccoon City, 1998 | Ada Wong and Leon Kennedy | **Use.** Ada came for the G-Virus. When a pure G-Virus strain is within her reach, she takes it and leaves. She never fires on Leon or on whoever he follows. |
+| The Valley, 2004 | Ashley Graham and Leon Kennedy | **Loyalty.** Ashley goes to Leon even if her survivor refuses: she slips away the first time no one is watching her. |
+| The Valley, 2004 | Luis Serra and Leon Kennedy | **Loyalty.** Each asks their survivor to go to the other. |
+| The Valley, 2004 | Ada Wong and Leon Kennedy | **Use.** She came for the Amber. She stays close while he is useful, leaves with the Amber when it is within her reach, and never fires on him or on whoever he follows. |
+| The Valley, 2004 | Jack Krauser and Leon Kennedy | **Enmity.** Krauser wants Leon dead by his own hand, and fights him on sight. |
+| Ruins, 2026 | Leon Kennedy and Grace Ashcroft | **Loyalty.** In the records they met, were separated, and found each other again. Each asks their survivor to go to the other. |
+
+**Example: three survivors, three men of the U.B.C.S.** A Solo night in the Raccoon City of 1998, in Act I, before Mikhail Victor's last stand.
+
+| Step | What happens | Why |
+|---|---|---|
+| 1 | Three strangers each free a companion: A frees Nicholai Ginovaef, B frees Mikhail Victor, C frees Carlos Oliveira. | Each companion exists once, and each Solo survivor has one place. |
+| 2 | Mikhail calls his men on the U.B.C.S. channel. Carlos and Nicholai answer. A, B, and C each hear both sides of the call. | Command; the radio is a Murmur. |
+| 3 | Each companion asks their survivor to go to the call. All three agree, and three teams of strangers meet in the Uptown station. | Loyalty and Command. A refusal would have kept that companion with their survivor. |
+| 4 | Mikhail takes command and leads all three teams toward the subway. Nicholai asks twice where the hospital's laboratory is. | Command; Nicholai's tell. |
+| 5 | C is bitten on the way. For a few minutes it is a pinprick, and Nicholai waits. | Betrayal needs a visible trigger. |
+| 6 | C's Mark spreads into lines. Nicholai fires on C and calls it protocol. | Betrayal's trigger: a Mark with lines. Nicholai is now a Defector, and A has no companion. |
+| 7 | Mikhail saw the lines. He believes Nicholai and orders C away at gunpoint. Mikhail and Nicholai now stand together against C. | Command, deceived. |
+| 8 | Carlos refuses the order and fights both for C. | Distrust; Carlos never fires on the survivor who freed him, or because of a Mark. |
+| 9 | A and B choose: side with C and Carlos, side with the two soldiers, or run while the U.B.C.S. kills itself. | The sleepers decide. The Ledger records what they did. |
+
+Small changes turn the same night elsewhere. If C had gone down while the bite was still a pinprick, Nicholai would still have killed the fallen, but Mikhail would have seen a clean neck and turned on him. If Tyrell Patrick had answered the call, and ΜΝΗΜΗ had chosen his first account, he would have named Nicholai at step 4. If A had been the one bitten, Nicholai would have shot the survivor who freed him. If Nicholai lives and reaches a laboratory, he takes what he came for and makes for a way out. In one account he left Raccoon City by helicopter; in the other he was left on a rooftop with the missile coming.
+
+#### Faithful to the Records
+
+Every person of the records in a Dead Drop is played as the records show them: companion, Stranded, or one of the named dead. That covers what they want, whom they trust, what they fear, how they speak, what they carry, and what they can do. ΜΝΗΜΗ never makes anyone braver, kinder, crueler, or more useful than the records do.
+
+- **Who they are never bends to the game.** A companion follows simple calls only as far as their records allow, and refuses what their records say they would refuse. Carlos Oliveira will not shoot a stranger for a Mark. Marvin Branagh will not leave the R.P.D.
+- **They keep their names.** A person is named as their most recent English-language record names them: Nicholai Ginovaef, Mikhail Victor, Luis Serra.
+- **Where the records hold two accounts, ΜΝΗΜΗ keeps both.** The first games and their remakes sometimes disagree about who a person was or what they did. Before each night she chooses one account for each person, the first about one night in four, and holds to it until morning. Only one thing tells a survivor which she chose: how the person looks, for a player who has not turned the old looks off (As Recorded, below).
+- **The records' days run in one night.** Where a version spans several days of the records, a night runs all of them, as acts (Story Nights, below). No one is in an act they had not yet reached.
+- **The named dead.** Someone whose death in the records has happened in tonight's story walks among the dead in their own clothes, if the records say they rose, and can be put down like any of the dead.
+- **No child is placed.** The records hold children of these places, and no child is ever in a Dead Drop, living or dead. Where one account of a person depends on a child, ΜΝΗΜΗ follows the other. Where both do, the person is not placed.
+- **A named Stranded taken along** keeps the skills and limits their records give them, in place of the table of backgrounds above.
+
+#### As Recorded
+
+ΜΝΗΜΗ fills the gaps in a place (Section 18). She never fills the gaps in a person. Someone of the records is never more than their record, and the oldest records are coarse. When she chooses a person's first account, she shows them **as recorded**: exactly as the first record holds them, with its shapes, its colors, and its plainness, standing in a night drawn as finely as everything else. The Jill Valentine a survivor finds on such a night is the Jill of 1999, square-cut and flat-colored, in the street of a city that is not. Every other night, the person is **rebuilt**: as the latest record holds them, or, where there is no later record, as ΜΝΗΜΗ rebuilds the first one in full.
+
+| Who | As recorded | Rebuilt |
+|---|---|---|
+| The people and creatures of the Raccoon City of 1998 | As the first *Resident Evil 2* and *Resident Evil 3* hold them | As their remakes hold them |
+| The eight of Outbreak | As *Outbreak* holds them | As ΜΝΗΜΗ rebuilds them in full |
+| The people and creatures of the Valley of 2004 | As the first *Resident Evil 4* holds them | As its remake holds them |
+| The people of the Ruins of 2026, and the Pesanta | Never: their only record is already as fine as the night | Always |
+
+The eight of Outbreak, who have one old record and no later one, are shown as recorded as often as anyone's first account is chosen. The look goes with the account. A person shown as recorded acts as the first account says, and a person rebuilt acts as the latest one says. A survivor who knows both records can read which one walks in front of them, and what it will do. This is the only way the account ever shows.
+
+**Each player's choice.** The old looks are an extra, and every player decides whether to see them. A player who turns them off sees everyone rebuilt, always. Nothing else changes: the account ΜΝΗΜΗ chose still decides what each person does, for that player as for everyone, and other players see what they chose for themselves. A player who turns the old looks off gives up the one sign of the account, and nothing more.
+
+**What is drawn is what can be played.** The record decides how someone looks. The night decides everything the look could get wrong:
+
+- **Bodies.** A person shown as recorded wears the old look fitted to the body they have tonight: the same height, reach, and hit areas, the same speed, the same animations. Nothing about them is harder to hit or easier to miss than it looks.
+- **Creatures.** A creature's shape is its account's own, and so are its hit areas. Every account of a creature is tuned to the same fight: as hard, as long, and as loud. Neither is ever the easier one to meet.
+- **What must be read is never coarse.** The virus is the night's own, not the record's, so the Mark is always drawn in full on every neck, and so are the red eyes of a Plaga. Every weak point is drawn as clearly as a Mark: a G-form's eye-tumors, an exposed Plaga, the eye in Salazar's monster.
+- **Sound is the night's.** A person as recorded may sound as their record did, but every sound carries by the tiers of Section 15, from where it is made.
+- **The record's moves, the night's rules.** Whatever a record did only because of its camera or its controller never comes with it: a fight decided by button prompts becomes a fight, a dodge becomes a dodge, and an ambush staged for a fixed camera becomes an ambush. A knife fight with Jack Krauser as recorded is fought, not watched.
+- **Light and brightness.** Everything shown as recorded is lit by the night like anything else, and is never darker or harder to see against a wall than its rebuilt self (Section 30).
+
+**The named creatures, by account**
+
+| Creature | As recorded | What changes with the account |
+|---|---|---|
+| **The Nemesis-T Type** | *Resident Evil 3* (1999) | The forms it takes as it rises again, and its last form at the railgun |
+| **The T-00** | *Resident Evil 2* (1998) | Nothing but its look |
+| **William Birkin** | *Resident Evil 2* (1998) | The forms it rises in, one after another |
+| **Del Lago, El Gigante, Dr. Salvador, the Bella Sisters, Garradors, Novistadors, Armaduras, Regenerators and Iron Maidens** | *Resident Evil 4* (2005) | Their look, and where each account placed them |
+| **Bitores Mendez, the Verdugo, Ramón Salazar, Jack Krauser, Osmund Saddler** | *Resident Evil 4* (2005) | The forms of their last fights. Every weak point stays where the account puts it, drawn in full. |
+| **U-3** | *Resident Evil 4* (2005) | Shown only as recorded; its rebuilt account is the Pesanta, which has no older record |
+
+**What it is for.** A person shown as recorded is ΜΝΗΜΗ's oldest memory of them, set down among her newest. On a night when a square-cut Jill Valentine runs past a rebuilt Leon Kennedy, two records that never met are standing in the same street. That is what a story night is.
+
+#### Story Nights
+
+Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 2004 each hold a story, and a night in either is a **story night**. In the records those days happened once, in one order. In ΜΝΗΜΗ they happen every night, and never the same way twice. Every story night runs the whole story, from its beginning through its middle to its end. What happens inside it is decided by ΜΝΗΜΗ at Assembly and by everyone who lives through it.
+
+- **Acts.** A story night has three acts, each a stretch of the records' story, and the world marks each one as it opens: in Raccoon City, ΜΝΗΜΗ names the day; in the Valley, night falls, and then the island opens. Acts come in order and never overlap. The beginning is always the beginning, and the end is always the end.
+- **Threads.** Every person of the records follows a **thread**: the places the records took them, in the order they went, toward what they wanted. A thread is played, not shown. The person walks it in the world, among the survivors, at the speed of anyone, and anything can happen to them on it. Nothing in a story night is a cutscene.
+- **Beats.** A **beat** is a moment the records hold on a thread: Brad Vickers at the R.P.D. gate, Mikhail Victor's last stand, Kendo's shop falling. A beat happens only when everything it needs is in place: its people alive and where it happens, in the act it belongs to. Survivors can watch it, join it, or stop it. ΜΝΗΜΗ never forces one. A beat that cannot happen does not happen, and the night goes on without it.
+- **Found on their thread.** The records put their people in trouble often, and every trouble is a chance to help. A person helped on their thread can be asked along, under every companion rule. Taken along, they bring their thread with them: they ask to go where it leads, and its beats can still happen around them.
+- **What ΜΝΗΜΗ decides.** At Assembly she decides who is placed and which account each follows, where each thread begins among the places the records allow, which beats the night can hold, and how early or late in its act each thread runs. During the night she directs as always (Section 09). She never moves a beat out of its act, and she moves a person only through the world.
+- **What the survivors change.** Everything else. A survivor can pull Brad Vickers away from the gate, kill Nicholai Ginovaef before he betrays, take the key someone's thread needed, or bring down the street it runs along. When a thread breaks, its person does not stop. They do what their records say they would do with the world as it now is: they find another way to what they want, and meet whoever is on it. That is how the people of the records meet in ways the records never saw. Leon Kennedy, cut off from the R.P.D. by a collapse, runs into Jill Valentine in Uptown, and into what is hunting her.
+- **Arrivals.** People the records bring in from outside arrive when their act opens, by the road the records gave them. ΜΝΗΜΗ places them, and whatever they arrive in, on that road before the waking, inside her world but beyond every waking point (Section 09, First Law).
+
+#### The People of Raccoon City, 1998
+
+A night in the Raccoon City of 1998 runs the city's last three days, from the morning Jill Valentine escaped her apartment to the dawn the missile fell.
+
+```
+ΜΝΗΜΗ: RACCOON CITY. 28 SEPTEMBER 1998.
+```
+
+| Act | Day | Opens | Threads that begin |
+|---|---|---|---|
+| **I** | 28 September | At the waking | Jill Valentine, from her apartment in Uptown. The U.B.C.S.: Carlos Oliveira, Mikhail Victor, Nicholai Ginovaef, Tyrell Patrick, Murphy Seeker. The Nemesis. |
+| **II** | 29 September | At the thirtieth minute | Leon Kennedy and Claire Redfield, who arrive in a police cruiser down the Arklay road and crash in Downtown. Ada Wong. HUNK. The T-00. |
+| **III** | 30 September, to dawn | At the signal, which here is the missile (The Last Morning, below) | Everyone's last thread: a way out before the strike |
+
+Everyone else is in the city from the waking, where the records had them.
+
+**The beats**
+
+| Beat | Act | Where | Needs | What happens |
+|---|---|---|---|---|
+| **The Nemesis released** | I | A freight container in the Uptown rail yard | ΜΝΗΜΗ has placed it | The container opens, and the hunt for Jill Valentine begins. |
+| **Brad at the gate** | I | The R.P.D. front gate | Brad Vickers there, with the dead or the Nemesis near | In one account the Nemesis kills him. In the other a zombie bites him while he helps Jill, and he tells her to go on. |
+| **Murphy at the sales office** | I | The Umbrella sales office in Uptown | Murphy Seeker, with Nicholai or Carlos | Nicholai shoots him and calls it protocol, or Carlos ends it because Murphy asks. |
+| **The U.B.C.S. regroups** | I | The Uptown station | Two of the U.B.C.S. alive | Mikhail takes command (Ties). |
+| **Mikhail's last stand** | I | A Kite Bros Railway tram, from the Uptown station to Raccoon Park | Mikhail, Jill, and the Nemesis aboard | Mikhail blows the Nemesis off the tram with his explosives and dies. The tram crashes at the St. Michael Clock Tower. |
+| **The crash** | II | Downtown | Leon and Claire arriving | Their cruiser crashes into a tanker, and the fire separates them. Each makes for the R.P.D. (Ties). |
+| **The hall falls** | II | The R.P.D. main hall | Marvin Branagh holding it, and the dead reaching it | Marvin is bitten. He holds the hall until he turns. |
+| **The shutter** | II | Inside the R.P.D. | Elliot Edward, and no one raising the shutter in time | The dead take him, and his notebook with him. |
+| **Kendo's shop falls** | II | Kendo's gun shop, Downtown | Robert Kendo inside | The dead come through the window. He goes with whoever gets him out, or dies behind his counter. |
+| **The Tyrant released** | II | The overturned Umbrella transport truck, Downtown | ΜΝΗΜΗ has placed it | The T-00 walks to the R.P.D. |
+| **Ben in the cells** | II | The R.P.D. cells | Ben Bertolucci, and William Birkin or the T-00 reaching him | In one account, an embryo Birkin planted bursts from him. In the other, the T-00 kills him. |
+| **Irons's end** | II | The R.P.D. and the sewers | Brian Irons, and William Birkin reaching him | Birkin plants an embryo in him, and it bursts from him. |
+| **Ada and Annette** | II | The sewers | Ada Wong and Annette Birkin | Annette fires on Ada (Ties). |
+| **The Clock Tower** | II | The St. Michael Clock Tower | Jill and the Nemesis there | The Nemesis infects Jill, and she falls unconscious. If Carlos is near, he carries her to the chapel. If not, she lies where she fell. |
+| **A dose for Jill** | III | Wherever Jill lies | Jill infected and alive, Carlos with her | Carlos asks everyone he meets for a cure. A survivor who gives Jill a dose wakes her, and she and Carlos go their own way to a way out. |
+| **The railgun** | III | The disposal factory, Industrial Edge | The Nemesis there, and someone at the railgun | Fired, it ends the Nemesis. |
+| **The furnace** | III | NEST | The T-00 there | It falls into the molten metal and does not come back. |
+| **The last car** | III | NEST, the Emergency Train | William Birkin alive when the train leaves | He comes for the train. Its self-destruct ends him, and whoever cannot keep him off the carriage until then goes with him. |
+| **The flare** | III | The R.P.D. roof | HUNK alive | He lights the flare. The Rooftop is his pickup, and he takes one of its two seats. |
+| **Nicholai's bargain** | III | Wherever he is | Nicholai alive | He makes for a helicopter. In one account he takes it. In the other he is left on a rooftop with the missile coming. |
+
+**Named creatures.** Three creatures of the records walk the city on threads of their own. Their beats release them, not a region's Crisis (Section 15). Each can be put down but not killed before the end the records gave it. Put down, it rises a few minutes later, worse each time, as the records show.
+
+| Creature | From | What it does | Its end |
+|---|---|---|---|
+| **The Nemesis-T Type** | A freight container in the Uptown rail yard, in Act I | Hunts the S.T.A.R.S.: Jill Valentine wherever she is, and Brad Vickers until he falls. It kills whatever stands between it and them, and nothing else on purpose. It carries a rocket launcher. It is the night's only NE-α: when ΜΝΗΜΗ places it, there is no Parasite Drop (Section 12). | The railgun, in Act III |
+| **The T-00** | The Umbrella transport truck in Downtown, in Act II | Walks the R.P.D. District, hunting by sound and coming for whoever carries a pure G-Virus strain | The furnace in NEST, in Act III |
+| **William Birkin** | The sewers and NEST, from the waking | What the G-Virus made of him. He looks for hosts, and his grip plants an embryo as a Brood Host's does. He kills whoever stands between him and the G-Virus, and rises each time in a further form. | The Emergency Train's self-destruct, in Act III |
+
+**The Last Morning.** In the Raccoon City of 1998, the signal is the missile. ΜΝΗΜΗ raises it as always, by her verdict or at the ninetieth minute (Section 14), and it opens Act III.
+
+```
+ΜΝΗΜΗ: 30 SEPTEMBER 1998.
+A MISSILE IS ON ITS WAY TO RACCOON CITY.
+TIME TO IMPACT: 20 MINUTES.
+WAYS OUT: 3.
+```
+
+- **The count.** The strike comes twenty minutes after the alert. There is no clock on the screen, as there is none anywhere in a Dead Drop. The count is in the world: ΜΝΗΜΗ's public voice gives the time left through every radio, siren, and loudspeaker at fifteen, ten, and five minutes, then every minute, then every second of the last ten.
+- **The ways out.** Every way out leaves no later than one minute before impact, full or not, after its Last Call. A way out that has not left by then never will.
+- **No second chance.** The rule that the night goes on when every way out leaves empty (Section 14) does not hold here. The strike ends the night.
+- **At impact.** Everything still in the city falls with it: survivors, Echoes, companions, the Stranded, the Turned, and the dead. A survivor in the city at impact has fallen, and the After-Action Report says how. If no survivor got out, the Turned standing at impact win, as they do when no living survivor remains (Section 14).
+- **Endless** has no last morning. Its city never reaches the dawn, and the Beacon ends it as always.
+
+**Companions**
+
+| Person | Records | Who they are | What they do well | What they will not do |
+|---|---|---|---|---|
+| **Leon S. Kennedy** | *Resident Evil 2* | A rookie R.P.D. officer, twenty-one, on his first day. Idealistic, protective, too ready to trust. | A steady handgun and a shotgun; puts himself between the dead and whoever is hurt | Doubt Ada Wong, whatever she tells him |
+| **Claire Redfield** | *Resident Evil 2* | A college student, nineteen, who came to the city looking for her brother. Reckless, and fierce in defense of anyone weaker. | A handgun and a grenade launcher | Leave anyone weaker behind. She asks everyone she meets about Chris. |
+| **Ada Wong** | *Resident Evil 2* | A spy who came for the G-Virus. In one account she says she is looking for her boyfriend, in the other that she is with the FBI. Secretive and manipulative, and fond of Leon despite herself. | A handgun; goes through vents and gaps no one else fits | Tell the truth about who she is. She leaves for the G-Virus (Ties). |
+| **HUNK** | *Resident Evil 2* | The last of Umbrella's U.S.S. Alpha Team, "Mr. Death." Silent and cold; the mission comes before everything. | The best-armed person in the city: rifle, shotgun, grenades | Follow anyone for long. He walks with a survivor only on his way to his own extraction, and leaves for it when the signal rises (Ties). |
+| **Robert Kendo** | *Resident Evil 2*, *Resident Evil 3* | The owner of Kendo's gun shop, who built the S.T.A.R.S. their handguns. Wary of strangers and generous with guns. | A shotgun; knows every weapon in the shop | Leave his shop while it still holds. In Act II it may not. |
+| **Jill Valentine** | *Resident Evil 3* | A former S.T.A.R.S. officer, twenty-three, who stayed in the city to expose Umbrella. Self-reliant; trusts what she sees, never a badge. | Picks locks, disarms traps, handles explosives; a handgun and a rifle | Trust Nicholai Ginovaef (Ties). Whoever walks with her walks with what hunts her. |
+| **Carlos Oliveira** | *Resident Evil 3* | A U.B.C.S. corporal, twenty-one. Warm, flirtatious, decent, and shaken to learn what Umbrella is. | An assault rifle and heavy weapons | Abandon someone he has chosen to protect, or shoot anyone for a Mark unless they ask him to, as Murphy Seeker once did |
+| **Mikhail Victor** | *Resident Evil 3* | The leader of U.B.C.S. Delta Platoon, forty-five, a former Red Army officer. He puts his men first. | A rifle and explosives; commands (Ties) | Run. He is badly wounded from the first minute. He does not know what Nicholai is. |
+| **Nicholai Ginovaef** | *Resident Evil 3* | A U.B.C.S. sergeant, thirty-five, secretly an Umbrella Supervisor paid for combat data. Greedy, cold, a liar: "There's a price tag for everything." | A silenced pistol and explosives | Keep faith with anyone (Ties). A dose handed to him to carry, he destroys, as he destroyed the city's vaccine. |
+| **Tyrell Patrick** | *Resident Evil 3* | A U.B.C.S. mercenary, thirty-two, once of the Foreign Legion. Money-minded, and Carlos's partner. | Works the radio; guards the wounded | Leave Carlos. Whether he suspects Nicholai depends on the account (Ties). |
+
+**Named Stranded**
+
+| Person | Records | Where, and who they are | What they will not do |
+|---|---|---|---|
+| **Brad Vickers** | *Resident Evil 3* | The S.T.A.R.S. pilot, hiding near the R.P.D. in Act I, terrified, because something is hunting the S.T.A.R.S. | Stay. Freed, he runs. |
+| **Marvin Branagh** | *Resident Evil 2*, *Resident Evil 3* | The R.P.D. lieutenant holding the station's main hall. Steady and loyal to his men: "Uniform or not, you do not hesitate." He gives what he has: his knife, a radio, the way through the station. | Leave the R.P.D. Bitten when the hall falls, he turns before morning unless someone gives him a dose. |
+| **Robert Kendo**, before his shop falls | *Resident Evil 3* | Behind his own counter, with the shop still holding. He sells nothing, gives a gun to someone he trusts, and aims at everyone first. | Come along |
+| **Ben Bertolucci** | *Resident Evil 2* | A freelance reporter in the R.P.D. cells who has been digging into Chief Irons's bribes. In one account he locked himself in and will not come out. In the other, Irons locked him in, and he trades what he knows about Irons and Umbrella for the key. | Come along |
+| **Brian Irons** | *Resident Evil 2* | The chief of the R.P.D., paid by Umbrella, in his office. Corrupt, cruel, and coming apart. He knows the station's hidden ways. | Keep faith (Ties) |
+| **Elliot Edward** | *Resident Evil 2* | An R.P.D. officer trapped behind a shutter in the station, with the dead at his back and the escape plan in his notebook | Survive being left |
+| **Annette Birkin** | *Resident Evil 2* | An Umbrella virologist in the sewers beneath the station, William Birkin's wife. Paranoid: she believes everyone has come for the G-Virus, and knows the way into NEST. | Come along, or let Ada Wong live (Ties) |
+| **Murphy Seeker** | *Resident Evil 3* | A wounded U.B.C.S. sniper in the Uptown Umbrella sales office, Carlos's friend, who insists he is not infected | Admit he is |
+| **Dario Rosso** | *Resident Evil 3* | A salesman from out of town, sealed in a cargo container in an Uptown warehouse. Panicked and selfish. He talks only through the door. | Come out, for anyone |
+| **The eight of Outbreak** | *Resident Evil Outbreak* | Kevin Ryman in the R.P.D. District, Mark Wilkins at the Apple Inn, Jim Chapman in a Kite Bros Railway subway station, George Hamilton at Raccoon General Hospital, David King in the sewers, Alyssa Ashcroft at the Raccoon Press office, Yoko Suzuki at Raccoon University, Cindy Lennox behind the bar at J's Bar. Taken along, each does what they do in Outbreak (Section 20, The Eight). Bitten, Jim's clock runs fastest and Yoko's slowest. | Nothing the records forbid. They are the only named Stranded who come along gladly. |
+
+**The named dead.** Whoever a beat kills, if the records say they rose, walks among the dead in their own clothes from then on: Brad Vickers in the R.P.D. District, Marvin Branagh in the main hall, Robert Kendo in his shop. A person whose beat never happens never walks.
+
+**Not in the city.** Chris Redfield and Barry Burton are in Europe. Sherry Birkin and every other child of the records are never placed.
+
+#### The People of the Valley, 2004
+
+A night in the Valley runs the records' time in Spain, from the day Leon Kennedy drove in to look for the President's daughter to the dawn he rode away from the burning island. In the records that is about a single day: arrival by daylight, a few hours lost unconscious after the lake, the castle by night, the island in the small hours, and sunrise at the end. A Raccoon City night runs three days; a Valley night runs one, from morning to the next morning.
+
+```
+ΜΝΗΜΗ: SPAIN. AUTUMN 2004.
+```
+
+| Act | The records' time | Opens | Threads that begin |
+|---|---|---|---|
+| **I** | Day: the village, from the morning of the arrival to late afternoon | At the waking | Leon Kennedy, who arrives with two Spanish policemen on the forest road. Luis Serra. Bitores Mendez. Ada Wong. |
+| **II** | Night: the village after dark, and the castle until the small hours | At the thirtieth minute, when night falls | Ashley Graham, locked in the church. Osmund Saddler. Ramón Salazar and his Verdugo. Jack Krauser. In one account, the Pesanta. |
+| **III** | Before dawn: the island, until sunrise | When the island opens (Section 18) | Mike, who arrives by helicopter from the sea. Everyone's last thread: the machine, Saddler, and a way out |
+
+**The beats**
+
+| Beat | Act | Where | Needs | What happens |
+|---|---|---|---|---|
+| **The policemen** | I | The hunter's lodge and the plaza | The two policemen with Leon | One dies at the lodge, and the village feeds his body to the lake. The other burns on the bonfire in the plaza. |
+| **The plaza** | I | The village plaza | Anyone the village sees | The village gathers on them, and Dr. Salvador starts his chainsaw. |
+| **The bell** | I | The church on the hill | The plaza gathered, and someone at the bell | Ada Wong rings it, as she did in the records, or anyone else does. Every host who hears it walks to the church. |
+| **Chained** | I | The old factory on the Valley Road | Leon taken down by the hosts | Leon wakes chained to Luis Serra with a Plaga in him. They get free, and Luis runs. |
+| **The manor** | I | The chief's manor | Leon and Mendez there | Mendez strangles Leon, sees the Plaga in his eyes, and lets him live. Ada shoots Mendez through the window. |
+| **Del Lago** | I | The lake | Anyone on the water | Del Lago rises. |
+| **The quarry** | II | The quarry | Anyone at the gate in the quarry wall | El Gigante comes out. |
+| **The church** | II | The church | The church insignia, found in the lake's shrines | Whoever opens the church finds Ashley Graham. In one account, Saddler is there to meet them; in the other, Ashley swings a candlestick at whoever comes in. |
+| **The siege** | II | The villa at the edge of the farm | Leon and Luis, and the village coming | They hold the villa through the dark against the whole village. |
+| **The sisters** | II | The checkpoint | Anyone escorting Ashley | The Bella Sisters come with their chainsaws. |
+| **Mendez's end** | II | The slaughterhouse, burning | Mendez, and someone to fight him | He fights in two forms, and his false eye opens the castle (Section 18). |
+| **The welcome** | II | The audience chamber | Anyone who enters | Salazar speaks down from the balcony, his Verdugo at his side. From then on his voice comes over the castle's loudspeakers, and he lies. |
+| **The cells** | II | The dungeon | Anyone who opens the cells | A Garrador wakes. |
+| **Ashley seized** | II | The castle | Ashley, and a dominant host near her | Her Plaga seizes her. She turns on whoever she is with, then runs, and the castle takes her: a Novistador in one account, the Verdugo in the other. |
+| **Luis's end** | II | The concourse in one account, the mines' cargo platform in the other | Luis with the Amber, and Saddler or Krauser reaching him | Luis dies, and gives whoever is with him his suppressant and his laboratory key. |
+| **The knife** | II–III | The mines in one account; a catwalk on the island, in Act III, in the other | Leon and Krauser | They fight with knives and nothing else, as Krauser trained him to. |
+| **The furnace** | II | The blast furnace | Anyone who goes down to it | Two Gigantes, one of them armored. |
+| **The laboratory** | II | The castle's laboratory | Anyone waiting there for the elevator | The Verdugo comes down from the ceiling. |
+| **Salazar's end** | II | The ancient chantry | Salazar, and someone to fight him | Salazar becomes what his Plaga makes of him. When he dies, Ada leaves the boat key at the castle dock, and the island opens. |
+| **The handover** | II | The castle dock | Salazar alive, Ashley taken, and Krauser at the dock | Salazar gives Ashley to Krauser, who takes her across to the island. |
+| **The cell** | III | The island's facilities | Ashley held there | Keycards open her cell, one level at a time. |
+| **The ruins** | III | The trapped ruins | Krauser alive | Krauser fights for three insignias. His arm becomes a blade. |
+| **U-3** | II–III | In one account, the caves below the island's ruins, in Act III; in the other, the mines below the castle, in Act II | In the first, anyone who goes down; in the second, Ada Wong | In the first, U-3 waits among the hanging container rigs. In the second, the Pesanta hunts Ada through the castle, plants a Plaga in her, and turns to fight her in the mines. |
+| **Mike** | III | The military base | Mike arriving | His helicopter covers whoever fights below. In the records it was brought down. If the guns are silenced and nothing brings him down, he lands (Section 14). |
+| **The machine** | III | Luis's laboratory | Luis's key, and two people | The machine burns out a Plaga (Section 07). |
+| **Saddler** | III | The loading docks | Saddler alive, and someone to fight him | Ada hangs from a crane as bait. When he is down, Ada throws the special rocket launcher, and one shot ends him. Every Plaga dies with him (Section 07), and the island's end begins. |
+
+**The named hosts and creatures.** Each is ended only the way the records ended it. Anything else only slows it.
+
+| Who | Where | Act | How the records ended it |
+|---|---|---|---|
+| **Dr. Salvador** | The plaza, and again later | I–II | Headshots and explosives. The bell ends his first siege whether he is dead or not. |
+| **Del Lago** | The lake | I | Harpoons thrown from a boat. Nothing else hurts it. |
+| **El Gigante** | The quarry; the battlements, armored; the blast furnace, two at once | II | Its body cannot be hurt. Shot until it kneels, it shows the Plaga on its back, and someone climbs up and cuts it out. The armored one falls to the battlements' cannon; the furnace's pair are dropped into the molten iron. |
+| **The Bella Sisters** | The checkpoint | II | Like any host, but much harder to stop |
+| **Bitores Mendez** | The village, the manor, the slaughterhouse | I–II | The village chief and priest, a giant: calm, imposing, and relentless once he has decided. His first form falls when its spine is cut; his second hangs from the rafters. |
+| **Garradors** | The dungeon and the castle | II | Blind, steel-clawed, hunting by sound. Only the Plaga on the back can be hurt. They charge at noise and stick in walls. |
+| **Novistadors** | The sewers and the ballroom's nest | II | Insects that are invisible until close, and later fly. Flashbangs bring them down. |
+| **Armaduras** | The library and the mausoleum | II | Suits of armor with a Plaga inside. Light holds them back; only the Plaga can be hurt. |
+| **The Verdugo** | The castle's laboratory | II | Salazar's right hand. In one account it is Isidro Uriarte Talavera, a servant who made himself into it. Nothing hurts it until it is frozen with liquid nitrogen, and it can be outlasted until the elevator comes. |
+| **Ramón Salazar** | The castle; the ancient chantry | II | The eighth castellan, small and aged-looking: in one account he is twenty. Sadistic and theatrical. His monster falls when its great eye is shot, then Salazar himself, in the pod. |
+| **Jack Krauser** | The castle, the mines, the island ruins | II–III | Leon's old mentor, thought dead, bitter at those who left his unit to die, and hungry for power. In the mines, knives only. In the ruins, his blade-arm cannot be hurt; his body can. |
+| **U-3** | The island's caves in one account; the castle and its mines in the other, where it is called the Pesanta | II–III | In the first account it falls into the chasm with the third container rig and is finished by the Plaga on its back. In the second it was once Salazar's housekeeper, made into it by the servant who made himself into the Verdugo; it falls when the weak points on its belly and the tip of its tail are struck. |
+| **Regenerators and Iron Maidens** | The island's facilities | III | They regrow what is shot off. Every Plaga inside must die, and they can be seen only through a thermal scope. |
+| **Osmund Saddler** | The church, the castle, the island | II–III | The leader of Los Iluminados. Contemptuous, patient, and in command of every host. The eyes on his limbs bring him down, and Ada's rocket ends him. |
+
+Everywhere else, the hosts of each part are its common enemies: Ganados with farm tools, molotovs, and dynamite in the village; Zealots with scythes, shields, and crossbows in the castle; soldiers with stun rods and rocket launchers on the island. Colmillos, the Plaga's dogs, run in all three, and Brutes in cow-skull masks lead the worst of them.
+
+**Companions**
+
+| Person | Records | Who they are | What they do well | What they will not do |
+|---|---|---|---|---|
+| **Leon S. Kennedy** | *Resident Evil 4* | A government agent, twenty-seven, six years after Raccoon City, sent for the President's daughter and trained, once, by Krauser. Dry under fire, mission first, haunted by the city. | A handgun, a shotgun, a knife that parries | Leave without Ashley, or take the machine before she has |
+| **Ashley Graham** | *Resident Evil 4* | The President's daughter, twenty, a college student, with a Plaga in her from the start: Hatched when she is found. In one account she is helpless; in the other she is a partner who will not stay down. | Fits through gaps no one else can; works the machine and the cranes; sits in the second chair of any puzzle built for two | Fight. Or stay where she is told when Leon is calling (Ties). |
+| **Luis Serra** | *Resident Evil 4* | In one account, a researcher Saddler hired who calls himself an ex-policeman from Madrid: mocking, flirtatious. In the other, a former Umbrella researcher who built the machine and wants to undo what he helped make. | Knows the valley; carries the suppressant | Tell all of it |
+| **Ada Wong** | *Resident Evil 4* | Albert Wesker's agent, here for the Amber. In one account she means to give Wesker less than he asked; in the other she turns against him, and carries a Plaga the Pesanta put in her. | A grapple and a crossbow; appears where she is needed | Fire on Leon or on whoever he follows. She leaves with the Amber, and her helicopter carries only her (Ties). |
+
+| Person | Records | Who they are |
+|---|---|---|
+| **Mike** | *Resident Evil 4* | The helicopter pilot Hunnigan sends: cheerful under fire, and as brave as his records. He flies, and never leaves his seat. |
+| **The Merchant** | *Resident Evil 4* | A hooded arms dealer who deals with anyone "as long as the price is right." He trades what he carries for the treasures of the valley. He harms no one, and nothing harms him. The records never say what he carries inside him, and neither does ΜΝΗΜΗ: he is still there after Saddler dies. |
+
+**The Island's End.**
+
+- **The count begins** when Saddler dies. In one account it is Ada Wong's bombs; in the other, the override Albert Wesker had her connect in the comms facility. The island has three minutes.
+- **If Saddler lives,** the count begins anyway, twenty minutes after the signal. Wesker counted everyone on the island an acceptable loss.
+- **Saddler's death raises the signal** at once if it has not yet risen, at any minute of the night.
+- **The count is in the world.** The island's sirens and loudspeakers give it every thirty seconds, then every second of the last ten.
+- **Every way out in the Valley leaves before the blast,** on the mainland too, after its Last Call. The blast takes the island and everything on it, and the night ends with it. Survivors still on the mainland have been left behind (Section 14).
+- **Endless** has no island's end. Its Saddler never dies of anything but a Beacon.
+
+**Not in the Valley.** Ingrid Hunnigan is a voice on Leon's radio, and Salazar can take her line. Albert Wesker is on a ship offshore and is never seen. No child is placed, and in the records the Plaga killed every child it entered.
 
 #### Eyes and Ears
 
@@ -1521,7 +1942,7 @@ Dead Drop has no icons. No name tags, no markers over teammates, no radar, no pi
 
 A survivor wins by being extracted: clean, cured, or still infected. The Turned win when every survivor has fallen and at least one Turned is still standing. A squad's result is recorded survivor by survivor.
 
-The Ledger does not rank a night by its result alone. It counts what a survivor did: public objectives completed, puzzles solved, survivors raised, doses given away, Turned put down. Then it weighs that count by the result: most for a clean extraction, less for a cured one, least for an infected one. A survivor who extracted clean and did nothing has a clean result and an empty page.
+The Ledger does not rank a night by its result alone. It counts what a survivor did: public objectives completed, puzzles solved, survivors raised, the Stranded freed and brought out, doses given away, Plagas burned out of others, Turned, Taken, and Defectors put down. Then it weighs that count by the result: most for a clean extraction, less for a cured one, least for an infected one. A survivor who extracted clean and did nothing has a clean result and an empty page.
 
 ---
 
@@ -1536,13 +1957,13 @@ Outbreak is played as the eight people who were in J's Bar when Raccoon City fel
 
 | Survivor | Who they were | Edge | Weakness | Carries |
 |---|---|---|---|---|
-| **Kevin Ryman** | Police officer | An aimed shot that hits harder than anyone's, and a kick that clears a path | Few rounds; his pistol is loud | A service pistol |
+| **Kevin Ryman** | Police officer | An aimed shot that hits harder than anyone's, and a kick that clears a path | His virus runs faster than most | His own .45 |
 | **Mark Wilkins** | Security guard, war veteran | The toughest body of the eight; braces and shoves the dead back | Too big to hide in tight places | His own handgun |
 | **Jim Chapman** | Subway worker | Plays dead well enough to fool the dead; knows every tunnel; his lucky coin sometimes turns a blow crushing | His virus runs faster than anyone's | A lucky coin |
 | **George Hamilton** | Surgeon | Mixes medicine from herbs; reads a stranger's exact stage; names the virus by examining a body | Weak in a fight | A medical kit |
 | **David King** | Plumber | Builds and repairs weapons from junk; opens hatches and fixes what is broken | Slow with a gun | A toolbox and a knife |
-| **Alyssa Ashcroft** | Journalist | Picks locks; steps back from an attack; hears ΜΝΗΜΗ's public broadcasts from farther than anyone | Fragile | A lockpick |
-| **Yoko Suzuki** | Student, once an Umbrella employee | A rucksack that holds twice what anyone else can; knows Umbrella's doors | Weak in a fight | A rucksack |
+| **Alyssa Ashcroft** | Journalist | Picks locks; steps back from an attack; an aimed shot with a handgun | Weak in a fight up close | A lockpick |
+| **Yoko Suzuki** | Student, once an Umbrella employee | A rucksack that holds twice what anyone else can; slips out of a grab; knows Umbrella's doors from her years in its laboratory | The weakest body of the eight, and the slowest runner | A rucksack |
 | **Cindy Lennox** | Waitress at J's Bar | Carries more herbs than anyone and heals others best; ducks under attacks | Below average at everything else | An herb case |
 
 Each of the eight has items of their own hidden in every scenario. Finding them unlocks what they wore and what they said.
@@ -1885,7 +2306,7 @@ That was the third thing Pithos wanted from the beginning. It did not only want 
 
 ## 24 · THE AFTER-ACTION REPORT
 
-When a session ends, ΜΝΗΜΗ writes what happened. This is the only place in the survival modes where time is shown as a number, and only once the night is over. Every connected report is a page of the Ledger.
+When a session ends, ΜΝΗΜΗ writes what happened. This is the only place in the survival modes where the time a survivor lasted is shown as a number, and only once the night is over. Every connected report is a page of the Ledger.
 
 ```
 AFTER-ACTION REPORT
@@ -1997,11 +2418,17 @@ On the corner, a transport truck lies on its side, an umbrella painted on its do
 
 **A stranger.** Another survivor steps out of a doorway, hands raised, a crowbar hanging from one of them. You look at their neck. They look at yours. Theirs is already marked, blue-grey lines climbing toward the jaw, further along than yours. They tell you, very quietly, that they were bitten in the hospital, that they carry the one that feeds on fear, and that they have spent every minute since learning to stay calm. You lower the pipe. You share a bandage. Nothing happens, and nothing has to. You walk together.
 
+**Fever.** Your hands have started to shake. A shop window gives you your reflection: fine rust-red lines spreading from the Mark. You can hear your own pulse.
+
+**The second day.** Every radio on the street clicks on at once.
+
+```
+ΜΝΗΜΗ: 29 SEPTEMBER 1998.
+```
+
 **The gun shop.** Two blocks on, a steel shutter, the dead piled against it, and a man's voice behind it, swearing. It is loud work getting them off the shutter, and when it rolls up, Robert Kendo is standing behind his own counter with a shotgun and two shells left. He looks at your neck, and the stranger's, and says he will come with you if you get him out of this street. Only one of you can bring him. The stranger shrugs. He is yours.
 
 Kendo tells you about the back room. The vault has two locks, one at each end of the shop, and they have to turn together. For a second you stand thirty feet apart with your backs to each other. The locks turn. Inside: a magnum and six rounds, and a box of shotgun shells. The stranger looks at the magnum for a long time. Then they take the shells, hand them to Kendo, and nod at you.
-
-**Fever.** Your hands have started to shake. A shop window gives you your reflection: fine rust-red lines spreading from the Mark. You can hear your own pulse.
 
 **Silence.** Nothing has happened for a long time. Somewhere, a radio begins to hum.
 
@@ -2033,7 +2460,9 @@ Kendo tells you about the back room. The vault has two locks, one at each end of
 
 ```
 ΜΝΗΜΗ: ELPIS RESERVE DEPLETED.
-ΜΝΗΜΗ: EXTRACTION SIGNAL ACTIVE.
+ΜΝΗΜΗ: 30 SEPTEMBER 1998.
+A MISSILE IS ON ITS WAY TO RACCOON CITY.
+TIME TO IMPACT: 20 MINUTES.
 WAYS OUT: 3.
 ```
 
@@ -2095,7 +2524,7 @@ One more thing is never drawn: a survivor's own Mark, for the player who carries
 
 Resident Evil Online is built on Capcom's RE Engine for PlayStation 5, Xbox Series X|S, and PC. Every platform plays with every other, and an account is the same account everywhere: everything a player has earned, bought, or unlocked follows them to every platform they sign in on.
 
-Its Dead Drop worlds are places Capcom has already rebuilt on the RE Engine: Raccoon City, its police station, hospital, and laboratory from the remakes of *Resident Evil 2* and *3*; the ruins and ARK from *Resident Evil Requiem*; the valley and the castle from the remake of *Resident Evil 4*. Each is rebuilt for a crowd of survivors and a city of the dead rather than modelled from nothing. That reuse is the largest single saving in the game's budget (Section 35), and the reason these three places were chosen.
+Its Dead Drop worlds are places Capcom has already rebuilt on the RE Engine: Raccoon City, its police station, hospital, and laboratory from the remakes of *Resident Evil 2* and *3*; the ruins and ARK from *Resident Evil Requiem*; the valley, the castle, and the island from the remake of *Resident Evil 4*. Each is rebuilt for a crowd of survivors and a city of the dead rather than modelled from nothing. That reuse is the largest single saving in the game's budget (Section 35), and the reason these three places were chosen.
 
 ### Servers
 
@@ -2103,11 +2532,19 @@ Every online session runs on a dedicated server, and ΜΝΗΜΗ runs on it. The 
 
 ### Matchmaking
 
-Dead Drop matches by region and by kind of night, Solo or Squad (Section 20), and the game opens with three regions. A night waits up to two minutes for sleepers alone. After that, ΜΝΗΜΗ completes it with Echoes, up to a quarter of its survivors and never inside a sleeper's squad (Section 23). No night starts with fewer than forty survivors in all. When a queue stays short even then, neighbouring regions merge.
+Dead Drop matches by region and by kind of night, Solo or Squad (Section 20), and the game opens with three regions. A night waits up to two minutes for sleepers alone. After that, ΜΝΗΜΗ completes it with Echoes, up to a quarter of its survivors and never inside a sleeper's squad (Section 23). No night starts with fewer than forty survivors in all, or sixty-four in the Valley. When a queue stays short even then, neighbouring regions merge.
 
 ### Echoes, in Practice
 
 Echoes are not trained minds. Each is a conventional game AI: a set of behaviors and priorities for waking, scavenging, fleeing, trusting, and betraying, tuned to one Way from what the telemetry of real nights shows that Way doing. Rebuilding the Echoes means retuning those priorities as the telemetry changes, once a season. This keeps the system inside a game budget and makes every Echo testable: a Bargainer that breaks its word more often than its Way's sleepers did is a bug, and can be fixed.
+
+Companions and the Stranded run on the same kind of AI. Each unnamed Stranded speaks from a short set of lines written for their background and their moment; each named one speaks lines written for them. A Stranded's replies are chosen from a fixed list (Section 20), so no line is ever generated during a night. In the story nights, each person of the records also carries a thread: an ordered list of places and a goal, followed with the same AI. Each beat is a scripted scene with conditions, and it runs in the world only when they hold.
+
+### As Recorded, in Practice
+
+Every person and named creature with a first account ships two bodies. The as-recorded body is built from the original game's own model and textures: the PlayStation for *Resident Evil 2* and *3*, the PlayStation 2 for *Outbreak*, the GameCube for *Resident Evil 4*. It is rigged to the modern skeleton, fitted to the modern body's proportions for people, and plays the modern animations. Its textures are shown unfiltered, as the originals were, and the RE Engine lights it like everything else. Collision, hit areas, the Mark, and every weak point come from the night, never from the old model. The work is rigging, fitting, and tuning on art Capcom already owns, not new art.
+
+The classic looks are a display setting in the Extras menu: **Classic looks: On** (the default) or **Rebuilt only**. The setting changes only what that player's own screen draws. It is free, it is never sold, it works offline, and it never changes what any person or creature does.
 
 ### Sound
 
@@ -2268,13 +2705,13 @@ Everything sold or earned in Resident Evil Online changes how something looks an
 - **Shape and tier.** A cosmetic keeps the silhouette of what it dresses. A light helmet still looks like a light helmet and a heavy one like a heavy one; a pistol still looks like a pistol.
 - **Brightness.** Nothing is darker, duller, or better hidden against a wall or in the dark than the plain item it replaces. A dress or gear piece that blends into the night is never made.
 - **No light, no sound.** No cosmetic glows, flickers, or makes a sound of its own. Footsteps are footsteps.
-- **The Mark is never covered.** No dress, gear, or face hides the neck, the jaw, or the lower face, where the Mark's lines run. Everyone can always read everyone's neck.
+- **The Mark is never covered.** No dress, gear, or face hides the neck, the jaw, or the lower face, where the Mark's lines run, or the eyes, where a Plaga shows in the Valley. Everyone can always read everyone's neck.
 - **Hit areas are the body's.** No cosmetic changes the size of a survivor, a Turned, or a monster, or where it can be hurt.
 - **Forms keep their strain.** A monster's look keeps its strain's colors and patterns and every weak point the strain gives it: the glowing core of Uroboros, the yellow eye-tumors of the G-Virus.
 - **Gestures stay shared.** The raised hand, the lowered weapon, and the signal to follow are the same for everyone, because survivors use them to talk. Poses bought or earned are for the Dossier.
 - **The tone holds.** Everything worn could be worn by someone in these places. Event dress may be macabre; it is never a joke.
 
-Companions are never dressed: Leon Kennedy in a Dead Drop is who the records say he was. The eight of Outbreak, the familiar faces of Versus and Mercenaries, and every original survivor can be.
+Companions and the Stranded are never dressed: Leon Kennedy in a Dead Drop is who the records say he was. The eight of Outbreak, the familiar faces of Versus and Mercenaries, and every original survivor can be.
 
 ### What Can Be Owned
 
@@ -2348,7 +2785,7 @@ The service runs in seasons of about ten weeks. Each season, ΜΝΗΜΗ rehearse
 
 ### The Season's Story
 
-Each season's forecast is shaped by one of the questions Pithos has never closed (Section 4): who sent the soldiers into ARK and what they carried out, who the Family are, who truly leads the Connections, and, behind them all, what Spencer told Alyssa Ashcroft. A season never answers its question. It moves it: new files in the nights, a new last page in the Casefile, a new record that does not fit. Over the life of the service the questions close one by one, and the last to close is the one Pithos fears most.
+Each season's forecast is shaped by one of the questions Pithos has never closed (Section 04): who sent the soldiers into ARK and what they carried out, who the Family are, who truly leads the Connections, and, behind them all, what Spencer told Alyssa Ashcroft. A season never answers its question. It moves it: new files in the nights, a new last page in the Casefile, a new record that does not fit. Over the life of the service the questions close one by one, and the last to close is the one Pithos fears most.
 
 ### The Casefile
 
@@ -2368,11 +2805,11 @@ When an event ends, the event itself ends: its condition, its variant, and its t
 
 ### Hallowed Night
 
-The autumn event shows how the rules work together. For two weeks, ΜΝΗΜΗ runs *Hallowed Night*, a condition in two places. In the valley, the villagers walk in the masks and robes of an All Saints' procession they never finished. In the Ruins, the old dead are joined by newer ones: thrill-seekers who climbed the wall on Halloween night in costume, to dare each other inside. The event's own tasks pay out macabre dress and gear: a carved-pumpkin charm, a Mr. Raccoon figurine in a sheet, a mourning dress, a carved-bone helmet look in both tiers. A player who plays the event earns its items free. When the two weeks end, *Hallowed Night* is gone from the maps, and every item it gave is in the Wardrobe.
+The autumn event shows how the rules work together. For two weeks, ΜΝΗΜΗ runs *Hallowed Night*, a condition in two places. In the Valley, the villagers walk in the masks and robes of an All Saints' procession they never finished. In the Ruins, the old dead are joined by newer ones: thrill-seekers who climbed the wall on Halloween night in costume, to dare each other inside. The event's own tasks pay out macabre dress and gear: a carved-pumpkin charm, a Mr. Raccoon figurine in a sheet, a mourning dress, a carved-bone helmet look in both tiers. A player who plays the event earns its items free. When the two weeks end, *Hallowed Night* is gone from the maps, and every item it gave is in the Wardrobe.
 
 ### The Calendar Rule
 
-An event never places a date on a map that its records forbid. The Raccoon City of September 1998 never sees the end of October, because the missile fell on its first morning. An autumn event runs in the valley and in the Ruins, where the records allow the end of October. Event dress is ΜΝΗΜΗ's to compose and may appear on any map; an event's conditions and variants appear only where the calendar allows them.
+An event never places a date on a map that its records forbid. The Raccoon City of September 1998 never sees the end of October, because the missile fell on its first morning. An autumn event runs in the Valley and in the Ruins, where the records allow the end of October. Event dress is ΜΝΗΜΗ's to compose and may appear on any map; an event's conditions and variants appear only where the calendar allows them.
 
 ### Release Weekends
 
@@ -2384,7 +2821,7 @@ Every release of new things for sale arrives with a Release Weekend (Section 29)
 
 ### What Arrives
 
-New places and new nights arrive through the life of the service: Dead Drop maps and new versions of existing ones, Outbreak scenarios, compact maps, Recollection frames, companions. All of it is free on the day it opens to the public: to every First Run owner before the Opening, and to everyone after it.
+New places and new nights arrive through the life of the service: Dead Drop maps and new versions of existing ones, Outbreak scenarios, compact maps, Recollection frames, companions, the Stranded. All of it is free on the day it opens to the public: to every First Run owner before the Opening, and to everyone after it.
 
 ### The Order of Arrival
 
@@ -2395,7 +2832,7 @@ The game does not launch with everything in this document. It launches with what
 | **Launch** | Dead Drop in Raccoon City, September 1998. Outbreak with four scenarios: *Outbreak*, *The Hive*, *Hellfire*, *Below Freezing Point*. Mercenaries on the Hospital, the Laboratory, and the Metro. Recollections. |
 | **First Run, first year** | Versus and the Military Base. Endless. Three more Outbreak scenarios. |
 | **First Run, second year** | Raccoon City Ruins, 2026. The last three Outbreak scenarios. |
-| **After the Opening** | The Village and the Castle, 2004. Infection, once the Echoes of Versus and Mercenaries exist to feed it. Whatever else the service can pay for (Promise 14). |
+| **After the Opening** | The Valley, 2004: the village, the castle, and the island. Infection, once the Echoes of Versus and Mercenaries exist to feed it. Whatever else the service can pay for (Promise 14). |
 
 The order follows cost. Raccoon City in 1998 is the world Capcom has rebuilt most completely, and Mercenaries reuses everything Dead Drop and Outbreak build. Each new world is a new night to watch before it can be played alone.
 
@@ -2604,7 +3041,7 @@ All [A], with off-peak taken as 40% of peak and Dead Drop as 60% of all play. Th
 
 1. **A weak First Run.** Below about 7.5 million copies, the project does not recover its cost; at 4 million it loses about $85M. Everything rests on Dead Drop being good enough to sell at launch.
 2. **The free phase earns little per player.** Earnable looks, no urgency, and no currency for sale keep revenue per free player low. The free game must stay large to run more than a small service.
-3. **Scope creep.** The launch only holds at $121M if the roadmap holds. Adding the Ruins, the valley, or Infection before launch pushes the cost toward the roughly $290M the full design would cost at launch [A].
+3. **Scope creep.** The launch only holds at $121M if the roadmap holds. Adding the Ruins, the Valley, or Infection before launch pushes the cost toward the roughly $290M the full design would cost at launch [A].
 
 **The three conditions for sustainability**
 
@@ -2628,3 +3065,7 @@ All [A], with off-peak taken as 40% of peak and Dead Drop as 60% of all play. Th
 ## WAKE. SURVIVE. BE REMEMBERED.
 
 ### ΜΝΗΜΗ remembers.
+
+---
+
+*Created by Johnny Kestler, with Claude (Anthropic). Generative AI was used in the creation and editing of this document.*
