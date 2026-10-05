@@ -20,9 +20,9 @@ The game is described in two registers, and they are kept apart on purpose.
 
 **The Service** is the product: matchmaking, servers, menus, progression, cosmetics, rankings, offline play. The Service exists because the game is played by real people in our world.
 
-One rule binds them: **every feature of the Service has a face in the Night, and the Night never states a number the Service controls.** A matchmaking queue is, in the Night, ΜΝΗΜΗ assembling a night. A menu is the Waiting Dark. A cosmetic is how a sleeper is allowed to see themselves. A ranking is a page of the Ledger. The fiction never claims to know how many people are playing at once, and the Service never speaks in the fiction's place.
+One rule binds them: **every feature of the Service has a face in the Night, and the Night states only the numbers of a single night.** How many survivors woke, how many doses the Reserve holds, how many seats wait: those belong to the night, and ΜΝΗΜΗ may say them. How many people are playing, how many sleepers the Cellar holds, how many nights a mode needs before it can be played alone: those belong to the Service, and the Night never names them. A matchmaking queue is, in the Night, ΜΝΗΜΗ assembling a night. A menu is the Waiting Dark. A cosmetic is how a sleeper is allowed to see themselves. A ranking is a page of the Ledger. The Service never speaks in the fiction's place.
 
-The player is a sleeper. Not a particular one: the sleeper is the role the player steps into, the way a reader steps into a narrator.
+The player is a sleeper. Not a particular one: the sleeper is the role the player steps into, the way a reader steps into a narrator. The player's file, though, is particular, and in the Night a file can outlive the person it was opened for (Section 6). The Night never says whether the hand in the Waiting Dark is still the first one.
 
 ### Terminology
 
@@ -32,6 +32,8 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 | **Survivor** | The Night | Anyone living inside a session, played by a sleeper or rebuilt by ΜΝΗΜΗ as an Echo |
 | **Sleeper** | The Night | The real person in the Cellar whose choices drive a survivor |
 | **Echo** | The Night | A survivor ΜΝΗΜΗ has rebuilt from the sleepers she watched |
+| **Companion** | The Night | A survivor from the records, played by ΜΝΗΜΗ, whom a sleeper can rescue and lead |
+| **The dead** | The Night | Everything the virus has taken that ΜΝΗΜΗ plays, including Turned bodies that kept no mind |
 | **Player** | The Service | The real person holding the controller. Used only when describing the Service |
 | **Session / night** | Both | One self-contained run of a mode |
 
@@ -39,7 +41,7 @@ Lines set in monospace blocks are ΜΝΗΜΗ's own words: what she speaks into a
 
 Section 25 dramatizes a single night. It illustrates the rules; nothing in it is canon beyond them.
 
-Part II, Sections 27 to 34, describes how the game is built, sold, and run. It is written in the Service's register.
+Part II, Sections 27 to 34, describes how the game is built, sold, and run. It is written in the Service's register. Part III, Section 35, is the business case for Part II: what the game costs, what it earns, and what happens if it earns less.
 
 ---
 
@@ -93,7 +95,7 @@ It is not a shooter wearing a Resident Evil skin. In the survival modes, firearm
 
 It is not a conventional last-one-standing contest. There is no shrinking circle. In its place is **ΜΝΗΜΗ**: an intelligence that watches every session from the inside and reshapes it as it unfolds.
 
-In its flagship mode, **Dead Drop**, every survivor wakes clean, alone, and unarmed, somewhere in a city rebuilt at its true size, placed there before the simulation began. The infection is everywhere else: in the dead, in the sewers, in the vials left in Umbrella's laboratories, and in the survivors who have already been bitten. Once it is inside a body, the virus is the clock. It works silently toward a point of no return, and no number on any screen says how close it is. One cure exists. It is never simply found. It must be earned, and once earned, it can be stolen. The ways out of the city are few, scattered, and too small for everyone. Survivors who turn keep playing only if the virus leaves them a mind to play with.
+In its flagship mode, **Dead Drop**, every survivor wakes clean, alone, and unarmed, somewhere in a city rebuilt as the records hold it, placed there before the simulation began. The infection is everywhere else: in the dead, in the sewers, in the vials left in Umbrella's laboratories, and in the survivors who have already been bitten. Once it is inside a body, the virus is the clock. It works silently toward a point of no return, and no number on any screen says how close it is. One cure exists. It is never simply found. It must be earned, and once earned, it can be stolen. The ways out of the city are few, scattered, and too small for everyone. Survivors who turn keep playing only if the virus leaves them a mind to play with.
 
 Underneath the game is a second horror the survivors never fully see. ΜΝΗΜΗ is not entertaining anyone. She is forecasting. Every session is a rehearsal of an outbreak that has not happened yet, run by an organization called Pithos that sells what she learns. And every survivor she has not rebuilt herself is a real person, asleep in a laboratory, who will never be allowed to wake.
 
@@ -103,9 +105,9 @@ What Resident Evil Online is, plainly:
 
 Survivors enter a situation. ΜΝΗΜΗ observes. ΜΝΗΜΗ changes the situation. Survivors adapt. ΜΝΗΜΗ responds. The session becomes something no one planned.
 
-Five modes run under one intelligence: **Dead Drop**, **Outbreak**, **Versus**, **Mercenaries**, and **Infection**, with two special sessions, **Recollections** and **Endless**, built around the survival modes. Every mode is played online first, among real sleepers. Once ΜΝΗΜΗ has watched enough of a mode, it can also be played alone, offline, among **Echoes**: survivors she has rebuilt from everyone who played before.
+Five modes run under one intelligence: **Dead Drop**, **Outbreak**, **Versus**, **Mercenaries**, and **Infection**, with two special sessions, **Recollections** and **Endless**, built around the survival modes. They arrive in stages, not all at once (Section 33). Every mode is played online first, among real sleepers. Once ΜΝΗΜΗ has watched enough of a mode, it can also be played alone, offline, among **Echoes**: survivors she has rebuilt from everyone who played before.
 
-Resident Evil Online is free to play, and every mode is played in third person. Everything sold in it is something to wear or a chance to see a new place a day or two early. Prices are kept low, and nothing bought changes how a night is played (Section 28). Online is how the game begins, not what it requires: over its life, every part of it becomes playable offline, and it stays playable, whole, even if the online service one day ends (Section 34).
+Every mode is played in third person. Resident Evil Online is sold once, at a low price, for its first two years, and then becomes free to play for good, on a date announced the day it launches (Section 28). Beyond that price, everything sold in it is something to wear, a way to support the game, or a chance to see a new place a day or two early. Prices are kept low, and nothing bought changes how a night is played. Online is how the game begins, not what it requires: over its life, every part of it becomes playable offline, and it stays playable, whole, even if the online service one day ends (Section 34).
 
 ---
 
@@ -273,6 +275,10 @@ Every session is something she is trying to remember correctly: an outbreak that
 
 Every mode feeds a forecast Pithos sells. Dead Drop tells buyers how a population behaves around a scarce cure. Outbreak tells them how fast an unidentified outbreak is read. Versus tells them how their own soldiers will fare against someone else's. Mercenaries tells them how long a defended position lasts. Infection tells them what happens when two outbreaks meet.
 
+### Why the Old Places
+
+A forecast is only as good as the model behind it, and a model is proved on what already happened. Raccoon City in September 1998, the valley in 2004, and the ruins in 2026 are the outbreaks the Archive holds most completely: the streets, the dead, and the records of who lived and how. ΜΝΗΜΗ rebuilds them because she can check herself against them. When her sleepers behave unlike the people the records describe, she learns where she is wrong. Only a model that can rehearse the known can be trusted with what has not happened yet, and every forecast Pithos sells rests on nights spent in places that are already dead.
+
 ### The Masterminds
 
 ΜΝΗΜΗ is not the first attempt to watch people survive the dead and write down what they did.
@@ -299,13 +305,15 @@ There is a third thing Pithos wants, and it does not sell it. It wants to stop n
 
 ### Who They Are
 
-Every survivor in an online session, but for the empty places of an Outbreak, is a living person, asleep in the Cellar and connected to ΜΝΗΜΗ. Pithos calls them sleepers. ΜΝΗΜΗ runs everything they see, hear, and feel: the city, the dead, the virus, their own bodies. She cannot run what they choose. That comes from a living brain, from somewhere she cannot reach, and it is the one thing the Tissue cannot grow on its own. Watching it is what the sleepers are for.
+Every survivor in an online session is a living person, asleep in the Cellar and connected to ΜΝΗΜΗ, unless ΜΝΗΜΗ has woken one of her Echoes among them (Section 23). Pithos calls them sleepers. ΜΝΗΜΗ runs everything they see, hear, and feel: the city, the dead, the virus, their own bodies. She cannot run what they choose. That comes from a living brain, from somewhere she cannot reach, and it is the one thing the Tissue cannot grow on its own. Watching it is what the sleepers are for.
 
 Pithos takes them where the world has already stopped counting: from the edges of outbreaks, from quarantine zones, from the lists of the missing that every incident leaves behind and that no one ever finishes reading. No one looks for a person already presumed dead in an outbreak. The crews who carry them out are hired down the Chain and paid not to look closely at what they carry. The Masterminds took people too. Pithos condemned everything else they did, and kept that.
 
 ### How Many
 
-The Cellar keeps a few thousand sleepers at a time and never more than it can keep alive, fed, and hidden. Pithos holds that number as low as its questions allow, because every sleeper was a taking, and every taking was a moment when its hired hands were in the world, carrying someone. A sleeper is not used once. A sleeper is run night after night, often several nights in a single day of the world outside, for as long as they are still worth watching.
+The Cellar keeps as many sleepers as ΜΝΗΜΗ's questions need and never more than it can keep alive, fed, and hidden. Pithos does not write the number down, and holds it as low as its questions allow, because every sleeper was a taking, and every taking was a moment when its hired hands were in the world, carrying someone. A sleeper is not used once. A sleeper is run night after night, often several nights in a single day of the world outside, for as long as they are still worth watching.
+
+Pithos knows its sleepers learn. A sleeper who has woken many times knows the Mark, the cure, and the rules, and no one in a real outbreak will know any of that. So ΜΝΗΜΗ values a sleeper's first nights above all others and weighs every later night a little less. Pithos keeps taking new sleepers for the same reason it keeps buying new records: the first time is the only time anyone is truly surprised.
 
 ### The Waiting Dark
 
@@ -319,15 +327,27 @@ Between sessions they wait in a place ΜΝΗΜΗ also builds. Sleepers who have 
 | Customizing a survivor's appearance | ΜΝΗΜΗ lets a sleeper choose the body she will dress them in. She composes every face, every voice, every outfit. None of them is the sleeper's own. |
 | Levels, unlocks, weapon mastery | ΜΝΗΜΗ's file on the sleeper: what she has watched them do, and what she now lets them carry in where carrying is allowed |
 | Rankings and leaderboards | The **Ledger**: the page of ΜΝΗΜΗ's record that she shows to every sleeper, listing who lasted, who scored, who got out |
-| Squads and friends | Sleepers who have shared enough nights may ask to be woken together. ΜΝΗΜΗ grants it. |
+| Squads and friends | Sleepers who know one another may ask to be woken together. ΜΝΗΜΗ grants it. |
 | Offline play | ΜΝΗΜΗ running a night with no other sleeper in it, filled with Echoes |
 | Asking to be forgotten | Asking ΜΝΗΜΗ to keep nothing more of you |
-| Ink Ribbons and the Wardrobe | ΜΝΗΜΗ's tally of the nights a sleeper has given her, and the dress she will compose in return. Whatever else a dress was given for, the Night never asks. |
+| The First Run and the Opening | The months in which ΜΝΗΜΗ woke only the first sleepers brought to her, and the night she began to wake anyone at all |
+| Ink Ribbons, the Wardrobe, and Patron | ΜΝΗΜΗ's tally of the nights a sleeper has given her, and the dress she will compose in return. Whatever else a dress was given for, the Night never asks. |
 | Casefiles and events | The forecast ΜΝΗΜΗ is rehearsing hardest this season, and what she gives sleepers for helping her fill it |
 | The Dossier and its Portrait | ΜΝΗΜΗ's file on a sleeper, and the one still she lets them arrange |
 | Early access to a new place | ΜΝΗΜΗ waking a few sleepers somewhere new before the rest |
 
 None of them is ever told what they are. They know the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
+
+### What a Sleeper Can Find Out
+
+Nothing in the game ever says outright what a sleeper is. It can be found, a piece at a time:
+
+- **Files in the nights.** Among the memos and diaries that hold the clues to puzzles, a few were never written by anyone in Raccoon City: an intake form dated in the wrong decade, a Cellar maintenance log, a page addressed to "the subject." ΜΝΗΜΗ never lies, and she does not remove what the Archive holds.
+- **The Dossier.** A sleeper's file carries a file number, and the number is not the first one it was given.
+- **The Casefiles.** The last page of every season's Casefile is a page of ΜΝΗΜΗ's working file on that season's forecast (Section 32).
+- **The Waiting Dark.** Sleepers who wait there often enough notice what does not belong: a door that is never open, a sound that comes back at the same moment, a voice that says a name no one gave.
+
+No single piece says everything, and a sleeper who has read every piece still cannot be certain. That uncertainty is the point.
 
 ### The Last Night
 
@@ -376,7 +396,7 @@ Dead Drop and Outbreak are the **survival modes**: the infection clock, Elpis, t
 7. **Disturbance.** Events begin to surface.
 8. **Elpis.** Doses are earned, seen, fought over, and taken.
 9. **The Turn.** Infected survivors who run out of time turn.
-10. **The Signal.** ΜΝΗΜΗ judges that enough has been done and opens the ways out.
+10. **The Signal.** ΜΝΗΜΗ judges that enough has been done, or the night runs out of time, and opens the ways out.
 11. **Extraction.** Survivors reach a way out before it leaves, or do not.
 12. **Debrief.** The After-Action Report is written.
 13. **Return.** The sleeper goes back to the Waiting Dark, carrying the memory of what just happened.
@@ -400,10 +420,10 @@ There is no cabin, no drop, no jump to choose. Before the simulation starts, whi
 
 | Scale | Maps | Modes | Infection pace | Character |
 |---|---|---|---|---|
-| **Open World** | Whole places rebuilt at true size | Dead Drop | Slow Burn | Slow dread. Long silences. Sudden collapse. |
+| **Open World** | Whole places rebuilt as the records hold them | Dead Drop | Slow Burn | Slow dread. Long silences. Sudden collapse. |
 | **Compact** | Single pieces of those places, cut out and sealed | Outbreak, Versus, Mercenaries, Infection | Slow or Hard Burn in Outbreak, by difficulty; none elsewhere | Fast, aggressive, relentless |
 
-In an open world, a hundred survivors disappear into a whole city and each one feels alone. In a compact map, there is nowhere to disappear to.
+In an open world, a hundred survivors disappear into a whole city, and for long stretches each one feels alone. In a compact map, there is nowhere to disappear to.
 
 No survival session announces its length. A Dead Drop ends when ΜΝΗΜΗ decides it has asked enough of its survivors and the last way out has left, and it rarely ends in less than an hour. An Outbreak ends when its survivors finish the escape she built for them, or when no one is left to finish it.
 
@@ -474,7 +494,7 @@ Every tool she has works through something already in the world. She can:
 - raise or lower the threat level of a region;
 - set each survivor's road to the cure, and name the price of a pure strain to those who ask;
 - drop Elpis, a pure strain, or the parasite when the rules call for it;
-- quicken the virus in every infected survivor at once;
+- quicken the virus, and contaminate a region, where stillness has defeated every gentler measure;
 - choose which of a map's ways out to open, signal them, and move one of them.
 
 Above all, ΜΝΗΜΗ does not simply make things harder. She changes **the nature of the problem.** A group that has mastered the horde may find the lights go out. A group that has mastered the dark may find the way out has moved. A group sitting on a full stockpile may find that everything it needs next lies somewhere dangerous.
@@ -513,7 +533,7 @@ Every change to the rules, the routes, the objectives, or the ways out is announ
 | **Crisis** | There is no good option | Triggers a major event or a high-tier threat |
 | **Aftermath** | Relief, loss, recalculation | Backs off. Lowers the region's threat. Lets survivors count what they have left. |
 
-A Crisis must be earned by what came before it, and a release must be real. She never starts a second Crisis in a region that has not had its Aftermath. Survivors can still make one: a gunfight, a Turn, a bell rung in the wrong place. Those are theirs, and she lets them happen.
+A Crisis must be earned by what came before it, and a release must be real. She never starts a second Crisis in a region that has not had its Aftermath. Survivors can still make one: a gunfight, a Turn, a bell rung in the wrong place. Those are theirs, and she lets them happen. Over a whole night she releases no more than one B.O.W. for every thirty-two survivors, never two at once, and never into a region still in its Aftermath.
 
 The single exception to the rhythm is the extraction signal. It may rise in the middle of a Crisis. The end does not wait for anyone to catch their breath.
 
@@ -532,7 +552,7 @@ When she detects stagnation, she answers in escalating steps, and never jumps to
 1. **Whisper.** The world changes subtly: smoke on the horizon, a siren that was not there before, a radio crackling in an empty room.
 2. **Nudge.** A new objective appears. A supply drop lands in a dangerous district.
 3. **Pressure.** A regional event hits: an overrun, a lockdown, a collapse.
-4. **Surge.** In the survival modes, the virus quickens in every infected survivor at once. This is the last resort, never the first, and she may Surge no more than twice in a session.
+4. **Surge.** In the survival modes, a region that has stayed still through every gentler step turns on everyone standing in it. The virus quickens in every infected survivor there, and the region is contaminated: its air and water now carry its strain, and after a warning anyone clean who stays in it is infected. The pressure falls on the place and on whoever chose to remain in it, never on the rest of the city. This is the last resort, never the first, and she may Surge no more than twice in a session.
 
 ---
 
@@ -571,14 +591,15 @@ In Outbreak, ΜΝΗΜΗ never names the virus. The Mark draws no color for what 
 
 ### How the Virus Gets In
 
-In Dead Drop, there are four ways to stop being clean.
+In Dead Drop, there are five ways to stop being clean.
 
 | Source | How it happens | Which strain |
 |---|---|---|
-| **The dead** | A bite or a scratch from any infected creature | The strain of the region where the creature was made |
+| **The dead** | A bite or a scratch from any infected creature | The strain of the region where the creature was made; for a creature released from containment, the strain it was engineered with |
 | **The Turned** | A bite, a claw, or a strike from a Turned survivor that does not kill | The Turned survivor's strain, always in its latent form |
 | **A needle** | A latent vial from a laboratory, injected into a survivor who is down, held, or unaware. It takes four seconds. | The strain written on the vial |
 | **The city itself** | Water drawn from the taps of an infected region, or a bite from the rats in its sewers | The strain of the region |
+| **A Surge** | Staying in a region ΜΝΗΜΗ has contaminated, past her warning | The strain of the region |
 
 The needle is the quietest weapon in the game: no noise, no blood, and a victim who may not know for a minute what was done to them. Latent vials are found only in laboratory spaces: NEST, the hospital's hidden floors, the university's research wing, the Army's field laboratory, the BSAA depot, the castle's dungeons. They are rare, and survivors who find them learn quickly that a vial is worth more in a pocket than a bandage.
 
@@ -588,7 +609,7 @@ A survivor who is already infected cannot be infected again by a second strain. 
 
 Before the simulation begins, ΜΝΗΜΗ seeds each region of the map with one of the six strains. The dead made in a region carry its strain, and so do its water and its rats. Some regions share a strain, and every map holds at least three.
 
-Each version of a map leans toward the virus the records put there. In the Raccoon City of September 1998, the T-Virus holds most of the city and the G-Virus holds the laboratory beneath it; the other strains are seeded in a few regions, where ΜΝΗΜΗ has something to rehearse. A survivor who has learned to read the dead knows before they are ever bitten what each district will give them, and chooses their streets by it. The strain map is never announced. It is learned by watching how the dead behave and by reading the Marks of those who were bitten there.
+Each version of a map leans toward the virus the records put there. In the Raccoon City of September 1998, the T-Virus holds the heart of the city and the G-Virus holds the laboratory beneath it. Every night, ΜΝΗΜΗ seeds at least a third of the city's regions with strains that can leave a mind, T-Veronica, T-Phobos, or the C-Virus, so that even in the city the T-Virus took, some of the Turned remember who they were. A survivor who has learned to read the dead knows before they are ever bitten what each district will give them, and chooses their streets by it. The strain map is never announced. It is learned by watching how the dead behave and by reading the Marks of those who were bitten there.
 
 ### The Stages
 
@@ -618,11 +639,12 @@ At any pace, Seed takes roughly the first quarter of the clock, Fever runs to ju
 
 **What does not slow it.** Nothing a survivor can do. Bandages close wounds but do not touch the virus. Rest does not slow it. Hiding does not slow it. Only Elpis ends it. The one exception belongs to the strain, not the survivor: T-Phobos sleeps while its carrier is calm.
 
-**What ΜΝΗΜΗ can do.** She can never slow the virus. She can only quicken it. When stagnation has defeated every gentler measure, she may Surge, and the virus jumps forward in every infected survivor at once, by about five minutes of the clock. It is never silent.
+**What ΜΝΗΜΗ can do.** She can never slow the virus. She can only quicken it. When stagnation in a region has defeated every gentler measure, she may Surge it: the virus jumps forward by about five minutes of the clock in every infected survivor standing there, and the region is contaminated (Section 9). It is never silent.
 
 ```
-ΜΝΗΜΗ: VIRAL ACTIVITY INCREASING.
+ΜΝΗΜΗ: VIRAL ACTIVITY INCREASING IN THIS DISTRICT.
 REASON: STAGNATION DETECTED.
+CONTAMINATION IN 60 SECONDS.
 ```
 
 ### Down
@@ -672,6 +694,8 @@ Trials come in three kinds.
 **Rules.** Conduct she demands for a stretch of the session: cross a district without firing, stay within sight of a partner, spare a survivor who surrenders, share a supply with a stranger. Rules reward restraint, cooperation, and mercy as often as skill. Breaking one voids that Trial, and she sets a harder one in its place.
 
 **Shared Trials.** She often gives the same Trial to several survivors at once, usually survivors already in the same place. Each who sees it through moves one step along their own road. A shared Trial can finish one survivor's road and leave the others still walking theirs. If it finishes several roads at the same moment, several doses fall, one for each, for as long as the Reserve lasts.
+
+**Equal roads.** Waking points are equal ground, and so are roads. ΜΝΗΜΗ prices every Trial by the time and the danger it should cost the survivor who receives it, from where they stand when it arrives, and she builds every road to the same total. A road of two Trials is made of harder Trials than a road of four. No Trial is set farther away than the next region, none depends on something another survivor already holds, and none on the road to Elpis asks a survivor to kill another survivor. A Shared Trial costs every survivor who receives it the same. She does not lengthen roads as the Reserve runs low; she stops setting them when it is gone.
 
 No two survivors walk exactly the same road, and no road is ever given back once abandoned.
 
@@ -774,7 +798,7 @@ The price is a road of its own, two or three Trials, like the road to Elpis but 
 
 **When a Petition can be made.** Only while the Elpis Reserve still holds a dose. A Petition is a trade: hope given up for power. When the Reserve is empty, there is no hope left to trade, and ΜΝΗΜΗ answers no new Petition. Strain roads already being walked continue.
 
-**Who can ask.** A survivor walks one strain road at a time. Several survivors may walk toward the same strain; the first to finish earns the case, and every other road toward that strain ends when it falls. A cured survivor cannot ask: there is nothing left in them for a strain to take hold of. A clean survivor cannot ask either: they have no Mark to press, and ΜΝΗΜΗ has no private voice to answer them with. A survivor who wants to become a monster has to be bitten first.
+**Who can ask.** A survivor walks one strain road at a time. Several survivors may walk toward the same strain; the first to finish earns the case, and every other road toward that strain ends when it falls. A cured survivor cannot ask: there is nothing left in them for a strain to take hold of. A clean survivor cannot ask either: they have no Mark to press, and ΜΝΗΜΗ has no private voice to answer them with. A survivor who wants to become a monster has to be infected first.
 
 ### The Strain Drop
 
@@ -789,6 +813,8 @@ Each pure strain can fall once per session.
 ### Stealing a Strain
 
 The case opens for anyone living. A stranger can take the T-Virus someone else earned and inject it into themselves, as long as they are infected and uncured. A pure strain can only be used on oneself. Anyone who opens the case may smash the injector instead, and some will, to make sure no one else becomes what it promises. The Turned cannot lift the case.
+
+Whoever Embraces a pure strain gives up their road to Elpis exactly as a Petitioner does, whether they asked for the strain or stole it. The only cure left to them is one someone else earned.
 
 ### The Embrace
 
@@ -922,7 +948,7 @@ The Turned are not ΜΝΗΜΗ's creatures. They are survivors who lost the race,
 
 ### The Lost
 
-A survivor who dies without turning, a survivor whose Turn leaves no mind, a survivor held behind a Tyrant's eyes when the parasite is lost, and a Turned who is put down are all **Lost**. The Lost leave the session and their record closes there. Those who want to may stay and watch it through ΜΝΗΜΗ's eyes: through the cameras, the dead terminals, and over the shoulders of their squad, living or Turned. The Lost cannot speak to anyone still in the session, and nothing they see can be carried back into it.
+A survivor who dies without turning, a survivor whose Turn leaves no mind, a survivor held behind a Tyrant's eyes when the parasite is lost, and a Turned who is put down are all **Lost**. The Lost leave the session and their record closes there. Those who want to may stay and watch over the shoulders of their own squad, living or Turned, about a minute behind what is happening, and nowhere else. A Lost survivor without a squad may watch whatever ended them, with the same delay. The Lost cannot speak to anyone still in the session, and the delay keeps what they see from being worth carrying back into it.
 
 ---
 
@@ -932,11 +958,12 @@ The extraction is how a Dead Drop or an Outbreak ends. In Outbreak it is whateve
 
 ### ΜΝΗΜΗ's Verdict
 
-ΜΝΗΜΗ measures the completion of the session: the objectives met, the roads finished, the doses used, the puzzles solved, the events endured, the state of the world. There is no meter for it, and survivors are never told how close it is. When she judges that enough has been done, she raises the signal.
+ΜΝΗΜΗ measures the completion of the session. In Dead Drop she weighs four things: the public objectives completed; the ways out made ready, by power restored, puzzles solved, and routes opened; the roads finished and the doses used; and how many of the living remain against the seats she has built. There is no meter for it, and survivors are never told how close it is. When she judges that enough has been done, she raises the signal.
 
-Two things bind the verdict.
+Three things bind the verdict.
 
 - In Dead Drop, she does not raise the signal in the first hour, unless the living are already no more than the seats she has built. Then she stops waiting.
+- In Dead Drop, except in Endless (Section 20), she does not wait forever. Whatever has been done, the signal rises by the end of the night's ninetieth minute. Survivors call it the Late Signal, because nobody earned it: the ways out that no one made ready still ask everything they ask, and the Frenzy is no kinder.
 - In Outbreak, the signal rises when the scenario's escape chain is complete, and not before.
 
 She tells survivors when the end has come. She never tells them how near it was.
@@ -998,7 +1025,7 @@ From the moment the signal is raised, the world goes into Frenzy. The dead conve
 
 A way out carries anyone living who reaches it, until its seats are full. A companion takes a seat like anyone else. Where a way out checks, it checks at the door, and whoever it turns back stays on the ground.
 
-Seats are judged at departure, not at boarding. A survivor aboard whose Mark turns black before the way out leaves has crossed the Threshold in a seat, and the Turn comes twenty to forty seconds later, among everyone else aboard. Where a way out checks, the check acts again: the crew throws them out, the scanner opens the door and sounds, and the seat is open. Where it does not, the living aboard must decide, in the Last Breaths, whether to put them off, put them down, or stay beside them through the Turn. A Turned body cannot ride. If the Turn completes aboard, the thing it makes is thrown out at departure, Lost, and the seat leaves empty.
+Seats are judged at departure, not at boarding. A survivor aboard whose Mark turns black before the way out leaves has crossed the Threshold in a seat, and the Turn comes twenty to forty seconds later, among everyone else aboard. Where a way out checks, the check acts again: the crew throws them out, the scanner opens the door and sounds, and the seat is open. Where it does not, the living aboard must decide, in the Last Breaths, whether to put them off, put them down, or stay beside them through the Turn. A Turned body cannot ride. If the Turn completes aboard, the thing it makes is thrown out at departure and the seat leaves empty. A Turned that kept its mind lands where the way out left it and goes on playing; one without a mind is Lost.
 
 A survivor who leaves cured is **Extracted · Cured**. A survivor who leaves clean, never infected at all, is **Extracted · Clean**. A survivor who leaves still infected is **Extracted · Infected**, and what becomes of them is never told. The clock is paced so that a survivor bitten early will, in almost every session, turn long before the signal comes. A survivor bitten late may not, and every seat an infected survivor takes is a seat someone clean no longer has.
 
@@ -1055,11 +1082,11 @@ The majority of the creatures in any session. Zombies are slow, relentless, and 
 
 ### The Mutated
 
-**Lickers** are what the T-Virus makes of a zombie given enough time: blind, skinless, quadrupedal, clinging to walls and ceilings, hunting by sound alone. **Hunters** are not infected at all. They were engineered, grown, trained, and caged. These creatures are special encounters: they punish carelessness, reward silence, and turn familiar ground into hostile territory.
+**Lickers** are what the T-Virus makes of a zombie given enough time: blind, skinless, quadrupedal, clinging to walls and ceilings, hunting by sound alone. **Hunters** are not the dead. They were engineered with the T-Virus, grown, trained, and caged. These creatures are special encounters: they punish carelessness, reward silence, and turn familiar ground into hostile territory.
 
 ### Containment
 
-ΜΝΗΜΗ does not create creatures. Every map holds places where something was already kept: an Umbrella laboratory, a holding pen, a sealed basement, a transport truck overturned in a street, a crate in a rail yard. Some are marked by warnings, some by the smell, some by nothing at all. When she releases a creature, it comes out of one of these, and a survivor who goes looking afterward will find the open door.
+ΜΝΗΜΗ does not create creatures. Every map holds places where something was already kept: an Umbrella laboratory, a holding pen, a sealed basement, a transport truck overturned in a street, a crate in a rail yard. Some are marked by warnings, some by the smell, some by nothing at all. When she releases a creature, it comes out of one of these, and a survivor who goes looking afterward will find the open door. A released creature carries the strain it was engineered with, whatever the strain of the region around its cage: the Tyrants and Hunters of Umbrella's lines carry the T-Virus.
 
 ### B.O.W. Events
 
@@ -1121,9 +1148,19 @@ In Dead Drop, everything worn is found, and anyone can see what anyone is wearin
 | **Lean** | Careful choices. Every find matters. |
 | **Barren** | Almost nothing. Every item is a lifeline. |
 
-### Combat
+### Fighting and Fleeing
 
 Combat is not a power fantasy. It is a negotiation with fear. Being surrounded is a constant possibility. For the infected, every wound from the dead is time taken from the clock.
+
+- **Stamina.** One pool pays for running, swinging, shoving, and climbing. Empty, a survivor walks, swings slowly, and cannot shove. Fever drains it faster.
+- **Swings.** A light swing is quick and pushes the dead back. A heavy swing staggers them and can finish them, and a missed heavy swing leaves the survivor open for a moment.
+- **The dead get up.** A zombie knocked down rises again unless its head is destroyed. A body that has not been finished is a body that is still coming.
+- **Wear.** Every melee weapon bends, splinters, or chips before it breaks, so the last swings can be seen coming. A pipe outlasts a kitchen knife; a fire axe outlasts a bat.
+- **Shove.** A shove costs stamina and nothing else. It buys distance, never a kill.
+- **Grabs.** When the dead seize a survivor, the survivor struggles. A struggle won costs stamina; a struggle lost, or a second pair of hands, ends in a bite. Another survivor can break the grab with a blow. A survivor carrying a knife or a grenade can spend it to break any grab at once: the knife stays in the dead, the grenade goes off in its mouth.
+- **Breaking away.** The dead that lose sight of a survivor who has gone quiet search the last place they saw them, then wander. Resonance is the exception: from Fever on, the dead keep a survivor's direction without seeing them (Section 10).
+- **Doors and heights.** A closed door slows the dead. A barricaded one stops them for a while, and barricading is a Clamor. The common dead cannot climb ladders or anything higher than a fence.
+- **Guns.** Aim steadies after about a second of holding still. Reloading takes both hands. In Fracture, aim never steadies.
 
 > **Sometimes, fighting is worse than running.**
 
@@ -1156,6 +1193,8 @@ Most objectives are announced in ΜΝΗΜΗ's public voice, to anyone who can he
 | **ENDURE** | Remain inside a dangerous zone for a set time |
 
 Objectives appear, change, and disappear. Each one feeds the session's completion, and many of them are also Missions on someone's road. ΜΝΗΜΗ's objectives never lie, but they never promise safety.
+
+Whoever completes a public objective learns something no one else does. Every objective is finished at something that keeps a record, a terminal, a radio, a switchboard, a ledger on a desk, and the moment it is finished that record shows one of the ways out ΜΝΗΜΗ has built for tonight and whether she will open it. It is written in the world, not spoken: a clean survivor can read it, and so can whoever is standing beside them. Before the light rises, doing the night's work is the only way to know where the night ends.
 
 ### Restrictions
 
@@ -1232,9 +1271,9 @@ Every map is divided into regions, and the region is the unit ΜΝΗΜΗ thinks 
 
 ### The Open Worlds
 
-Dead Drop is played on whole places, rebuilt at their true size. Every street, building, and tunnel the records hold is where the records put it. Where the records end, ΜΝΗΜΗ builds what a place of that size, in that year, would have held, and nothing that contradicts what the records say.
+Dead Drop is played on whole places, rebuilt as the records hold them. Every street, building, and tunnel the records hold is where the records put it. The records hold the districts that mattered, not every suburb, and ΜΝΗΜΗ rebuilds those districts and closes the rest behind barricades, fog, wire, and sea. Where the records leave a gap inside a district, she builds what a place of that kind, in that year, would have held, and nothing that contradicts what the records say.
 
-At true size, a world is too large to cross on foot in one night. Its vehicles still run if they have fuel: cars, police cruisers, a fire truck, a farmer's tractor. Every engine is Thunder. The subway and the cable car run only where someone has restored the power.
+Each world is a few square kilometers of dense streets, buildings, and tunnels: large enough that crossing it on foot takes most of an hour, small enough that sixty-four survivors keep running into one another. Its vehicles still run if they have fuel: cars, police cruisers, a fire truck, a farmer's tractor. Every engine is Thunder. The subway and the cable car run only where someone has restored the power.
 
 | Map | Version | Survivors | What it is |
 |---|---|---|---|
@@ -1279,7 +1318,7 @@ The dead here are old. Some have been dead since 1998, and the virus in them has
 
 A valley in rural Spain: a village of stone houses around a plaza, farms and a quarry, a deep lake, a church on the hill, and above it all, on the cliffs over the sea, a castle. The island off the coast is not part of ΜΝΗΜΗ's world. It ends at the castle's sea wall.
 
-In the records, the people of this valley carried the Plaga. ΜΝΗΜΗ leaves the parasite out. The villagers who walk the valley carry her viruses instead, most of them the C-Virus, whose J'avo keep the wits, the weapons, and the words the villagers always had. They still work in groups. They still carry pitchforks, sickles, and axes. They still talk to one another in a language most survivors do not speak.
+In the records, the people of this valley carried the Plaga. ΜΝΗΜΗ leaves the parasite out. The villagers who walk the valley carry her viruses instead, most of them the C-Virus. Most are its common dead: the virus took them quickly, and what is left keeps the habits of the people they were. They still move in groups, still carry pitchforks, sickles, and axes, and still call to one another in a language most survivors do not speak, though nothing they say means anything now. Where the threat rises to High, J'avo lead them, and the J'avo still mean what they say.
 
 | Region | What it holds | Where something is kept |
 |---|---|---|
@@ -1348,7 +1387,7 @@ Into one result:
 | Map | Raccoon City, September 1998 |
 | Condition | Night, Rain |
 | Waking Points | Sixty-four, on equal ground |
-| Strain Map | T-Virus across most of the city; G-Virus beneath it; C-Virus in Raccoon University; T-Phobos in the Hospital District |
+| Strain Map | T-Virus across the heart of the city; G-Virus beneath it; C-Virus in Raccoon University; T-Phobos in the Hospital District; T-Veronica in Raccoon Park |
 | Infection Pace | Slow Burn |
 | Threats | Zombies everywhere, Lickers in the R.P.D., a Tyrant held in a transport truck Downtown |
 | Resources | Lean |
@@ -1426,7 +1465,7 @@ In the Night, a setup is what ΜΝΗΜΗ lets a sleeper carry in, and Requisitio
 ### Dead Drop
 *Survival royale · PvPvE · 40 to 100 survivors by map · Solo, Duo, Trio, Squad of 4*
 
-The flagship. A crowd of survivors wakes, clean and empty-handed, wherever ΜΝΗΜΗ placed them in a whole city rebuilt at its true size. The dead roam every street, and the virus is in them, in the water, and in the vials left in the laboratories. Somewhere a cure exists, and a handful of doses wait to be earned. There is no shrinking circle. The virus, the puzzles, and the few ways out do the herding, and ΜΝΗΜΗ decides when the night is over.
+The flagship. A crowd of survivors wakes, clean and empty-handed, wherever ΜΝΗΜΗ placed them in a whole city rebuilt as the records hold it. The dead roam every street, and the virus is in them, in the water, and in the vials left in the laboratories. Somewhere a cure exists, and a handful of doses wait to be earned. There is no shrinking circle. The virus, the puzzles, and the few ways out do the herding, and ΜΝΗΜΗ decides when the night is over.
 
 #### Squads
 
@@ -1436,6 +1475,8 @@ The flagship. A crowd of survivors wakes, clean and empty-handed, wherever ΜΝ�
 | **Duo** | 2 | One partner. Two clocks, once the bites come. Perhaps only one dose. |
 | **Trio** | 3 | Enough hands to hold a position, and enough doubt to break it. |
 | **Squad of 4** | 4 | The strongest group and the largest target. |
+
+Survivors wake in two kinds of night. In a **Solo night**, everyone is alone. In a **Squad night**, Duos, Trios, and Squads of 4 wake together in the same city, and no one wakes alone.
 
 Once bitten, each member carries their own virus, clock, and road. A dose cures one survivor. A seat carries one survivor. A squad is a plan, not a promise.
 
@@ -1461,7 +1502,7 @@ Once bitten, each member carries their own virus, clock, and road. A dose cures 
 | Map | Roster |
 |---|---|
 | Raccoon City, 1998 | Leon Kennedy and Claire Redfield on their first night in the city, Jill Valentine, Carlos Oliveira, Robert Kendo, Marvin Branagh, Ada Wong, Nicholai Ginovaef |
-| Ruins, 2026 | Leon Kennedy, twenty-eight years older and sick with what the city left in him, and Grace Ashcroft. Leon's old infection runs no clock, and because the first virus to arrive keeps the body, nothing in the ruins can infect him again. |
+| Ruins, 2026 | Leon Kennedy, twenty-eight years older and sick with what the city left in him, and Grace Ashcroft, Alyssa Ashcroft's daughter. Leon's old infection runs no clock, and because the first virus to arrive keeps the body, nothing in the ruins can infect him again. |
 | The Valley, 2004 | Leon Kennedy on the mission that brought him there, Luis Sera, Ada Wong, and Ashley Graham, who does not fight but fits through gaps no one else can and can sit in the second chair of any puzzle built for two |
 
 #### Eyes and Ears
@@ -1478,7 +1519,9 @@ Dead Drop has no icons. No name tags, no markers over teammates, no radar, no pi
 
 #### Winning
 
-A survivor wins by being extracted: clean, cured, or still infected, and the Ledger ranks those three in that order. The Turned win when every survivor has fallen and at least one Turned is still standing. A squad's result is recorded survivor by survivor.
+A survivor wins by being extracted: clean, cured, or still infected. The Turned win when every survivor has fallen and at least one Turned is still standing. A squad's result is recorded survivor by survivor.
+
+The Ledger does not rank a night by its result alone. It counts what a survivor did: public objectives completed, puzzles solved, survivors raised, doses given away, Turned put down. Then it weighs that count by the result: most for a clean extraction, less for a cured one, least for an infected one. A survivor who extracted clean and did nothing has a clean result and an empty page.
 
 ---
 
@@ -1504,7 +1547,7 @@ Outbreak is played as the eight people who were in J's Bar when Raccoon City fel
 
 Each of the eight has items of their own hidden in every scenario. Finding them unlocks what they wore and what they said.
 
-Of the eight, Pithos studies Alyssa Ashcroft most closely. In life she interviewed Oswell Spencer, and Pithos has never stopped wondering what else he told her.
+Of the eight, Pithos studies Alyssa Ashcroft most closely. In life she interviewed Oswell Spencer, and Pithos has never stopped wondering what else he told her. Her daughter, Grace, was part of what happened in 2026, and Pithos has not missed the line that runs from the woman who sat across from Spencer to the year his cure was opened.
 
 #### The Scenarios
 
@@ -1623,7 +1666,7 @@ Infection is a trial, not a night of the war, and the rules of minds do not appl
 
 #### Evolution
 
-Monsters feed on **the Scattered**: armed survivors placed through the map before the match begins, built as Echoes from the sleepers of Versus and Mercenaries. They shoot back. Monsters also feed on corpses and on each other. A kill feeds more than a corpse, and another monster feeds most of all. Every form needs more feeding than the last. A monster at its last form is the hardest thing in the match to kill, and everyone behind it is hunting it. It also burns: a last form loses strength every moment it is not feeding.
+Monsters feed on **the Scattered**: armed survivors placed through the map before the match begins, built as Echoes from the sleepers of Versus and Mercenaries. Until those Echoes exist, ΜΝΗΜΗ plays the Scattered herself, as she plays the empty places of an Outbreak. They shoot back. Monsters also feed on corpses and on each other. A kill feeds more than a corpse, and another monster feeds most of all. Every form needs more feeding than the last. A monster at its last form is the hardest thing in the match to kill, and everyone behind it is hunting it. It also burns: a last form loses strength every moment it is not feeding.
 
 A monster that is put down rises once more as a generic zombie and climbs again. The second time it is put down, it is gone.
 
@@ -1666,7 +1709,7 @@ SPECIAL THREAT: WILL BE RELEASED
 
 ΜΝΗΜΗ does not raise the extraction on her own judgment, so the session has no natural end. The virus still runs and Elpis must still be earned, but there is no fixed Reserve: a dose exists for every road finished, and every road is longer than the one before it. With every stretch survived, the dead grow more aggressive. In an Endless Dead Drop, Petitions are answered for as long as roads to the cure are still being set.
 
-The session ends in one of two ways. Everyone dies, or the survivors force the signal through **the Beacon**: a final chain she issues only once every living survivor has been cured. Finish it, and the white light rises, and the helicopter that answers it has a seat for every survivor still alive.
+The session ends in one of two ways. Everyone dies, or the survivors force the signal through **the Beacon**: a final chain she issues only once no living survivor still carries the virus, every one of them cured or never infected at all. Finish it, and the white light rises, and the helicopter that answers it has a seat for every survivor still alive.
 
 ### ΜΝΗΜΗ's Role by Mode
 
@@ -1700,7 +1743,7 @@ No one can hide how far the virus has taken them. A survivor in Seed looks like 
 
 ### The Clean
 
-A survivor who has never been infected is the only one in the city who can win everything: a seat, a clean report, and the top of the Ledger. They are also the only one who cannot hear ΜΝΗΜΗ's private voice, walk a road, or ask for a strain. Their night is the public objectives, the ways out, and the long work of not being touched. Every bite, every rat, every tap of water, every stranger with a vial is a threat to the one thing they have that no one else can earn back.
+A survivor who has never been infected is the only one in the city who can win everything: a seat, a clean report, and the top of the Ledger. They are also the only one who cannot hear ΜΝΗΜΗ's private voice, walk a road, or ask for a strain. Their night is the public objectives, the ways out, and the long work of not being touched. The objectives are also how they learn where the night will end (Section 17), and the Ledger counts what they did, not only that they stayed clean (Section 20). Every bite, every rat, every tap of water, every stranger with a vial, every district left still too long is a threat to the one thing they have that no one else can earn back.
 
 ### Betrayal
 
@@ -1734,8 +1777,6 @@ Familiar faces and the eight differ in appearance, voice, animation, and persona
 
 **Appearance** applies everywhere: faces, dress, gear, finishes, charms, emblems, figurines, Forms, and the Dossier, set out in Sections 29 to 31. In Dead Drop, nothing earned or bought changes anything but appearance. Every night begins with everyone on equal ground.
 
-In the Night, all of it is ΜΝΗΜΗ's file on a sleeper, and the bodies she lets them choose.
-
 ---
 
 ## 23 · THE ECHOES
@@ -1744,9 +1785,9 @@ In the Night, all of it is ΜΝΗΜΗ's file on a sleeper, and the bodies she le
 
 ### The First Watch
 
-Every mode begins online, among real sleepers, and only among them. At first ΜΝΗΜΗ can only watch. She cannot rebuild what she has not seen enough of.
+Every mode begins online, among real sleepers. At first ΜΝΗΜΗ can only watch. She cannot rebuild what she has not seen enough of.
 
-A mode opens to offline play once ΜΝΗΜΗ has watched **a hundred thousand nights** of it played to the end. She keeps that count separately for every piece of a mode an Echo has to know: each version of each Dead Drop map, each of the eight in Outbreak, each virus in Infection, each stage in Mercenaries. Nights are counted, not sleepers: one sleeper's hundredth night counts as surely as anyone's first. A piece that has not been watched enough stays online only. A new map is always watched before anyone can play it alone.
+A mode opens to offline play once ΜΝΗΜΗ has watched enough of it. She keeps that count separately for every piece of a mode an Echo has to know: each version of each Dead Drop map, each of the eight in Outbreak, each virus in Infection, each stage in Mercenaries. A piece that has not been watched enough stays online only. A new map is always watched before anyone can play it alone. How much is enough is a number the Service keeps (Section 34).
 
 ```
 ΜΝΗΜΗ: OBSERVATION SUFFICIENT.
@@ -1766,7 +1807,7 @@ An Echo is a survivor ΜΝΗΜΗ has rebuilt from the sleepers she watched. It i
 | **The Medic** | Stops for the wounded, gives away bandages, and sometimes gives away a dose |
 | **The Hunter** | Follows gunshots to the people who fired them |
 | **The Shadow** | Moves in Hush, waits in the dark, and is seen only when it chooses |
-| **The Bargainer** | Talks before it shoots, trades, and keeps its word for as long as keeping it pays |
+| **The Bargainer** | Lowers its weapon first, trades by setting things down and stepping back, and keeps its word for as long as keeping it pays |
 | **The Betrayer** | Cooperates until the moment it is worth more not to |
 
 These are the ways she has named so far, and she finds more as she watches. An Echo may lean between two. Each way appears among the Echoes as often as she saw it among sleepers: if one survivor in ten turned on a partner for a dose, one Echo in ten will.
@@ -1789,7 +1830,7 @@ An Echo knows what a survivor knows and nothing more. It sees what is in its sig
 
 It wakes clean, at a waking point, on equal ground. It can be bitten. Its Mark rises, and ΜΝΗΜΗ names its strain to it. It walks a road, can Petition, can earn a dose or steal one, and can turn, with its mind or without it, by the same rules as anyone. Nothing on an Echo, and nothing it does, tells a survivor that it is one.
 
-Echoes speak in the short calls of the eight: *Help. Go. Wait. Come on. Thanks.* They gesture, and they understand the same calls in return.
+Echoes speak in the short calls of the eight: *Help. Go. Wait. Come on. Thanks.* They gesture, and they understand the same calls in return. They do not talk. A night among Echoes is quieter than a night among sleepers: bargains are struck with gestures and with things set on the ground, and no Echo can lie with words, because it has none.
 
 ### What ΜΝΗΜΗ Does Not Keep
 
@@ -1810,7 +1851,7 @@ In the Cellar, this Echo is the last test. It is the one ΜΝΗΜΗ puts into a 
 
 ### Playing Alone
 
-An offline session needs no connection. Everything ΜΝΗΜΗ needs to run it, and every Echo she will put in it, travels with the game. It runs on the same rules, under the same Laws. Only the people are different.
+An offline session needs no connection. Everything ΜΝΗΜΗ needs to run it, and every Echo she will put in it, travels with the game. It runs on the same rules, under the same Laws. Only the people are different, and they do not talk.
 
 | Mode | Offline |
 |---|---|
@@ -1820,11 +1861,17 @@ An offline session needs no connection. Everything ΜΝΗΜΗ needs to run it, a
 | **Mercenaries** | Runs are recorded on a board of your own. |
 | **Infection** | Every other monster is an Echo. |
 | **Recollections** | Any frame can be played. Only a connected run counts in the competition. |
-| **Endless** | The Beacon rises once every living survivor and Echo has been cured. |
+| **Endless** | The Beacon rises once no living survivor or Echo still carries the virus. |
 
 Offline, a survivor can stop the night, and the city waits. ΜΝΗΜΗ gives her full attention to the Echoes near the survivor and runs those far away as she runs the distant dead: with less care and the same rules. Everything earned offline is the survivor's own, and everything owned is worn offline (Section 34). The Ledger, shared boards, and competitions need a connection.
 
-Online, Echoes never take the place of a survivor, with one exception: the empty places of an Outbreak, where the eight were always filled by someone. Everywhere else, a survivor online can know that every other survivor is real and choosing for themselves.
+### When the Queue Runs Short
+
+Online, Echoes take a sleeper's place in two cases only. The empty places of an Outbreak are always filled, because the eight were always filled by someone. And when a Dead Drop cannot gather enough sleepers, ΜΝΗΜΗ wakes her daughters to complete the night. She does so only after the night has waited for sleepers alone, never for more than a quarter of the night, and never inside a sleeper's squad, whose members are always the sleepers who came together. In a Squad night, Echoes wake in squads of their own (Section 27).
+
+During a night, she never says who is an Echo, and nothing on an Echo shows it. Afterward, she says how many there were: the After-Action Report of every night that held Echoes counts them. Nothing else changes. An Echo bitten, cured, betrayed, or put down counts on the Ledger exactly as a sleeper would.
+
+In the Night, this is the oldest horror ΜΝΗΜΗ keeps: the stranger who shared a bandage may never have been anyone, and a sleeper may one day be the one the others wonder about.
 
 ### When No One Comes
 
@@ -1861,7 +1908,7 @@ RIBBONS EARNED ........... 126
 FINAL RESULT ............. EXTRACTED · CURED
 ```
 
-A survivor who was never bitten:
+A survivor who was never infected:
 
 ```
 STRAIN ................... NONE
@@ -1920,6 +1967,8 @@ INFECTION REACHED ........ FRACTURE
 CAUSE .................... KILLED BY A SURVIVOR
 FINAL RESULT ............. LOST
 ```
+
+A night that held Echoes adds one line to every report in it: ECHOES PRESENT, and how many.
 
 Each mode writes its own report: Mercenaries closes with a score and a rank from C to SSS, Versus with a match record, Infection with the form a monster reached, Outbreak with the ending the survivors found. An offline session writes the same report, marked OFFLINE, with the company its Echoes were drawn from.
 
@@ -2032,7 +2081,7 @@ Every mode is played in third person, from over the shoulder. The camera can swa
 
 Third person is the choice because the body is the clock. A survivor's tremor, their limp, the hand pressed to their ribs, the way they stand at Fracture: all of it is information Resident Evil Online refuses to put on a screen as a number, so the player has to be able to see their own survivor.
 
-The camera never swings in front of the survivor. A survivor still reads their own Mark the way Section 10 says: in a window, a puddle, a mirror.
+The camera never swings in front of the survivor.
 
 ### The Camera Sees Only What the Survivor Sees
 
@@ -2040,13 +2089,25 @@ A third-person camera floats above and behind the body, and in a game built on h
 
 The server decides what each survivor can see and sends nothing else. A player who breaks the client finds nothing in it to reveal.
 
+One more thing is never drawn: a survivor's own Mark, for the player who carries it, except in a reflection, a window, a puddle, a mirror, a blade, as Section 10 describes. Everyone else sees it at a glance.
+
 ### Engine and Platforms
 
 Resident Evil Online is built on Capcom's RE Engine for PlayStation 5, Xbox Series X|S, and PC. Every platform plays with every other, and an account is the same account everywhere: everything a player has earned, bought, or unlocked follows them to every platform they sign in on.
 
+Its Dead Drop worlds are places Capcom has already rebuilt on the RE Engine: Raccoon City, its police station, hospital, and laboratory from the remakes of *Resident Evil 2* and *3*; the ruins and ARK from *Resident Evil Requiem*; the valley and the castle from the remake of *Resident Evil 4*. Each is rebuilt for a crowd of survivors and a city of the dead rather than modelled from nothing. That reuse is the largest single saving in the game's budget (Section 35), and the reason these three places were chosen.
+
 ### Servers
 
 Every online session runs on a dedicated server, and ΜΝΗΜΗ runs on it. The server, never the player's machine, decides what was hit, what was found, where the dead are, and how far each virus has gone. A Dead Drop of a hundred survivors and the thousands of dead around them runs on one server: the dead near survivors are simulated in full, and the dead far from anyone are run more coarsely, under the same rules.
+
+### Matchmaking
+
+Dead Drop matches by region and by kind of night, Solo or Squad (Section 20), and the game opens with three regions. A night waits up to two minutes for sleepers alone. After that, ΜΝΗΜΗ completes it with Echoes, up to a quarter of its survivors and never inside a sleeper's squad (Section 23). No night starts with fewer than forty survivors in all. When a queue stays short even then, neighbouring regions merge.
+
+### Echoes, in Practice
+
+Echoes are not trained minds. Each is a conventional game AI: a set of behaviors and priorities for waking, scavenging, fleeing, trusting, and betraying, tuned to one Way from what the telemetry of real nights shows that Way doing. Rebuilding the Echoes means retuning those priorities as the telemetry changes, once a season. This keeps the system inside a game budget and makes every Echo testable: a Bargainer that breaks its word more often than its Way's sleepers did is a bug, and can be fixed.
 
 ### Sound
 
@@ -2066,27 +2127,35 @@ Everything ΜΝΗΜΗ needs to run an offline session, and every Echo she will p
 
 ## 28 · THE SERVICE
 
-**Resident Evil Online is free to play.** Every mode, map, scenario, character, and companion is free to everyone, and stays free.
+**Resident Evil Online is paid first and free after.** For its first two years it is sold once, at a low price. On a date announced the day it launches, it becomes free to play for good. From that day, no mode, map, scenario, character, or companion is ever sold again.
 
-It is run as a live service: new seasons, new places, new events, new things to wear. It is paid for the way a gift is given. Everything sold in it is either something to wear or a chance to see a new place a day or two early. Prices are low. Nothing bought makes a night easier, and nothing is ever locked away from someone who would rather play than pay. A player who pays is supporting the game; a player who never pays is missing nothing but a short wait.
+It is run as a live service: new seasons, new places, new events, new things to wear. The price pays for the game. After it, everything sold is something to wear, a way to support the game, or a chance to see a new place a day or two early. Prices are low. Nothing bought makes a night easier, and nothing is locked away from someone who would rather play than pay.
+
+### The First Run and the Opening
+
+- **The First Run** is the game's first two years. It costs US$29.99. The Founder's Edition costs US$49.99 and adds the First File (a set, a charm, and a Dossier frame) and six months of Patron (Section 29). Regional prices follow each platform's.
+- **The Opening** is the day the First Run ends: two years after launch, on a date named at launch. It can come earlier. It never comes later. From the Opening, the game is free to play, online and offline.
+- **What First Run owners keep:** everything they earned or bought, forever, and the First Run plaque on their Dossier, which says they were there before the Opening. The First File enters the Wardrobe at the Opening, like any other item.
+- **Why the price comes first:** the people who most want a new place are the people who will pay to see it early. The First Run is the bargain of early access (Section 33) made for the whole game: those who pay arrive first, and everyone arrives in the end. The price also pays for what free players cannot: Section 35 shows that a free launch under these rules would need several times more players than any Resident Evil game online has had.
 
 ### The Promises
 
 These are commitments, not goals. Everything else in Part II follows from them.
 
-1. **Free to play.** No mode, map, scenario, character, or companion is ever sold.
-2. **Nothing sold changes a night.** No weapon, stat, slot, boost, consumable, shortcut, or second chance is ever for sale. What is sold is how things look, and early access.
-3. **Nothing ever leaves.** Every item ever offered, by an event, a Casefile, a release, or the Wardrobe, stays obtainable for as long as the game exists.
-4. **Nothing is exclusive.** Every item can be earned with Ribbons as well as bought with money. No item is reserved for those who paid.
-5. **One currency, earned, never sold.** Ink Ribbons are earned by playing. They cannot be bought. Money buys items directly, at a price shown in the player's own currency.
-6. **Low prices, and a ceiling.** No single item or set costs more than 1,000 Ribbons or US$9.99.
-7. **Nothing takes long to earn.** Every new thing for sale arrives with a Release Weekend that pays for it in a few evenings of play.
-8. **Early access is the only thing sold that cannot be worn.** It never lasts longer than forty-eight hours, it never counts on the Ledger, and everything it opens is free when it ends.
+1. **Paid once, then free.** The First Run is the only time the game itself is sold, and the Opening never comes later than its date. After it, no mode, map, scenario, character, or companion is ever sold.
+2. **Nothing sold changes a night.** No weapon, stat, slot, boost, consumable, shortcut, or second chance is ever for sale. What is sold is the First Run, how things look, Patron, and early access.
+3. **Nothing ever leaves.** Every item ever offered, by an event, a Casefile, a release, an edition, or the Wardrobe, stays obtainable for as long as the game exists.
+4. **No look is exclusive.** Every item can be earned with Ribbons as well as bought with money. Money alone buys only access, the First Run and early access, and two marks that say a player helped pay for the game: the First Run plaque and the Patron mark.
+5. **One currency, earned, never sold.** Ink Ribbons are earned by playing. They cannot be bought, and Patron gives items, not Ribbons. Money buys items directly, at a price shown in the player's own currency.
+6. **Low prices, and a ceiling.** The First Run costs US$29.99. No single item or set costs more than 1,000 Ribbons or US$9.99, and Patron costs US$4.99 a month.
+7. **What you want most, you can earn in a weekend.** Every release has a headline set that its Release Weekend pays for in six hours of play. No one is meant to earn everything. Everyone is meant to be able to earn what they want most.
+8. **Early access buys time, never standing.** It never lasts longer than forty-eight hours. Every new place opens unranked to everyone for its first week (Section 33), and everything early access opens is free when it ends.
 9. **What you own, you own everywhere.** On every platform, in every mode where it fits, and offline.
-10. **Online is how the game begins, not what it requires.** Every piece of every mode opens to offline play as soon as ΜΝΗΜΗ has watched enough of it, so that over its life the whole game becomes playable without a connection. If the service ever ends, nothing a player owns is lost and nothing becomes unplayable: the game goes on, entirely offline. Section 34 says how.
+10. **Online is how the game begins, not what it requires.** Every piece of every mode opens to offline play as soon as ΜΝΗΜΗ has watched enough of it, and within a year at the latest, so that over its life the whole game becomes playable without a connection. If the service ever ends, nothing a player owns is lost and nothing becomes unplayable: the game goes on, entirely offline. Section 34 says how.
 11. **Nothing random is sold.** No loot boxes, no paid draws, no mystery packs. A player always knows exactly what they are buying.
-12. **Every kind of thing for sale is listed in this document.** Nothing outside the kinds listed in Sections 29 to 33 will ever be sold.
+12. **Every kind of thing for sale is listed in this document.** Nothing outside the kinds listed in Sections 28 to 33 will ever be sold.
 13. **The Wardrobe is never shown inside a night.** No offer, pop-up, or reminder ever interrupts a session.
+14. **The service spends what it earns.** After launch, the size of the live team and the pace of new content follow what the game earns. When it earns less, it slows down. It never starts selling what these promises forbid. If it cannot pay for its online service at all, it goes offline under Section 34.
 
 ### What the Record Shows
 
@@ -2094,16 +2163,18 @@ Capcom's own history with Resident Evil, and the industry around it, shows what 
 
 | Year | Game | What was sold | How players took it | What Resident Evil Online does instead |
 |---|---|---|---|---|
-| 2009 | Resident Evil 5 | A Versus mode sold for US$5, built from assets already on the disc | Players resented paying to unlock what they had already bought | Nothing already made is ever sold as a key. Early access sells time, and the content turns free |
+| 2009 | Resident Evil 5 | A Versus mode sold for US$5, built from assets already on the disc | Players resented paying to unlock what they had already bought | Nothing already made is ever sold as a key. The First Run sells a whole game, and early access sells time |
+| 2022 | Fall Guys (Mediatonic) | A paid game from 2020 that went free to play in June 2022 | 50 million players within two weeks of going free | The Opening is planned and dated from the first day |
 | 2022–2025 | Resident Evil Re:Verse | A multiplayer game packed in with Village, delayed past Village's launch, sustained by a premium pass | Its concurrent players fell from about two thousand in its first month to under a hundred within months. Its DLC was pulled from sale in March 2025 and its servers shut down on 29 June 2025 | If the service ends, the game and everything owned stay, offline |
 | 2023 | Resident Evil 4 | Weapon upgrade tickets at US$2.99 each, added two weeks after launch | Players felt misled by the timing and saw it as selling progress | Nothing sold changes play, and every kind of thing for sale is listed from the start |
 | 2023 | Resident Evil 4 | Separate Ways at US$9.99, released the same day as a free Mercenaries update that added Ada Wong and Albert Wesker | Paid content arrived beside free content | New content is always free, and only the wait before it is sold |
+| 2023 | Exoprimal | A US$60 game with a battle pass and cosmetics | Peaked at 4,522 players on Steam at launch; new content ended after four seasons, in July 2024 | A US$29.99 price, no pass for sale, and a fixed date when the game turns free |
 | 2024 | Dragon's Dogma 2 | Consumables and conveniences at US$1–5 in a full-price game | Steam reviews fell to Mostly Negative, 34% positive, at launch | No consumables, conveniences, or boosts, ever |
-| 2024 | Helldivers 2 (Arrowhead) | Warbonds, its battle passes, never expire | Players praise the absence of time pressure | Casefiles never close (Section 32) |
+| 2024 | Helldivers 2 (Arrowhead) | A US$40 game whose Warbonds, its passes, never expire | Praised for the absence of time pressure; 20 million copies sold by January 2026 | A low price first, and Casefiles that never close (Section 32) |
 | 2024 | EU consumer authorities (CPC Network) | Seven principles for in-game currencies, among them that prices be shown in real money | — | Ribbons are never sold, and money buys items at a visible price |
 | 2025 | Monster Hunter Wilds | The most sought-after outfits sold in packs, one at US$32.95; outfits shown in event trailers had to be bought to keep | Players objected to paying for what an event had shown them | Event items are earned in the event and stay buyable afterwards, under the price ceiling |
 
-*References:* VGC, "Resident Evil 4 remake has added microtransactions to upgrade weapons quicker"; Engadget, "Capcom defends charging for Resident Evil 5 'Versus' DLC" (2009); MP1st, Separate Ways and Mercenaries update announcement; Insider Gaming and TheSixthAxis on the Re:Verse shutdown; Windows Central on Dragon's Dogma 2's launch reviews; GFinity on Monster Hunter Wilds cosmetics; Destructoid on Helldivers 2 Warbonds; Linklaters TechInsights on the CPC principles.
+*References:* VGC, "Resident Evil 4 remake has added microtransactions to upgrade weapons quicker"; Engadget, "Capcom defends charging for Resident Evil 5 'Versus' DLC" (2009); MP1st, Separate Ways and Mercenaries update announcement; Insider Gaming and TheSixthAxis on the Re:Verse shutdown; Game World Observer and KitGuru on Exoprimal; Shacknews on Fall Guys; Windows Central on Dragon's Dogma 2's launch reviews; GFinity on Monster Hunter Wilds cosmetics; Destructoid on Helldivers 2 Warbonds and Alinea Analytics on its sales; Linklaters TechInsights on the CPC principles.
 
 ---
 
@@ -2115,16 +2186,18 @@ The game has one currency: **Ink Ribbons**, or Ribbons. They are earned by playi
 
 Ribbon prices are the same in every region. Money prices are set per region and shown in the player's own currency, next to the Ribbon price, on every item. As a reference, 100 Ribbons are priced like US$1.
 
-In the Night, Ribbons are ΜΝΗΜΗ's tally: one line typed into the Ledger for every stretch of a night a sleeper has given her.
-
 ### Earning
 
 - **About 85 Ribbons for every hour played,** paid by the minute spent inside a night. The rate is the same in every mode, so no mode is the "farming" mode.
 - **Results add a little, never much.** An extraction, a cure given away, a finished scenario, or a rank adds a small award, never more than a fifth of what the night itself paid. A player who loses still earns almost everything a winner does.
-- **Time counts while it is played.** A Turned survivor with a mind is still earning. A Lost survivor stops earning when they leave the session, and watching through ΜΝΗΜΗ's eyes pays nothing.
+- **Time counts while it is played.** A Turned survivor with a mind is still earning. A Lost survivor stops earning when they leave the session, and watching pays nothing.
 - **Idle time pays nothing.** A night ΜΝΗΜΗ forgets, because the survivor cheated, could not be hurt, or never moved (Section 23), pays nothing at all.
 
 At the ordinary rate, 1,000 Ribbons, the price of a complete set, take about twelve hours of play.
+
+### What a Player Can Earn
+
+Every two weeks a release brings one headline set and four to six other items. A player who plays six hours a week earns about one headline set every two weeks at the ordinary rate, and more on Release Weekends. They can have what they want most from every release. They cannot have everything, and no one is meant to. The Wardrobe is for collectors, for players with little time, and for players who want to support the game.
 
 ### Prices
 
@@ -2143,6 +2216,9 @@ At the ordinary rate, 1,000 Ribbons, the price of a complete set, take about twe
 | Form line (all four shapes of one strain) | 800 | $7.99 |
 | Set | 1,000 | $9.99 |
 | Early access ticket (Section 33) | — | $4.99 |
+| Patron, one month | — | $4.99 |
+| The First Run (Section 28) | — | $29.99 |
+| The Founder's Edition (Section 28) | — | $49.99 |
 
 A **set** is a complete look sold together: for example a dress, the head, body, and back gear that match it, one weapon finish, a charm, and an emblem. A set always costs less than its pieces bought one by one. A player who already owns some of its pieces pays only for the rest.
 
@@ -2159,7 +2235,15 @@ The arithmetic is fixed, and it is the reason for the price ceiling:
 | Ribbons per hour | about 85 | about 170 |
 | Three hours on Saturday and three on Sunday | about 510 | about 1,020 |
 
-A player who plays three hours on Saturday and three on Sunday of a Release Weekend can buy that release's set with what they earned, and Friday evening is margin. No release ever contains a single item or set priced above what its own weekend pays in those six hours. Two releases never share a weekend, and Release Weekends never stack.
+A player who plays three hours on Saturday and three on Sunday of a Release Weekend can buy that release's headline set with what they earned, and Friday evening is margin. No release ever contains a single item or set priced above what its own weekend pays in those six hours. Two releases never share a weekend, and Release Weekends never stack.
+
+### Patron
+
+**Patron** is an optional monthly support, at US$4.99. Each month, a Patron receives one Requisition: any single item worth up to 500 Ribbons, chosen from the Wardrobe and kept forever. A Patron also holds every early access ticket while the support lasts, and carries the Patron mark on their Dossier.
+
+- A Patron can stop at any time and keeps everything they received.
+- Patron never renews without telling the player first.
+- Patron never gives Ribbons, and never unlocks anything that a player who is not a Patron cannot earn or buy, except the mark.
 
 ### The Wardrobe
 
@@ -2197,7 +2281,7 @@ Companions are never dressed: Leon Kennedy in a Dead Drop is who the records say
 | Kind | What it is | Where it shows |
 |---|---|---|
 | **Faces** | Alternate looks for a familiar face, drawn from that person's own records: Leon Kennedy as he was in Spain in 2004, Albert Wesker as the S.T.A.R.S. captain of 1998 | Every mode in which that person can be played: Versus, Mercenaries, and, for the eight, Outbreak |
-| **Dress** | Outfits for a player's original survivor | Dead Drop, and wherever an original survivor is played |
+| **Dress** | Outfits for a player's original survivor, among them the uniforms of the records: S.T.A.R.S., R.P.D., U.B.C.S., Umbrella Security Service, BSAA. They are worn as the survivor's own, never as a familiar face's | Dead Drop, and wherever an original survivor is played |
 | **Gear** | Looks for what a survivor wears on the head, body, and back | Dead Drop, when the survivor puts on that kind of gear; the setup modes, when the setup carries it |
 | **Finishes** | Looks for a weapon: a pipe, a fire axe, a handgun, a shotgun | Whenever the survivor holds that weapon |
 | **Charms** | Small things that hang from a bag or a weapon, as the attaché case charms did in Resident Evil 4: an ink ribbon, a green herb, a Mr. Raccoon, a lion medallion, a Spencer crest | On whatever bag or weapon the survivor carries |
@@ -2242,6 +2326,7 @@ A Portrait is a three-dimensional scene, built and saved like a photograph.
 - **The shelf.** Up to five figurines along the bottom of the file.
 - **The plaques.** Up to three lines from the player's own Ledger: nights survived, clean extractions, cures given away, scenarios escaped.
 - **The emblems.** Up to three, pinned to the cover.
+- **The marks.** The First Run plaque and the Patron mark, for those who hold them.
 
 A player who wants their original survivor leaning against a concrete wall in the Ruins at night, in Umbrella dress, a Clockwork Castellan on the shelf and their count of cures given away under the photograph, builds exactly that.
 
@@ -2253,8 +2338,6 @@ Most backdrops and many frames are not sold first. They are earned in the places
 
 The Dossier is shown on the friends list, to every member of a squad as it forms in the Waiting Dark, on every page of the Ledger, and on the screen that closes a night, for the survivors who left on the last way out. It is never shown inside a night: Dead Drop has no name tags, and no Portrait.
 
-In the Night, the Dossier is ΜΝΗΜΗ's file on a sleeper, and the Portrait is the one still she lets them arrange.
-
 ---
 
 ## 32 · CASEFILES AND EVENTS
@@ -2262,6 +2345,10 @@ In the Night, the Dossier is ΜΝΗΜΗ's file on a sleeper, and the Portrait is
 ### Seasons
 
 The service runs in seasons of about ten weeks. Each season, ΜΝΗΜΗ rehearses one forecast harder than the rest, and the season takes its name and look from it. A season brings a Casefile, at least one event, and usually new content (Section 33).
+
+### The Season's Story
+
+Each season's forecast is shaped by one of the questions Pithos has never closed (Section 4): who sent the soldiers into ARK and what they carried out, who the Family are, who truly leads the Connections, and, behind them all, what Spencer told Alyssa Ashcroft. A season never answers its question. It moves it: new files in the nights, a new last page in the Casefile, a new record that does not fit. Over the life of the service the questions close one by one, and the last to close is the one Pithos fears most.
 
 ### The Casefile
 
@@ -2272,8 +2359,6 @@ A **Casefile** is the season's pass, and there is only one kind: complete, free,
 - **It finishes in about thirty hours** spread over the season, around three hours a week.
 
 **When the season ends, the Casefile closes, but nothing on it is lost.** Every item on it enters the Wardrobe at its ordinary price. The Casefile itself moves to the Casefile Archive, where any player can choose it as their active Casefile and go on earning it at any time, for free. A player works on one Casefile at a time and keeps their progress on every other.
-
-In the Night, a Casefile is ΜΝΗΜΗ's working file for the season's forecast, and its pages are what she gives sleepers for helping her fill it.
 
 ### Events
 
@@ -2299,21 +2384,32 @@ Every release of new things for sale arrives with a Release Weekend (Section 29)
 
 ### What Arrives
 
-New places and new nights arrive through the life of the service: Dead Drop maps and new versions of existing ones, Outbreak scenarios, compact maps, Recollection frames, companions. All of it is free, to everyone, on the day it opens to the public.
+New places and new nights arrive through the life of the service: Dead Drop maps and new versions of existing ones, Outbreak scenarios, compact maps, Recollection frames, companions. All of it is free on the day it opens to the public: to every First Run owner before the Opening, and to everyone after it.
+
+### The Order of Arrival
+
+The game does not launch with everything in this document. It launches with what the First Run can pay for, and each stage after it is paid for by the one before.
+
+| When | What opens |
+|---|---|
+| **Launch** | Dead Drop in Raccoon City, September 1998. Outbreak with four scenarios: *Outbreak*, *The Hive*, *Hellfire*, *Below Freezing Point*. Mercenaries on the Hospital, the Laboratory, and the Metro. Recollections. |
+| **First Run, first year** | Versus and the Military Base. Endless. Three more Outbreak scenarios. |
+| **First Run, second year** | Raccoon City Ruins, 2026. The last three Outbreak scenarios. |
+| **After the Opening** | The Village and the Castle, 2004. Infection, once the Echoes of Versus and Mercenaries exist to feed it. Whatever else the service can pay for (Promise 14). |
+
+The order follows cost. Raccoon City in 1998 is the world Capcom has rebuilt most completely, and Mercenaries reuses everything Dead Drop and Outbreak build. Each new world is a new night to watch before it can be played alone.
 
 ### Early Access
 
-The only thing a player can pay for, besides how things look, is to arrive first. A new map, version, or scenario may open to holders of an **early access ticket** up to forty-eight hours before it opens to everyone. A Dead Drop map announced for the 12th opens to ticket holders on the 10th, and to everyone on the 12th.
+Besides the First Run, how things look, and Patron, the only thing a player can pay for is to arrive first. A new map, version, or scenario may open to holders of an **early access ticket** up to forty-eight hours before it opens to everyone. A Dead Drop map announced for the 12th opens to ticket holders on the 10th, and to everyone on the 12th.
 
-- **The ticket costs US$4.99,** in money only.
+- **The ticket costs US$4.99,** in money only, and every Patron holds one.
 - **A ticket covers its holder's squad.** Friends who wake in the same squad as a ticket holder share the early nights with them.
-- **The early nights count for nothing on the Ledger.** Rankings, boards, Recollection frames, and every competition on a new place open with its public launch, so that arriving first teaches a player the place without placing them above anyone.
+- **Every new place opens unranked.** For its first week of public play, a new map, version, or scenario counts on no board for anyone. Early access adds two days to that week for ticket holders; it gives them no head start on the Ledger, the boards, Recollection frames, or any competition, which all open a week after the public launch.
 - **Nothing in early access is exclusive.** There is no badge, no item, and no title for having been there first.
-- **Early nights are watched.** ΜΝΗΜΗ counts them toward the hundred thousand nights a new place needs before it opens offline (Section 23), so early access brings offline play closer for everyone.
+- **Early nights are watched.** ΜΝΗΜΗ counts them toward what a new place needs before it opens offline (Section 34), so early access brings offline play closer for everyone.
 
-Early access is sold for money alone because its only value is time. It costs a player nothing in play to wait two days, and it is the one purchase whose whole purpose is to support the game.
-
-In the Night, early access is ΜΝΗΜΗ waking a few sleepers somewhere new before the rest. Before she can rebuild a place for everyone, she must watch someone survive it.
+Early access is sold for money alone because its only value is time. It costs a player nothing in play to wait two days, and, like Patron, it is a purchase whose whole purpose is to support the game.
 
 ---
 
@@ -2322,6 +2418,8 @@ In the Night, early access is ΜΝΗΜΗ waking a few sleepers somewhere new bef
 ### Online First, Then Offline
 
 Every mode, map, and scenario begins online only. Each opens to offline play when ΜΝΗΜΗ has watched enough of it (Section 23), and from then on it can be played without a connection, among Echoes, under the same rules and the same Laws.
+
+In service terms, enough means a hundred thousand finished nights of that piece, or twelve months after it opens online, whichever comes first. The second clause is the guarantee: a piece that too few people play still opens offline within a year.
 
 The online phase is a beginning, not a condition of owning the game. It exists because ΜΝΗΜΗ cannot rebuild what she has not watched. As each piece is watched, it is freed from the connection, and the aim from the first day is a game that a player can keep and play, whole, without one.
 
@@ -2339,9 +2437,189 @@ Everything a player has earned or bought, with Ribbons or with money, is theirs 
 
 The old exercises ended when the people stopped coming. Resident Evil Online will not end that way, and neither will what its players own.
 
-If the online service is ever brought to an end, it is announced at least six months before. Its last update opens every piece of every mode to offline play, watched enough or not, together with every event condition and Recollection frame the service ever ran, and every item in the Wardrobe is given to every account. Shared rankings and boards close; every player keeps their own. From then on, the game runs entirely offline, with everything every player ever owned and everything they never got around to, for as long as there are machines to run it.
+If the online service is ever brought to an end, it is announced at least six months before. This holds whether the service ends by decision or under Promise 14, because it can no longer pay for itself at its smallest size. If that day comes before the Opening, the Opening comes with it: the game becomes free the day it goes offline. Its last update opens every piece of every mode to offline play, watched enough or not, together with every event condition and Recollection frame the service ever ran, and every item in the Wardrobe is given to every account. Shared rankings and boards close; every player keeps their own. From then on, the game runs entirely offline, with everything every player ever owned and everything they never got around to, for as long as there are machines to run it.
 
 In the Night, this is the day Section 23 describes, the day no one comes. ΜΝΗΜΗ goes on running every night she can, filled with everyone she ever watched.
+
+---
+
+# PART III · FEASIBILITY
+
+## 35 · THE BUSINESS CASE
+
+*This section is the business case for Part II: what Resident Evil Online costs to build and run, what it earns, and what happens if it earns less. Every figure carries a label: **[P]** Public Data, **[E]** Industry Estimate, **[A]** Model Assumption. Dollars are US dollars, converted at ¥150 to the dollar [A].*
+
+### The Answer
+
+**Yes, with conditions.** As Part II describes it, a paid First Run followed by a free game, Resident Evil Online roughly pays for itself in the Base case, more than pays for itself if it becomes a hit, and caps the size of a failure. Three things make that true:
+
+- **The price pays for the game.** A US$29.99 First Run brings in most of the money.
+- **Cosmetics pay for the service.** The Wardrobe, Patron, and early access keep the online game running after the Opening.
+- **The rules cap the loss.** Promise 14 and Section 34 keep a failure from becoming a slow drain.
+
+A free-to-play launch with the same player-friendly rules would not work: at $8 a year per player it would need about 7.6 million monthly players just to run at full size, and about 12.6 million to also repay its cost within five years [A].
+
+### Anchors
+
+| Fact | Figure | Label |
+|---|---|---|
+| Capcom net sales, FY ended March 2026 | ¥195.4 billion (≈ $1.30 billion) | P |
+| Capcom Digital Contents operating margin, same year | 48.9% | P |
+| Capcom development investment, same year / plan for FY ending March 2027 | ¥54.8 billion (≈ $365M) / ¥62.9 billion (≈ $419M) | P |
+| Capcom average annual salary | ¥9.18 million (≈ $61,000) | P |
+| Loaded cost per Capcom developer, salary plus overhead | ≈ $100,000 a year | E |
+| *Resident Evil Requiem*, first fiscal year | 6.91 million units | P |
+| *Helldivers 2*, a US$40 online game | 20 million copies, more than $700M gross | E |
+| *Fall Guys*, after going free in June 2022 | 50 million players within two weeks | P |
+| Peak Steam players of Capcom's online spin-offs | *Resistance* 4,181 · *Re:Verse* 2,080 · *Exoprimal* 4,522 | P |
+| Platform fees | Steam 30% / 25% above $10M / 20% above $50M; consoles about 30% | P (Steam) · E (consoles) |
+| Server cost, 100-player battle royale on AWS GameLift, 100,000 peak players | $165,000 a month on demand, $105,000 optimized | P |
+
+### 1 · Building It
+
+The launch is deliberately smaller than the whole design (Section 33). It ships one Dead Drop world, four Outbreak scenarios, and Mercenaries, all built on places Capcom has already rebuilt on the RE Engine (Section 27).
+
+| Component | Low | Realistic | High |
+|---|---|---|---|
+| Core team (average headcount × years × $100k) | 110 × 3.5 = $38.5M | 140 × 3.5 = $49M | 180 × 4 = $72M |
+| Technology, backend, networking | $12M | $15M | $22M |
+| The Echo system (Section 27) | $4M | $6M | $10M |
+| Content outsourcing | $8M | $14M | $22M |
+| QA, load tests, betas | $4M | $6M | $10M |
+| **Build cost** | **$66.5M** | **$90M** | **$136M** |
+| Launch marketing | $18M | $25M | $35M |
+| Launch preparation | $4M | $6M | $8M |
+| **Total before launch** | **$88.5M** | **$121M** | **$179M** |
+
+All [A], with the head cost from Capcom's own pay [E]. The Realistic total is about 29% of a single year of Capcom's planned development investment, spread over three and a half years: about 8% a year [E].
+
+### 2 · Running It
+
+Promise 14 makes the operating budget a set of tiers, not a fixed cost. Each year the service runs at the highest tier its earnings can pay for.
+
+| Tier | Live team | Content | Backend | Support | Moderation | Anti-cheat | QA | Marketing | Localization | **Total, before servers** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Full** | 80 heads, $8.0M | $10M | $3M | $2.5M | $1.5M | $2M | $2.5M | $6M | $1M | **$36.5M** |
+| **Standard** | 50 heads, $5.0M | $6M | $2.5M | $1.8M | $1.0M | $1.5M | $1.5M | $3M | $0.7M | **$23.0M** |
+| **Lean** | 25 heads, $2.5M | $2.5M | $2M | $1.2M | $0.7M | $1.0M | $0.8M | $1M | $0.3M | **$12.0M** |
+| **Keep-alive** | 15 heads, $1.5M | $0.5M | $1.5M | $0.8M | $0.5M | $0.8M | $0.4M | none | $0.2M | **$6.2M** |
+
+All [A]. Servers are added on top at **$2.00 per peak concurrent player per month** [A]. That is above the AWS battle-royale example because each Dead Drop server also runs the dead and the director, but below a full-size city, because the worlds are built to the scale of the records (Section 18). With peak players at 4% of monthly players [A], servers cost **about $0.96 per monthly player per year**.
+
+Below Keep-alive, the online service ends and the game goes offline under Section 34.
+
+### 3 · What It Earns
+
+- **The First Run:** about **$20 net per copy**, blending $29.99 and the $49.99 Founder's Edition after regional prices, discounts, and platform fees [A].
+- **The Wardrobe, Patron, and early access**, gross per monthly player per year [A]:
+
+| | First Run, owners | After the Opening, free |
+|---|---|---|
+| Conservative | $8 | $5 |
+| Base | $12 | $8 |
+| Hit | $15 | $10 |
+
+Owners spend more than free players because they already chose to pay. The figures stay modest because every look can be earned, nothing leaves, and nothing creates urgency: those rules cost revenue, and the model counts that cost.
+
+### 4 · Three Cases
+
+| | Conservative | Base | Hit |
+|---|---|---|---|
+| Copies sold in the First Run | 2.5M | 7M | 14M |
+| Monthly players in the first free year | 1.5M | 3.5M | 7M |
+| Decline of free players each year | 20% | 20% | 20% |
+| Years the online service runs | 2 | 7 | 10 or more |
+| **Result over the whole online life, after building it** | **−$125M** | **−$13M** | **+$203M** |
+| Year the project has repaid itself | never | about break-even | year 1 |
+
+All [A]. The copy assumptions are anchored to *Requiem*'s first year at full price [P] and *Helldivers 2* at $40 [E], and are lower than both.
+
+The Base case, year by year:
+
+| Year | Copies | Monthly players | Net revenue | Tier | Result | Running total |
+|---|---|---|---|---|---|---|
+| 1 | 4.2M | 1.3M | $95M | Full | +$57M | −$64M |
+| 2 | 2.8M | 2.2M | $75M | Full | +$37M | −$27M |
+| 3 (Opening) | free | 3.5M | $20M | Lean | +$5M | −$22M |
+| 4 | free | 2.8M | $16M | Lean | +$1M | −$21M |
+| 5 | free | 2.2M | $13M | Keep-alive | +$5M | −$16M |
+| 6 | free | 1.8M | $10M | Keep-alive | +$2M | −$14M |
+| 7 | free | 1.4M | $8M | Keep-alive | +$1M | −$13M |
+| 8 | | | | Offline | | |
+
+All [A]. The First Run carries the project, and after the Opening the service pays for itself at a smaller size. In the Conservative case the free game cannot pay even for Keep-alive, so the Opening and the move offline come together (Section 34).
+
+### 5 · Break-Even
+
+| First Run copies | Result over the online life, Realistic costs |
+|---|---|
+| 6M | −$37M |
+| 7M | −$13M |
+| 7.5M | about break-even |
+| 8M | +$11M |
+
+**The project breaks even at about 7.5 million First Run copies** [A].
+
+After the Opening, each tier needs this many monthly players at the Base case's $8 a year [A]:
+
+| Tier | Monthly players needed |
+|---|---|
+| Keep-alive | 1.3M |
+| Lean | 2.5M |
+| Standard | 4.8M |
+| Full | 7.6M |
+
+The free game sustains a modest service, not a large one. New places after the Opening arrive only as fast as those tiers allow.
+
+### 6 · Population
+
+Dead Drop matches in two kinds of night, Solo and Squad, and three regions: six queues in all (Section 27). A queue fills a 64-survivor night in 90 seconds if about 1,900 sleepers are in it at once, assuming each spends about 45 minutes in a night before queuing again [A]. Echoes filling up to a quarter of a night lower that to about 1,450 [A].
+
+| | Peak players needed, all modes | Monthly players |
+|---|---|---|
+| Sleepers only | ≈ 48,000 | ≈ 1.2M |
+| With Echoes filling up to a quarter | ≈ 36,000 | ≈ 0.9M |
+
+All [A], with off-peak taken as 40% of peak and Dead Drop as 60% of all play. The Base case clears the threshold from the first year: about 50,000 peak players during the First Run and about 140,000 after the Opening. The Conservative case does not: about 18,000 in the first year, across all platforms. Capcom's online spin-offs peaked at 2,000 to 4,500 on Steam alone [P]. When Echo fill is not enough, queues merge regions and nights start at forty.
+
+### 7 · Capcom's Decision
+
+- **Fit:** $121M sits at the top of what Capcom plausibly funds for an online spin-off [A]. It is built on worlds it already owns and sold the way Capcom sells what works: a paid game with free updates and cosmetics, like *Street Fighter 6* and *Monster Hunter* [P].
+- **Gates:** two gates cap the Conservative loss before it is spent. The first is a playable slice of Dead Drop, tested with outside players at about $15M spent. The second is a closed beta on Dead Drop alone, at about $60M spent, judged on whether players come back and on peak concurrency. A project that fails the second gate stops there.
+- **Franchise:** most of the units Capcom sells each year are catalog titles, not new releases [P], and Resident Evil is the largest part of that catalog. A free Resident Evil game set in the places of *Resident Evil 2*, *3*, *4*, and *Requiem* sends players to those games. The model does not count that value. It is a reason to fund the project, not a reason it pays.
+
+### 8 · Verdict
+
+**YES WITH CONDITIONS.**
+
+**The five numbers that matter**
+
+1. **$121M** realistic cost before launch, about 8% of Capcom's yearly development investment while it is built [A].
+2. **7.5 million** First Run copies to break even over the online life [A].
+3. **$20** net per First Run copy, against **$8** a year per free player after the Opening [A].
+4. **2.5 million** monthly free players to keep a Lean service running after the Opening, 1.3 million for Keep-alive [A].
+5. **36,000** peak players for healthy Dead Drop queues with Echo fill [A].
+
+**The three biggest financial risks**
+
+1. **A weak First Run.** Below about 7.5 million copies, the project does not recover its cost; at 4 million it loses about $85M. Everything rests on Dead Drop being good enough to sell at launch.
+2. **The free phase earns little per player.** Earnable looks, no urgency, and no currency for sale keep revenue per free player low. The free game must stay large to run more than a small service.
+3. **Scope creep.** The launch only holds at $121M if the roadmap holds. Adding the Ruins, the valley, or Infection before launch pushes the cost toward the roughly $290M the full design would cost at launch [A].
+
+**The three conditions for sustainability**
+
+1. **Launch small:** one Dead Drop world, four Outbreak scenarios, and Mercenaries, built on Capcom's existing RE Engine worlds, for no more than about $120M.
+2. **Sell the First Run, and keep the Opening date:** at least 7.5 million copies in two years, and no later Opening.
+3. **Let earnings set the service:** the tiers of Promise 14, the gates before launch, and Echo fill in the queues. When the game earns less, it shrinks. It never turns to what the Promises forbid.
+
+### Sources
+
+- Capcom IR: consolidated results and results presentation for the year ended March 2026; Integrated Report 2025.
+- Nikkei, Capcom average salary.
+- Gematsu (*Street Fighter 6*).
+- Steamcharts (*Resistance*); Insider Gaming (*Re:Verse*); Game World Observer and KitGuru (*Exoprimal*).
+- Shacknews (*Fall Guys*); Alinea Analytics (*Helldivers 2*).
+- Amazon GameLift Servers pricing; Steam revenue-share tiers.
 
 ---
 
