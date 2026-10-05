@@ -4,6 +4,8 @@
 
 > **ΜΝΗΜΗ remembers.**
 
+*Created by Johnny Kestler, with Claude (Anthropic). Generative AI was used in the creation and editing of this document.*
+
 ---
 
 ## 00 · READING THIS DOCUMENT
@@ -36,6 +38,8 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 Lines set in monospace blocks are ΜΝΗΜΗ's own words: what she speaks into a session, exactly as survivors hear or read it, and the records she writes.
 
 Section 25 dramatizes a single night. It illustrates the rules; nothing in it is canon beyond them.
+
+Part II, Sections 27 to 34, describes how the game is built, sold, and run. It is written in the Service's register.
 
 ---
 
@@ -100,6 +104,8 @@ What Resident Evil Online is, plainly:
 Survivors enter a situation. ΜΝΗΜΗ observes. ΜΝΗΜΗ changes the situation. Survivors adapt. ΜΝΗΜΗ responds. The session becomes something no one planned.
 
 Five modes run under one intelligence: **Dead Drop**, **Outbreak**, **Versus**, **Mercenaries**, and **Infection**, with two special sessions, **Recollections** and **Endless**, built around the survival modes. Every mode is played online first, among real sleepers. Once ΜΝΗΜΗ has watched enough of a mode, it can also be played alone, offline, among **Echoes**: survivors she has rebuilt from everyone who played before.
+
+Resident Evil Online is free to play, and every mode is played in third person. Everything sold in it is something to wear or a chance to see a new place a day or two early. Prices are kept low, and nothing bought changes how a night is played (Section 28). Online is how the game begins, not what it requires: over its life, every part of it becomes playable offline, and it stays playable, whole, even if the online service one day ends (Section 34).
 
 ---
 
@@ -316,6 +322,10 @@ Between sessions they wait in a place ΜΝΗΜΗ also builds. Sleepers who have 
 | Squads and friends | Sleepers who have shared enough nights may ask to be woken together. ΜΝΗΜΗ grants it. |
 | Offline play | ΜΝΗΜΗ running a night with no other sleeper in it, filled with Echoes |
 | Asking to be forgotten | Asking ΜΝΗΜΗ to keep nothing more of you |
+| Ink Ribbons and the Wardrobe | ΜΝΗΜΗ's tally of the nights a sleeper has given her, and the dress she will compose in return. Whatever else a dress was given for, the Night never asks. |
+| Casefiles and events | The forecast ΜΝΗΜΗ is rehearsing hardest this season, and what she gives sleepers for helping her fill it |
+| The Dossier and its Portrait | ΜΝΗΜΗ's file on a sleeper, and the one still she lets them arrange |
+| Early access to a new place | ΜΝΗΜΗ waking a few sleepers somewhere new before the rest |
 
 None of them is ever told what they are. They know the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
 
@@ -1089,6 +1099,18 @@ A survivor has two hands and four pockets. A bag found in the world adds six mor
 > *Do I keep the tool or the weapon?*
 > *Is this worth the space?*
 
+### What a Survivor Wears
+
+Besides two hands and four pockets, a survivor has three places to wear what they find.
+
+- **Head.** A hard hat or a motorcycle helmet is light; a riot helmet or an Army helmet is heavy. A helmet turns blows to the head from the living until it cracks: a light one after one blow, a heavy one after two.
+- **Body.** A security guard's or a police officer's vest is light; body armor from a vault is heavy. A vest lessens what bullets and blades do to the body.
+- **Back.** A bag, with its six places.
+
+Nothing worn stops a bite or a scratch. The dead find skin.
+
+In Dead Drop, everything worn is found, and anyone can see what anyone is wearing. What a survivor wears is also where a player's gear looks appear (Section 30).
+
 ### Scarcity
 
 ΜΝΗΜΗ sets the abundance of each survival session before it begins.
@@ -1704,13 +1726,13 @@ Betrayal is a calculated risk, never a free move:
 | **Mercenaries** | A familiar face with the loadouts they are known for, or your own survivor with a standard one |
 | **Infection** | A monster. The character is the virus. |
 
-Familiar faces and the eight differ in appearance, voice, animation, and personality, and carry small, balanced traits. No character is mandatory. In Dead Drop, familiar faces are never worn by players: they are companions, and ΜΝΗΜΗ plays them.
+Familiar faces and the eight differ in appearance, voice, animation, and personality, and carry small, balanced traits. No character is mandatory, and no character is ever sold: familiar faces are open to everyone, or opened by play, as Mercenaries ranks open them. What can be bought is how they look. In Dead Drop, familiar faces are never worn by players: they are companions, and ΜΝΗΜΗ plays them.
 
 ### Progression
 
 **Setup progression** applies in Outbreak, Versus, and Mercenaries: level and mastery widen what a setup can hold, and the budget stays fixed. In Mercenaries, ranks unlock characters and loadouts.
 
-**Appearance** applies everywhere: survivors, outfits, animations, gear, banners, icons, gestures. In Dead Drop, level changes nothing but appearance. Every night begins with everyone on equal ground.
+**Appearance** applies everywhere: faces, dress, gear, finishes, charms, emblems, figurines, Forms, and the Dossier, set out in Sections 29 to 31. In Dead Drop, nothing earned or bought changes anything but appearance. Every night begins with everyone on equal ground.
 
 In the Night, all of it is ΜΝΗΜΗ's file on a sleeper, and the bodies she lets them choose.
 
@@ -1800,7 +1822,7 @@ An offline session needs no connection. Everything ΜΝΗΜΗ needs to run it, a
 | **Recollections** | Any frame can be played. Only a connected run counts in the competition. |
 | **Endless** | The Beacon rises once every living survivor and Echo has been cured. |
 
-Offline, a survivor can stop the night, and the city waits. ΜΝΗΜΗ gives her full attention to the Echoes near the survivor and runs those far away as she runs the distant dead: with less care and the same rules. Everything earned offline is the survivor's own. The Ledger, shared boards, and competitions need a connection.
+Offline, a survivor can stop the night, and the city waits. ΜΝΗΜΗ gives her full attention to the Echoes near the survivor and runs those far away as she runs the distant dead: with less care and the same rules. Everything earned offline is the survivor's own, and everything owned is worn offline (Section 34). The Ledger, shared boards, and competitions need a connection.
 
 Online, Echoes never take the place of a survivor, with one exception: the empty places of an Outbreak, where the eight were always filled by someone. Everywhere else, a survivor online can know that every other survivor is real and choosing for themselves.
 
@@ -1835,6 +1857,7 @@ EVENTS ENDURED ........... 6
 DISTANCE TRAVELED ........ 8.7 KM
 WOUNDS TAKEN ............. 11
 COMPANION ................ ROBERT KENDO · EXTRACTED
+RIBBONS EARNED ........... 126
 FINAL RESULT ............. EXTRACTED · CURED
 ```
 
@@ -1992,6 +2015,333 @@ The measure of a night in Resident Evil Online is a single thought, repeated by 
 It does not come from randomness alone. It comes from the collision of systems, survivors, ΜΝΗΜΗ, events, and the map: from choices that mattered and consequences that arrived on time.
 
 And beneath every night, the thought no survivor is ever allowed to have: that it has happened before, to someone, and she remembers exactly how it went.
+
+---
+
+# PART II · THE SERVICE
+
+*Sections 27 to 34 describe how Resident Evil Online is built, sold, and kept running. They are written in the Service's register: here a player is a player, money is money, and every rule below binds the people who run the game, not ΜΝΗΜΗ.*
+
+---
+
+## 27 · PRESENTATION AND TECHNOLOGY
+
+### Third Person, Everywhere
+
+Every mode is played in third person, from over the shoulder. The camera can swap shoulders, draws in when the survivor aims, and pulls close in tight spaces. There is no first-person mode.
+
+Third person is the choice because the body is the clock. A survivor's tremor, their limp, the hand pressed to their ribs, the way they stand at Fracture: all of it is information Resident Evil Online refuses to put on a screen as a number, so the player has to be able to see their own survivor.
+
+The camera never swings in front of the survivor. A survivor still reads their own Mark the way Section 10 says: in a window, a puddle, a mirror.
+
+### The Camera Sees Only What the Survivor Sees
+
+A third-person camera floats above and behind the body, and in a game built on hiding it would let a player look around a corner without exposing their survivor. Resident Evil Online closes that door. Other survivors, the Turned, the dead, and anything lying on the ground are drawn only when the survivor's own eyes could see them. The camera may show the street beyond the wall. It never shows who is standing in it.
+
+The server decides what each survivor can see and sends nothing else. A player who breaks the client finds nothing in it to reveal.
+
+### Engine and Platforms
+
+Resident Evil Online is built on Capcom's RE Engine for PlayStation 5, Xbox Series X|S, and PC. Every platform plays with every other, and an account is the same account everywhere: everything a player has earned, bought, or unlocked follows them to every platform they sign in on.
+
+### Servers
+
+Every online session runs on a dedicated server, and ΜΝΗΜΗ runs on it. The server, never the player's machine, decides what was hit, what was found, where the dead are, and how far each virus has gone. A Dead Drop of a hundred survivors and the thousands of dead around them runs on one server: the dead near survivors are simulated in full, and the dead far from anyone are run more coarsely, under the same rules.
+
+### Sound
+
+Sound is the main channel of information in every survival mode, so the audio is built first and drawn second. Every sound is positioned in three dimensions, carried through walls, doors, and floors, muffled by rain, and doubled in the Frenzy, exactly by the tiers of Section 15. Proximity voice travels the same way: through the same walls, at the same distances.
+
+### Readable by Everyone
+
+- **The Mark is shape as well as color.** Each strain draws its lines in its own pattern: straight and thin for the T-Virus, knotted with nodes for the G-Virus, thick and swollen for the C-Virus, moving under the skin for Uroboros, branching like frost for T-Veronica, darkening in pulses for T-Phobos. Color-blind settings strengthen the pattern; they never add an icon.
+- **The strobes are rhythm as well as color.** Elpis pulses slowly. A pure strain pulses fast. The parasite falls dark.
+- **Every voice is subtitled,** ΜΝΗΜΗ's public and private voices included.
+
+### Playing Without a Connection
+
+Everything ΜΝΗΜΗ needs to run an offline session, and every Echo she will put in it, ships with the game and updates with it. Section 34 sets out what offline play keeps and what it does not.
+
+---
+
+## 28 · THE SERVICE
+
+**Resident Evil Online is free to play.** Every mode, map, scenario, character, and companion is free to everyone, and stays free.
+
+It is run as a live service: new seasons, new places, new events, new things to wear. It is paid for the way a gift is given. Everything sold in it is either something to wear or a chance to see a new place a day or two early. Prices are low. Nothing bought makes a night easier, and nothing is ever locked away from someone who would rather play than pay. A player who pays is supporting the game; a player who never pays is missing nothing but a short wait.
+
+### The Promises
+
+These are commitments, not goals. Everything else in Part II follows from them.
+
+1. **Free to play.** No mode, map, scenario, character, or companion is ever sold.
+2. **Nothing sold changes a night.** No weapon, stat, slot, boost, consumable, shortcut, or second chance is ever for sale. What is sold is how things look, and early access.
+3. **Nothing ever leaves.** Every item ever offered, by an event, a Casefile, a release, or the Wardrobe, stays obtainable for as long as the game exists.
+4. **Nothing is exclusive.** Every item can be earned with Ribbons as well as bought with money. No item is reserved for those who paid.
+5. **One currency, earned, never sold.** Ink Ribbons are earned by playing. They cannot be bought. Money buys items directly, at a price shown in the player's own currency.
+6. **Low prices, and a ceiling.** No single item or set costs more than 1,000 Ribbons or US$9.99.
+7. **Nothing takes long to earn.** Every new thing for sale arrives with a Release Weekend that pays for it in a few evenings of play.
+8. **Early access is the only thing sold that cannot be worn.** It never lasts longer than forty-eight hours, it never counts on the Ledger, and everything it opens is free when it ends.
+9. **What you own, you own everywhere.** On every platform, in every mode where it fits, and offline.
+10. **Online is how the game begins, not what it requires.** Every piece of every mode opens to offline play as soon as ΜΝΗΜΗ has watched enough of it, so that over its life the whole game becomes playable without a connection. If the service ever ends, nothing a player owns is lost and nothing becomes unplayable: the game goes on, entirely offline. Section 34 says how.
+11. **Nothing random is sold.** No loot boxes, no paid draws, no mystery packs. A player always knows exactly what they are buying.
+12. **Every kind of thing for sale is listed in this document.** Nothing outside the kinds listed in Sections 29 to 33 will ever be sold.
+13. **The Wardrobe is never shown inside a night.** No offer, pop-up, or reminder ever interrupts a session.
+
+### What the Record Shows
+
+Capcom's own history with Resident Evil, and the industry around it, shows what players have accepted and what they have refused. Each promise above answers one of these.
+
+| Year | Game | What was sold | How players took it | What Resident Evil Online does instead |
+|---|---|---|---|---|
+| 2009 | Resident Evil 5 | A Versus mode sold for US$5, built from assets already on the disc | Players resented paying to unlock what they had already bought | Nothing already made is ever sold as a key. Early access sells time, and the content turns free |
+| 2022–2025 | Resident Evil Re:Verse | A multiplayer game packed in with Village, delayed past Village's launch, sustained by a premium pass | Its concurrent players fell from about two thousand in its first month to under a hundred within months. Its DLC was pulled from sale in March 2025 and its servers shut down on 29 June 2025 | If the service ends, the game and everything owned stay, offline |
+| 2023 | Resident Evil 4 | Weapon upgrade tickets at US$2.99 each, added two weeks after launch | Players felt misled by the timing and saw it as selling progress | Nothing sold changes play, and every kind of thing for sale is listed from the start |
+| 2023 | Resident Evil 4 | Separate Ways at US$9.99, released the same day as a free Mercenaries update that added Ada Wong and Albert Wesker | Paid content arrived beside free content | New content is always free, and only the wait before it is sold |
+| 2024 | Dragon's Dogma 2 | Consumables and conveniences at US$1–5 in a full-price game | Steam reviews fell to Mostly Negative, 34% positive, at launch | No consumables, conveniences, or boosts, ever |
+| 2024 | Helldivers 2 (Arrowhead) | Warbonds, its battle passes, never expire | Players praise the absence of time pressure | Casefiles never close (Section 32) |
+| 2024 | EU consumer authorities (CPC Network) | Seven principles for in-game currencies, among them that prices be shown in real money | — | Ribbons are never sold, and money buys items at a visible price |
+| 2025 | Monster Hunter Wilds | The most sought-after outfits sold in packs, one at US$32.95; outfits shown in event trailers had to be bought to keep | Players objected to paying for what an event had shown them | Event items are earned in the event and stay buyable afterwards, under the price ceiling |
+
+*References:* VGC, "Resident Evil 4 remake has added microtransactions to upgrade weapons quicker"; Engadget, "Capcom defends charging for Resident Evil 5 'Versus' DLC" (2009); MP1st, Separate Ways and Mercenaries update announcement; Insider Gaming and TheSixthAxis on the Re:Verse shutdown; Windows Central on Dragon's Dogma 2's launch reviews; GFinity on Monster Hunter Wilds cosmetics; Destructoid on Helldivers 2 Warbonds; Linklaters TechInsights on the CPC principles.
+
+---
+
+## 29 · THE ECONOMY
+
+### Ink Ribbons
+
+The game has one currency: **Ink Ribbons**, or Ribbons. They are earned by playing and spent in the Wardrobe. They cannot be bought, sold, traded, or given away.
+
+Ribbon prices are the same in every region. Money prices are set per region and shown in the player's own currency, next to the Ribbon price, on every item. As a reference, 100 Ribbons are priced like US$1.
+
+In the Night, Ribbons are ΜΝΗΜΗ's tally: one line typed into the Ledger for every stretch of a night a sleeper has given her.
+
+### Earning
+
+- **About 85 Ribbons for every hour played,** paid by the minute spent inside a night. The rate is the same in every mode, so no mode is the "farming" mode.
+- **Results add a little, never much.** An extraction, a cure given away, a finished scenario, or a rank adds a small award, never more than a fifth of what the night itself paid. A player who loses still earns almost everything a winner does.
+- **Time counts while it is played.** A Turned survivor with a mind is still earning. A Lost survivor stops earning when they leave the session, and watching through ΜΝΗΜΗ's eyes pays nothing.
+- **Idle time pays nothing.** A night ΜΝΗΜΗ forgets, because the survivor cheated, could not be hurt, or never moved (Section 23), pays nothing at all.
+
+At the ordinary rate, 1,000 Ribbons, the price of a complete set, take about twelve hours of play.
+
+### Prices
+
+| Item | Ribbons | Money (US reference) |
+|---|---|---|
+| Charm | 100 | $0.99 |
+| Emblem | 100 | $0.99 |
+| Dossier pose | 100 | $0.99 |
+| Figurine | 150 | $1.49 |
+| Dossier backdrop or frame | 150 | $1.49 |
+| Weapon finish | 250 | $2.49 |
+| Gear piece (one slot, every tier) | 250 | $2.49 |
+| Form (one shape of one strain) | 300 | $2.99 |
+| Dress (an original survivor's outfit) | 500 | $4.99 |
+| Face (a familiar face's look) | 500 | $4.99 |
+| Form line (all four shapes of one strain) | 800 | $7.99 |
+| Set | 1,000 | $9.99 |
+| Early access ticket (Section 33) | — | $4.99 |
+
+A **set** is a complete look sold together: for example a dress, the head, body, and back gear that match it, one weapon finish, a charm, and an emblem. A set always costs less than its pieces bought one by one. A player who already owns some of its pieces pays only for the rest.
+
+Anything bought with money can be bought as a gift for a friend.
+
+### Release Weekends
+
+Every release of new things for sale arrives with a **Release Weekend**: from Friday at 18:00 to Sunday at 23:59, in each region's own time, Ribbons pay double in the modes the release belongs to. A Dead Drop gear set doubles Dead Drop. A new look for Leon Kennedy doubles every mode in which Leon can be played. A new Form doubles the modes in which that Form can be worn.
+
+The arithmetic is fixed, and it is the reason for the price ceiling:
+
+| | Ordinary weekend | Release Weekend |
+|---|---|---|
+| Ribbons per hour | about 85 | about 170 |
+| Three hours on Saturday and three on Sunday | about 510 | about 1,020 |
+
+A player who plays three hours on Saturday and three on Sunday of a Release Weekend can buy that release's set with what they earned, and Friday evening is margin. No release ever contains a single item or set priced above what its own weekend pays in those six hours. Two releases never share a weekend, and Release Weekends never stack.
+
+### The Wardrobe
+
+The **Wardrobe** is the store. Everything ever offered is in it, always. Its front page changes with the season, but nothing is ever taken off its shelves. Every item can be previewed on the player's own survivor, standing in any backdrop they own, in any condition: day, night, rain, or blackout.
+
+The Wardrobe needs a connection, and it is never reachable from inside a night.
+
+### Protections
+
+- **Refunds** follow the law and the platform of each region. In the European Union, anything bought and not yet used can be returned within fourteen days.
+- **Accounts of minors** carry a monthly spending limit by default, and every account can be given parental controls.
+- **No advertising** appears anywhere in the game.
+
+---
+
+## 30 · COSMETICS
+
+### The Rule
+
+Everything sold or earned in Resident Evil Online changes how something looks and nothing else. Because the survival modes are read by eye and by ear, "nothing else" is held to precise limits:
+
+- **Shape and tier.** A cosmetic keeps the silhouette of what it dresses. A light helmet still looks like a light helmet and a heavy one like a heavy one; a pistol still looks like a pistol.
+- **Brightness.** Nothing is darker, duller, or better hidden against a wall or in the dark than the plain item it replaces. A dress or gear piece that blends into the night is never made.
+- **No light, no sound.** No cosmetic glows, flickers, or makes a sound of its own. Footsteps are footsteps.
+- **The Mark is never covered.** No dress, gear, or face hides the neck, the jaw, or the lower face, where the Mark's lines run. Everyone can always read everyone's neck.
+- **Hit areas are the body's.** No cosmetic changes the size of a survivor, a Turned, or a monster, or where it can be hurt.
+- **Forms keep their strain.** A monster's look keeps its strain's colors and patterns and every weak point the strain gives it: the glowing core of Uroboros, the yellow eye-tumors of the G-Virus.
+- **Gestures stay shared.** The raised hand, the lowered weapon, and the signal to follow are the same for everyone, because survivors use them to talk. Poses bought or earned are for the Dossier.
+- **The tone holds.** Everything worn could be worn by someone in these places. Event dress may be macabre; it is never a joke.
+
+Companions are never dressed: Leon Kennedy in a Dead Drop is who the records say he was. The eight of Outbreak, the familiar faces of Versus and Mercenaries, and every original survivor can be.
+
+### What Can Be Owned
+
+| Kind | What it is | Where it shows |
+|---|---|---|
+| **Faces** | Alternate looks for a familiar face, drawn from that person's own records: Leon Kennedy as he was in Spain in 2004, Albert Wesker as the S.T.A.R.S. captain of 1998 | Every mode in which that person can be played: Versus, Mercenaries, and, for the eight, Outbreak |
+| **Dress** | Outfits for a player's original survivor | Dead Drop, and wherever an original survivor is played |
+| **Gear** | Looks for what a survivor wears on the head, body, and back | Dead Drop, when the survivor puts on that kind of gear; the setup modes, when the setup carries it |
+| **Finishes** | Looks for a weapon: a pipe, a fire axe, a handgun, a shotgun | Whenever the survivor holds that weapon |
+| **Charms** | Small things that hang from a bag or a weapon, as the attaché case charms did in Resident Evil 4: an ink ribbon, a green herb, a Mr. Raccoon, a lion medallion, a Spencer crest | On whatever bag or weapon the survivor carries |
+| **Emblems** | Patches for a vest or a sleeve: S.T.A.R.S., R.P.D., U.B.C.S., Umbrella, BSAA, Kite Bros Railway, Raccoon Zoo, J's Bar | On the survivor's dress and body gear |
+| **Figurines** | The small collectibles the series has always hidden in its rooms: Mr. Raccoon, the Mr. Raccoon Memoriams of the ruins, Mr. Charlie, Mr. Everywhere, the Goats of Warding, the Clockwork Castellans | The shelf of the Dossier (Section 31) |
+| **Forms** | Looks for a Turned shape or a monster: a Licker, a Crimson Head, a J'avo, a Queen-form, the generic zombie every Infection monster begins as | A player's own Turned in Dead Drop and Outbreak, and every stage of an Infection path |
+| **Poses, backdrops, frames** | The pieces of a Portrait | The Dossier |
+
+### Gear in Dead Drop
+
+In Dead Drop, a survivor wakes with nothing but their dress. Everything else they wear, they find (Section 16). A player's gear looks appear on what they find.
+
+- **Putting it on turns it on.** A player who has dressed their survivor in a BSAA set wakes in its dress. When they find a riot helmet and put it on, it becomes the BSAA helmet, in the riot helmet's shape. When they find a police vest and put it on, it becomes the BSAA vest. A bag becomes the BSAA pack.
+- **Everyone sees it.** Every survivor sees every other survivor in the looks that survivor's player chose. A player sees others in theirs, and is seen in their own.
+- **The look belongs to the player, not the item.** A survivor who takes off the helmet and drops it drops a plain riot helmet. Whoever picks it up and puts it on wears it in their own helmet look if they own one, and as a plain riot helmet if they do not.
+- **A set is made for every tier.** A gear look is drawn once for each tier of its slot, so a BSAA helmet on a hard hat and a BSAA helmet on a riot helmet still read as light and heavy.
+- **Finishes and charms follow the hands.** A found handgun takes the player's handgun finish when they pick it up, and loses it when it leaves their hands. Their charm hangs from whatever bag or weapon they carry.
+- **At the Turn, everything carried falls.** Gear and weapons drop where the survivor fell, plain again, for anyone to take; the one exception is what an Afflicted keeps in its hand (Section 13). The body rises in the player's Form for its strain and shape, and a shape that keeps a human outline, like the zombie, keeps the dress it died in. A squad that meets a friend at the bottom of a stairwell an hour later may meet them in that dress.
+
+In the Night, none of this is strange. ΜΝΗΜΗ composes every body she runs, and a helmet is only a helmet to her. What it looks like on a sleeper is what the sleeper asked her to show.
+
+### Echoes in the Wardrobe
+
+Echoes wear dress, gear, and Forms drawn from the Wardrobe as often as sleepers were seen wearing them, so that nothing on an Echo tells a survivor that it is one. A shared Echo wears its owner's looks.
+
+---
+
+## 31 · THE DOSSIER
+
+Every player has a **Dossier**: a personnel file in the style the series has always kept, with a photograph clipped to its cover. The photograph is the **Portrait**, a small diorama the player builds and the first thing friends see.
+
+### The Portrait
+
+A Portrait is a three-dimensional scene, built and saved like a photograph.
+
+- **The subject.** The player's original survivor in any dress and gear they own, a familiar face in any look they own, one of the eight, or one of their Forms.
+- **The pose.** Standing, crouched, leaning against a concrete wall, sitting on the hood of a wrecked cruiser, holding a weapon in its finish.
+- **The camera.** Angle, distance, height, tilt, and lens, set freely, as long as the subject's face stays in the frame.
+- **The backdrop.** A place from the maps: the R.P.D. lobby, the clock tower in the rain, the subway platform, the crater's edge, the village plaza, a castle hall.
+- **The light.** Any condition the place allows: day, night, rain, or blackout.
+- **The frame.** The folder the photograph is clipped to: an Umbrella personnel file, an R.P.D. case file, a S.T.A.R.S. roster card, a BSAA dossier.
+- **The shelf.** Up to five figurines along the bottom of the file.
+- **The plaques.** Up to three lines from the player's own Ledger: nights survived, clean extractions, cures given away, scenarios escaped.
+- **The emblems.** Up to three, pinned to the cover.
+
+A player who wants their original survivor leaning against a concrete wall in the Ruins at night, in Umbrella dress, a Clockwork Castellan on the shelf and their count of cures given away under the photograph, builds exactly that.
+
+### Earned by Deeds
+
+Most backdrops and many frames are not sold first. They are earned in the places they show: extracting by the Clock Tower earns the clock tower, escaping *Hellfire* earns the Apple Inn, a clean extraction from the Ruins earns the crater's edge. Every one of them can also be bought in the Wardrobe by players who would rather not wait.
+
+### Where It Is Seen
+
+The Dossier is shown on the friends list, to every member of a squad as it forms in the Waiting Dark, on every page of the Ledger, and on the screen that closes a night, for the survivors who left on the last way out. It is never shown inside a night: Dead Drop has no name tags, and no Portrait.
+
+In the Night, the Dossier is ΜΝΗΜΗ's file on a sleeper, and the Portrait is the one still she lets them arrange.
+
+---
+
+## 32 · CASEFILES AND EVENTS
+
+### Seasons
+
+The service runs in seasons of about ten weeks. Each season, ΜΝΗΜΗ rehearses one forecast harder than the rest, and the season takes its name and look from it. A season brings a Casefile, at least one event, and usually new content (Section 33).
+
+### The Casefile
+
+A **Casefile** is the season's pass, and there is only one kind: complete, free, and the same for every player. There is no premium track, nothing to unlock with money, and nothing on it that only some players can earn.
+
+- **Fifty pages,** each holding something: dress, gear, finishes, charms, emblems, figurines, poses, backdrops, and Ribbons. Every Casefile holds 1,000 Ribbons across its pages, a full set's worth.
+- **Progress comes from playing,** paid by the minute exactly as Ribbons are, in every mode. Weekly **Leads**, small tasks such as *extract from Raccoon City by the Subway* or *escape* Below Freezing Point *on Hard*, speed it up. None is required.
+- **It finishes in about thirty hours** spread over the season, around three hours a week.
+
+**When the season ends, the Casefile closes, but nothing on it is lost.** Every item on it enters the Wardrobe at its ordinary price. The Casefile itself moves to the Casefile Archive, where any player can choose it as their active Casefile and go on earning it at any time, for free. A player works on one Casefile at a time and keeps their progress on every other.
+
+In the Night, a Casefile is ΜΝΗΜΗ's working file for the season's forecast, and its pages are what she gives sleepers for helping her fill it.
+
+### Events
+
+An **event** is a stretch of a season, usually one to three weeks, with something that happens only while it lasts: a condition, a variant of a mode, a Recollection frame, its own tasks, and its own things to wear. Its items are earned by playing it, for free, and can also be bought from its first day.
+
+When an event ends, the event itself ends: its condition, its variant, and its tasks are gone. **Its items are not.** Every one of them enters the Wardrobe the day the event closes, at its ordinary price, and stays there. An event may come back in a later year with new items. The old ones never left.
+
+### Hallowed Night
+
+The autumn event shows how the rules work together. For two weeks, ΜΝΗΜΗ runs *Hallowed Night*, a condition in two places. In the valley, the villagers walk in the masks and robes of an All Saints' procession they never finished. In the Ruins, the old dead are joined by newer ones: thrill-seekers who climbed the wall on Halloween night in costume, to dare each other inside. The event's own tasks pay out macabre dress and gear: a carved-pumpkin charm, a Mr. Raccoon figurine in a sheet, a mourning dress, a carved-bone helmet look in both tiers. A player who plays the event earns its items free. When the two weeks end, *Hallowed Night* is gone from the maps, and every item it gave is in the Wardrobe.
+
+### The Calendar Rule
+
+An event never places a date on a map that its records forbid. The Raccoon City of September 1998 never sees the end of October, because the missile fell on its first morning. An autumn event runs in the valley and in the Ruins, where the records allow the end of October. Event dress is ΜΝΗΜΗ's to compose and may appear on any map; an event's conditions and variants appear only where the calendar allows them.
+
+### Release Weekends
+
+Every release of new things for sale arrives with a Release Weekend (Section 29). Because an event's items can be bought from its first day, every event opens with a Release Weekend in the modes it runs in.
+
+---
+
+## 33 · NEW CONTENT AND EARLY ACCESS
+
+### What Arrives
+
+New places and new nights arrive through the life of the service: Dead Drop maps and new versions of existing ones, Outbreak scenarios, compact maps, Recollection frames, companions. All of it is free, to everyone, on the day it opens to the public.
+
+### Early Access
+
+The only thing a player can pay for, besides how things look, is to arrive first. A new map, version, or scenario may open to holders of an **early access ticket** up to forty-eight hours before it opens to everyone. A Dead Drop map announced for the 12th opens to ticket holders on the 10th, and to everyone on the 12th.
+
+- **The ticket costs US$4.99,** in money only.
+- **A ticket covers its holder's squad.** Friends who wake in the same squad as a ticket holder share the early nights with them.
+- **The early nights count for nothing on the Ledger.** Rankings, boards, Recollection frames, and every competition on a new place open with its public launch, so that arriving first teaches a player the place without placing them above anyone.
+- **Nothing in early access is exclusive.** There is no badge, no item, and no title for having been there first.
+- **Early nights are watched.** ΜΝΗΜΗ counts them toward the hundred thousand nights a new place needs before it opens offline (Section 23), so early access brings offline play closer for everyone.
+
+Early access is sold for money alone because its only value is time. It costs a player nothing in play to wait two days, and it is the one purchase whose whole purpose is to support the game.
+
+In the Night, early access is ΜΝΗΜΗ waking a few sleepers somewhere new before the rest. Before she can rebuild a place for everyone, she must watch someone survive it.
+
+---
+
+## 34 · OFFLINE AND OWNERSHIP
+
+### Online First, Then Offline
+
+Every mode, map, and scenario begins online only. Each opens to offline play when ΜΝΗΜΗ has watched enough of it (Section 23), and from then on it can be played without a connection, among Echoes, under the same rules and the same Laws.
+
+The online phase is a beginning, not a condition of owning the game. It exists because ΜΝΗΜΗ cannot rebuild what she has not watched. As each piece is watched, it is freed from the connection, and the aim from the first day is a game that a player can keep and play, whole, without one.
+
+### Everything Owned Is Worn Offline
+
+Everything a player has earned or bought, with Ribbons or with money, is theirs offline exactly as it is online: every face, dress, gear look, finish, charm, emblem, figurine, Form, pose, backdrop, and frame. Offline play changes who the other survivors are and whether the internet is needed. It changes nothing a player owns.
+
+### What Offline Earns
+
+- **Ribbons and Casefile progress are earned offline at the ordinary rate.** They are banked on the player's machine and credited to their account the next time it connects, up to 1,000 Ribbons for each week spent offline. An offline session cannot be watched by a server, so this ceiling is the price of being able to earn there at all.
+- **Release Weekends and events run online only.**
+- **The Wardrobe needs a connection.** Items bought on another platform appear offline after the next sign-in.
+
+### If the Service Ends
+
+The old exercises ended when the people stopped coming. Resident Evil Online will not end that way, and neither will what its players own.
+
+If the online service is ever brought to an end, it is announced at least six months before. Its last update opens every piece of every mode to offline play, watched enough or not, together with every event condition and Recollection frame the service ever ran, and every item in the Wardrobe is given to every account. Shared rankings and boards close; every player keeps their own. From then on, the game runs entirely offline, with everything every player ever owned and everything they never got around to, for as long as there are machines to run it.
+
+In the Night, this is the day Section 23 describes, the day no one comes. ΜΝΗΜΗ goes on running every night she can, filled with everyone she ever watched.
 
 ---
 
