@@ -43,6 +43,7 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 | **The Taken** | The Night | In the Valley of 2004, a survivor whose Plaga has taken their will: the Plaga's Turned |
 | **Thread / beat** | The Night | A person's path through a story night, and a moment the records hold on it |
 | **The earpiece** | The Night | The device beside every waking point through which ΜΝΗΜΗ talks to one survivor as a person |
+| **Late Night / the seed** | The Night | A story night ΜΝΗΜΗ has already run, alone, before anyone wakes; and that run, whose aftermath the survivors wake into. A variant, not part of the launch |
 | **Vision** | The Night | Something ΜΝΗΜΗ puts into one survivor's senses that is not in the night, to make a still survivor move |
 | **The Growth** | The Night | The living tissue that has spread through ΜΝΗΜΗ's hardware since 2019, which Pithos records and does not understand |
 | **Live scene / Moment / the Reel** | The Night | A beat performed in the world while everyone keeps control; the few seconds of true cinema ΜΝΗΜΗ grants a survivor when nothing can reach them; and her record of the scenes a survivor witnessed, watched after the night |
@@ -1171,7 +1172,7 @@ Some ways out check who boards. Military and Umbrella-built ways out were made t
 | **The Mine Cart** | The rail line through the mines below the castle, out to the mouth of the valley | 6 | The points set along the line, and a ride through the spore galleries. Whatever lives in the mines hears the cart coming. | None |
 | **The Tower Helicopter** | The highest tower of the castle. A pilot who leaves the moment the rotors are up to speed. | 2 | Climbing the castle, which was built to keep people out | The pilot looks every passenger in the eye: no red glow passes |
 | **Mike's Helicopter** | The island's military base. The helicopter Ingrid Hunnigan sent, which in the records was brought down. | 8 | The anti-aircraft guns silenced. Mike lands only where no one is shooting at him. If he is brought down, his seats are gone. | None |
-| **The Jet Ski** | The underground dock beneath the island. The way Leon Kennedy and Ashley Graham got off the island. | 2 | Its key. Ada Wong throws it to whoever stands at the dock when Saddler dies; if no one does, it hangs by the dock. | None |
+| **The Jet Ski** | The underground dock beneath the island. The way Leon Kennedy and Ashley Graham got off the island. | 2 | Its key. Ada Wong throws it to whoever stands at the dock when Saddler dies; if no one does, or if Saddler is still alive when the island's count begins, it hangs by the dock. | None |
 
 ### The Signal
 
@@ -1489,13 +1490,13 @@ The dead here are old. Some have been dead since 1998, and the virus in them has
 
 A valley in rural Spain and the sea beyond it, rebuilt as the records hold them: a village of stone houses around a plaza, farms, a quarry, a deep lake, and a church on the hill. Above it all, on the cliffs over the sea, stands the castle of the Salazar family. Offshore is the island where Los Iluminados keep their laboratories and their soldiers. It is the largest of the Dead Drop worlds, and the only one that holds the Plaga (Section 07).
 
-It is one world in three parts, and the story decides when each part opens. Every survivor wakes in the village. The castle and the island are in the world from the first minute, in sight across the valley and the water, and closed. Each part opens with a beat of the story (Section 20). If no one makes that beat happen, it opens at the latest moment the story allows.
+It is one world in three parts, and the story or the survivors decide when each part opens. Every survivor wakes in the village. The castle and the island are in the world from the first minute, in sight across the valley and the water, and closed. Each part opens with a beat of the story (Section 20), or with a way that belongs to no thread, which works only after night falls. If neither happens, it opens at the latest moment the story allows.
 
-| Part | Opens | At the latest |
-|---|---|---|
-| **The village** | At the waking | — |
-| **The castle** | When Bitores Mendez's false eye is held to the retinal scanner at the castle gate | At the forty-fifth minute, when the Zealots lower the drawbridge to come down into the village |
-| **The island** | When someone takes the boat key Ada Wong leaves at the castle dock after Ramón Salazar dies | At the signal, when the cult's boats put in at the castle dock to carry the last hosts across to Saddler |
+| Part | Opens with the story | Or | At the latest |
+|---|---|---|---|
+| **The village** | At the waking | — | — |
+| **The castle** | When Bitores Mendez's false eye is held to the retinal scanner at the castle gate | When two survivors crank the drawbridge down together from the winch house on the cliff walkway. Every turn of the winch is a Clamor. | At the forty-fifth minute, when the Zealots lower the drawbridge to come down into the village |
+| **The island** | When someone takes the boat key Ada Wong leaves at the castle dock after Ramón Salazar dies | When someone fuels one of the dock's boats from the drums chained in the Sea Cave and starts its engine, which is Thunder | At the signal, when the cult's boats put in at the castle dock to carry the last hosts across to Saddler |
 
 Once the island is open, the boats at the castle dock carry anyone across, over open water.
 
@@ -1660,7 +1661,7 @@ In the Night, a setup is what ΜΝΗΜΗ lets a sleeper carry in, and Requisitio
 ### Dead Drop
 *Survival royale · PvPvE · 40 to 100 survivors by map · Solo, Duo, Trio, Squad of 4*
 
-The flagship. A crowd of survivors wakes, clean and empty-handed, wherever ΜΝΗΜΗ placed them in a whole city rebuilt as the records hold it. The dead roam every street, and the virus is in them, in the water, and in the vials left in the laboratories. Somewhere a cure exists, and a handful of doses wait to be earned. There is no shrinking circle. The virus, the puzzles, and the few ways out do the herding, and ΜΝΗΜΗ decides when the night is over.
+The flagship. A crowd of survivors wakes, clean and empty-handed, wherever ΜΝΗΜΗ placed them in a whole city rebuilt as the records hold it. The dead roam every street, and the virus is in them, in the water, and in the vials left in the laboratories. Somewhere a cure exists, and a handful of doses wait to be earned. There is no shrinking circle. The virus, the puzzles, and the few ways out do the herding, and ΜΝΗΜΗ decides when the night is over. In the worlds that hold a story, the people of the records live their last days around the survivors (Story Nights, below). The story is never the point of a night. Getting out is.
 
 #### Squads
 
@@ -1861,10 +1862,11 @@ The eight of Outbreak, who have one old record and no later one, are shown as re
 
 Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 2004 each hold a story, and a night in either is a **story night**. In the records those days happened once, in one order. In ΜΝΗΜΗ they happen every night, and never the same way twice. Every story night runs the whole story, from its beginning through its middle to its end. What happens inside it is decided by ΜΝΗΜΗ at Assembly and by everyone who lives through it. The Ruins of 2026 hold no story night: theirs is the one story in the Archive with a hole in it, who went into ARK and what they carried out (Section 04), and ΜΝΗΜΗ does not run a story she cannot check against its end.
 
+- **Around them, not ahead of them.** The story happens around the survivors, never to them, and never in front of them as a road to follow. Nothing a survivor needs waits on the story alone: every seat, cure, way out, and part of a map has a way that belongs to no thread, or a moment by which it opens anyway. A thread shows where its person's story goes, never where the night's answers are. Puzzle answers change every night (Section 17), ΜΝΗΜΗ chooses the caches and the ways out, and a thread leads only where the records went, never to what she chose tonight. A survivor who never meets anyone from the records has still played the whole night.
 - **Acts.** A story night has three acts, each a stretch of the records' story, and the world marks each one as it opens: in Raccoon City, ΜΝΗΜΗ names the day; in the Valley, night falls, and then the island opens. Acts come in order and never overlap. The beginning is always the beginning, and the end is always the end.
 - **Threads.** Every person of the records follows a **thread**: the places the records took them, in the order they went, toward what they wanted. A thread is played, not shown. The person walks it in the world, among the survivors, at the speed of anyone, and anything can happen to them on it. Nothing in a story night is a cutscene, except the few seconds of a Moment (below).
 - **Beats.** A **beat** is a moment the records hold on a thread: Brad Vickers at the R.P.D. gate, Mikhail Victor's last stand, Kendo's shop falling. A beat happens only when everything it needs is in place: its people alive and where it happens, in the act it belongs to. Survivors can watch it, join it, or stop it. ΜΝΗΜΗ never forces one. A beat that cannot happen does not happen, and the night goes on without it.
-- **Found on their thread.** The records put their people in trouble often, and every trouble is a chance to help. A person helped on their thread can be asked along, under every companion rule. Taken along, they bring their thread with them: they ask to go where it leads, and its beats can still happen around them.
+- **Found on their thread.** The records put their people in trouble often, and every trouble is a chance to help. A person helped on their thread can be asked along, under every companion rule. Taken along, they bring their thread with them: they ask to go where it leads, and its beats can still happen around them. Their survivor decides. A companion refused stays with their survivor, unless the records say they would go anyway.
 - **What ΜΝΗΜΗ decides.** At Assembly she decides who is placed and which account each follows, where each thread begins among the places the records allow, which beats the night can hold, and how early or late in its act each thread runs. During the night she directs as always (Section 09). She never moves a beat out of its act, and she moves a person only through the world.
 - **What the survivors change.** Everything else. A survivor can pull Brad Vickers away from the gate, kill Nicholai Ginovaef before he betrays, take the key someone's thread needed, or bring down the street it runs along. When a thread breaks, its person does not stop. They do what their records say they would do with the world as it now is: they find another way to what they want, and meet whoever is on it. That is how the people of the records meet in ways the records never saw. Leon Kennedy, cut off from the R.P.D. by a collapse, runs into Jill Valentine in Uptown, and into what is hunting her.
 - **Arrivals.** People the records bring in from outside arrive when their act opens, by the road the records gave them. ΜΝΗΜΗ places them, and whatever they arrive in, on that road before the waking, inside her world but beyond every waking point (Section 09, First Law).
@@ -2080,7 +2082,7 @@ A night in the Valley runs the records' time in Spain, from the day Leon Kennedy
 | **The ruins** | III | The trapped ruins | Krauser alive | Krauser fights for three insignias. His arm becomes a blade. |
 | **U-3** | II–III | In one account, the caves below the island's ruins, in Act III; in the other, the mines below the castle, in Act II | In the first, anyone who goes down; in the second, Ada Wong | In the first, U-3 waits among the hanging container rigs. In the second, the Pesanta hunts Ada through the castle, plants a Plaga in her, and turns to fight her in the mines. |
 | **Mike** | III | The military base | Mike arriving | His helicopter covers whoever fights below. In the records it was brought down. If the guns are silenced and nothing brings him down, he lands (Section 14). |
-| **The machine** | III | Luis's laboratory | Luis's key, and two people | The machine burns out a Plaga (Section 07). |
+| **The machine** | III | Luis's laboratory | Two people, and the laboratory open: with Luis's key, or with the code to its lock, written somewhere on the island like any puzzle's clue | The machine burns out a Plaga (Section 07). |
 | **Saddler** | III | The loading docks | Saddler alive, and someone to fight him | Ada hangs from a crane as bait. When he is down, Ada throws the special rocket launcher, and one shot ends him. Every Plaga dies with him (Section 07), and the island's end begins. |
 
 **The named hosts and creatures.** Each is ended only the way the records ended it. Anything else only slows it.
@@ -2128,6 +2130,37 @@ Everywhere else, the hosts of each part are its common enemies: Ganados with far
 - **Endless** has no island's end. Saddler's death begins no count there, but every Plaga still dies with him, and the Beacon ends the night as always (Endless, below).
 
 **Not in the Valley.** Ingrid Hunnigan is a voice on Leon's radio, and Salazar can take her line. Albert Wesker is on a ship offshore and is never seen. No child is placed, and in the records the Plaga killed every child it entered.
+
+#### Late Nights · A Variant
+
+*Late Nights are not part of the launch. They are a variant of the story nights held for later development, and a fallback: they can run beside the story nights, or in their place if story nights prove too costly or too hard to build (Section 35).*
+
+In a Late Night, most of the story is over before anyone wakes. At Assembly, ΜΝΗΜΗ runs the map's story from its beginning, alone, with no sleeper and no Echo in it: only the people of the records, the named creatures, and the dead. That run is **the seed**. Every person in it does what their records say they would do with the world as it goes, every beat happens or breaks, and nothing is steered toward the records' ending. Then she stops the seed, and the survivors wake into what it left.
+
+In one seed of the Valley, Jack Krauser won the knife fight in the mines, Leon Kennedy lies dead beneath the castle, and Ashley Graham is in a cell on the island with no one coming for her. In one seed of Raccoon City, the Nemesis reached Jill Valentine before Carlos Oliveira did, Mikhail Victor never made his last stand, and the tram never left the Uptown station.
+
+- **Why she runs it.** No one in a real outbreak arrives at its beginning. People come to it late, into a place where the worst has already happened to someone else, and have to read what is left. A Late Night rehearses that. It also gives ΜΝΗΜΗ what a story night cannot: the same story, gone wrong a different way every night.
+- **The seed is honest.** It keeps every rule of a story night (Faithful to the Records, Story Nights). Every divergence comes from a beat breaking in one of the ways it was written to break, a tie acting, or the dead reaching someone first. Nothing in a seed happens because ΜΝΗΜΗ wanted it to. Infections of the records move as their table says.
+- **Where it stops.** The seed always runs through the first act, and stops at a moment ΜΝΗΜΗ chooses in the second or the third. It never runs anything that would end the night or end a named creature for good: in Raccoon City, the railgun, the furnace, the last car, and the missile are always still to come; in the Valley, Saddler's fight and the island's end.
+- **What the survivors find.** Everything the seed left is placed before the waking, as everything is (Section 09, First Law): the living people of the records where the seed left them, still wanting what their records want; the named dead where they fell, in their own clothes, walking among the dead if the records say they rose; the named creatures where they stand; every door, bridge, and part of the map the seed opened, still open; and whatever the seed's dead carried, where it fell. Parts the seed did not open open as Section 18 says, counted from the waking.
+- **No beat is played again.** What is left of the story is people, not scenes. The living people of the records go on toward what they want through the world, as anyone whose thread has broken does (Story Nights), and are found, asked along, or left under every companion and Stranded rule. They answer through the same replies as the Stranded: ask Luis Serra what happened in the mines, and he tells what he saw, which may not be all of it. The named creatures and named hosts still standing are met as encounters, with their Moments, and end only as the records ended them.
+- **The end is the records' end.** A Late Night ends as its story night would: in Raccoon City with the missile (The Last Morning), in the Valley with the island's end (The Island's End).
+- **Reading the night.** Only the world tells what happened: a body in a jacket everyone knows, a door that should be shut and is not, a radio log, a diary page written tonight, a person of the records who saw it. The waking radio names where the seed stopped, as a day in Raccoon City or an hour in the Valley, and nothing more. ΜΝΗΜΗ never tells anyone during the night what the seed did. After it, the After-Action Report adds one page, **Before You Woke**: who died in the seed, where, and to whom.
+
+```
+ΜΝΗΜΗ: SPAIN. AUTUMN 2004. BEFORE DAWN.
+```
+
+- **Equal ground.** Waking points are placed after the seed, on the world it left. In the Valley, survivors wake across every part the seed opened, not only the village. No waking point is near a body of the records, a living person of the records, or anything the seed's dead dropped.
+- **Who chooses.** ΜΝΗΜΗ decides at Assembly whether a night is a story night or a Late Night. Players do not choose, so the queues are never split (Section 27).
+
+**Example: a seed of the Valley.**
+
+| What the seed did | What the survivors find | What it changes |
+|---|---|---|
+| Krauser won the knife fight in the mines | Leon Kennedy's body in the mines, his handgun and knife beside him. Krauser alive, on the island. | No Leon tonight. His weapons lie in the mines for whoever goes down for them. Krauser has no one left to want dead, and fights whoever stands in his way. |
+| Salazar handed Ashley to Krauser at the castle dock, and died in the chantry | Ashley in a cell on the island, her Plaga Grown. The castle and the island open from the first minute. | Anyone who wants Ashley alive must reach the island, find the keycards, and bring her to the machine before Saddler dies or the island's count begins (Infections of the Records). |
+| Luis died on the mines' cargo platform | His body there, the suppressant and his laboratory key still on it | The cure is in a dead man's pocket, in the most dangerous part of the castle. |
 
 #### Eyes and Ears
 
@@ -2769,6 +2802,10 @@ The classic looks are a display setting in the Extras menu: **Classic looks: On*
 
 A live scene runs on the server as a timeline that drives its actors. Each client receives a scene only while its survivor is in range, as it receives any other sound or sight, and a survivor who arrives late joins the timeline where it stands. Lines are written as many short pieces, and the server chooses each one by rules matched against who is on the stage, the way Valve's dynamic dialogue chose lines for the survivors of *Left 4 Dead*. Actors turn their heads, eyes, and hands toward whichever survivors they address. Every scene is performed once for each way it can end and once for each way it can break, so the number of branches is the main cost of the story nights, and it is budgeted scene by scene (Section 35). The Reel stores each night's scenes as the server's own record, with no video, and is drawn again when a player opens it.
 
+### Late Nights, in Practice
+
+The seed is run on the server at Assembly, the way the server runs the distant dead: coarsely, a beat at a time, each resolved from what its people want, carry, and face, by the rules a live night would apply. It takes seconds, and its result is a state of the world: who lives and where, what is open, what lies where. Each beat is written with its possible outcomes, as a live scene is written with its breaks, and each outcome comes with its set dressing: bodies, damage, notes. Only the outcomes and the encounters are built, never the scenes, so a Late Night needs no branches performed for whoever arrives and no threads walked among the survivors. That is why it costs less than a story night.
+
 ### Moments, in Practice
 
 ΜΝΗΜΗ's safe window is computed on the server on every tick, from what the server already knows: positions, speeds, sightlines, weapons in hand, and the paths of the dead. It is measured with a margin for network delay. A Moment is a camera and animation layer drawn by the client over the one timeline the server runs, with a cut point about every second, so it can end the instant the window closes. Each Moment is made in several lengths. Grand Moments are made one by one, for each named creature and each beat; Brief Moments are made once for each kind of creature and reused wherever it is met, which keeps the commonest Moments the cheapest. Moments are the place where ΜΝΗΜΗ's knowledge of the whole night becomes a feature: no other director could cut to cinema in a crowd and promise it costs no one their life.
@@ -3261,6 +3298,7 @@ All [A], with off-peak taken as 40% of peak and Dead Drop as 60% of all play. Th
 
 - **Fit:** $131M sits at the top of what Capcom plausibly funds for an online spin-off [A]. It is built on worlds it already owns and sold the way Capcom sells what works: a paid game with free updates and cosmetics, like *Street Fighter 6* and *Monster Hunter* [P].
 - **Gates:** two gates cap the Conservative loss before it is spent. The first is a playable slice of Dead Drop, tested with outside players at about $15M spent. The second is a closed beta on Dead Drop alone, at about $60M spent, judged on whether players come back and on peak concurrency. A project that fails the second gate stops there.
+- **Fallback:** if the first gate shows the story night costs more than its line, the launch can ship Late Nights in its place (Section 20), at roughly half that line's cost [A].
 - **Franchise:** most of the units Capcom sells each year are catalog titles, not new releases [P], and Resident Evil is the largest part of that catalog. A free Resident Evil game set in the places of *Resident Evil 2*, *3*, *4*, and *Requiem* sends players to those games. The model does not count that value. It is a reason to fund the project, not a reason it pays.
 
 ### 8 · Verdict
