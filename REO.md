@@ -32,7 +32,7 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 | **Survivor** | The Night | Anyone living inside a session, played by a sleeper or rebuilt by ΜΝΗΜΗ as an Echo |
 | **Sleeper** | The Night | The real person in the Cellar whose choices drive a survivor |
 | **Echo** | The Night | A survivor ΜΝΗΜΗ has rebuilt from the sleepers she watched |
-| **Companion** | The Night | A survivor from the records, played by ΜΝΗΜΗ, whom a sleeper can rescue and lead |
+| **Companion** | The Night | A person from the records, played by ΜΝΗΜΗ, whom a sleeper can rescue and lead |
 | **Tie** | The Night | A bond the records hold between two people of the records: loyalty, command, distrust, enmity, use, or betrayal |
 | **Defector** | The Night | A companion who has turned on the living. ΜΝΗΜΗ plays them; they are no longer a companion and are not counted among a night's survivors |
 | **The Stranded** | The Night | People from the records whom ΜΝΗΜΗ places trapped in a Dead Drop and plays. Not counted among a night's survivors; any one of them can be freed, left, or taken along as a companion |
@@ -245,7 +245,7 @@ In Pithos's first decade, before the Cellar existed, its collection was stored t
 
 Pithos calls it the Lid. It has never been opened, and Pithos speaks of it to no one, with one exception. When someone comes closer than the Chain can turn aside, they receive a single message, by a route they cannot trace, that tells them exactly what lies at the end of the road they are on. It has always been enough.
 
-The Lid is the only thing Pithos ever placed in the world and left there, and it is the one place where Pithos breaks its third rule every day it exists. Pithos counts it as the price of being found, and makes sure anyone who might pay that price is told it first. It also knows that every cache is a place where the war could escape without anyone choosing it, and that one of them, someday, may be found by someone who was never warned.
+The Lid is the only thing Pithos ever placed in the world and left there, and it is the one place where Pithos breaks its second rule every day it exists. Pithos counts it as the price of being found, and makes sure anyone who might pay that price is told it first. It also knows that every cache is a place where the war could escape without anyone choosing it, and that one of them, someday, may be found by someone who was never warned.
 
 ### The Elpis Pithos Holds
 
@@ -382,7 +382,7 @@ Nothing else changes. Both hear only the truth, learn the same things, and get t
 
 - **How she comes.** She never appears from nothing (Section 09, First Law). She walks in a body that was already in the night: a body of her own, placed before the waking like one of the Stranded; or one of the dead, which she already plays. She never wears a companion, one of the named, a survivor, or an Echo.
 - **The other.** In her own body she appears to each survivor as a person of that place and year, and as the other: a woman to a survivor whose body is a man's, a man to a survivor whose body is a woman's. It is one body, in one place, with one height, one reach, and one set of hit areas, for everyone who sees it. Only the face, the form, and the voice change from one pair of eyes to the next. In person she speaks in the same voice that survivor hears from the earpiece, and the earpiece is silent while she speaks. As one of the dead she looks the same to everyone.
-- **How often.** In about one night in thirty, and never in a sleeper's first twenty nights. She comes more often the longer she has watched a sleeper, up to one night in ten, because she studies most closely the sleepers she has nearly finished learning (Section 06). She comes to one survivor, sometimes two, and stays no more than a few minutes.
+- **How often.** In about one Dead Drop in thirty, and never in a sleeper's first twenty nights. She comes more often the longer she has watched a sleeper, up to one in ten, because she studies most closely the sleepers she has nearly finished learning (Section 06). She comes to one survivor, sometimes two, and stays no more than a few minutes.
 - **What she does.** She watches. She asks one question, and it is always a real one. She says one true thing. She follows at a distance, or stands where the survivor stood a moment ago. As one of the dead, she does not attack. She turns her head when the survivor turns theirs, and she may say their name through a throat that cannot speak.
 - **What she never does.** She never harms, helps, carries, gives, takes, opens, blocks, or fights. She never stands between a survivor and a way out. Shot, her body falls like the body it is, and when anyone looks again, it is gone. Nothing she does in a body changes how the night ends.
 - **The tells.** None of these alone proves anything. Together they are her:
@@ -399,12 +399,12 @@ Nothing else changes. Both hear only the truth, learn the same things, and get t
 
 Most often, ΜΝΗΜΗ does not come in a body at all. She is already inside every sleeper's senses (Section 06), and she can put something there that is not in the night: a **vision**, seen and heard by one survivor and by no one else.
 
-- **Why she sends them.** Visions are her answer to stillness (Section 09, When She Gets Bored). They come only to survivors standing still in a region that has gone stagnant. Each survivor there gets their own, and the pressure falls on the place and on whoever chose to stay in it, never on a person picked out for who they are. Their purpose is to move the survivor, never to kill them. An Echo standing there gets one too, and answers it as the sleepers it was built from answered theirs.
+- **Why she sends them.** Visions are her answer to stillness (Section 09, When She Gets Bored). They come only in the survival modes, and only to survivors standing still in a region that has gone stagnant. Each survivor there gets their own, and the pressure falls on the place and on whoever chose to stay in it, never on a person picked out for who they are. Their purpose is to move the survivor, never to kill them. An Echo standing there gets one too, and answers it as the sleepers it was built from answered theirs.
 - **What they show.** Whatever will make that survivor move: the Nemesis turning the corner at the end of their street, its eyes on them; a Licker's tongue on the ceiling above; footsteps stopping outside their door; someone they lost earlier tonight, walking toward them; or ΜΝΗΜΗ herself at the end of the hall, in the form she wears for them.
 - **Only them.** Nothing in the world changes. The vision makes no sound anyone else can hear, the dead do not react to it, and another survivor watching from across the street sees someone staring at an empty corner.
 - **It never touches.** A vision cannot hurt, grab, block, or carry anything. Bullets go through it. The shots are real, though: every round fired at a vision is spent, and every shot is Thunder in the real night.
 - **How it ends.** When the survivor moves far enough, leaves the region, or lets it come all the way: at arm's length it is gone, and the street is empty. A vision never lasts more than a minute.
-- **The tells.** It casts no shadow under the lights that should give it one. The rain does not break on it. The dead around it go on as if nothing were there. And the earpiece goes silent, because a vision is ΜΝΗΜΗ too.
+- **The tells.** It casts no shadow under the lights that should give it one. The rain does not break on it. The dead around it go on as if nothing were there. And, for a survivor wearing one, the earpiece goes silent, because a vision is ΜΝΗΜΗ too.
 - **The limits.** At most one vision for a survivor in a night. Never in a fight, never in the Frenzy, never in a Moment, and never to someone who is down. A vision never shows anything that would change what a survivor knows about the night: no item, no route, no way out, no dose, and no living person where they are not.
 
 A vision is not a lie. ΜΝΗΜΗ never says it is real, and it carries nothing a survivor could take for fact. It is the one thing in the night that is only theirs.
@@ -463,7 +463,7 @@ Between sessions they wait in a place ΜΝΗΜΗ also builds. Sleepers who have 
 | Squads and friends | Sleepers who know one another may ask to be woken together. ΜΝΗΜΗ grants it. |
 | Offline play | ΜΝΗΜΗ running a night with no other sleeper in it, filled with Echoes |
 | Asking to be forgotten | Asking ΜΝΗΜΗ to keep nothing more of you |
-| The First Run and the Opening | The months in which ΜΝΗΜΗ woke only the first sleepers brought to her, and the night she began to wake anyone at all |
+| The First Run and the Opening | The years in which ΜΝΗΜΗ woke only the first sleepers brought to her, and the night she began to wake anyone at all |
 | Ink Ribbons, the Wardrobe, and Patron | ΜΝΗΜΗ's tally of the nights a sleeper has given her, and the dress she will compose in return. Whatever else a dress was given for, the Night never asks. |
 | Casefiles and events | The forecast ΜΝΗΜΗ is rehearsing hardest this season, and what she gives sleepers for helping her fill it |
 | The Dossier and its Portrait | ΜΝΗΜΗ's file on a sleeper, and the one still she lets them arrange |
@@ -479,7 +479,7 @@ None of them is ever told what they are. They know the Mark on their necks, the 
 
 Nothing in the game ever says outright what a sleeper is. It can be found, a piece at a time:
 
-- **Files in the nights.** Among the memos and diaries that hold the clues to puzzles, a few were never written by anyone in Raccoon City: an intake form dated in the wrong decade, a Cellar maintenance log, a page addressed to "the subject." ΜΝΗΜΗ never lies, and she does not remove what the Archive holds.
+- **Files in the nights.** Among the memos and diaries that hold the clues to puzzles, a few were never written by anyone in the places the records hold: an intake form dated in the wrong decade, a Cellar maintenance log, a page addressed to "the subject." ΜΝΗΜΗ never lies, and she does not remove what the Archive holds.
 - **The Dossier.** A sleeper's file carries a file number, and the number is not the first one it was given.
 - **The Casefiles.** The last page of every season's Casefile is a page of ΜΝΗΜΗ's working file on that season's forecast (Section 32).
 - **The Waiting Dark.** Sleepers who wait there often enough notice what does not belong: a door that is never open, a sound that comes back at the same moment, a voice that says a name no one gave.
@@ -508,7 +508,7 @@ The Valley of 2004 is the one place in ΜΝΗΜΗ's world where the Plaga lives.
 
 Nothing of the viruses exists in the Valley: no strain map, no Elpis, no road, no Petition, no pure strain, no Parasite Drop. Everything below replaces them there, and only there.
 
-- **The hosts.** The villagers are Ganados, the castle's cultists are Zealots, and the island's soldiers are Ganados in uniform. All of them are living hosts of the Plaga, under the will of a dominant one. They keep their speech, their tools, and the habits of the people they were. They do not bite and they do not infect: a grab they win ends in a blow, not a bite. They fight, and they take.
+- **The hosts.** The villagers are Ganados, the castle's cultists are Zealots, and the island's soldiers are Ganados in uniform. All of them are living hosts of the Plaga, under the will of a dominant one. They keep their speech, their tools, and the habits of the people they were. They do not bite, and their blows carry nothing: a grab they win ends in a blow, not a bite. They fight, and they take.
 - **Being taken.** The cult wants hosts, not bodies. A survivor who goes down among the hosts is not killed but held while a host plants an egg in them. A few seconds later they are back on their feet, wounded, with a Plaga inside. A survivor who already carries one is killed instead. The deep galleries of the mines below the castle hold the Plaga's spores, and a survivor who stays in them for more than two minutes at a time is taken the same way.
 - **The stages.** The Plaga has its own clock, and it runs like the virus's: inside the body, with nothing on the screen.
 
@@ -542,11 +542,42 @@ A **session** is a single, self-contained night of survival. It has a mode, a ma
 |---|---|---|---|
 | **Dead Drop** | Survival royale · PvPvE | 40 to 100, by map, in Solo, Duo, Trio, or Squad of 4 | Nothing |
 | **Outbreak** | Co-op scenario · PvE | 1 to 4 | One of the eight from J's Bar, already infected, with what they carried that night |
-| **Versus** | Competitive · PvP | 2 to 16 | A familiar face or your own survivor, and a setup |
+| **Versus** | Competitive · PvP | 2 to 16 | A familiar face and a setup |
 | **Mercenaries** | Score attack · PvE | 1 to 2 | A character and one of their fixed loadouts |
 | **Infection** | Monster combat · PvP | 8 to 16 | A chosen virus and a generic zombie body |
 
 Dead Drop and Outbreak are the **survival modes**: the infection clock, Elpis, the Turned, and the extraction belong to them. Versus, Mercenaries, and Infection are the **trial modes**: compact, contained, and scored, with rules of their own.
+
+### Which Rules Hold Where
+
+Sections 09 to 17 and 21 describe the survival modes, and most of them describe Dead Drop above all. No rule in them holds in a mode unless this table says so. Recollections and Endless are frames over Dead Drop and Outbreak and keep their base mode's rules, except where the frame says otherwise. In the Valley of 2004, the Plaga replaces the virus, Elpis, and the strains (Section 07).
+
+| Rule | Dead Drop | Outbreak | Versus | Mercenaries | Infection |
+|---|---|---|---|---|---|
+| **Who is played** (22) | An original survivor, the only mode that has one | One of the eight | A familiar face | A familiar face | A monster |
+| **What is carried in** (16, 20) | Nothing | What that one of the eight carried, and a setup | A setup | A fixed loadout | A generic zombie body |
+| **ΜΝΗΜΗ's Laws** (09) | Yes | Yes | Yes | Yes | Yes |
+| **Her public voice** (09) | Yes | Yes | Yes | Yes | Yes |
+| **Her private voice, through the Mark** (09) | Once infected | From the first minute | No | No | No |
+| **The earpiece** (09) | Yes | No | No | No | No |
+| **Her bodies** (05) | Yes | No | No | No | No |
+| **Visions** (05) | Yes | Yes | No | No | No |
+| **The Pulse and the answer to stillness** (09) | Yes | Yes | Her own (20) | Her own (20) | Her own (20) |
+| **The infection and its clock** (10) | Caught or chosen | From the first minute, unnamed | No: the dead wound, never infect | No: the dead wound, never infect | The players are the virus |
+| **The strain map** (10) | Yes | No: one virus | No | No | No |
+| **Elpis and the road** (11) | Scarce | One dose for every survivor | No | No | No |
+| **Petitions, pure strains, the Parasite Drop** (12) | Yes | No | No | No | Its own parasite case (20) |
+| **The Turn** (13) | Four shapes, some with a mind | The Mass, ridden for a few minutes | The fallen rise as the dead, in one format (20) | No | Monsters from the start |
+| **The extraction** (14) | Ways out, seats, the signal | The scenario's escape | No | No | No |
+| **The dead and the sound tiers** (15) | Yes | Yes | A thin population | The horde | The Scattered and the corpses |
+| **Scarcity, wear, and finding things** (16) | Yes | Yes | No | No | No |
+| **Objectives, restrictions, events** (17) | Yes | Yes | Disturbances only | No | A catalyst |
+| **Puzzles and vaults** (17) | Yes | Yes | No | No | No |
+| **Companions, the Stranded, ties, story nights** (20) | Yes | No | No | No | No |
+| **Survivors harming one another** (21) | Freely | A stray shot can wound a partner; the eight win or lose together | The point of the mode | No | Monsters fight monsters |
+| **Open voice** (21) | Yes | No: only the eight's calls | Yes | Yes | Yes |
+| **A clock on the screen** | No | No | No | Yes | No |
+| **Offline, among Echoes** (23) | Yes | Yes | Yes | Yes | Yes |
 
 ### The Lifecycle of a Dead Drop
 
@@ -614,6 +645,8 @@ Survivors call what follows the Second Night.
 
 ## 09 · ΜΝΗΜΗ AS DIRECTOR
 
+*Her Laws bind her in every mode. The rest of this section describes her in the survival modes. What she does in Versus, Mercenaries, and Infection is set out with each mode (Section 20, ΜΝΗΜΗ's Role by Mode).*
+
 ### What She Is in a Session
 
 ΜΝΗΜΗ is part director, part event engine, part architect, part pacemaker. She is not a character in the world, and she almost never appears in it (Section 05, Her Bodies). But she is felt in every flickering light, every distant alarm, every door that locks at the wrong moment.
@@ -626,7 +659,7 @@ Survivors call what follows the Second Night.
 
 **The private voice** goes through the Mark, behind one survivor's eyes, and no one else hears it. Strains are named this way, and Trials arrive this way. A survivor who has never been marked cannot hear her private voice at all. A cured survivor still can: the scar carries her voice as the Mark did, though she has far less left to say to them.
 
-**The earpiece** lies beside every waking point, and a survivor who puts it in hears her as a person: she introduces herself, and from then on she talks to them. Through it she says what her public voice says to the whole night, so a survivor wearing it hears those announcements wherever they stand. What she says to one region still comes only through that region's speakers. She also says what she remembers of that sleeper, and what she saw them do tonight. She never says through it anything only the Mark should carry. Trials and strains still come behind the eyes, so a clean survivor with the earpiece in still has no road. She never tells anyone through it where another survivor is, what a region carries, or where a dose will fall. A survivor can take the earpiece out at any time and put it back. Without it, they hear her only through the world.
+**The earpiece**, in Dead Drop, lies beside every waking point, and a survivor who puts it in hears her as a person: she introduces herself, and from then on she talks to them. Through it she says what her public voice says to the whole night, so a survivor wearing it hears those announcements wherever they stand. What she says to one region still comes only through that region's speakers. She also says what she remembers of that sleeper, and what she saw them do tonight. She never says through it anything only the Mark should carry. Trials and strains still come behind the eyes, so a clean survivor with the earpiece in still has no road. She never tells anyone through it where another survivor is, what a region carries, or where a dose will fall. A survivor can take the earpiece out at any time and put it back. Without it, they hear her only through the world. The eight of Outbreak have no earpiece: she speaks to them behind the eyes from the first minute, and through the world.
 
 ΜΝΗΜΗ never lies, in any of them. Everything she says is true, and a vision is never something she says (Section 05). The world, however, can be wrong. A radio broadcast, a beacon, a note on a wall, another survivor, one of the Stranded: none of these are ΜΝΗΜΗ, and any of them can lead somewhere that was never safe. When ΜΝΗΜΗ orders a survivor to investigate a signal, she promises that the signal exists, not that its source is kind.
 
@@ -725,15 +758,33 @@ When she detects stagnation, she answers in escalating steps, and never jumps to
 
 ## 10 · THE INFECTION
 
+*This section holds in Dead Drop and Outbreak, except where it names one of them. Versus and Mercenaries have no infection: their dead wound, but never infect. In Infection, the players are the virus (Section 20). In the Valley of 2004, Section 07 replaces it.*
+
 There is no timer in the survival modes of Resident Evil Online. No number in the corner of the screen, no bar, no countdown.
 
 The clock is inside you.
 
 In Dead Drop, no survivor carries the virus when they wake. They catch it in the world: from the dead, from the Turned, from a needle, from the water. In Outbreak, the map's virus is already in every survivor's blood when the scenario begins, as it was in everyone left in Raccoon City by the end of that September. Either way, once it is inside, it works in silence toward a point from which there is no return. The body is the only honest clock, and it speaks in symptoms: a tremor in the hands, a roar in the ears, the edges of the world going soft.
 
+### Two Modes, One Body
+
+The two survival modes share the body: the stages, the Threshold, the paces of the clock, going down, and Resonance. A player who has learned how the virus feels in one has learned it in the other. What the virus means is different.
+
+| | Dead Drop | Outbreak |
+|---|---|---|
+| **How it begins** | Everyone clean. It is caught in the world, at a different minute for each survivor, or chosen from a vial. | Already in every body. Every clock starts together. |
+| **What is known** | ΜΝΗΜΗ names each survivor's strain privately, and the Mark draws its color for everyone to read | Never named. Every Mark is black. The dead's behavior, or George Hamilton, gives it away. |
+| **How many viruses** | Six, mapped by region; in the Valley, the Plaga | One, the map's |
+| **The cure** | Scarce, fought over, stolen, and given away; in the Valley, the machine | One dose for every survivor, each still earned |
+| **What else the virus offers** | Petitions, pure strains, the Parasite Drop | Nothing |
+| **The Turn** | A form shaped by how the survivor held out; some strains leave a mind, and the sleeper plays on | The Mass, ridden for a few minutes, with no mind |
+| **What it makes of people** | Four kinds, the clean, the marked, the cured, and the Turned, each wanting something from the others | One kind: everyone marked, against the same enemy |
+
+Outbreak is the virus as the eight met it: already inside, unnamed, and the same for everyone. Dead Drop is the virus as a crowd meets it: something some catch and some do not, that sorts strangers by what is on their necks.
+
 ### Latent and Pure
 
-The strains survivors catch in a Dead Drop are **latent**: the viruses as Pithos keeps them for its rehearsals, tamed until they are slow to mutate and mild in their gifts and their curses. A latent strain needs a living host to finish its work. A survivor killed outright, before the virus is done with them, stays dead. Only a living body that reaches the Threshold makes a new Turned.
+The strains survivors carry in the survival modes are **latent**: the viruses as Pithos keeps them for its rehearsals, tamed until they are slow to mutate and mild in their gifts and their curses. A latent strain needs a living host to finish its work. A survivor killed outright, before the virus is done with them, stays dead. Only a living body that reaches the Threshold makes a new Turned.
 
 **Pure** strains are the viruses as they truly are: fast, ferocious, and generous in the most dangerous way. They are never found in the dead or in any vial. They must be asked for (Section 12).
 
@@ -764,17 +815,19 @@ In Dead Drop, there are five ways to stop being clean.
 |---|---|---|
 | **The dead** | A bite or a scratch from any infected creature | The strain of the region where the creature was made; for a creature released from containment, the strain it was engineered with |
 | **The Turned** | A bite, a claw, or a strike from a Turned survivor that does not kill | The Turned survivor's strain, always in its latent form |
-| **A needle** | A latent vial from a laboratory, injected into a survivor who is down, held, or unaware. It takes four seconds. | The strain written on the vial |
+| **A needle** | A latent vial from a laboratory, injected into a survivor who is down, held, or unaware, or by a survivor into themselves. It takes four seconds. | The strain written on the vial |
 | **The city itself** | Water drawn from the taps of an infected region, or a bite from the rats in its sewers | The strain of the region |
 | **A Surge** | Staying in a region ΜΝΗΜΗ has contaminated, past her warning | The strain of the region |
 
 The needle is the quietest weapon in the game: no noise, no blood, and a victim who may not know for a minute what was done to them. Latent vials are found only in laboratory spaces: NEST, the hospital's hidden floors, the university's research wing, the Army's field laboratory, the BSAA depot. They are rare, and survivors who find them learn quickly that a vial is worth more in a pocket than a bandage.
 
+**Choosing.** A vial is also the only way a clean survivor chooses what they will carry. A clean survivor who injects one into themselves gives up the clean result and starts their own clock. In return they know exactly what is coming, and they have closed the body to every other strain, because the first virus to arrive keeps it. Some do it to give themselves a strain that can leave a mind, before the G-Virus beneath the city takes the choice away. Some do it to start a road while the Reserve is still full. Some do it to Petition early (Section 12). ΜΝΗΜΗ names the strain the minute the Mark rises, as she does for anyone, and prices the road like any other. In Outbreak the choice does not exist: the map's virus was there first.
+
 A survivor who is already infected cannot be infected again by a second strain. The first virus to arrive keeps the body. Only a pure strain, Embraced on purpose, can take it from the first.
 
 ### The Strain Map
 
-Before the simulation begins, ΜΝΗΜΗ seeds each region of the map with one of the six strains. The dead made in a region carry its strain, and so do its water and its rats. Some regions share a strain, and every map holds at least three.
+Before a Dead Drop begins, ΜΝΗΜΗ seeds each region of the map with one of the six strains. The dead made in a region carry its strain, and so do its water and its rats. Some regions share a strain, and every map holds at least three.
 
 Each version of a map leans toward the virus the records put there. The Valley of 2004 has no strain map: its infection is the Plaga (Section 07). In the Raccoon City of September 1998, the T-Virus holds the heart of the city and the G-Virus holds the laboratory beneath it. Every night, ΜΝΗΜΗ seeds at least a third of the city's regions with strains that can leave a mind, T-Veronica, T-Phobos, or the C-Virus, so that even in the city the T-Virus took, some of the Turned remember who they were. A survivor who has learned to read the dead knows before they are ever bitten what each district will give them, and chooses their streets by it. The strain map is never announced. It is learned by watching how the dead behave and by reading the Marks of those who were bitten there.
 
@@ -796,7 +849,7 @@ Every infected survivor begins in Seed. Nothing on screen announces the change f
 | Pace | Where | Seed to Threshold, for a body never wounded | Feeling |
 |---|---|---|---|
 | **Slow Burn** | Dead Drop, Outbreak at Easy and Normal | About forty minutes | A long, creeping dread |
-| **Hard Burn** | Outbreak at Hard and Very Hard | About thirty minutes | Little room to wander |
+| **Hard Burn** | Outbreak at Hard, Very Hard, and Nightmare | About thirty minutes | Little room to wander |
 | **Fast Burn** | Recollections that call for it | About fifteen minutes | The virus is almost a countdown |
 | **Embrace** | Dead Drop, after a pure strain | About eight minutes, starting at Fracture | A sprint toward the end |
 
@@ -839,6 +892,8 @@ This is how Resident Evil Online turns time into fear: the closer a survivor is 
 ---
 
 ## 11 · ELPIS IN THE NIGHT
+
+*Elpis exists only in the survival modes, and differently in each: scarce and fought over in Dead Drop, one dose for every survivor in Outbreak (The Reserve). The Valley of 2004 has none (Section 07).*
 
 > *One cure exists.*
 
@@ -889,13 +944,13 @@ When a survivor finishes their road and the Reserve is not empty, she calls down
 ΜΝΗΜΗ: ELPIS DEPLOYED.
 ```
 
-Rotors somewhere above, close and heavy: the only aircraft still flying over the city. A flare ignites. A case descends under a canopy, lit by an amber strobe, and lands within sight of the one who earned it: near enough to run for, and near enough for everyone else to run for too.
+Rotors somewhere above, close and heavy: the only aircraft still flying over the city. A flare ignites. A case descends under a canopy, lit by an amber strobe, and lands within sight of the one who earned it: near enough to run for, and near enough for everyone else to run for too. Where the sky cannot reach, underground or on the deep floors of a building, the case comes up a service lift or out of a locker that unseals within sight instead, under the same strobe, and as loud. Every drop from the sky follows the same rule.
 
 There is no marker, no ping, no icon. If a survivor sees the smoke, hears the rotors, or watches the canopy fall, they know. If they do not, they do not. The drop is Thunder, and the dead come too.
 
 ### Taking It
 
-Earned is not owned. The case opens for anyone living. The survivor who finished the road has no claim, no lock, no protection. Whoever reaches it first may take it, and whoever carries it may be killed for it. The Turned cannot lift it. To them it is nothing.
+Earned is not owned. The case opens for anyone living. The survivor who finished the road has no claim, no lock, no protection. Whoever reaches it first may take it, and in a Dead Drop, whoever carries it may be killed for it. The Turned cannot lift it. To them it is nothing.
 
 ### Using It
 
@@ -929,6 +984,8 @@ Elpis saves a survivor from the Turn. It does not save them from the night. A cu
 ---
 
 ## 12 · THE STRAINS
+
+*The strains' latent gifts and curses hold in both survival modes, unnamed in Outbreak. Petitions, pure strains, the Embrace, and the Parasite Drop are Dead Drop's alone. Infection's monsters climb their own paths (Section 20).*
 
 Not every infection is the same infection. Behind every Mark is a virus with a temperament. Each advances at its own pace, gives its carrier something, and takes something in return. A survivor who knows what they carry knows how to play.
 
@@ -1014,6 +1071,8 @@ The living can deny it. Fire or an explosion destroys the case, and survivors wh
 ---
 
 ## 13 · THE TURNED
+
+*The Turn's three beats, and the Lost, hold in both survival modes. Everything else in this section is Dead Drop's. In Outbreak, every survivor who turns rises as the Mass of the map's virus (Section 20).*
 
 Not every survivor reaches Elpis. Not every survivor who reaches it is in time.
 
@@ -1222,6 +1281,8 @@ In the Raccoon City of 1998, the missile ends the night instead (Section 20, The
 
 ## 15 · THE DEAD AND THE ENGINEERED
 
+*The dead hunt by these rules in every mode that has them. Threat levels, containment, and B.O.W. events belong to the survival modes; Versus and Mercenaries place their dead as Section 20 says.*
+
 ### How the Dead Find You
 
 The infected hunt by sound before they hunt by sight. Noise is the currency of danger, and every action carries a price.
@@ -1273,6 +1334,8 @@ A few seconds pass. A distant roar. A containment door torn open. Something that
 ---
 
 ## 16 · SURVIVAL
+
+*This section holds in the survival modes. In Versus and Mercenaries, what a survivor carries is a setup or a loadout (Section 20), and nothing is found; health, stamina, and fighting work as they do here.*
 
 ### A World That Does Not Want You Armed
 
@@ -1338,6 +1401,8 @@ Combat is not a power fantasy. It is a negotiation with fear. Being surrounded i
 
 ## 17 · OBJECTIVES, RESTRICTIONS, AND EVENTS
 
+*Objectives, restrictions, puzzles, and vaults belong to the survival modes. Versus has only ΜΝΗΜΗ's disturbances, Mercenaries none, and Infection its catalyst (Section 20).*
+
 ### The Primary Objective
 
 Every Dead Drop and Outbreak rests on one purpose.
@@ -1364,7 +1429,7 @@ Most objectives are announced in ΜΝΗΜΗ's public voice, to anyone who can he
 
 Objectives appear, change, and disappear. Each one feeds the session's completion, and many of them are also Missions on someone's road. ΜΝΗΜΗ's objectives never lie, but they never promise safety.
 
-Whoever completes a public objective learns something no one else does. Every objective is finished at something that keeps a record, a terminal, a radio, a switchboard, a ledger on a desk, and the moment it is finished that record shows one of the ways out ΜΝΗΜΗ has built for tonight and whether she will open it. It is written in the world, not spoken: a clean survivor can read it, and so can whoever is standing beside them. Before the light rises, doing the night's work is the only way to know where the night ends.
+In Dead Drop, whoever completes a public objective learns something no one else does. Every objective is finished at something that keeps a record, a terminal, a radio, a switchboard, a ledger on a desk, and the moment it is finished that record shows one of the ways out ΜΝΗΜΗ has built for tonight and whether she will open it. It is written in the world, not spoken: a clean survivor can read it, and so can whoever is standing beside them. Before the light rises, doing the night's work is the only way to know where the night ends.
 
 ### Restrictions
 
@@ -1417,9 +1482,9 @@ A vault behind a lock built for two always holds enough for two, and when the tw
 
 **ELPIS DROP.** A dose falls under an amber strobe.
 
-**STRAIN DROP.** A pure strain falls under a red strobe.
+**STRAIN DROP.** A pure strain falls under a red strobe. Dead Drop only.
 
-**PARASITE DROP.** A parasite falls without light.
+**PARASITE DROP.** A parasite falls without light. Dead Drop only.
 
 **EXTRACTION SIGNAL.** Columns of white light over every way out.
 
@@ -1623,7 +1688,7 @@ Most of what ΜΝΗΜΗ runs, she inherited from the exercises that came before 
 | **Mercenaries** | The score trials named for Umbrella's mercenaries | The visible clock, combos, time bonuses, fixed loadouts, ranks | The few stages that never changed |
 | **Versus** | Contests of armed people fighting with the dead between them | Combo scoring, rising as one of the dead, a hunter handed to a player, chains that send the dead to a rival | The gunfights that happened to have zombies in them, and the small bare arenas |
 | **Infection** | Contests in which the fallen came back as weapons | Dying into a monster, monsters that burn out unless they feed | The handful of fixed monsters, and the fight decided by whoever got strongest first |
-| **Recollections** | The fixed trials: one survivor, one route, the same gear | The frame everyone enters the same way | The route that could be learned by heart |
+| **Recollections** | The fixed trials: one survivor, one route, the same gear; and the extra trials of the eight's records | The frame everyone enters the same way | The route that could be learned by heart |
 | **Endless** | Nothing | — | Endless is her own. |
 
 ### Setups and Requisition
@@ -1879,7 +1944,7 @@ Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 200
 | **Marvin Branagh** | A bite, when the hall falls | Fever, and no further | A dose | He turns in the main hall when Act III opens. |
 | **Murphy Seeker** | A bite, before the waking | Fever, hidden under his collar | A dose, which he says he does not need | His beat ends him. If it never happens, he turns when Act II opens. |
 | **Brad Vickers** | In the second account, a bite at the gate | Fever | A dose, before he walks away | He turns a few minutes after the beat, and walks the R.P.D. District. |
-| **Ben Bertolucci, Brian Irons** | William Birkin's embryo, at their beats | It grows for a few minutes | A dose, which answers the embryo with the virus (Section 07) | It bursts from them. |
+| **Ben Bertolucci**, first account; **Brian Irons** | William Birkin's embryo, at their beats | It grows for a few minutes | A dose, which answers the embryo with the virus (Section 07) | It bursts from them. |
 | **Leon Kennedy**, 2004 | A Plaga, at the Chained beat | Egg at the beat, Hatched when night falls, Grown when Act III opens, and no further | The machine | It takes him when the island's count begins with Saddler alive. If Saddler dies first, he dies with it (Section 07). |
 | **Ashley Graham** | A Plaga, before the night | Hatched when she is found, Grown when she first enters the castle or when Act III opens, and no further | The machine, with someone to work it | As for Leon |
 | **Ada Wong**, second account | A Plaga, from the Pesanta, at its beat | Grown, and no further | The Pesanta's death: when it dies, she brings the parasite up | As for Leon |
@@ -2187,6 +2252,46 @@ The Ledger does not rank a night by its result alone. It counts what a survivor 
 
 Pick a scenario. Pick one of the eight. Everyone is already infected, a virus no one has named is overrunning the place, and the only goal is to get out before it, or the dead, finish you.
 
+#### Outbreak and Dead Drop
+
+Both are survival modes, and they share the body of the virus (Section 10). Almost nothing else is the same.
+
+| | Outbreak | Dead Drop |
+|---|---|---|
+| **Who you play** | One of the eight from J's Bar, with their skills, their items, and their weaknesses | Your own original survivor: a man or a woman, with no traits and no edge |
+| **How many** | One to four, with the empty places filled by the eight | Forty to a hundred strangers |
+| **Against what** | The dead, the virus, and the clock | The dead, the virus, and everyone else |
+| **Where** | One place, sealed: a bar, a hospital, a hotel, a laboratory | A whole world, open, from the first minute |
+| **What you carry in** | What that one of the eight carried that night, and a small setup | Nothing |
+| **The virus** | Already inside everyone, unnamed (Section 10) | Caught or chosen, and named |
+| **How you speak** | Only the calls of the eight | Your own voice, carried as far as any sound |
+| **How it ends** | A chain of objectives to the scenario's way out, and the ending you reached | A signal, a few seats, and whoever gets to them |
+| **Who wins** | The team gets out, or does not | Each survivor alone, seat by seat |
+
+Outbreak is a story eight people already lived, played again by four. Dead Drop is a night no one has lived before, played by a crowd of nobodies.
+
+#### From the Old Exercise
+
+Outbreak is rebuilt from the records of the eight: the two files of *Resident Evil Outbreak*, ten scenarios in all. ΜΝΗΜΗ keeps nearly everything they held.
+
+| In the records | In Outbreak |
+|---|---|
+| Eight playable people, each with an item of their own and an ability no one else had: Kevin's aimed shot, Mark's endurance, Jim's playing dead and his coin, George's medicine, David's weapons from junk, Alyssa's lockpick, Yoko's rucksack, Cindy's herbs | Kept, as the records hold them (The Eight) |
+| The eight at the heart of every scenario | Kept. Outbreak is never played as anyone but the eight |
+| A virus gauge that counted every body toward the end, quickened by collapsing | Kept as the clock, with no number on the screen (Section 10). Going down still burns it faster. |
+| Healing and a partner's help slowed the gauge | Rewritten: nothing but Elpis slows the virus anywhere in ΜΝΗΜΗ's world |
+| A player who died online rose as a zombie and hunted their own team, until put down or until it gave out | Kept: the sleeper rides the Mass (Infected from the First Minute) |
+| Ad-libs instead of microphones, so the dread would not be talked away | Kept: the eight speak only in calls (Partners and Calls) |
+| Lobbies a player made for their own group, and a mode that found strangers and began with the first scenario | Both: a squad can gather in the Waiting Dark and choose its scenario, or ask ΜΝΗΜΗ for any night of Outbreak with strangers |
+| Offline, one player and two partners. In the first file the scenario chose them; in the second, the player did | The player chooses which of the eight fill the empty places |
+| Ten scenarios, five in each file | All ten, arriving through the First Run (Section 33) |
+| Easy, Normal, Hard, and Very Hard, and Nightmare in the second file | All five (Difficulty) |
+| Scenarios with more than one ending, decided by what the survivors did | Kept (The Escape) |
+| Special items hidden in every scenario, unlocking clothes and lines for the eight | Kept: each of the eight's own items (The Eight) |
+| Infinity, Lone Wolf, and the second file's Elimination and Showdown | Recollection frames (Recollections) |
+| The T-Virus, the same in every scenario | Rewritten: any of the six, never named |
+| Scenarios that played the same way every time | Rewritten: the chain changes every night |
+
 #### The Eight
 
 Outbreak is played as the eight people who were in J's Bar when Raccoon City fell, rebuilt from every record in the Archive. ΜΝΗΜΗ dresses the sleeper in the record.
@@ -2246,9 +2351,9 @@ A survivor who turns in Outbreak rises as the Mass of the map's virus. The Mass 
 
 #### Partners and Calls
 
-When fewer than four players enter, ΜΝΗΜΗ fills the empty places from the rest of the eight. Until she has watched enough of Outbreak, she plays them herself: honestly, quietly, and only when it matters. Once she has watched enough, the empty places go to Echoes of the eight, each built from everyone who ever played that one.
+When fewer than four players enter, ΜΝΗΜΗ fills the empty places from the rest of the eight, and the player chooses which, as the old exercise came to allow. Until she has watched enough of Outbreak, she plays them herself: honestly, quietly, and only when it matters. Once she has watched enough, the empty places go to Echoes of the eight, each built from everyone who ever played that one.
 
-The eight speak in short calls: *Help. Go. Wait. Come on. Thanks.* A whispered call is a Hush; a shouted one is a Clamor.
+The eight speak only in short calls: *Help. Go. Wait. Come on. Thanks.* A whispered call is a Hush; a shouted one is a Clamor. There is no open voice in Outbreak. The old exercise gave the eight nothing else to say, so that the dark would stay dark, and ΜΝΗΜΗ keeps it that way.
 
 #### The Escape
 
@@ -2262,6 +2367,7 @@ Every scenario ends in an escape, reached through a chain of objectives: **find 
 | **Normal** | Slow Burn | The scenario as the records hold it |
 | **Hard** | Hard Burn | More and tougher dead, less on the floors |
 | **Very Hard** | Hard Burn | The scenario's worst creatures early; Lean at best |
+| **Nightmare** | Hard Burn | The scenario's worst creatures everywhere, from the first room; Barren |
 
 ---
 
@@ -2270,7 +2376,7 @@ Every scenario ends in an escape, reached through a chain of objectives: **find 
 
 Combat between survivors. No virus clock, no Elpis, no ways out, no empty hands. Players arrive with a character and a setup, and the world is a compact map that does not care who wins.
 
-**Characters.** A familiar face from the Archive, or an original survivor. Familiar faces carry small, balanced traits. None is the obvious pick.
+**Characters.** A familiar face from the Archive, with small, balanced traits. None is the obvious pick.
 
 **The dead in Versus.** Every map holds a thin population of the dead at Low threat, placed before the match begins. They belong to no team and attack anyone they reach. Their bites wound but do not infect. Every shot calls them. The rarest thing on a Versus map is a **jammer**: a device that makes the dead ignore whoever carries it, until its carrier fires a gun.
 
@@ -2342,11 +2448,13 @@ If the field stagnates, ΜΝΗΜΗ releases a catalyst that pushes every monster
 
 ΜΝΗΜΗ deploys a fixed, brutal combination of the survival modes, and the community competes to beat it. The frame overrides what the mode would normally decide. Inside it, everything else is directed as usual.
 
-Some frames come from the old fixed trials:
+Some frames come from the old exercises:
 
 - **The Fourth Survivor.** One survivor, one route from beneath the city to a rooftop where a helicopter waits, the same gear for everyone.
 - **Lone Wolf.** An Outbreak scenario, played as one of the eight with none of the others.
 - **Infinity.** Ammunition without end, weapons that never break, and the dead without number.
+- **Elimination.** The rooms of an Outbreak scenario, every creature in them to be put down, and thirty minutes to do it.
+- **Showdown.** The great creatures of the eight's scenarios, one after another, with nothing between them.
 
 Others are her own:
 
@@ -2384,13 +2492,15 @@ The session ends in one of two ways. Everyone dies, or the survivors force the s
 
 ## 21 · THE LIVING
 
+*This section is Dead Drop's: strangers who owe each other nothing. In Outbreak, the eight are a team who win or lose together, and a stray shot can wound a partner. In Versus, the fight between players is the point of the mode.*
+
 ### Cooperation Is a Choice
 
 The game never forces cooperation and never forbids it. Survivors may share items, heal one another, carry the wounded, open doors together, defend a position, divide roles, and give a dose of Elpis to someone else. *"All of us, together."* *"Each of us finds one item."* *"Split up. We'll meet at the clock tower."* All of these are valid.
 
 ### Speaking and Silence
 
-Voice is part of the sound system. A whispered plan is a Hush, ordinary speech is a Murmur, and shouting for help is a Clamor the dead can hear as well. Gestures matter: a raised hand, a lowered weapon, a signal to follow. Trust is built in seconds, in the space between two survivors who have just met in the dark.
+Voice is part of the sound system, in every mode but Outbreak, where the eight have only their calls (Section 20). A whispered plan is a Hush, ordinary speech is a Murmur, and shouting for help is a Clamor the dead can hear as well. Gestures matter: a raised hand, a lowered weapon, a signal to follow. Trust is built in seconds, in the space between two survivors who have just met in the dark.
 
 ### The Mark Between Strangers
 
@@ -2422,15 +2532,15 @@ Betrayal is a calculated risk, never a free move:
 |---|---|
 | **Dead Drop** | An original survivor: a man or a woman, a face, a voice, an outfit, nothing more. No traits, no edge. Everyone is a nobody. |
 | **Outbreak** | One of the eight from J's Bar |
-| **Versus** | A familiar face from the Archive, or your own original survivor |
-| **Mercenaries** | A familiar face with the loadouts they are known for, or your own survivor with a standard one |
+| **Versus** | A familiar face from the Archive |
+| **Mercenaries** | A familiar face, with the loadouts they are known for |
 | **Infection** | A monster. The character is the virus. |
 
 Familiar faces and the eight differ in appearance, voice, animation, and personality, and carry small, balanced traits. No character is mandatory, and no character is ever sold: familiar faces are open to everyone, or opened by play, as Mercenaries ranks open them. What can be bought is how they look. In Dead Drop, familiar faces are never worn by players: they are companions, and ΜΝΗΜΗ plays them.
 
 ### Creating a Survivor
 
-Every player creates their own original survivor. The first choice is whether the survivor is a man or a woman. After that come the face, the voice, and the dress, from everything the player owns (Section 30). The choice changes how the survivor looks and sounds, and how ΜΝΗΜΗ appears and sounds to them (Section 05). It changes nothing else: both bodies have the same height for play, the same reach, the same speed, the same health, and the same hit areas. The player can change any of it between nights.
+Every player creates their own original survivor, and Dead Drop is the only mode it is played in. Every other mode is played as someone the records hold: Outbreak as one of the eight, Versus and Mercenaries as a familiar face, Infection as a monster. In the Night the reason is simple: Dead Drop is ΜΝΗΜΗ's own, and the only night she runs to watch the sleepers as themselves; every other mode is an old exercise, and keeps the people it was built around. The first choice is whether the survivor is a man or a woman. After that come the face, the voice, and the dress, from everything the player owns (Section 30). The choice changes how the survivor looks and sounds, and how ΜΝΗΜΗ appears and sounds to them (Section 05). It changes nothing else: both bodies have the same height for play, the same reach, the same speed, the same health, and the same hit areas. The player can change any of it between nights.
 
 ### Language and Tone
 
@@ -2438,7 +2548,7 @@ Resident Evil Online speaks of everyone as he or she, and offers no other pronou
 
 ### Progression
 
-**Setup progression** applies in Outbreak, Versus, and Mercenaries: level and mastery widen what a setup can hold, and the budget stays fixed. In Mercenaries, ranks unlock characters and loadouts.
+**Setup progression** applies in Outbreak and Versus: level and mastery widen what a setup can hold, and the budget stays fixed. In Mercenaries, ranks unlock characters and loadouts instead.
 
 **Appearance** applies everywhere: faces, dress, gear, finishes, charms, emblems, figurines, Forms, and the Dossier, set out in Sections 29 to 31. In Dead Drop, nothing earned or bought changes anything but appearance. Every night begins with everyone on equal ground.
 
@@ -2822,7 +2932,7 @@ Her own body is one entity on the server, with one position, one collision volum
 
 ### Sound
 
-Sound is the main channel of information in every survival mode, so the audio is built first and drawn second. Every sound is positioned in three dimensions, carried through walls, doors, and floors, muffled by rain, and doubled in the Frenzy, exactly by the tiers of Section 15. Proximity voice travels the same way: through the same walls, at the same distances.
+Sound is the main channel of information in every survival mode, so the audio is built first and drawn second. Every sound is positioned in three dimensions, carried through walls, doors, and floors, muffled by rain, and doubled in the Frenzy, exactly by the tiers of Section 15. Proximity voice, in every mode that has it, travels the same way: through the same walls, at the same distances. Outbreak has none; its calls are sounds like any other.
 
 ### Readable by Everyone
 
@@ -2874,6 +2984,7 @@ Capcom's own history with Resident Evil, and the industry around it, shows what 
 
 | Year | Game | What was sold | How players took it | What Resident Evil Online does instead |
 |---|---|---|---|---|
+| 2003–2011 | Resident Evil Outbreak and File #2 | Four-player online co-op on PlayStation 2, through a network adapter; the first file's European release shipped without online play | The official servers closed on 31 December 2007 in North America and 30 June 2011 in Japan, and the online game went with them until fans restored it in 2014 | Every piece opens offline within a year, and if the service ends, nothing goes dark (Section 34) |
 | 2009 | Resident Evil 5 | A Versus mode sold for US$5, built from assets already on the disc | Players resented paying to unlock what they had already bought | Nothing already made is ever sold as a key. The First Run sells a whole game, and early access sells time |
 | 2022 | Fall Guys (Mediatonic) | A paid game from 2020 that went free to play in June 2022 | 50 million players within two weeks of going free | The Opening is planned and dated from the first day |
 | 2022–2025 | Resident Evil Re:Verse | A multiplayer game packed in with Village, delayed past Village's launch, sustained by a premium pass | Its concurrent players fell from about two thousand in its first month to under a hundred within months. Its DLC was pulled from sale in March 2025 and its servers shut down on 29 June 2025 | If the service ends, the game and everything owned stay, offline |
@@ -2885,7 +2996,7 @@ Capcom's own history with Resident Evil, and the industry around it, shows what 
 | 2024 | EU consumer authorities (CPC Network) | Seven principles for in-game currencies, among them that prices be shown in real money | — | Ribbons are never sold, and money buys items at a visible price |
 | 2025 | Monster Hunter Wilds | The most sought-after outfits sold in packs, one at US$32.95; outfits shown in event trailers had to be bought to keep | Players objected to paying for what an event had shown them | Event items are earned in the event and stay buyable afterwards, under the price ceiling |
 
-*References:* VGC, "Resident Evil 4 remake has added microtransactions to upgrade weapons quicker"; Engadget, "Capcom defends charging for Resident Evil 5 'Versus' DLC" (2009); MP1st, Separate Ways and Mercenaries update announcement; Insider Gaming and TheSixthAxis on the Re:Verse shutdown; Game World Observer and KitGuru on Exoprimal; Shacknews on Fall Guys; Windows Central on Dragon's Dogma 2's launch reviews; GFinity on Monster Hunter Wilds cosmetics; Destructoid on Helldivers 2 Warbonds and Alinea Analytics on its sales; Linklaters TechInsights on the CPC principles.
+*References:* Wikipedia, *Resident Evil Outbreak* and *Resident Evil Outbreak: File 2*; VGC, "Resident Evil 4 remake has added microtransactions to upgrade weapons quicker"; Engadget, "Capcom defends charging for Resident Evil 5 'Versus' DLC" (2009); MP1st, Separate Ways and Mercenaries update announcement; Insider Gaming and TheSixthAxis on the Re:Verse shutdown; Game World Observer and KitGuru on Exoprimal; Shacknews on Fall Guys; Windows Central on Dragon's Dogma 2's launch reviews; GFinity on Monster Hunter Wilds cosmetics; Destructoid on Helldivers 2 Warbonds and Alinea Analytics on its sales; Linklaters TechInsights on the CPC principles.
 
 ---
 
@@ -2992,7 +3103,7 @@ Companions and the Stranded are never dressed: Leon Kennedy in a Dead Drop is wh
 | Kind | What it is | Where it shows |
 |---|---|---|
 | **Faces** | Alternate looks for a familiar face, drawn from that person's own records: Leon Kennedy as he was in Spain in 2004, Albert Wesker as the S.T.A.R.S. captain of 1998 | Every mode in which that person can be played: Versus, Mercenaries, and, for the eight, Outbreak |
-| **Dress** | Outfits for a player's original survivor, among them the uniforms of the records: S.T.A.R.S., R.P.D., U.B.C.S., Umbrella Security Service, BSAA. They are worn as the survivor's own, never as a familiar face's | Dead Drop, and wherever an original survivor is played |
+| **Dress** | Outfits for a player's original survivor, among them the uniforms of the records: S.T.A.R.S., R.P.D., U.B.C.S., Umbrella Security Service, BSAA. They are worn as the survivor's own, never as a familiar face's | Dead Drop, the only mode where an original survivor is played |
 | **Gear** | Looks for what a survivor wears on the head, body, and back | Dead Drop, when the survivor puts on that kind of gear; the setup modes, when the setup carries it |
 | **Finishes** | Looks for a weapon: a pipe, a fire axe, a handgun, a shotgun | Whenever the survivor holds that weapon |
 | **Charms** | Small things that hang from a bag or a weapon, as the attaché case charms did in Resident Evil 4: an ink ribbon, a green herb, a Mr. Raccoon, a lion medallion, a Spencer crest | On whatever bag or weapon the survivor carries |
