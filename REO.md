@@ -652,7 +652,7 @@ Before the first survivor wakes, ΜΝΗΜΗ fixes three numbers. They decide wha
 
 **The Seats.** The ways out ΜΝΗΜΗ opens hold, together, no more than one seat for every four survivors and no fewer than one for every five, both rounded down. A Dead Drop of sixty-four has between twelve and sixteen seats. A Dead Drop of a hundred has between twenty and twenty-five. Every map is built so that some combination of at least two of its ways out fits that range for every population it can hold.
 
-**The Clock.** No one carries the virus when they wake. A survivor's clock starts the moment they are infected, and from then on the virus is paced so that a body never wounded again and never cured reaches the Threshold in about forty minutes. Wounds, appetites, and ΜΝΗΜΗ's Surge make it sooner. Nothing a survivor does makes it later. Only one strain can: a T-Phobos carrier who keeps calm burns at half pace.
+**The Clock.** No one carries the virus when they wake. A survivor's clock starts the moment they are infected, and from then on the virus is paced so that a body never wounded again and never cured reaches the Threshold in about forty minutes. Wounds, appetites, and ΜΝΗΜΗ's Surge make it sooner. Nothing a survivor does turns it back. An antiviral found in the world can hold it still for a few minutes (Section 10), and one strain slows itself: a T-Phobos carrier who keeps calm burns at half pace.
 
 Put together, those numbers mean one thing. Every survivor enters the night clean, and most will not stay that way. Six can be cured. Sixteen at most can leave. Every survivor who is infected and not cured has about forty minutes from the wound, and the night is longer than that. An infected survivor who reaches a seat takes it from someone who might have been clean.
 
@@ -880,7 +880,7 @@ At any pace, Seed takes roughly the first quarter of the clock, Fever runs to ju
 
 **What quickens it.** Wounds from the infected. A scratch or a claw costs about a minute. A bite costs about four. Wounds from the dead, the mutated, the Turned, and the B.O.W.s all count. The wound that carries the virus in costs nothing beyond the infection itself; every wound after it takes its share. Some strains add appetites of their own.
 
-**What does not slow it.** Nothing a survivor can do. Bandages close wounds but do not touch the virus. Rest does not slow it. Hiding does not slow it. Only Elpis ends it. The one exception belongs to the strain, not the survivor: T-Phobos sleeps while its carrier is calm.
+**What does not slow it.** Bandages close wounds but do not touch the virus. Rest does not slow it. Hiding does not slow it. Only an antiviral holds it, and only for a few minutes (Antivirals, below). Only Elpis ends it. One strain slows itself: T-Phobos sleeps while its carrier is calm.
 
 **What ΜΝΗΜΗ can do.** She can never slow the virus. She can only quicken it. When stagnation in a region has defeated every gentler measure, she may Surge it: the virus jumps forward by about five minutes of the clock in every infected survivor standing there, and the region is contaminated (Section 09). It is never silent.
 
@@ -889,6 +889,23 @@ At any pace, Seed takes roughly the first quarter of the clock, Fever runs to ju
 REASON: STAGNATION DETECTED.
 CONTAMINATION IN 60 SECONDS.
 ```
+
+### Antivirals
+
+Elpis is the only cure. Nothing else ends the virus, and nothing turns it back. But the places the outbreak reached were full of people trying to stop it, and some of what they made can hold it still for a while. The records hold the pill: in the old exercise of the eight, a small white anti-virus pill halted the virus for a short time, and George Hamilton could make one from mixed herbs.
+
+| Antiviral | Where it is found | What it does |
+|---|---|---|
+| **Anti-virus pill** | Pharmacies, clinics, first-aid stations, the hospital's stores | Holds the virus still for about three minutes |
+| **Antiviral injection** | Laboratories only, beside the latent vials | Holds the virus still for about eight minutes. While it holds, the hands shake and aim never steadies. |
+
+- **They hold; they never heal.** While a dose holds, the steady burn of the clock stops. Nothing else changes: the Mark does not fade, the stage does not go back, and Resonance does not quiet. Wounds from the infected, time spent down, and a strain's appetites still cost their time while it holds.
+- **Only before Fracture.** In Seed and Fever an antiviral holds. In Fracture it does nothing: the body has been remade too far for anything but Elpis.
+- **Less each time.** Every dose after the first in a night holds for half as long as the one before it, whichever kind it is.
+- **Never against what moves by other rules.** An antiviral does nothing to a pure strain after the Embrace, or to an infection the records gave someone (Section 20, Story Nights).
+- **Found, never given.** ΜΝΗΜΗ places antivirals before the waking, as she places everything else, by the night's Scarcity, and never within reach of a waking point (Section 08). She never drops one, and no road ends in one. Elpis is the only thing she gives.
+- **Worth more than they look.** A few minutes can finish a road, reach a seat, or carry an infected survivor to the signal. Every minute an antiviral buys an infected survivor is a minute closer to a seat someone clean might have taken.
+- **In the survival modes.** Antivirals are found in Dead Drop and in Outbreak. In the Valley of 2004 they do nothing: the Plaga is not a virus, and Luis Serra's suppressant takes their place (Section 07).
 
 ### Down
 
@@ -903,14 +920,25 @@ Standing up again does not give back the time spent on the ground. A survivor al
 
 ### Resonance
 
-The dead recognize their own. The further the virus has advanced, the further the dead can sense the survivor who carries it.
+Most of the dead cannot tell the infected from the clean. They find a survivor the way they find anyone, by sight and by sound, whatever is in that survivor's blood. A few kinds can sense the virus itself, and to them, the further it has advanced, the farther away a survivor can be felt. That sense is **Resonance**.
 
-- In **Seed**, the infected notice a survivor no more than they would anyone else.
+| What senses it | Why |
+|---|---|
+| **Infected dogs**, of every strain | A living dog can be trained to smell sickness. The virus took the dog's mind and kept its nose. |
+| **Every G-Virus creature**: the G-Adult, the Brood Host, the G-Mutant, the G-form, and William Birkin | The G-Virus looks for bodies it can live in, as Birkin hunted his own daughter for the one body his embryo could take. A G-Virus carrier is felt one stage farther. |
+| **Every T-Veronica creature**: the Drone, the Swarm Host, the Nosferatu-class, the Queen-form | The virus was made from an ant queen's, and a colony knows its own. A T-Veronica carrier is felt one stage farther. |
+| **Every Uroboros creature**: the Rejected, the Mkono-class, the Revenant-class, the Aheri-class, the Accepted | It hunts living tissue to take into itself, and a body the virus has already begun to rewrite is the easiest to take. |
+
+Everything else finds the infected only as it finds anyone: the zombie, the Licker, the Crimson Head, the Hunter, the Tyrant, the forms of the C-Virus and of T-Phobos. The Nemesis-class hunts in a way of its own (Section 13).
+
+To the kinds that can sense it, Resonance grows with the stage:
+
+- In **Seed**, they notice the survivor no more than they would anyone else.
 - In **Fever**, they sense the survivor from a short distance, even through walls.
 - In **Fracture**, they sense the survivor from far away and are drawn toward them.
-- At the **Threshold**, every dead thing nearby knows exactly where the survivor is.
+- At the **Threshold**, every one of them nearby knows exactly where the survivor is.
 
-This is how Resident Evil Online turns time into fear: the closer a survivor is to the end, the louder the world becomes. A cured survivor falls silent to Resonance entirely. The dead must find them the way they find anyone clean, by sight and by sound.
+This is how Resident Evil Online turns time into fear: the closer a survivor is to the end, the louder they become to the things that can hear it. Where those things are is part of the night. In a district the T-Virus holds, a marked survivor can walk among the dead unfelt until the dogs find their street; in the laboratory beneath the city, every G-Virus creature knows where the infected are. A cured survivor falls silent to Resonance entirely, and is found the way anyone clean is found, by sight and by sound.
 
 ---
 
@@ -920,7 +948,7 @@ This is how Resident Evil Online turns time into fear: the closer a survivor is 
 
 Elpis is the only way out of the virus. It cannot be crafted, bought, or scavenged. It is not in the pharmacy, not in the hospital vault, and not on any of the city's dead. It appears only when ΜΝΗΜΗ decides a survivor has earned it, and when it appears, everyone nearby can see.
 
-It exists only in the survival modes, and differently in each: scarce and fought over in Dead Drop, one dose for every survivor in Outbreak (The Reserve, below). The Valley of 2004 has none (Section 07).
+It exists only in the survival modes, and differently in each: scarce and fought over in Dead Drop, one dose for every survivor in Outbreak (The Reserve, below). The Valley of 2004 has none (Section 07). Antivirals can hold the virus for a few minutes (Section 10), but nothing else ends it.
 
 ### What It Is
 
@@ -996,7 +1024,7 @@ The injector will not fire into a body past the Threshold, and it will not fire 
 
 A cured survivor is the most useful ally in the city, and every survivor who sees the scar knows it.
 
-A cured survivor can walk through a region of a strain no one else dares enter, drink its water, wade its sewers, and take the bites of its rats with nothing worse than the wound. They can carry a latent vial without fear of it, and cannot be needled. The dead do not hear them coming from across the city, and neither do the Turned. A cured survivor can scout where the marked cannot, fetch what the marked cannot reach, and stand between a marked friend and the dead without lighting up the street.
+A cured survivor can walk through a region of a strain no one else dares enter, drink its water, wade its sewers, and take the bites of its rats with nothing worse than the wound. They can carry a latent vial without fear of it, and cannot be needled. Nothing that senses the virus feels them coming from across the city, not the dogs, not the G-Virus's brood, and not the Turned. A cured survivor can scout where the marked cannot, fetch what the marked cannot reach, and stand between a marked friend and the dead without lighting up the street.
 
 That is what the scar proves, and what every other survivor wants: not a dose, which is gone, but a person who can no longer be lost to the virus. It also proves something less comfortable. A cured survivor has nothing left to fear from the dead but their teeth, and nothing left to gain from any other survivor but a seat.
 
@@ -1018,7 +1046,7 @@ There are six viruses in ΜΝΗΜΗ's world, and all six descend from the Progen
 
 | Virus | Latent (caught in the world) | Pure (earned by drop) | Apex form |
 |---|---|---|---|
-| **T-Virus** | Balanced and loud. Bandages close wounds faster than they should, and the dead sense the carrier one stage farther than the Mark alone would allow. | Strength and pain tolerance far past human | **Tyrant-class**, and with the NE-α parasite, a **Nemesis-class** hunter |
+| **T-Virus** | Balanced and loud. Bandages close wounds faster than they should, and everything that can sense the virus senses the carrier one stage farther than the Mark alone would allow. | Strength and pain tolerance far past human | **Tyrant-class**, and with the NE-α parasite, a **Nemesis-class** hunter |
 | **G-Virus** | Adaptive. Wounds slowly close on their own, but every kill takes about half a minute from the clock. | Extreme regeneration. Every kill feeds it, and every kill takes a full minute. | **G-form**, a regenerating mass that grows with every victim |
 | **C-Virus** | Reactive. Wounds cost half again as much time, and a wounded limb may shift for a moment into a weapon. | Mutations burst out unbidden and cannot be controlled. Each one drives the virus forward. | **Haos-class**, a vast mass of flesh that never settles on one shape |
 | **Uroboros** | Hungry. Killing the dead restores a little health and a burst of speed. Five minutes without a kill and the clock runs at double pace until it feeds again. | Feeding becomes a frenzy: speed and healing from every kill, and a brutal pace when starved | **Aheri-class**, a giant tendril mass that grows by absorbing the dead; or, for the rare host the virus accepts, the **Accepted** |
@@ -1169,7 +1197,7 @@ The rule makes every strain a different bet. A survivor who catches the G-Virus 
 - A Turned survivor with a mind keeps playing as the creature. The Turned cannot speak to survivors.
 - The ordinary dead ignore the Turned and answer their call. They are kin.
 - The Turned cannot harm one another.
-- The Turned sense the infected through Resonance, as the dead do. Cured survivors are silent to it, and clean ones are found only by sight and sound.
+- A Turned senses the infected through Resonance only if its form is one of the kinds that can: every G-Virus, T-Veronica, and Uroboros form (Section 10). The rest find everyone by sight and sound. Cured survivors are silent to it, and clean ones are found only by sight and sound.
 - The Nemesis-class is the one exception to sensing. It chooses one survivor it has seen, and it always knows which way that survivor lies, until that survivor dies or leaves the city. Then it chooses again.
 - The Turned carry nothing, use nothing, open no locked door, solve no puzzle, and cannot ride a way out. The one thing a Turned may hold is the weapon an Afflicted was holding when it turned. Only the Brute and the Apex can break a barricade.
 - A wound from a Turned survivor that does not kill carries that survivor's strain into whoever takes it.
@@ -1269,7 +1297,7 @@ She puts none of them on a map. There is the light, the sound, and the direction
 
 ### The Frenzy
 
-From the moment the signal is raised, the world goes into Frenzy. The dead converge on every way out and on every survivor moving toward one. Sound carries twice as far. Resonance roars, and every infected survivor lights up to the dead like a flare. Nothing stops coming.
+From the moment the signal is raised, the world goes into Frenzy. The dead converge on every way out and on every survivor moving toward one. Sound carries twice as far. Resonance roars, and every infected survivor lights up like a flare to everything that can sense the virus. Nothing stops coming.
 
 ### The Boarding
 
@@ -1317,7 +1345,7 @@ The infected hunt by sound before they hunt by sight. Noise is the currency of d
 | **Clamor** | Running, melee strikes, forcing a lock, breaking glass, shouting | Draws the dead from several streets away |
 | **Thunder** | Gunfire, explosions, engines, every drop from the sky, a bell, the scream of a Turn | Pulls hordes across entire districts |
 
-These ranges are the baseline. Rain muffles them. The dead hear the infected from farther still, through Resonance. In the Frenzy of an extraction, everything carries twice as far. A gunshot is not a solution. It is an announcement, to every dead thing in the district and every living survivor within earshot. **The more powerful the tool, the louder the consequence.**
+These ranges are the baseline. Rain muffles them. The few kinds that sense the virus find the infected from farther still, through Resonance (Section 10). In the Frenzy of an extraction, everything carries twice as far. A gunshot is not a solution. It is an announcement, to every dead thing in the district and every living survivor within earshot. **The more powerful the tool, the louder the consequence.**
 
 ### Threat Levels
 
@@ -1332,7 +1360,7 @@ Threat level is local and set by ΜΝΗΜΗ. Resonance is personal and set by th
 
 ### The Common Dead
 
-The majority of the creatures in any session. Zombies are slow, relentless, and numerous. One is a nuisance. A dozen is a problem. A horde is a funeral. They drift toward noise and toward the marked, and they linger where they last sensed prey.
+The majority of the creatures in any session. Zombies are slow, relentless, and numerous. One is a nuisance. A dozen is a problem. A horde is a funeral. They drift toward noise and toward movement, and they linger where they last sensed prey.
 
 ### The Mutated
 
@@ -1368,7 +1396,7 @@ Versus and Mercenaries are the exception: there, what a survivor carries is a se
 
 **Firearms are rare in the world.** A handgun is a significant find. A shotgun is a treasure. A rifle is something people kill for. Ammunition is scarcer than the guns that use it.
 
-**Healing is slow.** First aid sprays, herbs, bandages. Wounds linger. None of it touches the infection.
+**Healing is slow.** First aid sprays, herbs, bandages. Wounds linger. None of it touches the infection; only the rare antivirals hold it back, and only for minutes (Section 10).
 
 ### Health
 
@@ -1414,7 +1442,7 @@ Combat is not a power fantasy. It is a negotiation with fear. Being surrounded i
 - **Wear.** Every melee weapon bends, splinters, or chips before it breaks, so the last swings can be seen coming. A pipe outlasts a kitchen knife; a fire axe outlasts a bat.
 - **Shove.** A shove costs stamina and nothing else. It buys distance, never a kill.
 - **Grabs.** When the dead seize a survivor, the survivor struggles. A struggle won costs stamina; a struggle lost, or a second pair of hands, ends in a bite. Another survivor can break the grab with a blow. A survivor carrying a knife or a grenade can spend it to break any grab at once: the knife stays in the dead, the grenade goes off in its mouth.
-- **Breaking away.** The dead that lose sight of a survivor who has gone quiet search the last place they saw them, then wander. Resonance is the exception: from Fever on, the dead keep a survivor's direction without seeing them (Section 10).
+- **Breaking away.** The dead that lose sight of a survivor who has gone quiet search the last place they saw them, then wander. Resonance is the exception: from Fever on, the kinds that sense the virus keep an infected survivor's direction without seeing them (Section 10).
 - **Doors and heights.** A closed door slows the dead. A barricaded one stops them for a while, and barricading is a Clamor. The common dead cannot climb ladders or anything higher than a fence.
 - **Guns.** Aim steadies after about a second of holding still. Reloading takes both hands. In Fracture, aim never steadies.
 
@@ -1729,6 +1757,7 @@ In Outbreak, Versus, and Mercenaries, a survivor carries a **setup** into the se
 | Spare magazine or box of shells | 5 |
 | Hand grenade | 15 |
 | First aid spray | 15 |
+| Anti-virus pill | 20 |
 | Green herb | 5 |
 | Body armor | 25 |
 | Melee weapon | 5 to 10 |
@@ -2300,7 +2329,7 @@ Outbreak is rebuilt from the records of the eight: the two files of *Resident Ev
 | Eight playable people, each with an item of their own and an ability no one else had: Kevin's aimed shot, Mark's endurance, Jim's playing dead and his coin, George's medicine, David's weapons from junk, Alyssa's lockpick, Yoko's rucksack, Cindy's herbs | Kept, as the records hold them (The Eight) |
 | The eight at the heart of every scenario | Kept. Outbreak is never played as anyone but the eight |
 | A virus gauge that counted every body toward the end, quickened by collapsing | Kept as the clock, with no number on the screen (Section 10). Going down still burns it faster. |
-| Healing and a partner's help slowed the gauge | Rewritten: nothing but Elpis slows the virus anywhere in ΜΝΗΜΗ's world |
+| A small white anti-virus pill that halted the gauge for a short time; healing and a partner's help that slowed it | The pill is kept: antivirals hold the clock still for a few minutes (Section 10). Healing and help are rewritten: they do not touch the virus. |
 | A player who died online rose as a zombie and hunted their own team, until put down or until it gave out | Kept: the sleeper rides the Mass (Infected from the First Minute) |
 | Ad-libs instead of microphones, so the dread would not be talked away | Kept: the eight speak only in calls (Partners and Calls) |
 | Lobbies a player made for their own group, and a mode that found strangers and began with the first scenario | Both: a squad can gather in the Waiting Dark and choose its scenario, or ask ΜΝΗΜΗ for any night of Outbreak with strangers |
@@ -2322,7 +2351,7 @@ Outbreak is played as the eight people who were in J's Bar when Raccoon City fel
 | **Kevin Ryman** | Police officer | An aimed shot that hits harder than anyone's, and a kick that clears a path | His virus runs faster than most | His own .45 |
 | **Mark Wilkins** | Security guard, war veteran | The toughest body of the eight; braces and shoves the dead back | Too big to hide in tight places | His own handgun |
 | **Jim Chapman** | Subway worker | Plays dead well enough to fool the dead; knows every tunnel; his lucky coin sometimes turns a blow crushing | His virus runs faster than anyone's | A lucky coin |
-| **George Hamilton** | Surgeon | Mixes medicine from herbs; reads a stranger's exact stage; names the virus by examining a body | Weak in a fight | A medical kit |
+| **George Hamilton** | Surgeon | Mixes medicine from herbs, and makes anti-virus pills from mixed herbs; reads a stranger's exact stage; names the virus by examining a body | Weak in a fight | A medical kit |
 | **David King** | Plumber | Builds and repairs weapons from junk; opens hatches and fixes what is broken | Slow with a gun | A toolbox and a knife |
 | **Alyssa Ashcroft** | Journalist | Picks locks; steps back from an attack; an aimed shot with a handgun | Weak in a fight up close | A lockpick |
 | **Yoko Suzuki** | Student, once an Umbrella employee | A rucksack that holds twice what anyone else can; slips out of a grab; knows Umbrella's doors from her years in its laboratory | The weakest body of the eight, and the slowest runner | A rucksack |
@@ -2527,7 +2556,7 @@ Voice is part of the sound system, in every mode but Outbreak, where the eight h
 
 No one can hide how far the virus has taken them. A survivor in Seed looks like anyone, and their pinprick says nothing about what they carry. A survivor never infected has nothing on their neck at all, which, from a few steps away and in the dark, looks exactly the same. From Fever on, the color of the lines says which virus is doing it. A survivor in Fracture looks like someone about to die. A cured survivor carries a pale scar, and everyone knows what that means: someone who can no longer be lost to the virus, and who has nothing left to want from anyone but a seat.
 
-*Is this person going to turn beside me? Are they holding a dose? Did they earn it, or take it? Is that red Mark a T-Virus carrier who will call the dead down on both of us?* A survivor past the Threshold has nothing left to lose and everything left to take, and sensible people look at the neck before they lower their weapons.
+*Is this person going to turn beside me? Are they holding a dose? Did they earn it, or take it? Is that red Mark a T-Virus carrier who will bring the dogs down on both of us?* A survivor past the Threshold has nothing left to lose and everything left to take, and sensible people look at the neck before they lower their weapons.
 
 ### The Clean
 
@@ -2823,7 +2852,7 @@ Kendo tells you about the back room. The vault has two locks, one at each end of
 
 **The plaza.** The signal was real. She promised nothing else. A supply cache in the middle of a plaza, four other survivors, and a long, careful moment where nobody lifts a weapon. Then the private voice: *Hold the plaza against the dead. Do not harm another survivor.* You look at the four strangers. They are hearing something too.
 
-**The hold.** The dead come in a slow tide, drawn by the standoff, and for a while everyone fights on the same side. Kendo's shotgun is the loudest thing in the district. The dead come to you, too, from farther than they should: your strain makes you easy to find. The stranger does not fight. They stand at the edge of the plaza with their eyes shut, breathing slow and even. Someone goes down, and someone drags them clear. When it ends, the Mark at your neck pulses once.
+**The hold.** The dead come in a slow tide, drawn by the standoff, and for a while everyone fights on the same side. Kendo's shotgun is the loudest thing in the district. Then the dogs come, two of them, straight to you across the plaza from farther than anything should have heard you: your strain makes you easy to find. The stranger does not fight. They stand at the edge of the plaza with their eyes shut, breathing slow and even. Someone goes down, and someone drags them clear. When it ends, the Mark at your neck pulses once.
 
 **The drop.** Rotors, close and heavy. A flare. A case under a canopy, strobing amber, falling toward the plaza, toward you, toward everyone.
 
@@ -2833,7 +2862,7 @@ Kendo tells you about the back room. The vault has two locks, one at each end of
 
 **The dose.** One dose. Six survivors and a gun-shop owner. Only one road ended here, and it was yours. The stranger's lines are blue-grey to the jaw. Yours are only at Fever. You reach the case first, and every other hand in the plaza stops moving. You look at the stranger, who looks away, politely, the way the dying do. You press the injector to your own neck. The sound it makes is very small.
 
-**After.** The Mark fades to a pale scar. A block away the dead stop turning their heads toward you, and the city goes quiet around you the way it has not been since you woke. The three of you find a stairwell and sit in it. Nobody says anything about the dose.
+**After.** The Mark fades to a pale scar. A block away the dogs stop lifting their heads toward you, and the city goes quiet around you the way it has not been since you woke. The three of you find a stairwell and sit in it. Nobody says anything about the dose.
 
 ```
 ΜΝΗΜΗ: EXTREME THREAT DETECTED.
