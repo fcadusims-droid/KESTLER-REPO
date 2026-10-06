@@ -668,7 +668,7 @@ Survivors call what follows the Second Night.
 
 ## 09 · ΜΝΗΜΗ AS DIRECTOR
 
-*Her Laws bind her in every mode. The rest of this section describes her in the survival modes. What she does in Versus, Mercenaries, and Infection is set out with each mode (Section 20, ΜΝΗΜΗ's Role by Mode).*
+ΜΝΗΜΗ directs every mode under the same Laws. In the survival modes she directs as everything below describes; in Versus, Mercenaries, and Infection, as each mode sets out (Section 20, ΜΝΗΜΗ's Role by Mode).
 
 ### What She Is in a Session
 
@@ -781,7 +781,7 @@ When she detects stagnation, she answers in escalating steps, and never jumps to
 
 ## 10 · THE INFECTION
 
-*This section holds in Dead Drop and Outbreak, except where it names one of them. Versus and Mercenaries have no infection: their dead wound, but never infect. In Infection, the players are the virus (Section 20). In the Valley of 2004, Section 07 replaces it.*
+The virus works as everything below describes in Dead Drop and in Outbreak, except where one of them is named. Versus and Mercenaries have no infection: their dead wound, but never infect. In Infection, the players are the virus (Section 20). In the Valley of 2004, the Plaga takes its place (Section 07).
 
 There is no timer in the survival modes of Resident Evil Online. No number in the corner of the screen, no bar, no countdown.
 
@@ -916,11 +916,11 @@ This is how Resident Evil Online turns time into fear: the closer a survivor is 
 
 ## 11 · ELPIS IN THE NIGHT
 
-*Elpis exists only in the survival modes, and differently in each: scarce and fought over in Dead Drop, one dose for every survivor in Outbreak (The Reserve). The Valley of 2004 has none (Section 07).*
-
 > *One cure exists.*
 
 Elpis is the only way out of the virus. It cannot be crafted, bought, or scavenged. It is not in the pharmacy, not in the hospital vault, and not on any of the city's dead. It appears only when ΜΝΗΜΗ decides a survivor has earned it, and when it appears, everyone nearby can see.
+
+It exists only in the survival modes, and differently in each: scarce and fought over in Dead Drop, one dose for every survivor in Outbreak (The Reserve, below). The Valley of 2004 has none (Section 07).
 
 ### What It Is
 
@@ -1008,9 +1008,9 @@ Elpis saves a survivor from the Turn. It does not save them from the night. A cu
 
 ## 12 · THE STRAINS
 
-*The strains' latent gifts and curses hold in both survival modes, unnamed in Outbreak. Petitions, pure strains, the Embrace, and the Parasite Drop are Dead Drop's alone. Infection's monsters climb their own paths (Section 20).*
-
 Not every infection is the same infection. Behind every Mark is a virus with a temperament. Each advances at its own pace, gives its carrier something, and takes something in return. A survivor who knows what they carry knows how to play.
+
+The latent gifts and curses of the strains hold in both survival modes, unnamed in Outbreak. Petitions, pure strains, the Embrace, and the Parasite Drop are Dead Drop's alone, and Infection's monsters climb paths of their own (Section 20).
 
 ### The Roster
 
@@ -1095,9 +1095,9 @@ The living can deny it. Fire or an explosion destroys the case, and survivors wh
 
 ## 13 · THE TURNED
 
-*The Turn's three beats, and the Lost, hold in both survival modes. Everything else in this section is Dead Drop's. In Outbreak, every survivor who turns rises as the Mass of the map's virus (Section 20).*
-
 Not every survivor reaches Elpis. Not every survivor who reaches it is in time.
+
+The Turn's three beats, and the Lost, are the same in both survival modes. Everything else below is Dead Drop's: in Outbreak, every survivor who turns rises as the Mass of the map's virus (Section 20).
 
 ### The Turn
 
@@ -1304,7 +1304,7 @@ In the Raccoon City of 1998, the missile ends the night instead (Section 20, The
 
 ## 15 · THE DEAD AND THE ENGINEERED
 
-*The dead hunt by these rules in every mode that has them. Threat levels, containment, and B.O.W. events belong to the survival modes; Versus and Mercenaries place their dead as Section 20 says.*
+The dead hunt by these rules in every mode that has them. Threat levels, containment, and B.O.W. events belong to the survival modes; Versus and Mercenaries place their dead as Section 20 says.
 
 ### How the Dead Find You
 
@@ -1358,11 +1358,11 @@ A few seconds pass. A distant roar. A containment door torn open. Something that
 
 ## 16 · SURVIVAL
 
-*This section holds in the survival modes. In Versus and Mercenaries, what a survivor carries is a setup or a loadout (Section 20), and nothing is found; health, stamina, and fighting work as they do here.*
-
 ### A World That Does Not Want You Armed
 
 Resident Evil Online is a game of scarcity. In Dead Drop, survivors begin with nothing. In Outbreak they begin with very little. They do not begin as soldiers and they do not become them.
+
+Versus and Mercenaries are the exception: there, what a survivor carries is a setup or a loadout (Section 20), and nothing is found. Health, stamina, and fighting work in every mode as they do here.
 
 **Melee is the common language.** Pipes, bats, crowbars, fire axes, machetes, kitchen knives. Weapons have heft. Swings cost stamina. A bad swing leaves you open. Weapons break, usually at the worst moment.
 
@@ -1424,7 +1424,7 @@ Combat is not a power fantasy. It is a negotiation with fear. Being surrounded i
 
 ## 17 · OBJECTIVES, RESTRICTIONS, AND EVENTS
 
-*Objectives, restrictions, puzzles, and vaults belong to the survival modes. Versus has only ΜΝΗΜΗ's disturbances, Mercenaries none, and Infection its catalyst (Section 20).*
+Objectives, restrictions, puzzles, and vaults belong to the survival modes. Versus has only ΜΝΗΜΗ's disturbances, Mercenaries none, and Infection its catalyst (Section 20).
 
 ### The Primary Objective
 
@@ -1574,9 +1574,7 @@ The dead here are old. Some have been dead since 1998, and the virus in them has
 
 #### THE VALLEY · AUTUMN 2004
 
-*The Valley is not in the game at launch. It arrives after the Opening (Section 33).*
-
-A valley in rural Spain and the sea beyond it, rebuilt as the records hold them: a village of stone houses around a plaza, farms, a quarry, a deep lake, and a church on the hill. Above it all, on the cliffs over the sea, stands the castle of the Salazar family. Offshore is the island where Los Iluminados keep their laboratories and their soldiers. It is the largest of the Dead Drop worlds, and the only one that holds the Plaga (Section 07).
+A valley in rural Spain and the sea beyond it, rebuilt as the records hold them: a village of stone houses around a plaza, farms, a quarry, a deep lake, and a church on the hill. Above it all, on the cliffs over the sea, stands the castle of the Salazar family. Offshore is the island where Los Iluminados keep their laboratories and their soldiers. It is the largest of the Dead Drop worlds, and the only one that holds the Plaga (Section 07). It is not in the game at launch: it arrives after the Opening (Section 33).
 
 It is one world in three parts, and the story or the survivors decide when each part opens. Every survivor wakes in the village. The castle and the island are in the world from the first minute, in sight across the valley and the water, and closed. Each part opens with a beat of the story (Section 20), or with a way that belongs to no thread, which works only after night falls. If neither happens, it opens at the latest moment the story allows.
 
@@ -2221,7 +2219,7 @@ Everywhere else, the hosts of each part are its common enemies: Ganados with far
 
 #### Late Nights · A Variant
 
-*Late Nights are not part of the launch. They are a variant of the story nights held for later development, and a fallback: they can run beside the story nights, or in their place if story nights prove too costly or too hard to build (Section 35).*
+Late Nights are a variant of the story nights, held for later development and not part of the launch. They are also a fallback: they can run beside the story nights, or in their place if story nights prove too costly or too hard to build (Section 35).
 
 In a Late Night, most of the story is over before anyone wakes. At Assembly, ΜΝΗΜΗ runs the map's story from its beginning, alone, with no sleeper and no Echo in it: only the people of the records, the named creatures, and the dead. That run is **the seed**. Every person in it does what their records say they would do with the world as it goes, every beat happens or breaks, and nothing is steered toward the records' ending. Then she stops the seed, and the survivors wake into what it left.
 
@@ -2515,7 +2513,7 @@ The session ends in one of two ways. Everyone dies, or the survivors force the s
 
 ## 21 · THE LIVING
 
-*This section is Dead Drop's: strangers who owe each other nothing. In Outbreak, the eight are a team who win or lose together, and a stray shot can wound a partner. In Versus, the fight between players is the point of the mode.*
+The living described here are the strangers of a Dead Drop, who owe each other nothing. In Outbreak, the eight are a team who win or lose together, and a stray shot can wound a partner. In Versus, the fight between players is the point of the mode.
 
 ### Cooperation Is a Choice
 
@@ -2784,7 +2782,7 @@ Each mode writes its own report: Mercenaries closes with a score and a rank from
 
 ## 25 · A NIGHT, ILLUSTRATED
 
-*What follows is one Dead Drop in Raccoon City, September 1998, seen through one survivor: the session blueprinted in Section 19. It shows the rules at work; it fixes nothing beyond them.*
+The night below is the Dead Drop blueprinted in Section 19: Raccoon City, September 1998, seen through one survivor.
 
 **The room.** A bed that is not yours, in an apartment on a street you have never heard of. Rain on the window. A radio that turns itself on, says that sixty-four subjects are awake and that one cure exists, and turns itself off. Beside it, an earpiece. You leave it where it is. Under the bed, a length of pipe. Outside the door, something dragging its feet.
 
