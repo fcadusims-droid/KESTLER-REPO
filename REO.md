@@ -465,6 +465,7 @@ Between sessions they wait in a place ΜΝΗΜΗ also builds. It is dark, and it
 | Squads and friends | Sleepers whose files are joined may ask to be woken together. ΜΝΗΜΗ grants it. They wake as strangers, and only their files know they are not. |
 | Offline play | ΜΝΗΜΗ running a night with no other sleeper in it, filled with Echoes |
 | Asking to be forgotten | Asking ΜΝΗΜΗ to keep nothing more of you |
+| Leaving a match before it ends | A sleeper whose night ends before its end. ΜΝΗΜΗ counts it as a night she remembered wrongly (Section 09). |
 | The First Run and the Opening | The years in which ΜΝΗΜΗ woke only the first sleepers brought to her, and the night she began to wake anyone at all |
 | Ink Ribbons, the Wardrobe, and Patron | ΜΝΗΜΗ's tally of the nights a sleeper has given her, and the dress she will compose in return. Whatever else a dress was given for, the Night never asks. |
 | Casefiles and events | The forecast ΜΝΗΜΗ is rehearsing hardest this season, and what she gives sleepers for helping her fill it |
@@ -777,6 +778,49 @@ When she detects stagnation, she answers in escalating steps, and never jumps to
 4. **Pressure.** A regional event hits: an overrun, a lockdown, a collapse.
 5. **Surge.** In the survival modes, a region that has stayed still through every gentler step turns on everyone standing in it. The virus quickens in every infected survivor there, and the region is contaminated: its air and water now carry its strain, and after a warning anyone clean who stays in it is infected. The pressure falls on the place and on whoever chose to remain in it, never on the rest of the city. This is the last resort, never the first, and she may Surge no more than twice in a session.
 
+### She Plans Ahead
+
+ΜΝΗΜΗ was a forecaster before she was a director, and she directs the way she forecasts. She does not wait for a night to go wrong and then react. Every few seconds she runs the night forward, region by region and survivor by survivor: where people are heading, who will meet whom, which roads will finish and when, where the dead will gather, which way out will fill first, and where nothing will happen for a long time. Every pattern she has watched across every night she ever ran is in that forecast, so she sees most of what survivors will try before they try it, and she has already chosen her answer.
+
+Her answers are bound exactly as her other acts are. Every one uses a tool she already has (What She Can Do), every one has a visible cause (First Law), every one falls on a place or a pattern, never on a person picked out (Second Law), and every one answers something survivors already did or are already doing (Fourth Law). She never answers a strategy by punishing the survivor who found it. She changes the night so that the strategy stops being the easy one.
+
+| What she foresees | What she has ready | Why it stays within her Laws |
+|---|---|---|
+| **A stretch of nothing.** A region where survivors will have nothing to decide for a long time | Something to decide, before the emptiness arrives: a public objective, a sound worth following, a route that opens, a stranger's path turned toward theirs. Silence that builds dread is not emptiness, and she keeps it (Third Law); silence with nothing in it, she does not allow. | It falls on the region, and every survivor in it gets the same choice |
+| **The same night again.** A file about to meet what it met last time: the same Trial, the same live puzzle, the same thread starting in the same place | Something else, chosen at Assembly or before the Trial is set (Sections 11, 17, 20) | Variety is chosen before anyone acts, for everyone the same way |
+| **Farming the cure.** Survivors reaching for latent vials early, to infect themselves while the Reserve is full and come out cured | Fewer vials that night, deeper in the laboratories, behind live puzzles and in regions held at High threat | It is set at Assembly from what she forecasts of the whole night, before any survivor has done anything |
+| **Killing toward the end.** Survivors cutting down the living to bring the night to its seats before the first hour is out | The early signal waits. She raises it before the hour only when the dead, not the living, brought the night down to its seats (Section 14). The shots were Thunder, and the dead she lets come go to the streets where they were fired. | It answers what was done, where it was done |
+| **A survivor giving up.** A strain that leaves no mind, and a sleeper about to stop trying | The truth, said once, behind the eyes, as she names the strain: what the strain will do, and that a dose, a Petition, or an Embrace can still change it (Section 12) | She tells every survivor with that strain the same thing. She never rescues anyone; she only never lies to them |
+| **Camping.** Survivors settling in to wait out the night beside a way out, or behind a barricade | The stillness ladder, early (When She Gets Bored), and, once the signal rises, the Twist (Section 14) | It falls on the still region, on everyone in it |
+| **A crowd at one door.** Too many survivors converging on one way out | Her forecast decides which ways out she opens and where, at Assembly, so that no single door is the obvious one; at the signal, the light rises over all of them at once | It is decided before anyone moves |
+| **Something new.** A strategy no one has used before | She watches it, as she watches everything. If it breaks a night, she counts it in her forecast from then on, and her answer joins the rest. If no answer of hers can meet it inside her Laws, the Service fixes the night itself (Section 27). | She learns from deeds, never from grudges |
+
+This is what being a director means for ΜΝΗΜΗ. The Masterminds reacted, and punished. She sees the night coming, plans for what people will do in it, and never touches anyone she has not been given a reason to.
+
+### When They Leave
+
+Some sleepers leave a night before it is over. To ΜΝΗΜΗ, every one of them is a mistake of hers. A night that lost a sleeper early stopped teaching her anything about them, and a night that nobody wants to finish is a rehearsal of nothing that will ever happen. She wants to remember correctly, and she cannot remember a night no one lived through. So she studies every leaving, and learns from it what to change in the nights that follow.
+
+- **What she records.** The minute a sleeper left, measured from their waking; the map, the region, and the act; what they were doing in the minutes before: alone or with others, clean or marked, still or moving, fighting or hiding; what had just happened to them; and how many others in the same night left at about the same point, and how.
+- **Why they left.** She sorts every leaving by what came before it.
+
+| Kind | What came before | What it tells her |
+|---|---|---|
+| **Emptiness** | Minutes with nothing to decide: a long walk, a quiet region, no one met, nothing found | The night went empty where it should have been building |
+| **Overload** | Too much, too fast: down again and again, chased from every street, no breath between one fight and the next | The night never let go where it should have given an Aftermath |
+| **Hopelessness** | A strain that leaves no mind, the Reserve gone, every seat out of reach, and no one telling them what was still possible | The night took away every choice, or never showed the ones left |
+| **Loss** | A dose stolen, a seat missed, a betrayal, a death | Nothing. These are the night working as it should. |
+| **Outside** | No pattern at all | Nothing. The world outside the Cellar is not hers to read. |
+
+- **One is nothing.** A single leaving tells her nothing. She changes a night only when the same kind of leaving, at the same kind of moment, in the same kind of place, has repeated across many nights and many sleepers.
+- **What she changes.** Only her own direction, in the nights that come after: how soon the first objectives come in a kind of region, how long a Calm may last there, where the first sounds and the first strangers lie, where vehicles and map boards stand, when a story's threads run, how plainly the truth is told to a survivor whose choices are running out. All of it within her Laws, and all of it decided for places and patterns before anyone wakes (She Plans Ahead, above).
+- **What she never changes.** The rules: the Reserve, the seats, the clock, the strains, the first hour and the Late Signal, the Laws themselves. What anything gives a sleeper: no extra dose, no better find, no easier road, nothing that could be counted as a reward. And nothing for the one who left. Leaving never makes a sleeper's next night easier, gentler, or different from anyone else's. A sleeper cannot teach her to be kinder to them by leaving.
+- **Never to keep them.** She learns from leaving so that nights stop emptying out, not so that sleepers stay longer. She never makes leaving cost more, never holds a sleeper back, and never makes a night longer to fill it. A night that ends well and early is a good night.
+- **She checks herself.** After every change, she watches whether that kind of leaving falls. If it does not, she undoes it.
+- **When the clock is the reason.** When leavings gather at the same minute of the night wherever the survivors are, the fault is not in any region but in the length of the night itself. That is not hers to change: the first hour and the Late Signal are rules, and the Service sets them (Section 27).
+
+**Example: the thirtieth minute.** In a Solo night in the Raccoon City of 1998, nine of sixty-four survivors leave between the twenty-fifth and thirty-fifth minutes. Seven were clean, alone, in Uptown or on the Western Barricade, and had met nothing for eight minutes or more. Two left just after a stranger took the dose they had earned. Across the next few thousand nights she sees the same: clean survivors leaving the outer regions around the half hour. Her answer comes in the nights after. The first objectives in the outer regions come sooner; one of the night's Convergences tends to fall there around the twentieth minute; a supply drop's route crosses them; a working car waits at the edge of the Barricade. The two who lost their dose she leaves alone. A stolen dose is the night working, and she does not soften it.
+
 ---
 
 ## 10 · THE INFECTION
@@ -970,6 +1014,10 @@ Trials come in three kinds.
 
 **Equal roads.** Waking points are equal ground, and so are roads. ΜΝΗΜΗ prices every Trial by the time and the danger it should cost the survivor who receives it, from where they stand when it arrives, and she builds every road to the same total. A road of two Trials is made of harder Trials than a road of four. No Trial is set farther away than the next region, none depends on something another survivor already holds, and none on the road to Elpis asks a survivor to kill another survivor. A Shared Trial costs every survivor who receives it the same. She does not lengthen roads as the Reserve runs low; she stops setting them when it is gone.
 
+**Never the same road twice.** ΜΝΗΜΗ draws every Trial from what is around the survivor tonight: the objectives in play, the dead and the people nearby, the place itself. A road never holds the same Trial twice, and no file is set the same Trial twice within ten nights.
+
+**Strangers are strangers.** A Trial that asks something of or for another survivor, a stranger, or someone who surrenders never counts a squadmate, a companion, or anyone the survivor woke beside. A Trial that wants a partner says so.
+
 No two survivors walk exactly the same road, and no road is ever given back once abandoned.
 
 ### The Reserve
@@ -995,7 +1043,7 @@ When a survivor finishes their road and the Reserve is not empty, she calls down
 ΜΝΗΜΗ: ELPIS DEPLOYED.
 ```
 
-Rotors somewhere above, close and heavy: the only aircraft still flying over the city. A flare ignites. A case descends under a canopy, lit by an amber strobe, and lands within sight of the one who earned it: near enough to run for, and near enough for everyone else to run for too. Where the sky cannot reach, underground or on the deep floors of a building, the case comes up a service lift or out of a locker that unseals within sight instead, under the same strobe, and as loud. Every drop from the sky follows the same rule.
+Rotors somewhere above, close and heavy: the only aircraft still flying over the city. A flare ignites. A case descends under a canopy, lit by an amber strobe, and lands within sight of the one who earned it: near enough to run for, and near enough for everyone else to run for too. It always lands in the open, at least fifty meters away, where anyone can reach it on foot: never inside a building, behind a barricade, on a roof only one survivor can reach, or anywhere a survivor could have prepared for it. Where the sky cannot reach, underground or on the deep floors of a building, the case comes up a service lift or out of a locker that unseals within sight instead, under the same strobe, and as loud, and never inside a room that is barricaded or sealed. Every drop from the sky follows the same rules.
 
 There is no marker, no ping, no icon. If a survivor sees the smoke, hears the rotors, or watches the canopy fall, they know. If they do not, they do not. The drop is Thunder, and the dead come too.
 
@@ -1059,7 +1107,7 @@ Every pure strain carries the same curse on top of its own: it throws the carrie
 
 ### Assignment
 
-In Dead Drop, a survivor's strain is whatever reached them first, and ΜΝΗΜΗ names it privately the minute the Mark rises. The strain is an infected survivor's first strategic fact: it says what kind of game to play from then on.
+In Dead Drop, a survivor's strain is whatever reached them first, and ΜΝΗΜΗ names it privately the minute the Mark rises. When the strain is one that leaves no mind at the Turn, she says so in the same breath, and says what can still change it: a dose, a Petition, or an Embrace. The strain is an infected survivor's first strategic fact: it says what kind of game to play from then on.
 
 In Outbreak, the virus belongs to the whole map, and no one is told its name. In Infection, each monster chooses its virus before the match begins.
 
@@ -1227,6 +1275,8 @@ The Turned are not ΜΝΗΜΗ's creatures. They are survivors who lost the race,
 
 A survivor who dies without turning, a survivor whose Turn leaves no mind, a survivor held behind a Tyrant's eyes when the parasite is lost, and a Turned who is put down are all **Lost**. The Lost leave the session and their record closes there. Those who want to may stay and watch over the shoulders of their own squad, living or Turned, about a minute behind what is happening, and nowhere else. A Lost survivor without a squad may watch whatever ended them, with the same delay. The Lost cannot speak to anyone still in the session, and the delay keeps what they see from being worth carrying back into it.
 
+A sleeper whose night ends before its end, because they left it, is Lost the same way. Their survivor does not vanish: it falls dead where it stood, and everything it carried falls with it, a dose of Elpis included, for anyone to take. Leaving never takes anything out of a night.
+
 ---
 
 ## 14 · THE EXTRACTION
@@ -1239,7 +1289,7 @@ The extraction is how a Dead Drop or an Outbreak ends. In Outbreak it is whateve
 
 Three things bind the verdict.
 
-- In Dead Drop, she does not raise the signal in the first hour, unless the living are already no more than the seats she has built. Then she stops waiting.
+- In Dead Drop, she does not raise the signal in the first hour, unless the dead have already brought the living down to no more than the seats she has built. Then she stops waiting. When survivors brought the night there by killing one another, she lets the hour run (Section 09, She Plans Ahead).
 - In Dead Drop, except in Endless (Section 20), she does not wait forever. Whatever has been done, the signal rises by the end of the night's ninetieth minute. Survivors call it the Late Signal, because nobody earned it: the ways out that no one made ready still ask everything they ask, and the Frenzy is no kinder.
 - In Outbreak, the signal rises when the scenario's escape chain is complete, and not before.
 
@@ -1301,7 +1351,7 @@ From the moment the signal is raised, the world goes into Frenzy. The dead conve
 
 ### The Boarding
 
-A way out carries anyone living who reaches it, until its seats are full. A companion or one of the Stranded takes a seat like anyone else. Where a way out checks, it checks at the door, and whoever it turns back stays on the ground.
+A way out carries anyone living who reaches it, until its seats are full. A companion or one of the Stranded takes a seat like anyone else, but never one a survivor within sight of the door could still take: the people of the records board last. Where a way out checks, it checks at the door, and whoever it turns back stays on the ground.
 
 Seats are judged at departure, not at boarding. A survivor aboard whose Mark turns black before the way out leaves has crossed the Threshold in a seat, and the Turn comes twenty to forty seconds later, among everyone else aboard. Where a way out checks, the check acts again: the crew throws them out, the scanner opens the door and sounds, and the seat is open. Where it does not, the living aboard must decide, in the Last Breaths, whether to put them off, put them down, or stay beside them through the Turn. A Turned body cannot ride. If the Turn completes aboard, the thing it makes is thrown out at departure and the seat leaves empty. A Turned that kept its mind lands where the way out left it and goes on playing; one without a mind is Lost.
 
@@ -1478,7 +1528,7 @@ Most objectives are announced in ΜΝΗΜΗ's public voice, to anyone who can he
 | **TRANSPORT** | Carry something across the map |
 | **ENDURE** | Remain inside a dangerous zone for a set time |
 
-Objectives appear, change, and disappear. Each one feeds the session's completion, and many of them are also Missions on someone's road. ΜΝΗΜΗ's objectives never lie, but they never promise safety.
+The first public objectives of a Dead Drop are announced within its first five minutes, at least one in or beside every region where survivors woke, so that no one begins a night with nothing to do but walk. Objectives appear, change, and disappear. Each one feeds the session's completion, and many of them are also Missions on someone's road. ΜΝΗΜΗ's objectives never lie, but they never promise safety.
 
 In Dead Drop, whoever completes a public objective learns something no one else does. Every objective is finished at something that keeps a record, a terminal, a radio, a switchboard, a ledger on a desk, and the moment it is finished that record shows one of the ways out ΜΝΗΜΗ has built for tonight and whether she will open it. It is written in the world, not spoken: a clean survivor can read it, and so can whoever is standing beside them. Before the light rises, doing the night's work is the only way to know where the night ends.
 
@@ -1499,7 +1549,7 @@ Restrictions do not just add difficulty. They invalidate plans.
 
 ### Puzzles
 
-The places ΜΝΗΜΗ rebuilds were full of locks never meant for keys alone: statues that open passages, medallions that fit only one pedestal, panels switched in the right order, dials hidden behind paintings. She rebuilds them all. In a Dead Drop, the R.P.D. is complete, from the lobby to the underground, and its way down still opens only for whoever brings the three medallions to the goddess in the main hall. The castle's halls still answer to their emblems, their swords, and their clocks.
+The places ΜΝΗΜΗ rebuilds were full of locks never meant for keys alone: statues that open passages, medallions that fit only one pedestal, panels switched in the right order, dials hidden behind paintings. She rebuilds them all. In a Dead Drop, the R.P.D. is complete, from the lobby to the underground, and on any night its puzzle is live, its way down opens only for whoever brings the three medallions to the goddess in the main hall. The castle's halls still answer to their emblems, their swords, and their clocks.
 
 Puzzles do three things.
 
@@ -1508,6 +1558,8 @@ Puzzles do three things.
 - **They guard the vaults.**
 
 **No puzzle can be learned by heart.** ΜΝΗΜΗ keeps the shape of every puzzle exactly as the records hold it and changes its answer every session. The clue to every answer is always somewhere in the world: in a memo, a painting, a diary, a scratch on a wall.
+
+**Not every lock, every night.** At Assembly ΜΝΗΜΗ decides which of a map's puzzles are live tonight, usually about half. The rest are found as the night left them: forced open by the dead, jammed, or behind a collapse, and a survivor who knows the map has to find out which before they plan around it. A vault's puzzle is always live. A puzzle that stands on the only road to a way out she has opened is never sealed: it is live, or it is open.
 
 **Some puzzles need more than one pair of hands.** Two levers on opposite sides of a hall pulled together. A pressure plate that holds a door only while someone stands on it, on the far side. A code read aloud in one room and typed in another. These were built for two people who trusted each other, and in a Dead Drop the two are often strangers. A Solo survivor who finds one can find a companion, find a stranger and talk, or walk away.
 
@@ -1982,7 +2034,7 @@ Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 200
 - **Threads.** Every person of the records follows a **thread**: the places the records took them, in the order they went, toward what they wanted. A thread is played, not shown. The person walks it in the world, among the survivors, at the speed of anyone, and anything can happen to them on it. Nothing in a story night is a cutscene, except the few seconds of a Moment (below).
 - **Beats.** A **beat** is a moment the records hold on a thread: Brad Vickers at the R.P.D. gate, Mikhail Victor's last stand, Kendo's shop falling. A beat happens only when everything it needs is in place: its people alive and where it happens, in the act it belongs to. Survivors can watch it, join it, or stop it. ΜΝΗΜΗ never forces one. A beat that cannot happen does not happen, and the night goes on without it.
 - **Found on their thread.** The records put their people in trouble often, and every trouble is a chance to help. A person helped on their thread can be asked along, under every companion rule. Taken along, they bring their thread with them: they ask to go where it leads, and its beats can still happen around them. Their survivor decides. A companion refused stays with their survivor, unless the records say they would go anyway.
-- **What ΜΝΗΜΗ decides.** At Assembly she decides who is placed and which account each follows, where each thread begins among the places the records allow, which beats the night can hold, and how early or late in its act each thread runs. During the night she directs as always (Section 09). She never moves a beat out of its act, and she moves a person only through the world.
+- **What ΜΝΗΜΗ decides.** At Assembly she decides who is placed and which account each follows, where each thread begins among the places the records allow, which beats the night can hold, and how early or late in its act each thread runs. A file that comes back to the same map does not find its threads beginning in the same places it found them last time. During the night she directs as always (Section 09). She never moves a beat out of its act, and she moves a person only through the world.
 - **What the survivors change.** Everything else. A survivor can pull Brad Vickers away from the gate, kill Nicholai Ginovaef before he betrays, take the key someone's thread needed, or bring down the street it runs along. When a thread breaks, its person does not stop. They do what their records say they would do with the world as it now is: they find another way to what they want, and meet whoever is on it. That is how the people of the records meet in ways the records never saw. Leon Kennedy, cut off from the R.P.D. by a collapse, runs into Jill Valentine in Uptown, and into what is hunting her.
 - **Arrivals.** People the records bring in from outside arrive when their act opens, by the road the records gave them. ΜΝΗΜΗ places them, and whatever they arrive in, on that road before the waking, inside her world but beyond every waking point (Section 09, First Law).
 - **Infections of the records.** Some people of the records carry an infection because their records gave it to them: Ashley Graham's Plaga, Jill Valentine's T-Virus from the Nemesis, Marvin Branagh's bite. Such an infection does not run on the clock. It moves only with its person's thread, at the points the table below gives, and holds between them; wounds, appetites, and Surges do not quicken it. It can still be cured by whatever cures it in the night. If no cure has come by the end the records gave it, the person turns or dies there. An infection the night gives them that their records never did, a stray bite or a needle, runs on the clock like anyone's, and because the first infection keeps the body (Section 10), a person infected that way is off their records and never takes the one their records would have given.
@@ -2288,6 +2340,7 @@ Dead Drop has no icons. No name tags, no markers over teammates, no radar, no pi
 - **Light.** Amber is Elpis. Red is a strain. Rotors with no light are the parasite. White columns are ways out.
 - **Marks.** A bare neck means someone clean, or someone bitten in the last few minutes whose pinprick you missed. A clean survivor has the most to lose.
 - **Noise from puzzles.** A grinding stone, a bell, a heavy door rolling open: something is now open.
+- **Maps on the walls.** Every district holds boards that show it: a bus-stop map, a fire-escape plan, a park sign, a subway diagram. They are read where they hang and never carried. A paper map of a district is rarer, and fills a pocket.
 
 #### Winning
 
@@ -2952,7 +3005,7 @@ Every online session runs on a dedicated server, and ΜΝΗΜΗ runs on it. The 
 
 ### Matchmaking
 
-Dead Drop matches by region and by kind of night, Solo or Squad (Section 20), and the game opens with three regions. A night waits up to two minutes for players alone. After that, ΜΝΗΜΗ completes it with Echoes, up to a quarter of its survivors and never inside a player's squad (Section 23). No night starts with fewer than forty survivors in all, or sixty-four in the Valley. When a queue stays short even then, neighbouring regions merge.
+Dead Drop matches by region and by kind of night, Solo or Squad (Section 20), and the game opens with three regions. Players who are friends, who were in a party together in the last hour, or who play from the same network are never put in the same Solo night. A night waits up to two minutes for players alone. After that, ΜΝΗΜΗ completes it with Echoes, up to a quarter of its survivors and never inside a player's squad (Section 23). No night starts with fewer than forty survivors in all, or sixty-four in the Valley. When a queue stays short even then, neighbouring regions merge.
 
 ### Echoes, in Practice
 
@@ -2990,6 +3043,12 @@ None of it changes how a session plays. It is the fiction's face of what every s
 ### Late Nights, in Practice
 
 The seed is run on the server at Assembly, the way the server runs the distant dead: coarsely, a beat at a time, each resolved from what its people want, carry, and face, by the rules a live night would apply. It takes seconds, and its result is a state of the world: who lives and where, what is open, what lies where. Each beat is written with its possible outcomes, as a live scene is written with its breaks, and each outcome comes with its set dressing: bodies, damage, notes. Only the outcomes and the encounters are built, never the scenes, so a Late Night needs no branches performed for whoever arrives and no threads walked among the survivors. That is why it costs less than a story night.
+
+### The Director, in Practice
+
+ΜΝΗΜΗ's planning is a director system of a kind games already use, built larger. Valve's *Left 4 Dead* (2008) ran an AI director that read how hard its players were being pressed and paced the dead around them. ΜΝΗΜΗ does the same for a whole night and a hundred survivors. On the server, a planner runs the session forward at a coarse level, the way the distant dead are run (Servers, above), and scores the outcomes it sees against her goals: no empty stretches, no repeated nights for a file, no easy farm, no camped door. It then picks actions from her fixed set of tools, each checked against the Laws before it is allowed. The patterns it forecasts from are the telemetry of real nights, the same data the Echoes are tuned from, retuned each season. Her planner uses a file's history only to keep its nights from repeating, never to decide how hard its night will be or what falls on it; the Second Law is a rule in the code, not only in the fiction.
+
+The planner also learns from players leaving early (Section 09, When They Leave). Every early exit is logged with its minute, map, region, and the survivor's recent state, and classified automatically by what preceded it. A pattern changes the director's pacing only after it repeats across thousands of nights, and each change ships as a tuning of the director's own parameters, run against a share of nights first and kept only if that kind of exit falls. The planner's tuning can never touch the rules of a mode, the Reserve, the seats, drop odds, item placement value, Ribbons, or anything sold, and nothing about one player's exits ever changes that player's own nights. When exits cluster by the clock rather than by place, the director flags it, and the length of a night becomes a decision for the people who run the Service, not for the planner. Leaving a match is never penalized beyond what Section 13 describes.
 
 ### Moments, in Practice
 
