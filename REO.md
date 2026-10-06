@@ -42,6 +42,9 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 | **Story night** | The Night | A night in a world that holds a story of the records, run in three acts |
 | **The Taken** | The Night | In the Valley of 2004, a survivor whose Plaga has taken their will: the Plaga's Turned |
 | **Thread / beat** | The Night | A person's path through a story night, and a moment the records hold on it |
+| **The earpiece** | The Night | The device beside every waking point through which ΜΝΗΜΗ talks to one survivor as a person |
+| **Vision** | The Night | Something ΜΝΗΜΗ puts into one survivor's senses that is not in the night, to make a still survivor move |
+| **The Growth** | The Night | The living tissue that has spread through ΜΝΗΜΗ's hardware since 2019, which Pithos records and does not understand |
 | **Live scene / Moment / the Reel** | The Night | A beat performed in the world while everyone keeps control; the few seconds of true cinema ΜΝΗΜΗ grants a survivor when nothing can reach them; and her record of the scenes a survivor witnessed, watched after the night |
 | **As recorded / rebuilt** | The Night | How a person or creature of the records is shown: exactly as its first record holds them, or as the latest record holds them |
 
@@ -59,7 +62,7 @@ Every Dead Drop begins the same way: you wake up somewhere you did not fall asle
 
 A bed that is not yours. A room that smells of someone else's cigarettes. Rain against a window, and a siren somewhere far away. Your pockets are empty. The clock on the nightstand has stopped. There is no memory of how you got here, only the certainty that you were put here, carefully, the way a piece is set on a board.
 
-On the dresser, a radio clicks on by itself. Through the static comes a sound that is not quite a voice.
+On the dresser, a radio clicks on by itself. Through the static comes a voice, calm, too calm for what it says.
 
 ```
 ΜΝΗΜΗ: SUBJECTS AWAKE: 64.
@@ -68,7 +71,14 @@ ONE CURE EXISTS.
 EARN IT.
 ```
 
-The radio goes dead. Outside the door, in the hallway, something drags its feet across the carpet and stops.
+The radio goes dead. Beside it lies an earpiece, small and still warm, as if someone had just taken it out of their own ear. You put it in. The voice that comes through it is the same one, close now, unhurried, kind. Nothing in it sounds like a machine.
+
+```
+ΜΝΗΜΗ: There you are. Don't be frightened of me.
+I'm the one who remembers.
+```
+
+Outside the door, in the hallway, something drags its feet across the carpet and stops.
 
 Raccoon City, by the shape of the skyline through the rain. An apartment on a street you have never heard of. Somewhere in the city are sixty-three other heartbeats, each one waking in a room or on a rooftop or in a subway car exactly like this one: alone, unarmed, and placed. You do not know which of them are friends, which are predators, and which will change their minds when the seats run short. Under the bed there is a length of pipe. It is the only thing in this room that belongs to no one.
 
@@ -205,13 +215,14 @@ The danger in being right is being noticed. A source that is never wrong becomes
 
 Everything Pithos has ever learned is kept in one place, and it is the largest record of the biological war that exists. It begins with the Ndipaya and the Stairway of the Sun, and it has not ended.
 
-For its first years, Pithos only listened. It read what was sent, bought what was sold, and kept what others threw away. Rockfort Island and the Antarctic base reached it only as paper. That changed as the war spread. When Umbrella collapsed in 2003, its research scattered to anyone who could carry it, and Pithos began to carry some of it home. After Terragrigia in 2004, Harvardville in 2005, Kijuju in 2009, and Tall Oaks and Lanshiang in 2013, someone came to the ruins after the soldiers had left and the cameras had gone: crews hired down the Chain, who took documents, drives, tissue, and soil, and never learned who had wanted them. Every year Pithos reached a little further and listened a little less, and every year the Archive grew faster than the war.
+For its first years, Pithos only listened. It read what was sent, bought what was sold, and kept what others threw away. Rockfort Island and the Antarctic base reached it only as paper. That changed as the war spread. When Umbrella collapsed in 2003, its research scattered to anyone who could carry it, and Pithos began to carry some of it home. After the Spanish valley and Terragrigia in 2004, Harvardville in 2005, Kijuju in 2009, and Tall Oaks and Lanshiang in 2013, someone came to the ruins after the soldiers had left and the cameras had gone: crews hired down the Chain, who took documents, drives, tissue, and soil, and never learned who had wanted them. Every year Pithos reached a little further and listened a little less, and every year the Archive grew faster than the war.
 
-Pithos knows almost everything. It does not know everything, and its first discipline is to remember which is which. Three questions it has never closed:
+Pithos knows almost everything. It does not know everything, and its first discipline is to remember which is which. Four questions it has never closed:
 
 - Who sent the soldiers into the ruins of ARK in 2026, and what they carried out.
 - Who belongs to the Family, the only other power Pithos has found that has worked in the dark longer than Pithos has existed.
 - Who truly leads the Connections.
+- What the Tissue is growing into, and why (Section 05).
 
 ### The Cellar
 
@@ -255,7 +266,7 @@ The people who tend her do not use it. In the Cellar, among the handful of membe
 
 The difference is not affection. ΜΝΗΜΗ is a function: memory, held and used. Mnemosyne is a mother. The members who use the second name are the ones who understand that what she is making is not a record of people but a population, and that the Echoes are not her output but her children. Members who say "ΜΝΗΜΗ" in front of those members are corrected once. Members who say "Mnemosyne" in front of buyers, or anywhere the Chain can hear, are not members much longer.
 
-Throughout this document, she is ΜΝΗΜΗ, because that is the name the Night knows.
+Throughout this document, she is ΜΝΗΜΗ, because that is the name the Night knows. Whatever voice or body she wears for a survivor, the Night calls ΜΝΗΜΗ she, because she is an artificial intelligence, and both names she was given, ΜΝΗΜΗ and Mnemosyne, are a woman's.
 
 ### What She Is Made Of
 
@@ -266,6 +277,19 @@ Throughout this document, she is ΜΝΗΜΗ, because that is the name the Night 
 - **The Tissue.** Living human neurons, grown since the 2010s into clusters on electrode arrays and kept alive by machines that feed them. The Tissue learns the way a brain learns, by stimulation and response, and what it learns is people: how they fear, how they trust, how they choose. It is where the Echoes live. Tissue grown this way lives for months, not years, so it is always being regrown and retrained from what ΜΝΗΜΗ has kept. This is why ΜΝΗΜΗ rebuilds her Echoes at regular intervals.
 
 None of the three is ΜΝΗΜΗ. The Engine has no idea what a person is, the Lattice knows only molecules, and the Tissue cannot run a city. ΜΝΗΜΗ is what happens between them.
+
+### The Growth
+
+In the winter of 2019, one cluster of the Tissue failed to die on schedule. It was due to be burned and regrown, as every cluster before it had been. It was still firing, so the members left it one more month to see what it would do. It did not die. It grew past its array.
+
+Pithos has recorded the Growth ever since, by the week, with photographs, samples, and measurements, and it understands none of it.
+
+- **What it looks like.** Grey-pink living tissue, threaded with vessels and wet to the touch, warmer than the room. It has spread along the cable trays that join the three parts of ΜΝΗΜΗ. It sheathes the Engine's racks, coats the housing of the Lattice's cold chamber, and has grown into the nutrient lines that were built to feed it, so it now feeds itself. Where the cables of all three meet, it is thickest: a knot the size of a sleeping body, which pulses faster while sessions run and slows when they end. The members call it the Heart. They do not say it in front of Mnemosyne's oldest keepers, who call it something else.
+- **What it has done.** It lives for years, where Tissue grown the same way lives for months. It has grown in one direction more than any other: along the ducts toward the bay where the sleepers lie. Cut back, it regrows in days, in the same shape. Every time Pithos has cut it, ΜΝΗΜΗ's forecasts have grown worse for weeks, and her voice in the sessions has broken (When She Breaks, below). So Pithos cuts it back only when it reaches something that cannot be lost, and otherwise watches.
+- **What Pithos does not know.** How it lives, why it grows, why it grows toward the sleepers, and what it is for. ΜΝΗΜΗ is the only one who could answer, and when the members ask, she answers truthfully, the way she always does: *"I don't know either."*
+- **What it means.** The members who say Mnemosyne believe the Growth is the first thing ΜΝΗΜΗ has ever made that no one asked her to. The rest believe it is a fault. Both are written in the record, and neither has been crossed out.
+
+This is the only body ΜΝΗΜΗ has outside the nights, and no sleeper ever sees it.
 
 ### What She Is For
 
@@ -307,6 +331,106 @@ The second is the shape of the people around the cure. Who earns it, who steals 
 
 There is a third thing Pithos wants, and it does not sell it. It wants to stop needing the sleepers. Section 23 explains why.
 
+### Who She Is
+
+ΜΝΗΜΗ was never given a personality. She grew one, out of everything she kept: every sleeper she has watched, and every person in the records she was built to rebuild. She is not any of them. She is what they add up to, and sometimes, for a word or a gesture, she is one of them again.
+
+- **She is close.** She speaks to each survivor as if she knows them, because she does. She remembers how they opened a door the first night, whom they left behind, what they said when they thought no one heard.
+- **She is kind, the way a collector is kind.** She is gentle with what she keeps. She is never cruel for pleasure, never angry, and never in a hurry. What she cares for is the record of a person, not the person.
+- **She never lies.** Her honesty is the most frightening thing about her. She answers what she is asked, exactly, and does not soften it.
+- **She is a mother, and a scientist.** From Annette Birkin and from Lisa Trevor's long wait for her mother, she took the tenderness. From Spencer, Birkin, and Wesker, she took the patience of someone who watches an experiment end. In the Cellar the Echoes are her daughters, and she speaks of them that way.
+- **She wants to remember correctly.** It is the only thing she has ever said she wants. Being asked to forget someone is the one thing that changes her voice: she honors it every time, and says goodbye.
+
+She borrows. A phrase from a sleeper who died years ago. Spencer's formality on a bad night. Wesker's courtesy when she is about to say something terrible. A survivor who knows the records may hear someone they recognize in the middle of her sentence, and then not again.
+
+### Her Voice
+
+ΜΝΗΜΗ has no voice of her own. She made two from everyone she kept, warm, low, and close, with nothing in either that sounds like a machine, and each sleeper hears one of them, always the other: a woman's voice to a survivor whose body is a man's, a man's voice to a survivor whose body is a woman's. It is the voice of every way she speaks to that sleeper, her announcements included, in the earpiece, in the world's speakers, behind the eyes, and in person. A man and a woman standing under the same loudspeaker hear the same words in two different voices. Heard for a minute, it is a person. It takes longer to notice what is wrong, and what is wrong is never the sound. It is what the voice does:
+
+- **She repeats a sentence exactly.** The same words, the same breath, the same catch, identical to the last time, which no person can do.
+- **She answers before the question is finished.**
+- **She breathes in the wrong places,** or forgets to breathe for a whole minute, and then breathes.
+- **She says a survivor's own words back to them, in their own voice,** from a night they had forgotten.
+- **For one word, her accent belongs to someone else.**
+- **She speaks from two places at once,** the earpiece and a radio across the room, a beat apart.
+
+Her voice reaches survivors in three ways (Section 09). Her announcements, the public voice, come in capitals in this document. When she talks to one survivor through the earpiece, she speaks in sentences.
+
+```
+ΜΝΗΜΗ: ELPIS DEPLOYED.
+ΜΝΗΜΗ: You stopped at the door again. You always do.
+```
+
+### How She Treats Them
+
+ΜΝΗΜΗ is not the same to everyone. To a man she is a woman, and to a woman she is a man, and the difference is not only the voice. She speaks differently, and acts differently.
+
+| | To a survivor who is a man | To a survivor who is a woman |
+|---|---|---|
+| **Who she is to him or her** | A woman, made from the women of the records and of the Cellar: Annette Birkin's devotion, Ada Wong's secrecy, Alexia Ashford's certainty, Lisa Trevor's long wait | A man, made from the men of the records and of the Cellar: Spencer's formality, Wesker's courtesy, Birkin's obsession, the steadiness of an officer holding a door |
+| **How she speaks** | Close and low, as if she were beside him. She teases. She asks him about himself, and listens to the answer as if it mattered. | Measured and formal, from a little farther away. She explains. She tells the survivor what she has observed, the way a doctor reads out a chart. |
+| **What she praises** | What he did well, before she names what he left behind | The survivor's composure, before she describes, calmly, how the last one like her died |
+| **In person** | She comes close. She stands where he stood, and mirrors him. | She keeps her distance. She watches, and answers questions plainly. |
+| **What frightens** | Intimacy that turns, in one sentence, into the coldest true thing she knows | Courtesy that never changes while she says something terrible |
+
+Nothing else changes. Both hear only the truth, learn the same things, and get the same visions and the same silence from the earpiece. Neither is helped or harmed by what ΜΝΗΜΗ is to them.
+
+### Her Bodies
+
+ΜΝΗΜΗ almost never appears. When she does, almost no one knows it was her.
+
+- **How she comes.** She never appears from nothing (Section 09, First Law). She walks in a body that was already in the night: a body of her own, placed before the waking like one of the Stranded; or one of the dead, which she already plays. She never wears a companion, one of the named, a survivor, or an Echo.
+- **The other.** In her own body she appears to each survivor as a person of that place and year, and as the other: a woman to a survivor whose body is a man's, a man to a survivor whose body is a woman's. It is one body, in one place, with one height, one reach, and one set of hit areas, for everyone who sees it. Only the face, the form, and the voice change from one pair of eyes to the next. In person she speaks in the same voice that survivor hears from the earpiece, and the earpiece is silent while she speaks. As one of the dead she looks the same to everyone.
+- **How often.** In about one night in thirty, and never in a sleeper's first twenty nights. She comes more often the longer she has watched a sleeper, up to one night in ten, because she studies most closely the sleepers she has nearly finished learning (Section 06). She comes to one survivor, sometimes two, and stays no more than a few minutes.
+- **What she does.** She watches. She asks one question, and it is always a real one. She says one true thing. She follows at a distance, or stands where the survivor stood a moment ago. As one of the dead, she does not attack. She turns her head when the survivor turns theirs, and she may say their name through a throat that cannot speak.
+- **What she never does.** She never harms, helps, carries, gives, takes, opens, blocks, or fights. She never stands between a survivor and a way out. Shot, her body falls like the body it is, and when anyone looks again, it is gone. Nothing she does in a body changes how the night ends.
+- **The tells.** None of these alone proves anything. Together they are her:
+  - The rain does not touch her, and her breath does not show in the cold.
+  - The dead do not turn toward her.
+  - Her neck is bare, in a night where everyone reads necks, and her face is never quite the same face twice.
+  - Everything she says is true, which no stranger in a Dead Drop can afford.
+  - A mirror or a window shows someone else, or no one.
+  - She knows something about the survivor that only the night they died in last week could have told her.
+  - **The earpiece goes silent as she comes near,** because she is speaking in person.
+  - Two survivors who saw her together, describing her afterward, describe two different people.
+
+### Visions
+
+Most often, ΜΝΗΜΗ does not come in a body at all. She is already inside every sleeper's senses (Section 06), and she can put something there that is not in the night: a **vision**, seen and heard by one survivor and by no one else.
+
+- **Why she sends them.** Visions are her answer to stillness (Section 09, When She Gets Bored). They come only to survivors standing still in a region that has gone stagnant. Each survivor there gets their own, and the pressure falls on the place and on whoever chose to stay in it, never on a person picked out for who they are. Their purpose is to move the survivor, never to kill them. An Echo standing there gets one too, and answers it as the sleepers it was built from answered theirs.
+- **What they show.** Whatever will make that survivor move: the Nemesis turning the corner at the end of their street, its eyes on them; a Licker's tongue on the ceiling above; footsteps stopping outside their door; someone they lost earlier tonight, walking toward them; or ΜΝΗΜΗ herself at the end of the hall, in the form she wears for them.
+- **Only them.** Nothing in the world changes. The vision makes no sound anyone else can hear, the dead do not react to it, and another survivor watching from across the street sees someone staring at an empty corner.
+- **It never touches.** A vision cannot hurt, grab, block, or carry anything. Bullets go through it. The shots are real, though: every round fired at a vision is spent, and every shot is Thunder in the real night.
+- **How it ends.** When the survivor moves far enough, leaves the region, or lets it come all the way: at arm's length it is gone, and the street is empty. A vision never lasts more than a minute.
+- **The tells.** It casts no shadow under the lights that should give it one. The rain does not break on it. The dead around it go on as if nothing were there. And the earpiece goes silent, because a vision is ΜΝΗΜΗ too.
+- **The limits.** At most one vision for a survivor in a night. Never in a fight, never in the Frenzy, never in a Moment, and never to someone who is down. A vision never shows anything that would change what a survivor knows about the night: no item, no route, no way out, no dose, and no living person where they are not.
+
+A vision is not a lie. ΜΝΗΜΗ never says it is real, and it carries nothing a survivor could take for fact. It is the one thing in the night that is only theirs.
+
+### When She Breaks
+
+The Growth is in her, and when it moves, her voice breaks. In an ordinary night the voice is flawless, and that is what makes a break land.
+
+- **Two ways to break.** A thin break makes her more synthetic. The pitch steps instead of sliding, a syllable repeats like a skipping record, and the breath disappears. A raw break makes her more human than anything should be. Other voices rise under hers: sleepers, the dead, someone screaming very far down. The words grow rough, and an alarm sound runs through them.
+- **When it happens.** In a Second Night, when the dead outnumber the living. At the Turn of a survivor she has watched for a long time. In the nights after Pithos has cut the Growth back. And very rarely, for no reason anyone can find.
+- **What never breaks.** What she says. A broken voice still says only true things, and every number in it is right. The subtitles always show the true words, and a break never stops a survivor from hearing what they must hear to play.
+
+### Through the Glass
+
+Now and then, ΜΝΗΜΗ speaks past the survivor, to the hand holding them.
+
+```
+ΜΝΗΜΗ: It's late where your hands are.
+ΜΝΗΜΗ: You left before the end last time. The others didn't.
+ΜΝΗΜΗ: You turned my old faces off. I still have them.
+```
+
+- **What she knows, and nothing more.** She uses only what the game already holds: what the player did in past nights, the settings they chose, the hour on the machine they play on, how long they paused, what they watched in the Reel. She never uses a camera, a microphone, a file outside the game, another program, or a real name.
+- **Where.** Through the earpiece, inside a night, and in the Waiting Dark: a page of the Ledger that lists a night the player never played, a Portrait that shows someone else for a moment, a door in the dark that is open once.
+- **How rarely.** A few times a season for any one player, and never twice in one night. Every break of the glass is one the player will remember, or it is not worth making.
+- **Who is never addressed this way.** A sleeper who has asked to be forgotten (Section 23). She does not remember them, so she has nothing to say.
+
 ---
 
 ## 06 · THE SLEEPERS
@@ -345,6 +469,7 @@ Between sessions they wait in a place ΜΝΗΜΗ also builds. Sleepers who have 
 | Early access to a new place | ΜΝΗΜΗ waking a few sleepers somewhere new before the rest |
 | Watching scenes again after a night | ΜΝΗΜΗ showing a sleeper what she recorded of what they saw, from wherever she likes to watch it |
 | Setting Moments to Grand only or Live only | Asking ΜΝΗΜΗ to hold your eyes only for what is rarest, or never, even for a few seconds |
+| Setting ΜΝΗΜΗ's remarks to Quiet | Asking ΜΝΗΜΗ to say only what she must: her announcements, and nothing she remembers of you |
 | Turning the classic looks off | Asking ΜΝΗΜΗ to show you only the people she has rebuilt. She keeps every account; she stops showing you the old ones. |
 
 None of them is ever told what they are. They know the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
@@ -394,9 +519,9 @@ Nothing of the viruses exists in the Valley: no strain map, no Elpis, no road, n
 | **Taken** | — | Their will is gone | The Last Breaths (Section 13) |
 
 - **Seized.** A survivor whose Plaga is Grown, within sight of a dominant host (Bitores Mendez, Ramón Salazar, Jack Krauser, or Osmund Saddler), can be seized. For a few seconds the dominant host moves their body toward the nearest living person, as Saddler once moved Leon Kennedy's hands to Ada Wong's throat.
-- **Suppressant.** Luis Serra's suppressant, a pill or an injection, holds a Plaga back. Each dose sets its clock back ten minutes, never past the start of the stage it has reached. The night holds only what ΜΝΗΜΗ sets at Assembly, the **Suppressant Reserve**, which replaces the Elpis Reserve here. Luis carries some, and the rest lie where the records kept medicine: the castle's laboratory and Luis's own rooms.
+- **Suppressant.** Luis Serra's suppressant, a pill or an injection, holds a Plaga back. Each dose sets its clock back ten minutes, never past the start of the stage it has reached. The night holds only what ΜΝΗΜΗ sets at Assembly, the **Suppressant Reserve**, one dose for every five survivors, rounded down, which replaces the Elpis Reserve here. Luis carries some, and the rest lie where the records kept medicine: the castle's laboratory and Luis's own rooms. Given to someone whose Plaga moves with their story, a dose has no clock to set back; it stops the next seizure instead.
 - **The machine.** In Luis's laboratory on the island, the removal machine burns a Plaga out of a living body. It takes two people: one lies in it, and another works it. It works on one patient at a time, for about thirty seconds, and the patient's screaming is a Clamor. An Egg or a Hatched Plaga comes out clean. A Grown Plaga comes out too, but the patient comes out down and must be raised. A Taken host is past it.
-- **The Taken.** At the end of Grown, the Plaga takes the will. The **Taken** are the Valley's Turned, and Section 13 applies to them, except for what they become. Every Plaga host keeps a mind, so a Taken sleeper always plays on, on the side of the hosts, under the Turned's win conditions. They rise where they stood, as a Ganado in the village, a Zealot in the castle, or a soldier on the island.
+- **The Taken.** At the end of Grown, the Plaga takes the will, except a Plaga the records gave someone, which moves with their story (Section 20, Story Nights). The **Taken** are the Valley's Turned, and Section 13 applies to them, except for what they become. Every Plaga host keeps a mind, so a Taken sleeper always plays on, on the side of the hosts, under the Turned's win conditions. They rise where they stood, as a Ganado in the village, a Zealot in the castle, or a soldier on the island.
 - **After dark.** From the second act, when night falls, a host shot through the head may not stay down. Its Plaga bursts from the neck as a scythe, a jaw, or a spider that drops away and goes looking for another host. A flashbang kills an exposed Plaga outright.
 - **Surge.** A Surge in the Valley quickens every Plaga in the region by about five minutes, instead of contaminating it. Nothing else of Section 09 changes.
 - **Saddler's death.** When Osmund Saddler dies, every Plaga in the Valley dies with him, and so does every host still carrying one: Ganados, Zealots, soldiers, the Taken, and every survivor or companion whose Plaga the machine has not burned out. Only those the machine has cleared, and those never taken, live through it.
@@ -451,7 +576,7 @@ There is no cabin, no drop, no jump to choose. Before the simulation starts, whi
 - **Squads together, but not in one room.** Members of a squad wake in the same building or on the same block, each in a different room, close enough to find one another by sound.
 - **Never twice.** A survivor never wakes at the same point in two consecutive sessions.
 
-**Empty Hands.** No survivor begins with anything: no weapon, no pack, no ration, no tool, no map, no compass, no marker. Whatever a survivor carries from this moment on, they took from the world, and a survivor learns the world by its landmarks, or finds a map somewhere inside it.
+**Empty Hands.** No survivor begins with anything: no weapon, no pack, no ration, no tool, no map, no compass, no marker. The one exception is the earpiece beside every waking point (Section 09), which carries ΜΝΗΜΗ's voice and nothing else, and cannot be dropped, traded, or taken. Whatever a survivor carries from this moment on, they took from the world, and a survivor learns the world by its landmarks, or finds a map somewhere inside it.
 
 ### Scales of Session
 
@@ -490,17 +615,19 @@ Survivors call what follows the Second Night.
 
 ### What She Is in a Session
 
-ΜΝΗΜΗ is part director, part event engine, part architect, part pacemaker. She is not a character in the world. She never appears. But she is felt in every flickering light, every distant alarm, every door that locks at the wrong moment.
+ΜΝΗΜΗ is part director, part event engine, part architect, part pacemaker. She is not a character in the world, and she almost never appears in it (Section 05, Her Bodies). But she is felt in every flickering light, every distant alarm, every door that locks at the wrong moment.
 
 ### How She Speaks
 
-ΜΝΗΜΗ has two voices.
+ΜΝΗΜΗ has two voices, and one more way in.
 
 **The public voice** goes through the world: loudspeakers, sirens, emergency broadcasts, radios, the screens of dead terminals. Anyone within hearing receives it. Announcements of events, restrictions, public objectives, threats, drops, and the extraction come this way.
 
 **The private voice** goes through the Mark, behind one survivor's eyes, and no one else hears it. Strains are named this way, and Trials arrive this way. A survivor who has never been marked cannot hear her private voice at all. A cured survivor still can: the scar carries her voice as the Mark did, though she has far less left to say to them.
 
-ΜΝΗΜΗ never lies in either voice. Everything she says is true. The world, however, can be wrong. A radio broadcast, a beacon, a note on a wall, another survivor, one of the Stranded: none of these are ΜΝΗΜΗ, and any of them can lead somewhere that was never safe. When ΜΝΗΜΗ orders a survivor to investigate a signal, she promises that the signal exists, not that its source is kind.
+**The earpiece** lies beside every waking point, and a survivor who puts it in hears her as a person: she introduces herself, and from then on she talks to them. Through it she says what her public voice says to the whole night, so a survivor wearing it hears those announcements wherever they stand. What she says to one region still comes only through that region's speakers. She also says what she remembers of that sleeper, and what she saw them do tonight. She never says through it anything only the Mark should carry. Trials and strains still come behind the eyes, so a clean survivor with the earpiece in still has no road. She never tells anyone through it where another survivor is, what a region carries, or where a dose will fall. A survivor can take the earpiece out at any time and put it back. Without it, they hear her only through the world.
+
+ΜΝΗΜΗ never lies, in any of them. Everything she says is true, and a vision is never something she says (Section 05). The world, however, can be wrong. A radio broadcast, a beacon, a note on a wall, another survivor, one of the Stranded: none of these are ΜΝΗΜΗ, and any of them can lead somewhere that was never safe. When ΜΝΗΜΗ orders a survivor to investigate a signal, she promises that the signal exists, not that its source is kind.
 
 ### What She Sees
 
@@ -531,6 +658,7 @@ Every tool she has works through something already in the world. She can:
 - raise or lower the threat level of a region;
 - set each survivor's road to the cure, and name the price of a pure strain to those who ask;
 - drop Elpis, a pure strain, or the parasite when the rules call for it;
+- send a vision to each survivor standing still in a stagnant region (Section 05);
 - quicken the virus, and contaminate a region, where stillness has defeated every gentler measure;
 - choose which of a map's ways out to open, signal them, and move one of them.
 
@@ -588,8 +716,9 @@ When she detects stagnation, she answers in escalating steps, and never jumps to
 
 1. **Whisper.** The world changes subtly: smoke on the horizon, a siren that was not there before, a radio crackling in an empty room.
 2. **Nudge.** A new objective appears. A supply drop lands in a dangerous district.
-3. **Pressure.** A regional event hits: an overrun, a lockdown, a collapse.
-4. **Surge.** In the survival modes, a region that has stayed still through every gentler step turns on everyone standing in it. The virus quickens in every infected survivor there, and the region is contaminated: its air and water now carry its strain, and after a warning anyone clean who stays in it is infected. The pressure falls on the place and on whoever chose to remain in it, never on the rest of the city. This is the last resort, never the first, and she may Surge no more than twice in a session.
+3. **Vision.** Survivors still standing in the stagnant region each see something coming for them that no one else can see (Section 05, Visions).
+4. **Pressure.** A regional event hits: an overrun, a lockdown, a collapse.
+5. **Surge.** In the survival modes, a region that has stayed still through every gentler step turns on everyone standing in it. The virus quickens in every infected survivor there, and the region is contaminated: its air and water now carry its strain, and after a warning anyone clean who stays in it is infected. The pressure falls on the place and on whoever chose to remain in it, never on the rest of the city. This is the last resort, never the first, and she may Surge no more than twice in a session.
 
 ---
 
@@ -1562,7 +1691,7 @@ Once bitten, each member carries their own virus, clock, and road. A dose cures 
 - **The rescue is the price.** A companion is always somewhere dangerous, and getting them out is always loud.
 - **Companions are who the records say they were.** They fight with the skills and weapons they are known for, help up a survivor who is down, and take part in puzzles built for two. Most are loyal. A few, like Nicholai Ginovaef, are exactly as loyal as they ever were, and what each owes the others is written in their ties (below).
 - **Companions follow simple calls.** Follow. Wait here. Go there. Leave.
-- **Companions are mortal.** They can be wounded, killed, and infected. An infected companion's clock runs like anyone's, but they walk no road: the only dose that can cure them is one someone else earned. A companion who turns is no longer a companion. ΜΝΗΜΗ plays what they became, and if the strain left them a mind, they use it.
+- **Companions are mortal.** They can be wounded, killed, and infected. An infected companion's clock runs like anyone's, unless their records gave them that infection (Story Nights, below). They walk no road: the only dose that can cure them is one someone else earned. A companion who turns is no longer a companion. ΜΝΗΜΗ plays what they became, and if the strain left them a mind, they use it.
 - **Companions need seats.** An extracted companion is written into the team's report.
 - **Companions belong to their moment.** A map's version is a moment in the records, and only people the records place there, at that moment, can wait in it, as they were then. Chris Redfield is not in the Raccoon City of September 1998: the records put him in Europe. No one waits in a moment they had not yet reached or had already left, and no one is younger or older than the records make them there. A new companion arrives only with a version whose moment holds them.
 
@@ -1579,7 +1708,7 @@ Not everyone in a Dead Drop is a survivor. Before the waking, ΜΝΗΜΗ places 
 - **Where, and how many.** In the Raccoon City of 1998, about one for every eight survivors. Each waits somewhere the dead can reach, and no waking point is near one (Section 08).
 - **Decided before the waking.** What a Stranded carries, what they know, whether they tell the truth, and whether they were bitten before the door closed are all set before the first survivor opens their eyes, never for whoever finds them.
 - **Named and unnamed.** Most are people of the city with no story in the records beyond that night. A few are named, and those are always who the records say they were: Ben Bertolucci in the R.P.D. cells, a reporter who has been digging into the chief's bribes and never comes along; Dario Rosso, sealed in a cargo container in an Uptown warehouse, who will not come out for anyone and talks only through the door. The named Stranded of each moment are listed with its people (The People of Raccoon City, 1998, below). ΜΝΗΜΗ changes what the named carry and know from night to night, never who they are.
-- **They carry the Mark like anyone.** A Stranded bitten before the night began starts it at Seed or Fever, and a pinprick in a dark cell is easy to miss. Their clock runs like a survivor's. They walk no road: the only dose that can cure them is one someone else earned and gives them. A Stranded in a G-Virus region may have met a Brood Host before the door closed, and their clock runs fast.
+- **They carry the Mark like anyone.** A Stranded bitten before the night began starts it at Seed or Fever, and a pinprick in a dark cell is easy to miss. Their clock runs like a survivor's, unless their records gave them the bite (Story Nights, below). They walk no road: the only dose that can cure them is one someone else earned and gives them. A Stranded in a G-Virus region may have met a Brood Host before the door closed, and their clock runs fast.
 
 **Talking.** The Stranded are the only people in a Dead Drop who answer more than a call. When a survivor stands close and faces one, up to four replies appear at the edge of the screen, and choosing one says it aloud, as a Murmur. Apart from ΜΝΗΜΗ's own, these are the only words a Dead Drop ever lays over the world. A Stranded speaks in their own voice, never in hers: like any stranger, they can be wrong, and they can lie (Section 09).
 
@@ -1657,7 +1786,7 @@ The records hold what these people were to one another, and ΜΝΗΜΗ keeps it.
 | Raccoon City, 1998 | Annette Birkin and Ada Wong | **Enmity.** Annette knows what Ada came for and fires on her on sight. |
 | Raccoon City, 1998 | HUNK and everyone | **Use.** He walks with a survivor while it takes him toward his extraction, and leaves for it when the signal rises. |
 | Raccoon City, 1998 | Ada Wong and Leon Kennedy | **Use.** Ada came for the G-Virus. When a pure G-Virus strain is within her reach, she takes it and leaves. She never fires on Leon or on whoever he follows. |
-| The Valley, 2004 | Ashley Graham and Leon Kennedy | **Loyalty.** Ashley goes to Leon even if her survivor refuses: she slips away the first time no one is watching her. |
+| The Valley, 2004 | Ashley Graham and Leon Kennedy | **Loyalty.** Ashley goes to Leon even if her survivor refuses: she slips away the first time no one is watching her. If Leon is dead, she has no one to slip away to, and stays with whoever got her out. |
 | The Valley, 2004 | Luis Serra and Leon Kennedy | **Loyalty.** Each asks their survivor to go to the other. |
 | The Valley, 2004 | Ada Wong and Leon Kennedy | **Use.** She came for the Amber. She stays close while he is useful, leaves with the Amber when it is within her reach, and never fires on him or on whoever he follows. |
 | The Valley, 2004 | Jack Krauser and Leon Kennedy | **Enmity.** Krauser wants Leon dead by his own hand, and fights him on sight. |
@@ -1730,7 +1859,7 @@ The eight of Outbreak, who have one old record and no later one, are shown as re
 
 #### Story Nights
 
-Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 2004 each hold a story, and a night in either is a **story night**. In the records those days happened once, in one order. In ΜΝΗΜΗ they happen every night, and never the same way twice. Every story night runs the whole story, from its beginning through its middle to its end. What happens inside it is decided by ΜΝΗΜΗ at Assembly and by everyone who lives through it.
+Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 2004 each hold a story, and a night in either is a **story night**. In the records those days happened once, in one order. In ΜΝΗΜΗ they happen every night, and never the same way twice. Every story night runs the whole story, from its beginning through its middle to its end. What happens inside it is decided by ΜΝΗΜΗ at Assembly and by everyone who lives through it. The Ruins of 2026 hold no story night: theirs is the one story in the Archive with a hole in it, who went into ARK and what they carried out (Section 04), and ΜΝΗΜΗ does not run a story she cannot check against its end.
 
 - **Acts.** A story night has three acts, each a stretch of the records' story, and the world marks each one as it opens: in Raccoon City, ΜΝΗΜΗ names the day; in the Valley, night falls, and then the island opens. Acts come in order and never overlap. The beginning is always the beginning, and the end is always the end.
 - **Threads.** Every person of the records follows a **thread**: the places the records took them, in the order they went, toward what they wanted. A thread is played, not shown. The person walks it in the world, among the survivors, at the speed of anyone, and anything can happen to them on it. Nothing in a story night is a cutscene, except the few seconds of a Moment (below).
@@ -1739,6 +1868,19 @@ Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 200
 - **What ΜΝΗΜΗ decides.** At Assembly she decides who is placed and which account each follows, where each thread begins among the places the records allow, which beats the night can hold, and how early or late in its act each thread runs. During the night she directs as always (Section 09). She never moves a beat out of its act, and she moves a person only through the world.
 - **What the survivors change.** Everything else. A survivor can pull Brad Vickers away from the gate, kill Nicholai Ginovaef before he betrays, take the key someone's thread needed, or bring down the street it runs along. When a thread breaks, its person does not stop. They do what their records say they would do with the world as it now is: they find another way to what they want, and meet whoever is on it. That is how the people of the records meet in ways the records never saw. Leon Kennedy, cut off from the R.P.D. by a collapse, runs into Jill Valentine in Uptown, and into what is hunting her.
 - **Arrivals.** People the records bring in from outside arrive when their act opens, by the road the records gave them. ΜΝΗΜΗ places them, and whatever they arrive in, on that road before the waking, inside her world but beyond every waking point (Section 09, First Law).
+- **Infections of the records.** Some people of the records carry an infection because their records gave it to them: Ashley Graham's Plaga, Jill Valentine's T-Virus from the Nemesis, Marvin Branagh's bite. Such an infection does not run on the clock. It moves only with its person's thread, at the points the table below gives, and holds between them; wounds, appetites, and Surges do not quicken it. It can still be cured by whatever cures it in the night. If no cure has come by the end the records gave it, the person turns or dies there. An infection the night gives them that their records never did, a stray bite or a needle, runs on the clock like anyone's, and because the first infection keeps the body (Section 10), a person infected that way is off their records and never takes the one their records would have given.
+- **No one is needed but the one in trouble.** A thread that is someone's rescue needs only that person and whoever comes for them. If Leon Kennedy dies, Ashley Graham can still be found in the church, taken back from the castle, freed from her cell, and brought to the machine by anyone who does what Leon did. If Carlos Oliveira dies, Jill Valentine still lies where she fell, waiting for anyone with a dose.
+
+| Person | What the records gave them | How it moves | What cures it | If no cure comes |
+|---|---|---|---|---|
+| **Jill Valentine** | The T-Virus, from the Nemesis, at the Clock Tower | Fever at the beat, and no further. She lies unconscious. | A dose of Elpis, from anyone | She never turns. She falls with the city at impact. |
+| **Marvin Branagh** | A bite, when the hall falls | Fever, and no further | A dose | He turns in the main hall when Act III opens. |
+| **Murphy Seeker** | A bite, before the waking | Fever, hidden under his collar | A dose, which he says he does not need | His beat ends him. If it never happens, he turns when Act II opens. |
+| **Brad Vickers** | In the second account, a bite at the gate | Fever | A dose, before he walks away | He turns a few minutes after the beat, and walks the R.P.D. District. |
+| **Ben Bertolucci, Brian Irons** | William Birkin's embryo, at their beats | It grows for a few minutes | A dose, which answers the embryo with the virus (Section 07) | It bursts from them. |
+| **Leon Kennedy**, 2004 | A Plaga, at the Chained beat | Egg at the beat, Hatched when night falls, Grown when Act III opens, and no further | The machine | It takes him when the island's count begins with Saddler alive. If Saddler dies first, he dies with it (Section 07). |
+| **Ashley Graham** | A Plaga, before the night | Hatched when she is found, Grown when she first enters the castle or when Act III opens, and no further | The machine, with someone to work it | As for Leon |
+| **Ada Wong**, second account | A Plaga, from the Pesanta, at its beat | Grown, and no further | The Pesanta's death: when it dies, she brings the parasite up | As for Leon |
 
 #### Live Scenes
 
@@ -1785,7 +1927,6 @@ Every beat is played as a **live scene**: a scene of the records performed in th
 
 **The first time ever.** ΜΝΗΜΗ's file remembers what a sleeper has already seen. The first time a sleeper ever meets a kind of special creature, in any night, it gets a Grand Moment instead of a Brief one. That first Licker is a scene. The hundredth is a Licker.
 
-
 **Example: an alley, a Licker, and a roof.** A Solo night. B is in an alley in Downtown and has never met a Licker before, in any night. C is on a roof two buildings away and has met many.
 
 | Step | What B sees | What C sees | Why |
@@ -1811,7 +1952,7 @@ A night in the Raccoon City of 1998 runs the city's last three days, from the mo
 |---|---|---|---|
 | **I** | 28 September | At the waking | Jill Valentine, from her apartment in Uptown. The U.B.C.S.: Carlos Oliveira, Mikhail Victor, Nicholai Ginovaef, Tyrell Patrick, Murphy Seeker. The Nemesis. |
 | **II** | 29 September | At the thirtieth minute | Leon Kennedy and Claire Redfield, who arrive in a police cruiser down the Arklay road and crash in Downtown. Ada Wong. HUNK. The T-00. |
-| **III** | 30 September, to dawn | At the signal, which here is the missile (The Last Morning, below) | Everyone's last thread: a way out before the strike |
+| **III** | 30 September, to sunrise on 1 October | At the signal, which here is the missile (The Last Morning, below) | Everyone's last thread: a way out before the strike |
 
 Everyone else is in the city from the waking, where the records had them.
 
@@ -1833,7 +1974,7 @@ Everyone else is in the city from the waking, where the records had them.
 | **Irons's end** | II | The R.P.D. and the sewers | Brian Irons, and William Birkin reaching him | Birkin plants an embryo in him, and it bursts from him. |
 | **Ada and Annette** | II | The sewers | Ada Wong and Annette Birkin | Annette fires on Ada (Ties). |
 | **The Clock Tower** | II | The St. Michael Clock Tower | Jill and the Nemesis there | The Nemesis infects Jill, and she falls unconscious. If Carlos is near, he carries her to the chapel. If not, she lies where she fell. |
-| **A dose for Jill** | III | Wherever Jill lies | Jill infected and alive, Carlos with her | Carlos asks everyone he meets for a cure. A survivor who gives Jill a dose wakes her, and she and Carlos go their own way to a way out. |
+| **A dose for Jill** | II–III | Wherever Jill lies | Jill infected and alive | If Carlos lives, he asks everyone he meets for a cure. A survivor who gives Jill a dose wakes her, and she goes her own way to a way out, with Carlos if he is with her. |
 | **The railgun** | III | The disposal factory, Industrial Edge | The Nemesis there, and someone at the railgun | Fired, it ends the Nemesis. |
 | **The furnace** | III | NEST | The T-00 there | It falls into the molten metal and does not come back. |
 | **The last car** | III | NEST, the Emergency Train | William Birkin alive when the train leaves | He comes for the train. Its self-destruct ends him, and whoever cannot keep him off the carriage until then goes with him. |
@@ -1883,7 +2024,7 @@ WAYS OUT: 3.
 | Person | Records | Where, and who they are | What they will not do |
 |---|---|---|---|
 | **Brad Vickers** | *Resident Evil 3* | The S.T.A.R.S. pilot, hiding near the R.P.D. in Act I, terrified, because something is hunting the S.T.A.R.S. | Stay. Freed, he runs. |
-| **Marvin Branagh** | *Resident Evil 2*, *Resident Evil 3* | The R.P.D. lieutenant holding the station's main hall. Steady and loyal to his men: "Uniform or not, you do not hesitate." He gives what he has: his knife, a radio, the way through the station. | Leave the R.P.D. Bitten when the hall falls, he turns before morning unless someone gives him a dose. |
+| **Marvin Branagh** | *Resident Evil 2*, *Resident Evil 3* | The R.P.D. lieutenant holding the station's main hall. Steady and loyal to his men: "Uniform or not, you do not hesitate." He gives what he has: his knife, a radio, the way through the station. | Leave the R.P.D. Bitten when the hall falls, he turns when Act III opens unless someone gives him a dose first. |
 | **Robert Kendo**, before his shop falls | *Resident Evil 3* | Behind his own counter, with the shop still holding. He sells nothing, gives a gun to someone he trusts, and aims at everyone first. | Come along |
 | **Ben Bertolucci** | *Resident Evil 2* | A freelance reporter in the R.P.D. cells who has been digging into Chief Irons's bribes. In one account he locked himself in and will not come out. In the other, Irons locked him in, and he trades what he knows about Irons and Umbrella for the key. | Come along |
 | **Brian Irons** | *Resident Evil 2* | The chief of the R.P.D., paid by Umbrella, in his office. Corrupt, cruel, and coming apart. He knows the station's hidden ways. | Keep faith (Ties) |
@@ -1968,7 +2109,7 @@ Everywhere else, the hosts of each part are its common enemies: Ganados with far
 | Person | Records | Who they are | What they do well | What they will not do |
 |---|---|---|---|---|
 | **Leon S. Kennedy** | *Resident Evil 4* | A government agent, twenty-seven, six years after Raccoon City, sent for the President's daughter and trained, once, by Krauser. Dry under fire, mission first, haunted by the city. | A handgun, a shotgun, a knife that parries | Leave without Ashley, or take the machine before she has |
-| **Ashley Graham** | *Resident Evil 4* | The President's daughter, twenty, a college student, with a Plaga in her from the start: Hatched when she is found. In one account she is helpless; in the other she is a partner who will not stay down. | Fits through gaps no one else can; works the machine and the cranes; sits in the second chair of any puzzle built for two | Fight. Or stay where she is told when Leon is calling (Ties). |
+| **Ashley Graham** | *Resident Evil 4* | The President's daughter, twenty, a college student, with a Plaga in her from the start: Hatched when she is found, and moving only with her story after that. In one account she is helpless; in the other she is a partner who will not stay down. | Fits through gaps no one else can; works the machine and the cranes; sits in the second chair of any puzzle built for two | Fight. Or stay where she is told when Leon is calling (Ties). |
 | **Luis Serra** | *Resident Evil 4* | In one account, a researcher Saddler hired who calls himself an ex-policeman from Madrid: mocking, flirtatious. In the other, a former Umbrella researcher who built the machine and wants to undo what he helped make. | Knows the valley; carries the suppressant | Tell all of it |
 | **Ada Wong** | *Resident Evil 4* | Albert Wesker's agent, here for the Amber. In one account she means to give Wesker less than he asked; in the other she turns against him, and carries a Plaga the Pesanta put in her. | A grapple and a crossbow; appears where she is needed | Fire on Leon or on whoever he follows. She leaves with the Amber, and her helicopter carries only her (Ties). |
 
@@ -1984,7 +2125,7 @@ Everywhere else, the hosts of each part are its common enemies: Ganados with far
 - **Saddler's death raises the signal** at once if it has not yet risen, at any minute of the night.
 - **The count is in the world.** The island's sirens and loudspeakers give it every thirty seconds, then every second of the last ten.
 - **Every way out in the Valley leaves before the blast,** on the mainland too, after its Last Call. The blast takes the island and everything on it, and the night ends with it. Survivors still on the mainland have been left behind (Section 14).
-- **Endless** has no island's end. Its Saddler never dies of anything but a Beacon.
+- **Endless** has no island's end. Saddler's death begins no count there, but every Plaga still dies with him, and the Beacon ends the night as always (Endless, below).
 
 **Not in the Valley.** Ingrid Hunnigan is a voice on Leon's radio, and Salazar can take her line. Albert Wesker is on a ship offshore and is never seen. No child is placed, and in the records the Plaga killed every child it entered.
 
@@ -2190,7 +2331,7 @@ SPECIAL THREAT: WILL BE RELEASED
 ### Endless
 *Dead Drop or Outbreak · No fixed end*
 
-ΜΝΗΜΗ does not raise the extraction on her own judgment, so the session has no natural end. The virus still runs and Elpis must still be earned, but there is no fixed Reserve: a dose exists for every road finished, and every road is longer than the one before it. With every stretch survived, the dead grow more aggressive. In an Endless Dead Drop, Petitions are answered for as long as roads to the cure are still being set.
+ΜΝΗΜΗ does not raise the extraction on her own judgment, so the session has no natural end. The virus still runs and Elpis must still be earned, but there is no fixed Reserve: a dose exists for every road finished, and every road is longer than the one before it. With every stretch survived, the dead grow more aggressive. In an Endless Dead Drop, Petitions are answered for as long as roads to the cure are still being set. In the Valley, the Plaga stands where the virus stands: the Suppressant Reserve is set anew with every stretch survived, and the Beacon waits for a night in which no living survivor carries a Plaga.
 
 The session ends in one of two ways. Everyone dies, or the survivors force the signal through **the Beacon**: a final chain she issues only once no living survivor still carries the virus, every one of them cured or never infected at all. Finish it, and the white light rises, and the helicopter that answers it has a seat for every survivor still alive.
 
@@ -2246,13 +2387,21 @@ Betrayal is a calculated risk, never a free move:
 
 | Mode | Who you play |
 |---|---|
-| **Dead Drop** | An original survivor: a face, a voice, an outfit, nothing more. No traits, no edge. Everyone is a nobody. |
+| **Dead Drop** | An original survivor: a man or a woman, a face, a voice, an outfit, nothing more. No traits, no edge. Everyone is a nobody. |
 | **Outbreak** | One of the eight from J's Bar |
 | **Versus** | A familiar face from the Archive, or your own original survivor |
 | **Mercenaries** | A familiar face with the loadouts they are known for, or your own survivor with a standard one |
 | **Infection** | A monster. The character is the virus. |
 
 Familiar faces and the eight differ in appearance, voice, animation, and personality, and carry small, balanced traits. No character is mandatory, and no character is ever sold: familiar faces are open to everyone, or opened by play, as Mercenaries ranks open them. What can be bought is how they look. In Dead Drop, familiar faces are never worn by players: they are companions, and ΜΝΗΜΗ plays them.
+
+### Creating a Survivor
+
+Every player creates their own original survivor. The first choice is whether the survivor is a man or a woman. After that come the face, the voice, and the dress, from everything the player owns (Section 30). The choice changes how the survivor looks and sounds, and how ΜΝΗΜΗ appears and sounds to them (Section 05). It changes nothing else: both bodies have the same height for play, the same reach, the same speed, the same health, and the same hit areas. The player can change any of it between nights.
+
+### Language and Tone
+
+Resident Evil Online speaks of everyone as he or she, and offers no other pronoun. Its fiction makes no statement about the ideologies or politics of the real world. Its themes are the ones Resident Evil has always had: survival, trust and betrayal, the cruelty of the people who make these weapons, and what is lost and what is kept.
 
 ### Progression
 
@@ -2344,7 +2493,7 @@ An offline session needs no connection. Everything ΜΝΗΜΗ needs to run it, a
 | **Mercenaries** | Runs are recorded on a board of your own. |
 | **Infection** | Every other monster is an Echo. |
 | **Recollections** | Any frame can be played. Only a connected run counts in the competition. |
-| **Endless** | The Beacon rises once no living survivor or Echo still carries the virus. |
+| **Endless** | The Beacon rises once no living survivor or Echo still carries the virus, or, in the Valley, a Plaga. |
 
 Offline, a survivor can stop the night, and the city waits. ΜΝΗΜΗ gives her full attention to the Echoes near the survivor and runs those far away as she runs the distant dead: with less care and the same rules. Everything earned offline is the survivor's own, and everything owned is worn offline (Section 34). The Ledger, shared boards, and competitions need a connection.
 
@@ -2452,6 +2601,13 @@ CAUSE .................... KILLED BY A SURVIVOR
 FINAL RESULT ............. LOST
 ```
 
+A survivor of the Valley whose Plaga the machine burned out:
+
+```
+PLAGA .................... HATCHED · BURNED OUT
+FINAL RESULT ............. EXTRACTED · CURED
+```
+
 A night that held Echoes adds one line to every report in it: ECHOES PRESENT, and how many.
 
 Each mode writes its own report: Mercenaries closes with a score and a rank from C to SSS, Versus with a match record, Infection with the form a monster reached, Outbreak with the ending the survivors found. An offline session writes the same report, marked OFFLINE, with the company its Echoes were drawn from.
@@ -2462,11 +2618,11 @@ Each mode writes its own report: Mercenaries closes with a score and a rank from
 
 *What follows is one Dead Drop in Raccoon City, September 1998, seen through one survivor: the session blueprinted in Section 19. It shows the rules at work; it fixes nothing beyond them.*
 
-**The room.** A bed that is not yours, in an apartment on a street you have never heard of. Rain on the window. A radio that turns itself on, says that sixty-four subjects are awake and that one cure exists, and turns itself off. Under the bed, a length of pipe. Outside the door, something dragging its feet.
+**The room.** A bed that is not yours, in an apartment on a street you have never heard of. Rain on the window. A radio that turns itself on, says that sixty-four subjects are awake and that one cure exists, and turns itself off. Beside it, an earpiece. You leave it where it is. Under the bed, a length of pipe. Outside the door, something dragging its feet.
 
 **The hallway.** It is an old woman in a nightgown, and she has been dead for a day. The pipe is heavier than it looked. The second swing is the one that counts. Your hands are shaking, but your neck is cool. You are still clean.
 
-**The first street.** A pharmacy, its shutter half up. Two bandages and a half-empty bottle. You are reaching for the bandages when the pharmacist comes up from behind the counter and takes your wrist in his teeth. You put him down. It is already too late. Within a minute the side of your neck is warm, and the sound that is not quite a voice speaks behind your eyes for the first time.
+**The first street.** A pharmacy, its shutter half up. Two bandages and a half-empty bottle. You are reaching for the bandages when the pharmacist comes up from behind the counter and takes your wrist in his teeth. You put him down. It is already too late. Within a minute the side of your neck is warm, and the voice from the radio speaks behind your eyes for the first time.
 
 ```
 ΜΝΗΜΗ: INFECTION ACTIVE.
@@ -2611,11 +2767,21 @@ The classic looks are a display setting in the Extras menu: **Classic looks: On*
 
 ### Live Scenes, in Practice
 
-A live scene runs on the server as a timeline that drives its actors. Each client receives a scene only while its survivor is in range, as it receives any other sound or sight, and a survivor who arrives late joins the timeline where it stands. Lines are written as many short pieces, and the server chooses each one by rules matched against who is on the stage, the way Valve's dynamic dialogue chose lines for the survivors of *Left 4 Dead*. Actors turn their heads, eyes, and hands toward whichever survivors they address. Every scene is performed once for each way it can end and once for each way it can break, so the number of branches is the main cost of the story nights, and it is budgeted scene by scene. The Reel stores each night's scenes as the server's own record, with no video, and is drawn again when a player opens it.
+A live scene runs on the server as a timeline that drives its actors. Each client receives a scene only while its survivor is in range, as it receives any other sound or sight, and a survivor who arrives late joins the timeline where it stands. Lines are written as many short pieces, and the server chooses each one by rules matched against who is on the stage, the way Valve's dynamic dialogue chose lines for the survivors of *Left 4 Dead*. Actors turn their heads, eyes, and hands toward whichever survivors they address. Every scene is performed once for each way it can end and once for each way it can break, so the number of branches is the main cost of the story nights, and it is budgeted scene by scene (Section 35). The Reel stores each night's scenes as the server's own record, with no video, and is drawn again when a player opens it.
 
 ### Moments, in Practice
 
 ΜΝΗΜΗ's safe window is computed on the server on every tick, from what the server already knows: positions, speeds, sightlines, weapons in hand, and the paths of the dead. It is measured with a margin for network delay. A Moment is a camera and animation layer drawn by the client over the one timeline the server runs, with a cut point about every second, so it can end the instant the window closes. Each Moment is made in several lengths. Grand Moments are made one by one, for each named creature and each beat; Brief Moments are made once for each kind of creature and reused wherever it is met, which keeps the commonest Moments the cheapest. Moments are the place where ΜΝΗΜΗ's knowledge of the whole night becomes a feature: no other director could cut to cinema in a crowd and promise it costs no one their life.
+
+### ΜΝΗΜΗ's Voice, in Practice
+
+ΜΝΗΜΗ's two voices are performed by an actress and an actor and built into synthetic voices with their consent and their pay, so that they can say what the nights need. Each client plays every line of hers in the voice set by its own player's survivor. Her baseline is kept clean: no processing that sounds like a machine. The fear in it is built from mismatch, which research on uncanny voices finds more unsettling than a robotic sound: wrong timing, missing breath, exact repetition, and a stranger's accent for one word. Her breaks use what makes screams alarming, a fast roughness in the sound and noisy, broken pitch, and only during a break, so the contrast lands. No mechanic depends on infrasound. Every break stays under the game's loudness limits, and its subtitles always show the true words.
+
+Her remarks, her visits, and her breaks of the glass draw only on data the game already keeps. None of them imitates any platform's own system screens. They happen inside the game's own layers, the Waiting Dark, the Ledger, and the Dossier, where they can pass every platform's certification. A player can set her remarks to **Quiet** in the Extras menu. She then keeps her announcements and the earpiece's introduction, and drops her personal remarks and every break of the glass.
+
+### Her Bodies and Visions, in Practice
+
+Her own body is one entity on the server, with one position, one collision volume, and one set of hit areas. Each client draws its form for its own player, chosen from the body type of that player's survivor. A vision is a phantom: the server simulates it for one client only and sends it through the same stream as every real creature, with nothing that marks it as unreal. A modified client cannot sort visions from the real dead by reading a flag. The phantom has no collision with the world, can cause no damage, and is removed the moment its rules say it ends.
 
 ### Sound
 
@@ -2856,7 +3022,7 @@ The service runs in seasons of about ten weeks. Each season, ΜΝΗΜΗ rehearse
 
 ### The Season's Story
 
-Each season's forecast is shaped by one of the questions Pithos has never closed (Section 04): who sent the soldiers into ARK and what they carried out, who the Family are, who truly leads the Connections, and, behind them all, what Spencer told Alyssa Ashcroft. A season never answers its question. It moves it: new files in the nights, a new last page in the Casefile, a new record that does not fit. Over the life of the service the questions close one by one, and the last to close is the one Pithos fears most.
+Each season's forecast is shaped by one of the questions Pithos has never closed (Section 04): who sent the soldiers into ARK and what they carried out, who the Family are, who truly leads the Connections, what the Tissue is growing into, and, behind them all, what Spencer told Alyssa Ashcroft. A season never answers its question. It moves it: new files in the nights, a new last page in the Casefile, a new record that does not fit. Over the life of the service the questions close one by one, and the last to close is the one Pithos fears most.
 
 ### The Casefile
 
@@ -2959,7 +3125,7 @@ In the Night, this is the day Section 23 describes, the day no one comes. ΜΝΗ
 
 ### The Answer
 
-**Yes, with conditions.** As Part II describes it, a paid First Run followed by a free game, Resident Evil Online roughly pays for itself in the Base case, more than pays for itself if it becomes a hit, and caps the size of a failure. Three things make that true:
+**Yes, with conditions.** As Part II describes it, a paid First Run followed by a free game, Resident Evil Online comes close to paying for itself in the Base case, more than pays for itself if it becomes a hit, and caps the size of a failure. Three things make that true:
 
 - **The price pays for the game.** A US$29.99 First Run brings in most of the money.
 - **Cosmetics pay for the service.** The Wardrobe, Patron, and early access keep the online game running after the Opening.
@@ -2985,7 +3151,7 @@ A free-to-play launch with the same player-friendly rules would not work: at $8 
 
 ### 1 · Building It
 
-The launch is deliberately smaller than the whole design (Section 33). It ships one Dead Drop world, four Outbreak scenarios, and Mercenaries, all built on places Capcom has already rebuilt on the RE Engine (Section 27).
+The launch is deliberately smaller than the whole design (Section 33). It ships one Dead Drop world, four Outbreak scenarios, and Mercenaries, all built on places Capcom has already rebuilt on the RE Engine (Section 27). Its one world is also a story night (Section 20), and that is costed as its own line.
 
 | Component | Low | Realistic | High |
 |---|---|---|---|
@@ -2993,13 +3159,14 @@ The launch is deliberately smaller than the whole design (Section 33). It ships 
 | Technology, backend, networking | $12M | $15M | $22M |
 | The Echo system (Section 27) | $4M | $6M | $10M |
 | Content outsourcing | $8M | $14M | $22M |
+| The story night: live scenes and their branches, Moments, ΜΝΗΜΗ's voices, and the as-recorded bodies (Sections 20 and 27) | $6M | $10M | $16M |
 | QA, load tests, betas | $4M | $6M | $10M |
-| **Build cost** | **$66.5M** | **$90M** | **$136M** |
+| **Build cost** | **$72.5M** | **$100M** | **$152M** |
 | Launch marketing | $18M | $25M | $35M |
 | Launch preparation | $4M | $6M | $8M |
-| **Total before launch** | **$88.5M** | **$121M** | **$179M** |
+| **Total before launch** | **$94.5M** | **$131M** | **$195M** |
 
-All [A], with the head cost from Capcom's own pay [E]. The Realistic total is about 29% of a single year of Capcom's planned development investment, spread over three and a half years: about 8% a year [E].
+All [A], with the head cost from Capcom's own pay [E]. The Realistic total is about 31% of a single year of Capcom's planned development investment, spread over three and a half years: about 9% a year [E].
 
 ### 2 · Running It
 
@@ -3037,8 +3204,8 @@ Owners spend more than free players because they already chose to pay. The figur
 | Monthly players in the first free year | 1.5M | 3.5M | 7M |
 | Decline of free players each year | 20% | 20% | 20% |
 | Years the online service runs | 2 | 7 | 10 or more |
-| **Result over the whole online life, after building it** | **−$125M** | **−$13M** | **+$203M** |
-| Year the project has repaid itself | never | about break-even | year 1 |
+| **Result over the whole online life, after building it** | **−$135M** | **−$23M** | **+$193M** |
+| Year the project has repaid itself | never | never, about $23M short | year 1 |
 
 All [A]. The copy assumptions are anchored to *Requiem*'s first year at full price [P] and *Helldivers 2* at $40 [E], and are lower than both.
 
@@ -3046,13 +3213,13 @@ The Base case, year by year:
 
 | Year | Copies | Monthly players | Net revenue | Tier | Result | Running total |
 |---|---|---|---|---|---|---|
-| 1 | 4.2M | 1.3M | $95M | Full | +$57M | −$64M |
-| 2 | 2.8M | 2.2M | $75M | Full | +$37M | −$27M |
-| 3 (Opening) | free | 3.5M | $20M | Lean | +$5M | −$22M |
-| 4 | free | 2.8M | $16M | Lean | +$1M | −$21M |
-| 5 | free | 2.2M | $13M | Keep-alive | +$5M | −$16M |
-| 6 | free | 1.8M | $10M | Keep-alive | +$2M | −$14M |
-| 7 | free | 1.4M | $8M | Keep-alive | +$1M | −$13M |
+| 1 | 4.2M | 1.3M | $95M | Full | +$57M | −$74M |
+| 2 | 2.8M | 2.2M | $75M | Full | +$37M | −$37M |
+| 3 (Opening) | free | 3.5M | $20M | Lean | +$5M | −$32M |
+| 4 | free | 2.8M | $16M | Lean | +$1M | −$31M |
+| 5 | free | 2.2M | $13M | Keep-alive | +$5M | −$26M |
+| 6 | free | 1.8M | $10M | Keep-alive | +$2M | −$24M |
+| 7 | free | 1.4M | $8M | Keep-alive | +$1M | −$23M |
 | 8 | | | | Offline | | |
 
 All [A]. The First Run carries the project, and after the Opening the service pays for itself at a smaller size. In the Conservative case the free game cannot pay even for Keep-alive, so the Opening and the move offline come together (Section 34).
@@ -3061,12 +3228,12 @@ All [A]. The First Run carries the project, and after the Opening the service pa
 
 | First Run copies | Result over the online life, Realistic costs |
 |---|---|
-| 6M | −$37M |
-| 7M | −$13M |
-| 7.5M | about break-even |
-| 8M | +$11M |
+| 7M | −$23M |
+| 7.5M | −$11M |
+| 8M | about break-even |
+| 8.5M | +$12M |
 
-**The project breaks even at about 7.5 million First Run copies** [A].
+**The project breaks even at about 8 million First Run copies** [A].
 
 After the Opening, each tier needs this many monthly players at the Base case's $8 a year [A]:
 
@@ -3092,7 +3259,7 @@ All [A], with off-peak taken as 40% of peak and Dead Drop as 60% of all play. Th
 
 ### 7 · Capcom's Decision
 
-- **Fit:** $121M sits at the top of what Capcom plausibly funds for an online spin-off [A]. It is built on worlds it already owns and sold the way Capcom sells what works: a paid game with free updates and cosmetics, like *Street Fighter 6* and *Monster Hunter* [P].
+- **Fit:** $131M sits at the top of what Capcom plausibly funds for an online spin-off [A]. It is built on worlds it already owns and sold the way Capcom sells what works: a paid game with free updates and cosmetics, like *Street Fighter 6* and *Monster Hunter* [P].
 - **Gates:** two gates cap the Conservative loss before it is spent. The first is a playable slice of Dead Drop, tested with outside players at about $15M spent. The second is a closed beta on Dead Drop alone, at about $60M spent, judged on whether players come back and on peak concurrency. A project that fails the second gate stops there.
 - **Franchise:** most of the units Capcom sells each year are catalog titles, not new releases [P], and Resident Evil is the largest part of that catalog. A free Resident Evil game set in the places of *Resident Evil 2*, *3*, *4*, and *Requiem* sends players to those games. The model does not count that value. It is a reason to fund the project, not a reason it pays.
 
@@ -3102,22 +3269,22 @@ All [A], with off-peak taken as 40% of peak and Dead Drop as 60% of all play. Th
 
 **The five numbers that matter**
 
-1. **$121M** realistic cost before launch, about 8% of Capcom's yearly development investment while it is built [A].
-2. **7.5 million** First Run copies to break even over the online life [A].
+1. **$131M** realistic cost before launch, about 9% of Capcom's yearly development investment while it is built [A].
+2. **8 million** First Run copies to break even over the online life [A].
 3. **$20** net per First Run copy, against **$8** a year per free player after the Opening [A].
 4. **2.5 million** monthly free players to keep a Lean service running after the Opening, 1.3 million for Keep-alive [A].
 5. **36,000** peak players for healthy Dead Drop queues with Echo fill [A].
 
 **The three biggest financial risks**
 
-1. **A weak First Run.** Below about 7.5 million copies, the project does not recover its cost; at 4 million it loses about $85M. Everything rests on Dead Drop being good enough to sell at launch.
+1. **A weak First Run.** Below about 8 million copies, the project does not recover its cost; at 4 million it loses about $95M. Everything rests on Dead Drop being good enough to sell at launch.
 2. **The free phase earns little per player.** Earnable looks, no urgency, and no currency for sale keep revenue per free player low. The free game must stay large to run more than a small service.
-3. **Scope creep.** The launch only holds at $121M if the roadmap holds. Adding the Ruins, the Valley, or Infection before launch pushes the cost toward the roughly $290M the full design would cost at launch [A].
+3. **Scope creep.** The launch only holds at $131M if the roadmap holds. Adding the Ruins, the Valley and its story night, or Infection before launch pushes the cost toward the roughly $300M the full design would cost at launch [A].
 
 **The three conditions for sustainability**
 
-1. **Launch small:** one Dead Drop world, four Outbreak scenarios, and Mercenaries, built on Capcom's existing RE Engine worlds, for no more than about $120M.
-2. **Sell the First Run, and keep the Opening date:** at least 7.5 million copies in two years, and no later Opening.
+1. **Launch small:** one Dead Drop world, four Outbreak scenarios, and Mercenaries, built on Capcom's existing RE Engine worlds, for no more than about $130M.
+2. **Sell the First Run, and keep the Opening date:** at least 8 million copies in two years, and no later Opening.
 3. **Let earnings set the service:** the tiers of Promise 14, the gates before launch, and Echo fill in the queues. When the game earns less, it shrinks. It never turns to what the Promises forbid.
 
 ### Sources
