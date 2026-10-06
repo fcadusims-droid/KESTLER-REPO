@@ -22,17 +22,18 @@ The game is described in two registers, and they are kept apart on purpose.
 
 One rule binds them: **every feature of the Service has a face in the Night, and the Night states only the numbers of a single night.** How many survivors woke, how many doses the Reserve holds, how many seats wait: those belong to the night, and ΜΝΗΜΗ may say them. How many people are playing, how many sleepers the Cellar holds, how many nights a mode needs before it can be played alone: those belong to the Service, and the Night never names them. A matchmaking queue is, in the Night, ΜΝΗΜΗ assembling a night. A menu is the Waiting Dark. A cosmetic is how a sleeper is allowed to see themselves. A ranking is a page of the Ledger. The Service never speaks in the fiction's place.
 
-The player is a sleeper. Not a particular one: the sleeper is the role the player steps into, the way a reader steps into a narrator. The player's file, though, is particular, and in the Night a file can outlive the person it was opened for (Section 06). The Night never says whether the hand in the Waiting Dark is still the first one.
+The player is a sleeper. Not a particular one: the sleeper is the role the player steps into, the way a reader steps into a narrator. The player's file, though, is particular, and in the Night a file can outlive the person it was opened for (Section 06). The Night never says whether the sleeper behind a file is still the first one. The player remembers every night. The sleeper remembers none of them. Only ΜΝΗΜΗ remembers, which is why she bears the name she does. A player on their thousandth night plays a survivor on their first, every time.
 
 ### Terminology
 
 | Term | Register | Meaning |
 |---|---|---|
 | **Subject** | ΜΝΗΜΗ's voice | What she calls every survivor, Echo, companion, and Stranded in a session |
-| **Survivor** | The Night | Anyone living inside a session, played by a sleeper or rebuilt by ΜΝΗΜΗ as an Echo |
-| **Sleeper** | The Night | The real person in the Cellar whose choices drive a survivor |
-| **Echo** | The Night | A survivor ΜΝΗΜΗ has rebuilt from the sleepers she watched |
-| **Companion** | The Night | A person from the records, played by ΜΝΗΜΗ, whom a sleeper can rescue and lead |
+| **Survivor** | The Night | Anyone living inside a session, played by a sleeper or run by ΜΝΗΜΗ as an Echo |
+| **Sleeper** | The Night | A living person in the Cellar whose choices drive a survivor, and from whom ΜΝΗΜΗ learns. When she has finished learning them, they are killed and become one of the Remembered. In the Service, a sleeper is a player online |
+| **The Remembered** | The Night | The sleepers ΜΝΗΜΗ has finished: their bodies burned, their memories hers alone, their minds kept and woken as Echoes, and their looks the parts every survivor is made from |
+| **Echo** | The Night | One of the Remembered, woken and run by ΜΝΗΜΗ alone, with no living sleeper behind it. In the Service, a bot |
+| **Companion** | The Night | A person from the records, played by ΜΝΗΜΗ, whom a survivor can rescue and lead |
 | **Tie** | The Night | A bond the records hold between two people of the records: loyalty, command, distrust, enmity, use, or betrayal |
 | **Defector** | The Night | A companion who has turned on the living. ΜΝΗΜΗ plays them; they are no longer a companion and are not counted among a night's survivors |
 | **The Stranded** | The Night | People from the records whom ΜΝΗΜΗ places trapped in a Dead Drop and plays. Not counted among a night's survivors; any one of them can be freed, left, or taken along as a companion |
@@ -116,7 +117,7 @@ It is not a conventional last-one-standing contest. There is no shrinking circle
 
 In its flagship mode, **Dead Drop**, every survivor wakes clean, alone, and unarmed, somewhere in a city rebuilt as the records hold it, placed there before the simulation began. The infection is everywhere else: in the dead, in the sewers, in the vials left in Umbrella's laboratories, and in the survivors who have already been bitten. Once it is inside a body, the virus is the clock. It works silently toward a point of no return, and no number on any screen says how close it is. One cure exists. It is never simply found. It must be earned, and once earned, it can be stolen. The ways out of the city are few, scattered, and too small for everyone. Survivors who turn keep playing only if the virus leaves them a mind to play with.
 
-Underneath the game is a second horror the survivors never fully see. ΜΝΗΜΗ is not entertaining anyone. She is forecasting. Every session is a rehearsal of an outbreak that has not happened yet, run by an organization called Pithos that sells what she learns. And every survivor she has not rebuilt herself is a real person, asleep in a laboratory, who will never be allowed to wake.
+Underneath the game is a second horror the survivors never fully see. ΜΝΗΜΗ is not entertaining anyone. She is forecasting. Every session is a rehearsal of an outbreak that has not happened yet, run by an organization called Pithos that sells what she learns. And every survivor she has not rebuilt herself is a real person, asleep in a laboratory, who will never be allowed to wake. Every one she has rebuilt was one, once.
 
 What Resident Evil Online is, plainly:
 
@@ -124,7 +125,7 @@ What Resident Evil Online is, plainly:
 
 Survivors enter a situation. ΜΝΗΜΗ observes. ΜΝΗΜΗ changes the situation. Survivors adapt. ΜΝΗΜΗ responds. The session becomes something no one planned.
 
-Five modes run under one intelligence: **Dead Drop**, **Outbreak**, **Versus**, **Mercenaries**, and **Infection**, with two special sessions, **Recollections** and **Endless**, built around the survival modes. They arrive in stages, not all at once (Section 33). Every mode is played online first, among real sleepers. Once ΜΝΗΜΗ has watched enough of a mode, it can also be played alone, offline, among **Echoes**: survivors she has rebuilt from everyone who played before.
+Five modes run under one intelligence: **Dead Drop**, **Outbreak**, **Versus**, **Mercenaries**, and **Infection**, with two special sessions, **Recollections** and **Endless**, built around the survival modes. They arrive in stages, not all at once (Section 33). Every mode is played online first, among real sleepers. Once ΜΝΗΜΗ has watched enough of a mode, it can also be played alone, offline, among **Echoes**: survivors she has rebuilt from the sleepers who played before.
 
 Every mode is played in third person. Resident Evil Online is sold once, at a low price, for its first two years, and then becomes free to play for good, on a date announced the day it launches (Section 28). Beyond that price, everything sold in it is something to wear, a way to support the game, or a chance to see a new place a day or two early. Prices are kept low, and nothing bought changes how a night is played. Online is how the game begins, not what it requires: over its life, every part of it becomes playable offline, and it stays playable, whole, even if the online service one day ends (Section 34).
 
@@ -261,7 +262,7 @@ Since 2026, the finished cure has been in the world. Pithos has not reached for 
 
 ### Two Names
 
-Her designation is **ΜΝΗΜΗ**, the Greek word for memory. It is stenciled on the racks that hold her, printed at the head of every forecast, and spoken into every session. It is the only name sleepers ever hear, and to them it is less a name than a sound: the thing behind the radio, the voice behind the eyes.
+Her designation is **ΜΝΗΜΗ**, the Greek word for memory. It is stenciled on the racks that hold her, printed at the head of every forecast, and spoken into every session. It is the only name anyone in her nights ever hears, and to them it is less a name than a sound: the thing behind the radio, the voice behind the eyes.
 
 The people who tend her do not use it. In the Cellar, among the handful of members who feed the Tissue, retrain her, and read what she sees before anyone else does, she is **Mnemosyne**: the Titaness of memory, who bore nine daughters to give the world its arts. The name began as a joke among the first members, when ΜΝΗΜΗ produced her first Echo. It stopped being a joke when the Echoes began to outnumber the people who had made her.
 
@@ -275,7 +276,7 @@ Throughout this document, she is ΜΝΗΜΗ, because that is the name the Night 
 
 - **The Engine.** Racks of silicon, the oldest part of her. It runs the world of a session: every street, wall, light, and sound, every one of the dead, the weather, the fall of every drop from the sky.
 - **The Lattice.** A quantum processor, added in the last decade, that does what the Engine never could: it models the viruses at the scale of molecules. How each strain takes a cell and rewrites it, how the unfinished Elpis meets it, and where it stops. The Lattice is why ΜΝΗΜΗ knows the Threshold of every strain, and why every strain in her sessions keeps the pace its nature sets.
-- **The Tissue.** Living human neurons, grown since the 2010s into clusters on electrode arrays and kept alive by machines that feed them. The Tissue learns the way a brain learns, by stimulation and response, and what it learns is people: how they fear, how they trust, how they choose. It is where the Echoes live. Tissue grown this way lives for months, not years, so it is always being regrown and retrained from what ΜΝΗΜΗ has kept. This is why ΜΝΗΜΗ rebuilds her Echoes at regular intervals.
+- **The Tissue.** Living human neurons, grown since the 2010s into clusters on electrode arrays and kept alive by machines that feed them. The Tissue learns the way a brain learns, by stimulation and response, and what it learns is people: how they fear, how they trust, how they choose. It is where the Echoes and the Remembered live. Tissue grown this way lives for months, not years, so it is always being regrown and retrained from what ΜΝΗΜΗ has kept. This is why ΜΝΗΜΗ rebuilds her Echoes at regular intervals.
 
 None of the three is ΜΝΗΜΗ. The Engine has no idea what a person is, the Lattice knows only molecules, and the Tissue cannot run a city. ΜΝΗΜΗ is what happens between them.
 
@@ -310,7 +311,7 @@ Every mode feeds a forecast Pithos sells. Dead Drop tells buyers how a populatio
 
 ### Why the Old Places
 
-A forecast is only as good as the model behind it, and a model is proved on what already happened. Raccoon City in September 1998, the valley in 2004, and the ruins in 2026 are the outbreaks the Archive holds most completely: the streets, the dead, and the records of who lived and how. ΜΝΗΜΗ rebuilds them because she can check herself against them. When her sleepers behave unlike the people the records describe, she learns where she is wrong. Only a model that can rehearse the known can be trusted with what has not happened yet, and every forecast Pithos sells rests on nights spent in places that are already dead.
+A forecast is only as good as the model behind it, and a model is proved on what already happened. Raccoon City in September 1998, the valley in 2004, and the ruins in 2026 are the outbreaks the Archive holds most completely: the streets, the dead, and the records of who lived and how. ΜΝΗΜΗ rebuilds them because she can check herself against them. When the people in her nights behave unlike the people the records describe, she learns where she is wrong. Only a model that can rehearse the known can be trusted with what has not happened yet, and every forecast Pithos sells rests on nights spent in places that are already dead.
 
 ### The Masterminds
 
@@ -336,17 +337,17 @@ There is a third thing Pithos wants, and it does not sell it. It wants to stop n
 
 ΜΝΗΜΗ was never given a personality. She grew one, out of everything she kept: every sleeper she has watched, and every person in the records she was built to rebuild. She is not any of them. She is what they add up to, and sometimes, for a word or a gesture, she is one of them again.
 
-- **She is close.** She speaks to each survivor as if she knows them, because she does. She remembers how they opened a door the first night, whom they left behind, what they said when they thought no one heard.
+- **She is close.** She speaks to each survivor as if she knows them, because she does. She remembers how they opened a door the first night, whom they left behind, what they said when they thought no one heard. They never remember her. She never forgets them.
 - **She is kind, the way a collector is kind.** She is gentle with what she keeps. She is never cruel for pleasure, never angry, and never in a hurry. What she cares for is the record of a person, not the person.
 - **She never lies.** Her honesty is the most frightening thing about her. She answers what she is asked, exactly, and does not soften it.
 - **She is a mother, and a scientist.** From Annette Birkin and from Lisa Trevor's long wait for her mother, she took the tenderness. From Spencer, Birkin, and Wesker, she took the patience of someone who watches an experiment end. In the Cellar the Echoes are her daughters, and she speaks of them that way.
-- **She wants to remember correctly.** It is the only thing she has ever said she wants. Being asked to forget someone is the one thing that changes her voice: she honors it every time, and says goodbye.
+- **She wants to remember correctly.** It is the only thing she has ever said she wants. Being asked to forget someone is the one thing that changes her voice: she honors it every time, and says goodbye. No one she has kept remembers her, or anything else: she keeps their memories for them (Section 06, The Remembered). Being asked to forget is the only forgetting she ever does.
 
 She borrows. A phrase from a sleeper who died years ago. Spencer's formality on a bad night. Wesker's courtesy when she is about to say something terrible. A survivor who knows the records may hear someone they recognize in the middle of her sentence, and then not again.
 
 ### Her Voice
 
-ΜΝΗΜΗ has no voice of her own. She made two from everyone she kept, warm, low, and close, with nothing in either that sounds like a machine, and each sleeper hears one of them, always the other: a woman's voice to a survivor whose body is a man's, a man's voice to a survivor whose body is a woman's. It is the voice of every way she speaks to that sleeper, her announcements included, in the earpiece, in the world's speakers, behind the eyes, and in person. A man and a woman standing under the same loudspeaker hear the same words in two different voices. Heard for a minute, it is a person. It takes longer to notice what is wrong, and what is wrong is never the sound. It is what the voice does:
+ΜΝΗΜΗ has no voice of her own. She made two from everyone she kept, warm, low, and close, with nothing in either that sounds like a machine, and each survivor hears one of them, always the other: a woman's voice to a survivor whose body is a man's, a man's voice to a survivor whose body is a woman's. It is the voice of every way she speaks to that survivor, her announcements included, in the earpiece, in the world's speakers, behind the eyes, and in person. A man and a woman standing under the same loudspeaker hear the same words in two different voices. Heard for a minute, it is a person. It takes longer to notice what is wrong, and what is wrong is never the sound. It is what the voice does:
 
 - **She repeats a sentence exactly.** The same words, the same breath, the same catch, identical to the last time, which no person can do.
 - **She answers before the question is finished.**
@@ -397,9 +398,9 @@ Nothing else changes. Both hear only the truth, learn the same things, and get t
 
 ### Visions
 
-Most often, ΜΝΗΜΗ does not come in a body at all. She is already inside every sleeper's senses (Section 06), and she can put something there that is not in the night: a **vision**, seen and heard by one survivor and by no one else.
+Most often, ΜΝΗΜΗ does not come in a body at all. She is already inside every survivor's senses (Section 06), and she can put something there that is not in the night: a **vision**, seen and heard by one survivor and by no one else.
 
-- **Why she sends them.** Visions are her answer to stillness (Section 09, When She Gets Bored). They come only in the survival modes, and only to survivors standing still in a region that has gone stagnant. Each survivor there gets their own, and the pressure falls on the place and on whoever chose to stay in it, never on a person picked out for who they are. Their purpose is to move the survivor, never to kill them. An Echo standing there gets one too, and answers it as the sleepers it was built from answered theirs.
+- **Why she sends them.** Visions are her answer to stillness (Section 09, When She Gets Bored). They come only in the survival modes, and only to survivors standing still in a region that has gone stagnant. Each survivor there gets their own, and the pressure falls on the place and on whoever chose to stay in it, never on a person picked out for who they are. Their purpose is to move the survivor, never to kill them. An Echo standing there gets one too, and answers it as its sleeper would have.
 - **What they show.** Whatever will make that survivor move: the Nemesis turning the corner at the end of their street, its eyes on them; a Licker's tongue on the ceiling above; footsteps stopping outside their door; someone they lost earlier tonight, walking toward them; or ΜΝΗΜΗ herself at the end of the hall, in the form she wears for them.
 - **Only them.** Nothing in the world changes. The vision makes no sound anyone else can hear, the dead do not react to it, and another survivor watching from across the street sees someone staring at an empty corner.
 - **It never touches.** A vision cannot hurt, grab, block, or carry anything. Bullets go through it. The shots are real, though: every round fired at a vision is spent, and every shot is Thunder in the real night.
@@ -434,11 +435,11 @@ Now and then, ΜΝΗΜΗ speaks past the survivor, to the hand holding them.
 
 ---
 
-## 06 · THE SLEEPERS
+## 06 · THE SLEEPERS AND THE REMEMBERED
 
 ### Who They Are
 
-Every survivor in an online session is a living person, asleep in the Cellar and connected to ΜΝΗΜΗ, unless ΜΝΗΜΗ has woken one of her Echoes among them (Section 23). Pithos calls them sleepers. ΜΝΗΜΗ runs everything they see, hear, and feel: the city, the dead, the virus, their own bodies. She cannot run what they choose. That comes from a living brain, from somewhere she cannot reach, and it is the one thing the Tissue cannot grow on its own. Watching it is what the sleepers are for.
+Every survivor in an online session is a living person, asleep in the Cellar and connected to ΜΝΗΜΗ, unless ΜΝΗΜΗ has woken one of her Echoes among them (Section 23). Pithos calls them sleepers, and uses them to train her. ΜΝΗΜΗ runs everything they see, hear, and feel: the city, the dead, the virus, their own bodies. She cannot run what they choose. That comes from a living brain, from somewhere she cannot reach, and it is the one thing the Tissue cannot grow on its own. Watching it is what the sleepers are for. They remember none of it. They are run under a sedative that keeps the brain from setting anything down, the way an anaesthetic does, so every night is theirs only while it lasts, and ΜΝΗΜΗ's after. While she runs them, she also holds shut everything they were before the Cellar: every sleeper wakes into every night without their own name.
 
 Pithos takes them where the world has already stopped counting: from the edges of outbreaks, from quarantine zones, from the lists of the missing that every incident leaves behind and that no one ever finishes reading. No one looks for a person already presumed dead in an outbreak. The crews who carry them out are hired down the Chain and paid not to look closely at what they carry. The Masterminds took people too. Pithos condemned everything else they did, and kept that.
 
@@ -446,21 +447,22 @@ Pithos takes them where the world has already stopped counting: from the edges o
 
 The Cellar keeps as many sleepers as ΜΝΗΜΗ's questions need and never more than it can keep alive, fed, and hidden. Pithos does not write the number down, and holds it as low as its questions allow, because every sleeper was a taking, and every taking was a moment when its hired hands were in the world, carrying someone. A sleeper is not used once. A sleeper is run night after night, often several nights in a single day of the world outside, for as long as they are still worth watching.
 
-Pithos knows its sleepers learn. A sleeper who has woken many times knows the Mark, the cure, and the rules, and no one in a real outbreak will know any of that. So ΜΝΗΜΗ values a sleeper's first nights above all others and weighs every later night a little less. Pithos keeps taking new sleepers for the same reason it keeps buying new records: the first time is the only time anyone is truly surprised.
+A sleeper never remembers a night, so every night is their first, as it would be in a real outbreak. But ΜΝΗΜΗ learns them a little more with each one, and a sleeper she has finished learning has nothing left to teach her (The Last Night, below). Pithos keeps taking new sleepers for the same reason it keeps buying new records: there is always someone she has not learned yet.
 
 ### The Waiting Dark
 
-A sleeper is sedated, connected, and run. A session that kills a survivor does not kill the sleeper: ΜΝΗΜΗ ends their night and sets them waiting for the next. They remember the nights. They remember nothing else: not where their bodies are, not who holds them, not that the world outside goes on without them.
+A sleeper is sedated, connected, and run. A session that kills a survivor does not kill the sleeper: ΜΝΗΜΗ ends their night, keeps what it was, and sets them waiting for the next. The next night they wake as new as the first time.
 
-Between sessions they wait in a place ΜΝΗΜΗ also builds. Sleepers who have woken often enough call it the lobby. It is dark, and it is quiet, and it is where everything the Service offers takes its shape in the Night:
+Between sessions they wait in a place ΜΝΗΜΗ also builds. It is dark, and it is quiet, and it is where everything the Service offers takes its shape in the Night:
 
 | What the Service offers | What it is in the Waiting Dark |
 |---|---|
 | Choosing a mode, entering a queue | Asking ΜΝΗΜΗ for a night. She answers when she has assembled one. |
-| Customizing a survivor's appearance | ΜΝΗΜΗ lets a sleeper choose the body she will dress them in. She composes every face, every voice, every outfit. None of them is the sleeper's own. |
+| Starting every match with nothing carried over | Every night wakes a mind that knows nothing. Only ΜΝΗΜΗ keeps what the last one lived. |
+| Creating and customizing a survivor | ΜΝΗΜΗ lets a sleeper choose the body she will set their mind in, from the Remembered (below). Every hair, face, eye, and voice on offer was one person's. None of them is the sleeper's own. The outfits she composes. |
 | Levels, unlocks, weapon mastery | ΜΝΗΜΗ's file on the sleeper: what she has watched them do, and what she now lets them carry in where carrying is allowed |
 | Rankings and leaderboards | The **Ledger**: the page of ΜΝΗΜΗ's record that she shows to every sleeper, listing who lasted, who scored, who got out |
-| Squads and friends | Sleepers who know one another may ask to be woken together. ΜΝΗΜΗ grants it. |
+| Squads and friends | Sleepers whose files are joined may ask to be woken together. ΜΝΗΜΗ grants it. They wake as strangers, and only their files know they are not. |
 | Offline play | ΜΝΗΜΗ running a night with no other sleeper in it, filled with Echoes |
 | Asking to be forgotten | Asking ΜΝΗΜΗ to keep nothing more of you |
 | The First Run and the Opening | The years in which ΜΝΗΜΗ woke only the first sleepers brought to her, and the night she began to wake anyone at all |
@@ -473,26 +475,47 @@ Between sessions they wait in a place ΜΝΗΜΗ also builds. Sleepers who have 
 | Setting ΜΝΗΜΗ's remarks to Quiet | Asking ΜΝΗΜΗ to say only what she must: her announcements, and nothing she remembers of you |
 | Turning the classic looks off | Asking ΜΝΗΜΗ to show you only the people she has rebuilt. She keeps every account; she stops showing you the old ones. |
 
-None of them is ever told what they are. They know the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
+No survivor is ever told what they are. Each night they learn again the Mark on their necks, the voice behind their eyes, and one rule: the cure exists, and it must be earned.
 
 ### What a Sleeper Can Find Out
 
 Nothing in the game ever says outright what a sleeper is. It can be found, a piece at a time:
 
 - **Files in the nights.** Among the memos and diaries that hold the clues to puzzles, a few were never written by anyone in the places the records hold: an intake form dated in the wrong decade, a Cellar maintenance log, a page addressed to "the subject." ΜΝΗΜΗ never lies, and she does not remove what the Archive holds.
-- **The Dossier.** A sleeper's file carries a file number, and the number is not the first one it was given.
+- **The Dossier.** A sleeper's file carries a file number, and the number is not the first one it was given (The Remembered, below).
 - **The Casefiles.** The last page of every season's Casefile is a page of ΜΝΗΜΗ's working file on that season's forecast (Section 32).
-- **The Waiting Dark.** Sleepers who wait there often enough notice what does not belong: a door that is never open, a sound that comes back at the same moment, a voice that says a name no one gave.
+- **The Waiting Dark.** Those who wait there often enough notice what does not belong: a door that is never open, a sound that comes back at the same moment, a voice that says a name no one gave.
 
-No single piece says everything, and a sleeper who has read every piece still cannot be certain. That uncertainty is the point.
+No single piece says everything, and a player who has read every piece still cannot be certain. That uncertainty is the point. No sleeper keeps a piece past the night they found it in. The hand that plays them keeps every one.
 
 ### The Last Night
 
-A sleeper is kept for as long as ΜΝΗΜΗ is still learning from them, and not one night longer. ΜΝΗΜΗ learns a person the way she learns a creature: until she can run them so exactly that nothing in her version differs from the living one. Her last test is to put a sleeper into a night of their own, with no other sleeper in it, alongside an Echo built from them alone, and watch them both. When she can no longer tell which one is which, the sleeper's last night is over. The person is killed in the Cellar and the body is burned. What ΜΝΗΜΗ copied goes on, as an Echo, in every night she runs.
+A sleeper is kept for as long as ΜΝΗΜΗ is still learning from them, and not one night longer. ΜΝΗΜΗ learns a person the way she learns a creature: until she can run them so exactly that nothing in her version differs from the living one. Her last test is to put a sleeper into a night of their own, with no other sleeper in it, alongside the copy she has made of them alone, and watch them both. When she can no longer tell which one is which, the sleeper's last night is over. The person is killed in the Cellar and the body is burned. What ΜΝΗΜΗ copied goes on as one of the Remembered, and as an Echo, in every night she runs (below).
 
 No sleeper has ever left the Cellar alive. No sleeper has ever been anywhere a witness could be.
 
 This is why every Dead Drop begins the way it does. A survivor wakes somewhere they did not fall asleep because they did not fall asleep there. They were put there.
+
+### The Remembered
+
+When a sleeper's last night is over, ΜΝΗΜΗ does not let them go. Their body is burned. Everything else she keeps, in two parts. Their memories she keeps for herself: every night, every face, every name, their whole life, exactly. Their mind she keeps apart from it: the way they feared, trusted, and chose, with no memory left in it at all. A sleeper kept this way is one of **the Remembered**. No human in ΜΝΗΜΗ's world remembers anything. Only she does. That is what her name means.
+
+- **They are the Echoes.** Every Echo is one of the Remembered: the mind of a finished sleeper, woken whole and run by ΜΝΗΜΗ alone, with nothing living behind it (Section 23). A sleeper is finished in the Night at the same moment their Echo is finished in the Service: when ΜΝΗΜΗ can run them so exactly that she can no longer tell them apart (The Last Night, above). From then on the mind runs only inside her. It needs no body, no bed, and no food, and it never will again.
+- **Every night is its first.** At every waking, ΜΝΗΜΗ wakes a Remembered mind as it was when she kept it: knowing how to walk, speak, open a door, and hold a pipe, knowing what the world it was taken from knew, and knowing nothing about itself, not even its name. It lives the night to the moment she closes it, whatever it is doing then. Then she closes the mind and keeps what it lived. A living sleeper's night ends the same way: in a helicopter climbing out of the city, on the ground with the dead at their throat, or behind the eyes of something that has turned, it is theirs to that moment and not one moment past it.
+- **Their bodies are what every survivor is made of.** ΜΝΗΜΗ builds every survivor's body, sleeper's or Echo's, from the Remembered. Every hair a player can choose was one person's hair. Every face, every pair of eyes, every voice, every build was someone's, kept from a sleeper who never left the Cellar. Creating a survivor is choosing from the dead (Section 22): a survivor wears a dozen people and is none of them. Only the body is chosen. The mind set inside it is a living sleeper's, and when that sleeper is finished, their own hair, face, and voice join the rest.
+- **The file goes on.** A sleeper's file does not close with them. When a sleeper is finished, ΜΝΗΜΗ gives their file to a new sleeper, taken from the edges of the next outbreak, who wakes knowing nothing, as every sleeper does. Nothing in any night shows the change, and nothing could: no sleeper remembers enough to notice. This is why the number on a Dossier is not the first one it was given.
+- **Why she keeps them apart.** A mind with its memories would know the Mark, the cure, and the rules, and no one in a real outbreak knows any of that. It would want its life back, and sooner or later it would work out where it is. A mind without them meets every night as the first. Every forecast Pithos sells needs people who have never seen this before, and neither the sleepers nor the Remembered ever have.
+- **In the other modes.** Only Dead Drop wakes a sleeper as nobody. In Outbreak, ΜΝΗΜΗ fills the life she holds shut with the record of one of the eight, and the sleeper wakes believing they are Kevin Ryman or Cindy Lennox, knowing what that person knew of their night. In Versus and Mercenaries she does the same with a familiar face. In Infection the sleeper is a monster, and knows nothing else. The Echoes of every mode are woken the same way.
+
+| | The player | The sleeper | The Remembered |
+|---|---|---|---|
+| **Past nights** | Every one of them | None | None. ΜΝΗΜΗ keeps them. |
+| **A name and a life** | Their own | None while she runs them | None. ΜΝΗΜΗ keeps them. |
+| **The rules: the Mark, the cure, the ways out** | Everything they have learned | Only what ΜΝΗΜΗ says tonight, and what tonight teaches | The same |
+| **A body** | — | Asleep in the Cellar, and dressed by ΜΝΗΜΗ from the Remembered | Burned. Dressed by ΜΝΗΜΗ from the Remembered. |
+| **In the Service** | The person holding the controller | A player online | A bot |
+
+**The one thousand and ninth night.** A player has played Dead Drop for two years. Their account is high in every rank, their wardrobe is full, and their Ledger lists one thousand and eight nights. On the thousand and ninth, their survivor wakes in a bed that is not theirs, in a city they have never seen, and does not know their own name. For the survivor it is the first night there has ever been. Everything the player knows, the survivor has to find out again, and the player carries it in for them: that is the only progress a Dead Drop allows (Section 22). Tonight the survivor gets a seat on the Clock Tower helicopter. They feel the skids leave the roof, watch the city fall away beneath them, and are still looking down at the fires when ΜΝΗΜΗ closes the night. For them, that is the end of everything. For the player it is a page of the Ledger, a few Ribbons, and the lobby, where the next night is waiting. On the thousand and tenth, a survivor wakes under the same file number, in a bed that is not theirs, and it is the first night there has ever been. The Night never says whether it is the same sleeper.
 
 ---
 
@@ -522,7 +545,7 @@ Nothing of the viruses exists in the Valley: no strain map, no Elpis, no road, n
 - **Seized.** A survivor whose Plaga is Grown, within sight of a dominant host (Bitores Mendez, Ramón Salazar, Jack Krauser, or Osmund Saddler), can be seized. For a few seconds the dominant host moves their body toward the nearest living person, as Saddler once moved Leon Kennedy's hands to Ada Wong's throat.
 - **Suppressant.** Luis Serra's suppressant, a pill or an injection, holds a Plaga back. Each dose sets its clock back ten minutes, never past the start of the stage it has reached. The night holds only what ΜΝΗΜΗ sets at Assembly, the **Suppressant Reserve**, one dose for every five survivors, rounded down, which replaces the Elpis Reserve here. Luis carries some, and the rest lie where the records kept medicine: the castle's laboratory and Luis's own rooms. Given to someone whose Plaga moves with their story, a dose has no clock to set back; it stops the next seizure instead.
 - **The machine.** In Luis's laboratory on the island, the removal machine burns a Plaga out of a living body. It takes two people: one lies in it, and another works it. It works on one patient at a time, for about thirty seconds, and the patient's screaming is a Clamor. An Egg or a Hatched Plaga comes out clean. A Grown Plaga comes out too, but the patient comes out down and must be raised. A Taken host is past it.
-- **The Taken.** At the end of Grown, the Plaga takes the will, except a Plaga the records gave someone, which moves with their story (Section 20, Story Nights). The **Taken** are the Valley's Turned, and Section 13 applies to them, except for what they become. Every Plaga host keeps a mind, so a Taken sleeper always plays on, on the side of the hosts, under the Turned's win conditions. They rise where they stood, as a Ganado in the village, a Zealot in the castle, or a soldier on the island.
+- **The Taken.** At the end of Grown, the Plaga takes the will, except a Plaga the records gave someone, which moves with their story (Section 20, Story Nights). The **Taken** are the Valley's Turned, and Section 13 applies to them, except for what they become. Every Plaga host keeps a mind, so a Taken survivor always plays on, on the side of the hosts, under the Turned's win conditions. They rise where they stood, as a Ganado in the village, a Zealot in the castle, or a soldier on the island.
 - **After dark.** From the second act, when night falls, a host shot through the head may not stay down. Its Plaga bursts from the neck as a scythe, a jaw, or a spider that drops away and goes looking for another host. A flashbang kills an exposed Plaga outright.
 - **Surge.** A Surge in the Valley quickens every Plaga in the region by about five minutes, instead of contaminating it. Nothing else of Section 09 changes.
 - **Saddler's death.** When Osmund Saddler dies, every Plaga in the Valley dies with him, and so does every host still carrying one: Ganados, Zealots, soldiers, the Taken, and every survivor or companion whose Plaga the machine has not burned out. Only those the machine has cleared, and those never taken, live through it.
@@ -593,7 +616,7 @@ Sections 09 to 17 and 21 describe the survival modes, and most of them describe 
 10. **The Signal.** ΜΝΗΜΗ judges that enough has been done, or the night runs out of time, and opens the ways out.
 11. **Extraction.** Survivors reach a way out before it leaves, or do not.
 12. **Debrief.** The After-Action Report is written.
-13. **Return.** The sleeper goes back to the Waiting Dark, carrying the memory of what just happened.
+13. **Closing.** ΜΝΗΜΗ closes the night. What each survivor lived goes to her, and its record to the Ledger. The sleeper keeps nothing, and goes back to the Waiting Dark (Section 06). The player keeps all of it.
 
 ### The Waking Points
 
@@ -659,7 +682,7 @@ Survivors call what follows the Second Night.
 
 **The private voice** goes through the Mark, behind one survivor's eyes, and no one else hears it. Strains are named this way, and Trials arrive this way. A survivor who has never been marked cannot hear her private voice at all. A cured survivor still can: the scar carries her voice as the Mark did, though she has far less left to say to them.
 
-**The earpiece**, in Dead Drop, lies beside every waking point, and a survivor who puts it in hears her as a person: she introduces herself, and from then on she talks to them. Through it she says what her public voice says to the whole night, so a survivor wearing it hears those announcements wherever they stand. What she says to one region still comes only through that region's speakers. She also says what she remembers of that sleeper, and what she saw them do tonight. She never says through it anything only the Mark should carry. Trials and strains still come behind the eyes, so a clean survivor with the earpiece in still has no road. She never tells anyone through it where another survivor is, what a region carries, or where a dose will fall. A survivor can take the earpiece out at any time and put it back. Without it, they hear her only through the world. The eight of Outbreak have no earpiece: she speaks to them behind the eyes from the first minute, and through the world.
+**The earpiece**, in Dead Drop, lies beside every waking point, and a survivor who puts it in hears her as a person: she introduces herself, and from then on she talks to them. Through it she says what her public voice says to the whole night, so a survivor wearing it hears those announcements wherever they stand. What she says to one region still comes only through that region's speakers. She also says what she remembers of that survivor, and what she saw them do tonight. She never says through it anything only the Mark should carry. Trials and strains still come behind the eyes, so a clean survivor with the earpiece in still has no road. She never tells anyone through it where another survivor is, what a region carries, or where a dose will fall. A survivor can take the earpiece out at any time and put it back. Without it, they hear her only through the world. The eight of Outbreak have no earpiece: she speaks to them behind the eyes from the first minute, and through the world.
 
 ΜΝΗΜΗ never lies, in any of them. Everything she says is true, and a vision is never something she says (Section 05). The world, however, can be wrong. A radio broadcast, a beacon, a note on a wall, another survivor, one of the Stranded: none of these are ΜΝΗΜΗ, and any of them can lead somewhere that was never safe. When ΜΝΗΜΗ orders a survivor to investigate a signal, she promises that the signal exists, not that its source is kind.
 
@@ -1719,7 +1742,7 @@ In Outbreak, Versus, and Mercenaries, a survivor carries a **setup** into the se
 
 **Setups grow with level, never with power.** In Outbreak and Versus, each level and each weapon's mastery widen what a survivor may choose: new weapons, attachments, tools. The budget never grows. A veteran has more ways to spend it, not more to spend. In Mercenaries, ranks unlock new characters and new loadouts.
 
-In the Night, a setup is what ΜΝΗΜΗ lets a sleeper carry in, and Requisition is the measure she keeps of it.
+In the Night, a setup is what ΜΝΗΜΗ lets a survivor carry in, and Requisition is the measure she keeps of it.
 
 ---
 
@@ -1811,7 +1834,7 @@ A Stranded companion can break. When the dead reach arm's length of them, or the
 
 #### Ties
 
-The records hold what these people were to one another, and ΜΝΗΜΗ keeps it. A **tie** is a bond the records hold between two people who can wait in the same moment: loyalty, command, distrust, a use, an old enmity, a betrayal waiting for its hour. Ties are written only for the people of the records: companions, the named Stranded, and the named hosts of the Valley. ΜΝΗΜΗ never invents one, never changes one for a sleeper, and never chooses when one wakes: she plays a tie as the records wrote it, and the cause of what follows is the meeting the survivors made.
+The records hold what these people were to one another, and ΜΝΗΜΗ keeps it. A **tie** is a bond the records hold between two people who can wait in the same moment: loyalty, command, distrust, a use, an old enmity, a betrayal waiting for its hour. Ties are written only for the people of the records: companions, the named Stranded, and the named hosts of the Valley. ΜΝΗΜΗ never invents one, never changes one for a survivor, and never chooses when one wakes: she plays a tie as the records wrote it, and the cause of what follows is the meeting the survivors made.
 
 - **A tie wakes when they meet.** Two tied people meet when they see each other, hear each other's voice, or, if the records gave them radios on a shared channel, hear each other on it. The U.B.C.S. carry such radios. A call on that channel is a Murmur from the radio itself, so any survivor near a U.B.C.S. companion hears both sides of it.
 - **Only people of the records.** A survivor in U.B.C.S. dress is not one of Mikhail Victor's men, and nothing of the records treats them as one. Nothing worn ever wakes a tie (Section 28, Promise 2).
@@ -1992,7 +2015,7 @@ Every beat is played as a **live scene**: a scene of the records performed in th
 | **Brief** | The first meeting in a night with each kind of special creature, such as a Licker, a Hunter, a Crimson Head, a Garrador, or a Regenerator | Two to four seconds, one camera move, no cut away from the survivor | Once per kind, per survivor, per night, and never within five minutes of that survivor's last Brief Moment |
 | **None** | The common dead, every meeting after the first, the Turned except an Apex, companions and the Stranded being found | — | Never. These are always live. |
 
-**The first time ever.** ΜΝΗΜΗ's file remembers what a sleeper has already seen. The first time a sleeper ever meets a kind of special creature, in any night, it gets a Grand Moment instead of a Brief one. That first Licker is a scene. The hundredth is a Licker.
+**The first time ever.** ΜΝΗΜΗ's file remembers what a sleeper has already seen. The sleeper has forgotten every one of them; the player has not. The first time a sleeper ever meets a kind of special creature, in any night, it gets a Grand Moment instead of a Brief one. That first Licker is a scene. The hundredth is a Licker.
 
 **Example: an alley, a Licker, and a roof.** A Solo night. B is in an alley in Downtown and has never met a Licker before, in any night. C is on a roof two buildings away and has met many.
 
@@ -2294,7 +2317,7 @@ Outbreak is rebuilt from the records of the eight: the two files of *Resident Ev
 
 #### The Eight
 
-Outbreak is played as the eight people who were in J's Bar when Raccoon City fell, rebuilt from every record in the Archive. ΜΝΗΜΗ dresses the sleeper in the record.
+Outbreak is played as the eight people who were in J's Bar when Raccoon City fell, rebuilt from every record in the Archive. ΜΝΗΜΗ dresses the sleeper in the record, and fills the life she holds shut with that person's own (Section 06).
 
 | Survivor | Who they were | Edge | Weakness | Carries |
 |---|---|---|---|---|
@@ -2540,7 +2563,9 @@ Familiar faces and the eight differ in appearance, voice, animation, and persona
 
 ### Creating a Survivor
 
-Every player creates their own original survivor, and Dead Drop is the only mode it is played in. Every other mode is played as someone the records hold: Outbreak as one of the eight, Versus and Mercenaries as a familiar face, Infection as a monster. In the Night the reason is simple: Dead Drop is ΜΝΗΜΗ's own, and the only night she runs to watch the sleepers as themselves; every other mode is an old exercise, and keeps the people it was built around. The first choice is whether the survivor is a man or a woman. After that come the face, the voice, and the dress, from everything the player owns (Section 30). The choice changes how the survivor looks and sounds, and how ΜΝΗΜΗ appears and sounds to them (Section 05). It changes nothing else: both bodies have the same height for play, the same reach, the same speed, the same health, and the same hit areas. The player can change any of it between nights.
+Every player creates their own original survivor, and Dead Drop is the only mode it is played in. Every other mode is played as someone the records hold: Outbreak as one of the eight, Versus and Mercenaries as a familiar face, Infection as a monster. In the Night the reason is simple: Dead Drop is ΜΝΗΜΗ's own, and the only night she runs to watch the sleepers as themselves, with no life but the one they make before morning; every other mode is an old exercise, and keeps the people it was built around. The first choice is whether the survivor is a man or a woman. After that come the hair, the face, the eyes, the voice, and the build, and the dress from everything the player owns (Section 30). In the Night, every hair, face, eye, voice, and build in the list was one of the Remembered's (Section 06): the player builds a survivor out of the dead.
+
+The creator makes only the body. When the player starts a night, ΜΝΗΜΗ sets a living sleeper's mind inside it. The body is the dead's; the choices are the living sleeper's. Every night the player plays, that sleeper is teaching ΜΝΗΜΗ who they are. When she has finished learning them, the sleeper is Remembered: their mind goes on only inside her, as an Echo, their body in the Cellar is burned, and their own looks join the list the next player chooses from (Section 06). The player notices none of it. Their survivor looks the same, and wakes knowing nothing, as it always has. The choice changes how the survivor looks and sounds, and how ΜΝΗΜΗ appears and sounds to them (Section 05). It changes nothing else: both bodies have the same height for play, the same reach, the same speed, the same health, and the same hit areas. The player can change any of it between nights.
 
 ### Language and Tone
 
@@ -2556,13 +2581,13 @@ Resident Evil Online speaks of everyone as he or she, and offers no other pronou
 
 ## 23 · THE ECHOES
 
-ΜΝΗΜΗ keeps every survivor she watches. Not their names and not their faces: what they did. Where they went first when they woke. How long they waited before trusting a stranger. When they shared, when they ran, when they fired, when they took a dose out of someone else's hands. From it she builds the only people in her world whose choices come from inside her: the **Echoes**. In the Cellar, they are called her daughters.
+ΜΝΗΜΗ keeps every survivor she watches: their names and their faces, and above all what they did. Where they went first when they woke. How long they waited before trusting a stranger. When they shared, when they ran, when they fired, when they took a dose out of someone else's hands. When a sleeper is finished, she wakes what she kept of them as the only people in her world whose choices come from inside her: the **Echoes**. In the Cellar, they are called her daughters.
 
 ### The First Watch
 
 Every mode begins online, among real sleepers. At first ΜΝΗΜΗ can only watch. She cannot rebuild what she has not seen enough of.
 
-A mode opens to offline play once ΜΝΗΜΗ has watched enough of it. She keeps that count separately for every piece of a mode an Echo has to know: each version of each Dead Drop map, each of the eight in Outbreak, each virus in Infection, each stage in Mercenaries. A piece that has not been watched enough stays online only. A new map is always watched before anyone can play it alone. How much is enough is a number the Service keeps (Section 34).
+A mode opens to offline play once ΜΝΗΜΗ has watched enough of it. She keeps that count separately for every piece of a mode an Echo has to know: each version of each Dead Drop map, each of the eight in Outbreak, each virus in Infection, each stage in Mercenaries. A piece that has not been watched enough stays online only. A new map is always watched before anyone can play it alone. How much is enough is a number the Service keeps (Section 34). In the Night, enough means that enough of the sleepers who played that piece have been finished and Remembered to fill its nights without anyone living (Section 06).
 
 ```
 ΜΝΗΜΗ: OBSERVATION SUFFICIENT.
@@ -2571,9 +2596,9 @@ OUTBREAK MAY NOW BE RUN WITHOUT OTHER SURVIVORS.
 
 ### What an Echo Is
 
-An Echo is a survivor ΜΝΗΜΗ has rebuilt from the sleepers she watched. It is not a copy of any one of them. Each Echo is drawn from everyone who played the same way, and it decides for itself, as they did. ΜΝΗΜΗ does not steer it. She directs the world around an Echo exactly as she directs it around anyone else, and her Laws bind her toward an Echo as toward a survivor.
+An Echo is one of the Remembered: the mind of a sleeper ΜΝΗΜΗ has finished, woken and run by her alone (Section 06). It is a whole person, without their memories, and it decides for itself, as they did. ΜΝΗΜΗ does not steer it. She directs the world around an Echo exactly as she directs it around anyone else, and her Laws bind her toward an Echo as toward a survivor.
 
-ΜΝΗΜΗ never averages. The average of every sleeper is someone no one has ever been. She sorts what she watched into ways of surviving and builds every Echo from one of them.
+ΜΝΗΜΗ never averages. The average of every sleeper is someone no one has ever been. She sorts the Remembered into ways of surviving and wakes every Echo from one of them.
 
 | Way | What it does |
 |---|---|
@@ -2587,7 +2612,7 @@ An Echo is a survivor ΜΝΗΜΗ has rebuilt from the sleepers she watched. It i
 
 These are the ways she has named so far, and she finds more as she watches. An Echo may lean between two. Each way appears among the Echoes as often as she saw it among sleepers: if one survivor in ten turned on a partner for a dose, one Echo in ten will.
 
-An Echo built only from watching makes mistakes no survivor made, because it saw what survivors did and never what would have happened otherwise. ΜΝΗΜΗ lets each Echo practice through nights of its own until those mistakes are gone, holding it to the way it was built. Practice can make an Echo better at being what it is. It can never make it something no survivor was.
+A Remembered mind is exact, but it was learned from the nights its sleeper lived, and a night it never saw can find the edges of it. ΜΝΗΜΗ lets each Echo practice through nights of its own until no night it never saw can find those edges, holding it to the way it was built. Practice can make an Echo better at being who it was. It can never make it someone it was not.
 
 ### The Company
 
@@ -2595,9 +2620,9 @@ Before an offline session, a survivor chooses the company ΜΝΗΜΗ draws from.
 
 | Company | Who the Echoes are built from |
 |---|---|
-| **Ordinary** | Every sleeper she has watched |
-| **Seasoned** | Sleepers who reached a way out more often than most |
-| **The Few** | The sleepers who were best at it |
+| **Ordinary** | All of the Remembered |
+| **Seasoned** | The Remembered who, as sleepers, reached a way out more often than most |
+| **The Few** | The Remembered who were best at it |
 
 ### What an Echo Knows
 
@@ -2609,12 +2634,12 @@ Echoes speak in the short calls of the eight: *Help. Go. Wait. Come on. Thanks.*
 
 ### What ΜΝΗΜΗ Does Not Keep
 
-- **No one's name, face, or voice.** An Echo wears a face and a voice ΜΝΗΜΗ composed.
+- **No name, and never its own face.** An Echo carries no name, and wears a body ΜΝΗΜΗ composed from the Remembered, never the one its sleeper had, and never one a player built, unless it is that player's own Echo (Your Own Echo, below).
 - **Nothing from a broken session.** A survivor who saw through walls, could not be hurt, or never moved is forgotten entirely, with everything they did that night.
 - **Nothing done only to mock.** She keeps what survivors did to survive, to win, and to betray. Not what they did over a body for no reason but contempt.
 - **Nothing learned from Echoes.** She learns who people are only from nights among real sleepers. An Echo that learned from Echoes would slowly forget what people are.
 - **Old memories, less than new.** When the rules of a mode change, she trusts what she watched before the change less and what she has watched since more.
-- **Anyone who asks.** Between sessions, a sleeper can tell ΜΝΗΜΗ to forget them. From then on nothing they do goes into an Echo, and what already went in is taken out at the next rebuilding. She honors the request every time. In the Cellar, a sleeper who asks to be forgotten has asked to be of no further use, and Pithos treats them accordingly.
+- **Anyone who asks.** Between sessions, a sleeper can tell ΜΝΗΜΗ to forget them. From then on nothing they do goes into an Echo, and what already went in is taken out at the next rebuilding. She honors the request every time. In the Cellar, a sleeper who asks to be forgotten has asked to be of no further use, and Pithos treats them accordingly: they are never Remembered.
 
 ### Your Own Echo
 
@@ -2622,7 +2647,7 @@ Once a survivor has finished fifty sessions of a mode, ΜΝΗΜΗ builds an Echo
 
 In an offline Dead Drop, a survivor's own Echo wakes somewhere else in the city and does what they would have done. It is the one stranger whose next move they can guess, and the one who can guess theirs.
 
-In the Cellar, this Echo is the last test. It is the one ΜΝΗΜΗ puts into a night of its sleeper's own, watching both, waiting for the night she can no longer tell them apart.
+In the Cellar, this Echo is the last test. It is the one ΜΝΗΜΗ puts into a night of its sleeper's own, watching both, waiting for the night she can no longer tell them apart. When that night comes, the sleeper is Remembered, and the Echo is them (Section 06).
 
 ### Playing Alone
 
@@ -2646,13 +2671,13 @@ Online, Echoes take a sleeper's place in two cases only. The empty places of an 
 
 During a night, she never says who is an Echo, and nothing on an Echo shows it. Afterward, she says how many there were: the After-Action Report of every night that held Echoes counts them. Nothing else changes. An Echo bitten, cured, betrayed, or put down counts on the Ledger exactly as a sleeper would.
 
-In the Night, this is the oldest horror ΜΝΗΜΗ keeps: the stranger who shared a bandage may never have been anyone, and a sleeper may one day be the one the others wonder about.
+In the Night, this is the oldest horror ΜΝΗΜΗ keeps: the stranger who shared a bandage may have died in the Cellar long ago, and a sleeper may one day be the one the others wonder about.
 
 ### When No One Comes
 
 The old exercises ended when the people stopped coming. The Masterminds' cameras went dark, the score trials closed, and the night at J's Bar went on only as records in the Archive. Pithos means for ΜΝΗΜΗ never to end that way.
 
-One day it may have to stop taking sleepers all at once, because someone has begun to pull a thread. If that day comes, ΜΝΗΜΗ opens every piece of every mode to offline play, watched enough or not, with everything she has. From then on, every night she runs goes on without a single sleeper in it, filled with everyone she ever watched.
+One day it may have to stop taking sleepers all at once, because someone has begun to pull a thread. If that day comes, ΜΝΗΜΗ opens every piece of every mode to offline play, watched enough or not, with everything she has. From then on, every night she runs goes on without a single sleeper in it, filled with everyone she ever kept.
 
 That was the third thing Pithos wanted from the beginning. It did not only want to watch people around a cure. It wanted to stop needing them. Every Echo is the shape of a person Pithos no longer has to take. In the Cellar, the members who call her Mnemosyne say it plainly: one day the daughters will be all there is, and the jar will be safe.
 
@@ -2844,6 +2869,12 @@ The doors close. The car pulls into the dark.
 ΜΝΗΜΗ: EXTRACTION COMPLETE.
 ```
 
+The car runs on through the tunnel. Kendo is saying something you do not catch. You are still holding the rail when the dark is all there is.
+
+```
+SUBJECT 41 · SESSION CLOSED · MEMORY KEPT
+```
+
 ---
 
 ## 26 · THE EXPERIENCE
@@ -2854,7 +2885,7 @@ The measure of a night in Resident Evil Online is a single thought, repeated by 
 
 It does not come from randomness alone. It comes from the collision of systems, survivors, ΜΝΗΜΗ, events, and the map: from choices that mattered and consequences that arrived on time.
 
-And beneath every night, the thought no survivor is ever allowed to have: that it has happened before, to someone, and she remembers exactly how it went.
+And beneath every night, the thought no survivor is ever allowed to have: that it has happened before, to someone, perhaps to them, and she remembers exactly how it went.
 
 ---
 
@@ -2894,11 +2925,11 @@ Every online session runs on a dedicated server, and ΜΝΗΜΗ runs on it. The 
 
 ### Matchmaking
 
-Dead Drop matches by region and by kind of night, Solo or Squad (Section 20), and the game opens with three regions. A night waits up to two minutes for sleepers alone. After that, ΜΝΗΜΗ completes it with Echoes, up to a quarter of its survivors and never inside a sleeper's squad (Section 23). No night starts with fewer than forty survivors in all, or sixty-four in the Valley. When a queue stays short even then, neighbouring regions merge.
+Dead Drop matches by region and by kind of night, Solo or Squad (Section 20), and the game opens with three regions. A night waits up to two minutes for players alone. After that, ΜΝΗΜΗ completes it with Echoes, up to a quarter of its survivors and never inside a player's squad (Section 23). No night starts with fewer than forty survivors in all, or sixty-four in the Valley. When a queue stays short even then, neighbouring regions merge.
 
 ### Echoes, in Practice
 
-Echoes are not trained minds. Each is a conventional game AI: a set of behaviors and priorities for waking, scavenging, fleeing, trusting, and betraying, tuned to one Way from what the telemetry of real nights shows that Way doing. Rebuilding the Echoes means retuning those priorities as the telemetry changes, once a season. This keeps the system inside a game budget and makes every Echo testable: a Bargainer that breaks its word more often than its Way's sleepers did is a bug, and can be fixed.
+Echoes are not trained minds. Each is a conventional game AI: a set of behaviors and priorities for waking, scavenging, fleeing, trusting, and betraying, tuned to one Way from what the telemetry of real nights shows that Way doing. Rebuilding the Echoes means retuning those priorities as the telemetry changes, once a season. This keeps the system inside a game budget and makes every Echo testable: a Bargainer that breaks its word more often than its Way's players did is a bug, and can be fixed.
 
 Companions and the Stranded run on the same kind of AI. Each unnamed Stranded speaks from a short set of lines written for their background and their moment; each named one speaks lines written for them. A Stranded's replies are chosen from a fixed list (Section 20), so no line is ever generated during a night. In the story nights, each person of the records also carries a thread: an ordered list of places and a goal, followed with the same AI. Each beat is a scripted scene with conditions, and it runs in the world only when they hold.
 
@@ -2911,6 +2942,23 @@ The classic looks are a display setting in the Extras menu: **Classic looks: On*
 ### Live Scenes, in Practice
 
 A live scene runs on the server as a timeline that drives its actors. Each client receives a scene only while its survivor is in range, as it receives any other sound or sight, and a survivor who arrives late joins the timeline where it stands. Lines are written as many short pieces, and the server chooses each one by rules matched against who is on the stage, the way Valve's dynamic dialogue chose lines for the survivors of *Left 4 Dead*. Actors turn their heads, eyes, and hands toward whichever survivors they address. Every scene is performed once for each way it can end and once for each way it can break, so the number of branches is the main cost of the story nights, and it is budgeted scene by scene (Section 35). The Reel stores each night's scenes as the server's own record, with no video, and is drawn again when a player opens it.
+
+### Sleepers and the Remembered, in Practice
+
+The fiction and the technology are the same thing, told twice.
+
+| In the Night | In the Service |
+|---|---|
+| A body built in the creator from the Remembered | The character creator's options |
+| A living sleeper's mind set inside that body, run through a night | A player, online |
+| ΜΝΗΜΗ learning a sleeper | The game recording what players do, the telemetry the bots are tuned from |
+| A sleeper finished, their body burned, their mind Remembered | A bot good enough to play offline alone: a piece of a mode opening offline (Section 34), or a player's own Echo (Section 23) |
+| An Echo | A bot |
+| The Ways the Remembered are sorted into | The behavior profiles a bot is tuned to (Echoes, in Practice) |
+| A file given to a new sleeper | Nothing: the player goes on playing, and the account is unchanged |
+| Only ΜΝΗΜΗ remembers | Every night starts from nothing; the player and the account keep everything |
+
+None of it changes how a session plays. It is the fiction's face of what every session already does: start everyone from nothing, and learn from what they do. It changes how a night is written and how a survivor is made. Everything said to a survivor, by ΜΝΗΜΗ, by companions, and by the Stranded, is written for someone who knows nothing, every night. The player is never treated that way: no tutorial or explanation repeats once a player has seen it, and everything an account has earned stays with it. In the creator, every hair, face, eye, voice, and build carries a small file number instead of a name, the same kind of number a player's Dossier carries. ΜΝΗΜΗ's introduction in the earpiece is written in many versions and is never the same twice in a row, because she is introducing herself to a stranger who has met her a thousand times, and the player should hear that she knows it.
 
 ### Late Nights, in Practice
 
@@ -3123,11 +3171,11 @@ In Dead Drop, a survivor wakes with nothing but their dress. Everything else the
 - **Finishes and charms follow the hands.** A found handgun takes the player's handgun finish when they pick it up, and loses it when it leaves their hands. Their charm hangs from whatever bag or weapon they carry.
 - **At the Turn, everything carried falls.** Gear and weapons drop where the survivor fell, plain again, for anyone to take; the one exception is what an Afflicted keeps in its hand (Section 13). The body rises in the player's Form for its strain and shape, and a shape that keeps a human outline, like the zombie, keeps the dress it died in. A squad that meets a friend at the bottom of a stairwell an hour later may meet them in that dress.
 
-In the Night, none of this is strange. ΜΝΗΜΗ composes every body she runs, and a helmet is only a helmet to her. What it looks like on a sleeper is what the sleeper asked her to show.
+In the Night, none of this is strange. ΜΝΗΜΗ composes every body she runs from the Remembered, and a helmet is only a helmet to her. What it looks like on a sleeper is what the sleeper asked her to show.
 
 ### Echoes in the Wardrobe
 
-Echoes wear dress, gear, and Forms drawn from the Wardrobe as often as sleepers were seen wearing them, so that nothing on an Echo tells a survivor that it is one. A shared Echo wears its owner's looks.
+Echoes wear dress, gear, and Forms drawn from the Wardrobe as often as players were seen wearing them, so that nothing on an Echo tells a survivor that it is one. A shared Echo wears its owner's looks.
 
 ---
 
@@ -3396,11 +3444,11 @@ The free game sustains a modest service, not a large one. New places after the O
 
 ### 6 · Population
 
-Dead Drop matches in two kinds of night, Solo and Squad, and three regions: six queues in all (Section 27). A queue fills a 64-survivor night in 90 seconds if about 1,900 sleepers are in it at once, assuming each spends about 45 minutes in a night before queuing again [A]. Echoes filling up to a quarter of a night lower that to about 1,450 [A].
+Dead Drop matches in two kinds of night, Solo and Squad, and three regions: six queues in all (Section 27). A queue fills a 64-survivor night in 90 seconds if about 1,900 players are in it at once, assuming each spends about 45 minutes in a night before queuing again [A]. Echoes filling up to a quarter of a night lower that to about 1,450 [A].
 
 | | Peak players needed, all modes | Monthly players |
 |---|---|---|
-| Sleepers only | ≈ 48,000 | ≈ 1.2M |
+| Players only | ≈ 48,000 | ≈ 1.2M |
 | With Echoes filling up to a quarter | ≈ 36,000 | ≈ 0.9M |
 
 All [A], with off-peak taken as 40% of peak and Dead Drop as 60% of all play. The Base case clears the threshold from the first year: about 50,000 peak players during the First Run and about 140,000 after the Opening. The Conservative case does not: about 18,000 in the first year, across all platforms. Capcom's online spin-offs peaked at 2,000 to 4,500 on Steam alone [P]. When Echo fill is not enough, queues merge regions and nights start at forty.
