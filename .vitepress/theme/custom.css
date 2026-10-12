@@ -9,9 +9,7 @@
   --vp-c-brand-3: #7c3aed;
   --vp-c-brand-soft: rgba(139, 92, 246, 0.16);
 
-  /* Comfortable reading measure. */
   --vp-layout-max-width: 1440px;
-  --content-max: 46rem;
 }
 
 .dark {
@@ -20,79 +18,203 @@
   --vp-c-bg-soft: #191921;
 }
 
-/* ---- Reading typography ------------------------------------------------- */
-.vp-doc {
-  font-size: 17px;
-  line-height: 1.78;
+/* ---- Reading ------------------------------------------------------------
+   A work is read alone: no sidebar, one centred column of prose set in a
+   book face at a comfortable size and measure. Headings, tables, code and
+   the interface stay in Inter, so structure reads as structure. */
+:root {
+  --read-font: 'Source Serif 4', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+  --read-size: 1.1875rem;
+  --read-leading: 1.78;
+  --read-measure: 40rem;
+  --read-text: #26262e;
 }
-.vp-doc .content-container {
-  max-width: none;
+.dark {
+  --read-text: rgba(255, 255, 255, 0.86);
 }
-.vp-doc h1 {
-  font-size: 2.2rem;
-  line-height: 1.2;
-  letter-spacing: -0.02em;
-  margin-bottom: 0.6em;
-}
-.vp-doc h2 {
-  margin-top: 3rem;
-  padding-top: 1.6rem;
-  letter-spacing: -0.01em;
-}
-.vp-doc h3 {
-  margin-top: 2.2rem;
-}
-.vp-doc p,
-.vp-doc li {
-  hyphens: auto;
+@media (max-width: 640px) {
+  :root {
+    --read-size: 1.0625rem;
+    --read-leading: 1.72;
+  }
 }
 
-/* Constrain prose to a readable measure while keeping media full-bleed. */
-.vp-doc > div > p,
-.vp-doc > div > ul,
-.vp-doc > div > ol,
-.vp-doc > div > blockquote,
-.vp-doc > div > h1,
-.vp-doc > div > h2,
-.vp-doc > div > h3,
-.vp-doc > div > h4 {
-  max-width: var(--content-max);
+/* The column: centred, the outline kept to the side on wide screens. */
+.VPDoc .content-container {
+  max-width: var(--read-measure) !important;
+  margin: 0 auto;
+}
+.VPDoc .container {
+  max-width: 1120px !important;
+}
+
+.vp-doc {
+  font-size: var(--read-size);
+  line-height: var(--read-leading);
+  color: var(--read-text);
+}
+.vp-doc p,
+.vp-doc li,
+.vp-doc blockquote {
+  font-family: var(--read-font);
+  font-optical-sizing: auto;
+  hyphens: auto;
+  text-wrap: pretty;
+}
+.vp-doc p {
+  margin: 1.15em 0;
+}
+.vp-doc li + li {
+  margin-top: 0.35em;
+}
+.vp-doc strong {
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+.vp-doc a {
+  text-underline-offset: 3px;
+}
+
+/* Headings: the work's own structure, in the interface face. */
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3,
+.vp-doc h4 {
+  color: var(--vp-c-text-1);
+  text-wrap: balance;
+}
+.vp-doc h1 {
+  font-size: clamp(2rem, 4.5vw, 2.6rem);
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+  font-weight: 800;
+  margin-bottom: 0.7em;
+}
+.vp-doc h2 {
+  font-size: 1.55rem;
+  line-height: 1.3;
+  margin-top: 3.2rem;
+  padding-top: 1.8rem;
+  letter-spacing: -0.015em;
+}
+.vp-doc h3 {
+  font-size: 1.22rem;
+  margin-top: 2.4rem;
+}
+.vp-doc h4 {
+  font-size: 1.02rem;
+  margin-top: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--vp-c-text-2);
+}
+
+/* A rule between parts reads as a section break, not a line. */
+.vp-doc hr {
+  border: 0;
+  height: auto;
+  margin: 3rem 0;
+  text-align: center;
+  overflow: visible;
+}
+.vp-doc hr::after {
+  content: '◆  ◆  ◆';
+  font-size: 0.7rem;
+  letter-spacing: 0.6em;
+  color: var(--vp-c-text-3);
 }
 
 /* ---- Blockquotes -------------------------------------------------------- */
 .vp-doc blockquote {
   border-left: 3px solid var(--vp-c-brand-2);
   background: var(--vp-c-bg-soft);
-  border-radius: 0 8px 8px 0;
-  padding: 0.4rem 1.25rem;
+  border-radius: 0 10px 10px 0;
+  padding: 0.5rem 1.4rem;
+  margin: 1.8rem 0;
   font-style: italic;
   color: var(--vp-c-text-2);
 }
 .vp-doc blockquote p {
   margin: 0.6rem 0;
+  font-size: 1em;
 }
 
-/* ---- Tables ------------------------------------------------------------- */
+/* ---- Tables: reference material, set compact and in the interface face -- */
 .vp-doc table {
-  display: table;
+  display: block;
   width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
   border-collapse: collapse;
-  overflow: hidden;
   border-radius: 10px;
   border: 1px solid var(--vp-c-divider);
+  font-size: 0.86rem;
+  line-height: 1.55;
+  margin: 1.8rem 0;
 }
 .vp-doc th {
   background: var(--vp-c-bg-soft);
   font-weight: 600;
+  white-space: nowrap;
+}
+.vp-doc th,
+.vp-doc td {
+  padding: 0.6rem 0.9rem;
+  vertical-align: top;
 }
 .vp-doc tr:nth-child(2n) td {
   background: var(--vp-c-bg-alt);
 }
+.vp-doc td p,
+.vp-doc td li {
+  font-family: inherit;
+  margin: 0;
+}
 
-/* Horizontal scroll only for the table itself, never the page. */
-.vp-doc div[class*='language-'],
-.vp-doc table {
+/* ---- Code: in-world records and transcripts ----------------------------- */
+.vp-doc div[class*='language-'] {
   max-width: 100%;
+  margin: 1.8rem 0;
+  border-radius: 10px;
+}
+.vp-doc div[class*='language-'] code {
+  font-size: 0.86rem;
+  line-height: 1.7;
+}
+.vp-doc :not(pre) > code {
+  font-size: 0.85em;
+}
+
+/* ---- The outline beside the column: quiet, small, out of the way -------- */
+.VPDocAsideOutline .outline-title {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--vp-c-text-3);
+}
+.VPDocAsideOutline .outline-link {
+  font-size: 0.8rem;
+  color: var(--vp-c-text-3);
+}
+.VPDocAsideOutline .outline-link:hover,
+.VPDocAsideOutline .outline-link.active {
+  color: var(--vp-c-text-1);
+}
+
+::selection {
+  background: var(--vp-c-brand-soft);
+}
+
+/* ---- Reading progress --------------------------------------------------- */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  z-index: 100;
+  background: linear-gradient(90deg, var(--vp-c-brand-3), var(--vp-c-brand-1));
+  transform-origin: 0 50%;
+  pointer-events: none;
 }
 
 /* ---- Images ------------------------------------------------------------- */
@@ -539,4 +661,11 @@
 }
 .dark .outdated-notice strong {
   color: #fbbf24;
+}
+
+/* Lists of works (shelves, collections) are navigation, not prose. */
+.vp-doc .collection p,
+.vp-doc .collection li {
+  font-family: var(--vp-font-family-base);
+  hyphens: manual;
 }

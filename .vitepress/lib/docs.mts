@@ -11,7 +11,10 @@
 //     1. It is a Markdown file located either
 //          a) at the REPOSITORY ROOT, or
 //          b) directly inside a COLLECTION folder: a top-level folder that
-//             contains an `index.md` (the collection's own page).
+//             contains an `index.md` (the collection's own page). A
+//             collection is either one work in many documents (Resident Evil
+//             Online), shown as one card, or a SHELF (`shelf: true` in its
+//             index), a folder of separate works, each shown on its own.
 //        Any other subfolder — one without an `index.md` — stays private,
 //        and so does anything nested deeper inside a collection.
 //     2. Its name is not in DEV_DENYLIST (README, LICENSE, config docs, ...).
@@ -76,6 +79,8 @@ export interface CollectionMeta extends DocMeta {
   dir: string
   /** The collection's documents, in reading order. */
   docs: DocMeta[]
+  /** A shelf holds separate works (Fiction/, Fanfiction/, …), not one work. */
+  shelf: boolean
 }
 
 export type LibraryItem = (DocMeta & { kind?: 'doc' }) | CollectionMeta
@@ -229,6 +234,7 @@ export function discoverCollections(): CollectionMeta[] {
     const dir = entry.name
     const meta = readDoc(indexAbs, `${dir}/index.md`, `/${dir}/`, dir)
     if (!meta) continue // the whole collection is flagged private
+    const shelf = readShelfFlag(indexAbs)
 
     const docs: DocMeta[] = []
     for (const child of fs.readdirSync(dirAbs, { withFileTypes: true })) {
@@ -242,7 +248,7 @@ export function discoverCollections(): CollectionMeta[] {
       )
       if (doc) docs.push(doc)
     }
-    collections.push({ ...meta, kind: 'collection', dir, docs: docs.sort(byOrder) })
+    collections.push({ ...meta, kind: 'collection', dir, docs: docs.sort(byOrder), shelf })
   }
   return collections.sort(byOrder)
 }
@@ -262,6 +268,14 @@ export function sectionsOf(docs: DocMeta[]): { section?: string; docs: DocMeta[]
   return groups
 }
 
+function readShelfFlag(indexAbs: string): boolean {
+  try {
+    return matter(fs.readFileSync(indexAbs, 'utf-8')).data.shelf === true
+  } catch {
+    return false
+  }
+}
+
 /** Collections that have at least one document — the ones the site shows. */
 export function visibleCollections(): CollectionMeta[] {
   return discoverCollections().filter((c) => c.docs.length > 0)
@@ -269,8 +283,14 @@ export function visibleCollections(): CollectionMeta[] {
 
 /** Documents grouped by category, in canonical category order. */
 export function groupByCategory(): { category: string; docs: LibraryItem[] }[] {
-  // Root documents and collections share the grid: a collection is one entry.
-  const docs: LibraryItem[] = [...discoverDocs(), ...visibleCollections()].sort(byOrder)
+  // Root documents and collections share the grid: a collection is one entry,
+  // and every work on a shelf is an entry of its own.
+  const collections = visibleCollections()
+  const docs: LibraryItem[] = [
+    ...discoverDocs(),
+    ...collections.filter((c) => !c.shelf),
+    ...collections.filter((c) => c.shelf).flatMap((c) => c.docs)
+  ].sort(byOrder)
   const seen = new Set<string>()
   const groups: { category: string; docs: LibraryItem[] }[] = []
 

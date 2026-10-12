@@ -22,7 +22,7 @@ documentos:
   # declarado. `biblia` foi a leitura do Claude: o texto afirma proposições
   # sobre o mundo e traz registros internos (logs, relatórios oficiais).
   # O AUTOR confirma ou troca.
-  - arquivo: lattice_zero.md
+  - arquivo: Worldbuilding/lattice_zero.md
     tipo: biblia
 
   # Cópia com erros plantados (teste de fumaça do harness). Só roda quando

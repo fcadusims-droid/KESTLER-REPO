@@ -1,3 +1,7 @@
+---
+description: "A character bible for Rayo, son of Broly and Cheelai: the only Saiyan-descended fighter who has never once released his power on purpose."
+---
+
 # RAYO — CHARACTER BIBLE
 
 **Name:** Rayo

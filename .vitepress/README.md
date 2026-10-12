@@ -65,6 +65,16 @@ Resident Evil Online/
 - A collection with no documents yet is not built or shown.
 - `publish: false` on the `index.md` hides the whole collection.
 - A folder without `index.md` is private, as before.
+- `shelf: true` on the `index.md` makes the folder a shelf instead: a folder
+  of separate works (`Fiction/`, `Fanfiction/`, …). Each work on a shelf gets
+  its own homepage card, takes the shelf's category unless it sets its own,
+  and has no Previous/Next.
+
+## Reading mode
+
+No page shows a sidebar: a reader who opens a work sees only that work. The
+sidebar config exists only so the documents of a multi-document collection
+(not a shelf) get Previous/Next in reading order.
 
 ## Outdated documents
 

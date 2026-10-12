@@ -160,7 +160,7 @@ Critérios de parada, definidos **antes** (em `project.yaml`), sempre contra o
 ### Passo a passo
 
 **1. Tipos dos documentos.** Rode `classificar --todos`, confira e declare em
-`doctypes.yaml` as obras que entram. O piloto (`lattice_zero.md`) está como
+`doctypes.yaml` as obras que entram. O piloto (`Worldbuilding/lattice_zero.md`) está como
 `biblia` por leitura do Claude; confirme ou troque.
 
 **2. Canon.** Revise `canon/characters.yaml` e `canon/timeline.yaml`. O que

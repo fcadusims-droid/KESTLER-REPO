@@ -37,7 +37,7 @@ const first = computed(() => collection.value?.docs[0])
       {{ collection.docs.length === 1 ? 'document' : 'documents' }}
       <template v-if="sections.length > 1"> · {{ sections.length }} parts</template>
     </p>
-    <p v-if="first && collection.docs.length > 1" class="collection-start">
+    <p v-if="first && collection.docs.length > 1 && !collection.shelf" class="collection-start">
       Start reading:
       <a :href="withBase(first.link)">{{ first.title }} →</a>
     </p>

@@ -64,7 +64,13 @@ def cmd_validar(a) -> int:
 
 
 def cmd_classificar(a) -> int:
-    alvos = a.arquivos or ([p.name for p in sorted((RAIZ / "..").resolve().glob("*.md"))
+    raiz = (RAIZ / "..").resolve()
+    # As obras ficam na raiz e nas pastas de primeiro nível (Fiction/, Worldbuilding/…);
+    # esta pasta, as do site e as ocultas ficam de fora.
+    fora = {RAIZ.name, "node_modules", "public"}
+    candidatos = list(raiz.glob("*.md")) + [p for p in raiz.glob("*/*.md")
+                                            if p.parent.name not in fora and not p.parent.name.startswith(".")]
+    alvos = a.arquivos or ([str(p.relative_to(raiz)) for p in sorted(candidatos)
                             if p.name not in ("index.md", "README.md")] if a.todos else [])
     if not alvos:
         print("informe arquivos ou --todos")
