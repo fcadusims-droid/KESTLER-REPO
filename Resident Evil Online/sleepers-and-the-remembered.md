@@ -1,3 +1,9 @@
+---
+section: "01 · Lore"
+description: "Who the survivors really are, the Waiting Dark, what the body keeps, the Last Night, the Remembered"
+order: 6
+---
+
 # The Sleepers and the Remembered
 
 ## Who They Are

@@ -1,3 +1,9 @@
+---
+section: "06 · The Service"
+description: "Offline play, ownership, and what happens if the service ends"
+order: 33
+---
+
 # Offline and Ownership
 
 ## Online First, Then Offline

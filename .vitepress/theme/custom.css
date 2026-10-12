@@ -443,7 +443,8 @@
 .archive-colophon p { margin: 0; }
 .archive-colophon strong { color: var(--vp-c-text-1); font-weight: 600; }
 
-/* Collection page (a folder's index.md with <Collection />) */
+/* Collection page (a folder's index.md with <Collection />): a table of
+   contents, grouped by part, in reading order. */
 .collection {
   margin-top: 1.5rem;
 }
@@ -452,23 +453,55 @@
   text-transform: uppercase;
   letter-spacing: 0.18em;
   color: var(--vp-c-text-2);
-  margin: 0 0 1rem;
-}
-.collection .archive-grid {
-  padding: 0;
-}
-.vp-doc .collection .archive-card-title {
-  border: 0;
   margin: 0 0 0.5rem;
-  padding: 0;
 }
-.vp-doc .collection a {
-  text-decoration: none;
+.vp-doc .collection-start {
+  margin: 0 0 1.5rem;
+  font-weight: 600;
 }
-.vp-doc .collection ul,
-.vp-doc .collection li {
+.vp-doc .collection-part-title {
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  margin: 2rem 0 0.75rem;
+  padding-top: 1rem;
+}
+.vp-doc .collection-list {
   list-style: none;
+  padding: 0;
   margin: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+.vp-doc .collection-item {
+  margin: 0;
+}
+.vp-doc .collection-item a {
+  display: block;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--vp-c-text-1);
+  transition: border-color 0.2s, background 0.2s;
+}
+.vp-doc .collection-item a:hover {
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+}
+.collection-item-title {
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+.collection-item-desc {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* Outdated documents (front matter `outdated`) */

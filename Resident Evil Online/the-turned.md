@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "The Turn, the four shapes, who keeps a mind, the Second Night, the Lost"
+order: 14
+---
+
 # The Turned
 
 Not every survivor reaches Elpis. Not every survivor who reaches it is in time.

@@ -1,5 +1,5 @@
 import { defineConfig, type HeadConfig } from 'vitepress'
-import { groupByCategory, excludedGlobs } from './lib/docs.mts'
+import { groupByCategory, excludedGlobs, sectionsOf, visibleCollections } from './lib/docs.mts'
 
 // ---------------------------------------------------------------------------
 // Public site identity. Change SITE_* here (or via env) if the repo is renamed
@@ -29,7 +29,11 @@ const sidebar = groupByCategory().map((group) => ({
           text: d.title,
           link: d.link,
           collapsed: true,
-          items: d.docs.map((c) => ({ text: c.title, link: c.link }))
+          // Documents with a `section` are nested under it, in reading order.
+          items: sectionsOf(d.docs).flatMap((s) => {
+            const links = s.docs.map((c) => ({ text: c.title, link: c.link }))
+            return s.section ? [{ text: s.section, collapsed: false, items: links }] : links
+          })
         }
       : { text: d.title, link: d.link }
   )
@@ -110,6 +114,25 @@ export default defineConfig({
 
   // Markdown rendering options (footnotes/tables/task-lists are on by default).
   markdown: {
+    // Inside a collection, documents cite each other by file name in code
+    // (`survival.md`). Render each such citation as a link to that document,
+    // labelled with its title. Anything else in code spans is left alone.
+    config(md) {
+      const targets = new Map<string, { title: string; href: string }>()
+      for (const c of visibleCollections()) {
+        for (const d of c.docs) {
+          targets.set(d.file, { title: d.title, href: encodeURI(BASE + d.link.replace(/^\//, '')) })
+        }
+      }
+      const fallback = md.renderer.rules.code_inline!
+      md.renderer.rules.code_inline = (tokens, idx, options, env, self) => {
+        const name = tokens[idx].content.trim()
+        const dir = String(env?.relativePath || '').split('/').slice(0, -1).join('/')
+        const hit = dir && /^[\w-]+\.md$/.test(name) ? targets.get(`${dir}/${name}`) : undefined
+        if (!hit) return fallback(tokens, idx, options, env, self)
+        return `<a class="collection-ref" href="${md.utils.escapeHtml(hit.href)}">${md.utils.escapeHtml(hit.title)}</a>`
+      }
+    },
     lineNumbers: true,
     image: {
       // Lazy-load images for performance.

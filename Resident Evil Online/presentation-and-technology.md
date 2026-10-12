@@ -1,3 +1,9 @@
+---
+section: "06 · The Service"
+description: "Camera, engine and the look, the rebuilt city, servers, matchmaking, voice, music, and how each system is built in practice"
+order: 28
+---
+
 # Presentation and Technology
 
 ## Third Person, Everywhere

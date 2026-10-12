@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "ΜΝΗΜΗ as director: voices, Laws, the Pulse, stillness, planning, leavers, her bodies, visions"
+order: 9
+---
+
 # ΜΝΗΜΗ as Director
 
 ΜΝΗΜΗ directs every Survivor night as everything below describes. In it she is a third faction, the engine of pressure, and the source of every drop.

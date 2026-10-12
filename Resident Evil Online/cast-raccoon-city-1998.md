@@ -1,3 +1,9 @@
+---
+section: "05 · Story Nights"
+description: "Acts, beats, named creatures, the Last Morning, people, roster, and ties of Raccoon City, 1998"
+order: 25
+---
+
 # The People of Raccoon City, 1998
 
 A night in the Raccoon City of 1998 runs the city's last three days, from the morning Jill Valentine escaped her apartment to the dawn the missile fell.

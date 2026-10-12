@@ -1,3 +1,9 @@
+---
+section: "06 · The Service"
+description: "The First Run, the Opening, the Promises, Conduct, and the record they answer"
+order: 29
+---
+
 # The Service
 
 **Resident Evil Online is paid first and free after.** For its first two years it is sold once, at a low price. On a date announced the day it launches, it becomes free to play for good. From that day, no mode, map, scenario, character, or companion is ever sold again.

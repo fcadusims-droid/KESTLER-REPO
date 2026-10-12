@@ -1,3 +1,9 @@
+---
+section: "05 · Story Nights"
+description: "Acts, beats, named hosts, people, the Island's End, roster, and ties of the Valley, 2004"
+order: 26
+---
+
 # The People of the Valley, 2004
 
 A night in the Valley runs the records' time in Spain, from the day Leon Kennedy drove in to look for the President's daughter to the dawn he rode away from the burning island. In the records that is about a single day: arrival by daylight, a few hours lost unconscious after the lake, the castle by night, the island in the small hours, and sunrise at the end. A Raccoon City night runs three days; a Valley night runs one, from morning to the next morning.

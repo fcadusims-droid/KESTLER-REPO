@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "Objectives, restrictions, puzzles, vaults, secret weapons, events"
+order: 18
+---
+
 # Objectives, Restrictions, and Events
 
 ## The Primary Objective

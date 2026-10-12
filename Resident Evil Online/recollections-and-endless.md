@@ -1,3 +1,9 @@
+---
+section: "08 · Future Development"
+description: "The Recollections frames and Endless"
+order: 40
+---
+
 # Recollections and Endless
 
 ## Recollections

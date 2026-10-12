@@ -20,7 +20,9 @@ subfolder stays private and never appears in the portfolio.
 folder. A top-level folder becomes a collection when it contains an `index.md`;
 every `.md` dropped into it then joins the collection, with one card on the
 homepage and its own page listing the documents. A collection stays hidden
-until it has at least one document. Example: `Resident Evil Online/`.
+until it has at least one document. Example: `Resident Evil Online/`. Inside a
+collection, `order` sets the reading order and `section: "01 · Lore"` groups
+documents into parts.
 
 ```yaml
 # Resident Evil Online/index.md

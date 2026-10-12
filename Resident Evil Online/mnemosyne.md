@@ -1,3 +1,9 @@
+---
+section: "01 · Lore"
+description: "ΜΝΗΜΗ herself: names, make-up, the Growth, the anomalies, purpose, night time and world time, personality, voice, breaks"
+order: 5
+---
+
 # ΜΝΗΜΗ
 
 ## Two Names

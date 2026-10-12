@@ -1,3 +1,9 @@
+---
+section: "04 · Survivor Mode"
+description: "Survivor: squads, companions, the Stranded, ties, eyes and ears, winning"
+order: 23
+---
+
 # Survivor
 *Extraction survival horror · PvPvE · 40 to 100 survivors by map · Solo, Duo, Trio, Squad of 4*
 

@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "The Mark, transmission, strain map, anomalous strains, stages, clock, antivirals, Down, Resonance"
+order: 10
+---
+
 # The Infection
 
 The virus works as everything below describes. In the Valley of 2004, the Plaga takes its place (`exclusions-and-the-plaga.md`).

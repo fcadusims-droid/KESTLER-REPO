@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "The six viruses, Petitions, pure strains, the Embrace, the Parasite Drop"
+order: 12
+---
+
 # The Strains
 
 Not every infection is the same infection. Behind every Mark is a virus with a temperament. Each advances at its own pace, gives its carrier something, and takes something in return. A survivor who knows what they carry knows how to play.

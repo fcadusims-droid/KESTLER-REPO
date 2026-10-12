@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "What ΜΝΗΜΗ leaves out of her world, the Plaga of the Valley, and its pesetas and Merchant"
+order: 13
+---
+
 # What ΜΝΗΜΗ Leaves Out
 
 Elpis answers viruses. It does not answer a fungus or a parasite. Pithos does not simulate what its cure cannot touch, so ΜΝΗΜΗ's world contains no Mold, and no Plaga but in one place: the Spanish valley where the Plaga surfaced in 2004 (The Plaga, below). Everywhere else it contains one parasite, NE-α, and only because the parasite takes no body that the cure could still save. The copy the Connections made of it, NE-γ, is in her world once, for the same reason: in the body of Victor Gideon, in the Ruins of 2026 (`cast-ruins-2026.md`). The embryos of the G-Virus do not count: they are the virus's own flesh, and the cure answers them with the rest of it.

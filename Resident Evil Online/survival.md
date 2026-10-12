@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "Health, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing"
+order: 17
+---
+
 # Survival
 
 ## A World That Does Not Want You Armed

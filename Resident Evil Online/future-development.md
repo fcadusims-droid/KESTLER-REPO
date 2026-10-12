@@ -1,3 +1,9 @@
+---
+section: "08 · Future Development"
+description: "The modes kept for possible future development, and how each would touch the rest of the game"
+order: 35
+---
+
 # Future Development
 
 Resident Evil Online launches and runs as Survivor alone. The modes in this folder were designed alongside it and are kept as possible future development. None of them is part of the current game, none is scheduled, and none may take anything from Survivor: a future mode opens only if the service can pay for it (`seasons-and-new-content.md`, The Order of Arrival).

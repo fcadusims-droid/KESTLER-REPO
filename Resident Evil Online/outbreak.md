@@ -1,3 +1,9 @@
+---
+section: "08 · Future Development"
+description: "Outbreak: the eight, the scenarios, the virus, the escape, difficulty"
+order: 36
+---
+
 # Outbreak
 *Co-op scenario · PvE · 1 to 4 survivors*
 
