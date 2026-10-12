@@ -1,7 +1,7 @@
 ---
 section: "04 · Survivor Mode"
 description: "Survivor: squads, companions, the Stranded, ties, eyes and ears, winning"
-order: 23
+order: 24
 ---
 
 # Survivor
@@ -39,8 +39,10 @@ Once bitten, each member carries their own virus, clock, and road. A dose cures 
 - **One at a time.** A team whose companion is gone may rescue another, if anyone is still waiting.
 - **The rescue is the price.** A companion is always somewhere dangerous, and getting them out is always loud.
 - **Companions are who the records say they were.** They fight with the skills and weapons they are known for, help up a survivor who is down, and take part in puzzles built for two. Most are loyal. A few, like Nikolai Zinoviev, are exactly as loyal as they ever were, and what each owes the others is written in their ties (below).
+- **Some carry a secret weapon.** A companion whose records put one of the map's secret weapons in their hands may wake carrying it, when ΜΝΗΜΗ chooses so at Assembly: Leon Kennedy with the Lightning Hawk, Claire Redfield with the GM 79, Jill Valentine with the MGL. It counts among the night's secret weapons and lies nowhere else that night (`objectives-restrictions-events.md`, Secret Weapons). It changes what a rescue is worth: a survivor who brings that companion along brings one of the surest answers to the Heavy in the city, and a pair can put down what otherwise takes a crowd (`survival.md`, Run First). Every stranger who sees it knows it too.
+- **Their secret weapon is theirs alone.** The companion fires it themselves, with its own finite load, and spends it on the Heavy, not on the common dead. They never hand it over, no survivor can take it from them, and it never falls for anyone to pick up. If the companion dies or turns, it lies spent and broken where they fell, and no one carries it away; a companion who defects keeps it, as a Defector keeps everything they carried. Letting a companion die is never a way to get their weapon.
 - **Companions follow simple calls.** Follow. Wait here. Go there. Leave.
-- **Companions are mortal.** They can be wounded, killed, and infected. An infected companion's clock runs like anyone's, unless their records gave them that infection (`story-nights.md`). They walk no road: the only dose that can cure them is one someone else earned. A companion who turns is no longer a companion. ΜΝΗΜΗ plays what they became, and if the strain left them a mind, they use it.
+- **Companions are mortal.** They can be wounded, killed, and infected. An infected companion's clock runs like anyone's, unless their records gave them that infection (`story-nights.md`). They walk no road: the only dose that can cure them is one someone else earned. A companion who turns is no longer a companion. ΜΝΗΜΗ plays what they became, and if the strain left them a mind, they use it. Their secret weapon, if they carried one, does not rise with them.
 - **Companions need seats.** An extracted companion is written into the team's report.
 - **Companions belong to their moment.** A map's version is a moment in the records, and only people the records place there, at that moment, can wait in it, as they were then. Chris Redfield is not in the Raccoon City of September 1998: the records put him in Europe. No one waits in a moment they had not yet reached or had already left, and no one is younger or older than the records make them there. A new companion arrives only with a version whose moment holds them. The one exception is a crosstime night, when the people of one moment can wait in another's map (`story-nights.md`, Crosstime Weekends).
 
@@ -148,4 +150,4 @@ Survivor has no icons. No name tags, no markers over teammates, no radar, no pin
 
 A survivor wins by being extracted: clean, cured, or still infected. The Turned with a mind still standing at the end win when fewer than half of the survivors alive at the extraction signal got out (`the-turned.md`, The Turned Win). A squad's result is recorded survivor by survivor.
 
-The Ledger does not rank a night by its result alone. It counts what a survivor did: public objectives completed, puzzles solved, survivors raised, the Stranded freed and brought out, doses given away, Plagas burned out of others, Turned, Taken, and Defectors put down. Then it weighs that count by the result: most for a clean extraction, less for a cured one, least for an infected one. A survivor who extracted clean and did nothing has a clean result and an empty page.
+The Ledger does not rank a night by its result alone. It counts what a survivor did: public objectives completed, puzzles solved, survivors raised, the Stranded freed and brought out, doses given away, Plagas burned out of others, Turned, Taken, and Defectors put down, and every Heavy put down. Then it weighs that count by the result: most for a clean extraction, less for a cured one, least for an infected one. A survivor who extracted clean and did nothing has a clean result and an empty page.

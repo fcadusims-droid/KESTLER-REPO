@@ -1,7 +1,7 @@
 ---
 section: "08 · Future Development"
 description: "Outbreak: the eight, the scenarios, the virus, the escape, difficulty"
-order: 36
+order: 37
 ---
 
 # Outbreak

@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "The After-Action Report and its variants"
-order: 21
+order: 22
 ---
 
 # The After-Action Report
@@ -103,6 +103,13 @@ A night in which a survivor's body reached a new stage of Hardening (`survivors.
 
 ```
 SUBJECT ACCLIMATION ...... THE HANDS WERE STEADIER TONIGHT.
+```
+
+A survivor who helped put down a Heavy, or got away from one, adds a line for each:
+
+```
+HEAVY PUT DOWN ........... TYRANT-CLASS
+HEAVY ESCAPED ............ NEMESIS-T TYPE
 ```
 
 A survivor a Warden held adds the line, and a survivor a Warden ended says why:

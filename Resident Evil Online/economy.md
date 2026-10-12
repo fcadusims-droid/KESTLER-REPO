@@ -1,7 +1,7 @@
 ---
 section: "06 · The Service"
 description: "Ink Ribbons, earning, prices, Release Weekends, Patron, the Wardrobe"
-order: 30
+order: 31
 ---
 
 # The Economy

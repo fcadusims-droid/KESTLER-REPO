@@ -1,7 +1,7 @@
 ---
 section: "06 · The Service"
 description: "Cosmetic rules, what can be owned, gear in Survivor, the Dossier, the diorama"
-order: 31
+order: 32
 ---
 
 # Cosmetics and the Dossier
@@ -130,7 +130,7 @@ A **trophy** is proof. It is a look, a model, a frame, an emblem, or a diorama p
 | Trophy | Its deed |
 |---|---|
 | **The railgun's mark**, an emblem | Be one of the survivors at the railgun when the Nemesis of the records falls to it (`cast-raccoon-city-1998.md`) |
-| **Heavy Hunter**, a frame | Put down a Heavy that is not named with no more than three survivors, companions included (`survival.md`, Run First) |
+| **Heavy Hunter**, a frame | Put down a Heavy that is not named with no more than three survivors, companions included, and no secret weapon (`survival.md`, Run First) |
 | **The long way home**, a dress | Extract clean from five nights in a row |
 | **Nobody's hero**, a figurine | Extract after giving away the only dose you ever held |
 | **The keeper of the peace**, a pose | Keep a Clean seal through two hundred nights (`survival.md`, The Doorstep Record) |

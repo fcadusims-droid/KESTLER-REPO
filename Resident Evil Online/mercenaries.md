@@ -1,7 +1,7 @@
 ---
 section: "08 · Future Development"
 description: "Mercenaries: score, time, ranks, formats"
-order: 38
+order: 39
 ---
 
 # Mercenaries
