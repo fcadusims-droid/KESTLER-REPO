@@ -9,7 +9,8 @@ sistema; este arquivo diz o que pode e o que não pode.
   site (`.vitepress/`, `index.md`), nas obras, em commits de outras áreas nem
   em textos públicos.
 - Nunca crie arquivo `.md` na raiz do repositório: o site publica tudo que
-  estiver lá. Cópias de teste, obras plantadas e rascunhos ficam aqui dentro.
+  estiver lá. E nunca crie `index.md` nesta pasta: uma pasta com `index.md`
+  vira coleção pública no site. Cópias de teste, obras plantadas e rascunhos ficam aqui dentro.
 
 ## Hierarquia da verdade
 

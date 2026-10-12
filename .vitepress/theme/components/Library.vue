@@ -26,7 +26,10 @@ const visibleGroups = computed(() => {
           !q ||
           d.title.toLowerCase().includes(q) ||
           (d.description || '').toLowerCase().includes(q) ||
-          (d.genre || '').toLowerCase().includes(q)
+          (d.genre || '').toLowerCase().includes(q) ||
+          // A collection matches when any of its documents does.
+          (d.kind === 'collection' &&
+            d.docs.some((c) => c.title.toLowerCase().includes(q)))
       )
     }))
     .filter((g) => g.docs.length > 0)
@@ -91,10 +94,17 @@ const nothing = computed(() => visibleGroups.value.length === 0)
               <div class="archive-tags">
                 <span class="archive-badge" :data-cat="group.category">{{ group.category }}</span>
                 <span v-if="doc.genre" class="archive-genre">{{ doc.genre }}</span>
+                <span v-if="doc.outdated" class="archive-outdated">{{ doc.outdated }}</span>
+                <span v-if="doc.kind === 'collection'" class="archive-genre">
+                  Collection · {{ doc.docs.length }}
+                  {{ doc.docs.length === 1 ? 'document' : 'documents' }}
+                </span>
               </div>
               <h3 class="archive-card-title">{{ doc.title }}</h3>
               <p v-if="doc.description" class="archive-card-desc">{{ doc.description }}</p>
-              <span class="archive-card-cta">Open document →</span>
+              <span class="archive-card-cta">
+                {{ doc.kind === 'collection' ? 'Open collection →' : 'Open document →' }}
+              </span>
             </div>
           </a>
         </li>

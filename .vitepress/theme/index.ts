@@ -5,16 +5,18 @@ import { useRoute } from 'vitepress'
 import mediumZoom from 'medium-zoom'
 
 import Library from './components/Library.vue'
+import Collection from './components/Collection.vue'
 import Breadcrumbs from './components/Breadcrumbs.vue'
 import BackToTop from './components/BackToTop.vue'
+import OutdatedNotice from './components/OutdatedNotice.vue'
 import './custom.css'
 
 export default {
   extends: DefaultTheme,
   Layout() {
     return h(DefaultTheme.Layout, null, {
-      // Breadcrumbs above every document.
-      'doc-before': () => h(Breadcrumbs),
+      // Breadcrumbs above every document, then the notice on outdated ones.
+      'doc-before': () => [h(Breadcrumbs), h(OutdatedNotice)],
       // Floating back-to-top button on every page.
       'layout-bottom': () => h(BackToTop)
     })
@@ -22,6 +24,8 @@ export default {
   enhanceApp({ app }) {
     // Makes <Library /> usable from index.md.
     app.component('Library', Library)
+    // Makes <Collection /> usable from a collection folder's index.md.
+    app.component('Collection', Collection)
   },
   setup() {
     const route = useRoute()

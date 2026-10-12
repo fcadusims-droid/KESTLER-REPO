@@ -1,5 +1,5 @@
 import { defineConfig, type HeadConfig } from 'vitepress'
-import { discoverDocs, groupByCategory, excludedGlobs } from './lib/docs.mts'
+import { groupByCategory, excludedGlobs } from './lib/docs.mts'
 
 // ---------------------------------------------------------------------------
 // Public site identity. Change SITE_* here (or via env) if the repo is renamed
@@ -15,17 +15,24 @@ const SITE_TAGLINE =
 const HOSTNAME = process.env.SITE_HOSTNAME || 'https://fcadusims-droid.github.io'
 const BASE = process.env.SITE_BASE || '/KESTLER-REPO/'
 
-// Discover the library once, at config load. Used to build the sidebar and to
-// exclude everything that is not a public worldbuilding document.
-const docs = discoverDocs()
-
 // Sidebar grouped by document type (Worldbuilding, Fiction, Fanfiction, …).
 // Groups are collapsible; every universe is one click away and prev/next
-// navigation follows this order.
+// navigation follows this order. A collection (a folder of documents) is a
+// collapsible entry of its own: its title opens the collection page, and its
+// documents are listed underneath.
 const sidebar = groupByCategory().map((group) => ({
   text: group.category,
   collapsed: false,
-  items: group.docs.map((d) => ({ text: d.title, link: d.link }))
+  items: group.docs.map((d) =>
+    d.kind === 'collection'
+      ? {
+          text: d.title,
+          link: d.link,
+          collapsed: true,
+          items: d.docs.map((c) => ({ text: c.title, link: c.link }))
+        }
+      : { text: d.title, link: d.link }
+  )
 }))
 
 export default defineConfig({
@@ -48,14 +55,10 @@ export default defineConfig({
   ignoreDeadLinks: true,
 
   // Do NOT turn dev files or private documents into pages or index them.
-  srcExclude: [
-    ...excludedGlobs(),
-    // Subfolders are private by default: only root-level Markdown is a work.
-    // Anything dropped into a subfolder is never built, linked, or indexed.
-    '*/**/*.md',
-    '*/*.md',
-    '**/node_modules/**'
-  ],
+  // Every Markdown file that is not published — dev files, private flags,
+  // folders without an index.md, anything nested inside a collection — is
+  // listed here by name (see lib/docs.mts for the rule).
+  srcExclude: [...excludedGlobs(), '**/node_modules/**'],
 
   // Native, automatic sitemap.xml.
   sitemap: {
