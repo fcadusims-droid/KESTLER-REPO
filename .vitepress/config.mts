@@ -1,5 +1,5 @@
 import { defineConfig, type HeadConfig } from 'vitepress'
-import { groupByCategory, excludedGlobs, sectionsOf, visibleCollections } from './lib/docs.mts'
+import { excludedGlobs, sectionsOf, visibleCollections } from './lib/docs.mts'
 
 // ---------------------------------------------------------------------------
 // Public site identity. Change SITE_* here (or via env) if the repo is renamed
@@ -15,29 +15,23 @@ const SITE_TAGLINE =
 const HOSTNAME = process.env.SITE_HOSTNAME || 'https://fcadusims-droid.github.io'
 const BASE = process.env.SITE_BASE || '/KESTLER-REPO/'
 
-// Sidebar grouped by document type (Worldbuilding, Fiction, Fanfiction, …).
-// Groups are collapsible; every universe is one click away and prev/next
-// navigation follows this order. A collection (a folder of documents) is a
-// collapsible entry of its own: its title opens the collection page, and its
-// documents are listed underneath.
-const sidebar = groupByCategory().map((group) => ({
-  text: group.category,
-  collapsed: false,
-  items: group.docs.map((d) =>
-    d.kind === 'collection'
-      ? {
-          text: d.title,
-          link: d.link,
-          collapsed: true,
-          // Documents with a `section` are nested under it, in reading order.
-          items: sectionsOf(d.docs).flatMap((s) => {
-            const links = s.docs.map((c) => ({ text: c.title, link: c.link }))
-            return s.section ? [{ text: s.section, collapsed: false, items: links }] : links
-          })
-        }
-      : { text: d.title, link: d.link }
-  )
-}))
+// No page shows a sidebar: a reader who opens a work sees only that work
+// (transformPageData below hides it everywhere). The sidebar config still
+// exists for one reason: VitePress builds Previous/Next from it. It holds only
+// the multi-document works (collections that are not shelves), so their pages
+// are read in order with Previous/Next, and a standalone work has no
+// Previous/Next pointing at someone else's.
+const sidebar = Object.fromEntries(
+  visibleCollections()
+    .filter((c) => !c.shelf)
+    .map((c) => [
+      `/${c.dir}/`,
+      sectionsOf(c.docs).map((s) => ({
+        text: s.section || c.title,
+        items: s.docs.map((d) => ({ text: d.title, link: d.link }))
+      }))
+    ])
+)
 
 export default defineConfig({
   title: SITE_NAME,
@@ -75,8 +69,23 @@ export default defineConfig({
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: SITE_NAME }],
-    ['meta', { name: 'robots', content: 'index, follow' }]
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    // Reading typeface for the works themselves (the interface stays Inter).
+    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
+    [
+      'link',
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap'
+      }
+    ]
   ],
+
+  // Reading mode on every page: no sidebar listing the other works.
+  transformPageData(pageData) {
+    pageData.frontmatter.sidebar = false
+  },
 
   // Per-page Open Graph / Twitter tags, generated automatically from the page.
   transformHead({ pageData, siteConfig }) {

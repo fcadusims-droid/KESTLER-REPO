@@ -9,7 +9,7 @@
 # Formato: cada erro troca `localizar` (aparece UMA vez no original) por
 # `substituir` (aparece UMA vez na cópia). A cópia vai para obra_plantada.md,
 # nesta pasta, e o gabarito com as linhas de cada erro, para gabarito_plantado.yaml.
-fonte: lattice_zero.md
+fonte: Worldbuilding/lattice_zero.md
 erros:
   - id: E-001
     categoria: idade

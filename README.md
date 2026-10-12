@@ -6,8 +6,9 @@ design documents, published as a static site straight from this repository.
 
 ## The site
 
-Every Markdown file at the root of this repository is a work, and every work
-becomes a page automatically. There is no index to maintain and no build step to
+The works are kept in folders by kind: `Worldbuilding/`, `Fiction/`,
+`Fanfiction/`, and `Game Design Documents/`, plus `Resident Evil Online/`, a
+single work in many documents. Every work becomes a page automatically. There is no index to maintain and no build step to
 run by hand: push a new `.md` and it is published, titled and searchable on the
 next deploy.
 
@@ -15,6 +16,11 @@ next deploy.
 directly inside a collection folder, below), is not a development file, and does
 not carry `publish: false` or `draft: true` in its front matter. Any other
 subfolder stays private and never appears in the portfolio.
+
+**Shelves.** `Worldbuilding/`, `Fiction/`, `Fanfiction/`, and `Game Design
+Documents/` are shelves: their `index.md` carries `shelf: true`, so every work
+in them still gets its own card on the homepage, and a work with no `category`
+takes its shelf's. To add a work, drop its `.md` into the right shelf.
 
 **Collections.** A universe, work or game with several documents gets its own
 folder. A top-level folder becomes a collection when it contains an `index.md`;

@@ -9,6 +9,7 @@ import Collection from './components/Collection.vue'
 import Breadcrumbs from './components/Breadcrumbs.vue'
 import BackToTop from './components/BackToTop.vue'
 import OutdatedNotice from './components/OutdatedNotice.vue'
+import ReadingProgress from './components/ReadingProgress.vue'
 import './custom.css'
 
 export default {
@@ -17,6 +18,8 @@ export default {
     return h(DefaultTheme.Layout, null, {
       // Breadcrumbs above every document, then the notice on outdated ones.
       'doc-before': () => [h(Breadcrumbs), h(OutdatedNotice)],
+      // A thin reading-progress bar at the top of every work.
+      'layout-top': () => h(ReadingProgress),
       // Floating back-to-top button on every page.
       'layout-bottom': () => h(BackToTop)
     })
