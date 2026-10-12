@@ -1,3 +1,9 @@
+---
+section: "07 · Feasibility"
+description: "Costs, revenue, cases, break-even, population, verdict"
+order: 34
+---
+
 # The Business Case
 
 *This document is the business case for the Service documents: what Resident Evil Online costs to build and run, what it earns, and what happens if it earns less. Every figure carries a label: **[P]** Public Data, **[E]** Industry Estimate, **[A]** Model Assumption. Dollars are US dollars, converted at ¥150 to the dollar [A].*

@@ -1,3 +1,9 @@
+---
+section: "08 · Future Development"
+description: "Versus: characters, setups, the dead, formats"
+order: 37
+---
+
 # Versus
 *Competitive · PvP · 2 to 16 players*
 

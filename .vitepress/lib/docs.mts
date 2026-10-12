@@ -65,6 +65,8 @@ export interface DocMeta {
   order: number
   /** Set when the author marks the document as superseded: the date it dates from. */
   outdated?: string
+  /** Inside a collection: the part the document belongs to, e.g. "01 · Lore". */
+  section?: string
 }
 
 /** A folder of documents shown as one entry: a universe, a work, a game. */
@@ -186,7 +188,8 @@ function readDoc(
     category: String(data.category || inherited.category || DEFAULT_CATEGORY),
     cover: data.cover ? String(data.cover) : undefined,
     order: typeof data.order === 'number' ? data.order : 999,
-    outdated: outdatedLabel(data.outdated)
+    outdated: outdatedLabel(data.outdated),
+    section: data.section ? String(data.section) : undefined
   }
 }
 
@@ -242,6 +245,21 @@ export function discoverCollections(): CollectionMeta[] {
     collections.push({ ...meta, kind: 'collection', dir, docs: docs.sort(byOrder) })
   }
   return collections.sort(byOrder)
+}
+
+/**
+ * A collection's documents split by `section`, in reading order: sections
+ * appear in the order of their first document. Documents without a section
+ * form one unnamed group.
+ */
+export function sectionsOf(docs: DocMeta[]): { section?: string; docs: DocMeta[] }[] {
+  const groups: { section?: string; docs: DocMeta[] }[] = []
+  for (const d of docs) {
+    const g = groups.find((x) => x.section === d.section)
+    if (g) g.docs.push(d)
+    else groups.push({ section: d.section, docs: [d] })
+  }
+  return groups
 }
 
 /** Collections that have at least one document — the ones the site shows. */

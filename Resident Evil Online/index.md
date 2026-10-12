@@ -3,7 +3,6 @@ title: Resident Evil Online
 description: A fan-made concept for an online Resident Evil game — every document of the project in one place.
 category: Fanfiction
 genre: Survival Horror
-aside: false
 ---
 
 # Resident Evil Online

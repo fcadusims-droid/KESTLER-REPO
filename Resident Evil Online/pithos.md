@@ -1,3 +1,9 @@
+---
+section: "01 · Lore"
+description: "The organization that built ΜΝΗΜΗ: origin, rules, Chain, Archive, Cellar, Lid, Pyxis, and what it wants"
+order: 4
+---
+
 # Pithos
 
 The people who built ΜΝΗΜΗ have no flag, no public face, and a name no survivor ever hears. Among themselves they call it **Pithos**: the jar Pandora opened, which let every evil out into the world and kept one thing at the bottom. In the old tongue, that one thing was called Elpis. Pithos keeps a record of every evil the world has let out, and a little of the hope.

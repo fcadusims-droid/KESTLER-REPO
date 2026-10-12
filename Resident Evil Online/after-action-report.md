@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "The After-Action Report and its variants"
+order: 21
+---
+
 # The After-Action Report
 
 When a session ends, ΜΝΗΜΗ writes what happened. This is the only place in Resident Evil Online where the time a survivor lasted is shown as a number, and only once the night is over. Every connected report is a page of the Ledger.

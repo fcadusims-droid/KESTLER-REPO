@@ -1,3 +1,9 @@
+---
+section: "05 · Story Nights"
+description: "The people, named creatures, roster, and ties of the Ruins, 2026"
+order: 27
+---
+
 # The People of the Ruins, 2026
 
 A night in the Ruins is the night of 8 October 2026, from dusk to the small hours, when Leon Kennedy and Grace Ashcroft came into the walled city for ARK. It is not a story night (`story-nights.md`, Story Nights). It has no acts, no threads, and no beats. ΜΝΗΜΗ places the people of the records where the records had them that night, before ARK was opened, and each does what their records say they would do with the ruins as they are, as anyone whose thread has broken does. They are found, asked along, met, and fought under every rule of companions, ties, and the named dead. No one in the Ruins ever opens ARK's last door: what lies behind it is the hole in the records (`pithos.md`), and ΜΝΗΜΗ does not play what she cannot check.

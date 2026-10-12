@@ -1,3 +1,9 @@
+---
+section: "01 · Lore"
+description: "The Echoes: what they are, what ΜΝΗΜΗ keeps, offline play, queue fill"
+order: 7
+---
+
 # The Echoes
 
 ΜΝΗΜΗ keeps every survivor she watches: their names and their faces, and above all what they did. Where they went first when they woke. How long they waited before trusting a stranger. When they shared, when they ran, when they fired, when they took a dose out of someone else's hands. When a sleeper is finished, she wakes what she kept of them as the only people in her world whose choices come from inside her: the **Echoes**. In the Cellar, they are called her daughters.

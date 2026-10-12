@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "Who is played, survivor creation, tone, progression, Hardening"
+order: 20
+---
+
 # The Survivors
 
 ## Characters

@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "Elpis in a session: the road, the Reserve, the drop, the scar"
+order: 11
+---
+
 # Elpis in the Night
 
 > *One cure exists.*

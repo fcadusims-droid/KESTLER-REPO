@@ -1,3 +1,9 @@
+---
+section: "08 · Future Development"
+description: "The Refuge: a room of the player's own, built from their dioramas, in place of the menus, with guests and an arcade. A future feature, not a priority"
+order: 41
+---
+
 # The Refuge
 *A future feature · Not scheduled · Not a priority*
 

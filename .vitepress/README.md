@@ -56,6 +56,10 @@ Resident Evil Online/
   put `<Collection />` where the document grid should appear.
 - Documents inherit the collection's `category` and `genre` unless they set
   their own; `order` sorts them inside the collection.
+- `section: "01 · Lore"` groups documents into parts: the collection page,
+  the sidebar and Previous/Next all follow `order`, part by part.
+- A document that cites another of the same collection by file name in code
+  (`` `survival.md` ``) gets a link to it, labelled with its title.
 - The homepage shows one card per collection; the sidebar shows the collection
   with its documents underneath; documents get a breadcrumb back to it.
 - A collection with no documents yet is not built or shown.

@@ -1,3 +1,9 @@
+---
+section: "08 · Future Development"
+description: "Mercenaries: score, time, ranks, formats"
+order: 38
+---
+
 # Mercenaries
 *Score attack · PvE · 1 to 2 players*
 

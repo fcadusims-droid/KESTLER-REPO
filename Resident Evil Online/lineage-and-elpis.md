@@ -1,3 +1,9 @@
+---
+section: "01 · Lore"
+description: "The viral lineage from 1966 to 2026, and Spencer's cure"
+order: 3
+---
+
 # The Lineage and Elpis
 
 ## The Lineage

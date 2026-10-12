@@ -1,3 +1,10 @@
+---
+title: "Project Overview"
+section: "00 · Overview"
+description: "Title, register rules, terminology, premise, and the measure of a night"
+order: 1
+---
+
 # RESIDENT EVIL ONLINE
 
 ### *Wake. Survive. Be remembered.*

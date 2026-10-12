@@ -1,3 +1,9 @@
+---
+section: "06 · The Service"
+description: "Seasons, Casefiles, events, Crosstime Weekends, the order of arrival, early access"
+order: 32
+---
+
 # Seasons and New Content
 
 ## Casefiles and Events

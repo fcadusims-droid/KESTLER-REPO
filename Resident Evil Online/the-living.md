@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "Cooperation, voice, reading the Mark, the Mark within a squad, the clean, betrayal"
+order: 19
+---
+
 # The Living
 
 The living described here are the strangers of a Survivor night, who owe each other nothing.

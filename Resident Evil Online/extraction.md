@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "The verdict, the ways out of each map, the signal, boarding, the Climb, departure"
+order: 15
+---
+
 # The Extraction
 
 The extraction is how a Survivor night ends. It is never one thing in one place. Every Survivor map holds several ways out, each shaped after a way someone, once, really got out.

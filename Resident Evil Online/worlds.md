@@ -1,3 +1,9 @@
+---
+section: "03 · Worlds"
+description: "The open worlds, time and weather, conditions"
+order: 22
+---
+
 # The Worlds
 
 Every map is divided into regions, and the region is the unit ΜΝΗΜΗ thinks in: tension, threat, power, strain, and restrictions are all set region by region.

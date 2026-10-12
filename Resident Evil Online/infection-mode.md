@@ -1,3 +1,10 @@
+---
+title: "Infection Mode"
+section: "08 · Future Development"
+description: "Infection: viruses, the monster, the sweepers, evolution, formats"
+order: 39
+---
+
 # Infection
 *Monster hunt · PvP · 5 players: four sweepers and one monster · 8 to 16 in Free-for-All and Hive*
 
