@@ -44,6 +44,8 @@ The game does not stitch together what the remakes left behind. It builds the Ra
 
 Everything reused is rebuilt to the city's scale, relit for its hours and weather, and opened up for a crowd: a corridor made for one survivor and one Tyrant is widened where a hundred survivors have to pass. What no remake built is built new: the university, Raccoon Park, its cemetery and zoo, Uptown and the Apple Inn, the Industrial Edge, the Western Barricade, and the streets that join them. The reuse is still the largest single saving in the game's budget, but it is a saving on a whole city, not a city made of saved pieces (`business-case.md`).
 
+**One world, many bounds, in practice.** Each world is built once and divided into streaming cells. A bound is data: the list of cells it opens, the seals placed at its edges, its entry points, and the mode's own placements (`worlds.md`, One World, Every Mode). A night loads only its bound's cells, so a compact mode loads faster and needs a smaller server than Survivor, with nothing rebuilt for it. Every bound is checked by an automated pass that walks every path out of it and fails the bound if any route passes a seal, a collapse, or a gap in the geometry. Seals are a shared library of set dressing, made once. A change to the world, a fixed door or a corrected room, reaches every mode at once.
+
 Building the whole city also builds most of the next one. The Ruins of 2026 are the same streets twenty-eight years later, so the Ruins are made from the 1998 city, broken, burned, and walled, with what *Requiem* already made of them (`seasons-and-new-content.md`, The Order of Arrival).
 
 ## Servers

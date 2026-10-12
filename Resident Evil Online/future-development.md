@@ -122,9 +122,9 @@ No rule of the core documents would hold in a future mode unless this table says
 
 ### Scale and maps
 
-The trial modes and Outbreak would be played on **compact** maps: single pieces of the open worlds, cut out and sealed. Their character is fast, aggressive, and relentless, and there is nowhere to disappear to. Outbreak would burn at Slow or Hard Burn, by difficulty; the others have no infection pace. An Outbreak ends when its survivors finish the escape ΜΝΗΜΗ built for them, or when no one is left to finish it.
+The trial modes and Outbreak would be played on **compact** maps: single pieces of the open worlds, cut out and sealed. A compact map is not a map of its own. It is a **bound** of a world that already exists, and building it builds no streets or rooms, only its seals (`worlds.md`, One World, Every Mode). Their character is fast, aggressive, and relentless, and there is nowhere to disappear to. Outbreak would burn at Slow or Hard Burn, by difficulty; the others have no infection pace. An Outbreak ends when its survivors finish the escape ΜΝΗΜΗ built for them, or when no one is left to finish it.
 
-Each compact map is a single piece of Raccoon City and the land around it, as they were in September 1998, cut out and sealed. The scenarios of Outbreak are cut the same way.
+The first compact maps are single pieces of Raccoon City and the land around it, as they were in September 1998, cut out and sealed; the Ruins and the Valley would give bounds of their own the same way. The scenarios of Outbreak are cut the same way, one bound for each (`worlds.md`, Bounds on Each World). Two of them lie past Survivor's barricades, in the world's outskirts: the Military Base, and the Arklay hills of *Flashback*. They are built when the first mode that plays in them arrives, as part of the same world.
 
 **The Hospital.** Raccoon General Hospital, alone. A vertical labyrinth of white corridors and dead machines, an operating theater, a laboratory two floors down that is on no floor plan, and a parking structure that is the only way down to the street.
 
