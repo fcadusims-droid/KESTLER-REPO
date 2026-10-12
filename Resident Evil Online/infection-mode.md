@@ -2,7 +2,7 @@
 title: "Infection Mode"
 section: "08 · Future Development"
 description: "Infection: viruses, the monster, the sweepers, evolution, formats"
-order: 39
+order: 40
 ---
 
 # Infection

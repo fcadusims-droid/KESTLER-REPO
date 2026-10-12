@@ -1,3 +1,9 @@
+---
+section: "02 · Core Systems"
+description: "What breaks and who breaks it, what breaking changes, the Heavy indoors, breaches, collapses"
+order: 18
+---
+
 # Destruction
 
 The city breaks the way the records' cities broke: around the people in them, rarely by them. A Tyrant comes through a wall. A sofa goes across a room. A building that a fight has been tearing at for five minutes comes down at the end of it. None of it is free destruction. No weapon a survivor carries makes a hole in a wall, a floor, or a ceiling, and no survivor brings a building down alone.
@@ -21,7 +27,7 @@ Everything in a map belongs to one tier, and the tier decides who can break it. 
 | **Structure** | Exterior and load-bearing walls, floors, ceilings, stairs, facades, roofs, bridges | Only what was authored into the map: breaches and collapses (below) | Whatever the breach or the collapse was built to leave |
 | **Never** | Safe rooms, their walls, door, and windows. Every door, lock, or mechanism that a key, a code, or a puzzle holds, and every vault door. The machinery of the ways out. The edges of a map: the Army's barricades, the quarantine wall, the sea | No one and nothing, ever | — |
 
-- **Explosives break only what the tiers allow.** A grenade, a grenade round, or the single rocket of a vault breaks everything Fragile and Light within its blast, and nothing Heavy or Structure. It can set off a trap of the city (below), and that is all it can do to a building.
+- **Explosives break only what the tiers allow.** A grenade, a grenade round, or a rocket breaks everything Fragile and Light within its blast, and nothing Heavy or Structure. It can set off a trap of the city (below), and that is all it can do to a building.
 - **Rounds pass through glass.** Everything else stops them. Light cover breaks under enough of them: a survivor behind a sofa under fire is behind a sofa for a few seconds.
 - **Vehicles go through Fragile and Light.** A car can take a shop window, a fence, a market stall, or a barricade with it (`survival.md`, Vehicles). It stops against a wall.
 - **Fire burns what is Light.** A barricade or a wooden door in a fire burns through in time. Fire that spreads beyond a room is ΜΝΗΜΗ's, never a survivor's (Collapses, below).
@@ -84,7 +90,7 @@ A **collapse** is a part of a building, or a whole building, coming down. Every 
 
 - **The Heavy drives it.** Explosions and the Heavy's own weight move a site from stage to stage. Survivors' explosives count only while the Heavy is in the site. A site with no Heavy in it is a building, and no survivor can bring it down.
 - **Always a way off.** Every site is built with a way off for each floor that can be fought on: a fire escape, a neighboring roof, a stairwell that holds, a window over an awning. A survivor who moves at the start of the Falling warning reaches one.
-- **The fall.** Anyone still inside the footprint of a site or of an event collapse when it comes down is Lost. A Heavy that is not named and is caught in it is put down for good. A named creature or an Apex rises from the wreckage, as their records say they rise from everything (`extraction.md`), and its end is still the one its records gave it (`cast-raccoon-city-1998.md`, `cast-valley-2004.md`, `cast-ruins-2026.md`).
+- **The fall.** Anyone still inside the footprint of a site or of an event collapse when it comes down is Lost. A Heavy that is not named and is caught in it is put down for good. A named creature or an Apex rises from the wreckage, as their records say they rise from everything (`extraction.md`), and can still be killed only as `survival.md` says (The Heavy).
 - **Where they never are.** No collapse site stands where a beat happens, where a way out waits, where a safe room is, or on the only road to any of them. The places the records need stand until the end the records gave them.
 - **Moments.** The fall of a site is the peak of an encounter. Survivors outside its footprint whose safe window holds may get a Grand Moment of it (`story-nights.md`, Moments).
 

@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "Objectives, restrictions, puzzles, vaults, secret weapons, events"
-order: 18
+order: 19
 ---
 
 # Objectives, Restrictions, and Events
@@ -74,14 +74,15 @@ A vault behind a lock built for two always holds enough for two, and when the tw
 
 ## Secret Weapons
 
-Every map holds a few weapons beyond anything a vault keeps: the ones the people of the records used against the worst things in their nights. They are the city's rarest finds and the strongest answer a group has to the Heavy (`survival.md`, Run First). They are never a way to fight one alone.
+Every map holds a few weapons beyond anything a vault keeps: the ones the people of the records used against the worst things in their nights. They are the city's rarest finds and the strongest answer a group has to the Heavy: with one, two survivors can put down what otherwise takes a crowd (`survival.md`, Run First). They are never a way to fight one alone.
 
 ### The Rules
 
 - **A few each night.** At Assembly, ΜΝΗΜΗ places two to four of the map's secret weapons, each once. No night holds the whole list, and no two nights need hold the same ones.
 - **Hidden behind the hardest ways in.** Each lies in one of the places listed for it below: where the records left it, or where a weapon of its kind would be kept. ΜΝΗΜΗ chooses the place at Assembly, so knowing the records is never enough to know where it is tonight. Every place is behind something: a puzzle chain, a lock built for two, a flooded passage, a region at High threat, a horde. None is near a waking point, and none glows.
 - **Finite.** Each comes with its own ammunition and no more: no round, shell, or tank found anywhere else in the night fits it. When it is empty, it is a heavy thing to carry. The records' versions with endless ammunition do not exist in ΜΝΗΜΗ's world.
-- **Carried like anything else.** A long one goes on the shoulders, a handgun in a holster or a pocket, and the heaviest fill both hands (`survival.md`, The Inventory). Everyone can see what a survivor carries. At the Turn it falls with everything else, plain, for anyone to take (`cosmetics-and-dossier.md`).
+- **Some are carried by companions.** A companion whose records put one of the map's secret weapons in their hands may wake carrying it, if ΜΝΗΜΗ chooses so at Assembly. It is one of the night's two to four, and it lies nowhere else that night. It is the companion's alone: they fire it themselves, never hand it over, and no one can take it from them. If they die or turn, it lies spent and broken where they fell, and no one carries it away (`survivor-mode.md`, Companions).
+- **Carried by survivors like anything else.** A long one goes on the shoulders, a handgun in a holster or a pocket, and the heaviest fill both hands (`survival.md`, The Inventory). Everyone can see what a survivor carries. At the Turn it falls with everything else, plain, for anyone to take (`cosmetics-and-dossier.md`).
 - **The ARMS objective.** Sometimes ΜΝΗΜΗ announces a public objective whose prize is a secret weapon's place. Like any public objective, it is open to everyone, and the first to finish it reads the prize on the record where it ends (Public Objectives, above). That survivor learns where the weapon is. They are not given it. Whoever stands beside them reads it too, whoever follows them finds it, and whoever kills them on the way can take whatever they found. ΜΝΗΜΗ never says who finished first.
 
 ```
@@ -89,16 +90,16 @@ Every map holds a few weapons beyond anything a vault keeps: the ones the people
 WHOEVER RESTORES THE SUBSTATION WILL KNOW WHERE.
 ```
 
-- **In the Night.** ΜΝΗΜΗ places them because the records do, and because she wants to know what strangers do when one of them is holding the only thing in the city that can stop a Tyrant.
+- **In the Night.** ΜΝΗΜΗ places them because the records do, and because she wants to know what strangers do when one of them is holding the surest thing in the city against a Tyrant.
 
 ### Raccoon City, 1998
 
 | Weapon | From | Where it may lie | It holds |
 |---|---|---|---|
-| **Lightning Hawk** (magnum) | *Resident Evil 2* (2019), *Resident Evil 3* (2020) | The weapons locker in the R.P.D.'s S.T.A.R.S. office, opened by the badge the records' puzzle chain makes (the red book, the statue's arm, the jewel box); or the top floor of Raccoon General Hospital, past the collapsed corridor | 14 rounds |
+| **Lightning Hawk** (magnum) | *Resident Evil 2* (2019), *Resident Evil 3* (2020) | The weapons locker in the R.P.D.'s S.T.A.R.S. office, opened by the badge the records' puzzle chain makes (the red book, the statue's arm, the jewel box); or the top floor of Raccoon General Hospital, past the collapsed corridor; or in Leon Kennedy's hands (Some are carried by companions, above) | 14 rounds |
 | **MQ 11** (submachine gun) | *Resident Evil 2* (2019) | The S.T.A.R.S. office locker, when the Lightning Hawk is not in it | 64 rounds |
-| **GM 79** (grenade launcher) | *Resident Evil 2* (2019) | The secured cabinet in the R.P.D.'s safety deposit room, opened with the keycard from the art room | 6 grenades: 2 explosive, 2 acid, 2 flame |
-| **MGL** (grenade launcher) | *Resident Evil 3* (2020) | The rack of a safe room deep in the sewers; or the Army field laboratory behind the Western Barricade | 6 grenades |
+| **GM 79** (grenade launcher) | *Resident Evil 2* (2019) | The secured cabinet in the R.P.D.'s safety deposit room, opened with the keycard from the art room; or in Claire Redfield's hands | 6 grenades: 2 explosive, 2 acid, 2 flame |
+| **MGL** (grenade launcher) | *Resident Evil 3* (2020) | The rack of a safe room deep in the sewers; or the Army field laboratory behind the Western Barricade; or in Jill Valentine's hands | 6 grenades |
 | **Chemical flamethrower** | *Resident Evil 2* (2019) | The supplies storage room in the lower sewers, its locker opened with the King and Queen plugs | One tank, about twenty seconds of fire |
 | **Spark Shot** | *Resident Evil 2* (2019) | The same locker, when the flamethrower is not in it; or the research wing of Raccoon University | One charge, about twelve discharges |
 | **Rocket launcher** | *Resident Evil 2* (2019) | The Emergency Train's platform in NEST, where the records left one for the last fight; or the Army field laboratory behind the Western Barricade | One rocket |

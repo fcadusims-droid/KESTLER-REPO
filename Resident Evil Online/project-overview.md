@@ -62,7 +62,7 @@ Lines set in monospace blocks are ΜΝΗΜΗ's own words: what she speaks into a
 
 A Night, Illustrated, in `narrative-illustrations.md`, dramatizes a single night. It illustrates the rules; nothing in it is canon beyond them.
 
-The Service documents, in the `06-service/` folder, describe how the game is built, sold, and run. They are written in the Service's register: here a player is a player, money is money, and every rule in them binds the people who run the game, not ΜΝΗΜΗ. The feasibility document, `business-case.md`, is the business case for the Service documents: what the game costs, what it earns, and what happens if it earns less.
+The Service documents, in part `06-service`, describe how the game is built, sold, and run. They are written in the Service's register: here a player is a player, money is money, and every rule in them binds the people who run the game, not ΜΝΗΜΗ. The feasibility document, `business-case.md`, is the business case for the Service documents: what the game costs, what it earns, and what happens if it earns less.
 
 ## The Premise
 
@@ -72,7 +72,7 @@ It is not a campaign. There is no fixed route, and no scripted set piece that mu
 
 It is not a shooter wearing a Resident Evil skin. Firearms are rare, ammunition is rarer, and pulling a trigger is one of the loudest things a survivor can do.
 
-It is not a game of heroes. No one kills a Tyrant or a Nemesis alone, as the series' heroes did. When one appears, a survivor runs or hides; only a group with the best of what the city holds can put one down, and it costs them (`survival.md`, Run First).
+It is not a game of heroes. No one kills a Tyrant or a Nemesis alone, as the series' heroes did. When one appears, a survivor runs or hides. It can be put down only together: quickly, by a few with one of the night's secret weapons, or slowly, by many with whatever guns they found, and it costs them either way (`survival.md`, Run First).
 
 It is not a conventional last-one-standing contest. There is no shrinking circle. In its place is **ΜΝΗΜΗ**: an intelligence that watches every session from the inside and reshapes it as it unfolds.
 
@@ -110,7 +110,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 
 ## Documents
 
-| Folder | Document | Subject |
+| Part | Document | Subject |
 |---|---|---|
 | `00-overview` | `project-overview.md` | Title, register rules, terminology, premise, and the measure of a night |
 | `00-overview` | `narrative-illustrations.md` | The Prologue and A Night, Illustrated: dramatizations of the rules |
@@ -129,6 +129,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 | `02-core-systems` | `extraction.md` | The verdict, the ways out of each map, the signal, boarding, the Climb, departure |
 | `02-core-systems` | `the-dead-and-engineered.md` | Sound tiers, threat levels, the dead, containment, B.O.W. events, anomalies |
 | `02-core-systems` | `survival.md` | Health, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing |
+| `02-core-systems` | `destruction.md` | What breaks and who breaks it, what breaking changes, the Heavy indoors, breaches, collapses |
 | `02-core-systems` | `objectives-restrictions-events.md` | Objectives, restrictions, puzzles, vaults, secret weapons, events |
 | `02-core-systems` | `the-living.md` | Cooperation, voice, reading the Mark, the Mark within a squad, the clean, betrayal |
 | `02-core-systems` | `survivors.md` | Who is played, survivor creation, tone, progression, Hardening |

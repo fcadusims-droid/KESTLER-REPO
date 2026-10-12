@@ -88,7 +88,7 @@ The rule makes every strain a different bet. A survivor who catches the G-Virus 
 
 A B.O.W. released by ΜΝΗΜΗ declares its region **Extreme**, and that region stays Extreme until the creature is dead or has left it, and its Aftermath has come. A Long Turn inside such a region makes an Apex.
 
-An Apex is Heavy by every rule of `survival.md` (Run First): the living run from it as they run from ΜΝΗΜΗ's own, and only a group with the city's best weapons puts it down. An Apex born from a survivor is announced the way a release is, and the region it stands in is treated as Extreme for as long as it stands there. That Extreme is the Apex's own, not ΜΝΗΜΗ's. A Long Turn beneath it makes the Brute or the Stalker it would have made anywhere else. One monster never breeds the next.
+An Apex is Heavy by every rule of `survival.md` (Run First): the living run from it as they run from ΜΝΗΜΗ's own, and it is put down only as any Heavy is: by a few with a secret weapon, or by many, slowly, with whatever they carry. An Apex born from a survivor is announced the way a release is, and the region it stands in is treated as Extreme for as long as it stands there. That Extreme is the Apex's own, not ΜΝΗΜΗ's. A Long Turn beneath it makes the Brute or the Stalker it would have made anywhere else. One monster never breeds the next.
 
 ## The Second Night
 

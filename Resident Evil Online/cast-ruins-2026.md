@@ -1,7 +1,7 @@
 ---
 section: "05 · Story Nights"
 description: "The people, named creatures, roster, and ties of the Ruins, 2026"
-order: 27
+order: 28
 ---
 
 # The People of the Ruins, 2026
@@ -24,7 +24,7 @@ A night in the Ruins is the night of 8 October 2026, from dusk to the small hour
 | Person | Records | Who they are | What they do | How it ends |
 |---|---|---|---|---|
 | **Zeno** | *Resident Evil Requiem* | A high-ranking man of the Connections, with gifts copied from Albert Wesker's: speed, strength, and a body that closes its wounds. He believes what lies in ARK is a weapon, and wants it. | Walks toward ARK, and kills whoever stands between him and it. The T-501 follows his orders. | While his gifts hold, he can be put down but not killed. A dose of Elpis put into him by anyone ends his gifts, as it did in the records (`lineage-and-elpis.md`), and then he dies like anyone. The unfinished cure ΜΝΗΜΗ holds can do this, because his gifts are a virus still at work, not a body the virus finished remaking long ago (`pithos.md`, The Elpis Pithos Holds). |
-| **Victor Gideon** | *Resident Evil Requiem* | A former Umbrella researcher, now working with the Connections, who gave the Raccoon City Syndrome its name. He believes Grace Ashcroft is the one success of Spencer's work, and wants her. | Looks for Grace, and kills anyone who stands between them. If he reaches her while no one is beside her, he takes her toward ARK, and she is no one's companion until someone takes her back. | He carries NE-γ (`exclusions-and-the-plaga.md`). The first time he is brought down, it takes him, and he rises as what it makes of him: a named creature from then on, which ends only in ARK, where the records ended it. |
+| **Victor Gideon** | *Resident Evil Requiem* | A former Umbrella researcher, now working with the Connections, who gave the Raccoon City Syndrome its name. He believes Grace Ashcroft is the one success of Spencer's work, and wants her. | Looks for Grace, and kills anyone who stands between them. If he reaches her while no one is beside her, he takes her toward ARK, and she is no one's companion until someone takes her back. | He carries NE-γ (`exclusions-and-the-plaga.md`). The first time he is brought down, it takes him, and he rises as what it makes of him: a named creature from then on, which ends in ARK, where the records ended it, or as any named creature does (`survival.md`, The Heavy). |
 | **The Commander and the Elite Guard** | *Resident Evil Requiem* | The Connections' soldiers, holding ARK's upper levels under their Commander. The records never name the Commander or show his face, so ΜΝΗΜΗ names no one: he is the Commander, and nothing in a night says more (`story-nights.md`). His axe, the Mortal Edge, falls where he is put down (`objectives-restrictions-events.md`, Secret Weapons). | Fire on anyone who is not one of them. They never leave ARK. | Like anyone. They are living people, armed with rifles, and the virus takes them as it takes anyone. |
 
 **Named creatures.** With no beats to release them, ΜΝΗΜΗ places the named creatures of the Ruins at Assembly, where the records had them that night. They wake when someone comes near, and each is met as an encounter, with its Moment.

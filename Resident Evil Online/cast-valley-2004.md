@@ -1,7 +1,7 @@
 ---
 section: "05 · Story Nights"
 description: "Acts, beats, named hosts, people, the Island's End, roster, and ties of the Valley, 2004"
-order: 26
+order: 27
 ---
 
 # The People of the Valley, 2004
@@ -50,19 +50,19 @@ A night in the Valley runs the records' time in Spain, from the day Leon Kennedy
 | **The machine** | III | Luis's laboratory | Two people, and the laboratory open: with Luis's key, or with the code to its lock, written somewhere on the island like any puzzle's clue | The machine burns out a Plaga (`exclusions-and-the-plaga.md`). |
 | **Saddler** | III | The loading docks | Saddler alive, and someone to fight him | Ada hangs from a crane as bait. When he is down, Ada throws the special rocket launcher, and one shot ends him. Every Plaga dies with him (`exclusions-and-the-plaga.md`), and the island's end begins. |
 
-**The named hosts and creatures.** Each is ended only the way the records ended it. Anything else only slows it.
+**The named hosts and creatures.** Each can be killed as any Heavy can (`survival.md`, The Heavy), but only where it can be hurt, which the table gives. The way the records ended it is the fastest, and needs nothing more; anything else takes a secret weapon or many hands, and time.
 
 | Who | Where | Act | How the records ended it |
 |---|---|---|---|
 | **Dr. Salvador** | The plaza, and again later | I–II | Headshots and explosives. The bell ends his first siege whether he is dead or not. |
-| **Del Lago** | The lake | I | Harpoons thrown from a boat. Nothing else hurts it. |
+| **Del Lago** | The lake | I | Harpoons thrown from a boat. Gunfire from a boat hurts it too, slowly. |
 | **El Gigante** | The quarry; the battlements, armored; the blast furnace, two at once | II | Its body cannot be hurt. Shot until it kneels, it shows the Plaga on its back, and someone climbs up and cuts it out. The armored one on the battlements falls to their cannon; the furnace's pair are dropped into the molten iron. |
 | **The Bella Sisters** | The checkpoint | II | Like any host, but much harder to stop |
 | **Bitores Mendez** | The village, the manor, the slaughterhouse | I–II | The village chief and priest, a giant: calm, imposing, and relentless once he has decided. His first form falls when its spine is cut; his second hangs from the rafters. |
 | **Garradors** | The dungeon and the castle | II | Blind, steel-clawed, hunting by sound. Only the Plaga on the back can be hurt. They charge at noise and stick in walls. |
 | **Novistadors** | The sewers and the ballroom's nest | II | Insects that are invisible until close, and later fly. Flashbangs bring them down. |
 | **Armaduras** | The library and the mausoleum | II | Suits of armor with a Plaga inside. Light holds them back; only the Plaga can be hurt. |
-| **The Verdugo** | The castle's laboratory | II | Salazar's right hand. In one account it is Isidro Uriarte Talavera, a servant who made himself into it. Nothing hurts it until it is frozen with liquid nitrogen, and it can be outlasted until the elevator comes. |
+| **The Verdugo** | The castle's laboratory | II | Salazar's right hand. In one account it is Isidro Uriarte Talavera, a servant who made himself into it. Little hurts it until it is frozen with liquid nitrogen; frozen, anything does. It can also be outlasted until the elevator comes. |
 | **Ramón Salazar** | The castle; the ancient chantry | II | The eighth castellan, small and aged-looking: in one account he is twenty. Sadistic and theatrical. His monster falls when its great eye is shot, then Salazar himself, in the pod. |
 | **Jack Krauser** | The castle, the mines, the island ruins | II–III | Leon's old mentor, thought dead, bitter at those who left his unit to die, and hungry for power. In the mines, knives only. In the ruins, his blade-arm cannot be hurt; his body can. |
 | **U-3** | The island's caves in one account; the castle and its mines in the other, where it is called the Pesanta | II–III | In the first account it falls into the chasm with the third container rig and is finished by the Plaga on its back. In the second it was once Salazar's housekeeper, made into it by the servant who made himself into the Verdugo; it falls when the weak points on its belly and the tip of its tail are struck. |

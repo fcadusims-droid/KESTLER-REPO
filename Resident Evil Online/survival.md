@@ -27,7 +27,7 @@ What a survivor can carry depends on what they have found to carry it in. Nothin
 | Place | Holds | How a survivor gets it |
 |---|---|---|
 | **Hands** | The one thing ready to use: a weapon, a tool, a light | Always |
-| **Pockets** | Four small things: a box of rounds, a herb, a spray, a key, a vial, a knife, a part small enough to pocket | Always |
+| **Pockets** | Four small things: a box of rounds, an herb, a spray, a key, a vial, a knife, a part small enough to pocket | Always |
 | **Shoulders** | Two long weapons, slung: a rifle and a shotgun, a sniper rifle and a fire axe, any two of the long guns and the large melee weapons | Always |
 | **Belt** | A holster, with room for two handguns | A holster, found where police and guards kept them: the R.P.D.'s locker rooms, Kendo's shop, a guard who did not make it |
 | **Back** | Six more small things: medicine, rounds, parts | A bag, found in the world |
@@ -182,7 +182,7 @@ Combat is not a power fantasy. It is a negotiation with fear. Being surrounded i
 
 ## Run First
 
-Survivor is not fought the way Resident Evil's heroes fight. In the series, one person with enough ammunition puts a Tyrant down alone. In Survivor, the people are civilians, the guns are few, and the things the records made to kill soldiers kill civilians easily. When a Tyrant, a Nemesis, or anything like them appears, the first thought should be the right one: **run, hide, and do not be seen.** Killing one is possible only for a group that has found the best of what the city holds, and even then it is hard and costly.
+Survivor is not fought the way Resident Evil's heroes fight. In the series, one person with enough ammunition puts a Tyrant down alone. In Survivor, the people are civilians, the guns are few, and the things the records made to kill soldiers kill civilians easily. When a Tyrant, a Nemesis, or anything like them appears, the first thought should be the right one: **run, hide, and do not be seen.** Killing one is possible, and never alone: quickly, for a few survivors with one of the night's secret weapons; slowly, for many with whatever guns they found. Either way it is hard and costly.
 
 ### Three Weights of Enemy
 
@@ -190,16 +190,20 @@ Survivor is not fought the way Resident Evil's heroes fight. In the series, one 
 |---|---|---|---|
 | **The dead** | Zombies, infected animals, the Mass of the Turned, the common hosts of the Valley | One at a time, with a weapon and stamina. A crowd, never | One survivor, if the numbers are small |
 | **The Mutated** | Crimson Heads, Lickers, Hunters, the Stalker and the Brute of the Turned, a pack of dogs, the Garradors and Regenerators of the Valley | Rarely, and at a great cost. A Hunter's two blows put an unprotected survivor Down | Two or more survivors with firearms, or one with a shotgun, luck, and a door to shut |
-| **The Heavy** | Every Tyrant-class and Nemesis-class, every G-form, every B.O.W. ΜΝΗΜΗ releases, every named creature and named host, El Gigante, and every Apex, including a survivor's | Never. Alone, a survivor's only choices are to run or to hide | A group of three or more, survivors or companions, with vault weapons and the city itself (below) |
+| **The Heavy** | Every Tyrant-class and Nemesis-class, every G-form, every B.O.W. ΜΝΗΜΗ releases, every named creature and named host, El Gigante, and every Apex, including a survivor's | Never. Alone, a survivor's only choices are to run or to hide | Two or more with a secret weapon; three or more with a vault's weapons; five or more with ordinary guns, for far longer. Survivors and companions both count, and the city helps all of them (below) |
 
 ### The Heavy
 
 - **One blow puts a survivor Down,** whatever they wear (`infection.md`, Down). A second blow on a survivor who is down, and they are Lost.
 - **Its grab is death.** No struggle breaks it, and no knife. Only an explosion against it, a grenade or a rocket, makes it let go, and only another survivor can set one off.
-- **It does not stop for small things.** Handgun rounds slow it for a step and nothing more; a full magazine makes it stumble once. Melee does nothing to it but bring the swinger within its reach. Shotguns at close range, magnum rounds, grenade rounds, fire, and the single rocket of a vault (`objectives-restrictions-events.md`, Vaults) are what hurt it.
-- **Putting one down takes most of what the city holds.** About a vault's whole haul, shared among a group that keeps it turning between them: a magnum and its rounds, a grenade launcher's rounds, and every shotgun shell the group has; or a rocket, which knocks it down, and everything the group fires into it before it rises. A secret weapon shortens the work and never does it alone (`objectives-restrictions-events.md`, Secret Weapons). Put down, a Heavy that is not named stays down. A named creature or named host rises again until the end its records gave it (`cast-raccoon-city-1998.md`, `cast-valley-2004.md`, `cast-ruins-2026.md`), and the group that put it down has spent what it had for a few minutes' peace.
+- **It does not stop for small things.** Handgun rounds, rifle rounds, and submachine-gun fire hurt it only a little at a time: each round slows it for a step, and a full magazine makes it stumble once. Melee hurts it less still, and brings the swinger within its reach. Shotguns at close range, magnum rounds, grenade rounds, fire, and rockets (`objectives-restrictions-events.md`, Vaults) are what hurt it most.
+- **Putting one down.** There are three ways, and each costs more time and more hands than the one before it.
+  - **With a secret weapon.** The fastest way. Most of one secret weapon's load, spent into a Heavy, puts it down, and two survivors can do it: one firing, one keeping it turning. A rocket from a secret weapon knocks it down for long enough to finish it (`objectives-restrictions-events.md`, Secret Weapons).
+  - **With a vault's haul.** About a vault's whole haul, shared among a group of three or more that keeps it turning between them: a magnum and its rounds, a grenade launcher's rounds, and every shotgun shell the group has; or a vault's rocket, which knocks it down, and everything the group fires into it before it rises.
+  - **With ordinary guns.** Handguns, submachine guns, rifles, and shotguns found in the city can put a Heavy down too, but only five or more survivors firing together, for minutes rather than seconds, spending nearly every round they carry, and keeping it turning so that no one stands in its reach for long. It is the slowest way and the loudest, and every minute of it is Thunder that brings the district's dead to the fight.
+- **What stays down.** Put down, a Heavy that is not named stays down. A named creature or named host rises again a few minutes later, in its next form, as its records show, and only when it is put down in its last form is it dead for the night. The end its records gave it ends it at once, in any form (`cast-raccoon-city-1998.md`, `cast-valley-2004.md`, `cast-ruins-2026.md`). A group that puts a named creature down short of its last form has spent what it had for a few minutes' peace, and the next fight is harder.
 - **The city is the best weapon.** A car driven into it at speed knocks it down for a while and wrecks the car's front (Vehicles, above). A fuel tank, a gas main, a collapsing walkway, a train, a furnace, or a shutter dropped on it does more than any gun. A group that kills a Heavy usually does it by leading it somewhere.
-- **Companions count.** A companion is a pair of hands that knows how to fight: Leon Kennedy's knife counters, HUNK's rifle, Jill Valentine's experience of the thing hunting her. A survivor with a companion and a friend is a group. Companions run from the Heavy too, unless their records say they stand.
+- **Companions count.** A companion is a pair of hands that knows how to fight: Leon Kennedy's knife counters, HUNK's rifle, Jill Valentine's experience of the thing hunting her. A survivor with a companion and a friend is a group. Companions run from the Heavy too, unless their records say they stand, or they carry a secret weapon: a companion who carries one stands with whoever stands, and spends it on the Heavy (`survivor-mode.md`, Companions). A survivor walking with such a companion is half of the smallest group that can put a Heavy down.
 
 ### How to Live Through One
 

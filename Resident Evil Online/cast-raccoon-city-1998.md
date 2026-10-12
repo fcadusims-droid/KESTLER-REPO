@@ -1,7 +1,7 @@
 ---
 section: "05 · Story Nights"
 description: "Acts, beats, named creatures, the Last Morning, people, roster, and ties of Raccoon City, 1998"
-order: 25
+order: 26
 ---
 
 # The People of Raccoon City, 1998
@@ -46,7 +46,7 @@ Everyone else is in the city from the waking, where the records had them.
 | **The flare** | III | The R.P.D. roof | HUNK alive | He lights the flare. The Rooftop is his pickup, and he takes one of its two seats, boarding last as the people of the records do (`extraction.md`, The Boarding). |
 | **Nikolai's bargain** | III | Wherever he is | Nikolai alive | He makes for a helicopter. In one account he takes it. In the other he is left on a rooftop with the missile coming. |
 
-**Named creatures.** Three creatures of the records walk the city on threads of their own. Their beats release them, not a region's Crisis (`the-dead-and-engineered.md`). Each can be put down but not killed before the end the records gave it. Put down, it rises a few minutes later, worse each time, as the records show.
+**Named creatures.** Three creatures of the records walk the city on threads of their own. Their beats release them, not a region's Crisis (`the-dead-and-engineered.md`). Each can be killed, and each takes longer to kill than any other Heavy. Put down, it rises a few minutes later in its next form, worse each time, as the records show, and only put down in its last form is it dead for the night (`survival.md`, The Heavy). The end the records gave it ends it at once, in any form. A beat that needs a creature already dead does not happen (`story-nights.md`, Story Nights).
 
 | Creature | From | What it does | Its end |
 |---|---|---|---|
@@ -72,12 +72,12 @@ WAYS OUT: 3.
 
 | Person | Records | Who they are | What they do well | What they will not do |
 |---|---|---|---|---|
-| **Leon S. Kennedy** | *Resident Evil 2* | A rookie R.P.D. officer, twenty-one, on his first day. Idealistic, protective, too ready to trust. | A steady handgun and a shotgun; puts himself between the dead and whoever is hurt | Doubt Ada Wong, whatever she tells him |
-| **Claire Redfield** | *Resident Evil 2* | A college student, nineteen, who came to the city looking for her brother. Reckless, and fierce in defense of anyone weaker. | A handgun and a grenade launcher | Leave anyone weaker behind. She asks everyone she meets about Chris. |
+| **Leon S. Kennedy** | *Resident Evil 2* | A rookie R.P.D. officer, twenty-one, on his first day. Idealistic, protective, too ready to trust. | A steady handgun and a shotgun; puts himself between the dead and whoever is hurt. On some nights he carries the Lightning Hawk, a secret weapon that is his alone (`survivor-mode.md`, Companions) | Doubt Ada Wong, whatever she tells him |
+| **Claire Redfield** | *Resident Evil 2* | A college student, nineteen, who came to the city looking for her brother. Reckless, and fierce in defense of anyone weaker. | A handgun and a grenade launcher. On some nights it is the GM 79, a secret weapon that is hers alone (`survivor-mode.md`, Companions) | Leave anyone weaker behind. She asks everyone she meets about Chris. |
 | **Ada Wong** | *Resident Evil 2* | A spy who came for the G-Virus. In one account she says she is looking for her boyfriend, in the other that she is with the FBI. Secretive and manipulative, and fond of Leon despite herself. | A handgun; goes through vents and gaps no one else fits | Tell the truth about who she is. She leaves for the G-Virus (Ties). |
 | **HUNK** | *Resident Evil 2* | The last of Umbrella's U.S.S. Alpha Team, "Mr. Death." Silent and cold; the mission comes before everything. | The best-armed person in the city: rifle, shotgun, grenades | Follow anyone for long. He walks with a survivor only on his way to his own extraction, and leaves for it when the signal rises (Ties). |
 | **Robert Kendo** | *Resident Evil 2*, *Resident Evil 3* | The owner of Kendo's gun shop, who built the S.T.A.R.S. their handguns. Wary of strangers and generous with guns. | A shotgun; knows every weapon in the shop | Leave his shop while it still holds. In Act II it may not. |
-| **Jill Valentine** | *Resident Evil 3* | A former S.T.A.R.S. officer, twenty-three, who stayed in the city to expose Umbrella. Self-reliant; trusts what she sees, never a badge. | Picks locks, disarms traps, handles explosives; a handgun and a rifle | Trust Nikolai Zinoviev (Ties). Whoever walks with her walks with what hunts her. |
+| **Jill Valentine** | *Resident Evil 3* | A former S.T.A.R.S. officer, twenty-three, who stayed in the city to expose Umbrella. Self-reliant; trusts what she sees, never a badge. | Picks locks, disarms traps, handles explosives; a handgun and a rifle. On some nights she carries the MGL, a secret weapon that is hers alone (`survivor-mode.md`, Companions) | Trust Nikolai Zinoviev (Ties). Whoever walks with her walks with what hunts her. |
 | **Carlos Oliveira** | *Resident Evil 3* | A U.B.C.S. corporal, twenty-one. Warm, flirtatious, decent, and shaken to learn what Umbrella is. | An assault rifle and heavy weapons | Abandon someone he has chosen to protect, or shoot anyone for a Mark unless they ask him to, as Murphy Seeker once did |
 | **Mikhail Viktor** | *Resident Evil 3* | The leader of U.B.C.S. Delta Platoon, forty-five, a former Red Army officer. He puts his men first. | A rifle and explosives; commands (Ties) | Run. He is badly wounded from the first minute. He does not know what Nikolai is. |
 | **Nikolai Zinoviev** | *Resident Evil 3* | A U.B.C.S. sergeant, thirty-five, secretly an Umbrella Supervisor paid for combat data. Greedy, cold, a liar: "There's a price tag for everything." | A silenced pistol and explosives | Keep faith with anyone (Ties). A dose handed to him to carry, he destroys, as he destroyed the city's vaccine. |

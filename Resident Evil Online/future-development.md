@@ -1,16 +1,16 @@
 ---
 section: "08 · Future Development"
 description: "The modes kept for possible future development, and how each would touch the rest of the game"
-order: 35
+order: 36
 ---
 
 # Future Development
 
-Resident Evil Online launches and runs as Survivor alone. The modes in this folder were designed alongside it and are kept as possible future development. None of them is part of the current game, none is scheduled, and none may take anything from Survivor: a future mode opens only if the service can pay for it (`seasons-and-new-content.md`, The Order of Arrival).
+Resident Evil Online launches and runs as Survivor alone. The modes in this part were designed alongside it and are kept as possible future development. None of them is part of the current game, none is scheduled, and none may take anything from Survivor: a future mode opens only if the service can pay for it (`seasons-and-new-content.md`, The Order of Arrival).
 
 They fit what Resident Evil Online is for. It is meant to be the home of every extra and multiplayer mode of the series, so that the main games can stay wholly campaign (`project-overview.md`, The Purpose). Most of these modes descend from extras the series has already shipped beside its campaigns.
 
-The folder also keeps one feature that is not a mode, the Refuge: a private room of the player's own, built from their dioramas, in place of the menus between nights (`the-refuge.md`). It is the lowest priority of everything here.
+This part also keeps one feature that is not a mode, the Refuge: a private room of the player's own, built from their dioramas, in place of the menus between nights (`the-refuge.md`). It is the lowest priority of everything here.
 
 This document gathers everything that would change in the rest of the game if they ever opened. The rules of each mode are in its own document. Nothing here holds in Survivor.
 

@@ -16,7 +16,7 @@ A **session** is a single, self-contained night of survival: a Survivor night. I
 |---|---|---|---|
 | **Survivor** | Extraction survival horror · PvPvE | 40 to 100, by map, in Solo, Duo, Trio, or Squad of 4 | Nothing |
 
-Survivor is the only mode of Resident Evil Online. Every rule in these documents, outside the `08-future-development` folder, describes it. The other modes once designed beside it are kept as possible future development (`future-development.md`). In the Valley of 2004, the Plaga replaces the virus, Elpis, and the strains (`exclusions-and-the-plaga.md`).
+Survivor is the only mode of Resident Evil Online. Every rule in these documents, outside part `08-future-development`, describes it. The other modes once designed beside it are kept as possible future development (`future-development.md`). In the Valley of 2004, the Plaga replaces the virus, Elpis, and the strains (`exclusions-and-the-plaga.md`).
 
 ## The Lifecycle of a Survivor Night
 
