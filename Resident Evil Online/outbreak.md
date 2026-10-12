@@ -85,6 +85,8 @@ Of the eight, Pithos studies Alyssa Ashcroft most closely. In life she interview
 
 ΜΝΗΜΗ keeps the place, the people, and the shape of each night, and changes the order of the chain, the links in it, and what waits at each one.
 
+Every scenario is played in a bound of the Raccoon City of 1998, the same city Survivor plays in, sealed at its edges (`worlds.md`, One World, Every Mode). J's Bar, the hospital, and the R.P.D. are the same rooms in Outbreak as in Survivor. Bringing Outbreak to the game builds no new map: it adds bounds, seals, the scenarios' escapes, and, for *Flashback*, the Arklay hills at the city's edge.
+
 ## The Virus
 
 ΜΝΗΜΗ chooses at random from the whole roster before the scenario begins, and the map becomes its outbreak. No one is told which.

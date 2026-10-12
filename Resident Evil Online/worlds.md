@@ -1,6 +1,6 @@
 ---
 section: "03 · Worlds"
-description: "The open worlds, time and weather, conditions"
+description: "The open worlds, one world for every mode and the bounds each mode plays, time and weather, conditions"
 order: 23
 ---
 
@@ -102,6 +102,69 @@ Once the island is open, the boats at the castle dock carry anyone across, over 
 | Island | **The Docks** | The construction site and its cranes, the loading docks, the underground dock | — |
 
 The church bell still works. Ringing it is Thunder across the whole valley, and every host who hears it walks to the church, as the records say they did.
+
+## One World, Every Mode
+
+Each version of each place is built once, whole, and every mode plays on it. Survivor does not have a map of its own and no future mode will either: there is one Raccoon City of September 1998, one Ruins of 2026, and one Valley of 2004, and every night of every mode is played somewhere inside one of them. A new mode never needs a new map. It needs only to say which part of an existing world it plays in.
+
+### The World and Its Bounds
+
+- **The world.** Everything a version holds, built at full fidelity: every district, building, interior, tunnel, and sewer the records hold, rebuilt where the records put them (The Open Worlds, above). A world also holds the land just past Survivor's edge that the records of other exercises need: the woods and the abandoned hospital in the Arklay hills, the Army's staging base behind the barricades. Those outskirts are built with the first mode that plays in them, as part of the same world, never as a separate map.
+- **A bound.** The part of a world that one kind of night plays in: which regions and interiors are open, where its edges run, how each edge is sealed, where its people enter, and where its ways out stand. Every mode plays a bound. Survivor's bound is the largest one: the whole place inside the barricades, the wall, or the sea.
+- **Bounds only choose and seal.** A bound never adds a street, a room, or a door the world does not have, and never moves one. It opens part of the world and closes the rest. The only things a bound places are its seals and what its mode needs inside it: its people, its dead, its supplies, its objectives, as each mode's own rules say.
+- **One place, one shape.** A room is the same room in every mode. The bar in Downtown where the eight began is J's Bar in a Survivor night, in an Outbreak scenario, and in a Mercenaries stage, with the same doors, the same back stairs, and the same window onto the street. Whoever knows it from one mode knows it in all of them. What changes from mode to mode is who is in it, what lies in it, and which of its doors are sealed.
+
+### Seals
+
+A bound's edges are never invisible walls. Every seal is something the world could hold, of a kind the records used, and anyone who reaches one can see why they can go no farther.
+
+| Seal | Where it serves |
+|---|---|
+| **Barricade** | A street, an alley, a doorway: the Army's concrete and wire, a police line, cars pushed nose to tail, furniture stacked by someone who did not make it |
+| **Collapse** | A street, a stairwell, a corridor: a building front, a ceiling, or a section of tunnel brought down, from the collapses the world already holds (`destruction.md`) |
+| **Locked and shuttered** | A door, a gate, a shop front: steel shutters down, a chained gate, an Umbrella lockdown door that answers no card |
+| **Fire** | A block or a floor: burning the way the records' city burned, too hot to cross |
+| **Water** | A tunnel or a sewer branch: flooded to the ceiling |
+| **Fog and distance** | The far edges: the fog and wire where ΜΝΗΜΗ's world already ends |
+
+- **Built once, used by every bound.** Each seal is set dressing made once and placed wherever a bound needs it, so a new bound is a choice of places and seals, not new building.
+- **Seals hold.** Nothing breaks a seal: not a survivor, not a Heavy, not an explosion. A seal is of the Never tier (`destruction.md`, The Tiers) for as long as its bound lasts, even where the same wall can be broken in another mode.
+- **Seals tell the truth.** A seal looks like what it is. A door that is only locked tonight looks locked, not sealed. A seal never looks like a puzzle, a way out, or a door that could be opened.
+
+### What a Bound Changes
+
+- **Only what is inside it exists.** The dead, the supplies, the people of the records, and the sounds of a night exist only inside its bound. Nothing outside it is simulated, and no sound crosses a seal.
+- **The state of the version holds.** A bound plays its version as it is: the 1998 city whole and burning, the Ruins grey and walled. A mode sets its own hour, weather, and condition inside it, by its own rules (Time and Weather, below).
+- **Everything inside works as it does in the world.** A puzzle, a lock built for two, a vault, a safe room, a subway's power, and a breach behave the same in every bound that holds them, unless the mode's own rules switch them off (`future-development.md`, Which Rules Would Hold Where).
+- **A bound may change between nights.** A mode can hold several bounds on the same world and choose among them, or change one from night to night: a different door sealed, a different street opened. The world stays the same.
+
+### Bounds on Each World
+
+Survivor's bounds are the ones above (The Open Worlds). The modes kept for future development would play on these, all of them bounds of worlds that already exist:
+
+| World | Bound | For | What it opens |
+|---|---|---|---|
+| Raccoon City, 1998 | **The city** | Survivor | Every region inside the barricades |
+| Raccoon City, 1998 | **J's Bar and Downtown** | Outbreak (*Outbreak*) | The bar, its back stairs, and the Downtown blocks around it |
+| Raccoon City, 1998 | **The Hospital** | Outbreak (*The Hive*); Versus, Mercenaries, Infection | Raccoon General Hospital, its hidden floors, and its parking structure |
+| Raccoon City, 1998 | **The Apple Inn** | Outbreak (*Hellfire*) | The hotel and the street in front of it |
+| Raccoon City, 1998 | **The University** | Outbreak (*Decisions, Decisions*) | Raccoon University and its research wing |
+| Raccoon City, 1998 | **The Zoo** | Outbreak (*Wild Things*) | Raccoon Zoo and the edge of the park |
+| Raccoon City, 1998 | **The Metro** | Outbreak (*Underbelly*); Versus, Mercenaries, Infection | The Kite Bros Railway stations and tunnels beneath the city |
+| Raccoon City, 1998 | **The R.P.D.** | Outbreak (*Desperate Times*) | The police station, its parking structure, and its underground |
+| Raccoon City, 1998 | **The Laboratory** | Outbreak (*Below Freezing Point*); Versus, Mercenaries, Infection | NEST |
+| Raccoon City, 1998 | **The last roads** | Outbreak (*End of the Road*) | NEST, the tunnels out of it, and the Western Barricade |
+| Raccoon City, 1998 | **The Arklay hills** | Outbreak (*Flashback*) | The woods and the abandoned hospital, outside Survivor's barricades |
+| Raccoon City, 1998 | **The Military Base** | Versus, Mercenaries, Infection | The Army's staging base behind the barricades |
+| Raccoon City, 1998 | **The route** | Recollections (*The Fourth Survivor*) | One path from beneath the city to a rooftop, every door off it sealed |
+| Raccoon City, Ruins, 2026 | **The Ruins** | Survivor | Every region inside the wall |
+| Raccoon City, Ruins, 2026 | **The R.P.D. ruins, the Outer Blocks** | Versus, Mercenaries, Infection | Each alone, sealed by the rubble already around it |
+| The Valley, 2004 | **The Valley** | Survivor | The village, the castle, and the island, opening as Survivor's rules say |
+| The Valley, 2004 | **The village, the castle, the island** | Versus, Mercenaries, Infection | Each part alone, sealed where it meets the others |
+
+Every Mercenaries stage, Versus district, and Infection zone is cut from one of these, and a mode that arrives later adds rows to this table, not maps to the game (`future-development.md`, Scale and maps).
+
+**In the Night.** ΜΝΗΜΗ rebuilds each place once, from everything the Archive holds, because a place rebuilt twice would be two guesses about one city, and she can check only one. The old exercises each ran in a fragment of a place: a bar, a hospital, a station. She keeps every fragment, and every one of them is a piece of the same whole. A survivor who once crossed J's Bar in a Survivor night would find, in the exercise of the eight, the same bar, with the same stain on the floor.
 
 ## Time and Weather
 

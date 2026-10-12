@@ -51,7 +51,7 @@ There is no cabin, no drop, no jump to choose. Before the simulation starts, whi
 
 ## Scale
 
-Every Survivor night is played on an **open world**: a whole place rebuilt as the records hold it, at Slow Burn. Its character is slow dread, long silences, and sudden collapse. A hundred survivors disappear into a whole city, and for long stretches each one feels alone.
+Every Survivor night is played on an **open world**: a whole place rebuilt as the records hold it, at Slow Burn. It is Survivor's bound of that world, the largest any mode plays (`worlds.md`, One World, Every Mode). Its character is slow dread, long silences, and sudden collapse. A hundred survivors disappear into a whole city, and for long stretches each one feels alone.
 
 No Survivor night announces its length. It ends when ΜΝΗΜΗ decides it has asked enough of its survivors and the last way out has left, and it rarely ends in less than an hour.
 
