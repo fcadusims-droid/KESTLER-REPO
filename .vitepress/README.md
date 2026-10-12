@@ -19,7 +19,9 @@ site and publishes it to GitHub Pages. No manual step.
 
 A Markdown file is turned into a public page **only if all** of these are true:
 
-1. It sits at the **repository root** (files in any subfolder stay private).
+1. It sits at the **repository root**, or directly inside a **collection
+   folder** — a top-level folder with an `index.md` (see below). Files in any
+   other subfolder, or nested deeper inside a collection, stay private.
 2. Its name is not a known dev file (`README`, `LICENSE`, `CONTRIBUTING`, …).
 3. Its front matter does **not** contain `publish: false` or `draft: true`.
 
@@ -37,6 +39,34 @@ publish: false
 The rules live in one place: `.vitepress/lib/docs.mts`. The sidebar, the
 homepage grid, the build exclusions and the search index all read from it, so
 they can never disagree.
+
+## Collections (folders)
+
+A universe, work or game with many documents lives in its own folder:
+
+```
+Resident Evil Online/
+  index.md        ← makes the folder a collection; its front matter describes it
+  Part One.md     ← every .md here joins the collection automatically
+  Part Two.md
+```
+
+- `index.md` front matter: `title`, `description`, `category`, `genre`,
+  `cover`, `order` (same fields as a document). Its body is the collection page;
+  put `<Collection />` where the document grid should appear.
+- Documents inherit the collection's `category` and `genre` unless they set
+  their own; `order` sorts them inside the collection.
+- The homepage shows one card per collection; the sidebar shows the collection
+  with its documents underneath; documents get a breadcrumb back to it.
+- A collection with no documents yet is not built or shown.
+- `publish: false` on the `index.md` hides the whole collection.
+- A folder without `index.md` is private, as before.
+
+## Outdated documents
+
+`outdated: "2026-10-06"` (or `outdated: true`) in the front matter adds an
+"Outdated" badge to the card and a notice at the top of the page. Set
+`outdated_note` to replace the default sentence.
 
 ## Optional front matter
 

@@ -6,7 +6,8 @@ documento de design *NarrativeLean v3*, com as correções descritas em
 [O que mudou em relação ao v3](#o-que-mudou-em-relação-ao-v3).
 
 **Pasta privada.** Nada aqui é publicado: o site só constrói os `.md` da raiz
-do repositório (`srcExclude` em `.vitepress/config.mts` exclui toda subpasta).
+e os de pastas-coleção (uma pasta de primeiro nível com `index.md`). Esta pasta
+não tem `index.md` — **nunca crie um aqui**, ou ela vira página pública.
 Nenhum arquivo fora desta pasta menciona o sistema. As obras não são copiadas
 nem movidas; o sistema lê os `.md` da raiz onde eles já estão.
 

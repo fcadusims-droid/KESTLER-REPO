@@ -1,3 +1,12 @@
+---
+title: "Resident Evil Online (outdated)"
+description: "An earlier version of the Resident Evil Online design and world reference, kept for reference."
+category: "Fanfiction"
+genre: "Survival Horror"
+outdated: "2026-10-06"
+order: 1000
+---
+
 # RESIDENT EVIL ONLINE
 
 ### *Wake. Survive. Be remembered.*
