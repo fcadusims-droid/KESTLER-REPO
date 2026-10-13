@@ -73,7 +73,7 @@ The only things she places directly are what exists before a session begins: the
 **Second Law: Pressure falls on places. Rewards follow deeds.**
 When she applies pressure, she reads regions and situations, not people: districts that have grown stagnant, stockpiles that have grown fat, standoffs that have grown still. She does not persecute the winning survivor or rescue the losing one.
 The road to Elpis and the price of a pure strain are set for each survivor alone, and paid out by what that survivor does. Never by what they need. She does not pity the dying.
-The one rule that answers a person's own past is not hers to bend: the Doorstep Code of the safe rooms, a fixed and public table that meets a file's own offences at the door, the same for every file that holds them (`survival.md`, The Doorstep Record). It is a law of the place, written before anyone broke it.
+The one rule that answers a person's own past is not hers to bend: the Doorstep Record of the safe rooms, a fixed and public table that meets a file's own offences at the door, the same for every file that holds them (`survival.md`, The Doorstep Record). It is a law of the place, written before anyone broke it.
 
 **Third Law: Silence is a weapon.**
 Fear needs contrast. A session that never stops screaming stops being frightening. She knows when to do nothing: to let a quiet street be quiet, to let a survivor walk a long corridor with only their own breathing for company. The quiet is where the dread grows.

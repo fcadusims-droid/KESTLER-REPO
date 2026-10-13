@@ -1,6 +1,6 @@
 ---
 section: "03 · Worlds"
-description: "The open worlds, the edge of each world and why no one walks or drives out, one world for every mode and the bounds each mode plays, time and weather, conditions"
+description: "The open worlds, the edge of each world and the Crossing, one world for every mode and the bounds each mode plays, time and weather, conditions"
 order: 23
 ---
 
@@ -105,9 +105,9 @@ The church bell still works. Ringing it is Thunder across the whole valley, and 
 
 ## The Edge of the World
 
-Every world ends somewhere, and no one in a Survivor night walks or drives off its edge. There is no invisible wall. Nothing stops a survivor who heads for the city limits except what the outbreak left there, and what the outbreak left there is enough. A survivor who wakes, decides the cure is not worth the risk, takes a motorcycle, and rides for the edge of town will find out why everyone else is waiting for a helicopter.
+Every world ends somewhere, and no one in a Survivor night drives off its edge, and almost no one walks off it. There is no invisible wall. Nothing stops a survivor who heads for the city limits except what the outbreak left there, and what the outbreak left there is enough. A survivor who wakes, decides the cure is not worth the risk, takes a motorcycle, and rides for the edge of town will find out why everyone else is waiting for a helicopter.
 
-### Why No One Walks Out of Raccoon City
+### Why Almost No One Walks Out of Raccoon City
 
 The records hold the reasons, and ΜΝΗΜΗ keeps all of them.
 
@@ -135,7 +135,7 @@ The edge is not a punishment, and ΜΝΗΜΗ does not throw anything at anyone w
 - **It falls on a place, not a person.** The Outskirts answer whoever enters them: the first survivor of the night and the hundredth, a Veteran and a Civilian, the clean and the marked (Second Law). They answer a crowd as they answer one rider.
 - **It answers what was done.** An engine at the edge is Thunder at the edge (Fourth Law). The faster and louder someone comes, the more of what lives there comes for them.
 - **The world says so.** No one reaches the edge without being told what it is: QUARANTINE ZONE signs nailed to the barricades, the Army's warnings on every road out, the loudspeakers in the trees, the bodies of the people who tried before (Fifth Law).
-- **Hard, not hopeless.** Before No Man's Land, nothing at the edge kills a survivor by itself. It stops them, wrecks what they came in, makes them loud, and leaves them to get back into the city alive. Only the Crossing kills, and only someone who chose it after the warning.
+- **Hard, not hopeless.** Before No Man's Land, nothing at the edge is certain death. It stops a survivor, wrecks what they came in, makes them loud, and leaves them a fight they can win and a city they can get back into. Only the Crossing is all but certain, and only for someone who chose it after the warning.
 
 **Example: the motorcycle.** A survivor finds a motorcycle in Uptown in the first ten minutes, fuels it, and rides west, away from everything.
 
@@ -159,8 +159,8 @@ A survivor who has got past the Outskirts and over the Barricades on foot (no ve
 CHANCE OF CROSSING THE CORDON: 1%.
 ```
 
-- **The wire is the line.** Stepping through the wire is the choice, and it is the last one. From that step the Crossing is a scene: ΜΝΗΜΗ takes the camera and the survivor's hands, as in a Last Scene (`extraction.md`, The Last Scene), because nothing in the night can reach someone who has left it, and nothing they do now changes how it ends. Until that step, a survivor at the wire can still turn back.
-- **One in a hundred.** The odds are 1%, on every night, at every hour, for everyone: before the signal and after it, alone or in a crowd, clean or marked, Civilian or Veteran. Nothing raises them. Each survivor who steps through the wire is settled alone, the moment they step, so a squad that crosses together may lose all four, or three.
+- **The wire is the line.** Stepping through the wire is the choice, and it is the last one. From that step the Crossing is the survivor's Last Scene (`extraction.md`, The Last Scene): ΜΝΗΜΗ takes the camera and the survivor's hands, because nothing in the night can reach someone who has left it, and nothing they do now changes how it ends. Until that step, a survivor at the wire can still turn back.
+- **One in a hundred.** The odds are 1%, on every night, at every hour, for everyone: before the signal and after it, alone or in a crowd, clean or marked, Civilian or Veteran. Nothing raises them: when the Army falls back from the missile, the dead of the woods do not. Each survivor who steps through the wire is settled alone, the moment they step, so a squad that crosses together may lose all four, or three.
 - **Ninety-nine times.** The scene plays the dark under the trees, the dead coming out of it from every side, the searchlight finding the survivor, the loudspeaker, and the end: taken in the woods, caught on the wire of the cordon, or cut down in the open ground before it. The survivor is Lost (`the-turned.md`, The Lost), and everything they carried stays in No Man's Land.
 - **Once.** The scene plays the same dark, the same dead, the same searchlight sweeping past, and then a road on the far side of the cordon, empty, with the city burning behind the trees. The survivor is extracted as they are: Clean, Cured, or Infected (The Boarding, in `extraction.md`). They earn what any extraction earns, and the Ledger marks the night.
 - **Not a seat.** The Crossing takes no seat from anyone, opens before the signal as well as after it, and is never lit, announced, or named as a way out. It is the one way through the edge that no one made.

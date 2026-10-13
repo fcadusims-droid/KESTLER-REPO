@@ -79,7 +79,7 @@ The parasite never grows inside any body in ΜΝΗΜΗ's world. She delivers it,
 
 It is the only drop that comes without light. Rotors, a canopy, and a black case falling into the dark near the place the Tyrant rose.
 
-A Tyrant-class was built to obey, and the sleeper inside it plays it like any other form. The black case is what it was built to answer: a Tyrant that reaches it is the only thing that can open it.
+A Tyrant-class was built to obey, and the sleeper inside it plays it like any other form. The black case is what it was built to answer.
 
 Only a Tyrant-class can open the black case. If the Tyrant reaches it, the parasite takes it within seconds, and a **Nemesis-class** rises: stronger, faster, armed as the records armed it, and with the Nemesis's one gift, the sense of which way a survivor it has chosen lies (`the-turned.md`, Playing the Turned).
 

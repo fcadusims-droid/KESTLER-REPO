@@ -137,7 +137,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 | `02-core-systems` | `the-living.md` | Cooperation, voice, reading the Mark, the Mark within a squad, the clean, betrayal |
 | `02-core-systems` | `survivors.md` | Who is played, survivor creation, tone, progression, Hardening |
 | `02-core-systems` | `after-action-report.md` | The After-Action Report and its variants |
-| `03-worlds` | `worlds.md` | The open worlds, the edge of each world and why no one walks or drives out, one world for every mode and the bounds each mode plays, time and weather, conditions |
+| `03-worlds` | `worlds.md` | The open worlds, the edge of each world and the Crossing, one world for every mode and the bounds each mode plays, time and weather, conditions |
 | `04-survivor-mode` | `survivor-mode.md` | Survivor: squads, companions, the Stranded, ties, eyes and ears, winning |
 | `05-story-nights` | `story-nights.md` | Faithful to the records, as recorded, story nights, live scenes, Moments, Late Wakings |
 | `05-story-nights` | `cast-raccoon-city-1998.md` | Acts, beats, named creatures, the Last Morning, people, roster, and ties of Raccoon City, 1998 |

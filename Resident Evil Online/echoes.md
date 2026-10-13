@@ -21,7 +21,7 @@ OUTBREAK MAY NOW BE RUN WITHOUT OTHER SURVIVORS.
 
 ## What an Echo Is
 
-An Echo is one of the Remembered: the mind of a sleeper ΜΝΗΜΗ has finished, woken and run by her alone (`sleepers-and-the-remembered.md`). The one exception is a player's own Echo (Your Own Echo, below). It is a whole person, without their memories, and it decides for itself, as they did. ΜΝΗΜΗ does not steer it. She directs the world around an Echo exactly as she directs it around anyone else, and her Laws bind her toward an Echo as toward a survivor.
+An Echo is one of the Remembered: the mind of a sleeper ΜΝΗΜΗ has finished, woken and run by her alone (`sleepers-and-the-remembered.md`). It is a whole person, without their memories, and it decides for itself, as they did. ΜΝΗΜΗ does not steer it. She directs the world around an Echo exactly as she directs it around anyone else, and her Laws bind her toward an Echo as toward a survivor. The one Echo that is not yet one of the Remembered is a player's own (Your Own Echo, below).
 
 ΜΝΗΜΗ never averages. The average of every sleeper is someone no one has ever been. She sorts the Remembered into ways of surviving and wakes every Echo from one of them.
 
