@@ -135,6 +135,7 @@ A **trophy** is proof. It is a look, a model, a frame, an emblem, or a diorama p
 | **Nobody's hero**, a figurine | Extract after giving away the only dose you ever held |
 | **The keeper of the peace**, a pose | Keep a Peaceful seal through two hundred nights (`survival.md`, The Doorstep Record) |
 | **The last seat**, a diorama piece: the Clock Tower helicopter's door | Take the last seat on the last way out of a Raccoon City night with less than two minutes to impact |
+| **One in a hundred**, a frame | Walk out of a night through the Crossing, and live (`worlds.md`, The Crossing) |
 | **The Merchant's best customer**, a hat | In one night in the Valley, buy from every one of the Merchant's appearances |
 
 **Secret trophies.** Some trophies are never listed. Their deeds are not published anywhere, in the game or by Capcom, and the first sign most players see of one is someone else's Dossier. A few are among the rarest things in the game: a model that appears once in many thousands of nights, a piece earned only by a deed few will think to try. Players will find them, share what they found, and argue about the rest. That is the point.

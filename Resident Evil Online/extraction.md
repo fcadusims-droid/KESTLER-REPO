@@ -36,7 +36,7 @@ Some ways out check who boards. Military and Umbrella-built ways out were made t
 | **The Clock Tower** | St. Michael Clock Tower, in Raccoon Park | 4 | Someone must ring the bell to call the helicopter, and the bell is Thunder. What the bell draws has brought a helicopter down here before. If the helicopter falls, its seats are gone. | None |
 | **The Rooftop** | The roof of the R.P.D. A pickup meant for a single operative who made it up from below. | 2 | A flare, lit on the roof. The helicopter does not land; it hovers. | The crewman at the door will not take a hand with a black Mark |
 | **The Subway** | A Kite Bros Railway car, in the tunnels beneath Uptown | 10 | Power restored at the substation and the points thrown at the junction: two levers, far apart, pulled within seconds of each other | None |
-| **The Checkpoint** | The Army barricade on the western highway, where the last trucks wait | 6 | Reaching the barricade and being seen by the soldiers on it. They open the gate only to a survivor who comes on foot and hands up. | The soldiers make every survivor bare their arms, legs, and neck, and turn back any Mark with lines. An unmarked body passes, and so does a fresh wound with no lines yet. A scar passes. |
+| **The Checkpoint** | The Army barricade on the western highway, where the last trucks wait | 6 | Reaching the barricade and being seen by the soldiers on it. They open the gate only after the signal, and only to a survivor who comes on foot and hands up. Before the signal they turn everyone back with warning shots (`worlds.md`, The Edge of the World). | The soldiers make every survivor bare their arms, legs, and neck, and turn back any Mark with lines. An unmarked body passes, and so does a fresh wound with no lines yet. A scar passes. |
 
 **Raccoon City Ruins · 2026** *(40 to 64 survivors · 20 seats built)*
 
@@ -96,6 +96,10 @@ CHANCE OF CLEARING THE CITY: 50%.
 
 - **The people of the records at the controls.** Each acts as their records say. Brad Vickers, who runs from everything, will fly a helicopter that is ready, and leaves the moment it is full or its Last Call ends. Nikolai Zinoviev flies too, and in the account where he took the helicopter, he takes this one: once he is at the controls, he leaves without a Last Call when the cargo he came for is aboard (`cast-raccoon-city-1998.md`, Ties). A pilot is worth the most to a group that knows who it is trusting.
 - **In the Night.** The records are full of people who got out by luck in machines they did not know how to run. ΜΝΗΜΗ keeps the luck and tells the truth about it, because what Pithos's buyers want to know is who climbs into a fifty-percent helicopter when the sure way out is gone, and whom they take with them.
+
+### The Crossing
+
+There is one more way out, and it is almost never one: walking out through the edge of the world, past the cordon, at odds of one in a hundred (`worlds.md`, The Crossing). It takes no seat, needs no signal, and ends in a scene either way.
 
 ## The Signal
 
@@ -188,8 +192,8 @@ If every way out leaves with no survivor aboard, or falls, while living survivor
 
 A night ends when no living survivor is left in it: every one has got out, or fallen. ΜΝΗΜΗ does not keep a night running for the Turned and the dead alone. The moment the last living survivor has gone, she brings the end:
 
-- **Raccoon City, 1998.** The missile. However much of its count was left, it drops to its last ten seconds, and the strike falls on everything still in the city.
-- **The Valley, 2004.** The island's end. Its count drops to its last ten seconds, and the night ends with the blast.
+- **Raccoon City, 1998.** The missile. However much of its count was left, it drops to its last ten seconds, and if the alert has not yet come, it comes now with ten seconds left. The strike falls on everything still in the city.
+- **The Valley, 2004.** The island's end. Its count drops to its last ten seconds, or begins there if it had not begun, and the night ends with the blast.
 - **The Ruins, 2026.** ARK falls, as it fell in the records: the crater folds in on it, and the ruins above go down with it.
 
 Every Turned still standing, the Stranded left behind, and the dead go with it. A night never ends any other way.
@@ -202,11 +206,11 @@ What the scene shows depends on when the survivor left. In the Raccoon City of 1
 
 | When the way out cleared | The Last Scene |
 |---|---|
-| **Early**: more than five minutes before impact | The city falling away below, smoke over the districts, the first grey light. The people aboard: the squad, a stranger, a companion looking back. The music of leaving (`presentation-and-technology.md`, Music). Far behind, at the very end, a white flash on the horizon. |
+| **Early**: more than five minutes before impact | The city falling away below, smoke over the districts, under whatever sky the night has. The people aboard: the squad, a stranger, a companion looking back. The music of leaving (`presentation-and-technology.md`, Music). Far behind, at the very end, a white flash on the horizon. |
 | **Late**: five minutes or less before impact | The same leaving, held on the city, and a contrail coming down out of the sky toward it |
 | **Last**: under a minute, or the last way out of the night | The strike behind them. The white, the sound arriving after it, the shock wave reaching the machine, the cabin shaking, and the long moment of not knowing whether it will hold. Then it holds, and the music comes in. |
 
-The last way out of a night always gets the Last scene, because its leaving is what brings the strike (The End of the Night, above). In the Valley, the island's blast plays the same part, behind a boat, a cable car, or a helicopter; in the Ruins, it is ARK falling and the crater folding in behind them, under a dawn that has no color in it.
+The last way out of a night always gets the Last scene, because its leaving is what brings the strike (The End of the Night, above). In the Valley, the island's blast plays the same part, behind a boat, a cable car, or a helicopter; in the Ruins, it is ARK falling and the crater folding in behind them, under a sky that has no color in it.
 
 - **The ground sees it too.** When the night ends, every player still in it, the Turned and the Lost who stayed to watch, sees the end from where they stand: the contrail, the white, and nothing after.
 - **Kept, and skippable.** Every Last Scene goes into the Reel (`story-nights.md`). A player who has seen enough of them can skip one, and loses nothing by it.

@@ -99,6 +99,13 @@ A survivor who got out on an improvised way says which, and the odds it left wit
 WAY OUT .................. HOSPITAL HELICOPTER · IMPROVISED · 90%
 ```
 
+The Crossing says so either way:
+
+```
+WAY OUT .................. THE CROSSING · ON FOOT · 1%
+CAUSE .................... TAKEN IN NO MAN'S LAND
+```
+
 A night that held Echoes adds one line to every report in it: ECHOES PRESENT, and how many.
 
 A night in which a survivor's body reached a new stage of Hardening (`survivors.md`) adds one line to that survivor's report, in ΜΝΗΜΗ's words, and never the stage's name:
