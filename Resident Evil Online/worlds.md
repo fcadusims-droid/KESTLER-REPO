@@ -123,9 +123,9 @@ So a city that was meant to be left is ringed three times over, and every ring w
 |---|---|---|
 | **The Outskirts** | The last blocks before the city limits: houses with their windows broken, gas stations, motels, the last stretch of every road out | The dead that followed the convoys gather here, and so do the things that hunt by sound: Lickers in the last houses, packs of infected dogs come in from the woods, Crimson Heads where the convoys fought their way out. The Outskirts are at High threat all night (`the-dead-and-engineered.md`, Threat Levels). Whatever lives here goes first for what is loudest and fastest: an engine. |
 | **The Barricades** | The wall of cars, buses, trucks, trees, and earth that the people who fled left across every road | No vehicle passes. Every barricade of the ring is of the Never tier (`destruction.md`, The Tiers): nothing breaks it, rams it, or blows it open. On foot it can be climbed in a few places, slowly, and the climb is a Clamor. |
-| **No Man's Land** | The fields and woods beyond, and past them the Army's cordon | The dead of the woods, more of them than in any district of the city, and in the dark. Past them, the cordon: a searchlight, a loudspeaker ordering anyone in the trees to turn back, a flare, a warning shot, and then a shot that does not miss. A survivor who goes on after the warning is Lost. |
+| **No Man's Land** | The fields and woods beyond, and past them the Army's cordon | The dead of the woods, more of them than in any district of the city, and in the dark. Past them, the cordon: a searchlight, a loudspeaker ordering anyone in the trees to turn back, a flare, a warning shot, and then a shot that does not miss. A survivor who goes on after the warning has begun the Crossing (below), and almost never comes back from it. |
 
-Beyond No Man's Land, ΜΝΗΜΗ's world ends in fog (One World, Every Mode, below). No survivor has ever reached it.
+Beyond No Man's Land, ΜΝΗΜΗ's world ends in fog (One World, Every Mode, below).
 
 ### How the Edge Answers
 
@@ -135,7 +135,7 @@ The edge is not a punishment, and ΜΝΗΜΗ does not throw anything at anyone w
 - **It falls on a place, not a person.** The Outskirts answer whoever enters them: the first survivor of the night and the hundredth, a Veteran and a Civilian, the clean and the marked (Second Law). They answer a crowd as they answer one rider.
 - **It answers what was done.** An engine at the edge is Thunder at the edge (Fourth Law). The faster and louder someone comes, the more of what lives there comes for them.
 - **The world says so.** No one reaches the edge without being told what it is: QUARANTINE ZONE signs nailed to the barricades, the Army's warnings on every road out, the loudspeakers in the trees, the bodies of the people who tried before (Fifth Law).
-- **Hard, not hopeless.** Before No Man's Land, nothing at the edge kills a survivor by itself. It stops them, wrecks what they came in, makes them loud, and leaves them to get back into the city alive. Only the cordon kills, and only after its warning.
+- **Hard, not hopeless.** Before No Man's Land, nothing at the edge kills a survivor by itself. It stops them, wrecks what they came in, makes them loud, and leaves them to get back into the city alive. Only the Crossing kills, and only someone who chose it after the warning.
 
 **Example: the motorcycle.** A survivor finds a motorcycle in Uptown in the first ten minutes, fuels it, and rides west, away from everything.
 
@@ -148,9 +148,28 @@ The edge is not a punishment, and ΜΝΗΜΗ does not throw anything at anyone w
 
 The rider was never told no. They were shown why, and now they are on foot, wounded, loud, at the far edge of the city, with the night still ahead of them.
 
+### The Crossing
+
+Walking out is possible. It is also suicide, and ΜΝΗΜΗ says so in numbers.
+
+A survivor who has got past the Outskirts and over the Barricades on foot (no vehicle passes them) reaches the wire at the treeline, where No Man's Land begins. There the cordon's loudspeaker gives its warning, and ΜΝΗΜΗ gives hers, behind the eyes for the marked and through the earpiece for anyone wearing it, exactly as she gives the odds of any machine (`extraction.md`, The Odds):
+
+```
+ΜΝΗΜΗ: YOU ARE LEAVING THE CITY ON FOOT.
+CHANCE OF CROSSING THE CORDON: 1%.
+```
+
+- **The wire is the line.** Stepping through the wire is the choice, and it is the last one. From that step the Crossing is a scene: ΜΝΗΜΗ takes the camera and the survivor's hands, as in a Last Scene (`extraction.md`, The Last Scene), because nothing in the night can reach someone who has left it, and nothing they do now changes how it ends. Until that step, a survivor at the wire can still turn back.
+- **One in a hundred.** The odds are 1%, on every night, at every hour, for everyone: before the signal and after it, alone or in a crowd, clean or marked, Civilian or Veteran. Nothing raises them. Each survivor who steps through the wire is settled alone, the moment they step, so a squad that crosses together may lose all four, or three.
+- **Ninety-nine times.** The scene plays the dark under the trees, the dead coming out of it from every side, the searchlight finding the survivor, the loudspeaker, and the end: taken in the woods, caught on the wire of the cordon, or cut down in the open ground before it. The survivor is Lost (`the-turned.md`, The Lost), and everything they carried stays in No Man's Land.
+- **Once.** The scene plays the same dark, the same dead, the same searchlight sweeping past, and then a road on the far side of the cordon, empty, with the city burning behind the trees. The survivor is extracted as they are: Clean, Cured, or Infected (The Boarding, in `extraction.md`). They earn what any extraction earns, and the Ledger marks the night.
+- **Not a seat.** The Crossing takes no seat from anyone, opens before the signal as well as after it, and is never lit, announced, or named as a way out. It is the one way through the edge that no one made.
+
+The Crossing exists on every map: over the wall of the Ruins and through the BSAA's guns, or out of the Valley through the forest past the cult's watchers. Its odds are the same everywhere.
+
 ### The Only Ways Through
 
-The only ways through the edge are the ways out (`extraction.md`), and that is why they are worth everything. A helicopter flies over all three rings. A train runs on a line the Army holds open for its own. The Checkpoint is the one gate in the Barricades, and before the signal its soldiers turn everyone back with warning shots. An improvised way out works because it does what the ways out do: it flies over, or it runs on rails or water the barricades never closed (`extraction.md`, Improvised Ways Out).
+Besides the Crossing, the only ways through the edge are the ways out (`extraction.md`), and that is why they are worth everything. A helicopter flies over all three rings. A train runs on a line the Army holds open for its own. The Checkpoint is the one gate in the Barricades, and before the signal its soldiers turn everyone back with warning shots. An improvised way out works because it does what the ways out do: it flies over, or it runs on rails or water the barricades never closed (`extraction.md`, Improvised Ways Out).
 
 A car, a cruiser, or a motorcycle is for crossing the city: faster than running, louder than anything, with a trunk to carry what a survivor cannot (`survival.md`, Vehicles). It is never for leaving. Driving at the edge is the quickest way to learn it.
 
@@ -161,7 +180,7 @@ A car, a cruiser, or a motorcycle is for crossing the city: faster than running,
 | **The Ruins, 2026** | The Outer Blocks along the wall, where the Garmr packs hunt | The quarantine wall itself: concrete, wire, and watchtowers, built to keep the city in for twenty-eight years | The BSAA's cordon beyond the wall, and its guns, which turn on anything that comes over it. The Breach is a way out only once the signal rises. |
 | **The Valley, 2004** | The forest road and the farms at the valley's rim, where the Ganados and their dogs watch for strangers | The bridge over the ravine, cut by the village as it was in the records; the cliffs; the sea around the castle and the island | The cult's watchers on every road out, and the island's guns over the water and the sky |
 
-**In the Night.** Past the fog there is nothing: ΜΝΗΜΗ built only what the records hold, and no record holds the road beyond the cordon. She does not let anyone reach the end of her world, because there is no world there to reach. She does not need a wall to stop them. The records gave her three rings of reasons, and she uses all of them.
+**In the Night.** Past the fog there is nothing: ΜΝΗΜΗ built only what the records hold, and no record holds the road beyond the cordon. She does not need a wall to keep anyone in. The records gave her three rings of reasons, and she uses all of them. The records also hold the very few who walked out through the woods and lived, and so she keeps that door open, exactly as wide as the records left it: one in a hundred. For the one who makes it, the night ends on a road she only has to draw as far as the next bend.
 
 ## One World, Every Mode
 

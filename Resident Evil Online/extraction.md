@@ -97,6 +97,10 @@ CHANCE OF CLEARING THE CITY: 50%.
 - **The people of the records at the controls.** Each acts as their records say. Brad Vickers, who runs from everything, will fly a helicopter that is ready, and leaves the moment it is full or its Last Call ends. Nikolai Zinoviev flies too, and in the account where he took the helicopter, he takes this one: once he is at the controls, he leaves without a Last Call when the cargo he came for is aboard (`cast-raccoon-city-1998.md`, Ties). A pilot is worth the most to a group that knows who it is trusting.
 - **In the Night.** The records are full of people who got out by luck in machines they did not know how to run. ΜΝΗΜΗ keeps the luck and tells the truth about it, because what Pithos's buyers want to know is who climbs into a fifty-percent helicopter when the sure way out is gone, and whom they take with them.
 
+### The Crossing
+
+There is one more way out, and it is almost never one: walking out through the edge of the world, past the cordon, at odds of one in a hundred (`worlds.md`, The Crossing). It takes no seat, needs no signal, and ends in a scene either way.
+
 ## The Signal
 
 ```
