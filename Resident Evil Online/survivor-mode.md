@@ -63,7 +63,7 @@ Not everyone in a Survivor night is a survivor. Before the waking, ΜΝΗΜΗ pl
 |---|---|
 | **Get them out** | The survivor opens what holds them: finds the cell key, cuts the chain, pulls down the barricade. It is never quiet. |
 | **Ask what they know** | Where a key is, where a vault's code is written, which way out the Army still holds, which streets the dead have filled. Sometimes true, sometimes out of date, sometimes a lie told to be let out. |
-| **Ask for what they carry** | A key, a few shells, a herb, a code. Some give it at once, some only once they are out, and some promise and never pay. |
+| **Ask for what they carry** | A key, a few shells, an herb, a code. Some give it at once, some only once they are out, and some promise and never pay. |
 | **Take them along** | They become the team's companion, if the team has none (below). |
 | **Leave them** | Nothing is opened, and nothing is owed. |
 

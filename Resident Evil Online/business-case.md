@@ -10,7 +10,7 @@ order: 35
 
 ## The Answer
 
-**Only as a bet on a hit.** As the Service documents now describe it, with the whole of Raccoon City rebuilt for the launch, Resident Evil Online costs about $205M before launch. At that cost it does not pay for itself in the Base case: it ends about $110M short. It pays for itself if the First Run sells about 12 million copies, and it makes about $105M if it becomes a hit. The model still holds together, and three things still make it hold:
+**Only as a bet on a hit.** As the Service documents describe it, with the whole of Raccoon City rebuilt for the launch, Resident Evil Online costs about $205M before launch. At that cost it does not pay for itself in the Base case: it ends about $110M short. It pays for itself if the First Run sells about 12 million copies, and it makes about $105M if it becomes a hit. The model still holds together, and three things still make it hold:
 
 - **The price pays for the game.** A US$29.99 First Run brings in most of the money.
 - **Cosmetics pay for the service.** The Wardrobe, Patron, and early access keep the online game running after the Opening.
@@ -43,7 +43,7 @@ A free-to-play launch with the same player-friendly rules would not work: at $8 
 
 ## 1 · Building It
 
-The launch is still smaller than the whole design (`seasons-and-new-content.md`): Survivor on one world, the Raccoon City of 1998. But that one world is now the whole city, rebuilt as a new remake, with what the remakes of *Resident Evil 2* and *3* made reused wherever the city holds it (`presentation-and-technology.md`, Raccoon City, Rebuilt Whole). It is lit for every hour and every weather, and Survivor carries more systems than before: safe rooms, stashes, vehicles, worn inventory, proximity voice carried by the city's acoustics, and Hardening, whose every stage is captured in motion (`survivors.md`). The world is also a story night (`story-nights.md`), costed as its own line.
+The launch is still smaller than the whole design (`seasons-and-new-content.md`): Survivor on one world, the Raccoon City of 1998. But that one world is the whole city, rebuilt as a new remake, with what the remakes of *Resident Evil 2* and *3* made reused wherever the city holds it (`presentation-and-technology.md`, Raccoon City, Rebuilt Whole). It is lit for every hour and every weather, and Survivor carries many systems: safe rooms, stashes, vehicles, worn inventory, proximity voice carried by the city's acoustics, and Hardening, whose every stage is captured in motion (`survivors.md`). The world is also a story night (`story-nights.md`), costed as its own line.
 
 | Component | Low | Realistic | High |
 |---|---|---|---|
@@ -61,8 +61,6 @@ The launch is still smaller than the whole design (`seasons-and-new-content.md`)
 | **Total before launch** | **$140M** | **$205M** | **$293.5M** |
 
 All [A], with the head cost from Capcom's own pay [E]. The Realistic core team sits at *Requiem*'s in-house size [P], held for four years, with the city's art outsourced as Capcom outsourced much of *Resident Evil 2*'s 800 [P]. The Realistic build is about $42M a year over four years, about 10% of Capcom's planned yearly development investment [E]; the total before launch is about half of one year's [E]. It is in line with what a newly greenlit AAA game costs [E], nearly three times what *ARC Raiders* is reported to have cost [E], and half of what *Concord* is reported to have lost [E].
-
-**What changed since the earlier estimate.** The earlier launch, $131M Realistic, was Survivor built on the pieces of Raccoon City the remakes already held, with four Outbreak scenarios and Mercenaries beside it. Those modes are gone from the launch (`future-development.md`), which saves about $20M [A]. Rebuilding the whole city, lighting it for every hour and weather, and adding the new systems cost about $95M more [A]. The city is the difference.
 
 **How long.** About four years from the first gate's funding to launch in the Realistic case: three and a half if the city's reuse goes further than planned, four and a half if it does not [A]. A project begun in 2027 launches about 2031, on the RE Engine as REX changes it underneath (`presentation-and-technology.md`, Engine and Platforms).
 

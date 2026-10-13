@@ -49,7 +49,7 @@ A new survivor moves like what they are: a civilian who has never trained for an
 |---|---|---|
 | **The startle.** A sudden sound at Clamor or louder within a few meters, something lunging from out of sight, a body falling close by, a hand on the shoulder from behind | A flinch of about a second and a half: hands up, aim thrown wide, often a step back | A flinch of about half a second, with no step |
 | **Stamina** (`survival.md`, Fighting and Fleeing) | The smallest pool, and the slowest to refill | A third more, refilling a quarter faster |
-| **Breath** after the pool runs dry | Loud, ragged panting, a Hush, for about ten seconds | About four seconds |
+| **Breath** after the pool runs dry | Loud, ragged panting, a Murmur, for about ten seconds | About four seconds |
 | **Rough ground** at a run: rubble, stairs, wreckage | Slows to pick a way through | Keeps its pace |
 | **Hands in a grab** (`survival.md`, Fighting and Fleeing) | The struggle costs the full price in stamina | The struggle costs a third less |
 
