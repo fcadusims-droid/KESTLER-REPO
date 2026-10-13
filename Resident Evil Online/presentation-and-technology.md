@@ -12,7 +12,7 @@ Survivor is played in third person, from over the shoulder. The camera can swap 
 
 Third person is the choice because the body is the clock. A survivor's tremor, their limp, the hand pressed to their ribs, the way they stand at Fracture: all of it is information Resident Evil Online refuses to put on a screen as a number, so the player has to be able to see their own survivor.
 
-Outside a Moment (`story-nights.md`), the camera never swings in front of the survivor.
+Outside a Moment (`story-nights.md`) and Self-Examination (`survival.md`), the camera never swings in front of the survivor. In Self-Examination it draws in to the part of their own body a survivor is looking at, and shows only what their own eyes, or a reflection, could show them.
 
 ## The Camera Sees Only What the Survivor Sees
 

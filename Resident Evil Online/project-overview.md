@@ -55,6 +55,7 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 | **The Growth** | The Night | The living tissue that has spread through ΜΝΗΜΗ's hardware since 2019, which Pithos records and does not understand |
 | **Live scene / Moment / the Reel** | The Night | A beat performed in the world while everyone keeps control; the few seconds of true cinema ΜΝΗΜΗ grants a survivor when nothing can reach them; and her record of the scenes a survivor witnessed, watched after the night |
 | **Warden / doorstep** | The Night | The guard ΜΝΗΜΗ keeps at every safe room, and the ground within twenty meters of its door, where no survivor may harm another (`survival.md`, Safe Rooms) |
+| **Self-Examination** | Both | A survivor looking closely at their own body, at any moment, without pausing the night (`survival.md`, Self-Examination) |
 | **Hardening** | The Service | The progression by hours played: what time in the nights does to a survivor's body, from Civilian to Veteran. In the Night, the body ΜΝΗΜΗ builds for a sleeper's file |
 | **As recorded / rebuilt** | The Night | How a person or creature of the records is shown: exactly as its first record holds them, or as the latest record holds them |
 
@@ -128,7 +129,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 | `02-core-systems` | `the-turned.md` | The Turn, the four shapes, who keeps a mind, the Second Night, the Lost |
 | `02-core-systems` | `extraction.md` | The verdict, the ways out of each map, the signal, boarding, the Climb, departure |
 | `02-core-systems` | `the-dead-and-engineered.md` | Sound tiers, threat levels, the dead, containment, B.O.W. events, anomalies |
-| `02-core-systems` | `survival.md` | Health, hunger and thirst, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing |
+| `02-core-systems` | `survival.md` | Health, hunger and thirst, Self-Examination, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing |
 | `02-core-systems` | `destruction.md` | What breaks and who breaks it, what breaking changes, the Heavy indoors, breaches, collapses |
 | `02-core-systems` | `objectives-restrictions-events.md` | Objectives, restrictions, puzzles, vaults, secret weapons, events |
 | `02-core-systems` | `the-living.md` | Cooperation, voice, reading the Mark, the Mark within a squad, the clean, betrayal |

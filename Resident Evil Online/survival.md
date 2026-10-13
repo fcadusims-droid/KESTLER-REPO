@@ -1,6 +1,6 @@
 ---
 section: "02 · Core Systems"
-description: "Health, hunger and thirst, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing"
+description: "Health, hunger and thirst, Self-Examination, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing"
 order: 17
 ---
 
@@ -18,7 +18,7 @@ Resident Evil Online is a game of scarcity. Survivors begin with nothing. They d
 
 ## Health
 
-There is no health bar. A survivor's condition shows in their body: a hand pressed to the ribs, a limp, a slowing walk, blood on the clothes. Beyond a point, a survivor is Down (`infection.md`).
+There is no health bar. A survivor's condition shows in their body: a hand pressed to the ribs, a limp, a slowing walk, blood on the clothes. Beyond a point, a survivor is Down (`infection.md`). Self-Examination (below) is how a survivor reads their own body closely.
 
 ## Hunger and Thirst
 
@@ -71,6 +71,32 @@ A Survivor night lasts an hour and more, and a body asks for things. Hunger and 
 - **Who hungers.** Survivors and Echoes, by the same rules. Companions and the Stranded do not: ΜΝΗΜΗ plays them as their records do, and no one of the records slows a survivor down by needing a meal. The Turned never hunger; their strain's appetites are all they have.
 
 **In the Night.** ΜΝΗΜΗ runs the body, so she runs its hunger too. A real outbreak lasts days, and its people are hungry and thirsty long before they are bitten; who shares the last bottle, who trades a can for a shell, who drinks from a tap they know is tainted, are questions Pithos's buyers want answered. She keeps it mild on purpose. A sleeper dying of thirst would teach her only what she already knows about bodies, and she is watching their choices.
+
+## Self-Examination
+
+No screen says how a survivor is. Their body does, and **Self-Examination** is how they read it closely. Resident Evil has always let a player turn an item in their hands and examine it; here a survivor examines themselves. A player can enter it at any moment, anywhere. The night does not pause.
+
+**Entering it.** One held input. The camera draws in close over the survivor's own body, and a short list of places appears: **arms, hands, legs, torso, the lips and face, the neck, the back**. The player chooses one, and the camera goes there; the survivor does what a person does to look at that part of themselves. A second stick turns and zooms, the way an item is turned in the series' inventories.
+
+| Place | What the survivor does | What it can show |
+|---|---|---|
+| **Arms** | Pushes up one sleeve, then the other. A jacket is unzipped and shrugged off one shoulder; a uniform's cuff is unbuttoned; a riot vest stays on | A bite, a scratch, a needle's mark; from Fever on, the lines of a strain's color climbing out of it (`infection.md`, The Mark) |
+| **Hands** | Turns them over, palms up, then down. Flexes the fingers | Wounds; from Fever on, the tremor; at Fracture, fingers that will not quite close |
+| **Legs** | Crouches and rolls a trouser leg to the knee, or pulls down a boot top | A rat's bite at the ankle, a claw across the calf |
+| **Torso** | Lifts the shirt, or opens the jacket and lifts what is under it | Wounds. A hand laid on the stomach feels hunger: Hungry, it rumbles under the palm; Starving, it growls aloud (Hunger and Thirst, above) |
+| **The lips and face** | Runs a thumb over the lips and along the jaw. To *see* them, the survivor needs a reflection: a mirror, a window, a car's wing mirror, a puddle, a blade | By touch: lips cracked or not (Thirst), a pulse fast or slow at the jaw. In a reflection: everything, the lines at the jaw at Fracture, eyes clouding at the edges |
+| **The neck** | Turns the head to a reflection | A needle's mark, a bite behind the ear. With no reflection near, nothing: the camera stays on the survivor's own shoulder |
+| **The back** | Reaches back, and cannot see | Nothing. A bite on the back or the back of the neck needs someone else's eyes (`the-living.md`) |
+
+- **It shows only what is there.** Self-Examination never tells a survivor anything their eyes and hands could not. In Seed, a Mark looks like any other wound, and up close it still does: only ΜΝΗΜΗ's voice tells the bitten what the wound carries. From Fever on, the lines are there to see, and zoom shows how far they have climbed. What the survivor cannot see without a reflection, the camera does not show (`presentation-and-technology.md`, The Camera Sees Only What the Survivor Sees).
+- **The dress decides the gesture.** Every dress covers the same skin (`cosmetics-and-dossier.md`, The Rule), but each kind of garment has its own way of being moved aside: a sleeve rolled, a cuff unbuttoned, a zip pulled, a skirt's hem lifted, a boot top folded down. The gesture changes; how long it takes never does, so no dress is faster to check than another.
+- **The hands show the night.** A Civilian's fingers fumble the cuff and shake on the zip; a Veteran's are quick and steady (`survivors.md`, Hardening). Only the look changes: a Veteran examines no faster than anyone else.
+- **Others see it.** Baring an arm here is the same act as the shared gesture of showing it (`infection.md`, The Mark): anyone close enough sees what the survivor sees. Examining yourself in front of a stranger is showing them.
+- **Leaving it.** Letting go of the input brings the camera back at once. What was bared stays bared until the survivor covers it again, which takes a moment, so a survivor who jumps out of it to fight may fight with a sleeve rolled up and a Mark in plain sight.
+
+**It is dangerous.** Nothing stops while a survivor looks at themselves. The camera is close on their own body, so they see little of the room around them; sound still carries, and listening is all the warning they have. A blow, a grab, or a shot ends Self-Examination at once. Every survivor learns to do it with their back to a wall, behind a closed door, on a roof the dead cannot climb, or best of all in a safe room, where the minutes spent still count against their time there (Safe Rooms, below).
+
+**In the Night.** The body is ΜΝΗΜΗ's work, and so is every mark on it. A sleeper turning their own arm in the dark, looking for the bite they already know is there, is reading something she wrote. She watches it more closely than almost anything else they do: what a person does in the minute after they find it is the most honest minute of their night.
 
 ## The Inventory
 
