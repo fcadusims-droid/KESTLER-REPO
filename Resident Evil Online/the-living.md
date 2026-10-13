@@ -29,7 +29,7 @@ A squad is not told either. Voice carries only as far as a voice carries (Speaki
 - **Telling is a choice.** A bitten survivor can say so at once, wait, or say nothing. Saying so may cost them the squad's trust, its last spray, or its seat. Saying nothing costs them nothing until it is seen.
 - **The signs are the world's.** A sleeve torn and bloody since the last time anyone looked. A limp, a hand held to the arm. A scream heard far off while they were apart. A survivor who suddenly wants to go somewhere they cannot explain, because ΜΝΗΜΗ's private voice has given them a road (`elpis-and-the-road.md`). The dogs that will not leave one of them alone.
 - **Showing is the ritual.** Squads that trust each other learn to bare their arms every time they meet again. Squads that do not learn who refuses.
-- **Someone else's eyes.** No one can examine their own back or the back of their own neck (`survival.md`, Self-Examination). A survivor who wants to be sure needs someone to look, and has to turn their back to do it.
+- **Someone else's eyes.** No one can examine their own back or the back of their own neck (`survival.md`, Self-Examination). A survivor who wants to be sure needs someone to look, and has to turn their back to do it. A wound there can be tended only by someone else's hands (`survival.md`, Tending a Wound).
 - **The clock settles it.** No lie outlasts Fracture. A survivor who hid a bite through Seed and Fever is found out the moment the lines reach their face, at the worst time to be found out: with the fewest minutes left, and the squad's dose already spent or promised.
 - **The other side.** A clean survivor with a torn sleeve looks exactly like a bitten one. Being believed is as hard as being honest.
 

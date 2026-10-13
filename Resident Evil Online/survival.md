@@ -1,6 +1,6 @@
 ---
 section: "02 · Core Systems"
-description: "Health, hunger and thirst, Self-Examination, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing"
+description: "Health, hunger and thirst, Self-Examination and tending wounds, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing"
 order: 17
 ---
 
@@ -14,11 +14,11 @@ Resident Evil Online is a game of scarcity. Survivors begin with nothing. They d
 
 **Firearms are rare in the world.** A handgun is a significant find. A shotgun is a treasure. A rifle is something people kill for. Ammunition is scarcer than the guns that use it.
 
-**Healing is slow.** First aid sprays, herbs, bandages. Wounds linger. None of it touches the infection; only the rare antivirals hold it back, and only for minutes (`infection.md`), and a safe room holds it while a survivor shelters there (Safe Rooms, below).
+**Healing is slow.** First aid sprays, herbs, bandages. Wounds linger, and healing done in a hurry heals less than healing done with care (Self-Examination, Tending a Wound, below). None of it touches the infection; only the rare antivirals hold it back, and only for minutes (`infection.md`), and a safe room holds it while a survivor shelters there (Safe Rooms, below).
 
 ## Health
 
-There is no health bar. A survivor's condition shows in their body: a hand pressed to the ribs, a limp, a slowing walk, blood on the clothes. Beyond a point, a survivor is Down (`infection.md`). Self-Examination (below) is how a survivor reads their own body closely.
+There is no health bar. A survivor's condition shows in their body: a hand pressed to the ribs, a limp, a slowing walk, blood on the clothes. Beyond a point, a survivor is Down (`infection.md`). Self-Examination (below) is how a survivor reads their own body closely, and where they tend it best.
 
 ## Hunger and Thirst
 
@@ -94,9 +94,29 @@ No screen says how a survivor is. Their body does, and **Self-Examination** is h
 - **Others see it.** Baring an arm here is the same act as the shared gesture of showing it (`infection.md`, The Mark): anyone close enough sees what the survivor sees. Examining yourself in front of a stranger is showing them.
 - **Leaving it.** Letting go of the input brings the camera back at once. What was bared stays bared until the survivor covers it again, which takes a moment, so a survivor who jumps out of it to fight may fight with a sleeve rolled up and a Mark in plain sight.
 
+### Tending a Wound
+
+A survivor can use a spray, an herb, or a bandage at any moment, anywhere, without Self-Examination: a second's work, done with the dead a step away. Used that way, it heals **about half** of what it can. In Self-Examination, a survivor who has found a wound can **tend** it instead: bare it, clean it, and dress it properly. Tended, the same item heals **all** of what it can. Nothing obliges anyone to tend; it is the better use of a scarce thing, bought with time and with the danger of standing still.
+
+| Item | In a hurry | Tended in Self-Examination |
+|---|---|---|
+| **First aid spray** | A hiss through the clothes, wherever it hurts. About a second | The wound bared, the spray worked into it and along its edges, a moment to let it set. About five seconds |
+| **Herbs and their mixes** | Chewed and swallowed. About a second | Crushed in the palm and pressed into the wound. About six seconds |
+| **Bandage** | Wound over the cloth, loose, and it bleeds through. About two seconds | Wound on bare skin and pulled tight, the end tucked. About eight seconds |
+| **Rag bandage** (Crafting, below) | Tied over the cloth: a quarter of what a bandage heals | Tied on bare skin: half of what a bandage heals |
+
+**What it looks like.** A knife has opened a survivor across the belly. They go into Self-Examination behind a counter and choose the torso; the camera goes to the stomach as they lift the shirt and see the cut. They tend it: a gauze pad pressed down hard with one hand, the bandage drawn from a pocket with the other and wound around the waist, once, twice, three times, breath hissing through the teeth, a groan as it is pulled tight, the end tucked, the shirt let down over it. Every wound is tended where it is, with the gesture its place and the dress ask for: a sleeve rolled to bind a forearm, a trouser leg cut to wrap a calf, a spray worked into the back of a hand.
+
+- **Pain has a voice.** Tending hurts, and the survivor sounds like it, in their own voice (`survivors.md`). A groan, a breath through the teeth, a curse under it are Murmurs. A deep wound, a knife's or a claw's, draws a cry when it is pulled closed, and that cry is a Clamor (`the-dead-and-engineered.md`). A survivor can bite down on a sleeve or a strap to keep it a Murmur; it adds two seconds.
+- **The body shows it.** A wound tended stops showing the way it did: the hand comes away from the ribs, the limp eases, the walk steadies (Health, above). A wound treated in a hurry heals less, and shows more. A bandage tended on bare skin lies under the clothes; one wound over them is in plain sight.
+- **Interrupted.** A blow, a grab, or a shot ends Self-Examination, tending with it. An item not yet put to the wound is not spent. One already on it counts as used in a hurry: half of what it can, and nothing more.
+- **The same for everyone.** The times above never change with Hardening or the dress. A Veteran's hands are steadier and quieter at it, and a Civilian's shake and fumble the end of the bandage, but neither finishes sooner (`survivors.md`, Hardening).
+- **Never the virus.** Tending closes wounds; it does not touch the virus. A Mark tended is a wound closed and a Mark hidden under a bandage, until the lines climb past it (`infection.md`, The Mark). Only an antiviral holds the clock, and only Elpis ends it.
+- **Someone else's hands.** A survivor can tend another the same way, both of them standing still for it, and only another can tend a wound on the back (`the-living.md`).
+
 **It is dangerous.** Nothing stops while a survivor looks at themselves. The camera is close on their own body, so they see little of the room around them; sound still carries, and listening is all the warning they have. A blow, a grab, or a shot ends Self-Examination at once. Every survivor learns to do it with their back to a wall, behind a closed door, on a roof the dead cannot climb, or best of all in a safe room, where the minutes spent still count against their time there (Safe Rooms, below).
 
-**In the Night.** The body is ΜΝΗΜΗ's work, and so is every mark on it. A sleeper turning their own arm in the dark, looking for the bite they already know is there, is reading something she wrote. She watches it more closely than almost anything else they do: what a person does in the minute after they find it is the most honest minute of their night.
+**In the Night.** The body is ΜΝΗΜΗ's work, and so is every mark on it. A sleeper turning their own arm in the dark, looking for the bite they already know is there, is reading something she wrote. She watches it more closely than almost anything else they do: what a person does in the minute after they find it is the most honest minute of their night. The pain of tending is hers too. She built these bodies to hurt, because a body that cannot hurt teaches her nothing about the person inside it.
 
 ## The Inventory
 
