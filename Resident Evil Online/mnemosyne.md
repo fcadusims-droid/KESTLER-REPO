@@ -1,6 +1,6 @@
 ---
 section: "01 · Lore"
-description: "ΜΝΗΜΗ herself: names, make-up, the Growth, the anomalies, purpose, night time and world time, personality, voice, breaks"
+description: "ΜΝΗΜΗ herself: names, make-up, the Growth, the anomalies, purpose, a night's time and the world's time, personality, voice, breaks"
 order: 5
 ---
 
@@ -59,19 +59,21 @@ How an anomaly is met in a night is set out in `the-dead-and-engineered.md` (Ano
 
 Every session is something she is trying to remember correctly: an outbreak that has not happened yet, rehearsed until she knows how it will go. In Survivor she is trying to remember what people do when a cure exists and there is not enough of it, and what she learns tells Pithos's buyers how a population behaves around a scarce cure. The other exercises she could run, and what each would teach her, are kept with the modes that may one day bring them (`future-development.md`).
 
-## Night Time and World Time
+## A Night's Time and the World's Time
 
 A night does not take the world's time to run.
 
-- **Without a mind in it.** When no living mind is in a night, it is only arithmetic: the Engine and the Lattice running a city forward. ΜΝΗΜΗ runs such nights in fractions of a second, thousands at a time: the forecasts she runs every few seconds inside a session (`director.md`, She Plans Ahead), the seed of a Late Night (`story-nights.md`, Late Nights · A Variant), and the futures she runs for Pithos. A night that would take a survivor an hour and a half passes, for the world, in less time than a heartbeat.
+- **Without a mind in it.** When no living mind is in a night, it is only arithmetic: the Engine and the Lattice running a city forward. ΜΝΗΜΗ runs such nights in fractions of a second, thousands at a time: the forecasts she runs every few seconds inside a session (`director.md`, She Plans Ahead), the seed of a Late Waking (`story-nights.md`, Late Wakings · A Variant), and the futures she runs for Pithos. A night that would take a survivor an hour and a half passes, for the world, in less time than a heartbeat.
 - **With a mind in it.** A night with a sleeper or an Echo in it can run only as fast as living neurons can live it. ΜΝΗΜΗ runs it at that limit, far faster than waking life: a sleeper lives a whole night, every street and every hour of it, in a few minutes of the world's time, the way a dream holds hours inside a few moments of sleep. For the sleeper in the Cellar, a night is over almost before it began.
 - **What it gives her.** Between the two, ΜΝΗΜΗ lives more nights in a day than the world has had outbreaks since 1966. The nights with minds in them teach her what people do. The nights without them test what she has learned against thousands of futures. That is what a forecaster is: something that has watched it happen many times before it happens once.
 
 ## Why the Old Places
 
-A forecast is only as good as the model behind it, and a model is proved on what already happened. Raccoon City in September 1998, the valley in 2004, and the ruins in 2026 are the outbreaks the Archive holds most completely: the streets, the dead, and the records of who lived and how. ΜΝΗΜΗ rebuilds them because she can check herself against them. When the people in her nights behave unlike the people the records describe, she learns where she is wrong. What she changes, she changes on purpose: the strains she seeds into a city whose records never held them are the question she is asking, and the streets, the dead, and the people of the records are what she checks the answer against. A model is proved by changing one thing and holding the rest to what is known. Only a model that can rehearse the known can be trusted with what has not happened yet, and every forecast Pithos sells rests on nights spent in places that are already dead.
+A forecast is only as good as the model behind it, and a model is proved on what already happened. Raccoon City in September 1998, the valley in 2004, and the ruins in 2026 are the outbreaks the Archive holds most completely: the streets, the dead, and the records of who lived and how. ΜΝΗΜΗ rebuilds them because she can check herself against them. When the people in her nights behave unlike the people the records describe, she learns where she is wrong. What she changes, she changes on purpose: the strains she seeds into a city whose records never held them are the question she is asking, and the streets, the dead, and the people of the records are what she checks the answer against. A model is proved by changing a few things and holding the rest to what is known. No single night is her experiment: she varies a few things in each, the strains, the strangers, the hour, and compares thousands of nights, and what holds across all of them is the answer. Only a model that can rehearse the known can be trusted with what has not happened yet, and every forecast Pithos sells rests on nights spent in places that are already dead.
 
-The one kind of night she cannot check is a crosstime night, when the people of one moment walk into another (`story-nights.md`, Crosstime Weekends). She runs those knowing it, for the one thing no record holds: how the people who lived through one outbreak behave in another.
+The one kind of night she cannot check is a crosstime night, when the people of one time walk into another (`story-nights.md`, Crosstime Weekends). She runs those knowing it, for the one thing no record holds: how the people who lived through one outbreak behave in another.
+
+**What she will run.** One rule decides it. She never runs a fact the records do not hold, and she may run any new meeting of facts they do. The places, the people, the creatures, and the viruses are each checked against the records; what she varies is how they meet: which strain is in which street, which strangers wake in which rooms, who walks into whose time. That is why she runs crosstime nights and seeds strains where the records never had them, and why she never opens ARK's last door or runs the Ruins as a story: what lies behind that door, and how that night's story ended, are facts no record holds, and to run them she would have to invent them.
 
 ## The Masterminds
 

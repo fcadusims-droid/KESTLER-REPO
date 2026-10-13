@@ -14,7 +14,7 @@ The game never forces cooperation and never forbids it. Survivors may share item
 
 ## Speaking and Silence
 
-Voice is part of the sound system. Survivors speak with their own voices, out of their own mouths, to whoever is near enough to hear. How hard a survivor speaks decides how far they are heard, not how loud their player's microphone is (`presentation-and-technology.md`, Voice, in Practice). A whispered plan is a Hush, ordinary speech is a Murmur, and shouting for help is a Clamor the dead can hear as well. The place shapes every voice: an alley or a stairwell throws it back as an echo, a tiled hall rings with it, and open streets and rain swallow it. An echo carries a voice farther than its tier, to the living and the dead alike, so a survivor who shouts in an alley is heard two streets away. Knowing where to whisper is part of staying alive. Gestures matter: a raised hand, a lowered weapon, a signal to follow. Trust is built in seconds, in the space between two survivors who have just met in the dark.
+Voice is part of the sound system. Survivors speak with their own voices, out of their own mouths, to whoever is near enough to hear. How hard a survivor speaks decides how far they are heard, not how loud their player's microphone is (`presentation-and-technology.md`, Voice, in Practice). A whispered plan is a Hush, ordinary speech is a Murmur, and shouting for help is a Clamor the dead can hear as well. The place shapes every voice: an alley or a stairwell throws it back as an echo, a tiled hall rings with it, and open streets and rain swallow it. A voice thrown back by an alley or a stairwell carries farther than its tier, to the living and the dead alike, so a survivor who shouts in an alley is heard two streets away. Knowing where to whisper is part of staying alive. Gestures matter: a raised hand, a lowered weapon, a signal to follow. Trust is built in seconds, in the space between two survivors who have just met in the dark.
 
 ## The Mark Between Strangers
 
@@ -45,4 +45,4 @@ Betrayal is a calculated risk, never a free move:
 
 - **Violence is loud.** A killing draws the dead and the living.
 - **Allies are finite.** A betrayed ally is one fewer pair of hands, eyes, and ears.
-- **The betrayed come back.** A survivor left to turn may rise with their mind, remembering who left them. Even one who rises without it rises close to where they were left.
+- **The betrayed come back.** A survivor left to turn may rise as something that plays on, and remembers who left them. Even one who rises as the Mass rises close to where they were left.

@@ -213,17 +213,17 @@ The survivors of the records had rooms like these wherever they went: an office 
 
 ### The Doorstep Record
 
-The Wardens remember, because ΜΝΗΜΗ does. Every offence on a doorstep goes into the offender's file, and what the Warden does to them depends on what that file holds. The Wardens are the night's one joke, and the joke is always on someone who earned it.
+The Wardens remember, because ΜΝΗΜΗ does. Every offence on a doorstep goes into the offender's file, and what the Warden does to them depends on what that file holds. That is not her judgment of anyone. The Doorstep Record is a code, fixed and public: the table below, applied the same way to every file that holds the same offences, and shown in every lobby. She chooses no one and holds nothing against anyone; the record decides, and only the offender wrote it. The Wardens are the night's one joke, and the joke is only ever on someone who wrote their own place in it.
 
 - **What counts.** Only harm meant for a survivor: a shot or a blow aimed at one, a thrown thing, a needle, a shove into the dead. A stray round or a grenade meant for the dead that hurts a survivor on a doorstep earns the cell at most, never a place on the record.
-- **How long it lasts.** Each offence leaves the record after twenty nights without a new one. A player who stops can always come back to Clean.
+- **How long it lasts.** Each offence leaves the record after twenty nights without a new one. A player who stops can always come back to Peaceful.
 - **The seal.** Every player's standing shows as a seal in the corner of their Dossier, and every lobby shows it before a night begins (`cosmetics-and-dossier.md`, The Dossier).
-- **The mark.** From the second offence, the Warden pins a strip to the back of whatever the offender wears, in the colors of its map, reading **TROUBLEMAKER**, and it stays for the rest of the night. In the Service the same standing is called **Griefer**: while a player's record is Notorious or worse, their Dossier's seal carries the word beside it (`cosmetics-and-dossier.md`, The Dossier), and the After-Action Report of every night they were held says so.
+- **The strip.** From the second offence, the Warden pins a strip to the back of whatever the offender wears, in the colors of its map, reading **TROUBLEMAKER**, and it stays for the rest of the night. In the Service the same standing is called **Griefer**: while a player's record is Notorious or worse, their Dossier's seal carries the word beside it (`cosmetics-and-dossier.md`, The Dossier), and the After-Action Report of every night they were held says so.
 
 | Standing | Offences on the record | What the Warden does |
 |---|---|---|
-| **Clean** | None | The cell (above), and one dry remark on the way in |
-| **Marked** | One or two | One of the map's comic punishments, then the cell, and the TROUBLEMAKER strip |
+| **Peaceful** | None | The cell (above), and one dry remark on the way in |
+| **Warned** | One or two | One of the map's comic punishments, then the cell, and the TROUBLEMAKER strip |
 | **Notorious** | Three to five | One of the severe punishments, then the cell |
 | **Infamous** | Six or more | The last punishment: the Warden ends them, and they are Lost (`infection.md`, Down). Their night is over. |
 
@@ -248,7 +248,7 @@ The Wardens remember, because ΜΝΗΜΗ does. Every offence on a doorstep goes 
 - **The scramble.** The Warden takes everything they carry, weapons, ammunition, healing, gear, and pesetas in the Valley, and throws it on the ground in front of the door. Then it holds the offender by the collar for three seconds and lets go. Whatever the offender reaches first is theirs again; everything else belongs to whoever is quicker. They keep their dress regardless.
 - **Left outside.** No cell. The Warden walks them to the far edge of the doorstep, takes their weapons, and closes the room to them for the rest of the night. There is nothing to play: the night is the punishment.
 
-**In the Night.** The record is ΜΝΗΜΗ's own: she keeps everything every sleeper does, and the Wardens only read it. The sleeper never remembers what they did last week. The file does, and so does the Warden.
+**In the Night.** The record is ΜΝΗΜΗ's own: she keeps everything every sleeper does, and the Wardens only read it. The sleeper never remembers what they did last week. The file does, and so does the Warden. The comic punishments are the one thing she kept from the Masterminds' trials, and not for pleasure: she measured them, and nothing else she tried stopped a sleeper from harming others at the door as surely as being made ridiculous in front of them. She keeps what works.
 
 ## Vehicles
 
@@ -259,7 +259,7 @@ The way they are made to run is the oldest habit of the records: find the thing,
 - **What it lacks.** A survivor who looks under the hood, or at the fuel gauge, learns what a vehicle needs: fuel, and a battery, a spark plug, a fan belt, a tire, or its key. A motorcycle needs fuel and one part. A car needs fuel and two or three.
 - **Where the parts are.** Where things of that kind would be: a gas station, an auto shop, a parking garage, the police motor pool, other wrecks. Often the parts a vehicle needs lie together in one place far from it, and the gas station is never close. Fuel comes in cans, found full or filled at a station's pumps.
 - **A race.** Every part exists once. A part another survivor took is gone, and a vehicle someone else finished is theirs to drive away. Fitting a part takes a few seconds and is a Clamor.
-- **Driving.** An engine is Thunder, and headlights show from far away. Fuel runs out. The dead can be run down, and enough of them stop a car. A vehicle can be damaged, wrecked, and stolen the moment its driver steps out. No vehicle leaves the city: the barricades hold, and a vehicle is never a way out.
+- **Driving.** An engine is Thunder, and headlights show from far away. Fuel runs out. The dead can be run down, and enough of them stop a car. A vehicle can be damaged, wrecked, and stolen the moment its driver steps out. No car, cruiser, or motorcycle leaves the city: the barricades hold. The only machines that carry anyone out are the ways out, the records' own and the improvised ones (`extraction.md`, Improvised Ways Out).
 - **Seats.** A motorcycle carries two. A car or a cruiser carries four. Its trunk is a stash, running or not (Stashes, above).
 
 ## Fighting and Fleeing

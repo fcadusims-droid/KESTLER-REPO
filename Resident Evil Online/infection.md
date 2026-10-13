@@ -67,7 +67,7 @@ A survivor who is already infected cannot be infected again by a second strain. 
 
 Before a Survivor night begins, ΜΝΗΜΗ seeds each region of the map with one of the six strains. The dead made in a region carry its strain, and so do its water and its rats. Some regions share a strain, and every map holds at least three.
 
-Each version of a map leans toward the virus the records put there. The Valley of 2004 has no strain map: its infection is the Plaga (`exclusions-and-the-plaga.md`). In the Raccoon City of September 1998, the T-Virus holds the heart of the city and the G-Virus holds the laboratory beneath it. Every night, ΜΝΗΜΗ seeds at least a third of the city's regions with strains that can leave a mind, T-Veronica, T-Phobos, or the C-Virus, so that even in the city the T-Virus took, some of the Turned remember who they were. A survivor who has learned to read the dead knows before they are ever bitten what each district will give them, and chooses their streets by it. The strain map is never announced. It is learned by watching how the dead behave and by reading the Marks of those who were bitten there.
+Each version of a map leans toward the virus the records put there. The Valley of 2004 has no strain map: its infection is the Plaga (`exclusions-and-the-plaga.md`). In the Raccoon City of September 1998, the T-Virus holds the heart of the city and the G-Virus holds the laboratory beneath it. Every night, ΜΝΗΜΗ seeds at least a third of the city's regions with T-Veronica, T-Phobos, or the C-Virus, so that even in the city the T-Virus took, the Turned are not all one kind. A survivor who has learned to read the dead knows before they are ever bitten what each district will give them, and chooses their streets by it. The strain map is never announced. It is learned by watching how the dead behave and by reading the Marks of those who were bitten there.
 
 ## Anomalous Strains
 
@@ -77,7 +77,7 @@ The six strains are not the only ones a survivor can carry. An anomaly that infe
 - **Its own Mark.** Its lines take a color and a pattern of their own, never one of the six, and two carriers of the same anomaly show the same Mark.
 - **Its own pace, within the clock's limits.** An anomalous strain's pace, gifts, and curses come from what the anomaly is, but no anomalous strain reaches the Threshold in less than half the Slow Burn.
 - **Answered by Elpis.** Every anomaly found so far descends from the lineage ΜΝΗΜΗ was built to model, and Elpis has answered every one of them. Pithos does not know that it always will.
-- **No pure form.** No anomalous strain can be Petitioned, Embraced, or dropped. What it makes at the Turn, and whether it leaves a mind, is the anomaly's own.
+- **No pure form.** No anomalous strain can be Petitioned, Embraced, or dropped. What it makes at the Turn is the anomaly's own, and its sleeper plays on in it by the rules of `the-turned.md`.
 
 ## The Stages
 

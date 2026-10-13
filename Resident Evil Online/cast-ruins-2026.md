@@ -6,7 +6,7 @@ order: 28
 
 # The People of the Ruins, 2026
 
-A night in the Ruins is the night of 8 October 2026, from dusk to the small hours, when Leon Kennedy and Grace Ashcroft came into the walled city for ARK. It is not a story night (`story-nights.md`, Story Nights). It has no acts, no threads, and no beats. ΜΝΗΜΗ places the people of the records where the records had them that night, before ARK was opened, and each does what their records say they would do with the ruins as they are, as anyone whose thread has broken does. They are found, asked along, met, and fought under every rule of companions, ties, and the named dead. No one in the Ruins ever opens ARK's last door: what lies behind it is the hole in the records (`pithos.md`), and ΜΝΗΜΗ does not play what she cannot check.
+A night in the Ruins is 8 October 2026, the day Leon Kennedy and Grace Ashcroft came into the walled city for ARK. In the records they came at dusk and were gone by the small hours; ΜΝΗΜΗ sets the hour as she does on every map (`worlds.md`, Time and Weather). It is not a story night (`story-nights.md`, Story Nights). It has no acts, no threads, and no beats. ΜΝΗΜΗ places the people of the records where the records had them that night, before ARK was opened, and each does what their records say they would do with the ruins as they are, as anyone whose thread has broken does. They are found, asked along, met, and fought under every rule of companions, ties, and the named dead. No one in the Ruins ever opens ARK's last door: what lies behind it is the hole in the records (`pithos.md`), and ΜΝΗΜΗ does not play what she cannot check.
 
 ```
 ΜΝΗΜΗ: RACCOON CITY. 8 OCTOBER 2026.
@@ -45,10 +45,10 @@ A night in the Ruins is the night of 8 October 2026, from dusk to the small hour
 
 | Map | Roster |
 |---|---|
-| Ruins, 2026 | Leon Kennedy, twenty-eight years older and sick with what the city left in him, and Grace Ashcroft, Alyssa Ashcroft's daughter, an FBI analyst who was never trained to fight. Leon's old infection runs no clock, and because the first virus to arrive keeps the body, nothing in the ruins can infect him again. No dose in a night can cure him. What the city left in him has had twenty-eight years to remake him, and that is past the reach of the unfinished cure, the only Elpis ΜΝΗΜΗ holds: a dose put into Leon is spent for nothing. In the records he was cured by the finished one, after this night. Both are found where the records had them (The People of the Ruins, 2026, above). |
+| Ruins, 2026 | Leon Kennedy, twenty-eight years older and sick with what the city left in him, and Grace Ashcroft, Alyssa Ashcroft's daughter, an FBI analyst who was never trained to fight. Leon's old infection runs no clock and never turns him: at the end of a night he is as the night found him, and because the first virus to arrive keeps the body, nothing in the ruins can infect him again. No dose in a night can cure him. What the city left in him has had twenty-eight years to remake him, and that is past the reach of the unfinished cure, the only Elpis ΜΝΗΜΗ holds: a dose put into Leon is spent for nothing. In the records he was cured by the finished one, after this night. Both are found where the records had them (The People of the Ruins, 2026, above). |
 
 ## Ties
 
-| Moment | Between | Tie |
+| Time | Between | Tie |
 |---|---|---|
 | Ruins, 2026 | Leon Kennedy and Grace Ashcroft | **Loyalty.** In the records they met, were separated, and found each other again. Each asks their survivor to go to the other. |

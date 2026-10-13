@@ -14,12 +14,14 @@ Ribbon prices are the same in every region. Money prices are set per region and 
 
 ## Earning
 
-- **About 85 Ribbons for every hour played,** paid by the minute spent inside a night. The rate is the same in every world and every kind of night, so no night is the "farming" night. Minutes spent in a safe room pay nothing (`survival.md`, Safe Rooms).
-- **Results add a little, never much.** An extraction, a cure given away, a Stranded brought out, or a rank adds a small award, never more than a fifth of what the night itself paid. A player who loses still earns almost everything a winner does.
-- **Time counts while it is played.** A Turned survivor with a mind is still earning. A Lost survivor stops earning when they leave the session, and watching pays nothing.
-- **Idle time pays nothing.** A night ΜΝΗΜΗ forgets, because the survivor cheated, could not be hurt, or never moved (`echoes.md`), pays nothing at all.
+- **About 85 Ribbons for every hour played alive,** paid by the minute a survivor spends alive inside a night. This is the ordinary rate. It is the same in every world and every kind of night, so no night is the "farming" night. Minutes spent in a safe room pay nothing (`survival.md`, Safe Rooms).
+- **Getting out always pays most.** An extraction adds to what the night paid: half again for a clean one, two-fifths for a cured one, a third for an infected one. A survivor who gets out always earns more than one who does not.
+- **The Turned earn less, not nothing.** A Turned survivor earns about half the ordinary rate for as long as they play on, and a small award, 15 Ribbons, for each Hunt they finish (`the-turned.md`, Hunts). A Turned who leaves keeps what they earned. A night spent as a monster pays; a night spent getting out pays more.
+- **Small deeds, small awards.** A cure given away, a Stranded brought out, or a rank adds a small award.
+- **The Lost stop earning.** A Lost survivor stops earning the moment they are Lost, and watching pays nothing.
+- **Idle time pays nothing.** A night ΜΝΗΜΗ keeps out of her Echoes because the survivor cheated, could not be hurt, or never moved (`echoes.md`) pays nothing at all.
 
-At the ordinary rate, 1,000 Ribbons, the price of a complete set, take about twelve hours of play.
+At the ordinary rate, before any extraction adds to it, 1,000 Ribbons, the price of a complete set, take about twelve hours of play.
 
 ## What a Player Can Earn
 

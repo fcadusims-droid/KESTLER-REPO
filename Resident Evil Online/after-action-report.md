@@ -26,7 +26,7 @@ DISTANCE TRAVELED ........ 8.7 KM
 WOUNDS TAKEN ............. 11
 COMPANION ................ ROBERT KENDO · EXTRACTED
 SCENES WITNESSED ......... 2
-RIBBONS EARNED ........... 126
+RIBBONS EARNED ........... 160
 FINAL RESULT ............. EXTRACTED · CURED
 ```
 
@@ -37,28 +37,24 @@ STRAIN ................... NONE
 FINAL RESULT ............. EXTRACTED · CLEAN
 ```
 
-A survivor who turned with a mind:
+A survivor who turned and played on:
 
 ```
 AFTER-ACTION REPORT
 
-TIME SURVIVED ............ 78:36
+TIME SURVIVED ............ 64:44
 STRAIN ................... T-PHOBOS (LATENT)
 INFECTION REACHED ........ THRESHOLD
 TURN ..................... LONG · QUIET
-FORM TAKEN ............... AFFLICTED · MIND KEPT
+FORM TAKEN ............... AFFLICTED
 TIME AS TURNED ........... 13:52
+HUNTS .................... 2
 SURVIVORS ELIMINATED ..... 1
-FINAL RESULT ............. TURNED · THE LIVING ESCAPED
+RIBBONS EARNED ........... 131
+FINAL RESULT ............. TURNED
 ```
 
-A Turned still standing at the end of a night in which fewer than half of the living got out:
-
-```
-FINAL RESULT ............. TURNED · VICTORY
-```
-
-A survivor whose Turn left no mind:
+A survivor whose Turn was Quick:
 
 ```
 AFTER-ACTION REPORT
@@ -66,8 +62,8 @@ AFTER-ACTION REPORT
 TIME SURVIVED ............ 44:10
 STRAIN ................... T-VIRUS (LATENT)
 INFECTION REACHED ........ THRESHOLD
-TURN ..................... LONG · LOUD
-FORM TAKEN ............... CRIMSON HEAD · NO MIND
+TURN ..................... QUICK
+FORM TAKEN ............... ZOMBIE
 FINAL RESULT ............. LOST
 ```
 
@@ -75,7 +71,7 @@ The first Tyrant of a night, whose parasite never arrived:
 
 ```
 FORM TAKEN ............... TYRANT-CLASS · NE-α DESTROYED
-FINAL RESULT ............. LOST
+FINAL RESULT ............. TURNED
 ```
 
 A survivor who simply died:
@@ -95,6 +91,12 @@ A survivor of the Valley whose Plaga the machine burned out:
 ```
 PLAGA .................... HATCHED · BURNED OUT
 FINAL RESULT ............. EXTRACTED · CURED
+```
+
+A survivor who got out on an improvised way says which, and the odds it left with:
+
+```
+WAY OUT .................. HOSPITAL HELICOPTER · IMPROVISED · 90%
 ```
 
 A night that held Echoes adds one line to every report in it: ECHOES PRESENT, and how many.

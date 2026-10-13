@@ -21,7 +21,7 @@ OUTBREAK MAY NOW BE RUN WITHOUT OTHER SURVIVORS.
 
 ## What an Echo Is
 
-An Echo is one of the Remembered: the mind of a sleeper ΜΝΗΜΗ has finished, woken and run by her alone (`sleepers-and-the-remembered.md`). It is a whole person, without their memories, and it decides for itself, as they did. ΜΝΗΜΗ does not steer it. She directs the world around an Echo exactly as she directs it around anyone else, and her Laws bind her toward an Echo as toward a survivor.
+An Echo is one of the Remembered: the mind of a sleeper ΜΝΗΜΗ has finished, woken and run by her alone (`sleepers-and-the-remembered.md`). The one exception is a player's own Echo (Your Own Echo, below). It is a whole person, without their memories, and it decides for itself, as they did. ΜΝΗΜΗ does not steer it. She directs the world around an Echo exactly as she directs it around anyone else, and her Laws bind her toward an Echo as toward a survivor.
 
 ΜΝΗΜΗ never averages. The average of every sleeper is someone no one has ever been. She sorts the Remembered into ways of surviving and wakes every Echo from one of them.
 
@@ -53,14 +53,14 @@ Before an offline session, a survivor chooses the company ΜΝΗΜΗ draws from.
 
 An Echo knows what a survivor knows and nothing more. It sees what is in its sight and hears what is in its hearing. It knows a map the way a survivor who has played it many times knows it, and nothing about this session it has not found out: not the strain map, not the answers to the puzzles, not where the doses will fall.
 
-It wakes clean, at a waking point, on equal ground, in a body hardened as far as its file had come when ΜΝΗΜΗ finished its sleeper (`survivors.md`, Hardening). It can be bitten. Its Mark rises, and ΜΝΗΜΗ names its strain to it. It walks a road, can Petition, can earn a dose or steal one, and can turn, with its mind or without it, by the same rules as anyone. Nothing on an Echo, and nothing it does, tells a survivor that it is one.
+It wakes clean, at a waking point, on equal ground, in a body hardened as far as its file had come when ΜΝΗΜΗ finished its sleeper (`survivors.md`, Hardening). It can be bitten. Its Mark rises, and ΜΝΗΜΗ names its strain to it. It walks a road, can Petition, can earn a dose or steal one, and can turn, into the Mass or into something that plays on, by the same rules as anyone. Nothing on an Echo, and nothing it does, tells a survivor that it is one.
 
 Echoes speak in the short calls of the eight: *Help. Go. Wait. Come on. Thanks.* They gesture, and they understand the same calls in return. They do not talk. A night among Echoes is quieter than a night among sleepers: bargains are struck with gestures and with things set on the ground, and no Echo can lie with words, because it has none.
 
-## What ΜΝΗΜΗ Does Not Keep
+## What Goes Into No Echo
 
 - **No name, and never its own face.** An Echo carries no name, and wears a body ΜΝΗΜΗ composed from the Remembered, never the one its sleeper had, and never one a player built, unless it is that player's own Echo (Your Own Echo, below).
-- **Nothing from a broken session.** A survivor who saw through walls, could not be hurt, or never moved is forgotten entirely, with everything they did that night.
+- **Nothing from a broken session.** A survivor who saw through walls, could not be hurt, or never moved is kept out of every Echo, with everything they did that night. ΜΝΗΜΗ still remembers it; she builds no one from it.
 - **Nothing done only to mock.** She keeps what survivors did to survive, to win, and to betray. Not what they did over a body for no reason but contempt.
 - **Nothing learned from Echoes.** She learns who people are only from nights among real sleepers. An Echo that learned from Echoes would slowly forget what people are.
 - **Old memories, less than new.** When the rules of Survivor change, she trusts what she watched before the change less and what she has watched since more.
@@ -68,7 +68,7 @@ Echoes speak in the short calls of the eight: *Help. Go. Wait. Come on. Thanks.*
 
 ## Your Own Echo
 
-Once a survivor has finished fifty Survivor nights, ΜΝΗΜΗ builds an Echo of them alone. It plays only where its owner allows: in their own offline sessions, and in the offline sessions of anyone they share it with. A shared Echo carries its owner's name. No other Echo carries any name at all.
+Once a survivor has finished fifty Survivor nights, ΜΝΗΜΗ builds an Echo of them alone. It is the only Echo that is not yet one of the Remembered: it is the copy she is still making of a sleeper she has not finished, built from everything she has learned of them so far, and it grows closer to them with every night they play. It plays only where its owner allows: in their own offline sessions, and in the offline sessions of anyone they share it with. A shared Echo carries its owner's name. No other Echo carries any name at all.
 
 In an offline Survivor night, a survivor's own Echo wakes somewhere else in the city and does what they would have done. It is the one stranger whose next move they can guess, and the one who can guess theirs.
 

@@ -105,7 +105,7 @@ No rule of the core documents would hold in a future mode unless this table says
 | **The strain map** | Yes | No: one virus | No | No | No |
 | **Elpis and the road** | Scarce | One dose for every survivor | No | No | No |
 | **Petitions, pure strains, the Parasite Drop** | Yes | No | No | No | Its own parasite case (`infection-mode.md`) |
-| **The Turn** | Four shapes, some with a mind | The Mass, ridden for a few minutes | The fallen rise as the dead, in one format (`versus.md`) | No | Monsters from the start |
+| **The Turn** | Four shapes; every one but the Mass plays on, and no Turned can win | The Mass, ridden for a few minutes | The fallen rise as the dead, in one format (`versus.md`) | No | Monsters from the start |
 | **The extraction** | Ways out, seats, the signal, the Climb | The scenario's escape | No | No | No |
 | **The dead and the sound tiers** | Yes | Yes | A thin population | The horde | The Scattered and the corpses |
 | **Scarcity, wear, and finding things** | Yes | Yes | No | No | No |
@@ -155,7 +155,7 @@ The two survival modes would share the body: the stages, the Threshold, the pace
 | **How many viruses** | Six, mapped by region; in the Valley, the Plaga | One, the map's |
 | **The cure** | Scarce, fought over, stolen, and given away; in the Valley, the machine | One dose for every survivor, each still earned |
 | **What else the virus offers** | Petitions, pure strains, the Parasite Drop | Nothing |
-| **The Turn** | A form shaped by how the survivor held out; some strains leave a mind, and the sleeper plays on | The Mass, ridden for a few minutes, with no mind |
+| **The Turn** | A form shaped by how the survivor held out; every form but the Mass plays on, as a monster that can no longer win | The Mass, ridden for a few minutes, with no mind |
 | **What it makes of people** | Four kinds, the clean, the marked, the cured, and the Turned, each wanting something from the others | One kind: everyone marked, against the same enemy |
 
 Outbreak is the virus as the eight met it: already inside, unnamed, and the same for everyone. In Outbreak the map's virus is already in every survivor's blood when the scenario begins, as it was in everyone left in Raccoon City by the end of that September, and the Mark is there from the first minute. Since no single wound carried it in, it rises where the city's air and water did, at the lips and the throat. ΜΝΗΜΗ never names the virus, and the Mark draws no color for what she has not named: every Mark in an Outbreak is black from the first line to the last. There is no Choosing: the map's virus was there first. Antivirals are found in Outbreak as in Survivor.

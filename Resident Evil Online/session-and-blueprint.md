@@ -65,9 +65,9 @@ Before the first survivor wakes, ΜΝΗΜΗ fixes three numbers. They decide wha
 
 **The Clock.** No one carries the virus when they wake. A survivor's clock starts the moment they are infected, and from then on the virus is paced so that a body never wounded again and never cured reaches the Threshold in about forty minutes. Wounds, appetites, and ΜΝΗΜΗ's Surge make it sooner. Nothing a survivor does turns it back. An antiviral found in the world can hold it still for a few minutes (`infection.md`), a safe room holds it while a survivor shelters there (`survival.md`, Safe Rooms), and one strain slows itself: a T-Phobos carrier who keeps calm burns at half pace.
 
-Put together, those numbers mean one thing. Every survivor enters the night clean, and most will not stay that way. Six can be cured. Sixteen at most can leave. Every survivor who is infected and not cured has about forty minutes from the wound, and the night is longer than that. An infected survivor who reaches a seat takes it from someone who might have been clean.
+Put together, those numbers mean one thing. Every survivor enters the night clean, and most will not stay that way. Six can be cured. Sixteen at most can leave by the ways out she opens, and only a few more, at long odds, by any way they make themselves (`extraction.md`, Improvised Ways Out). Every survivor who is infected and not cured has about forty minutes from the wound, and the night is longer than that. An infected survivor who reaches a seat takes it from someone who might have been clean.
 
-If the night goes badly enough, the Turned who kept their minds come to outnumber the living. When that moment comes, ΜΝΗΜΗ announces it.
+If the night goes badly enough, the Turned still in play come to outnumber the living. When that moment comes, ΜΝΗΜΗ announces it.
 
 ```
 ΜΝΗΜΗ: THE DEAD OUTNUMBER THE LIVING.

@@ -27,7 +27,7 @@ Every pure strain carries the same curse on top of its own: it throws the carrie
 
 ## Assignment
 
-A survivor's strain is whatever reached them first, and ΜΝΗΜΗ names it privately the minute the Mark rises. When the strain is one that leaves no mind at the Turn, she says so in the same breath, and says what can still change it: a dose, a Petition, or an Embrace. The strain is an infected survivor's first strategic fact: it says what kind of game to play from then on.
+A survivor's strain is whatever reached them first, and ΜΝΗΜΗ names it privately the minute the Mark rises. In the same breath she says what a Quick Turn would make of them, and what can still change it: a dose, a Long Turn, a Petition, or an Embrace. The strain is an infected survivor's first strategic fact: it says what kind of game to play from then on.
 
 ## The Petition
 
@@ -61,9 +61,9 @@ Whoever Embraces a pure strain gives up their road to Elpis exactly as a Petitio
 
 A survivor who injects a pure strain Embraces it. The new virus overwrites the carried one and throws the survivor into Fracture at once, with about eight minutes left before the Threshold, or less if their own clock was already shorter. An Embrace never buys time. The gifts surge. The curse bites. The Mark turns to the new strain's color in the space of a breath, and everyone who sees it knows.
 
-A survivor who Embraces a strain always rises as its Apex form, the strongest thing in a session. Whether they rise with their own mind is decided by the strain, not the survivor (`the-turned.md`).
+A survivor who Embraces a strain always rises as its Apex form, the strongest thing in a session, and always plays on in it (`the-turned.md`, Who Plays On).
 
-**Uroboros judges whoever Embraces it.** It accepts a host who never lets it starve: one who, from the Embrace to the Threshold, never goes a full minute without a kill. An accepted host rises as the **Accepted**, with a human shape, a human mind, and the strength of the virus under the skin. Every other host it rejects and consumes, and they rise as the mindless Aheri-class.
+**Uroboros judges whoever Embraces it.** It accepts a host who never lets it starve: one who, from the Embrace to the Threshold, never goes a full minute without a kill. An accepted host rises as the **Accepted**, with a human shape and the strength of the virus under the skin. Every other host it rejects and consumes, and they rise as the Aheri-class.
 
 Elpis can still end an Embrace, but only before the Threshold, and an Embrace leaves very little time. It strips the gifts away with the virus.
 
@@ -71,7 +71,7 @@ Elpis can still end an Embrace, but only before the Threshold, and an Embrace le
 
 The T-Virus alone makes a Tyrant. What makes a Nemesis is the NE-α parasite, Umbrella Europe's attempt to give a bioweapon a second brain and a hunter's single purpose. No human body survives it. A Tyrant's does.
 
-The parasite never grows inside any body in ΜΝΗΜΗ's world. She delivers it, and she delivers it once per session, to the first survivor in a Survivor night who rises as a Tyrant-class. The one exception is the Raccoon City of 1998, where she places the Nemesis of the records in every night: it is that night's NE-α, and there is no Parasite Drop (`cast-raccoon-city-1998.md`). There, the first survivor to rise as a Tyrant-class has no parasite coming, and is Lost at the Turn like every later one. So the Parasite Drop does not fire at launch, when the Raccoon City of 1998 is the only map. It arrives with the Ruins (`seasons-and-new-content.md`, The Order of Arrival), and the Valley never has one (`exclusions-and-the-plaga.md`).
+The parasite never grows inside any body in ΜΝΗΜΗ's world. She delivers it, and she delivers it once per session, to the first survivor in a Survivor night who rises as a Tyrant-class. The one exception is the Raccoon City of 1998, where she places the Nemesis of the records in every night: it is that night's NE-α, and there is no Parasite Drop (`cast-raccoon-city-1998.md`). There, a survivor who rises as a Tyrant-class has no parasite coming, and stays a Tyrant. So the Parasite Drop does not fire at launch, when the Raccoon City of 1998 is the only map. It arrives with the Ruins (`seasons-and-new-content.md`, The Order of Arrival), and the Valley never has one (`exclusions-and-the-plaga.md`).
 
 ```
 ΜΝΗΜΗ: NE-α DEPLOYED.
@@ -79,8 +79,8 @@ The parasite never grows inside any body in ΜΝΗΜΗ's world. She delivers it,
 
 It is the only drop that comes without light. Rotors, a canopy, and a black case falling into the dark near the place the Tyrant rose.
 
-A Tyrant-class has no mind of its own. It was built to obey. While the parasite falls and waits, the Tyrant walks to it the way Umbrella's Tyrants walked to their orders: straight, unstoppable, through anything in its way. ΜΝΗΜΗ plays it. The sleeper is held behind its eyes, seeing what it sees, unable to move it.
+A Tyrant-class was built to obey, and the sleeper inside it plays it like any other form. The black case is what it was built to answer: a Tyrant that reaches it is the only thing that can open it.
 
-Only a Tyrant-class can open the black case. If the Tyrant reaches it, the parasite takes it within seconds, and a **Nemesis-class** rises. The parasite's second brain is where the sleeper is set down, and from that moment the Nemesis is theirs.
+Only a Tyrant-class can open the black case. If the Tyrant reaches it, the parasite takes it within seconds, and a **Nemesis-class** rises: stronger, faster, armed as the records armed it, and with the Nemesis's one gift, the sense of which way a survivor it has chosen lies (`the-turned.md`, Playing the Turned).
 
-The living can deny it. Fire or an explosion destroys the case, and survivors who heard the rotors and saw no strobe have learned to run toward the sound with anything that burns. If the case is destroyed, or the Tyrant is put down before it reaches it, the sleeper's night is over: they are Lost, and the Tyrant, if it still stands, is just another of ΜΝΗΜΗ's dead. Every Tyrant-class that rises after the first in a session has no parasite coming. Its survivor is Lost at the Turn.
+The living can deny it. Fire or an explosion destroys the case, and survivors who heard the rotors and saw no strobe have learned to run toward the sound with anything that burns. If the case is destroyed, or the Tyrant is put down before it reaches it, there is no second case: the Tyrant stays a Tyrant, or is Lost with the body that fell. Every Tyrant-class that rises after the first in a session has no parasite coming, and stays a Tyrant.

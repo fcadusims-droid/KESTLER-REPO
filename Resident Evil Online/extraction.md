@@ -1,6 +1,6 @@
 ---
 section: "02 · Core Systems"
-description: "The verdict, the ways out of each map, the signal, boarding, the Climb, departure"
+description: "The verdict, the ways out of each map, improvised ways out and their odds, the signal, boarding, the Climb, departure, the end of the night, the Last Scene"
 order: 15
 ---
 
@@ -58,6 +58,45 @@ Some ways out check who boards. Military and Umbrella-built ways out were made t
 | **Mike's Helicopter** | The island's military base. The helicopter Ingrid Hunnigan sent, which in the records was brought down. | 8 | The anti-aircraft guns silenced. Mike lands only where no one is shooting at him. If he is brought down, his seats are gone. | None |
 | **The Jet Ski** | The underground dock beneath the island. The way Leon Kennedy and Ashley Graham got off the island. | 2 | Its key. Ada Wong throws it to whoever stands at the dock when Saddler dies; if no one does, or if Saddler is still alive when the island's count begins, it hangs by the dock. | None |
 
+
+## Improvised Ways Out
+
+The ways out above are the ones the records hold, and they are the surest. They are not the only ones. Every map also hides machines that were never meant to carry anyone out of it: a helicopter left on a roof, a freight engine in a yard, a truck at the end of a tunnel. A survivor who finds one and makes it run has made a way out of their own.
+
+- **ΜΝΗΜΗ decides what is there.** At Assembly she decides, for each improvised way of the map, whether it is there tonight, wrecked past use, or there and missing what it needs. No night holds all of them, and no two nights need hold the same ones: the helicopter that waited on the hospital roof last night may be a burned shell tonight, and a way no one has seen before may be waiting in a yard across the city. She never places one near a waking point, and she places what each needs as she places a vehicle's parts (`survival.md`, Vehicles): where things of that kind would be, often together, and far from the machine.
+- **Found, never lit.** No light rises over an improvised way at the signal, and ΜΝΗΜΗ never names one. It is found by going to where such a thing would be, by a sound, or from someone who saw it.
+- **Made to run.** Each needs fuel and its missing parts, fitted as a vehicle's are, and each part is a Clamor to fit. A mechanic fits a part in half the time: David King, Martin Sandwich, or a Stranded who was one (`survivor-mode.md`, The Stranded).
+- **Never before the signal.** Until the signal rises, the edges of every map are held. Around Raccoon City in 1998 the Army's cordon shoots down anything that flies out and stops anything on its roads and rails; in the Ruins the BSAA's guns on the wall do the same; in the Valley the cult's watchers hold every road, and the island's guns hold the water and the sky. At the signal they turn away: the Army falls back from the missile, the BSAA turns its guns to cover the rescue, and the cult draws in to the island for Saddler. An improvised way can be made ready at any minute, but it leaves only after the signal, and leaves as any way out does, after its Last Call, and climbs as any way out climbs (The Climb, below).
+- **Extra seats, never certain ones.** Improvised seats are not counted in the session's range (The Ways Out, above). They are the night's long shots: a map holds a few, a night holds at most two below eighty survivors and three above, and every one of them can fail.
+
+### The Odds
+
+A canonical way out never fails on its own: it fails only if what it asks goes wrong, or if something reaches it in its Climb. An improvised way can also simply fail. No one in a Survivor night was trained to fly a helicopter, to drive a freight engine across a broken line, or to take a trawler to sea, and the machine knows it.
+
+Every improvised way carries **odds**: the chance that it clears the map on its own. ΜΝΗΜΗ says them, and since she never lies, they are exact. She says them through the machine's own radio when it first runs, so that anyone near it hears, and again each time they change:
+
+```
+ΜΝΗΜΗ: HOSPITAL HELICOPTER. NO TRAINED PILOT.
+CHANCE OF CLEARING THE CITY: 50%.
+```
+
+- **Who holds the controls.** The odds rise when someone trained takes them: a companion or one of the Stranded whose records, or whose background, say they can fly or drive that kind of machine. The trained person takes the controls and a seat, and from then on the machine leaves when they decide, after its Last Call.
+- **Damage.** Every blow from the Heavy and every explosion against the machine before it leaves takes ten from its odds, and ΜΝΗΜΗ says the new number.
+- **Settled at departure.** The odds are settled once, the moment the machine leaves, and nothing can change them after. If it fails, it fails during its Climb, with a cause anyone aboard can see coming: smoke from the engine, a rotor shuddering, a rail spreading under the wheels. It comes down by the rules of a fall (The Climb, below): low, and everyone aboard is down; high, and about half of them die where they sit. Whatever reaches it in its Climb can still bring it down, as it can bring down any way out.
+
+| Map | Improvised way | Where | Seats | What it needs | Odds | Odds with someone trained |
+|---|---|---|---|---|---|---|
+| Raccoon City, 1998 | **The Hospital Helicopter** | The helipad on the roof of Raccoon General Hospital. An Umbrella medical helicopter whose crew ran | 8 | Two cans of fuel, a battery, and a rotor part; the roof's lift powered to bring them up | 50% | 90%: Brad Vickers, Nikolai Zinoviev, or a pilot among the Stranded |
+| Raccoon City, 1998 | **The Press Helicopter** | The roof of the Raccoon Press building in Uptown. The paper's own, grounded the day the roads closed | 4 | Fuel and its key, which is somewhere in the newsroom | 50% | 90%: as above |
+| Raccoon City, 1998 | **The Freight Engine** | The Uptown rail yard: a diesel engine and two freight cars on the line that runs west through the Western Barricade | 12 | Fuel, a battery, and the points thrown at the yard and at the barricade | 70% | 90%: Jim Chapman, or a Kite Bros worker among the Stranded |
+| Ruins, 2026 | **The BSAA Wreck** | The edge of the crater: a BSAA transport helicopter brought down in a sweep years ago, its airframe still sound | 6 | Fuel, a battery, a rotor part, and a generator carried to it to start it | 35% | 85%: a BSAA soldier among the Stranded who trained to fly |
+| Ruins, 2026 | **The Handcar** | An old Kite Bros tunnel that runs under the wall, collapsed in two places | 4 | The two collapses cleared, and a handcar carried down to the rails | 60% | — |
+| The Valley, 2004 | **The Cult Truck** | The quarry: a supply truck, and the tunnel from the quarry to the road out of the valley | 6 | Fuel, its key, and the tunnel's gate opened | 60% | 85%: Leon Kennedy or Luis Serra at the wheel |
+| The Valley, 2004 | **The Trawler** | The castle dock: a fishing trawler the cult took from the village | 10 | Fuel and its engine's missing part; the mooring chain cut | 45% | 80%: a fisherman among the Stranded |
+
+- **The people of the records at the controls.** Each acts as their records say. Brad Vickers, who runs from everything, will fly a helicopter that is ready, and leaves the moment it is full or its Last Call ends. Nikolai Zinoviev flies too, and in the account where he took the helicopter, he takes this one: once he is at the controls, he leaves without a Last Call when the cargo he came for is aboard (`cast-raccoon-city-1998.md`, Ties). A pilot is worth the most to a group that knows who it is trusting.
+- **In the Night.** The records are full of people who got out by luck in machines they did not know how to run. ΜΝΗΜΗ keeps the luck and tells the truth about it, because what Pithos's buyers want to know is who climbs into a fifty-percent helicopter when the sure way out is gone, and whom they take with them.
+
 ## The Signal
 
 ```
@@ -77,13 +116,13 @@ From the moment the signal is raised, the world goes into Frenzy. The dead conve
 
 A way out carries anyone living who reaches it, until its seats are full. A companion or one of the Stranded takes a seat like anyone else, but never one a survivor within sight of the door could still take: the people of the records board last. Where a way out checks, it checks at the door, and whoever it turns back stays on the ground.
 
-Seats are judged at departure, not at boarding. A survivor aboard whose Mark turns black before the way out leaves has crossed the Threshold in a seat, and the Turn comes twenty to forty seconds later, among everyone else aboard. Where a way out checks, the check acts again: the crew throws them out, the scanner opens the door and sounds, and the seat is open. Where it does not, the living aboard must decide, in the Last Breaths, whether to put them off, put them down, or stay beside them through the Turn. A Turned body cannot ride. If the Turn completes aboard, the thing it makes is thrown out at departure and the seat leaves empty. A Turned that kept its mind lands where the way out left it and goes on playing; one without a mind is Lost.
+Seats are judged at departure, not at boarding. A survivor aboard whose Mark turns black before the way out leaves has crossed the Threshold in a seat, and the Turn comes twenty to forty seconds later, among everyone else aboard. Where a way out checks, the check acts again: the crew throws them out, the scanner opens the door and sounds, and the seat is open. Where it does not, the living aboard must decide, in the Last Breaths, whether to put them off, put them down, or stay beside them through the Turn. A Turned body cannot ride. If the Turn completes aboard, the thing it makes is thrown out at departure and the seat leaves empty. A Turned that plays on lands where the way out left it and goes on playing; one that rose as the Mass is Lost.
 
 A survivor who leaves cured is **Extracted · Cured**. A survivor who leaves clean, never infected at all, is **Extracted · Clean**. A survivor who leaves still infected is **Extracted · Infected**, and what becomes of them is never told. The clock is paced so that a survivor bitten early will, in almost every session, turn long before the signal comes. A survivor bitten late may not, and every seat an infected survivor takes is a seat someone clean no longer has.
 
 ## The Last Call
 
-Each way out waits for as long as ΜΝΗΜΗ decides; the Emergency Train waits only as long as its countdown runs. Every other way out leaves at once if every seat is filled. Otherwise it gives a Last Call before it leaves, about fifteen seconds long, in its own voice: a helicopter's rotors climbing in pitch and its cabin light turning from red to white, a train's horn, a boat's engine opening up, the cable car's bell, the gate's siren, the Army's trucks firing their engines. The Emergency Train's Last Call is the last fifteen seconds of the laboratory's countdown.
+Each way out waits for as long as ΜΝΗΜΗ decides; the Emergency Train waits only as long as its countdown runs. Every other way out leaves at once if every seat is filled. Otherwise it gives a Last Call before it leaves, about fifteen seconds long, in its own voice: a helicopter's rotors climbing in pitch and its cabin light turning from red to white, a train's horn, a boat's engine opening up, the cable car's bell, the gate's siren, the Army's trucks firing their engines. The Emergency Train's Last Call is the last fifteen seconds of the laboratory's countdown. An improvised way waits for whoever holds its controls, and its Last Call is its engine opening up (Improvised Ways Out, above).
 
 ## The Twist
 
@@ -141,8 +180,34 @@ In the Valley the same can happen to Mike's helicopter, to the Tower Helicopter,
 
 ## Departure
 
-When a way out is clear, every survivor aboard it wins. The session ends when the last way out she opened has cleared or fallen, and no survivor can still reach another. Survivors left behind do not win. The Turned still standing win if fewer than half of the survivors alive at the signal got out (`the-turned.md`, The Turned Win).
+When a way out is clear, every survivor aboard it is extracted: they have won the night, and it ends for them in their Last Scene (below). Survivors left behind do not win, and neither does any Turned (`the-turned.md`, No Victory for the Turned).
 
-If every way out leaves with no survivor aboard, or falls, while living survivors remain somewhere in the world, the session does not end. The night goes on, and ΜΝΗΜΗ opens another way out when she judges it time. If no living survivor remains anywhere, the session ends there, and the Turned still standing win (`the-turned.md`, The Turned Win).
+If every way out leaves with no survivor aboard, or falls, while living survivors remain somewhere in the world, the night goes on. ΜΝΗΜΗ opens another way out when she judges it time, and any improvised way that still stands can still be made to run. In the Raccoon City of 1998 and the Valley of 2004, the night's own end still comes on time (`cast-raccoon-city-1998.md`, The Last Morning; `cast-valley-2004.md`, The Island's End).
 
-In the Raccoon City of 1998, the missile ends the night instead (`cast-raccoon-city-1998.md`, The Last Morning). In the Valley of 2004, the island's end does (`cast-valley-2004.md`, The Island's End).
+## The End of the Night
+
+A night ends when no living survivor is left in it: every one has got out, or fallen. ΜΝΗΜΗ does not keep a night running for the Turned and the dead alone. The moment the last living survivor has gone, she brings the end:
+
+- **Raccoon City, 1998.** The missile. However much of its count was left, it drops to its last ten seconds, and the strike falls on everything still in the city.
+- **The Valley, 2004.** The island's end. Its count drops to its last ten seconds, and the night ends with the blast.
+- **The Ruins, 2026.** ARK falls, as it fell in the records: the crater folds in on it, and the ruins above go down with it.
+
+Every Turned still standing, the Stranded left behind, and the dead go with it. A night never ends any other way.
+
+## The Last Scene
+
+Every night ends in a scene. It is the one cutscene of a Survivor night besides a Moment, and it is safe for the same reason a Moment is: nothing can reach a survivor whose way out has cleared, so ΜΝΗΜΗ takes the camera for as long as the scene needs. Everyone aboard the same way out sees the same scene, each from their own seat, and a squad that got out together is in it together.
+
+What the scene shows depends on when the survivor left. In the Raccoon City of 1998:
+
+| When the way out cleared | The Last Scene |
+|---|---|
+| **Early**: more than five minutes before impact | The city falling away below, smoke over the districts, the first grey light. The people aboard: the squad, a stranger, a companion looking back. The music of leaving (`presentation-and-technology.md`, Music). Far behind, at the very end, a white flash on the horizon. |
+| **Late**: five minutes or less before impact | The same leaving, held on the city, and a contrail coming down out of the sky toward it |
+| **Last**: under a minute, or the last way out of the night | The strike behind them. The white, the sound arriving after it, the shock wave reaching the machine, the cabin shaking, and the long moment of not knowing whether it will hold. Then it holds, and the music comes in. |
+
+The last way out of a night always gets the Last scene, because its leaving is what brings the strike (The End of the Night, above). In the Valley, the island's blast plays the same part, behind a boat, a cable car, or a helicopter; in the Ruins, it is ARK falling and the crater folding in behind them, under a dawn that has no color in it.
+
+- **The ground sees it too.** When the night ends, every player still in it, the Turned and the Lost who stayed to watch, sees the end from where they stand: the contrail, the white, and nothing after.
+- **Kept, and skippable.** Every Last Scene goes into the Reel (`story-nights.md`). A player who has seen enough of them can skip one, and loses nothing by it.
+- **Then the report.** The After-Action Report follows every Last Scene (`after-action-report.md`).

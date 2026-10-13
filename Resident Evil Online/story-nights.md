@@ -1,6 +1,6 @@
 ---
 section: "05 · Story Nights"
-description: "Faithful to the records, as recorded, story nights, live scenes, Moments, Late Nights"
+description: "Faithful to the records, as recorded, story nights, live scenes, Moments, Late Wakings"
 order: 25
 ---
 
@@ -15,7 +15,7 @@ Every person of the records in a Survivor night is played as the records show th
 - **Where the records hold two accounts, ΜΝΗΜΗ keeps both.** The first games and their remakes sometimes disagree about who a person was or what they did. Before each night she chooses one account for each person, the first about one night in four, and holds to it until morning. Only one thing tells a survivor which she chose: how the person looks, for a player who has not turned the old looks off (As Recorded, below).
 - **The records' days run in one night.** Where a version spans several days of the records, a night runs all of them, as acts (Story Nights, below). No one is in an act they had not yet reached.
 - **The named dead.** Someone whose death in the records has happened in tonight's story walks among the dead in their own clothes, if the records say they rose, and can be put down like any of the dead.
-- **No child is placed.** The records hold children of these places, and no child is ever in a Survivor night, living or dead. Where one account of a person depends on a child, ΜΝΗΜΗ follows the other. Where both do, the person is not placed.
+- **No child is placed.** The records hold children of these places, and no child is ever in a Survivor night, living or dead. Where one account of a person depends on a child, ΜΝΗΜΗ follows the other. Where both do, the person is not placed. Pithos has never taken a child (`sleepers-and-the-remembered.md`, Who They Are), so ΜΝΗΜΗ has never learned how a child chooses, and she does not run what she cannot check.
 - **A named Stranded taken along** keeps the skills and limits their records give them, in place of the table of backgrounds (`survivor-mode.md`, The Stranded).
 
 ## As Recorded
@@ -40,7 +40,7 @@ The eight of Outbreak, who have one old record and no later one, are shown as re
 - **What must be read is never coarse.** The virus is the night's own, not the record's, so the Mark is always drawn in full on every body, and so are the red eyes of a Plaga. Every weak point is drawn as clearly as a Mark: a G-form's eye-tumors, an exposed Plaga, the eye in Salazar's monster.
 - **Sound is the night's.** A person as recorded may sound as their record did, but every sound carries by the tiers of `the-dead-and-engineered.md`, from where it is made.
 - **The record's moves, the night's rules.** Whatever a record did only because of its camera or its controller never comes with it: a fight decided by button prompts becomes a fight, a dodge becomes a dodge, and an ambush staged for a fixed camera becomes an ambush. A knife fight with Jack Krauser as recorded is fought, not watched.
-- **Light and brightness.** Everything shown as recorded is lit by the night like anything else, and is never darker or harder to see against a wall than its rebuilt self (`cosmetics-and-dossier.md`).
+- **Light and brightness.** Everything shown as recorded is lit by the night's own light, at whatever hour, like anything else, and is never darker or harder to see against a wall than its rebuilt self (`cosmetics-and-dossier.md`).
 
 **The creatures, by account**
 
@@ -61,7 +61,7 @@ Two worlds hold more than places. The Raccoon City of 1998 and the Valley of 200
 
 - **Around them, not ahead of them.** The story happens around the survivors, never to them, and never in front of them as a road to follow. Nothing a survivor needs waits on the story alone: every seat, cure, way out, and part of a map has a way that belongs to no thread, or a moment by which it opens anyway. A thread shows where its person's story goes, never where the night's answers are. Puzzle answers change every night (`objectives-restrictions-events.md`), ΜΝΗΜΗ chooses the caches and the ways out, and a thread leads only where the records went, never to what she chose tonight. A survivor who never meets anyone from the records has still played the whole night.
 - **Acts.** A story night has three acts, each a stretch of the records' story, and the world marks each one as it opens: in Raccoon City, ΜΝΗΜΗ names the day; in the Valley, night falls, and then the island opens. Acts come in order and never overlap. The beginning is always the beginning, and the end is always the end.
-- **Threads.** Every person of the records follows a **thread**: the places the records took them, in the order they went, toward what they wanted. A thread is played, not shown. The person walks it in the world, among the survivors, at the speed of anyone, and anything can happen to them on it. Nothing in a story night is a cutscene, except the few seconds of a Moment (below).
+- **Threads.** Every person of the records follows a **thread**: the places the records took them, in the order they went, toward what they wanted. A thread is played, not shown. The person walks it in the world, among the survivors, at the speed of anyone, and anything can happen to them on it. Nothing in a story night is a cutscene, except the few seconds of a Moment (below) and the Last Scene of a survivor who got out (`extraction.md`, The Last Scene).
 - **Beats.** A **beat** is a moment the records hold on a thread: Brad Vickers at the R.P.D. gate, Mikhail Viktor's last stand, Kendo's shop falling. A beat happens only when everything it needs is in place: its people alive and where it happens, in the act it belongs to. Survivors can watch it, join it, or stop it. ΜΝΗΜΗ never forces one. A beat that cannot happen does not happen, and the night goes on without it.
 - **Found on their thread.** The records put their people in trouble often, and every trouble is a chance to help. A person helped on their thread can be asked along, under every companion rule. Taken along, they bring their thread with them: they ask to go where it leads, and its beats can still happen around them. Their survivor decides. A companion refused stays with their survivor, unless the records say they would go anyway.
 - **What ΜΝΗΜΗ decides.** At Assembly she decides who is placed and which account each follows, where each thread begins among the places the records allow, which beats the night can hold, and how early or late in its act each thread runs. A file that comes back to the same map does not find its threads beginning in the same places it found them last time. During the night she directs as always (`director.md`). She never moves a beat out of its act, and she moves a person only through the world.
@@ -139,20 +139,20 @@ Had C crept to the edge instead, in Hush, the Licker would never have turned. C 
 
 **The Reel.** No one gets to watch a live scene in safety, so ΜΝΗΜΗ keeps what each survivor witnessed. After the night, from the Waiting Dark, a player can watch every scene they were part of, from any angle, as it happened in their night, including the way it broke. Scenes a survivor only heard from afar are kept as sound. Nothing in the Reel can be bought, and nothing in it can be seen by anyone who was not there.
 
-## Late Nights · A Variant
+## Late Wakings · A Variant
 
-Late Nights are a variant of the story nights, held for later development and not part of the launch. They are also a fallback: they can run beside the story nights, or in their place if story nights prove too costly or too hard to build (`business-case.md`).
+Late Wakings are a variant of the story nights, held for later development and not part of the launch. They are also a fallback: they can run beside the story nights, or in their place if story nights prove too costly or too hard to build (`business-case.md`).
 
-In a Late Night, most of the story is over before anyone wakes. At Assembly, ΜΝΗΜΗ runs the map's story from its beginning, alone, with no sleeper and no Echo in it: only the people of the records, the named creatures, and the dead. That run is **the seed**. Every person in it does what their records say they would do with the world as it goes, every beat happens or breaks, and nothing is steered toward the records' ending. Then she stops the seed, and the survivors wake into what it left.
+In a Late Waking, most of the story is over before anyone wakes. At Assembly, ΜΝΗΜΗ runs the map's story from its beginning, alone, with no sleeper and no Echo in it: only the people of the records, the named creatures, and the dead. That run is **the seed**. Every person in it does what their records say they would do with the world as it goes, every beat happens or breaks, and nothing is steered toward the records' ending. Then she stops the seed, and the survivors wake into what it left.
 
 In one seed of the Valley, Jack Krauser won the knife fight in the mines, Leon Kennedy lies dead beneath the castle, and Ashley Graham is in a cell on the island with no one coming for her. In one seed of Raccoon City, the Nemesis reached Jill Valentine before Carlos Oliveira did, Mikhail Viktor never made his last stand, and the tram never left the Uptown station.
 
-- **Why she runs it.** No one in a real outbreak arrives at its beginning. People come to it late, into a place where the worst has already happened to someone else, and have to read what is left. A Late Night rehearses that. It also gives ΜΝΗΜΗ what a story night cannot: the same story, gone wrong a different way every night.
+- **Why she runs it.** No one in a real outbreak arrives at its beginning. People come to it late, into a place where the worst has already happened to someone else, and have to read what is left. A Late Waking rehearses that. It also gives ΜΝΗΜΗ what a story night cannot: the same story, gone wrong a different way every night.
 - **The seed is honest.** It keeps every rule of a story night (Faithful to the Records, Story Nights). Every divergence comes from a beat breaking in one of the ways it was written to break, a tie acting, or the dead reaching someone first. Nothing in a seed happens because ΜΝΗΜΗ wanted it to. Infections of the records move as their table says.
 - **Where it stops.** The seed always runs through the first act, and stops at a moment ΜΝΗΜΗ chooses in the second or the third. It never runs anything that would end the night or end a named creature for good: in Raccoon City, the railgun, the furnace, the last car, and the missile are always still to come; in the Valley, Saddler's fight and the island's end.
 - **What the survivors find.** Everything the seed left is placed before the waking, as everything is (`director.md`, First Law): the living people of the records where the seed left them, still wanting what their records want; the named dead where they fell, in their own clothes, walking among the dead if the records say they rose; the named creatures where they stand; every door, bridge, and part of the map the seed opened, still open; and whatever the seed's dead carried, where it fell. Parts the seed left closed open as `worlds.md` says, counted from the waking.
 - **No beat is played again.** What is left of the story is people, not scenes. The living people of the records go on toward what they want through the world, as anyone whose thread has broken does (Story Nights), and are found, asked along, or left under every companion and Stranded rule. They answer through the same replies as the Stranded: ask Luis Serra what happened in the mines, and he tells what he saw, which may not be all of it. The named creatures and named hosts still standing are met as encounters, with their Moments, and end as any named creature ends (`survival.md`, The Heavy).
-- **The end is the records' end.** A Late Night ends as its story night would: in Raccoon City with the missile (The Last Morning), in the Valley with the island's end (The Island's End).
+- **The end is the records' end.** A Late Waking ends as its story night would: in Raccoon City with the missile (The Last Morning), in the Valley with the island's end (The Island's End).
 - **Reading the night.** Only the world tells what happened: a body in a jacket everyone knows, a door that should be shut and is not, a radio log, a diary page written tonight, a person of the records who saw it. The waking radio names where the seed stopped, as a day in Raccoon City or an hour in the Valley, and nothing more. ΜΝΗΜΗ never tells anyone during the night what the seed did. After it, the After-Action Report adds one page, **Before You Woke**: who died in the seed, where, and to whom.
 
 ```
@@ -160,7 +160,7 @@ In one seed of the Valley, Jack Krauser won the knife fight in the mines, Leon K
 ```
 
 - **Equal ground.** Waking points are placed after the seed, on the world it left. In the Valley, survivors wake across every part the seed opened, not only the village. No waking point is near a body of the records, a living person of the records, or anything the seed's dead dropped.
-- **Who chooses.** ΜΝΗΜΗ decides at Assembly whether a night is a story night or a Late Night. Players do not choose, so the queues are never split (`presentation-and-technology.md`).
+- **Who chooses.** ΜΝΗΜΗ decides at Assembly whether a night is a story night or a Late Waking. Players do not choose, so the queues are never split (`presentation-and-technology.md`).
 
 **Example: a seed of the Valley.**
 
@@ -172,14 +172,14 @@ In one seed of the Valley, Jack Krauser won the knife fight in the mines, Leon K
 
 ## Crosstime Weekends
 
-On a crosstime night, the barrier between moments falls. The people, creatures, and named hosts of one moment can wait in another moment's map: the Leon Kennedy of 2004 on a street in the Raccoon City of 1998, Jack Krauser in its sewers, Grace Ashcroft in a city that has not yet been bombed. ΜΝΗΜΗ runs crosstime nights on weekends (`seasons-and-new-content.md`, Crosstime Weekends).
+On a crosstime night, the barrier between times falls. The people, creatures, and named hosts of one time can wait in another time's map: the Leon Kennedy of 2004 on a street in the Raccoon City of 1998, Jack Krauser in its sewers, Grace Ashcroft in a city that has not yet been bombed. ΜΝΗΜΗ runs crosstime nights on weekends (`seasons-and-new-content.md`, Crosstime Weekends).
 
 She cannot check a crosstime night against anything. Every other night she runs is proved against the records; a crosstime night has no record to prove it against, and she knows it (`mnemosyne.md`, Why the Old Places). She runs them for the one thing no record holds: how the people who lived through one outbreak behave in another.
 
 - **The map stays itself.** A crosstime night keeps everything that belongs to its map: its virus and its strain map, its ways out, its date, and its story, whose threads and beats run as they always do. Only who is placed in it changes.
 - **The Plaga stays in the Valley.** No one outside the Valley can be taken by the Plaga. The people and creatures of the Valley who cross carry their Plaga sealed in their bodies, as part of what they are: it lays no egg, sheds no spore, seizes no one, and dies with them (`exclusions-and-the-plaga.md`). Ganados who cross fight with what they carry and take no one.
-- **One moment for each person.** A person is placed at one of their moments in a night, never two. On a night that holds the Leon Kennedy of 2004, the rookie of 1998 is not there.
-- **Visitors follow no thread.** A person placed outside their moment has no thread in that world. They do what their records say they would do with the world as it is, as anyone whose thread has broken does (Story Nights, above), and they are found, asked along, met, and fought under every rule of companions, the Stranded, and the named.
-- **Ties wake only where the records tied them.** A tie wakes only between the moments the records joined: Krauser's enmity is for the Leon Kennedy of 2004, not the rookie who has never met him. Everyone else meets as strangers.
+- **One time for each person.** A person is placed at one of their times in a night, never two. On a night that holds the Leon Kennedy of 2004, the rookie of 1998 is not there.
+- **Visitors follow no thread.** A person placed outside their time has no thread in that world. They do what their records say they would do with the world as it is, as anyone whose thread has broken does (Story Nights, above), and they are found, asked along, met, and fought under every rule of companions, the Stranded, and the named.
+- **Ties wake only where the records tied them.** A tie wakes only between the times the records joined: Krauser's enmity is for the Leon Kennedy of 2004, not the rookie who has never met him. Everyone else meets as strangers.
 - **Named creatures keep their ends.** A named creature that crosses keeps every weakness its records gave it. If the world it enters holds the end its records gave it, it can end there. Anywhere else it is killed as any named creature is: put down, it rises in its next form, and put down in its last, it is dead for the night (`survival.md`, The Heavy). A creature bound to its place never crosses: Del Lago does not leave its lake, and Plant 43 does not leave the mouth of ARK.
 - **Everything else holds.** No child is placed, people are shown as recorded or rebuilt as on any night (As Recorded, above), and every Moment, live scene, and Law works as it always does.

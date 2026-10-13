@@ -8,6 +8,10 @@ order: 13
 
 Elpis answers viruses. It does not answer a fungus or a parasite. Pithos does not simulate what its cure cannot touch, so ΜΝΗΜΗ's world contains no Mold, and no Plaga but in one place: the Spanish valley where the Plaga surfaced in 2004 (The Plaga, below). Everywhere else it contains one parasite, NE-α, and only because the parasite takes no body that the cure could still save. The copy the Connections made of it, NE-γ, is in her world once, for the same reason: in the body of Victor Gideon, in the Ruins of 2026 (`cast-ruins-2026.md`). The embryos of the G-Virus do not count: they are the virus's own flesh, and the cure answers them with the rest of it.
 
+**Why not the Mold.** The Mold is the newest outbreak in the Archive, and Pithos forecasts it, from the records alone. It will never run it. The Mold keeps the minds and memories of everything it takes, in one living mass. Pithos has watched living tissue that keeps minds grow through its own machine for years (`mnemosyne.md`, The Growth), and it will not put an organism that takes minds anywhere near it.
+
+**Why not every virus.** ΜΝΗΜΗ runs only the viruses Pithos holds alive in the Cellar, because she cannot run what she has never measured (`pithos.md`, The Cellar). The T-Abyss of Terragrigia and the Queen Zenobia is in the Archive only as paper: every sample sank with the ship, burned with the city, or went to the BSAA, and Pithos has never held a living one.
+
 Inside ΜΝΗΜΗ, Elpis is the unfinished cure, exactly as Pithos measured it. It is the only cure for a virus in her world because it is the only one Pithos holds. It stops the virus, ends the gifts, and fails where the real vial fails: past the point where the body has been remade too far to bring back. That point has a name in every session. Survivors call it the Threshold.
 
 ## The Plaga
@@ -30,7 +34,7 @@ Nothing of the viruses exists in the Valley: no strain map, no Elpis, no road, n
 - **Seized.** A survivor whose Plaga is Grown, within sight of a dominant host (Bitores Mendez, Ramón Salazar, Jack Krauser, or Osmund Saddler), can be seized. For a few seconds the dominant host moves their body toward the nearest living person, as Saddler once moved Leon Kennedy's hands to Ada Wong's throat.
 - **Suppressant.** Luis Serra's suppressant, a pill or an injection, holds a Plaga back. Each dose sets its clock back ten minutes, never past the start of the stage it has reached. The night holds only what ΜΝΗΜΗ sets at Assembly, the **Suppressant Reserve**, one dose for every five survivors, rounded down, which replaces the Elpis Reserve here. Luis carries some, and the rest lie where the records kept medicine: the castle's laboratory and Luis's own rooms. Given to someone whose Plaga moves with their story, a dose has no clock to set back; it stops the next seizure instead.
 - **The machine.** In Luis's laboratory on the island, the removal machine burns a Plaga out of a living body. It takes two people: one lies in it, and another works it. It works on one patient at a time, for about thirty seconds, and the patient's screaming is a Clamor. An Egg or a Hatched Plaga comes out clean. A Grown Plaga comes out too, but the patient comes out down and must be raised. A Taken host is past it.
-- **The Taken.** At the end of Grown, the Plaga takes the will, except a Plaga the records gave someone, which moves with their story (`story-nights.md`, Story Nights). The **Taken** are the Valley's Turned, and `the-turned.md` applies to them, except for what they become. Every Plaga host keeps a mind, so a Taken survivor always plays on, on the side of the hosts, under the Turned's win conditions. They rise where they stood, as a Ganado in the village, a Zealot in the castle, or a soldier on the island.
+- **The Taken.** At the end of Grown, the Plaga takes the will, except a Plaga the records gave someone, which moves with their story (`story-nights.md`, Story Nights). The **Taken** are the Valley's Turned, and `the-turned.md` applies to them, except for what they become. Every Plaga host keeps a mind, so a Taken survivor always plays on, on the side of the hosts, under the Turned's rules: Hunts, and no victory (`the-turned.md`, No Victory for the Turned). They rise where they stood, as a Ganado in the village, a Zealot in the castle, or a soldier on the island.
 - **After dark.** From the second act, when night falls, a host shot through the head may not stay down. Its Plaga bursts from the neck as a scythe, a jaw, or a spider that drops away and goes looking for another host. A flashbang kills an exposed Plaga outright.
 - **Surge.** A Surge in the Valley quickens every Plaga in the region by about five minutes, instead of contaminating it. Nothing else of `director.md` changes.
 - **Saddler's death.** When Osmund Saddler dies, every Plaga in the Valley dies with him, and so does every host still carrying one: Ganados, Zealots, soldiers, the Taken, and every survivor or companion whose Plaga the machine has not burned out. Only those the machine has cleared, and those never taken, live through it.
@@ -42,7 +46,7 @@ The Valley is the only map with money in it. It replaces nothing: it is the Vall
 
 ### Pesetas
 
-- **Earned from ΜΝΗΜΗ's work.** Pesetas are paid for the tasks ΜΝΗΜΗ sets in the Valley, and for nothing else she controls.
+- **Earned from ΜΝΗΜΗ's work.** Pesetas are paid for the tasks ΜΝΗΜΗ sets in the Valley, and for nothing else she controls. They never come from nowhere (`director.md`, First Law): every task's pesetas are in the world from the waking, placed with everything else. A Request's purse hangs beside its blue paper; a public objective's strongbox stands at the record where it ends, and opens when it does; a named host carries a purse, as the records' hosts carried theirs, and drops it when it falls.
 
 | Task | Pesetas |
 |---|---|
@@ -58,7 +62,7 @@ The Valley is the only map with money in it. It replaces nothing: it is the Vall
 
 The Merchant of the records (`cast-valley-2004.md`) is the only person in any night who sells.
 
-- **He comes and goes.** He appears three to five times a night, each time in a safe room (`survival.md`, Safe Rooms), never in the same one twice in a row and never in the first ten minutes. Between appearances he is nowhere. ΜΝΗΜΗ announces each one in her public voice, to everyone who can hear:
+- **He comes and goes.** He appears three to five times a night, each time in a safe room (`survival.md`, Safe Rooms), never in the same one twice in a row and never in the first ten minutes. Between appearances he walks the passages behind the safe rooms, which no survivor can enter, as he seemed to in the records. ΜΝΗΜΗ places him there before the waking like anyone else (`director.md`, First Law), and a survivor near a safe room's back wall may hear his boots, and his laugh, before he comes in through its back door. ΜΝΗΜΗ announces each one in her public voice, to everyone who can hear:
 
 ```
 ΜΝΗΜΗ: THE MERCHANT IS IN THE SAFE ROOM BENEATH THE CHURCH.
