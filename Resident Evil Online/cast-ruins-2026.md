@@ -39,6 +39,17 @@ A night in the Ruins is 8 October 2026, the day Leon Kennedy and Grace Ashcroft 
 
 **The crew of the Hound Wolf Helicopter.** Rolando Elba, called Umber Eyes, who leads Chris Redfield's Hound Wolf Squad in his place, flies in when the signal rises with Canine, Tundra, Night Howl, and Lobo. They fly and hold the landing zone, never leave it, and look every survivor who boards over for a Mark (`extraction.md`).
 
+**ARK Falls.** The Ruins have no missile, and their night still ends. In the records ARK fell, and in ΜΝΗΜΗ's Ruins the signal is the moment it begins to: the ground over the crater shifts, the BSAA orders the city cleared, and the fall is coming.
+
+```
+ΜΝΗΜΗ: ARK IS FAILING.
+THE CRATER WILL COLLAPSE IN 20 MINUTES.
+```
+
+- **The count.** ΜΝΗΜΗ's public voice gives it as she gives the missile's: at fifteen, ten, and five minutes, then every minute, then every second of the last ten. It drops to its last ten seconds when the last living survivor is gone (`extraction.md`, The End of the Night).
+- **The ways out.** Every way out leaves no later than one minute before the fall, full or not, after its Last Call.
+- **The fall.** The crater folds in on ARK, and the ruins above go down with it: survivors still in the city, the Stranded, the Turned, and the dead.
+
 **Not in the Ruins.** Sherry Birkin is a voice on Leon's radio and never comes into the city. Chris Redfield sends Hound Wolf and does not come himself. Alyssa Ashcroft died in 2018, and Oswell Spencer in 2006. Ada Wong is not in the records of that night. Emily, Marie, and every child Spencer's work made are never placed.
 
 ## Companion Roster

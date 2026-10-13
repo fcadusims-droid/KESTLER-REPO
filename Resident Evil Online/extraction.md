@@ -21,7 +21,7 @@ She tells survivors when the end has come. She never tells them how near it was.
 
 ## The Ways Out
 
-At Assembly, ΜΝΗΜΗ decides which of a map's ways out she will open tonight. She always opens at least two, far apart, and their seats fall within the session's range: no more than one per four survivors, no fewer than one per five. The ways she does not open stay dead all night: a train with no power, a helicopter that never comes.
+At Assembly, ΜΝΗΜΗ decides which of a map's ways out she will open tonight. She always opens at least two, far apart. Every seat she places tonight falls within the session's range, the seats of the ways out she opens and of the improvised ways she leaves standing together: no more than one per four survivors, no fewer than one per five (Improvised Ways Out, below). The ways she does not open stay dead all night: a train with no power, a helicopter that never comes.
 
 Every way out is shaped after an escape from the records. Each keeps something of how that escape went, though not always the place where it happened.
 
@@ -67,7 +67,7 @@ The ways out above are the ones the records hold, and they are the surest. They 
 - **Found, never lit.** No light rises over an improvised way at the signal, and ΜΝΗΜΗ never names one. It is found by going to where such a thing would be, by a sound, or from someone who saw it.
 - **Made to run.** Each needs fuel and its missing parts, fitted as a vehicle's are, and each part is a Clamor to fit. A mechanic fits a part in half the time: David King, Martin Sandwich, or a Stranded who was one (`survivor-mode.md`, The Stranded).
 - **Never before the signal.** Until the signal rises, the edges of every map are held. Around Raccoon City in 1998 the Army's cordon shoots down anything that flies out and stops anything on its roads and rails; in the Ruins the BSAA's guns on the wall do the same; in the Valley the cult's watchers hold every road, and the island's guns hold the water and the sky. At the signal they turn away: the Army falls back from the missile, the BSAA turns its guns to cover the rescue, and the cult draws in to the island for Saddler. An improvised way can be made ready at any minute, but it leaves only after the signal, and leaves as any way out does, after its Last Call, and climbs as any way out climbs (The Climb, below).
-- **Extra seats, never certain ones.** Improvised seats are not counted in the session's range (The Ways Out, above). They are the night's long shots: a map holds a few, a night holds at most two below eighty survivors and three above, and every one of them can fail.
+- **Inside the range, never certain.** Improvised seats count in the session's range like any other (The Ways Out, above): for every improvised way she leaves standing tonight, ΜΝΗΜΗ opens fewer seats on the ways out of the records. An improvised way never adds seats to a night. It trades sure seats for a chance at them, and puts them somewhere no light will show. A night holds at most two below eighty survivors and three above, and every one of them can fail.
 
 ### The Odds
 
@@ -149,7 +149,7 @@ A way out that leaves is not yet out. Between leaving and being clear of the map
 | **Boats** | From casting off to the end of the water | The whole Climb | Only what swims or flies |
 | **The mine cart** | Its whole ride | The whole ride, in every gallery it passes | Whatever lives in the mines |
 
-A way out on foot, such as the Breach, has no Climb: a survivor who is over is out. The Emergency Train's Climb is William Birkin's last car, and its beat decides it (`cast-raccoon-city-1998.md`). Every Climb ends before the missile or the island's end comes.
+A way out on foot, such as the Breach, has no Climb: a survivor who is over is out. The Emergency Train's Climb is William Birkin's last car, and its beat decides it (`cast-raccoon-city-1998.md`). Every Climb ends before the missile, the island's end, or the fall of ARK comes.
 
 **What can leap.**
 
@@ -166,7 +166,7 @@ A way out on foot, such as the Breach, has no Climb: a survivor who is over is o
 
 - **Who lives.** A way out brought down in the low part of its Climb leaves everyone aboard alive and down (`infection.md`). Brought down higher, it kills about half of those aboard where they sit. The wreck decides who, never ΜΝΗΜΗ. Companions and the Stranded aboard live or die the same way.
 - **What falls with it.** The creature that brought it down falls too. A Turned is put down by the fall, and is Lost. An Apex and a named creature rise from the wreckage, as their records say they rise from everything.
-- **After the fall.** A way out that falls has not left, and no one aboard it has won. Its seats are gone with it. Whoever lives through the crash is on the ground again, among the dead the fall is drawing, and must find another way out: one she opened that has not yet left, or, if none is left, the one more she opens when she judges it time, as she does when every way out leaves empty (Departure). In the Raccoon City of 1998 and the Valley of 2004, she opens one more only if it can still leave before the end. The end does not wait for anyone.
+- **After the fall.** A way out that falls has not left, and no one aboard it has won. Its seats are gone with it. Whoever lives through the crash is on the ground again, among the dead the fall is drawing, and must find another way out: one she opened that has not yet left, or, if none is left, the one more she opens when she judges it time, as she does when every way out leaves empty (Departure). She opens one more only if it can still leave before the end. The end does not wait for anyone.
 
 **Example: the Clock Tower.** A Solo night in the Raccoon City of 1998, after the signal.
 
@@ -186,7 +186,7 @@ In the Valley the same can happen to Mike's helicopter, to the Tower Helicopter,
 
 When a way out is clear, every survivor aboard it is extracted: they have won the night, and it ends for them in their Last Scene (below). Survivors left behind do not win, and neither does any Turned (`the-turned.md`, No Victory for the Turned).
 
-If every way out leaves with no survivor aboard, or falls, while living survivors remain somewhere in the world, the night goes on. ΜΝΗΜΗ opens another way out when she judges it time, and any improvised way that still stands can still be made to run. In the Raccoon City of 1998 and the Valley of 2004, the night's own end still comes on time (`cast-raccoon-city-1998.md`, The Last Morning; `cast-valley-2004.md`, The Island's End).
+If every way out leaves with no survivor aboard, or falls, while living survivors remain somewhere in the world, the night goes on. ΜΝΗΜΗ opens another way out when she judges it time, and any improvised way that still stands can still be made to run. Every map's own end still comes on time: the missile in the Raccoon City of 1998 (`cast-raccoon-city-1998.md`, The Last Morning), the island's end in the Valley of 2004 (`cast-valley-2004.md`, The Island's End), and in the Ruins of 2026 the fall of ARK, twenty minutes after the signal, its count given in the world as the missile's is (`cast-ruins-2026.md`, ARK Falls).
 
 ## The End of the Night
 
@@ -194,7 +194,7 @@ A night ends when no living survivor is left in it: every one has got out, or fa
 
 - **Raccoon City, 1998.** The missile. However much of its count was left, it drops to its last ten seconds, and if the alert has not yet come, it comes now with ten seconds left. The strike falls on everything still in the city.
 - **The Valley, 2004.** The island's end. Its count drops to its last ten seconds, or begins there if it had not begun, and the night ends with the blast.
-- **The Ruins, 2026.** ARK falls, as it fell in the records: the crater folds in on it, and the ruins above go down with it.
+- **The Ruins, 2026.** ARK falls, as it fell in the records: the crater folds in on it, and the ruins above go down with it. Its count drops to its last ten seconds, or begins there if it had not begun.
 
 Every Turned still standing, the Stranded left behind, and the dead go with it. A night never ends any other way.
 
@@ -210,7 +210,7 @@ What the scene shows depends on when the survivor left. In the Raccoon City of 1
 | **Late**: five minutes or less before impact | The same leaving, held on the city, and a contrail coming down out of the sky toward it |
 | **Last**: under a minute, or the last way out of the night | The strike behind them. The white, the sound arriving after it, the shock wave reaching the machine, the cabin shaking, and the long moment of not knowing whether it will hold. Then it holds, and the music comes in. |
 
-The last way out of a night always gets the Last scene, because its leaving is what brings the strike (The End of the Night, above). In the Valley, the island's blast plays the same part, behind a boat, a cable car, or a helicopter; in the Ruins, it is ARK falling and the crater folding in behind them, under a sky that has no color in it.
+Whoever's leaving empties the city of the living gets the Last scene, because their leaving is what brings the strike (The End of the Night, above), and so does anyone who leaves in the last minute before it. In the Valley, the island's blast plays the same part, behind a boat, a cable car, or a helicopter; in the Ruins, it is ARK falling and the crater folding in behind them, under a sky that has no color in it.
 
 - **The ground sees it too.** When the night ends, every player still in it, the Turned and the Lost who stayed to watch, sees the end from where they stand: the contrail, the white, and nothing after.
 - **Kept, and skippable.** Every Last Scene goes into the Reel (`story-nights.md`). A player who has seen enough of them can skip one, and loses nothing by it.

@@ -54,8 +54,8 @@ Every Uroboros form shares the strain's weaknesses: fire, and a glowing core tha
 
 A survivor who turns is out of the race for a way out (No Victory for the Turned, below). What the Turn decides is whether their sleeper stays in it.
 
-- **The Mass is the end.** A survivor who makes a Quick Turn rises as the Mass of their strain: a zombie, a G-Adult, a C-Zombie, one of the Rejected, a Drone, or one of the Rotten. These are the common dead, bodies the virus has emptied, that drift toward noise and nothing else. There is nothing left in them to set a sleeper in. The survivor is Lost: their body rises anyway, and from then on ΜΝΗΜΗ plays it, as she plays every other dead thing in the city. A squad that lost someone to a Quick Turn in the R.P.D. may meet them again an hour later, at the bottom of a stairwell, as one more of the dead.
-- **Every other form plays on.** A survivor who rises as a Stalker, a Brute, or an Apex keeps playing it, whatever their strain. These are bodies the virus built to hunt, and a body that hunts has something to hold a sleeper. ΜΝΗΜΗ leaves the sleeper set in it, as she sets them behind the eyes of anything she runs.
+- **The Mass is the end.** A survivor who makes a Quick Turn rises as the Mass of their strain: a zombie, a G-Adult, a C-Zombie, one of the Rejected, a Drone, or one of the Rotten. These are the common dead, bodies the virus has emptied, that drift toward noise and nothing else. A sleeper set in one could do nothing but drift with it, and a sleeper who can only drift teaches ΜΝΗΜΗ nothing, so she does not set one there. The survivor is Lost: their body rises anyway, and from then on ΜΝΗΜΗ plays it, as she plays every other dead thing in the city. A squad that lost someone to a Quick Turn in the R.P.D. may meet them again an hour later, at the bottom of a stairwell, as one more of the dead.
+- **Every other form plays on.** A survivor who rises as a Stalker, a Brute, or an Apex keeps playing it, whatever their strain. These are bodies the virus built to hunt, and a sleeper set in one still has choices to make that she can learn from. ΜΝΗΜΗ leaves the sleeper set in it, as she sets them behind the eyes of anything she runs.
 - **The records' minds are the records'.** The records say which of these creatures kept something of the person: a J'avo's cunning, an Afflicted's cruelty, a Swarm Host's clear head. A Licker or a G-Mutant kept nothing of the kind. In ΜΝΗΜΗ's nights that changes only how the creature is drawn and how it moves. The sleeper inside it is hers, not the virus's, and every form above the Mass carries one.
 
 The rule makes the Turn something a survivor plays for. Wounds, time spent down, and a strain's appetites make a Turn Quick, and a Quick Turn ends the night. A survivor who knows they will not reach a dose still has a reason to stay out of reach of the dead, keep off the ground, and hold out: the longer and quieter they last, the more of a monster they will be.
@@ -87,7 +87,7 @@ An Apex is Heavy by every rule of `survival.md` (Run First): the living run from
 
 In a Survivor night, the Turned still in play are few, and most nights they never outnumber the living. On the nights they do, ΜΝΗΜΗ announces it, and the night changes character. By then most of the cure is gone, and the living start defending what they have. The Turned stop being accidents and start being a pack: sleepers who remember which streets the living use, where they hide, and which survivor in Fracture is about to scream.
 
-Second Nights are rare by design. They come from nights with many Embraces, and from nights in which the living held out long and quietly and still ran out of cure, so that their Turns were Long. A night of careless bites, where most Turns are Quick, almost never has one.
+Second Nights are rare because a night thins its Turned as fast as it makes them: every Turned put down is Lost, every Turned who leaves is gone, and a Quick Turn makes none at all. They come from nights with many Embraces, and from nights in which the living held out long and quietly and still ran out of cure, so that their Turns were Long. A night of careless bites, where most Turns are Quick, almost never has one.
 
 ## No Victory for the Turned
 
@@ -109,10 +109,10 @@ The Mark turns black at the Threshold, but it is still the door ΜΝΗΜΗ's pri
 | **Bring down** | Leap onto a way out in its Climb and bring it down (`extraction.md`, The Climb) |
 | **Break** | Tear through a barricade, a door, or a wall the Heavy can break (`destruction.md`) |
 | **Herd** | Draw the dead after you into a region and keep them there |
-| **Feed** | Put down some of the living, anywhere, any of them |
+| **Feed** | Put down some of the living, anywhere |
 | **Answer** | Be at a place when the bell, the signal, or a drop calls the dead to it |
 
-- **The Laws hold.** A Hunt falls on a place or on the living in general, never on a survivor picked out by name, and never on a squad the Turned belonged to (`director.md`, Second Law). No Hunt asks what its form cannot do: a Stalker is never asked to break a barricade. ΜΝΗΜΗ gives nothing to a Turned that she would not give any Turned standing in the same place.
+- **The Laws hold.** A Hunt falls on a place or on the living in general, never on a survivor picked out by name, and never on a squad the Turned belonged to: no one from that squad counts toward any Hunt (`director.md`, Second Law). No Hunt asks what its form cannot do: a Stalker is never asked to break a barricade. ΜΝΗΜΗ gives nothing to a Turned that she would not give any Turned standing in the same place.
 - **Paid in Ribbons.** Each Hunt done pays a small award (`economy.md`). Hunts are also counted on the Ledger, on the Turned's own page.
 - **In the Night.** Pithos's buyers want to know how the living fare against the ones who were the living an hour ago, and ΜΝΗΜΗ wants to know what a person does once they have nothing left to win. A Hunt is how she asks.
 
