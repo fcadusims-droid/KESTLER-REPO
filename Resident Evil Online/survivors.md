@@ -27,7 +27,7 @@ Resident Evil Online speaks of everyone as he or she, and offers no other pronou
 There are two kinds of progression, and only one of them touches a night.
 
 - **Appearance:** dress, gear, finishes, charms, emblems, figurines, Forms, and the Dossier, set out in `economy.md` and `cosmetics-and-dossier.md`. It can be earned or bought, and it changes nothing but how things look.
-- **Hardening:** what time spent in the nights does to a survivor's body. It can only be lived. Nothing sells it, speeds it, or gives it. It is a real edge and a small one: it changes how a body holds up under fear and effort, never how hard, how fast, or how straight it hits.
+- **Hardening:** what time spent in the nights does to a survivor's body. It can only be lived. Nothing sells it, speeds it, or gives it. It is a real edge, felt and sometimes decisive, and never a surreal one: it changes how a body holds up under fear and effort, never how hard, how fast, or how straight it hits.
 
 ## Hardening
 
@@ -52,6 +52,8 @@ A new survivor moves like what they are: a civilian who has never trained for an
 | **Breath** after the pool runs dry | Loud, ragged panting, a Murmur, for about ten seconds | About four seconds |
 | **Rough ground** at a run: rubble, stairs, wreckage | Slows to pick a way through | Keeps its pace |
 | **Hands in a grab** (`survival.md`, Fighting and Fleeing) | The struggle costs the full price in stamina | The struggle costs a third less |
+| **Hands after a scare**: aim held after a startle | Wavers for about three seconds before it settles again | Wavers for about one |
+| **Hands in panic**: while a Heavy is in sight, while grabbed, or within earshot of a Turn's scream | Visible shaking; aim wavers wide for as long as it lasts | The same fear, a third of the shaking; aim wavers a third as wide |
 
 **What it never changes:** health, damage, top speed, reach, hit areas, how fast aim steadies at rest, how fast a weapon is reloaded or swung, what can be carried, what a survivor can see or hear, the virus and every stage of it, and what counts as fear for T-Phobos (`strains.md`). A Veteran survivor does not hit harder, move faster, or shoot straighter than a Civilian. They last a little longer, and they keep their head when the night does something sudden. Between two players of equal skill that can matter; between two players of different skill, the player decides.
 
@@ -62,5 +64,14 @@ A new survivor moves like what they are: a civilian who has never trained for an
 - **It is never shown as a number.** Nothing in a night says what stage anyone has reached; it shows only in how a body moves. When a player's survivor reaches a new stage, the After-Action Report of that night says so in a single line of ΜΝΗΜΗ's (`after-action-report.md`).
 - **Nights are not matched by it.** A Civilian may wake beside a Veteran survivor, as anyone in a real outbreak might.
 - **Echoes harden too.** An Echo moves at the stage its file had reached when ΜΝΗΜΗ finished its sleeper (`echoes.md`).
+
+### The Memory of the Body
+
+Hardening is the difference between knowing and reacting, and it keeps the two apart.
+
+- **The player remembers. The survivor does not.** A player may know that a room usually hides a box of shells, that an ambush comes in a certain corridor, that one road out is safer than the others. Their survivor knows none of it. They do not know where anything is, cannot foresee what the player has already seen, and recognize nothing they have not found out inside this night. What the player knows, the player carries in for them (`sleepers-and-the-remembered.md`, The Remembered).
+- **The body remembers what the mind never did.** What Hardening keeps is not a single fact: it is patterns of movement, motor responses, a body used to working in places like these. A Veteran's survivor does not know what is behind the door. When something comes through it, their body recovers its footing sooner, shakes less, hesitates less, and can still do under pressure what a newer body would fumble.
+- **Afraid, and working anyway.** A Veteran is not immune to fear, fatigue, or panic. Their body is used to working while it feels them. A survivor on a new account trembles harder, moves less precisely, and loses control of their hands more easily when the night does something extreme.
+- **Natural, gradual, never surreal.** The difference is the one between someone who has played for a year and someone who started this week: more consistent reactions, more familiarity with pressure, less trouble doing the hard thing at the hard moment. It is real, it is felt, and it can decide a fight. It never makes a Veteran superhuman, never leaves a Civilian unable to compete, and never guarantees a win. Everything in What it never changes (above) holds.
 
 **In the Night,** the survivor has no idea why. For them it is the first night there has ever been, and yet their hands steady before they have told them to, their feet know a stair in the dark, and every so often something in them says *this has happened before*. What that is, the sleepers are never told (`sleepers-and-the-remembered.md`, What the Body Keeps).
