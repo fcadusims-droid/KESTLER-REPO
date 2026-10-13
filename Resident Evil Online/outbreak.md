@@ -20,7 +20,7 @@ Both are survival modes, and they share the body of the virus (`infection.md`). 
 | **Against what** | The dead, the virus, and the clock | The dead, the virus, and everyone else |
 | **Where** | One place, sealed: a bar, a hospital, a hotel, a laboratory | A whole world, open, from the first minute |
 | **What you carry in** | What that one of the eight carried that night, and a small setup | Nothing |
-| **The virus** | Already inside everyone, unnamed (`infection.md`) | Caught or chosen, and named |
+| **The virus** | Already inside everyone, unnamed (`future-development.md`, The infection in Outbreak) | Caught or chosen, and named |
 | **How you speak** | Only the calls of the eight | Your own voice, carried as far as any sound |
 | **How it ends** | A chain of objectives to the scenario's way out, and the ending you reached | A signal, a few seats, and whoever gets to them |
 | **Who wins** | The team gets out, or does not | Each survivor alone, seat by seat |
