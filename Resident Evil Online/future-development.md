@@ -109,6 +109,7 @@ No rule of the core documents would hold in a future mode unless this table says
 | **The extraction** | Ways out, seats, the signal, the Climb | The scenario's escape | No | No | No |
 | **The dead and the sound tiers** | Yes | Yes | A thin population | The horde | The Scattered and the corpses |
 | **Scarcity, wear, and finding things** | Yes | Yes | No | No | No |
+| **Hunger and thirst** | Yes | No | No | No | No |
 | **Objectives, restrictions, events** | Yes | Yes | Disturbances only | No | A catalyst |
 | **Puzzles and vaults** | Yes | Yes | No | No | No |
 | **Safe rooms** | Yes | No | No | No | No |

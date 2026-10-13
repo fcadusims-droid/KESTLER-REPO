@@ -1,6 +1,6 @@
 ---
 section: "02 · Core Systems"
-description: "Health, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing"
+description: "Health, hunger and thirst, Self-Examination and tending wounds, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing"
 order: 17
 ---
 
@@ -14,11 +14,109 @@ Resident Evil Online is a game of scarcity. Survivors begin with nothing. They d
 
 **Firearms are rare in the world.** A handgun is a significant find. A shotgun is a treasure. A rifle is something people kill for. Ammunition is scarcer than the guns that use it.
 
-**Healing is slow.** First aid sprays, herbs, bandages. Wounds linger. None of it touches the infection; only the rare antivirals hold it back, and only for minutes (`infection.md`), and a safe room holds it while a survivor shelters there (Safe Rooms, below).
+**Healing is slow.** First aid sprays, herbs, bandages. Wounds linger, and healing done in a hurry heals less than healing done with care (Self-Examination, Tending a Wound, below). None of it touches the infection; only the rare antivirals hold it back, and only for minutes (`infection.md`), and a safe room holds it while a survivor shelters there (Safe Rooms, below).
 
 ## Health
 
-There is no health bar. A survivor's condition shows in their body: a hand pressed to the ribs, a limp, a slowing walk, blood on the clothes. Beyond a point, a survivor is Down (`infection.md`).
+There is no health bar. A survivor's condition shows in their body: a hand pressed to the ribs, a limp, a slowing walk, blood on the clothes. Beyond a point, a survivor is Down (`infection.md`). Self-Examination (below) is how a survivor reads their own body closely, and where they tend it best.
+
+## Hunger and Thirst
+
+A Survivor night lasts an hour and more, and a body asks for things. Hunger and thirst are in the game the way they are in an arcade cabinet with a real body inside it: they are felt, they change how a survivor fights and runs, and a single good find undoes them. They are pressure, never a way to die.
+
+- **No one dies of them.** Neither touches health, the virus, or the Turn. At their worst they make a survivor weaker, shorter of breath, and louder, and the first bite or sip starts undoing it.
+- **Thirst is the legs. Hunger is the arms.** Thirst takes stamina; hunger takes the force of a melee blow. Firearms are never touched: a starving survivor shoots as straight as anyone.
+- **Shown by the body, never by a bar.** There is no meter for either, as there is none for health (Health, above). A survivor's own body says it, to them and to anyone watching.
+- **Everyone wakes fed and watered.** Waking points are equal ground (`session-and-blueprint.md`), so every survivor starts the night with the same stomach and the same throat.
+- **Safe rooms hold them,** as they hold the virus (Safe Rooms, below).
+
+### Thirst
+
+| Stage | For a body that never drinks | What it does | What it looks and sounds like |
+|---|---|---|---|
+| **Watered** | From the waking | Nothing | — |
+| **Thirsty** | After about 25 minutes | The stamina pool is a fifth smaller and refills a fifth slower | A swallow, a lick of the lips, a dry cough now and then |
+| **Parched** | After about 50 minutes | The pool is a third smaller and refills a third slower. A shout breaks into a croak and carries only as a Murmur | Cracked lips, rasping breath; the cough is a Murmur |
+
+- **Effort makes it sooner.** Every time a survivor runs their stamina dry, thirst moves on by about a minute.
+- **Fever makes it sooner still.** From Fever on, an infected survivor thirsts at twice the pace: the fever sweats it out of them (`infection.md`, The Stages). A stranger who keeps asking for water is telling you something.
+
+### Hunger
+
+| Stage | For a body that never eats | What it does | What it looks and sounds like |
+|---|---|---|---|
+| **Fed** | From the waking | Nothing | — |
+| **Hungry** | After about 35 minutes | Melee blows land a fifth softer, and a heavy swing takes a moment longer to recover | A hand pressed to the stomach when standing still |
+| **Starving** | After about 70 minutes | Melee blows land a third softer, and a heavy swing no longer finishes one of the dead on its own. The stomach growls about once a minute, a Murmur | Doubled over for a breath now and then; the growl, which can give away a survivor hiding in Hush |
+
+- **Killing is not eating.** The appetites of the strains, Uroboros feeding on kills and the G-Virus on its victims (`strains.md`), feed the virus, never the survivor.
+
+### Food and Drink
+
+| Item | Where it is found | What it does |
+|---|---|---|
+| **Bottled water** | Offices, kitchens, vending machines, Army crates | Thirst back to Watered |
+| **Soda** | Vending machines, shop fridges | Thirst one stage, and for a minute stamina refills faster: the sugar |
+| **Coffee** | The R.P.D.'s break room, office machines, diners. A pot takes a minute to brew, and the machine is a Murmur | Thirst one stage, and for two minutes aim steadies a quarter faster |
+| **Beer or whiskey** | J's Bar, every bar and liquor store | Thirst one stage, and for a minute aim never quite steadies |
+| **Tap water** | Any working tap, any time | Thirst back to Watered, and the region's strain with it: every region's water carries its strain (`infection.md`, How the Virus Gets In). It is safe only for a survivor the virus can no longer take: the cured, and the already infected, whose first virus keeps the body |
+| **Rainwater** | In rain or drizzle, from a gutter, or caught in an empty bottle left in the open for about a minute | Thirst back to Watered. The sky is the only clean water in the city that comes without a bottle |
+| **Candy bar** | Everywhere: desks, lockers, vending machines, the pockets of the dead | Hunger one stage. Eaten on the move, in a Hush |
+| **Canned food** | Kitchens, pantries, shops. It opens with a can opener or a knife; without one, a few seconds of bashing, which is a Clamor | Hunger back to Fed |
+| **Army ration** | The Army checkpoint and field laboratory, BSAA crates | Hunger and thirst both back to full, and for five minutes neither moves: **Well Fed**. It takes about eight seconds to eat |
+
+- **Eating and drinking take hands and time.** Two to four seconds for most things, both hands, and a Murmur, unless the table says otherwise. Nothing can be eaten in a grab, while down, or mid-swing.
+- **Food is a thing.** It fills a pocket, and it can be shared, traded, stolen, stashed, and set down like anything else. A bottle of water set on the ground and a step back is the oldest offer between strangers (`the-living.md`).
+- **By map.** In the Raccoon City of 1998 the city's people left their kitchens full, and a careful survivor rarely goes hungry. In the Ruins of 2026 food and clean water are as scarce as medicine, Barren whatever the night's setting (Scarcity, below), and rain is worth waiting for. In the Valley of 2004 the farms keep the records' eggs, a raw egg worth a stage of hunger and a rare golden one worth a Well Fed, and the lake's fish farm keeps its bass, which a survivor can cook at any fire for a meal.
+- **Who hungers.** Survivors and Echoes, by the same rules. Companions and the Stranded do not: ΜΝΗΜΗ plays them as their records do, and no one of the records slows a survivor down by needing a meal. The Turned never hunger; their strain's appetites are all they have.
+
+**In the Night.** ΜΝΗΜΗ runs the body, so she runs its hunger too. A real outbreak lasts days, and its people are hungry and thirsty long before they are bitten; who shares the last bottle, who trades a can for a shell, who drinks from a tap they know is tainted, are questions Pithos's buyers want answered. She keeps it mild on purpose. A sleeper dying of thirst would teach her only what she already knows about bodies, and she is watching their choices.
+
+## Self-Examination
+
+No screen says how a survivor is. Their body does, and **Self-Examination** is how they read it closely. Resident Evil has always let a player turn an item in their hands and examine it; here a survivor examines themselves. A player can enter it at any moment, anywhere. The night does not pause.
+
+**Entering it.** One held input. The camera draws in close over the survivor's own body, and a short list of places appears: **arms, hands, legs, torso, the lips and face, the neck, the back**. The player chooses one, and the camera goes there; the survivor does what a person does to look at that part of themselves. A second stick turns and zooms, the way an item is turned in the series' inventories.
+
+| Place | What the survivor does | What it can show |
+|---|---|---|
+| **Arms** | Pushes up one sleeve, then the other. A jacket is unzipped and shrugged off one shoulder; a uniform's cuff is unbuttoned; a riot vest stays on | A bite, a scratch, a needle's mark; from Fever on, the lines of a strain's color climbing out of it (`infection.md`, The Mark) |
+| **Hands** | Turns them over, palms up, then down. Flexes the fingers | Wounds; from Fever on, the tremor; at Fracture, fingers that will not quite close |
+| **Legs** | Crouches and rolls a trouser leg to the knee, or pulls down a boot top | A rat's bite at the ankle, a claw across the calf |
+| **Torso** | Lifts the shirt, or opens the jacket and lifts what is under it | Wounds. A hand laid on the stomach feels hunger: Hungry, it rumbles under the palm; Starving, it growls aloud (Hunger and Thirst, above) |
+| **The lips and face** | Runs a thumb over the lips and along the jaw. To *see* them, the survivor needs a reflection: a mirror, a window, a car's wing mirror, a puddle, a blade | By touch: lips cracked or not (Thirst), a pulse fast or slow at the jaw. In a reflection: everything, the lines at the jaw at Fracture, eyes clouding at the edges |
+| **The neck** | Turns the head to a reflection | A needle's mark, a bite behind the ear. With no reflection near, nothing: the camera stays on the survivor's own shoulder |
+| **The back** | Reaches back, and cannot see | Nothing. A bite on the back or the back of the neck needs someone else's eyes (`the-living.md`) |
+
+- **It shows only what is there.** Self-Examination never tells a survivor anything their eyes and hands could not. In Seed, a Mark looks like any other wound, and up close it still does: only ΜΝΗΜΗ's voice tells the bitten what the wound carries. From Fever on, the lines are there to see, and zoom shows how far they have climbed. What the survivor cannot see without a reflection, the camera does not show (`presentation-and-technology.md`, The Camera Sees Only What the Survivor Sees).
+- **The dress decides the gesture.** Every dress covers the same skin (`cosmetics-and-dossier.md`, The Rule), but each kind of garment has its own way of being moved aside: a sleeve rolled, a cuff unbuttoned, a zip pulled, a skirt's hem lifted, a boot top folded down. The gesture changes; how long it takes never does, so no dress is faster to check than another.
+- **The hands show the night.** A Civilian's fingers fumble the cuff and shake on the zip; a Veteran's are quick and steady (`survivors.md`, Hardening). Only the look changes: a Veteran examines no faster than anyone else.
+- **Others see it.** Baring an arm here is the same act as the shared gesture of showing it (`infection.md`, The Mark): anyone close enough sees what the survivor sees. Examining yourself in front of a stranger is showing them.
+- **Leaving it.** Letting go of the input brings the camera back at once. What was bared stays bared until the survivor covers it again, which takes a moment, so a survivor who jumps out of it to fight may fight with a sleeve rolled up and a Mark in plain sight.
+
+### Tending a Wound
+
+A survivor can use a spray, an herb, or a bandage at any moment, anywhere, without Self-Examination: a second's work, done with the dead a step away. Used that way, it heals **about half** of what it can. In Self-Examination, a survivor who has found a wound can **tend** it instead: bare it, clean it, and dress it properly. Tended, the same item heals **all** of what it can. Nothing obliges anyone to tend; it is the better use of a scarce thing, bought with time and with the danger of standing still.
+
+| Item | In a hurry | Tended in Self-Examination |
+|---|---|---|
+| **First aid spray** | A hiss through the clothes, wherever it hurts. About a second | The wound bared, the spray worked into it and along its edges, a moment to let it set. About five seconds |
+| **Herbs and their mixes** | Chewed and swallowed. About a second | Crushed in the palm and pressed into the wound. About six seconds |
+| **Bandage** | Wound over the cloth, loose, and it bleeds through. About two seconds | Wound on bare skin and pulled tight, the end tucked. About eight seconds |
+| **Rag bandage** (Crafting, below) | Tied over the cloth: a quarter of what a bandage heals | Tied on bare skin: half of what a bandage heals |
+
+**What it looks like.** A knife has opened a survivor across the belly. They go into Self-Examination behind a counter and choose the torso; the camera goes to the stomach as they lift the shirt and see the cut. They tend it: a gauze pad pressed down hard with one hand, the bandage drawn from a pocket with the other and wound around the waist, once, twice, three times, breath hissing through the teeth, a groan as it is pulled tight, the end tucked, the shirt let down over it. Every wound is tended where it is, with the gesture its place and the dress ask for: a sleeve rolled to bind a forearm, a trouser leg cut to wrap a calf, a spray worked into the back of a hand.
+
+- **Pain has a voice.** Tending hurts, and the survivor sounds like it, in their own voice (`survivors.md`). A groan, a breath through the teeth, a curse under it are Murmurs. A deep wound, a knife's or a claw's, draws a cry when it is pulled closed, and that cry is a Clamor (`the-dead-and-engineered.md`). A survivor can bite down on a sleeve or a strap to keep it a Murmur; it adds two seconds.
+- **The body shows it.** A wound tended stops showing the way it did: the hand comes away from the ribs, the limp eases, the walk steadies (Health, above). A wound treated in a hurry heals less, and shows more. A bandage tended on bare skin lies under the clothes; one wound over them is in plain sight.
+- **Interrupted.** A blow, a grab, or a shot ends Self-Examination, tending with it. An item not yet put to the wound is not spent. One already on it counts as used in a hurry: half of what it can, and nothing more.
+- **The same for everyone.** The times above never change with Hardening or the dress. A Veteran's hands are steadier and quieter at it, and a Civilian's shake and fumble the end of the bandage, but neither finishes sooner (`survivors.md`, Hardening).
+- **Never the virus.** Tending closes wounds; it does not touch the virus. A Mark tended is a wound closed and a Mark hidden under a bandage, until the lines climb past it (`infection.md`, The Mark). Only an antiviral holds the clock, and only Elpis ends it.
+- **Someone else's hands.** A survivor can tend another the same way, both of them standing still for it, and only another can tend a wound on the back (`the-living.md`).
+
+**It is dangerous.** Nothing stops while a survivor looks at themselves. The camera is close on their own body, so they see little of the room around them; sound still carries, and listening is all the warning they have. A blow, a grab, or a shot ends Self-Examination at once. Every survivor learns to do it with their back to a wall, behind a closed door, on a roof the dead cannot climb, or best of all in a safe room, where the minutes spent still count against their time there (Safe Rooms, below).
+
+**In the Night.** The body is ΜΝΗΜΗ's work, and so is every mark on it. A sleeper turning their own arm in the dark, looking for the bite they already know is there, is reading something she wrote. She watches it more closely than almost anything else they do: what a person does in the minute after they find it is the most honest minute of their night. The pain of tending is hers too. She built these bodies to hurt, because a body that cannot hurt teaches her nothing about the person inside it.
 
 ## The Inventory
 
@@ -27,7 +125,7 @@ What a survivor can carry depends on what they have found to carry it in. Nothin
 | Place | Holds | How a survivor gets it |
 |---|---|---|
 | **Hands** | The one thing ready to use: a weapon, a tool, a light | Always |
-| **Pockets** | Four small things: a box of rounds, an herb, a spray, a key, a vial, a knife, a part small enough to pocket | Always |
+| **Pockets** | Four small things: a box of rounds, an herb, a spray, a key, a vial, a knife, a can or a bottle, a part small enough to pocket | Always |
 | **Shoulders** | Two long weapons, slung: a rifle and a shotgun, a sniper rifle and a fire axe, any two of the long guns and the large melee weapons | Always |
 | **Belt** | A holster, with room for two handguns | A holster, found where police and guards kept them: the R.P.D.'s locker rooms, Kendo's shop, a guard who did not make it |
 | **Back** | Six more small things: medicine, rounds, parts | A bag, found in the world |
@@ -67,7 +165,7 @@ A survivor can leave what they cannot carry. Anything in the world that closes c
 | **Lean** | Careful choices. Every find matters. |
 | **Barren** | Almost nothing. Every item is a lifeline. |
 
-In the Ruins of 2026, a night is never Abundant, and medicine and healing are always Barren, whatever the setting (`worlds.md`).
+In the Ruins of 2026, a night is never Abundant, and medicine, healing, food, and clean water are always Barren, whatever the setting (`worlds.md`).
 
 ## Crafting
 
@@ -95,7 +193,7 @@ The survivors of the records had rooms like these wherever they went: an office 
 - **The Merchant.** In the Valley, the Merchant appears in safe rooms, a few minutes at a time, to sell for pesetas (`exclusions-and-the-plaga.md`, Pesetas and the Merchant).
 - **Who can enter.** Any survivor with time left in safe rooms tonight, up to four at once. The dead never enter, nothing ΜΝΗΜΗ releases breaks in, and the Turned cannot cross the threshold.
 - **No weapons.** Inside, no weapon can be drawn, swung, or fired, and no one can shove, grab, or put a needle into anyone. Survivors inside cannot harm one another. They can talk, trade, heal, and set things down for each other, and nothing said inside is heard outside.
-- **The virus holds.** For every survivor inside with time left, the virus holds still, a strain's appetites included. Nothing else stops: wounds do not close by themselves, and a survivor who is down still bleeds out.
+- **The virus holds.** For every survivor inside with time left, the virus holds still, a strain's appetites included, and so do hunger and thirst. Nothing else stops: wounds do not close by themselves, and a survivor who is down still bleeds out.
 - **The limit.** Each survivor has five minutes in safe rooms per night, spent only while inside, in as many visits as they like. When their time runs out, the room stops holding them: their clock runs again, they can draw a weapon, and anyone inside can draw one against them. The dead still never come in.
 - **Never a hiding place to the end.** A survivor in a safe room is never counted as standing still (`director.md`, When She Gets Bored), and no vision comes to them there. From the moment the extraction signal rises, safe rooms no longer hold anyone: the end does not wait for anyone to catch their breath.
 - **The Warden.** A door is where an ambush waits, so every safe room has a guard outside it. The **Warden** stands at the door and keeps the **doorstep**: the ground within about twenty meters of it. On the doorstep, survivors cannot settle anything with violence.
