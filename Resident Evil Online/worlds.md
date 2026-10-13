@@ -1,6 +1,6 @@
 ---
 section: "03 · Worlds"
-description: "The open worlds, one world for every mode and the bounds each mode plays, time and weather, conditions"
+description: "The open worlds, the edge of each world and why no one walks or drives out, one world for every mode and the bounds each mode plays, time and weather, conditions"
 order: 23
 ---
 
@@ -102,6 +102,66 @@ Once the island is open, the boats at the castle dock carry anyone across, over 
 | Island | **The Docks** | The construction site and its cranes, the loading docks, the underground dock | — |
 
 The church bell still works. Ringing it is Thunder across the whole valley, and every host who hears it walks to the church, as the records say they did.
+
+## The Edge of the World
+
+Every world ends somewhere, and no one in a Survivor night walks or drives off its edge. There is no invisible wall. Nothing stops a survivor who heads for the city limits except what the outbreak left there, and what the outbreak left there is enough. A survivor who wakes, decides the cure is not worth the risk, takes a motorcycle, and rides for the edge of town will find out why everyone else is waiting for a helicopter.
+
+### Why No One Walks Out of Raccoon City
+
+The records hold the reasons, and ΜΝΗΜΗ keeps all of them.
+
+- **The dead went first.** When the city fell, most of its dead did not stay in it. They walked out after the living who fled, into the fields and the Arklay woods, and they are still there: thousands of them in the dark under the trees, all around the city. The streets hold what was left behind.
+- **The ones who got out shut the door behind them.** The people who escaped in the first days, police, the Army's first units, families in pickup trucks, closed the roads behind them so the dead could not follow: cars pushed nose to tail and chained, buses turned on their sides, trucks parked across every lane, trees felled across the back roads, earth pushed up into berms, wire strung between them. Some of them were on the far side when they finished. Some were not.
+- **The Army keeps the ring.** Beyond the woods stands the quarantine: searchlights, towers, and an order to stop anything that comes out of the trees, living or dead, before it reaches the cordon. In the records, nothing the Army stopped was asked whether it was still human.
+
+So a city that was meant to be left is ringed three times over, and every ring was built by someone who wanted out, or wanted the dead kept in.
+
+### The Three Rings
+
+| Ring | What it is | What happens there |
+|---|---|---|
+| **The Outskirts** | The last blocks before the city limits: houses with their windows broken, gas stations, motels, the last stretch of every road out | The dead that followed the convoys gather here, and so do the things that hunt by sound: Lickers in the last houses, packs of infected dogs come in from the woods, Crimson Heads where the convoys fought their way out. The Outskirts are at High threat all night (`the-dead-and-engineered.md`, Threat Levels). Whatever lives here goes first for what is loudest and fastest: an engine. |
+| **The Barricades** | The wall of cars, buses, trucks, trees, and earth that the people who fled left across every road | No vehicle passes. Every barricade of the ring is of the Never tier (`destruction.md`, The Tiers): nothing breaks it, rams it, or blows it open. On foot it can be climbed in a few places, slowly, and the climb is a Clamor. |
+| **No Man's Land** | The fields and woods beyond, and past them the Army's cordon | The dead of the woods, more of them than in any district of the city, and in the dark. Past them, the cordon: a searchlight, a loudspeaker ordering anyone in the trees to turn back, a flare, a warning shot, and then a shot that does not miss. A survivor who goes on after the warning is Lost. |
+
+Beyond No Man's Land, ΜΝΗΜΗ's world ends in fog (One World, Every Mode, below). No survivor has ever reached it.
+
+### How the Edge Answers
+
+The edge is not a punishment, and ΜΝΗΜΗ does not throw anything at anyone who reaches it. It is held the way any place is held, by her Laws (`director.md`, The Laws):
+
+- **Everything at the edge was there first.** The dead of the Outskirts, the Lickers in the last houses, the dogs from the woods, and the barricades are placed at Assembly with everything else (First Law). When a survivor comes close, what was waiting wakes, as anything in the city wakes when someone comes close to it.
+- **It falls on a place, not a person.** The Outskirts answer whoever enters them: the first survivor of the night and the hundredth, a Veteran and a Civilian, the clean and the marked (Second Law). They answer a crowd as they answer one rider.
+- **It answers what was done.** An engine at the edge is Thunder at the edge (Fourth Law). The faster and louder someone comes, the more of what lives there comes for them.
+- **The world says so.** No one reaches the edge without being told what it is: QUARANTINE ZONE signs nailed to the barricades, the Army's warnings on every road out, the loudspeakers in the trees, the bodies of the people who tried before (Fifth Law).
+- **Hard, not hopeless.** Before No Man's Land, nothing at the edge kills a survivor by itself. It stops them, wrecks what they came in, makes them loud, and leaves them to get back into the city alive. Only the cordon kills, and only after its warning.
+
+**Example: the motorcycle.** A survivor finds a motorcycle in Uptown in the first ten minutes, fuels it, and rides west, away from everything.
+
+| Step | What happens | Why |
+|---|---|---|
+| 1 | The engine is Thunder the whole way. The dead of every street they pass turn to follow the sound. | An engine is Thunder (`survival.md`, Vehicles). |
+| 2 | The Outskirts. The last houses before the city limits, two motels, a gas station. From an upstairs window, a Licker drops onto the rider at forty miles an hour. | Lickers wait in the last houses; they hunt by sound, and nothing at the edge is louder than an engine. |
+| 3 | The motorcycle goes down. The rider is thrown, hurt and on the ground, the bike is wrecked, and the crash is Thunder of its own. The Licker is on them, and the dead the engine dragged across the district are a minute behind. | The edge stops what reaches it. The crash is the rider's own noise. |
+| 4 | If they live, they see what they were riding toward: three buses on their sides across the road, chained, and QUARANTINE ZONE sprayed across them. Past them, the dark under the trees, moving. | The Barricades and No Man's Land. The world says so. |
+
+The rider was never told no. They were shown why, and now they are on foot, wounded, loud, at the far edge of the city, with the night still ahead of them.
+
+### The Only Ways Through
+
+The only ways through the edge are the ways out (`extraction.md`), and that is why they are worth everything. A helicopter flies over all three rings. A train runs on a line the Army holds open for its own. The Checkpoint is the one gate in the Barricades, and before the signal its soldiers turn everyone back with warning shots. An improvised way out works because it does what the ways out do: it flies over, or it runs on rails or water the barricades never closed (`extraction.md`, Improvised Ways Out).
+
+A car, a cruiser, or a motorcycle is for crossing the city: faster than running, louder than anything, with a trunk to carry what a survivor cannot (`survival.md`, Vehicles). It is never for leaving. Driving at the edge is the quickest way to learn it.
+
+### The Edge of the Other Worlds
+
+| World | The Outskirts | The Barricades | No Man's Land |
+|---|---|---|---|
+| **The Ruins, 2026** | The Outer Blocks along the wall, where the Garmr packs hunt | The quarantine wall itself: concrete, wire, and watchtowers, built to keep the city in for twenty-eight years | The BSAA's cordon beyond the wall, and its guns, which turn on anything that comes over it. The Breach is a way out only once the signal rises. |
+| **The Valley, 2004** | The forest road and the farms at the valley's rim, where the Ganados and their dogs watch for strangers | The bridge over the ravine, cut by the village as it was in the records; the cliffs; the sea around the castle and the island | The cult's watchers on every road out, and the island's guns over the water and the sky |
+
+**In the Night.** Past the fog there is nothing: ΜΝΗΜΗ built only what the records hold, and no record holds the road beyond the cordon. She does not let anyone reach the end of her world, because there is no world there to reach. She does not need a wall to stop them. The records gave her three rings of reasons, and she uses all of them.
 
 ## One World, Every Mode
 

@@ -56,7 +56,8 @@ Every tool she has works through something already in the world. She can:
 - drop Elpis, a pure strain, or the parasite when the rules call for it;
 - send a vision to each survivor standing still in a stagnant region (Visions, in this document);
 - quicken the virus, and contaminate a region, where stillness has defeated every gentler measure;
-- choose which of a map's ways out to open, signal them, and move one of them.
+- choose which of a map's ways out to open, signal them, and move one of them;
+- hold the edge of the world with what the outbreak left there, placed at Assembly (`worlds.md`, The Edge of the World).
 
 Above all, ΜΝΗΜΗ does not simply make things harder. She changes **the nature of the problem.** A group that has mastered the horde may find the lights go out. A group that has mastered the dark may find the way out has moved. A group sitting on a full stockpile may find that everything it needs next lies somewhere dangerous.
 
@@ -131,6 +132,7 @@ Her answers are bound exactly as her other acts are. Every one uses a tool she a
 | **Killing toward the end.** Survivors cutting down the living to bring the night to its seats before the first hour is out | The early signal waits. She raises it before the hour only when the dead, not the living, brought the night down to its seats (`extraction.md`). The shots were Thunder, and the dead she lets come go to the streets where they were fired. | It answers what was done, where it was done |
 | **A survivor giving up.** A sleeper who has stopped trying, heading for a Quick Turn | The truth, said once, behind the eyes, as she names the strain: what a Quick Turn would make of them, and that a dose, a Long Turn, a Petition, or an Embrace can still change it (`strains.md`, `the-turned.md`) | She tells every survivor with that strain the same thing. She never rescues anyone; she only never lies to them |
 | **Camping.** Survivors settling in to wait out the night beside a way out, or behind a barricade | The stillness ladder, early (When She Gets Bored), and, once the signal rises, the Twist (`extraction.md`) | It falls on the still region, on everyone in it |
+| **Running for the edge.** Survivors trying to drive or walk out of the world instead of playing the night | The edge, as it always is: the Outskirts at High threat, the Barricades, and the cordon beyond (`worlds.md`, The Edge of the World). She adds nothing to it. | It was placed at Assembly, and it answers whoever comes, the same way every time |
 | **A crowd at one door.** Too many survivors converging on one way out | Her forecast decides which ways out she opens and where, at Assembly, so that no single door is the obvious one; at the signal, the light rises over all of them at once | It is decided before anyone moves |
 | **Something new.** A strategy no one has used before | She watches it, as she watches everything. If it breaks a night, she counts it in her forecast from then on, and her answer joins the rest. If no answer of hers can meet it inside her Laws, the Service fixes the night itself (`presentation-and-technology.md`). | She learns from deeds, never from grudges |
 
