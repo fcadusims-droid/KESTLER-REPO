@@ -56,7 +56,7 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 | **Live scene / Moment / the Reel** | The Night | A beat performed in the world while everyone keeps control; the few seconds of true cinema ΜΝΗΜΗ grants a survivor when nothing can reach them; and her record of the scenes a survivor witnessed, watched after the night |
 | **Warden / doorstep** | The Night | The guard ΜΝΗΜΗ keeps at every safe room, and the ground within twenty meters of its door, where no survivor may harm another (`survival.md`, Safe Rooms) |
 | **Self-Examination** | Both | A survivor looking closely at their own body, at any moment, without pausing the night, and tending its wounds there for the full worth of what they use (`survival.md`, Self-Examination) |
-| **Hardening** | The Service | The progression by hours played: what time in the nights does to a survivor's body, from Civilian to Veteran. In the Night, the body ΜΝΗΜΗ builds for a sleeper's file |
+| **Hardening** | The Service | The progression by hours lived in the nights: what that time does to a survivor's body, from Civilian to Veteran, in how it reacts, never in what it knows. In the Night, the body ΜΝΗΜΗ builds for a sleeper's file, rehearsed through thousands of nights with no mind in it |
 | **As recorded / rebuilt** | The Night | How a person or creature of the records is shown: exactly as its first record holds them, or as the latest record holds them |
 
 Lines set in monospace blocks are ΜΝΗΜΗ's own words: what she speaks into a session, exactly as survivors hear or read it, and the records she writes.
