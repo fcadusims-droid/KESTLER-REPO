@@ -1,6 +1,6 @@
 ---
 section: "02 · Core Systems"
-description: "The Turn, the four shapes, who keeps a mind, the Second Night, the Lost"
+description: "The Turn, the four shapes, who plays on, Hunts, the Second Night, the Lost"
 order: 14
 ---
 
@@ -50,32 +50,25 @@ Those who burned fast join the common dead. Those who resisted longest become so
 
 Every Uroboros form shares the strain's weaknesses: fire, and a glowing core that can be struck. Every G form shares the yellow eye-tumors that mark its weak points.
 
-## Who Keeps a Mind
+## Who Plays On
 
-In Survivor, a sleeper whose survivor turns keeps playing only if the virus leaves the body a mind to play with. Most viruses in ΜΝΗΜΗ's world do not. They take the brain first and the body after. A few, under the right conditions, leave the host aware. ΜΝΗΜΗ follows the records exactly.
+A survivor who turns is out of the race for a way out (No Victory for the Turned, below). What the Turn decides is whether their sleeper stays in it.
 
-| Strain | Forms that keep a mind | Why | Forms that do not |
-|---|---|---|---|
-| **T-Virus** | **Nemesis-class** only | The T-Virus destroys the brain. Only the NE-α parasite gives the body a second one. | Zombie, Licker, Crimson Head, Tyrant-class |
-| **G-Virus** | None | The G-Virus rewrites its host into instinct and the drive to reproduce. Nothing of the person is left. | Every form |
-| **C-Virus** | **J'avo** and **Chrysalid** | The C-Virus leaves the intelligence of a host it has time to settle into. A host it overruns in a hurry becomes the mindless dead. | C-Zombie, Haos-class |
-| **Uroboros** | The **Accepted** only | Uroboros keeps the mind of the rare host it accepts and consumes everyone else. | Rejected, Mkono-class, Revenant-class, Aheri-class |
-| **T-Veronica** | **Swarm Host**, **Queen-form** | T-Veronica preserves the mind of a host who held out long enough, and quietly enough, for it to settle, and of a host who takes it pure, as Alexia Ashford did. Hosts it takes in a rush or in violence degenerate. | Drone, Nosferatu-class |
-| **T-Phobos** | **Afflicted** | The Afflicted keep a mind, twisted into cruelty. | Rotten, Sploder, Berserker-class Afflicted |
+- **The Mass is the end.** A survivor who makes a Quick Turn rises as the Mass of their strain: a zombie, a G-Adult, a C-Zombie, one of the Rejected, a Drone, or one of the Rotten. These are the common dead, bodies the virus has emptied, that drift toward noise and nothing else. There is nothing left in them to set a sleeper in. The survivor is Lost: their body rises anyway, and from then on ΜΝΗΜΗ plays it, as she plays every other dead thing in the city. A squad that lost someone to a Quick Turn in the R.P.D. may meet them again an hour later, at the bottom of a stairwell, as one more of the dead.
+- **Every other form plays on.** A survivor who rises as a Stalker, a Brute, or an Apex keeps playing it, whatever their strain. These are bodies the virus built to hunt, and a body that hunts has something to hold a sleeper. ΜΝΗΜΗ leaves the sleeper set in it, as she sets them behind the eyes of anything she runs.
+- **The records' minds are the records'.** The records say which of these creatures kept something of the person: a J'avo's cunning, an Afflicted's cruelty, a Swarm Host's clear head. A Licker or a G-Mutant kept nothing of the kind. In ΜΝΗΜΗ's nights that changes only how the creature is drawn and how it moves. The sleeper inside it is hers, not the virus's, and every form above the Mass carries one.
 
-A survivor whose Turn leaves no mind is Lost. Their body does not leave with them: it rises anyway, and from then on ΜΝΗΜΗ plays it, as she plays every other dead thing in the city. A squad that lost someone to a mindless Turn in the R.P.D. may meet them again an hour later, at the bottom of a stairwell, as one more of the dead.
-
-The rule makes every strain a different bet. A survivor who catches the G-Virus knows the Turn will end their night. A survivor who catches T-Veronica knows that holding out, quietly, may leave them a queen. A survivor who catches the T-Virus knows that only a parasite falling out of the dark can save them from becoming one more zombie, only if they are the first, and never in the Raccoon City of 1998 (`strains.md`, The Parasite Drop).
+The rule makes the Turn something a survivor plays for. Wounds, time spent down, and a strain's appetites make a Turn Quick, and a Quick Turn ends the night. A survivor who knows they will not reach a dose still has a reason to stay out of reach of the dead, keep off the ground, and hold out: the longer and quieter they last, the more of a monster they will be.
 
 ## Two Roads to Monsterhood
 
 **ΜΝΗΜΗ releases them.** A B.O.W. from a lab, a pack of Hunters from a crashed transport, a Licker nest woken in a hospital basement: creatures already held somewhere in the world, released through a door someone can find afterward.
 
-**Survivors become them.** Some Turn because the virus outran them. Some Turn because they asked for it. A survivor who rises with a mind is still played by their sleeper, with all of a sleeper's cunning, and the first thing they learn is that the cure is no longer for them.
+**Survivors become them.** Some Turn because the virus outran them. Some Turn because they asked for it. A survivor who rises as anything but the Mass is still played by their sleeper, with all of a sleeper's cunning, and the first thing they learn is that the cure is no longer for them.
 
 ## Playing the Turned
 
-- A Turned survivor with a mind keeps playing as the creature. The Turned cannot speak to survivors.
+- A Turned survivor keeps playing as the creature. The Turned cannot speak to survivors.
 - The ordinary dead ignore the Turned and answer their call. They are kin.
 - The Turned cannot harm one another.
 - A Turned senses the infected through Resonance only if its form is one of the kinds that can: every G-Virus, T-Veronica, and Uroboros form (`infection.md`). The rest find everyone by sight and sound. Cured survivors are silent to it, and clean ones are found only by sight and sound.
@@ -92,20 +85,39 @@ An Apex is Heavy by every rule of `survival.md` (Run First): the living run from
 
 ## The Second Night
 
-In a Survivor night, the Turned who kept their minds are few, and most nights they never outnumber the living. On the nights they do, ΜΝΗΜΗ announces it, and the night changes character. By then most of the cure is gone, and the living start defending what they have. The Turned stop being accidents and start being a pack: sleepers who remember which streets the living use, where they hide, and which survivor in Fracture is about to scream.
+In a Survivor night, the Turned still in play are few, and most nights they never outnumber the living. On the nights they do, ΜΝΗΜΗ announces it, and the night changes character. By then most of the cure is gone, and the living start defending what they have. The Turned stop being accidents and start being a pack: sleepers who remember which streets the living use, where they hide, and which survivor in Fracture is about to scream.
 
-Second Nights are rare by design. They come from maps whose strain map leans toward T-Veronica, T-Phobos, and the C-Virus, from nights with many Embraces, and from nights in which the living held out long and quietly and still ran out of cure. A Raccoon City heavy with the T-Virus almost never has one.
+Second Nights are rare by design. They come from nights with many Embraces, and from nights in which the living held out long and quietly and still ran out of cure, so that their Turns were Long. A night of careless bites, where most Turns are Quick, almost never has one.
 
-## The Turned Win
+## No Victory for the Turned
 
-The Turned win by keeping the living in the city. When the extraction signal rises, ΜΝΗΜΗ counts the survivors still alive, Echoes among them, and the count is shown to no one. When the night ends, if fewer than half of them got out on a way out that cleared, every Turned survivor with a mind still standing wins. If half or more got out, the Turned lose. If every survivor falls, the Turned win however few remain standing; if no Turned is standing either, no one wins, and ΜΝΗΜΗ closes the record.
+A survivor who turns is out of the race. The Turned have no victory: whatever happens after the Turn, their result is **Turned**, and no count of the living changes it. Getting out was the race, and they are out of it.
 
-So a Turned is in the race until the last way out has cleared. The first seat that leaves does not end their night: every survivor they keep from the next one counts. A way out brought down in its Climb (`extraction.md`, The Climb) took no one out, and its passengers count as still in the city.
+What they still have is the rest of the night. They can play it to the end, as what they became, and it still pays (`economy.md`), less than staying alive would have.
 
-The Turned are not ΜΝΗΜΗ's creatures. They are survivors who lost the race, and for as long as they stand, they are still in it.
+- **They can leave at any moment.** A Turned can end their night whenever they like, at no cost, and keeps everything it has paid. Their body collapses where it stood and does not rise. Leaving is not a mistake ΜΝΗΜΗ studies: a sleeper whose race is over has nothing left for her to learn from in that night (`director.md`, When They Leave).
+- **They still hunt.** The Turned are still dangerous, and the living still have to get past them. Everything in Playing the Turned (above) holds.
+- **They go down with the night.** A Turned is never extracted. When the night closes, every Turned still standing goes with it (`extraction.md`, The End of the Night): in the Raccoon City of 1998 they are under the missile when it falls, and in the Valley they are on the island or left on the mainland when it goes.
+
+### Hunts
+
+The Mark turns black at the Threshold, but it is still the door ΜΝΗΜΗ's private voice comes through. To the Turned, she gives **Hunts**: tasks for monsters, as the road gives Trials to the living. A Turned has one Hunt at a time, and the next arrives when it is done or broken.
+
+| Hunt | What it asks |
+|---|---|
+| **Hold** | Keep the living off a place for a stretch: a platform, a door, a landing zone, a bridge |
+| **Bring down** | Leap onto a way out in its Climb and bring it down (`extraction.md`, The Climb) |
+| **Break** | Tear through a barricade, a door, or a wall the Heavy can break (`destruction.md`) |
+| **Herd** | Draw the dead after you into a region and keep them there |
+| **Feed** | Put down some of the living, anywhere, any of them |
+| **Answer** | Be at a place when the bell, the signal, or a drop calls the dead to it |
+
+- **The Laws hold.** A Hunt falls on a place or on the living in general, never on a survivor picked out by name, and never on a squad the Turned belonged to (`director.md`, Second Law). No Hunt asks what its form cannot do: a Stalker is never asked to break a barricade. ΜΝΗΜΗ gives nothing to a Turned that she would not give any Turned standing in the same place.
+- **Paid in Ribbons.** Each Hunt done pays a small award (`economy.md`). Hunts are also counted on the Ledger, on the Turned's own page.
+- **In the Night.** Pithos's buyers want to know how the living fare against the ones who were the living an hour ago, and ΜΝΗΜΗ wants to know what a person does once they have nothing left to win. A Hunt is how she asks.
 
 ## The Lost
 
-A survivor who dies without turning, a survivor whose Turn leaves no mind, a survivor held behind a Tyrant's eyes when the parasite is lost, and a Turned who is put down are all **Lost**. The Lost leave the session and their record closes there. Those who want to may stay and watch over the shoulders of their own squad, living or Turned, about a minute behind what is happening, and nowhere else. A Lost survivor without a squad may watch whatever ended them, with the same delay. The Lost cannot speak to anyone still in the session, and the delay keeps what they see from being worth carrying back into it.
+A survivor who dies without turning, a survivor who turns into the Mass, a Turned who is put down, and a Turned who leaves are all **Lost**. The Lost leave the session and their record closes there. Those who want to may stay and watch over the shoulders of their own squad, living or Turned, about a minute behind what is happening, and nowhere else. A Lost survivor without a squad may watch whatever ended them, with the same delay. The Lost cannot speak to anyone still in the session, and the delay keeps what they see from being worth carrying back into it.
 
-A sleeper whose night ends before its end, because they left it, is Lost the same way. Their survivor does not vanish: it falls dead where it stood, and everything it carried falls with it, a dose of Elpis included, for anyone to take. Leaving never takes anything out of a night.
+A living survivor whose sleeper leaves the night before its end is Lost the same way. Their survivor does not vanish: it falls dead where it stood, and everything it carried falls with it, a dose of Elpis included, for anyone to take. Leaving never takes anything out of a night.

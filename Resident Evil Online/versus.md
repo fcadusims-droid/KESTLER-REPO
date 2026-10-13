@@ -9,9 +9,9 @@ order: 38
 
 Combat between survivors. No virus clock, no Elpis, no ways out, no empty hands. Players arrive as someone the records hold, carrying that person's own setup, and the world is a compact map that does not care who wins.
 
-**Characters.** Versus is played only as people of the records. An original survivor is never played here (`survivors.md`). Each character is one person at one moment of their records, and comes with a setup of their own: what that person carried then, built to exactly 100 Requisition (`future-development.md`, Setups and Requisition). Nothing in a setup is chosen, added, or swapped, and no setup is richer than another, only different. Each character also has one move of their own, a blow from their records, and one small trait. None is the obvious pick.
+**Characters.** Versus is played only as people of the records. An original survivor is never played here (`survivors.md`). Each character is one person at one point of their records, and comes with a setup of their own: what that person carried then, built to exactly 100 Requisition (`future-development.md`, Setups and Requisition). Nothing in a setup is chosen, added, or swapped, and no setup is richer than another, only different. Each character also has one move of their own, a blow from their records, and one small trait. None is the obvious pick.
 
-| Character | Moment | Setup (100) | Their move | Their trait |
+| Character | When | Setup (100) | Their move | Their trait |
 |---|---|---|---|---|
 | **Leon S. Kennedy** | The R.P.D., 1998 | Handgun, shotgun, two spare magazines, hand grenade, first aid spray, knife, two green herbs | A knife counter | Comes out of a stagger fastest |
 | **Claire Redfield** | Raccoon City, 1998 | Handgun, grenade launcher, a spare magazine, knife, first aid spray, green herb | A kick | Her grenade rounds knock down whoever they hit |
@@ -25,7 +25,7 @@ Combat between survivors. No virus clock, no Elpis, no ways out, no empty hands.
 | **Rebecca Chambers** | The S.T.A.R.S., 1998 | Handgun, three first aid sprays, two green herbs, two spare magazines, knife, hand grenade | A shove that buys a step | Treats others faster than anyone |
 | **Sheva Alomar** | The BSAA, 2009 | Handgun, rifle, hand grenade, first aid spray, two spare magazines, knife | A spinning kick | Her first aid spray reaches a partner beside her too |
 
-- **One person, many moments.** A person can come more than once, at different moments of their records, and each moment is a separate character with a setup of its own, as Leon Kennedy at the R.P.D. in 1998 and Leon Kennedy in Spain in 2004 would be. A Face (`future-development.md`, Cosmetics, the Dossier, and the economy) changes only how a character looks, never what they carry.
+- **One person, many times.** A person can come more than once, at different points of their records, and each is a separate character with a setup of its own, as Leon Kennedy at the R.P.D. in 1998 and Leon Kennedy in Spain in 2004 would be. A Face (`future-development.md`, Cosmetics, the Dossier, and the economy) changes only how a character looks, never what they carry.
 - **Unlocked by playing.** Leon Kennedy, Claire Redfield, Jill Valentine, and Chris Redfield are open from the first match. Every other character is unlocked by playing Versus, and never by paying (`the-service-and-promises.md`). New characters arrive with seasons (`seasons-and-new-content.md`), among them the people of the nights that never happened, Umbrella's Wolfpack and the U.S. team Echo Six (`cast-raccoon-city-1998.md`, The People of Raccoon City, 1998): ΜΝΗΜΗ never places them in a night she checks against the records, and a contest is where they still fight.
 - **Once to a side.** In a team format, each person can be played once on each team. Two players can be the same person only on opposite sides.
 - **Stagger and finish.** A shot to the head or the knee staggers a rival for a moment, and a staggered rival can be struck with the attacker's move, which knocks them down. Moves are how most fights end.

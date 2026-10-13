@@ -103,7 +103,7 @@ Everywhere else, the hosts of each part are its common enemies: Ganados with far
 
 ## Ties
 
-| Moment | Between | Tie |
+| Time | Between | Tie |
 |---|---|---|
 | The Valley, 2004 | Ashley Graham and Leon Kennedy | **Loyalty.** Ashley goes to Leon even if her survivor refuses: she slips away the first time no one is watching her. If Leon is dead, she has no one to slip away to, and stays with whoever got her out. |
 | The Valley, 2004 | Luis Serra and Leon Kennedy | **Loyalty.** Each asks their survivor to go to the other. |

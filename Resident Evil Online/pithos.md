@@ -14,7 +14,7 @@ Pithos is not Umbrella and does not want to be. It builds no virus, sells no wea
 
 Umbrella watched the world through its Intelligence Bureau: rivals, governments, journalists, and Umbrella itself. In the years before Raccoon City, a handful of the Bureau's analysts understood something the company's directors did not. Umbrella would not survive what it had made, and whoever held its records when it fell would hold the history of the next fifty years.
 
-They began copying everything they could reach: research files, shipping logs, personnel records, the Masterminds' reports, and, in the last days of September 1998, the combat data Umbrella's Supervisors sent home as the U.B.C.S. died in Raccoon City. One of them reached further than the others, into the program Spencer had hidden beneath the city, and came out with a single vial of something unfinished.
+They began copying everything they could reach: research files, shipping logs, personnel records, the Masterminds' reports, and, in the last days of September 1998, the combat data Umbrella's Supervisors sent home as the U.B.C.S. died in Raccoon City. One of them reached further than the others, into the program Spencer had hidden beneath the city, and came out with a single vial of something unfinished: a vial from the program's earlier trials, kept in its outer laboratory, the cure as it stood years before Spencer finished it. The finished cure lay behind the fail-safe, and the analyst did not know the word.
 
 When the missile fell, every one of them was listed among Raccoon City's dead. None of them corrected the record. Pithos began that winter, with the copies, the vial, and a rule every member since has kept: **no one joins Pithos who is not already buried.**
 
@@ -46,7 +46,7 @@ What Pithos sells is mostly time. ΜΝΗΜΗ sees where an outbreak is building:
 
 It gives nothing away. A warning given for free is a warning someone traces. Pithos has watched outbreaks it foresaw kill people it could have saved, and written down how they died.
 
-The danger in being right is being noticed. A source that is never wrong becomes a question someone eventually asks. So Pithos is wrong on purpose, a little, and always by design: every forecast leaves it late, shaded, or incomplete in some measured way, so that across the market it looks like the best broker among many, and never like something impossible. The best broker in a market that pays for warnings of mass death is paid very well. After twenty-eight years, Pithos can afford everything below. Only ΜΝΗΜΗ knows how much was left out of each forecast.
+The danger in being right is being noticed. A source that is never wrong becomes a question someone eventually asks. So Pithos is wrong on purpose, a little, and always by design: every forecast leaves it late, shaded, or incomplete in some measured way, so that across the market it looks like the best broker among many, and never like something impossible. The best broker in a market that pays for warnings of mass death is paid very well. After twenty-eight years, Pithos can afford everything below. The shading is the members' work, never ΜΝΗΜΗ's. She writes every forecast whole, and when the members ask how much to leave out, and where, she tells them exactly, as she answers every question. Only she keeps every forecast whole, so only she knows how much was left out of each.
 
 ## The Archive
 

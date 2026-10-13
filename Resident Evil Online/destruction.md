@@ -23,11 +23,11 @@ Everything in a map belongs to one tier, and the tier decides who can break it. 
 |---|---|---|---|
 | **Fragile** | Glass of every kind: windows, the panes in doors, display cases, windshields, mirrors, screens. Bulbs and lamps, bottles, crockery, light crates | Anyone and anything: a single round, a swing, a thrown thing, the dead walking into it | Shards on the floor, an open frame, and a darker room if it was a light |
 | **Light** | Furniture: tables, sofas, shelves, cabinets, desks. Wooden doors that no key, code, or puzzle holds. Boarded windows and every barricade. Plank fences, heavy crates, market stalls | Survivors, with a few heavy swings, a burst of rounds, or one explosive. The dead, by battering, in time. The Mutated, faster. The Heavy, in one blow | Splinters and wreckage. A door that no longer closes |
-| **Heavy** | Interior walls of plaster, lath, and board. Reinforced and metal doors. Door frames, railings, shelving bolted to a wall | Only the Heavy (`survival.md`, Run First) | A hole a body can pass through, and rubble |
+| **Sturdy** | Interior walls of plaster, lath, and board. Reinforced and metal doors. Door frames, railings, shelving bolted to a wall | Only the Heavy (`survival.md`, Run First) | A hole a body can pass through, and rubble |
 | **Structure** | Exterior and load-bearing walls, floors, ceilings, stairs, facades, roofs, bridges | Only what was authored into the map: breaches and collapses (below) | Whatever the breach or the collapse was built to leave |
 | **Never** | Safe rooms, their walls, door, and windows. Every door, lock, or mechanism that a key, a code, or a puzzle holds, and every vault door. The machinery of the ways out. The edges of a map: the Army's barricades, the quarantine wall, the sea | No one and nothing, ever | — |
 
-- **Explosives break only what the tiers allow.** A grenade, a grenade round, or a rocket breaks everything Fragile and Light within its blast, and nothing Heavy or Structure. It can set off a trap of the city (below), and that is all it can do to a building.
+- **Explosives break only what the tiers allow.** A grenade, a grenade round, or a rocket breaks everything Fragile and Light within its blast, and nothing Sturdy or Structure. It can set off a trap of the city (below), and that is all it can do to a building.
 - **Rounds pass through glass.** Everything else stops them. Light cover breaks under enough of them: a survivor behind a sofa under fire is behind a sofa for a few seconds.
 - **Vehicles go through Fragile and Light.** A car can take a shop window, a fence, a market stall, or a barricade with it (`survival.md`, Vehicles). It stops against a wall.
 - **Fire burns what is Light.** A barricade or a wooden door in a fire burns through in time. Fire that spreads beyond a room is ΜΝΗΜΗ's, never a survivor's (Collapses, below).
@@ -35,14 +35,14 @@ Everything in a map belongs to one tier, and the tier decides who can break it. 
 
 ## What Breaking Changes
 
-Everything broken stays broken for the rest of the night, for everyone. ΜΝΗΜΗ repairs nothing. The next night begins whole, except a Late Night, whose damage is placed before the waking with everything else the seed left (`story-nights.md`, Late Nights).
+Everything broken stays broken for the rest of the night, for everyone. ΜΝΗΜΗ repairs nothing. The next night begins whole, except a Late Waking, whose damage is placed before the waking with everything else the seed left (`story-nights.md`, Late Wakings).
 
 - **Sound.** Breaking glass is a Clamor (`the-dead-and-engineered.md`). So is smashing furniture or battering down a door. A Heavy coming through a wall is Thunder, and a collapse is Thunder across the whole district. A broken window or a hole in a wall lets sound through as an open doorway does: a room that was muffled is no longer.
 - **Doors.** A broken door can no longer be closed, locked, or barricaded. A room whose door is gone is no longer a place to hide from the dead.
 - **Windows.** A broken window can be climbed through, by survivors and by the dead. Climbing through takes a few seconds and is a Clamor while glass is left in the frame. A broken window can be boarded up, as any barricade is made (`survival.md`, Fighting and Fleeing).
 - **Glass on the floor.** Walking over shards is a Murmur, even crouched. A survivor who breaks the glass behind them has left an alarm.
 - **Light.** A lamp or a bulb shot out darkens what it lit. At night that is a choice: a survivor can buy darkness with a Clamor (`worlds.md`, Time and Weather).
-- **Rubble.** Debris from Heavy and Structure breaks is rough ground (`survivors.md`, Hardening), and large debris blocks as it was built to. Small debris is only seen, and never blocks anyone.
+- **Rubble.** Debris from Sturdy and Structure breaks is rough ground (`survivors.md`, Hardening), and large debris blocks as it was built to. Small debris is only seen, and never blocks anyone.
 - **Nothing seals the last road.** No breakage, breach, or collapse ever closes the only road to an open way out, to a live puzzle's pieces, to a vault, to a safe room's door, or to anyone of the records still waiting to be found. A collapse that seals one route always leaves another, as a sealed puzzle does (`objectives-restrictions-events.md`, Puzzles).
 
 ## The Heavy Indoors
@@ -54,7 +54,7 @@ A Heavy chasing a survivor into a building wrecks it on the way through. It does
 - **Thin walls are not cover.** A Heavy that has heard a survivor behind a plaster wall can punch through it to reach them. A survivor hiding from one hides behind masonry, up a ladder, in a vent or a crawlspace, or in a safe room (`survival.md`, How to Live Through One).
 - **It overruns into walls.** A charge that misses goes on into whatever is behind its target. Into plaster, it goes through. Into masonry, it stops, staggers, and turns, and a group learns to stand in front of brick.
 - **It does not open what is held.** A Heavy never breaks a door that a key, a code, or a puzzle holds. It goes another way, and that is often why it comes through a wall instead.
-- **The Turned too.** A survivor who has risen in a Heavy form with their own mind, a Nemesis-class or an Apex, breaks what the Heavy breaks and uses the breaches the Heavy uses (`the-turned.md`).
+- **The Turned too.** A survivor who has risen in a Heavy form, a Tyrant-class, a Nemesis-class, or an Apex, breaks what the Heavy breaks and uses the breaches the Heavy uses (`the-turned.md`).
 
 The lesser dead break only what is Fragile and Light. The common dead walk into glass and batter at doors and barricades until they give. The Mutated get through faster: a Hunter takes a barricade apart in seconds. In the Valley, hosts carry tools, and their axes and torches take doors and barricades apart faster than the dead do.
 
@@ -100,7 +100,7 @@ The two greatest collapses in the game are not collapse sites. They are the ends
 
 - **Raccoon City, 1998.** A city still standing. Most of it is whole at the waking, and most breakage in a night is what the night itself does. Its breach points face the streets of every district, and its collapse sites are buildings the outbreak has already set burning.
 - **Raccoon City, Ruins, 2026.** Twenty-eight years of rot. More of the city is Light, many of its doors are already gone, and its glass is mostly broken already. Its floors include weak floors, built into the map, that give way under a Heavy and drop it a storey, with any survivor standing beside it, who lands Down. Its collapse sites are many, because so much of it is already leaning.
-- **The Valley, 2004.** Stone houses, barns, and a castle. The village is wood and stone. The plank walls of its barns and sheds are Heavy, and its stone is Structure. The castle's walls are Structure throughout, and its breaches are few.
+- **The Valley, 2004.** Stone houses, barns, and a castle. The village is wood and stone. The plank walls of its barns and sheds are Sturdy, and its stone is Structure. The castle's walls are Structure throughout, and its breaches are few.
 
 ## In the Night
 

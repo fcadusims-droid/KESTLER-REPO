@@ -44,7 +44,7 @@ Everyone else is in the city from the waking, where the records had them.
 | **The furnace** | III | NEST | The T-00 there | It falls into the molten metal and does not come back. |
 | **The last car** | III | NEST, the Emergency Train | William Birkin alive when the train leaves | He comes for the train. Its self-destruct ends him, and whoever cannot keep him off the carriage until then goes with him. |
 | **The flare** | III | The R.P.D. roof | HUNK alive | He lights the flare. The Rooftop is his pickup, and he takes one of its two seats, boarding last as the people of the records do (`extraction.md`, The Boarding). |
-| **Nikolai's bargain** | III | Wherever he is | Nikolai alive | He makes for a helicopter. In one account he takes it. In the other he is left on a rooftop with the missile coming. |
+| **Nikolai's bargain** | III | Wherever he is | Nikolai alive | He makes for a helicopter, a way out's or an improvised one. In one account he takes it, and flies it out with the cargo he came for. In the other he is left on a rooftop with the missile coming. |
 
 **Named creatures.** Three creatures of the records walk the city on threads of their own. Their beats release them, not a region's Crisis (`the-dead-and-engineered.md`). Each can be killed, and each takes longer to kill than any other Heavy. Put down, it rises a few minutes later in its next form, worse each time, as the records show, and only put down in its last form is it dead for the night (`survival.md`, The Heavy). The end the records gave it ends it at once, in any form. A beat that needs a creature already dead does not happen (`story-nights.md`, Story Nights).
 
@@ -63,10 +63,10 @@ TIME TO IMPACT: 20 MINUTES.
 WAYS OUT: 3.
 ```
 
-- **The count.** The strike comes twenty minutes after the alert. There is no clock on the screen, as there is none anywhere in a Survivor night. The count is in the world: ΜΝΗΜΗ's public voice gives the time left through every radio, siren, and loudspeaker at fifteen, ten, and five minutes, then every minute, then every second of the last ten.
+- **The count.** The strike comes twenty minutes after the alert, or ten seconds after the last living survivor has gone, whichever is sooner (`extraction.md`, The End of the Night). There is no clock on the screen, as there is none anywhere in a Survivor night. The count is in the world: ΜΝΗΜΗ's public voice gives the time left through every radio, siren, and loudspeaker at fifteen, ten, and five minutes, then every minute, then every second of the last ten.
 - **The ways out.** Every way out leaves no later than one minute before impact, full or not, after its Last Call. A way out that has not left by then never will.
 - **No second chance.** The rule that the night goes on when every way out leaves empty (`extraction.md`) does not hold here. The strike ends the night. The one exception is a way out brought down in its Climb: if it was the last, ΜΝΗΜΗ opens one more, but only if it can still leave before impact (`extraction.md`, The Climb).
-- **At impact.** Everything still in the city falls with it: survivors, Echoes, companions, the Stranded, the Turned, and the dead. A survivor in the city at impact has fallen, and the After-Action Report says how. The Turned standing at impact win if fewer than half of the survivors alive at the alert got out (`the-turned.md`, The Turned Win).
+- **At impact.** Everything still in the city falls with it: survivors, Echoes, companions, the Stranded, the Turned, and the dead. A survivor in the city at impact has fallen, and the After-Action Report says how. The Turned go with the city: their race ended when they turned (`the-turned.md`, No Victory for the Turned).
 
 **Companions**
 
@@ -80,7 +80,7 @@ WAYS OUT: 3.
 | **Jill Valentine** | *Resident Evil 3* | A former S.T.A.R.S. officer, twenty-three, who stayed in the city to expose Umbrella. Self-reliant; trusts what she sees, never a badge. | Picks locks, disarms traps, handles explosives; a handgun and a rifle. On some nights she carries the MGL, a secret weapon that is hers alone (`survivor-mode.md`, Companions) | Trust Nikolai Zinoviev (Ties). Whoever walks with her walks with what hunts her. |
 | **Carlos Oliveira** | *Resident Evil 3* | A U.B.C.S. corporal, twenty-one. Warm, flirtatious, decent, and shaken to learn what Umbrella is. | An assault rifle and heavy weapons | Abandon someone he has chosen to protect, or shoot anyone for a Mark unless they ask him to, as Murphy Seeker once did |
 | **Mikhail Viktor** | *Resident Evil 3* | The leader of U.B.C.S. Delta Platoon, forty-five, a former Red Army officer. He puts his men first. | A rifle and explosives; commands (Ties) | Run. He is badly wounded from the first minute. He does not know what Nikolai is. |
-| **Nikolai Zinoviev** | *Resident Evil 3* | A U.B.C.S. sergeant, thirty-five, secretly an Umbrella Supervisor paid for combat data. Greedy, cold, a liar: "There's a price tag for everything." | A silenced pistol and explosives | Keep faith with anyone (Ties). A dose handed to him to carry, he destroys, as he destroyed the city's vaccine. |
+| **Nikolai Zinoviev** | *Resident Evil 3* | A U.B.C.S. sergeant, thirty-five, secretly an Umbrella Supervisor paid for combat data. Greedy, cold, a liar: "There's a price tag for everything." | A silenced pistol and explosives; flies a helicopter (`extraction.md`, Improvised Ways Out) | Keep faith with anyone (Ties). A dose handed to him to carry, he destroys, as he destroyed the city's vaccine. |
 | **Tyrell Patrick** | *Resident Evil 3* | A U.B.C.S. mercenary, thirty-two, once of the Foreign Legion. Money-minded, and Carlos's partner. | Works the radio; guards the wounded | Leave Carlos. Whether he suspects Nikolai depends on the account (Ties). |
 
 **Named Stranded**
@@ -89,7 +89,7 @@ The named Stranded are more than any night holds. ΜΝΗΜΗ chooses at Assembly
 
 | Person | Records | Where, and who they are | What they will not do |
 |---|---|---|---|
-| **Brad Vickers** | *Resident Evil 3* | The S.T.A.R.S. pilot, hiding near the R.P.D. in Act I, terrified, because something is hunting the S.T.A.R.S. | Stay. Freed, he runs. |
+| **Brad Vickers** | *Resident Evil 3* | The S.T.A.R.S. pilot, hiding near the R.P.D. in Act I, terrified, because something is hunting the S.T.A.R.S. | Stay. Freed, he runs, unless there is a helicopter ready to fly: he flies it (`extraction.md`, Improvised Ways Out). |
 | **Marvin Branagh** | *Resident Evil 2*, *Resident Evil 3* | The R.P.D. lieutenant holding the station's main hall. Steady and loyal to his men: "Uniform or not, you do not hesitate." He gives what he has: his knife, a radio, the way through the station. | Leave the R.P.D. Bitten when the hall falls, he turns when Act III opens unless someone gives him a dose first. |
 | **Robert Kendo**, before his shop falls | *Resident Evil 3* | Behind his own counter, with the shop still holding. He sells nothing, gives a gun to someone he trusts, and aims at everyone first. | Come along |
 | **Ben Bertolucci** | *Resident Evil 2* | A freelance reporter in the R.P.D. cells who has been digging into Chief Irons's bribes. In one account he locked himself in and will not come out. In the other, Irons locked him in, and he trades what he knows about Irons and Umbrella for the key. | Come along |
@@ -105,7 +105,7 @@ The named Stranded are more than any night holds. ΜΝΗΜΗ chooses at Assembly
 | **Monica** | *Resident Evil Outbreak* | An Umbrella researcher deep in NEST, stealing its research to sell. Cold, and ready to leave anyone behind. In the records William Birkin killed her there. | Come along, or give up the research |
 | **Linda** | *Resident Evil Outbreak File #2* | An Umbrella researcher, wounded and alone in the sewers, after a Tyrant threw her from a ledge in the laboratory above. She knows the way from NEST to the streets. | Nothing the records forbid. She comes along gladly. |
 | **The six held for the Masterminds** | *Resident Evil Resistance* | In cells on the hidden floors beneath Raccoon General Hospital, where the Masterminds kept the subjects of their trials (`mnemosyne.md`): Samuel Jordan, a boxer; Valerie Harmon, a chemistry student; Tyrone Henry, a firefighter; January Van Sant, a hacker; Becca Woolett, a park ranger; Martin Sandwich, a mechanic. Taken along, each does one thing from who they were: Samuel fights with his hands, Valerie treats wounds, Tyrone forces doors, January opens any lock that runs on power, Becca shoots straight, and Martin gets machines running. | Nothing the records forbid. They come along gladly. |
-| **The eight of Outbreak** | *Resident Evil Outbreak* | Kevin Ryman in the R.P.D. District, Mark Wilkins at the Apple Inn, Jim Chapman in a Kite Bros Railway subway station, George Hamilton at Raccoon General Hospital, David King in the sewers, Alyssa Ashcroft at the Raccoon Press office, Yoko Suzuki at Raccoon University, Cindy Lennox behind the bar at J's Bar. Taken along, each does what they do in Outbreak (`outbreak.md`, The Eight). Bitten, Jim's clock runs fastest and Yoko's slowest. | Nothing the records forbid. They come along gladly. |
+| **The eight of Outbreak** | *Resident Evil Outbreak* | Kevin Ryman in the R.P.D. District, Mark Wilkins at the Apple Inn, Jim Chapman in a Kite Bros Railway subway station, George Hamilton at Raccoon General Hospital, David King in the sewers, Alyssa Ashcroft at the Raccoon Press office, Yoko Suzuki at Raccoon University, Cindy Lennox behind the bar at J's Bar. Taken along, each does what they do in Outbreak (`outbreak.md`, The Eight). Bitten, Jim's clock runs fastest and Yoko's slowest. Jim can drive the Freight Engine, and David can fit any part in half the time (`extraction.md`, Improvised Ways Out). | Nothing the records forbid. They come along gladly. |
 
 **The named dead.** Whoever a beat kills, if the records say they rose, walks among the dead in their own clothes from then on: Brad Vickers in the R.P.D. District, Marvin Branagh in the main hall, Robert Kendo in his shop. A person whose beat never happens never walks.
 
@@ -133,7 +133,7 @@ Some of the named dead were dead before the night began. Will, who worked the ba
 
 ## Ties
 
-| Moment | Between | Tie |
+| Time | Between | Tie |
 |---|---|---|
 | Raccoon City, 1998 | Leon Kennedy and Claire Redfield | **Loyalty.** Separated on their first night. Each asks their survivor to go to the other. |
 | Raccoon City, 1998 | Carlos Oliveira and Jill Valentine | **Loyalty.** Each asks their survivor to go to the other, and if Carlos's survivor falls, he goes to Jill. |

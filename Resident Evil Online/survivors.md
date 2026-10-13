@@ -33,7 +33,7 @@ There are two kinds of progression, and only one of them touches a night.
 
 A new survivor moves like what they are: a civilian who has never trained for anything, in the worst night of their life. They flinch at every bang, run out of breath, freeze when something lunges. A survivor whose player has spent months in the nights moves like someone who has been through this before. They still feel fear; it no longer takes their body away from them.
 
-**Time is the only measure.** Hardening counts the hours a player spends inside nights, by the minute, exactly as Ribbons are paid (`economy.md`): minutes in a safe room, nights ΜΝΗΜΗ forgets (`echoes.md`), and watching count for nothing. Online and offline nights count alike. Results do not count: a night that ends in a seat and a night that ends on the pavement in the first ten minutes harden a body by their length. At about six hours a week, a player reaches the last stage in about six months.
+**Time is the only measure.** Hardening counts the hours a player spends alive inside nights, by the minute: minutes in a safe room, minutes as one of the Turned, nights ΜΝΗΜΗ keeps out of her Echoes (`echoes.md`), and watching count for nothing. Online and offline nights count alike. Results do not count, only time alive: a night that ends in a seat and a night that ends on the pavement in the first ten minutes harden a body by how long it lived. So the survivor who stays alive hardens most, and a Turned hardens not at all: the body ΜΝΗΜΗ builds for a file is a human body, and nothing done as a monster teaches it. At about six hours a week, a player reaches the last stage in about six months.
 
 | Stage | Hours in the nights | How the survivor moves |
 |---|---|---|

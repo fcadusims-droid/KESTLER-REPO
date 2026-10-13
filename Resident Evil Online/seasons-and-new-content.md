@@ -14,7 +14,7 @@ The service runs in seasons of about ten weeks. Each season, ΜΝΗΜΗ rehearse
 
 ### The Season's Story
 
-Each season's forecast is shaped by one of the questions Pithos has never closed (`pithos.md`): who sent the soldiers into ARK and what they carried out, who the Family are, who truly leads the Connections, what the Tissue is growing into, and, behind them all, what Spencer told Alyssa Ashcroft. Some seasons also move what the sleepers themselves are never told, such as what their bodies keep from night to night (`sleepers-and-the-remembered.md`, What the Body Keeps). A season never answers its question. It moves it: new files in the nights, a new last page in the Casefile, a new record that does not fit. Over the life of the service the questions close one by one, and the last to close is the one Pithos fears most.
+Each season's forecast is shaped by one of the questions Pithos has never closed (`pithos.md`): who sent the soldiers into ARK and what they carried out, who the Family are, who truly leads the Connections, what the Tissue is growing into, and, behind them all, what Spencer told Alyssa Ashcroft. Some seasons also move what the sleepers themselves are never told, such as what their bodies keep from night to night (`sleepers-and-the-remembered.md`, What the Body Keeps). A season never answers its question. It moves it: new files in the nights, a new last page in the Casefile, a new record that does not fit. Over the life of the service the questions close one by one, and the last to close is the one Pithos fears most. The answers, and the order they come in, are fixed in advance (`the-sealed-file.md`), so no season ever has to invent one.
 
 ### The Casefile
 
@@ -42,7 +42,7 @@ An event never places a date on a map that its records forbid. The Raccoon City 
 
 ### Crosstime Weekends
 
-Every weekend, from Friday at 18:00 to Sunday at 23:59 in each region's own time, ΜΝΗΜΗ may make any Survivor night a crosstime night, in which the people and creatures of one moment can wait in another moment's map (`story-nights.md`, Crosstime Weekends). Players do not choose a crosstime night, so the queues are never split. Crosstime Weekends begin once a second moment is in the game, and the people of the Valley join them when the Valley arrives. A crosstime night changes who is placed in it and nothing else: its rules, its Ledger, and its Ribbons are those of any other night.
+Every weekend, from Friday at 18:00 to Sunday at 23:59 in each region's own time, ΜΝΗΜΗ may make any Survivor night a crosstime night, in which the people and creatures of one time can wait in another time's map (`story-nights.md`, Crosstime Weekends). Players do not choose a crosstime night, so the queues are never split. Crosstime Weekends begin once a second time is in the game, and the people of the Valley join them when the Valley arrives. A crosstime night changes who is placed in it and nothing else: its rules, its Ledger, and its Ribbons are those of any other night.
 
 ### Release Weekends
 
@@ -62,7 +62,7 @@ The game does not launch with everything in these documents. It launches with wh
 |---|---|
 | **Launch** | Survivor in Raccoon City, September 1998. |
 | **First Run, first year** | Raccoon City, 1998, through its seasons and events. |
-| **First Run, second year** | Raccoon City Ruins, 2026, the hardcore map. Crosstime Weekends, now that a second moment is in the game. The first anomalies (`the-dead-and-engineered.md`, Anomalies). |
+| **First Run, second year** | Raccoon City Ruins, 2026, the hardcore map. Crosstime Weekends, now that a second time is in the game. The first anomalies (`the-dead-and-engineered.md`, Anomalies). |
 | **After the Opening** | The Valley, 2004: the village, the castle, and the island, if the First Run's first year sold enough to build it (`business-case.md`, Running It). Whatever else the service can pay for (Promise 14). |
 | **Only if it can be paid for** | A future mode, and only without taking anything from Survivor (`future-development.md`). Last of all, the Refuge (`the-refuge.md`). |
 

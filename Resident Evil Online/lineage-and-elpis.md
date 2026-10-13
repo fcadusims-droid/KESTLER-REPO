@@ -19,6 +19,7 @@ Every virus ΜΝΗΜΗ runs descends from one organism, and every part of her wo
 | 1980s | Umbrella's Arklay laboratory builds the **Hunter** line: reptilian DNA bound into human embryos by the T-Virus. |
 | 1988 | Marcus is assassinated on Spencer's order by his own protégés, William Birkin and Albert Wesker. Umbrella Europe begins the Nemesis Project. |
 | 1988 onward | Wesker and Birkin implant the Nemesis parasite, **NE-α**, into Umbrella's longest-held test subject, Lisa Trevor. Her body consumes it. From what it leaves behind, Birkin spends the next ten years developing the **G-Virus**. |
+| Mid-1990s | Beneath the Raccoon City orphanage, in a laboratory he calls ARK, Spencer finishes **Elpis**, and seals it away. |
 | 1998 | Umbrella Europe implants NE-α into a T-103 Tyrant. The parasite takes no human host, but it takes a Tyrant. The result is the **Nemesis-T Type**. |
 | September 1998 | The T-Virus reaches Raccoon City. Birkin, shot by Umbrella's own soldiers, injects himself with the G-Virus. The city falls over a little more than a week. |
 | October 1, 1998 | At sunrise, a single missile destroys Raccoon City. |
@@ -30,7 +31,7 @@ Every virus ΜΝΗΜΗ runs descends from one organism, and every part of her wo
 
 ## Elpis
 
-In the last years of his work, Spencer built one thing that was not a weapon. He called it **Elpis**: an antiviral able to neutralize every viral weapon descended from his own work. He developed it in absolute secrecy, in a laboratory called ARK beneath Raccoon City, and sealed it behind a fail-safe that would destroy it if the wrong password were given. The password was *Hope*.
+In the last years of his work at Umbrella, Spencer built one thing that was not a weapon. He called it **Elpis**: an antiviral able to neutralize every viral weapon descended from his own work. He developed it in absolute secrecy, in a laboratory called ARK beneath Raccoon City's orphanage, finished it in the middle of the 1990s, and sealed it behind a fail-safe that would destroy it if the wrong password were given. The password was *Hope*.
 
 The missile that erased Raccoon City in 1998 was not only meant to burn an outbreak. Those who pushed for it, the Connections among them, wanted ARK buried and Elpis with it.
 

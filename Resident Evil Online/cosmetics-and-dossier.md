@@ -78,12 +78,12 @@ A Portrait is a three-dimensional scene, built and saved like a photograph.
 
 | Standing | Seal |
 |---|---|
-| **Clean** | A white circle |
-| **Marked** | A yellow triangle |
+| **Peaceful** | A white circle |
+| **Warned** | A yellow triangle |
 | **Notorious** | An orange square, with the word **Griefer** beside it |
 | **Infamous** | A red cross, with the word **Griefer** beside it |
 
-The seal speaks only of the doorstep. Betrayal inside a night, a lie, a stolen dose, a shot in the back on an open street, is part of Survivor (`the-living.md`, Betrayal) and never touches it. A Clean seal says a player keeps the safe rooms' peace, not that they can be trusted.
+The seal speaks only of the doorstep. Betrayal inside a night, a lie, a stolen dose, a shot in the back on an open street, is part of Survivor (`the-living.md`, Betrayal) and never touches it. A Peaceful seal says a player keeps the safe rooms' peace, not that they can be trusted.
 
 A player who wants their original survivor leaning against a concrete wall in the Ruins at night, in Umbrella dress, a Clockwork Castellan on the shelf and their count of cures given away under the photograph, builds exactly that.
 
@@ -133,7 +133,7 @@ A **trophy** is proof. It is a look, a model, a frame, an emblem, or a diorama p
 | **Heavy Hunter**, a frame | Put down a Heavy that is not named with no more than three survivors, companions included, and no secret weapon (`survival.md`, Run First) |
 | **The long way home**, a dress | Extract clean from five nights in a row |
 | **Nobody's hero**, a figurine | Extract after giving away the only dose you ever held |
-| **The keeper of the peace**, a pose | Keep a Clean seal through two hundred nights (`survival.md`, The Doorstep Record) |
+| **The keeper of the peace**, a pose | Keep a Peaceful seal through two hundred nights (`survival.md`, The Doorstep Record) |
 | **The last seat**, a diorama piece: the Clock Tower helicopter's door | Take the last seat on the last way out of a Raccoon City night with less than two minutes to impact |
 | **The Merchant's best customer**, a hat | In one night in the Valley, buy from every one of the Merchant's appearances |
 

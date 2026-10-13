@@ -43,14 +43,14 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 | **Tie** | The Night | A bond the records hold between two people of the records: loyalty, command, distrust, enmity, use, or betrayal |
 | **Defector** | The Night | A companion who has turned on the living. ΜΝΗΜΗ plays them; they are no longer a companion and are not counted among a night's survivors |
 | **The Stranded** | The Night | People from the records whom ΜΝΗΜΗ places trapped in a Survivor night and plays. Not counted among a night's survivors; any one of them can be freed, left, or taken along as a companion |
-| **The dead** | The Night | Everything the virus has taken that ΜΝΗΜΗ plays, including Turned bodies that kept no mind |
+| **The dead** | The Night | Everything the virus has taken that ΜΝΗΜΗ plays, including survivors who turned into the Mass |
 | **Player** | The Service | The real person holding the controller. Used only when describing the Service |
-| **Session / night** | Both | One self-contained run of a mode |
+| **Session / night** | Both | One self-contained run of a mode. It is called a night whatever hour it shows, because for the sleeper it is one: every session is lived asleep in the Cellar. The time of day inside it is always called the hour (`worlds.md`, Time and Weather) |
 | **Story night** | The Night | A night in a world that holds a story of the records, run in three acts |
 | **The Taken** | The Night | In the Valley of 2004, a survivor whose Plaga has taken their will: the Plaga's Turned |
 | **Thread / beat** | The Night | A person's path through a story night, and a moment the records hold on it |
 | **The earpiece** | The Night | The device beside every waking point through which ΜΝΗΜΗ talks to one survivor as a person |
-| **Late Night / the seed** | The Night | A story night ΜΝΗΜΗ has already run, alone, before anyone wakes; and that run, whose aftermath the survivors wake into. A variant, not part of the launch |
+| **Late Waking / the seed** | The Night | A story night ΜΝΗΜΗ has already run, alone, before anyone wakes; and that run, whose aftermath the survivors wake into. A variant, not part of the launch |
 | **Vision** | The Night | Something ΜΝΗΜΗ puts into one survivor's senses that is not in the night, to make a still survivor move |
 | **The Growth** | The Night | The living tissue that has spread through ΜΝΗΜΗ's hardware since 2019, which Pithos records and does not understand |
 | **Live scene / Moment / the Reel** | The Night | A beat performed in the world while everyone keeps control; the few seconds of true cinema ΜΝΗΜΗ grants a survivor when nothing can reach them; and her record of the scenes a survivor witnessed, watched after the night |
@@ -62,6 +62,8 @@ The player is a sleeper. Not a particular one: the sleeper is the role the playe
 Lines set in monospace blocks are ΜΝΗΜΗ's own words: what she speaks into a session, exactly as survivors hear or read it, and the records she writes.
 
 A Night, Illustrated, in `narrative-illustrations.md`, dramatizes a single night. It illustrates the rules; nothing in it is canon beyond them.
+
+The Sealed File, `the-sealed-file.md`, holds the answers to every question these documents leave open in the Night. It is written for the people who make the game. Players learn it only as the seasons reveal it.
 
 The Service documents, in part `06-service`, describe how the game is built, sold, and run. They are written in the Service's register: here a player is a player, money is money, and every rule in them binds the people who run the game, not ΜΝΗΜΗ. The feasibility document, `business-case.md`, is the business case for the Service documents: what the game costs, what it earns, and what happens if it earns less.
 
@@ -77,7 +79,7 @@ It is not a game of heroes. No one kills a Tyrant or a Nemesis alone, as the ser
 
 It is not a conventional last-one-standing contest. There is no shrinking circle. In its place is **ΜΝΗΜΗ**: an intelligence that watches every session from the inside and reshapes it as it unfolds.
 
-In **Survivor**, its one mode, every survivor wakes clean, alone, and unarmed, somewhere in a city rebuilt as the records hold it, placed there before the simulation began. The infection is everywhere else: in the dead, in the sewers, in the vials left in Umbrella's laboratories, and in the survivors who have already been bitten. Once it is inside a body, the virus is the clock. It works silently toward a point of no return, and no number on any screen says how close it is. One cure exists. It is never simply found. It must be earned, and once earned, it can be stolen. The ways out of the city are few, scattered, and too small for everyone. Survivors who turn keep playing only if the virus leaves them a mind to play with.
+In **Survivor**, its one mode, every survivor wakes clean, alone, and unarmed, somewhere in a city rebuilt as the records hold it, placed there before the simulation began. The infection is everywhere else: in the dead, in the sewers, in the vials left in Umbrella's laboratories, and in the survivors who have already been bitten. Once it is inside a body, the virus is the clock. It works silently toward a point of no return, and no number on any screen says how close it is. One cure exists. It is never simply found. It must be earned, and once earned, it can be stolen. The ways out of the city are few, scattered, and too small for everyone. Survivors who turn are out of the race: those the virus makes into the common dead are gone, and those it makes into something worse play on as monsters until the night closes over them.
 
 Underneath the game is a second horror the survivors never fully see. ΜΝΗΜΗ is not entertaining anyone. She is forecasting. Every session is a rehearsal of an outbreak that has not happened yet, run by an organization called Pithos that sells what she learns. And every survivor she has not rebuilt herself is a real person, asleep in a laboratory, who will never be allowed to wake. Every one she has rebuilt was one, once.
 
@@ -117,7 +119,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 | `00-overview` | `narrative-illustrations.md` | The Prologue and A Night, Illustrated: dramatizations of the rules |
 | `01-lore` | `lineage-and-elpis.md` | The viral lineage from 1966 to 2026, and Spencer's cure |
 | `01-lore` | `pithos.md` | The organization that built ΜΝΗΜΗ: origin, rules, Chain, Archive, Cellar, Lid, Pyxis, and what it wants |
-| `01-lore` | `mnemosyne.md` | ΜΝΗΜΗ herself: names, make-up, the Growth, the anomalies, purpose, night time and world time, personality, voice, breaks |
+| `01-lore` | `mnemosyne.md` | ΜΝΗΜΗ herself: names, make-up, the Growth, the anomalies, purpose, a night's time and the world's time, personality, voice, breaks |
 | `01-lore` | `sleepers-and-the-remembered.md` | Who the survivors really are, the Waiting Dark, what the body keeps, the Last Night, the Remembered |
 | `01-lore` | `echoes.md` | The Echoes: what they are, what ΜΝΗΜΗ keeps, offline play, queue fill |
 | `02-core-systems` | `session-and-blueprint.md` | The session, Survivor at a glance, waking points, scale, the shape of a Survivor night, the blueprint |
@@ -126,7 +128,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 | `02-core-systems` | `elpis-and-the-road.md` | Elpis in a session: the road, the Reserve, the drop, the scar |
 | `02-core-systems` | `strains.md` | The six viruses, Petitions, pure strains, the Embrace, the Parasite Drop |
 | `02-core-systems` | `exclusions-and-the-plaga.md` | What ΜΝΗΜΗ leaves out of her world, the Plaga of the Valley, and its pesetas and Merchant |
-| `02-core-systems` | `the-turned.md` | The Turn, the four shapes, who keeps a mind, the Second Night, the Lost |
+| `02-core-systems` | `the-turned.md` | The Turn, the four shapes, who plays on, Hunts, the Second Night, the Lost |
 | `02-core-systems` | `extraction.md` | The verdict, the ways out of each map, the signal, boarding, the Climb, departure |
 | `02-core-systems` | `the-dead-and-engineered.md` | Sound tiers, threat levels, the dead, containment, B.O.W. events, anomalies |
 | `02-core-systems` | `survival.md` | Health, hunger and thirst, Self-Examination and tending wounds, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing |
@@ -137,7 +139,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 | `02-core-systems` | `after-action-report.md` | The After-Action Report and its variants |
 | `03-worlds` | `worlds.md` | The open worlds, one world for every mode and the bounds each mode plays, time and weather, conditions |
 | `04-survivor-mode` | `survivor-mode.md` | Survivor: squads, companions, the Stranded, ties, eyes and ears, winning |
-| `05-story-nights` | `story-nights.md` | Faithful to the records, as recorded, story nights, live scenes, Moments, Late Nights |
+| `05-story-nights` | `story-nights.md` | Faithful to the records, as recorded, story nights, live scenes, Moments, Late Wakings |
 | `05-story-nights` | `cast-raccoon-city-1998.md` | Acts, beats, named creatures, the Last Morning, people, roster, and ties of Raccoon City, 1998 |
 | `05-story-nights` | `cast-valley-2004.md` | Acts, beats, named hosts, people, the Island's End, roster, and ties of the Valley, 2004 |
 | `05-story-nights` | `cast-ruins-2026.md` | The people, named creatures, roster, and ties of the Ruins, 2026 |
@@ -155,6 +157,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 | `08-future-development` | `infection-mode.md` | Infection: viruses, the monster, the sweepers, evolution, formats |
 | `08-future-development` | `recollections-and-endless.md` | The Recollections frames and Endless |
 | `08-future-development` | `the-refuge.md` | The Refuge: a room of the player's own, built from their dioramas, in place of the menus, with guests and an arcade. A future feature, not a priority |
+| `09-sealed-file` | `the-sealed-file.md` | The answers to every question the other documents leave open: the Growth, the anomalies, ARK, the Connections, the Family, Spencer and Alyssa, and the order in which the seasons reveal them |
 
 ---
 
