@@ -128,7 +128,7 @@ And beneath every night, the thought no survivor is ever allowed to have: that i
 | `02-core-systems` | `the-turned.md` | The Turn, the four shapes, who keeps a mind, the Second Night, the Lost |
 | `02-core-systems` | `extraction.md` | The verdict, the ways out of each map, the signal, boarding, the Climb, departure |
 | `02-core-systems` | `the-dead-and-engineered.md` | Sound tiers, threat levels, the dead, containment, B.O.W. events, anomalies |
-| `02-core-systems` | `survival.md` | Health, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing |
+| `02-core-systems` | `survival.md` | Health, hunger and thirst, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing |
 | `02-core-systems` | `destruction.md` | What breaks and who breaks it, what breaking changes, the Heavy indoors, breaches, collapses |
 | `02-core-systems` | `objectives-restrictions-events.md` | Objectives, restrictions, puzzles, vaults, secret weapons, events |
 | `02-core-systems` | `the-living.md` | Cooperation, voice, reading the Mark, the Mark within a squad, the clean, betrayal |
