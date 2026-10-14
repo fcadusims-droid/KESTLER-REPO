@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "Where the rules of a night make survivors choose between each other: the sources of roleplay, the carried dose, the end of the road, the beacon, the door, and worked examples"
-order: 45
+order: 22
 ---
 
 # Dilemmas

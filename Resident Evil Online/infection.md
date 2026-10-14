@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "The Mark, transmission, strain map, anomalous strains, stages, clock, antivirals, Down, Resonance"
-order: 10
+order: 11
 ---
 
 # The Infection

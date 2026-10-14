@@ -1,7 +1,7 @@
 ---
 section: "08 · Future Development"
 description: "The modes kept for possible future development, and how each would touch the rest of the game"
-order: 36
+order: 43
 ---
 
 # Future Development

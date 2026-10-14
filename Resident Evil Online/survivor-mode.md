@@ -1,7 +1,7 @@
 ---
 section: "04 · Survivor Mode"
 description: "Survivor: squads, companions, the Stranded, ties, eyes and ears, winning"
-order: 24
+order: 26
 ---
 
 # Survivor

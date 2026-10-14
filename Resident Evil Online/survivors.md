@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "Who is played, survivor creation, tone, progression, Hardening"
-order: 21
+order: 23
 ---
 
 # The Survivors

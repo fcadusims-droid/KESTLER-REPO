@@ -1,7 +1,7 @@
 ---
 section: "08 · Future Development"
 description: "Versus: characters, setups, the dead, formats"
-order: 38
+order: 45
 ---
 
 # Versus

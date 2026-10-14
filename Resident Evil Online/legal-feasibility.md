@@ -1,7 +1,7 @@
 ---
 section: "07 · Feasibility"
 description: "Whether the design is legal to ship in the main markets, where it is not yet, what must change, and what the fan-made project itself may and may not do"
-order: 47
+order: 39
 ---
 
 # Legal Feasibility

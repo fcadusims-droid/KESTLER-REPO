@@ -1,7 +1,7 @@
 ---
 section: "06 · The Service"
 description: "Cosmetic rules, what can be owned, gear in Survivor, the Dossier, the diorama"
-order: 32
+order: 34
 ---
 
 # Cosmetics and the Dossier

@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "The six viruses, Petitions, pure strains, the Embrace, the Parasite Drop"
-order: 12
+order: 13
 ---
 
 # The Strains

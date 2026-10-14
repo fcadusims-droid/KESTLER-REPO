@@ -1,7 +1,7 @@
 ---
 section: "01 · Lore"
 description: "The organization that built ΜΝΗΜΗ: origin, rules, Chain, its shape (one body, many rooms, who knows what), Archive, Cellar, Lid, Pyxis, and what it wants"
-order: 4
+order: 5
 ---
 
 # Pithos

@@ -1,7 +1,7 @@
 ---
 section: "05 · Story Nights"
 description: "Acts, beats, named creatures, the Last Morning, people, roster, and ties of Raccoon City, 1998"
-order: 26
+order: 28
 ---
 
 # The People of Raccoon City, 1998

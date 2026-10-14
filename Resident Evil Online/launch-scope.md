@@ -1,7 +1,7 @@
 ---
 section: "00 · Overview"
 description: "What the launch holds, what comes after it and when, and the scope rule that keeps new systems out until the launch is proved"
-order: 44
+order: 3
 ---
 
 # Launch Scope
