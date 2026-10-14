@@ -1,7 +1,7 @@
 ---
 section: "06 · The Service"
 description: "The First Run, the Opening, the Promises, Conduct, and the record they answer"
-order: 30
+order: 32
 ---
 
 # The Service

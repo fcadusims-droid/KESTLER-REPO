@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "The After-Action Report and its variants"
-order: 22
+order: 24
 ---
 
 # The After-Action Report

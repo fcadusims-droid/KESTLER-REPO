@@ -1,7 +1,7 @@
 ---
 section: "05 · Story Nights"
 description: "Faithful to the records, as recorded, story nights, live scenes, Moments, Late Wakings"
-order: 25
+order: 27
 ---
 
 # Story Nights and the People of the Records

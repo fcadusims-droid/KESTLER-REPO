@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "What breaks and who breaks it, what breaking changes, the Heavy indoors, breaches, collapses"
-order: 18
+order: 19
 ---
 
 # Destruction

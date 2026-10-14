@@ -1,7 +1,7 @@
 ---
 section: "07 · Feasibility"
 description: "Whether Resident Evil Online should launch as a hub of the modes the community already knows, with Survivor later; what that would cost, earn, gain, and lose; and a third order the documents already hold"
-order: 50
+order: 42
 ---
 
 # Launch Alternatives

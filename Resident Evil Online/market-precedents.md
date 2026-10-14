@@ -1,7 +1,7 @@
 ---
 section: "07 · Feasibility"
 description: "The games most like Resident Evil Online that succeeded or failed, the context each one succeeded in, what they share, and what Resident Evil Online needs to do to join them"
-order: 48
+order: 40
 ---
 
 # Market Precedents

@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "Sound tiers, threat levels, the dead, containment, B.O.W. events, anomalies"
-order: 16
+order: 17
 ---
 
 # The Dead and the Engineered
