@@ -75,24 +75,21 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
         run: |
-          # Pages names the blocking deployment by commit, so check the
-          # recent commits on main and cancel whichever is still running.
-          for sha in $(gh api "repos/$REPO/commits?sha=main&per_page=15" --jq '.[].sha'); do
+          # Pages names the blocking deployment by commit, and the API does
+          # not report a usable status for it, so cancel the Pages deployment
+          # of each recent commit on main. Cancelling one that already
+          # finished does nothing.
+          cancelled=0
+          for sha in $(gh api "repos/$REPO/commits?sha=main&per_page=5" --jq '.[].sha'); do
             [ "$sha" = "$GITHUB_SHA" ] && continue
-            if ! status=$(gh api "repos/$REPO/pages/deployments/$sha" --jq .status 2>&1); then
-              # No Pages deployment for this commit; anything else is worth seeing.
-              case "$status" in *"Not Found"*|*404*) continue ;; esac
-              echo "::warning::Could not read Pages deployment $sha: $status"
+            if out=$(gh api -X POST "repos/$REPO/pages/deployments/$sha/cancel" 2>&1); then
+              echo "Cancelled $sha"; cancelled=1
+            else
+              echo "Nothing to cancel for $sha: $out"
             fi
-            case "$status" in
-              succeed|deployment_cancelled|deployment_failed|deployment_content_failed|deployment_attempt_error|deployment_lost) ;;
-              *) echo "::warning::Cancelling stuck Pages deployment $sha ($status)"
-                 out=$(gh api -X POST "repos/$REPO/pages/deployments/$sha/cancel" 2>&1) \
-                   && echo "::notice::Cancelled $sha" \
-                   || echo "::warning::Could not cancel $sha: $out"
-                 sleep 10 ;;
-            esac
           done
+          # Give Pages a moment to register the cancellations.
+          [ "$cancelled" = 1 ] && sleep 10 || true
 
       - name: Deploy to GitHub Pages
         id: deployment
