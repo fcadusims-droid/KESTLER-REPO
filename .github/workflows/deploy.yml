@@ -13,7 +13,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-  deployments: read
 
 # Never run two deploys at once; let an in-progress run finish.
 concurrency:
@@ -76,13 +75,22 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
         run: |
-          for sha in $(gh api "repos/$REPO/deployments?environment=github-pages&per_page=10" --jq '.[].sha' | sort -u); do
+          # Pages names the blocking deployment by commit, so check the
+          # recent commits on main and cancel whichever is still running.
+          for sha in $(gh api "repos/$REPO/commits?sha=main&per_page=15" --jq '.[].sha'); do
             [ "$sha" = "$GITHUB_SHA" ] && continue
-            status=$(gh api "repos/$REPO/pages/deployments/$sha" --jq .status 2>/dev/null || true)
+            if ! status=$(gh api "repos/$REPO/pages/deployments/$sha" --jq .status 2>&1); then
+              # No Pages deployment for this commit; anything else is worth seeing.
+              case "$status" in *"Not Found"*|*404*) continue ;; esac
+              echo "::warning::Could not read Pages deployment $sha: $status"
+            fi
             case "$status" in
-              ""|succeed|deployment_cancelled|deployment_failed|deployment_content_failed|deployment_attempt_error|deployment_lost) ;;
-              *) echo "Cancelling stuck deployment $sha ($status)"
-                 gh api -X POST "repos/$REPO/pages/deployments/$sha/cancel" || true ;;
+              succeed|deployment_cancelled|deployment_failed|deployment_content_failed|deployment_attempt_error|deployment_lost) ;;
+              *) echo "::warning::Cancelling stuck Pages deployment $sha ($status)"
+                 out=$(gh api -X POST "repos/$REPO/pages/deployments/$sha/cancel" 2>&1) \
+                   && echo "::notice::Cancelled $sha" \
+                   || echo "::warning::Could not cancel $sha: $out"
+                 sleep 10 ;;
             esac
           done
 
