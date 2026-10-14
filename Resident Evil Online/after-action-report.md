@@ -93,6 +93,13 @@ PLAGA .................... HATCHED · BURNED OUT
 FINAL RESULT ............. EXTRACTED · CURED
 ```
 
+A survivor who got out beside the virus says so, and what it cost (`economy.md`, Exposure):
+
+```
+EXPOSURE ................. 1 SQUADMATE · 1 STRANGER · -38%
+FINAL RESULT ............. EXTRACTED · CLEAN · EXPOSED
+```
+
 A survivor who got out on an improvised way says which, and the odds it left with:
 
 ```
@@ -124,7 +131,7 @@ HEAVY ESCAPED ............ NEMESIS-T TYPE
 A survivor a Warden held adds the line, and a survivor a Warden ended says why:
 
 ```
-HELD BY A WARDEN ......... TROUBLEMAKER · NOTORIOUS
+HELD BY A WARDEN ......... GRIEFER · NOTORIOUS
 CAUSE .................... ENDED BY A WARDEN
 ```
 
