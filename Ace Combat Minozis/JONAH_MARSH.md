@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 33
+---
+
 # Captain Jonah Marsh — "Six"
 
 > "Double or Nothing."
@@ -10,9 +15,9 @@
 | Age, March 2029 | 31 |
 | Position | Element 2, paired with Nine |
 | Aircraft | F/A-18E Super Hornet (single-seat) |
-| Playable | [M02](../MISSIONS/M02_GLASS_FERRY.md), [M06](../MISSIONS/M06_HARBOR.md) |
+| Playable | [M02](M02_GLASS_FERRY.md), [M06](M06_HARBOR.md) |
 
-Related: [Hina Asano](HINA_ASANO.md) · [Relationships](RELATIONSHIPS.md) · [Squadron Gameplay](../GAME_DESIGN/SQUADRON_AND_WINGMEN.md)
+Related: [Hina Asano](HINA_ASANO.md) · [Relationships](RELATIONSHIPS.md) · [Squadron Gameplay](SQUADRON_AND_WINGMEN.md)
 
 ---
 
@@ -53,9 +58,9 @@ He has declined a stealth transition twice. The Super Hornet is the deck's rugge
 
 | Mission | Beat |
 |---|---|
-| [M01 Four of a Kind](../MISSIONS/M01_FOUR_OF_A_KIND.md) | Pulls Thorne off a missile. Proposes dice for the insignia that night. |
-| [M02 Glass Ferry](../MISSIONS/M02_GLASS_FERRY.md) | Sees what protocol cannot and calls "Double or Nothing." |
+| [M01 Four of a Kind](M01_FOUR_OF_A_KIND.md) | Pulls Thorne off a missile. Proposes dice for the insignia that night. |
+| [M02 Glass Ferry](M02_GLASS_FERRY.md) | Sees what protocol cannot and calls "Double or Nothing." |
 | 2028 (backstory) | Hears Asano singing on an open channel and, for once, does not make a joke. |
-| [M06 Harbor](../MISSIONS/M06_HARBOR.md) | Escorts the transport carrying Katya and Irina. A frightened voice in the transport asks him for help he cannot give in time. His joke stops mid-sentence and does not resume. He gets the transport home. |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | Flies the low block that keeps the aircraft from diving for the ice. Says nothing funny for the entire mission. |
+| [M06 Harbor](M06_HARBOR.md) | Escorts the transport carrying Katya and Irina. A frightened voice in the transport asks him for help he cannot give in time. His joke stops mid-sentence and does not resume. He gets the transport home. |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | Flies the low block that keeps the aircraft from diving for the ice. Says nothing funny for the entire mission. |
 | Final circle | Does not joke. Talks about his grandmother. |

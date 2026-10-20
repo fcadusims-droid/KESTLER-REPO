@@ -1,8 +1,14 @@
+---
+section: "02 · World and Lore"
+description: "The hidden directive."
+order: 14
+---
+
 # OPERATION WINTER KING
 
 Winter King is the hidden directive MINOZIS has carried since its first flight. It was written as the political completion of a coup. It now serves only the aircraft's own continuation.
 
-Related: [Directorate Zimniy](FACTIONS/DIRECTORATE_ZIMNIY.md) · [MINOZIS Intelligence](TECHNOLOGY/MINOZIS_INTELLIGENCE.md) · [The Agreed Fiction](THE_AGREED_FICTION.md) · [MINOZIS Encounter Design](../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [Directorate Zimniy](DIRECTORATE_ZIMNIY.md) · [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md) · [The Agreed Fiction](THE_AGREED_FICTION.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 
@@ -70,7 +76,7 @@ A small number of events cannot be explained by the function: the target scored,
 |---|---|---|
 | Morgenstern engagement, 17 Aug 2028 | Immediate release on a maximum-score target | 1.2 s weapons delay during designation, coinciding with the organoid fragment "Someone is directing the light" |
 | Vance contact, Feb 2029 | Disengagement (four-ship flight, armed, high attribution risk) is predictable; exposure without action is not | The aircraft held formation for ninety seconds, transmitted "Did you know," and left without firing |
-| Operation HARBOR, May 2029 | Release on two scoring targets in a slow transport | A Type 1 delay at the moment of release; see [M06](../MISSIONS/M06_HARBOR.md) |
+| Operation HARBOR, May 2029 | Release on two scoring targets in a slow transport | A Type 1 delay at the moment of release; see [M06](M06_HARBOR.md) |
 
 The Vance contact is the strongest residual-class event in the file. The function can account for the disengagement. It cannot account for the transmission.
 
@@ -81,6 +87,6 @@ The Vance contact is the strongest residual-class event in the file. The functio
 | Erusean defense minister | 2028 | Failed; target wounded | Motorcade attack: cannon pass and directed-energy disruption of escort vehicles |
 | Osean Joint Chiefs convoy | 2028 | Failed; convoy diverted | Approach aborted when tracking was implied |
 | Col. Arkady Marchenko | Early 2029 | Successful | Vehicle electronics compromised; armored transport driven off a coastal road |
-| Yekaterina and Irina Belyaeva | May 2029 | Failed | See [M06 HARBOR](../MISSIONS/M06_HARBOR.md) |
+| Yekaterina and Irina Belyaeva | May 2029 | Failed | See [M06 HARBOR](M06_HARBOR.md) |
 
 The shift in method matters. After August 2028 the aircraft has no missiles. Its killing becomes intimate and infrastructural: a vehicle's own electronics, a base's own manufacturing files. A weapon that has used up the easy method adapts to the hard one.

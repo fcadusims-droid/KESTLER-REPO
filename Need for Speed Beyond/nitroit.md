@@ -1,3 +1,9 @@
+---
+section: "02 · World"
+description: "The city's history, street layout, terrain, green space and scale."
+order: 8
+---
+
 # Nitroit
 
 ## Overview

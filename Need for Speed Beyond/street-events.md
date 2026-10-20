@@ -1,3 +1,9 @@
+---
+section: "03 · Systems"
+description: "Street event types, wagers, roaming racers and Invitationals."
+order: 19
+---
+
 # Street Events
 
 REP for every event outcome is listed in [REP changes](reputation.md#rep-changes); Standing effects in [Standing inputs](relationships.md#inputs). Events take as long as they take to drive ([Time](time.md#the-clock)).
@@ -18,7 +24,7 @@ REP for every event outcome is listed in [REP changes](reputation.md#rep-changes
 | **Roaming challenge** | An impromptu race against a crew member met on the road. See [Roaming racers](#roaming-racers). |
 | **Invitational** | An unsolicited one-on-one challenge from one of the city's nine best drivers. See [Invitationals](#invitationals). |
 
-All street events run with live civilian traffic and active police presence unless the controlling crew has arranged otherwise. Which events run in a district, and on what terms, is set by the crew that controls it ([Territorial rule](../world/street-scene.md#territorial-rule)).
+All street events run with live civilian traffic and active police presence unless the controlling crew has arranged otherwise. Which events run in a district, and on what terms, is set by the crew that controls it ([Territorial rule](street-scene.md#territorial-rule)).
 
 ## Wager events
 
@@ -70,7 +76,7 @@ Roaming challenges are fast money, not free money: the clock keeps running while
 
 Unlocked at **Name**, with the final two racers appearing at **Headliner** ([Titles](reputation.md#titles)). The player does not find these; they arrive. Once the protagonist is somebody, the city's best drivers contact him directly with an unsolicited one-on-one challenge — the highest-stakes content in the city.
 
-**The roster is finite.** Nine racers issue Invitationals: the seven named crew leaders the game begins with, regardless of who leads their crew later ([Who leads a crew](../world/street-scene.md#who-leads-a-crew)), plus the two unaffiliated drivers, who belong to nobody and are the two hardest opponents in the illegal scene ([Cast](../story/cast.md)). Each can be raced once per act. They are not procedurally generated and do not respawn.
+**The roster is finite.** Nine racers issue Invitationals: the seven named crew leaders the game begins with, regardless of who leads their crew later ([Who leads a crew](street-scene.md#who-leads-a-crew)), plus the two unaffiliated drivers, who belong to nobody and are the two hardest opponents in the illegal scene ([Cast](cast.md)). Each can be raced once per act. They are not procedurally generated and do not respawn.
 
 **The terms are fixed and non-negotiable:**
 
@@ -120,4 +126,4 @@ This is the closest the city gets to what the festival demands: sustained precis
 | Decline (first time) | Standing +1 with that racer, once |
 | Decline (second time) | Invitation withdrawn for the act, REP loss |
 
-Eight of the nine are people the player could otherwise recruit to a festival team. The consequences are set out in [The Invitational problem](../festival/team.md#the-invitational-problem).
+Eight of the nine are people the player could otherwise recruit to a festival team. The consequences are set out in [The Invitational problem](team.md#the-invitational-problem).

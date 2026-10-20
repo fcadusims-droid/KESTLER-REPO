@@ -1,8 +1,14 @@
+---
+section: "01 · Game Design"
+description: "How scenes, sorties and drills change the squadron and the enemy."
+order: 9
+---
+
 # Adaptive Progression
 
 In *Ace Combat MINOZIS*, the story is the progression system. Whatever happens in a cutscene, a briefing, the circle or a sortie changes how the characters fly afterward: the player, the AI wingmen and the enemy. A pilot who trains in a scene flies differently in the next mission. A pilot who is hurt flies more carefully. An enemy that is beaten one way does not fall for it twice.
 
-Related: [Progression and Hangar](PROGRESSION_AND_HANGAR.md) · [Squadron and Wingmen](SQUADRON_AND_WINGMEN.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md) · [Core Gameplay](CORE_GAMEPLAY.md) · [Campaign Structure](../NARRATIVE/CAMPAIGN_STRUCTURE.md)
+Related: [Progression and Hangar](PROGRESSION_AND_HANGAR.md) · [Squadron and Wingmen](SQUADRON_AND_WINGMEN.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md) · [Core Gameplay](CORE_GAMEPLAY.md) · [Campaign Structure](CAMPAIGN_STRUCTURE.md)
 
 ---
 
@@ -13,7 +19,7 @@ Four rules govern the whole system.
 1. **What the story shows, the game does.** If a scene shows a character learning, deciding or breaking, that character's in-mission behavior changes from that point on. No scene is decoration.
 2. **What the game does, the story names.** Every behavior change has a source the player can point to: a scene, a mission event or a drill. The [Squadron Record](#7-the-squadron-record) lists each one, and the radio calls back to it the first time it is used.
 3. **Learning is authored, not emergent.** Each change is a designed *lesson* with a fixed trigger, a fixed behavior and a quality tier. The system feels organic because the triggers come from the player's own play and the story's own events. It is never trained live, so it never produces behavior nobody tested.
-4. **Learning never changes who lives, who dies or how the story ends.** Lessons make windows easier to use, Load easier to carry and calls arrive sooner. Every mission can be completed with every lesson at its lowest tier. This keeps the campaign's fixed outcomes intact (see [Campaign Structure](../NARRATIVE/CAMPAIGN_STRUCTURE.md#6-narrative-choices)).
+4. **Learning never changes who lives, who dies or how the story ends.** Lessons make windows easier to use, Load easier to carry and calls arrive sooner. Every mission can be completed with every lesson at its lowest tier. This keeps the campaign's fixed outcomes intact (see [Campaign Structure](CAMPAIGN_STRUCTURE.md#6-narrative-choices)).
 
 ## 2. Three Sources of Learning
 
@@ -121,7 +127,7 @@ Experience lessons are not always improvements. A pilot who has been hurt learns
 
 ## 5. Enemy Learning: MINOZIS
 
-The dossier's instruction is: "Do not show it a pattern and expect the pattern to go unread" (see [MINOZIS Intelligence](../WORLD_AND_LORE/TECHNOLOGY/MINOZIS_INTELLIGENCE.md)). The game holds the enemy to that. MINOZIS keeps an **operator model** of everyone it meets, and it carries that model from one encounter to the next. It has no simulator. It trains on the squadron.
+The dossier's instruction is: "Do not show it a pattern and expect the pattern to go unread" (see [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md)). The game holds the enemy to that. MINOZIS keeps an **operator model** of everyone it meets, and it carries that model from one encounter to the next. It has no simulator. It trains on the squadron.
 
 ### What it learns, and what it never can
 
@@ -175,7 +181,7 @@ Enemies in Act I learn only within a mission. Each has one counter-adaptation, t
 | M02 | Mercenary escort | After the first Edge gun pass, closes spacing around the lead vehicles | Escort lead orders "Tighten up" |
 | M03 | Hijacked swarm | After two clusters are destroyed by the same formation, splits into smaller groups | No telegraph; Asano's Read shows the split before it happens |
 
-General Resource's recovery teams do not fight, but they learn too. In M09 they are already waiting outside the exclusion zone because they have been shadowing the Task Force's operations all campaign (see [General Resource](../WORLD_AND_LORE/FACTIONS/GENERAL_RESOURCE.md#4-gr-in-play)).
+General Resource's recovery teams do not fight, but they learn too. In M09 they are already waiting outside the exclusion zone because they have been shadowing the Task Force's operations all campaign (see [General Resource](GENERAL_RESOURCE.md#4-gr-in-play)).
 
 ## 7. The Squadron Record
 

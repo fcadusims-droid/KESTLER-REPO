@@ -1,3 +1,8 @@
+---
+section: "03 · Factions"
+order: 18
+---
+
 # ISAF Revival Initiative
 
 **Chartered:** 2025, at North Point, Usea
@@ -5,7 +10,7 @@
 **Flagship:** ISN *Albatross* (CVN-X1)
 **Principal unit in this project:** Squadron 6AMEꓤƎꓥO9
 
-Related: [Relationships and squadron dynamics](../../CHARACTERS/RELATIONSHIPS.md) · [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md) · [Geopolitics](../GEOPOLITICS_2019_2029.md)
+Related: [Relationships and squadron dynamics](RELATIONSHIPS.md) · [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md) · [Geopolitics](GEOPOLITICS_2019_2029.md)
 
 ---
 
@@ -61,6 +66,6 @@ Counter-intelligence rates 6AMEꓤƎꓥO9 a low desertion risk under legitimate 
 
 - Its record against proliferated autonomy, including operations against Z.O.E.-lineage drone remnants.
 - Its home platform: a carrier answerable to no single government, able to move between theaters without either government explaining why.
-- Its people. The cell judged that the squadron's psychological profile made it both unusually resilient and unusually exposed against this enemy, and that a unit which knows its own wounds is safer than one that does not. See [Squadron Threat Surface](../../CHARACTERS/RELATIONSHIPS.md#4-the-threat-surface).
+- Its people. The cell judged that the squadron's psychological profile made it both unusually resilient and unusually exposed against this enemy, and that a unit which knows its own wounds is safer than one that does not. See [Squadron Threat Surface](RELATIONSHIPS.md#4-the-threat-surface).
 
 The ISAF council approved the tasking on the condition that the squadron never operate inside Yuktobanian or Osean national airspace without both governments' written consent. Both governments gave it, in writing that does not exist.

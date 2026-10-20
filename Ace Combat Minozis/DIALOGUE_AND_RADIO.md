@@ -1,8 +1,13 @@
+---
+section: "06 · Narrative"
+order: 43
+---
+
 # Dialogue and Radio
 
 Ace Combat tells its stories through radio. This document sets the rules for how every voice in the campaign sounds.
 
-Related: [Characters](../README.md#characters) · [POSTHUMUS](../CHARACTERS/POSTHUMUS.md) · [UI, HUD and Audio](../GAME_DESIGN/UI_HUD_AND_AUDIO.md)
+Related: [Characters](./) · [POSTHUMUS](POSTHUMUS.md) · [UI, HUD and Audio](UI_HUD_AND_AUDIO.md)
 
 ---
 
@@ -43,7 +48,7 @@ Related: [Characters](../README.md#characters) · [POSTHUMUS](../CHARACTERS/POST
 
 ## 4. Writing POSTHUMUS
 
-Follow the rules in [POSTHUMUS](../CHARACTERS/POSTHUMUS.md#2-how-to-write-it). In dialogue specifically:
+Follow the rules in [POSTHUMUS](POSTHUMUS.md#2-how-to-write-it). In dialogue specifically:
 
 **Core lines** are classification statements:
 > "Lock-on is hostile action. Engaging countermeasures."

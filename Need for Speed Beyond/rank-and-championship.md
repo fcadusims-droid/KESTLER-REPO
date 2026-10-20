@@ -1,3 +1,9 @@
+---
+section: "04 · The Festival"
+description: "Classification and scoring, Rank, qualification, Grades and titles, team leaders, the championship and the Circuit Final."
+order: 28
+---
+
 # Rank and Championship
 
 The festival's progression variable is **Rank**, and it measures driving, not status.
@@ -57,7 +63,7 @@ Points are calculated in two stages.
 
 **Finishing position decides how much the player earns; conduct decides how much they keep.** A clean second (80 × 1.5 = 120) outscores a dirty first (100 × 1.0 = 100). The festival rewards the racer who wins without touching anybody, and makes street habits expensive without ever telling the player to stop being a street racer.
 
-It also answers a problem the city never solves: in the city, a Hostile racer can ram the protagonist at no cost. In the festival, race control is watching, and contact is scored. Live damage makes the same contact cost lap time too ([Damage in the festival](../systems/driving-and-damage.md#damage-in-the-festival)).
+It also answers a problem the city never solves: in the city, a Hostile racer can ram the protagonist at no cost. In the festival, race control is watching, and contact is scored. Live damage makes the same contact cost lap time too ([Damage in the festival](driving-and-damage.md#damage-in-the-festival)).
 
 ### Drift scoring
 
@@ -78,7 +84,7 @@ Only a team registered in all five disciplines can meet the coverage condition. 
 
 **The two conditions fail for different reasons, and the game does not conflate them.** Missing coverage means there was a discipline nobody on the team could carry. Missing the standings means the team as a whole was not good enough. Both are sentences about the people he brought — and both tell him that whom he spent five acts befriending is now a result on a board.
 
-**Failing either condition ends the season.** The festival closes without the team, a failure screen is shown, and the player returns to the city with no window limit. When ready, the player waits for the next edition and re-registers ([Between editions](../systems/time.md#between-editions)). Re-registration resets festival Rank to zero in every discipline and begins a new regular season, with a roster drawn from whatever Standing the city has produced in the meantime ([During a season](team.md#during-a-season)).
+**Failing either condition ends the season.** The festival closes without the team, a failure screen is shown, and the player returns to the city with no window limit. When ready, the player waits for the next edition and re-registers ([Between editions](time.md#between-editions)). Re-registration resets festival Rank to zero in every discipline and begins a new regular season, with a roster drawn from whatever Standing the city has produced in the meantime ([During a season](team.md#during-a-season)).
 
 **Breadth is demanded of the team, and measured in the protagonist.** The city rewards specialisation — a player can dominate the street scene on Ridgeline drift builds alone. The festival refuses that: a team qualifies only if someone on it can carry a grip car, a drag car, a drift car, a speed car and a sprint car. Jake races all five himself, and his Grade is set by the worst of them. The protagonist's father was a driver who could carry everything. The Grade asks whether the son is.
 
@@ -114,7 +120,7 @@ Separate from Grade, earned one discipline at a time, in the *ProStreet* idiom t
 | **Speed King** | First in the Speed ladder | Oluwaseun Bright |
 | **Sprint King** | First in the Sprint ladder | Renata Aguiló |
 
-The holders are profiled in [Cast](../story/cast.md#festival-title-holders). Taking a title takes it *from* someone: a driver who has held it for years, whose whole identity in the paddock is that word.
+The holders are profiled in [Cast](cast.md#festival-title-holders). Taking a title takes it *from* someone: a driver who has held it for years, whose whole identity in the paddock is that word.
 
 - **A discipline title is not required to qualify.** The championship rewards the team that is top eight everywhere over the driver who is first in one place. The specialists hold the crowns; the all-rounders take the championship.
 - **Holding all five at once** is the hardest achievement in the game. It has no mechanical reward, is not required by the story, and is never mentioned by any character. The standings board simply lists one name five times.
@@ -123,7 +129,7 @@ The holders are profiled in [Cast](../story/cast.md#festival-title-holders). Tak
 
 There is no festival title for the protagonist's *character*: no nickname, no crowd chant, no name the paddock invents for him. The festival calls him by his grade and his position, and nothing else.
 
-**This is the contrast the two halves are built on.** The city gave him twelve titles, escalating until it simply called him the king ([Titles](../systems/reputation.md#titles)). The festival gives him a grade, a row on a board, and crowns that belong to specialists — and the last thing it gives him is not a title at all, but a contract ([The invitation](../story/ending.md#the-invitation)).
+**This is the contrast the two halves are built on.** The city gave him twelve titles, escalating until it simply called him the king ([Titles](reputation.md#titles)). The festival gives him a grade, a row on a board, and crowns that belong to specialists — and the last thing it gives him is not a title at all, but a contract ([The invitation](ending.md#the-invitation)).
 
 ## The championship
 
@@ -166,7 +172,7 @@ The order exists for the same reason. The championship must end on a closed circ
 
 **The leaders. One race. The title.**
 
-- **Sandreach Motorsport Park**, long configuration ([Venues](../world/revada.md#venues)). Multi-lap, grandstands full, official timing, marshal posts, race control on the radio. The only permanent circuit in Revada, and the only venue all season that looks like the kind of place his father worked.
+- **Sandreach Motorsport Park**, long configuration ([Venues](revada.md#venues)). Multi-lap, grandstands full, official timing, marshal posts, race control on the radio. The only permanent circuit in Revada, and the only venue all season that looks like the kind of place his father worked.
 - **The field** is the leader of every qualified team. They are the drivers who carried every discipline for their teams all season, and they are the best all-round drivers in the festival.
 - **The final lap runs with no commentary, no music, and reduced crowd audio**: engine, tyres, and the cars alongside and behind.
 
@@ -186,4 +192,4 @@ This is the one place where the game's retry loop carries meaning. Every other f
 
 The game does not comment on this. No dialogue acknowledges the retries. He simply lines up again.
 
-What happens when he wins is in [Ending](../story/ending.md).
+What happens when he wins is in [Ending](ending.md).

@@ -1,3 +1,9 @@
+---
+section: "01 · Story"
+description: "John, Grace and Jake Spaid before the game begins: the death, the inheritance, the inversion at the core of the story."
+order: 3
+---
+
 # Backstory
 
 Everything here happened before the game begins. Character profiles for the people named are in [Cast](cast.md).
@@ -10,7 +16,7 @@ GT3 is a real category of competition car: race machinery built to a regulation,
 
 **GT3 exists nowhere inside the playable world**, neither in Nitroit nor in Revada. It is the tier above both: the level Jake's father worked at and the level the ending sends Jake to. The player never drives at it. It appears in the game as history and as a destination, and the player sees it exactly twice: in what happened to John Spaid, and in the final scene.
 
-In his last season John raced in the **LMGT3 class of the FIA World Endurance Championship** — the real-world class in which GT3 cars contest the WEC, and whose drivers race for the **FIA Endurance Trophy for LMGT3 Drivers**, the drivers' prize of the world championship's GT3 class ([References](../REFERENCES.md)). He shared his car with two co-drivers, the two former teammates who would later spend five years telling Jake to race ([Cast](cast.md#the-spaids)). In the WEC a crew shares its points, so the three of them led the standings together into the final round, and John was driving the final stint of the final race, in the lead.
+In his last season John raced in the **LMGT3 class of the FIA World Endurance Championship** — the real-world class in which GT3 cars contest the WEC, and whose drivers race for the **FIA Endurance Trophy for LMGT3 Drivers**, the drivers' prize of the world championship's GT3 class ([References](REFERENCES.md)). He shared his car with two co-drivers, the two former teammates who would later spend five years telling Jake to race ([Cast](cast.md#the-spaids)). In the WEC a crew shares its points, so the three of them led the standings together into the final round, and John was driving the final stint of the final race, in the lead.
 
 **He died on the final lap of that race, holding first place, with the trophy won on the road** — finishing would have taken it. He never took the flag. The race classified his car by the distance it had covered, behind every crew that completed the last lap, and the points that left it were not enough: the Endurance Trophy went to the crew that had been second in the standings. It was never awarded to him, or to the two men who shared his car.
 

@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 47
+---
+
 # M02 — Glass Ferry
 
 | Field | Data |
@@ -12,7 +17,7 @@
 | Type | Escort engagement; precision gun pass |
 | Time limit | 12 minutes |
 
-Related: [Jonah Marsh](../CHARACTERS/JONAH_MARSH.md) · [Relationships](../CHARACTERS/RELATIONSHIPS.md) · [Flight and Combat](../GAME_DESIGN/FLIGHT_AND_COMBAT.md)
+Related: [Jonah Marsh](JONAH_MARSH.md) · [Relationships](RELATIONSHIPS.md) · [Flight and Combat](FLIGHT_AND_COMBAT.md)
 
 ---
 

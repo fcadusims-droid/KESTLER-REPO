@@ -1,6 +1,11 @@
+---
+section: "05 · Characters"
+order: 39
+---
+
 # Relationships and Squadron Dynamics
 
-Related: [Story Synopsis](../NARRATIVE/STORY_SYNOPSIS.md) · [Squadron and Wingmen](../GAME_DESIGN/SQUADRON_AND_WINGMEN.md) · [Themes](../NARRATIVE/THEMES.md)
+Related: [Story Synopsis](STORY_SYNOPSIS.md) · [Squadron and Wingmen](SQUADRON_AND_WINGMEN.md) · [Themes](THEMES.md)
 
 ---
 
@@ -8,9 +13,9 @@ Related: [Story Synopsis](../NARRATIVE/STORY_SYNOPSIS.md) · [Squadron and Wingm
 
 | Relationship | Nature | Where it turns |
 |---|---|---|
-| Anton ↔ Katya | Conscience and counterweight. She understood why he flew and never accepted the cost. "Anchor in the storm." | [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md): she uses the harbor he was given to end what kept him |
-| Anton ↔ Irina | The future he stayed human for. "I will make the sky safe for you." | [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md): she refuses to let a number tell her whether he is in there |
-| Katya ↔ Irina | Mother and daughter who process the same loss as engineering and as analysis | [M06](../MISSIONS/M06_HARBOR.md): they hear his voice together inside a transport under attack |
+| Anton ↔ Katya | Conscience and counterweight. She understood why he flew and never accepted the cost. "Anchor in the storm." | [M09](M09_ANCHOR_IN_THE_STORM.md): she uses the harbor he was given to end what kept him |
+| Anton ↔ Irina | The future he stayed human for. "I will make the sky safe for you." | [M09](M09_ANCHOR_IN_THE_STORM.md): she refuses to let a number tell her whether he is in there |
+| Katya ↔ Irina | Mother and daughter who process the same loss as engineering and as analysis | [M06](M06_HARBOR.md): they hear his voice together inside a transport under attack |
 | Family ↔ POSTHUMUS | The machine carries his body and their voices; they carry the knowledge of where it fails | Every Act II and III mission |
 
 ## 2. The Mirrors
@@ -64,10 +69,10 @@ MINOZIS does not engage capability. It engages operators, and it builds its mode
 
 | Pilot | The wound | What the aircraft applies | Where it lands |
 |---|---|---|---|
-| Marsh | A cockpit death he could not prevent; a stroke he believes he caused | A voice asking for help he cannot give in time | [M06 Harbor](../MISSIONS/M06_HARBOR.md) |
-| Asano | Exclusion; the belief that visible seriousness invites rejection | Sustained pressure with no moment humor can touch; isolation from the audience she performs for | [M07 Thirty Kilometers](../MISSIONS/M07_THIRTY_KILOMETERS.md) |
-| Thorne | A cadet injured under his command; a father killed under someone else's | An engagement where the correct order is plainly the lethal one | [M05 Shrinkage](../MISSIONS/M05_SHRINKAGE.md), [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) |
-| Eirhei | A sister reached twenty-three minutes late | A voice asking to be let go, which she can neither refuse nor grant | [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) |
+| Marsh | A cockpit death he could not prevent; a stroke he believes he caused | A voice asking for help he cannot give in time | [M06 Harbor](M06_HARBOR.md) |
+| Asano | Exclusion; the belief that visible seriousness invites rejection | Sustained pressure with no moment humor can touch; isolation from the audience she performs for | [M07 Thirty Kilometers](M07_THIRTY_KILOMETERS.md) |
+| Thorne | A cadet injured under his command; a father killed under someone else's | An engagement where the correct order is plainly the lethal one | [M05 Shrinkage](M05_SHRINKAGE.md), [M09](M09_ANCHOR_IN_THE_STORM.md) |
+| Eirhei | A sister reached twenty-three minutes late | A voice asking to be let go, which she can neither refuse nor grant | [M09](M09_ANCHOR_IN_THE_STORM.md) |
 
 Each pilot also carries an object into the cockpit that has no operational function and says what the wearer cannot: a beaded necklace made beside a grandmother now partly paralyzed; a pink flame stitched onto a jacket by a woman told her prize was propaganda; a watch hiding the insignia of a man who cannot say he wants to belong; earrings from a sister two weeks before her death.
 

@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 35
+---
+
 # Captain Katehild Eirhei — "AME"
 
 > "Over — he sees the separation. Trust the read."
@@ -10,9 +15,9 @@
 | Age, March 2029 | 32 |
 | Position | Element 1, paired with Over |
 | Aircraft | Rafale M |
-| Playable | [M04](../MISSIONS/M04_EYES_ONLY.md), [M08](../MISSIONS/M08_LIGHT_BEARER.md), [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) phase 2 |
+| Playable | [M04](M04_EYES_ONLY.md), [M08](M08_LIGHT_BEARER.md), [M09](M09_ANCHOR_IN_THE_STORM.md) phase 2 |
 
-Related: [Victor James Thorne](VICTOR_JAMES_THORNE.md) · [Relationships](RELATIONSHIPS.md) · [Squadron Gameplay](../GAME_DESIGN/SQUADRON_AND_WINGMEN.md)
+Related: [Victor James Thorne](VICTOR_JAMES_THORNE.md) · [Relationships](RELATIONSHIPS.md) · [Squadron Gameplay](SQUADRON_AND_WINGMEN.md)
 
 ---
 
@@ -46,7 +51,7 @@ Her callsign. To the squadron, AME is simply the audible core of Katehild. In he
 
 ## 5. The Wound Against This Enemy
 
-POSTHUMUS does not choose its words for effect. It does not need to. The words *let me go* already exist inside the aircraft, in its own record of the man it holds, and an operator-modeling system that searches for the stimulus a specific pilot cannot refuse will find them. Eirhei has spent ten years unable to answer that request. Nothing in this campaign is more predictable than what happens when those two facts meet. See [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md).
+POSTHUMUS does not choose its words for effect. It does not need to. The words *let me go* already exist inside the aircraft, in its own record of the man it holds, and an operator-modeling system that searches for the stimulus a specific pilot cannot refuse will find them. Eirhei has spent ten years unable to answer that request. Nothing in this campaign is more predictable than what happens when those two facts meet. See [M09](M09_ANCHOR_IN_THE_STORM.md).
 
 ## 6. Aircraft and Playstyle
 
@@ -63,10 +68,10 @@ The Rafale M is the only foreign-origin airframe in the core flight and the hard
 
 | Mission | Beat |
 |---|---|
-| [M01 Four of a Kind](../MISSIONS/M01_FOUR_OF_A_KIND.md) | Assembles the insignia: inverts "Over," assigns colors, places four aces. |
-| [M02 Glass Ferry](../MISSIONS/M02_GLASS_FERRY.md) | Seven words that let Thorne say "Cleared." |
+| [M01 Four of a Kind](M01_FOUR_OF_A_KIND.md) | Assembles the insignia: inverts "Over," assigns colors, places four aces. |
+| [M02 Glass Ferry](M02_GLASS_FERRY.md) | Seven words that let Thorne say "Cleared." |
 | 2028 (backstory) | Reads one page of Thorne's diary and never tells him. Begins translating him for the others. |
-| [M04 Eyes Only](../MISSIONS/M04_EYES_ONLY.md) | The first to hear the scream under the honeypot. Asks Vance how she is. Vance says she is fine; nobody believes her. |
-| [M08 Light-Bearer](../MISSIONS/M08_LIGHT_BEARER.md) | Talks Althéa through the ghost's voice on an open channel, then asks her to show them where it is. |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | Hears *let me go* and *let him go* within the same minute. Holds course. |
+| [M04 Eyes Only](M04_EYES_ONLY.md) | The first to hear the scream under the honeypot. Asks Vance how she is. Vance says she is fine; nobody believes her. |
+| [M08 Light-Bearer](M08_LIGHT_BEARER.md) | Talks Althéa through the ghost's voice on an open channel, then asks her to show them where it is. |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | Hears *let me go* and *let him go* within the same minute. Holds course. |
 | Final circle | Thorne asks her how she is. She answers. |

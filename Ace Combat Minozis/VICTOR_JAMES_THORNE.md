@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 32
+---
+
 # Major Victor James Thorne — "Over"
 
 > "Maintain formation."
@@ -11,9 +16,9 @@
 | Service | Emmerian Air Force; seconded to the ISAF Revival Initiative in 2025 |
 | Position | Squadron leader, 6AMEꓤƎꓥO9; Element 1, paired with AME |
 | Aircraft | F-35C Lightning II |
-| Playable | [M01](../MISSIONS/M01_FOUR_OF_A_KIND.md), [M05](../MISSIONS/M05_SHRINKAGE.md), [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) phase 1 |
+| Playable | [M01](M01_FOUR_OF_A_KIND.md), [M05](M05_SHRINKAGE.md), [M09](M09_ANCHOR_IN_THE_STORM.md) phase 1 |
 
-Related: [Katehild Eirhei](KATEHILD_EIRHEI.md) · [Relationships](RELATIONSHIPS.md) · [Squadron Gameplay](../GAME_DESIGN/SQUADRON_AND_WINGMEN.md)
+Related: [Katehild Eirhei](KATEHILD_EIRHEI.md) · [Relationships](RELATIONSHIPS.md) · [Squadron Gameplay](SQUADRON_AND_WINGMEN.md)
 
 ---
 
@@ -58,9 +63,9 @@ The F-35C rewards exactly what he has built his life around: sensor fusion over 
 
 | Mission | Beat |
 |---|---|
-| [M01 Four of a Kind](../MISSIONS/M01_FOUR_OF_A_KIND.md) | Marsh pulls him off a missile. He publicly acknowledges a tactical error for the first time. |
-| [M02 Glass Ferry](../MISSIONS/M02_GLASS_FERRY.md) | "Cleared." One word against his own doctrine. |
-| [M05 Shrinkage](../MISSIONS/M05_SHRINKAGE.md) | He has the aircraft in sight and must order the flight to let it go, because doctrine says pursuit is what it wants. He gives the correct order and hates it. |
-| [M07 Thirty Kilometers](../MISSIONS/M07_THIRTY_KILOMETERS.md) | He signs the Tier 3 authorization and writes in the margin that he was briefed. |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | He holds the squadron dark for forty minutes while the aircraft refuels below. When the moment comes, nobody can translate for him. He gives the order himself. |
+| [M01 Four of a Kind](M01_FOUR_OF_A_KIND.md) | Marsh pulls him off a missile. He publicly acknowledges a tactical error for the first time. |
+| [M02 Glass Ferry](M02_GLASS_FERRY.md) | "Cleared." One word against his own doctrine. |
+| [M05 Shrinkage](M05_SHRINKAGE.md) | He has the aircraft in sight and must order the flight to let it go, because doctrine says pursuit is what it wants. He gives the correct order and hates it. |
+| [M07 Thirty Kilometers](M07_THIRTY_KILOMETERS.md) | He signs the Tier 3 authorization and writes in the margin that he was briefed. |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | He holds the squadron dark for forty minutes while the aircraft refuels below. When the moment comes, nobody can translate for him. He gives the order himself. |
 | Final circle | He does not pass. For the first time he talks about his father: one sentence. |

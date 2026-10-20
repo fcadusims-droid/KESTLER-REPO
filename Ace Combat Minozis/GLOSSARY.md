@@ -1,3 +1,8 @@
+---
+section: "08 · Reference"
+order: 58
+---
+
 # Glossary
 
 Related: [Continuity Bible](CONTINUITY_BIBLE.md) · [Canon Sources](CANON_SOURCES.md)

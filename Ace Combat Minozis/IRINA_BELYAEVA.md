@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 29
+---
+
 # Irina "Ira" Antonovna Belyaeva
 
 > "Papa said courage is fear that remembers what matters. I used to think that meant he was brave. Now I think it means he was afraid every day and no one let him stop."
@@ -9,7 +14,7 @@
 | Task Force role | Voice-cadence analyst for disputed POSTHUMUS transmissions |
 | Playable | No |
 
-Related: [Anton Belyaev](ANTON_BELYAEV.md) · [Yekaterina Belyaeva](YEKATERINA_BELYAEVA.md) · [UI, HUD and Audio](../GAME_DESIGN/UI_HUD_AND_AUDIO.md) · [M06 Harbor](../MISSIONS/M06_HARBOR.md)
+Related: [Anton Belyaev](ANTON_BELYAEV.md) · [Yekaterina Belyaeva](YEKATERINA_BELYAEVA.md) · [UI, HUD and Audio](UI_HUD_AND_AUDIO.md) · [M06 Harbor](M06_HARBOR.md)
 
 ---
 
@@ -43,9 +48,9 @@ This is never resolved in the campaign. It hangs over the epilogue.
 
 | Stage | Beat |
 |---|---|
-| [I01 Falcon Two](../MISSIONS/I01_FALCON_TWO.md) debrief | Her cadence assessment reaches Vance: 81%. |
-| [M06 Harbor](../MISSIONS/M06_HARBOR.md) | She is aboard the transport. On the open channel she hears a fragment from the household archive in her father's voice. She grades it in real time, out loud, for the pilots: "That's not him. That's a recording. That one... I don't know." |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | She runs the cadence classifier during Katya's transmission. At the moment the cadence match on the aircraft's reply reaches its highest value of the war, she switches the readout off before the number settles. She will not let the machine decide for her who her father is. |
+| [I01 Falcon Two](I01_FALCON_TWO.md) debrief | Her cadence assessment reaches Vance: 81%. |
+| [M06 Harbor](M06_HARBOR.md) | She is aboard the transport. On the open channel she hears a fragment from the household archive in her father's voice. She grades it in real time, out loud, for the pilots: "That's not him. That's a recording. That one... I don't know." |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | She runs the cadence classifier during Katya's transmission. At the moment the cadence match on the aircraft's reply reaches its highest value of the war, she switches the readout off before the number settles. She will not let the machine decide for her who her father is. |
 | Epilogue | 18 June 2029, her twenty-second birthday. |
 
 ## 6. Writing Irina

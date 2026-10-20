@@ -1,17 +1,23 @@
+---
+section: "00 · Vision"
+description: "What the game is, how its two halves differ, and the design principles everything else follows."
+order: 1
+---
+
 # Premise and Identity
 
 ## The game
 
 *Need for Speed: Beyond* is a racing game built around two halves of the same car culture:
 
-- **Nitroit** — the illegal street scene of an open-world American industrial city. See [Nitroit](../world/nitroit.md).
-- **The Revada Festival** — a months-long sanctioned racing festival held across the state of **Revada**, a day's drive west. See [Revada](../world/revada.md) and [the festival](../festival/overview.md).
+- **Nitroit** — the illegal street scene of an open-world American industrial city. See [Nitroit](nitroit.md).
+- **The Revada Festival** — a months-long sanctioned racing festival held across the state of **Revada**, a day's drive west. See [Revada](revada.md) and [the festival](overview.md).
 
-Nitroit is the core experience and occupies Acts 1 to 5. Festival competition unlocks only in the Epilogue, after the main story concludes, and functions as a second, parallel career. Jake first drives to Revada at the end of Act 4, and Act 5 is spent assembling what it takes to enter. See [Campaign](../story/campaign.md).
+Nitroit is the core experience and occupies Acts 1 to 5. Festival competition unlocks only in the Epilogue, after the main story concludes, and functions as a second, parallel career. Jake first drives to Revada at the end of Act 4, and Act 5 is spent assembling what it takes to enter. See [Campaign](campaign.md).
 
-Both halves run on one simcade driving model. The game does not switch physics when the player crosses from street to circuit. See [Driving and damage](../systems/driving-and-damage.md).
+Both halves run on one simcade driving model. The game does not switch physics when the player crosses from street to circuit. See [Driving and damage](driving-and-damage.md).
 
-**It is a single-player game.** There is no competitive multiplayer, no lobbies and no real-time racing against other players. Its online component is entirely asynchronous: players never meet, and contribute to each other's games only by leaving behind cars they built. See [Blueprint Network](../systems/blueprint-network.md).
+**It is a single-player game.** There is no competitive multiplayer, no lobbies and no real-time racing against other players. Its online component is entirely asynchronous: players never meet, and contribute to each other's games only by leaving behind cars they built. See [Blueprint Network](blueprint-network.md).
 
 **The title** refers to the protagonist's arc: he conquers everything inside the world he built for himself, and then has to go past it.
 
@@ -49,10 +55,10 @@ The two halves share a physics model and nothing else.
 - The festival supplies no cars and no people. Every car in it was earned on the street, every person on the team was met there, and its prize money never covers a season.
 - A driver can own the city alone. Nobody enters the festival alone: registration is by team, and the roster is built from relationships, not money.
 - The online layer is asynchronous and cooperative: players hand each other builds, never races.
-- Almost nothing in the game is permanently lost: not money, not progress, not relationships past repair, and no car — except one the state auctions because Jake had no money, no credit, no other car and no friend to lend him one ([Impound](../systems/police.md#when-jake-has-nothing-else-to-drive)).
+- Almost nothing in the game is permanently lost: not money, not progress, not relationships past repair, and no car — except one the state auctions because Jake had no money, no credit, no other car and no friend to lend him one ([Impound](police.md#when-jake-has-nothing-else-to-drive)).
 
 ## Thesis
 
-The game never argues that street racing is morally lesser than sanctioned racing, or the reverse. It argues that Jake chose one over the other for a reason that has nothing to do with racing. The central transformation is not that he stops being a street racer; it is that he stops racing out of fear. See [Backstory](../story/backstory.md#the-inversion).
+The game never argues that street racing is morally lesser than sanctioned racing, or the reverse. It argues that Jake chose one over the other for a reason that has nothing to do with racing. The central transformation is not that he stops being a street racer; it is that he stops racing out of fear. See [Backstory](backstory.md#the-inversion).
 
 The streets were never the wrong answer. The reason he was in them was. The street is where he found out who he was; the circuit is where he stopped being afraid of it; the contract at the end is the first thing he ever chose without fear choosing it for him.

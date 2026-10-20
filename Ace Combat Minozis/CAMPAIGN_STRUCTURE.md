@@ -1,6 +1,11 @@
+---
+section: "06 · Narrative"
+order: 42
+---
+
 # Campaign Structure
 
-Related: [Mission Index](../MISSIONS/MISSION_INDEX.md) · [Story Synopsis](STORY_SYNOPSIS.md) · [Core Gameplay](../GAME_DESIGN/CORE_GAMEPLAY.md)
+Related: [Mission Index](MISSION_INDEX.md) · [Story Synopsis](STORY_SYNOPSIS.md) · [Core Gameplay](CORE_GAMEPLAY.md)
 
 ---
 
@@ -57,17 +62,17 @@ Rules for POV design:
 | M08 | Close attack on a defended target; illumination |
 | M09 | Every system it has, failing |
 
-The player learns the encounter's rules in the order the Task Force learned them, and the [Intelligence Ledger](../GAME_DESIGN/CORE_GAMEPLAY.md#5-the-intelligence-ledger) records each lesson as a dossier entry whose confidence grade rises as the player gathers evidence.
+The player learns the encounter's rules in the order the Task Force learned them, and the [Intelligence Ledger](CORE_GAMEPLAY.md#5-the-intelligence-ledger) records each lesson as a dossier entry whose confidence grade rises as the player gathers evidence.
 
 ## 4. Between Missions
 
 Each mission is framed by up to five beats aboard *Albatross* (or at the POV character's location):
 
 1. **Briefing.** Delivered by the Task Force cell over dossier pages, with Vance adding pilot-level warnings from Act II onward.
-2. **Training.** After M04, M05, M06, M07 and M08, a short simulator scene aboard *Albatross* shows one pilot drilling against the Ledger's threat model. That pilot uses the drill in the next mission. See [Adaptive Progression](../GAME_DESIGN/ADAPTIVE_PROGRESSION.md#3-training-scenes).
-3. **Hangar.** Aircraft, loadout, parts and doctrine modules; see [Progression and Hangar](../GAME_DESIGN/PROGRESSION_AND_HANGAR.md).
+2. **Training.** After M04, M05, M06, M07 and M08, a short simulator scene aboard *Albatross* shows one pilot drilling against the Ledger's threat model. That pilot uses the drill in the next mission. See [Adaptive Progression](ADAPTIVE_PROGRESSION.md#3-training-scenes).
+3. **Hangar.** Aircraft, loadout, parts and doctrine modules; see [Progression and Hangar](PROGRESSION_AND_HANGAR.md).
 4. **Sortie.**
-5. **The circle.** Eirhei's post-mission ritual, played as a short scene. The POV pilot chooses what to name. Choices affect squadron cohesion (see [Squadron and Wingmen](../GAME_DESIGN/SQUADRON_AND_WINGMEN.md)) and unlock dialogue in later circles. They do not change the plot.
+5. **The circle.** Eirhei's post-mission ritual, played as a short scene. The POV pilot chooses what to name. Choices affect squadron cohesion (see [Squadron and Wingmen](SQUADRON_AND_WINGMEN.md)) and unlock dialogue in later circles. They do not change the plot.
 
 Interlude missions replace the circle with a single scene for the interlude character.
 
@@ -100,6 +105,6 @@ Ace Combat's tradition is a fixed plot with personal variation. This campaign fo
 | Optional objectives (civilian protection, evidence capture) | Ledger confidence upgrades; debrief lines |
 | Firing discipline in I01 | If the player attempts a lock, the flight lead's rebuke and the aircraft's reaction change; the outcome does not |
 | Ledger reading | Optional entries unlock extended briefings and the final epilogue paragraphs |
-| Scenes, sorties and drills | Squadron lessons and enemy counter-adaptations ([Adaptive Progression](../GAME_DESIGN/ADAPTIVE_PROGRESSION.md)); they change how missions play, never how they end |
+| Scenes, sorties and drills | Squadron lessons and enemy counter-adaptations ([Adaptive Progression](ADAPTIVE_PROGRESSION.md)); they change how missions play, never how they end |
 
 No choice changes who lives or dies among named characters. The story's thesis depends on outcomes the player cannot optimize away.

@@ -1,3 +1,9 @@
+---
+section: "02 · World"
+description: "Where the street scene came from, the seven crews and their entry rules, taking, leading and defending districts, and street culture."
+order: 9
+---
+
 # The Street Scene
 
 ## Where the scene came from
@@ -27,7 +33,7 @@ The city grew in waves: the port, then the mills that fed on it, then the iron m
 
 ## Districts and crews
 
-The city has **seven districts**, each controlled by a crew. Each crew is a complete competitive identity: discipline, machinery, entry rules, and a reason for existing. A district is a filter as much as a region: what the player may bring into it decides what they must build to win there, and no two districts ask for the same car. Classes are defined in [Cars and building](../systems/cars-and-building.md#vehicle-classes). Leaders are listed in [Cast](../story/cast.md#crew-leaders).
+The city has **seven districts**, each controlled by a crew. Each crew is a complete competitive identity: discipline, machinery, entry rules, and a reason for existing. A district is a filter as much as a region: what the player may bring into it decides what they must build to win there, and no two districts ask for the same car. Classes are defined in [Cars and building](cars-and-building.md#vehicle-classes). Leaders are listed in [Cast](cast.md#crew-leaders).
 
 ### Dockline — The Docks
 
@@ -91,14 +97,14 @@ The city has **seven districts**, each controlled by a crew. Each crew is a comp
 - **Entry rules:** No class restriction. The car must pass the **Riverside check** below.
 - **Philosophy:** The only crew that does not care how fast the car is, and the only one that will refuse the player's best car outright. It forces a player who has been optimising numbers to make something on purpose.
 
-**The Riverside check.** A car is admitted if it meets the event's Presentation threshold ([Presentation](../systems/cars-and-building.md#presentation)) and fails **none** of these:
+**The Riverside check.** A car is admitted if it meets the event's Presentation threshold ([Presentation](cars-and-building.md#presentation)) and fails **none** of these:
 
 | Condition | Fails if |
 |---|---|
 | **Finish** | Any panel is unpainted, primer, mismatched in shade, or still wearing a previous colour |
 | **Kit integrity** | Front, rear and side bodywork come from different kits, or a kit is partially fitted |
 | **Stance** | Wheel diameter, tyre profile and ride height are not set to one another — wheel gap, stretch or poke outside a stated band |
-| **Damage** | Any unrepaired visible damage ([Damage](../systems/driving-and-damage.md#damage-in-the-city)) |
+| **Damage** | Any unrepaired visible damage ([Damage](driving-and-damage.md#damage-in-the-city)) |
 | **Interior** | The boot is built out but the interior is untouched, or the reverse |
 | **Intent** | Fewer than three of the six customisation categories (body, finish, lighting, wheels, interior, boot) have been touched |
 
@@ -116,11 +122,11 @@ Every condition is shown at the gate with a pass or fail, and the failing item i
 
 **The friction.** This is the crew the rest of the city has a real problem with, and the only friction in Nitroit about something other than driving. A Dockline racer whose father works a Meridian family's terminal is not neutral about racing that family's son. The game does not resolve this, does not make Meridian villains, and does not make them stupid: several are genuinely quick. It notes only that they never had to be anything else.
 
-**Meridian is illegal like everything else in the city.** No marshals, scrutineers, timing officials or rulebook — only a gate, a class restriction, and enough private money that the police in The Heights are slower to arrive and less interested when they do. It is the least policed district and the one with the most expensive consequences for being caught ([Impound](../systems/police.md#impound)).
+**Meridian is illegal like everything else in the city.** No marshals, scrutineers, timing officials or rulebook — only a gate, a class restriction, and enough private money that the police in The Heights are slower to arrive and less interested when they do. It is the least policed district and the one with the most expensive consequences for being caught ([Impound](police.md#impound)).
 
 **It is the last district in the campaign and the hardest wall in the city.** Hypercars are the most expensive thing the game sells, so taking The Heights is where street winnings stop being spending money and become capital.
 
-**Meridian supplies no drivers and no mechanics to a festival team.** Its members have no festival discipline and no interest in working for anyone. A Loyal Meridian contact offers money instead: sponsorship of the team's salaries for a season ([Team](../festival/team.md#salaries)). It is the only district whose relationships convert into funding rather than personnel.
+**Meridian supplies no drivers and no mechanics to a festival team.** Its members have no festival discipline and no interest in working for anyone. A Loyal Meridian contact offers money instead: sponsorship of the team's salaries for a season ([Team](team.md#salaries)). It is the only district whose relationships convert into funding rather than personnel.
 
 ## Territorial rule
 
@@ -131,7 +137,7 @@ Every condition is shown at the gate with a pass or fail, and the failing item i
 - whether outsiders may enter at all;
 - the entry rules — class ceilings and floors, drivetrain requirements, aspiration limits, aero and nitrous rules.
 
-**Entry rules are checked at the gate, not enforced technically.** No one inspects the car. The crew looks at it, reads its class and build, and waves it through or does not. A player who wants into a restricted event brings a car that fits or detunes one that does ([Detuning](../systems/cars-and-building.md#vehicle-classes)).
+**Entry rules are checked at the gate, not enforced technically.** No one inspects the car. The crew looks at it, reads its class and build, and waves it through or does not. A player who wants into a restricted event brings a car that fits or detunes one that does ([Detuning](cars-and-building.md#vehicle-classes)).
 
 ### Taking a district
 
@@ -150,20 +156,20 @@ What limits him is the car, not his reputation: every race in the hierarchy is h
 | **Recognition** | NPCs in the district treat him as its leader in dialogue. |
 | **Challenges** — the obligation | Ranked racers of the district can challenge the leader for it ([Defending a district](#defending-a-district)). |
 
-The district's other house rules — which event types run, its class, drivetrain, aspiration, aero and nitrous rules — stay as the crew set them. They are the district's identity, and Jake leads it without rewriting it. This is the authority the game deliberately does not grant him in the festival ([Who makes the rules](../festival/overview.md#who-makes-the-rules)).
+The district's other house rules — which event types run, its class, drivetrain, aspiration, aero and nitrous rules — stay as the crew set them. They are the district's identity, and Jake leads it without rewriting it. This is the authority the game deliberately does not grant him in the festival ([Who makes the rules](overview.md#who-makes-the-rules)).
 
 ### Defending a district
 
 - **A challenge** comes from a ranked racer of the district's crew, delivered by phone. Challenges arrive about once every fourteen in-game days, and sooner — after seven — if Jake has not raced in the district in that time.
 - **Jake has three in-game days to answer.** A challenge left unanswered forfeits the district.
 - **The challenge is one race**, in the district's discipline and under its entry rules.
-- **Winning keeps the district**; losing hands it to the challenger. Defending is REP-neutral either way ([REP changes](../systems/reputation.md#rep-changes)) — there is no gain, only loss avoided. Commission stops the moment the district is lost.
+- **Winning keeps the district**; losing hands it to the challenger. Defending is REP-neutral either way ([REP changes](reputation.md#rep-changes)) — there is no gain, only loss avoided. Commission stops the moment the district is lost.
 
 ### Who leads a crew
 
 - **A lost district goes to whoever took it from Jake.** The challenger becomes the crew's new leader, and its final race.
 - **Retaking a district means beating its new leader.** The hierarchy does not have to be beaten again; Jake already beat it once.
-- **The original leaders keep their place in the story.** Delia Ward, Tomás Ferreira and the others stay in their crews as ranked members after Jake takes their district. Each keeps their Invitational, their crew storyline and their place as a recruitable festival driver, whoever is leading the crew at the time ([Cast](../story/cast.md#crew-leaders)).
+- **The original leaders keep their place in the story.** Delia Ward, Tomás Ferreira and the others stay in their crews as ranked members after Jake takes their district. Each keeps their Invitational, their crew storyline and their place as a recruitable festival driver, whoever is leading the crew at the time ([Cast](cast.md#crew-leaders)).
 
 ## Street culture
 

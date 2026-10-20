@@ -1,3 +1,8 @@
+---
+section: "04 · Technology"
+order: 25
+---
+
 # MRS-144 Morgenstern
 
 **Owner:** Enso Order
@@ -6,7 +11,7 @@
 **Operational:** March 2028
 **Public cover:** passive mirror constellation; orbital solar-reflection and power-relay demonstrator
 
-Related: [Enso Order](../FACTIONS/ENSO_ORDER.md) · [Althéa Lichtträger](../../CHARACTERS/ALTHEA_LICHTTRAGER.md) · [Hans Lichtträger](../../CHARACTERS/HANS_LICHTTRAGER.md) · [M08 Light-Bearer](../../MISSIONS/M08_LIGHT_BEARER.md)
+Related: [Enso Order](ENSO_ORDER.md) · [Althéa Lichtträger](ALTHEA_LICHTTRAGER.md) · [Hans Lichtträger](HANS_LICHTTRAGER.md) · [M08 Light-Bearer](M08_LIGHT_BEARER.md)
 
 ---
 
@@ -51,7 +56,7 @@ Morgenstern is visible before it fires. The "Morning Star" appears in the sky mi
 
 ### Low-power illumination
 
-At a fraction of strike power, a partial convergence produces a moving column of intense light and a thermal field the constellation's own sensors can read. Against an aircraft using plasma stealth, it does what radar cannot: it shows where the glow is. Althéa first uses the constellation this way in [M08 Light-Bearer](../../MISSIONS/M08_LIGHT_BEARER.md).
+At a fraction of strike power, a partial convergence produces a moving column of intense light and a thermal field the constellation's own sensors can read. Against an aircraft using plasma stealth, it does what radar cannot: it shows where the glow is. Althéa first uses the constellation this way in [M08 Light-Bearer](M08_LIGHT_BEARER.md).
 
 ## 3. Biometric Quantum Authentication Key
 

@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 31
+---
+
 # Captain Mara "Wraith" Vance
 
 > "I killed the pilot. The machine kept flying. That is the part no board can clear me of."
@@ -10,7 +15,7 @@
 | Status | Active; doctrine contributor; theater liaison to the Task Force |
 | Playable | Interlude I and the final phase of the finale |
 
-Related: [I01 Falcon Two](../MISSIONS/I01_FALCON_TWO.md) · [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) · [Anton Belyaev](ANTON_BELYAEV.md) · [Relationships](RELATIONSHIPS.md)
+Related: [I01 Falcon Two](I01_FALCON_TWO.md) · [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) · [Anton Belyaev](ANTON_BELYAEV.md) · [Relationships](RELATIONSHIPS.md)
 
 ---
 
@@ -48,11 +53,11 @@ The Task Force assesses her as a casualty of the program who happens to still be
 
 | Stage | Beat |
 |---|---|
-| [P00 Moroz](../MISSIONS/P00_MOROZ.md) | Seen from the cockpit she is about to destroy: Falcon 2, degraded, closing for a gun pass. |
-| [I01 Falcon Two](../MISSIONS/I01_FALCON_TWO.md) | The player flies as Vance for the first time. The aircraft asks her the question. The player cannot fire without breaking formation discipline, and the mission ends without a shot. |
+| [P00 Moroz](P00_MOROZ.md) | Seen from the cockpit she is about to destroy: Falcon 2, degraded, closing for a gun pass. |
+| [I01 Falcon Two](I01_FALCON_TWO.md) | The player flies as Vance for the first time. The aircraft asks her the question. The player cannot fire without breaking formation discipline, and the mission ends without a shot. |
 | Act II | She is the Task Force liaison aboard *Albatross*. She and Thorne understand each other immediately and say almost nothing. Eirhei is the only one who asks her how she is. |
 | Before M09 | Katya Belyaeva tells her nobody in the family ever blamed her. She does not accept it. |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | Final phase, four years to the minute after the first shot, over the same sector, with the same gun. This time she knows. When the aircraft asks again, she answers. |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | Final phase, four years to the minute after the first shot, over the same sector, with the same gun. This time she knows. When the aircraft asks again, she answers. |
 
 The closing exchange of the campaign is hers:
 

@@ -1,8 +1,14 @@
+---
+section: "01 · Game Design"
+description: "Roster and loadouts."
+order: 7
+---
+
 # Aircraft and Weapons
 
 The playable roster is limited to aircraft established in the project and present in Strangereal during this period. The roster is small by series standards because the campaign is built around specific pilots in specific aircraft.
 
-Related: [Flight and Combat](FLIGHT_AND_COMBAT.md) · [Progression and Hangar](PROGRESSION_AND_HANGAR.md) · [MNZ-41](../WORLD_AND_LORE/TECHNOLOGY/MNZ-41_MINOZIS.md)
+Related: [Flight and Combat](FLIGHT_AND_COMBAT.md) · [Progression and Hangar](PROGRESSION_AND_HANGAR.md) · [MNZ-41](MNZ-41_MINOZIS.md)
 
 ---
 

@@ -1,8 +1,14 @@
+---
+section: "02 · World and Lore"
+description: "1995 to 2040."
+order: 12
+---
+
 # Master Timeline
 
-Entries marked **[C]** are Ace Combat canon. Unmarked entries belong to this project. All project entries are consistent with the [Continuity Bible](../REFERENCE/CONTINUITY_BIBLE.md).
+Entries marked **[C]** are Ace Combat canon. Unmarked entries belong to this project. All project entries are consistent with the [Continuity Bible](CONTINUITY_BIBLE.md).
 
-Related: [Canon Foundation](CANON_FOUNDATION.md) · [Geopolitics 2019–2029](GEOPOLITICS_2019_2029.md) · [Mission Index](../MISSIONS/MISSION_INDEX.md)
+Related: [Canon Foundation](CANON_FOUNDATION.md) · [Geopolitics 2019–2029](GEOPOLITICS_2019_2029.md) · [Mission Index](MISSION_INDEX.md)
 
 ---
 

@@ -1,3 +1,9 @@
+---
+section: "04 · The Festival"
+description: "The technical rulebook enforced at scrutineering."
+order: 27
+---
+
 # Regulations
 
 Every festival event has an entry specification. A car that does not meet it cannot be registered, and the player is told exactly which regulation it fails at the registration screen — never mid-event. The discipline's mechanic catches breaches before registration, to the degree their Expertise allows ([Mechanics](mechanics.md#expertise)).
@@ -19,7 +25,7 @@ Every festival event has an entry specification. A car that does not meet it can
 
 - Minimum weight by class
 - Nitrous prohibited in every discipline except Drag
-- Class assignment by the same performance index the city uses ([Vehicle classes](../systems/cars-and-building.md#vehicle-classes))
+- Class assignment by the same performance index the city uses ([Vehicle classes](cars-and-building.md#vehicle-classes))
 
 ## Visual and interior regulations
 

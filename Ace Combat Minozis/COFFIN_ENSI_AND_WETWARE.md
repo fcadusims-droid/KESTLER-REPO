@@ -1,8 +1,13 @@
+---
+section: "04 · Technology"
+order: 23
+---
+
 # COFFIN, ENSI and the Wetware
 
 How a cockpit became a connection, and how the connection became a body.
 
-Related: [MNZ-41](MNZ-41_MINOZIS.md) · [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md) · [Anton Belyaev](../../CHARACTERS/ANTON_BELYAEV.md) · [Canon Foundation](../CANON_FOUNDATION.md)
+Related: [MNZ-41](MNZ-41_MINOZIS.md) · [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md) · [Anton Belyaev](ANTON_BELYAEV.md) · [Canon Foundation](CANON_FOUNDATION.md)
 
 ---
 
@@ -83,7 +88,7 @@ The organoids give MINOZIS something pure silicon lacks: intuitive ambiguity pro
 
 Organoid neurites have grown outward along the ENSI peripheral leads into an integration lattice that extends down both arms to the hands. Around the ring finger of the left hand the lattice stops. The platinum band, overgrown by skin, has produced a 2-millimeter dead zone the neurites do not cross. It is the only part of Belyaev's body the machine physically works around.
 
-Operational reading: foreign-object exclusion. Symbolic reading: the last boundary. Both can be true. See [Personal Effects](../../CHARACTERS/ANTON_BELYAEV.md#7-personal-effects).
+Operational reading: foreign-object exclusion. Symbolic reading: the last boundary. Both can be true. See [Personal Effects](ANTON_BELYAEV.md#7-personal-effects).
 
 ## 7. Pain Analogs
 

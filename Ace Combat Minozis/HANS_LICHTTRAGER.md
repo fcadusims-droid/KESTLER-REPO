@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 37
+---
+
 # Dr. Hans Lichtträger
 
 > "You do not become your tools. Your tools become you. And when the tool is large enough, it does not make you larger. It makes you distributed, thin, and unrecognizable to yourself."
@@ -10,7 +15,7 @@
 | Status | Requested asylum through Yuktobanian External Intelligence, February 2029 |
 | Playable | No |
 
-Related: [Althéa Lichtträger](ALTHEA_LICHTTRAGER.md) · [MRS-144 Morgenstern](../WORLD_AND_LORE/TECHNOLOGY/MRS-144_MORGENSTERN.md) · [Enso Order](../WORLD_AND_LORE/FACTIONS/ENSO_ORDER.md)
+Related: [Althéa Lichtträger](ALTHEA_LICHTTRAGER.md) · [MRS-144 Morgenstern](MRS-144_MORGENSTERN.md) · [Enso Order](ENSO_ORDER.md)
 
 ---
 
@@ -39,8 +44,8 @@ Hans is the person who built a weapon around his child and then asked strangers 
 | Stage | Beat |
 |---|---|
 | Feb 2029 | Asylum request and proposal |
-| [I02 Phantom Limbs](../MISSIONS/I02_PHANTOM_LIMBS.md) | His recorded message precedes the Ghost Interference files on the data package Althéa receives. She skips his message and plays the files. |
-| [M08 Light-Bearer](../MISSIONS/M08_LIGHT_BEARER.md) | He listens to the mission on the Task Force's relay. He is not given a channel. |
+| [I02 Phantom Limbs](I02_PHANTOM_LIMBS.md) | His recorded message precedes the Ghost Interference files on the data package Althéa receives. She skips his message and plays the files. |
+| [M08 Light-Bearer](M08_LIGHT_BEARER.md) | He listens to the mission on the Task Force's relay. He is not given a channel. |
 | After M09 | He asks whether she will see him. The record ends before she answers. |
 
 ## 5. Writing Hans

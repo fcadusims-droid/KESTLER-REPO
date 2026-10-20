@@ -1,3 +1,9 @@
+---
+section: "01 · Game Design"
+description: "Flight model, controls, damage, signature mechanics."
+order: 3
+---
+
 # Flight and Combat
 
 Related: [Core Gameplay](CORE_GAMEPLAY.md) · [Aircraft and Weapons](AIRCRAFT_AND_WEAPONS.md) · [UI, HUD and Audio](UI_HUD_AND_AUDIO.md)

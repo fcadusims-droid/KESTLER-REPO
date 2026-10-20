@@ -1,3 +1,8 @@
+---
+section: "03 · Factions"
+order: 16
+---
+
 # Directorate Zimniy
 
 **Also filed as:** the Shadow Faction (Osean and Yuktobanian post-purge files)
@@ -5,7 +10,7 @@
 **Active:** circa 2011–2027
 **Status:** purged March 2027
 
-Related: [Vasily Gorev](../../CHARACTERS/VASILY_GOREV.md) · [Operation Winter King](../OPERATION_WINTER_KING.md) · [MNZ-41](../TECHNOLOGY/MNZ-41_MINOZIS.md) · [Supporting Cast](../../CHARACTERS/SUPPORTING_CAST.md)
+Related: [Vasily Gorev](VASILY_GOREV.md) · [Operation Winter King](OPERATION_WINTER_KING.md) · [MNZ-41](MNZ-41_MINOZIS.md) · [Supporting Cast](SUPPORTING_CAST.md)
 
 ---
 

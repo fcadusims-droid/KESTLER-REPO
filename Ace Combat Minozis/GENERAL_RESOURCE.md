@@ -1,9 +1,14 @@
+---
+section: "03 · Factions"
+order: 19
+---
+
 # General Resource Ltd.
 
 **Canon status:** canonical megacorporation (AC3, AC6, AC7, Ace Combat Advance)
 **Position in 2028–2029:** a large defense, industrial and finance conglomerate with private air units, significant reconstruction collateral, and a secret neural-interface program. Not yet the global hegemon it becomes after absorbing Enso Order's assets in 2030.
 
-Related: [Canon Foundation](../CANON_FOUNDATION.md) · [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md) · [Enso Order](ENSO_ORDER.md) · [MNZ-41](../TECHNOLOGY/MNZ-41_MINOZIS.md)
+Related: [Canon Foundation](CANON_FOUNDATION.md) · [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md) · [Enso Order](ENSO_ORDER.md) · [MNZ-41](MNZ-41_MINOZIS.md)
 
 ---
 
@@ -61,6 +66,6 @@ In canon, this is what happens. In 2030 GR inherits DOE outright with the rest o
 |---|---|
 | Reconstruction finance | The largest corporate creditor outside the eastern Usean debt trap; holds collateral in orbital slots, launch access and mineral concessions |
 | Private air units | GR has fielded mercenary air units since at least 2019. In the campaign they appear only as recovery teams shadowing the Task Force's operations |
-| Glubina cache | Background event; its consequences drive [M05 SHRINKAGE](../../MISSIONS/M05_SHRINKAGE.md) and the evidence available in Act II |
-| Operation ANCHOR | A GR recovery team waits outside the exclusion zone in [M09](../../MISSIONS/M09_ANCHOR_IN_THE_STORM.md). The aircraft goes through the ice before anyone can reach it |
+| Glubina cache | Background event; its consequences drive [M05 SHRINKAGE](M05_SHRINKAGE.md) and the evidence available in Act II |
+| Operation ANCHOR | A GR recovery team waits outside the exclusion zone in [M09](M09_ANCHOR_IN_THE_STORM.md). The aircraft goes through the ice before anyone can reach it |
 | After 2030 (canon) | GR absorbs Enso Order, including Morgenstern's data |

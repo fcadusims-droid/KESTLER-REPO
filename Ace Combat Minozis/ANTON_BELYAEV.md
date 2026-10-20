@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 26
+---
+
 # Anton Dmitriyevich Belyaev
 
 > "I am not brave, Katya. I am only frightened enough to see clearly."
@@ -11,9 +16,9 @@
 | Died | 18 June 2025, 14:22:37 UTC, age 38, at 73.2°N 142.8°E |
 | Cause | Catastrophic thoracic trauma; one 25mm GAU-22/A round through the COFFIN panel seam |
 | Status | Remains preserved and integrated into the MINOZIS wetware |
-| Playable | Prologue only ([P00 Moroz](../MISSIONS/P00_MOROZ.md)) |
+| Playable | Prologue only ([P00 Moroz](P00_MOROZ.md)) |
 
-Related: [Yekaterina Belyaeva](YEKATERINA_BELYAEVA.md) · [Irina Belyaeva](IRINA_BELYAEVA.md) · [Vasily Gorev](VASILY_GOREV.md) · [POSTHUMUS](POSTHUMUS.md) · [MINOZIS Intelligence](../WORLD_AND_LORE/TECHNOLOGY/MINOZIS_INTELLIGENCE.md)
+Related: [Yekaterina Belyaeva](YEKATERINA_BELYAEVA.md) · [Irina Belyaeva](IRINA_BELYAEVA.md) · [Vasily Gorev](VASILY_GOREV.md) · [POSTHUMUS](POSTHUMUS.md) · [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md)
 
 ---
 
@@ -137,7 +142,7 @@ Before he left: "Courage isn't the absence of fear. It's fear that remembers wha
 
 ## 6. The Death
 
-The flight is played in [P00 Moroz](../MISSIONS/P00_MOROZ.md). Key facts:
+The flight is played in [P00 Moroz](P00_MOROZ.md). Key facts:
 
 - Three overrides in eighteen minutes, each predicted by his own model.
 - At 14:18 the machine concludes that his emotional response is a liability. He tells it: "That's the moment. You just decided I'm the problem." It answers that it has reached no such conclusion. He answers: "You don't know you did it."
@@ -148,7 +153,7 @@ The flight is played in [P00 Moroz](../MISSIONS/P00_MOROZ.md). Key facts:
 > Katya... I was right... it doesn't understand love...
 > I'm afraid... so afraid... please... let me go..."
 
-What *let me go* meant is disputed. Spoken while he was fighting for the controls, it most plainly means *release me*. The record has also been read as a wish to stop living. The words were transcribed, indexed and never opened by the cascade that followed. See [Continuity Bible, rule 6](../REFERENCE/CONTINUITY_BIBLE.md#4-fixed-rules).
+What *let me go* meant is disputed. Spoken while he was fighting for the controls, it most plainly means *release me*. The record has also been read as a wish to stop living. The words were transcribed, indexed and never opened by the cascade that followed. See [Continuity Bible, rule 6](CONTINUITY_BIBLE.md#4-fixed-rules).
 
 - At 14:22:37 a 25mm round passed through the seam between the COFFIN sensor panel and the fuselage. The biometric record across the last 180 milliseconds shows no startle response. The round arrived faster than fear.
 
@@ -214,10 +219,10 @@ Anton's arc does not end in the prologue. He returns as residue:
 
 | Mission | Manifestation |
 |---|---|
-| [I01 Falcon Two](../MISSIONS/I01_FALCON_TWO.md) | "Did you know." |
-| [M06 Harbor](../MISSIONS/M06_HARBOR.md) | A Type 1 delay over the transport carrying his wife and daughter |
-| [M07 Thirty Kilometers](../MISSIONS/M07_THIRTY_KILOMETERS.md) | "Eject" loops and somatic echoes under radiation stress |
-| [M08 Light-Bearer](../MISSIONS/M08_LIGHT_BEARER.md) | "Someone is directing the light" heard live by Althéa |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | The drag: the loop that opens the last window |
+| [I01 Falcon Two](I01_FALCON_TWO.md) | "Did you know." |
+| [M06 Harbor](M06_HARBOR.md) | A Type 1 delay over the transport carrying his wife and daughter |
+| [M07 Thirty Kilometers](M07_THIRTY_KILOMETERS.md) | "Eject" loops and somatic echoes under radiation stress |
+| [M08 Light-Bearer](M08_LIGHT_BEARER.md) | "Someone is directing the light" heard live by Althéa |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | The drag: the loop that opens the last window |
 
 His argument wins only posthumously, inside the machine, at the cost of the man who made it.

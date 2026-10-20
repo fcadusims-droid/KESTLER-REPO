@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 51
+---
+
 # M05 — Shrinkage
 
 | Field | Data |
@@ -11,7 +16,7 @@
 | Type | Night intercept; restraint |
 | Time limit | 20 minutes |
 
-Related: [MNZ-41 fuel ladder](../WORLD_AND_LORE/TECHNOLOGY/MNZ-41_MINOZIS.md#4-the-fuel-ladder) · [Victor James Thorne](../CHARACTERS/VICTOR_JAMES_THORNE.md) · [MINOZIS Encounter Design](../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [MNZ-41 fuel ladder](MNZ-41_MINOZIS.md#4-the-fuel-ladder) · [Victor James Thorne](VICTOR_JAMES_THORNE.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 

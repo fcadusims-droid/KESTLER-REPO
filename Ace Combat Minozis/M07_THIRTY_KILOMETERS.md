@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 54
+---
+
 # M07 — Thirty Kilometers
 
 | Field | Data |
@@ -12,7 +17,7 @@
 | Type | Altitude denial; sustained pressure |
 | Time limit | 18 minutes |
 
-Related: [Counter-MINOZIS Task Force, Tier 3](../WORLD_AND_LORE/FACTIONS/COUNTER_MINOZIS_TASK_FORCE.md#tier-3-biological-and-environmental-stress) · [Hina Asano](../CHARACTERS/HINA_ASANO.md) · [COFFIN, ENSI and Wetware](../WORLD_AND_LORE/TECHNOLOGY/COFFIN_ENSI_AND_WETWARE.md#8-biological-failure-modes)
+Related: [Counter-MINOZIS Task Force, Tier 3](COUNTER_MINOZIS_TASK_FORCE.md#tier-3-biological-and-environmental-stress) · [Hina Asano](HINA_ASANO.md) · [COFFIN, ENSI and Wetware](COFFIN_ENSI_AND_WETWARE.md#8-biological-failure-modes)
 
 ---
 

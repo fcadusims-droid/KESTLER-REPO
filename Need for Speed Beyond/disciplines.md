@@ -1,3 +1,9 @@
+---
+section: "04 · The Festival"
+description: "The five disciplines, how each runs with two team cars, and the five-car requirement."
+order: 26
+---
+
 # Disciplines
 
 Five disciplines, each with its own ladder and points table ([Rank and championship](rank-and-championship.md)). Each discipline's technical rules are in [Regulations](regulations.md); race lengths are in [Season](season.md#race-length).
@@ -12,7 +18,7 @@ Five disciplines, each with its own ladder and points table ([Rank and champions
 
 ## Running order
 
-**Every festival event is entered by two cars from the same team**: the protagonist and his discipline teammate ([Team](team.md)). How those two cars run differs in every discipline, and is part of what each discipline is. Personalities are defined in [Relationships](../systems/relationships.md#personality).
+**Every festival event is entered by two cars from the same team**: the protagonist and his discipline teammate ([Team](team.md)). How those two cars run differs in every discipline, and is part of what each discipline is. Personalities are defined in [Relationships](relationships.md#personality).
 
 ### Sprint
 
@@ -122,6 +128,6 @@ The team total is the sum of both cars, so a teammate sacrificing his trap speed
 
 Beyond legality, each car is useless elsewhere anyway: a drift car is unusable at Speed velocities, a drag car cannot turn, and a Speed car's long gearing and heavy aero make it hopeless over a Sprint's corner sequence.
 
-**The player therefore maintains at least five separate cars**, each acquired in the city, each built and tuned for one discipline's rulebook. Converting one car between rulebooks is possible but costs workshop time ([Blueprints](../systems/cars-and-building.md#blueprints)), and a race date runs two to four disciplines on the same day, so a converted car could only ever cover one of them.
+**The player therefore maintains at least five separate cars**, each acquired in the city, each built and tuned for one discipline's rulebook. Converting one car between rulebooks is possible but costs workshop time ([Blueprints](cars-and-building.md#blueprints)), and a race date runs two to four disciplines on the same day, so a converted car could only ever cover one of them.
 
 This is the festival's real cost. Money earned in the city is not a score; it is the budget for five compliant cars and ten salaries ([Salaries](team.md#salaries)), and the player goes back to the streets to earn it. Teammates' own cars are covered in [Team](team.md#teammates-cars).

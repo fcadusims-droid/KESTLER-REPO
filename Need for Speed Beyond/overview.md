@@ -1,14 +1,20 @@
+---
+section: "04 · The Festival"
+description: "What the Revada Festival is, why it is hard, the shift in mindset it demands, and what carries over from the city."
+order: 22
+---
+
 # The Revada Festival
 
 ## What it is
 
-The **Revada Festival** is a large sanctioned motorsport event held across the state of [Revada](../world/revada.md), a day's drive west of Nitroit: grandstands, paddocks, scrutineering, official timing, sponsor presence, a rulebook.
+The **Revada Festival** is a large sanctioned motorsport event held across the state of [Revada](revada.md), a day's drive west of Nitroit: grandstands, paddocks, scrutineering, official timing, sponsor presence, a rulebook.
 
 It is **not** Formula 1, GT3, or any factory-backed professional series. There are no works teams, manufacturer programmes or driver contracts, and no homologated race cars built from the ground up for a rulebook.
 
-Nor is it a street meet with cones. It sits deliberately in between: **legal, organised, scrutineered, public — and not yet professional.** The *ProStreet* model: built road cars, not race cars ([Vehicle classes](../systems/cars-and-building.md#vehicle-classes)); private entrants, small independent teams and sponsored tuning shops; closed tracks, scheduled race days, a published rulebook, official timing, grandstands, and a championship at the top.
+Nor is it a street meet with cones. It sits deliberately in between: **legal, organised, scrutineered, public — and not yet professional.** The *ProStreet* model: built road cars, not race cars ([Vehicle classes](cars-and-building.md#vehicle-classes)); private entrants, small independent teams and sponsored tuning shops; closed tracks, scheduled race days, a published rulebook, official timing, grandstands, and a championship at the top.
 
-**It is open to the public, and it is a bridge rather than a destination.** Spectators buy tickets, the standings board is posted where anyone can read it, and professional teams send scouts. Nobody in the festival is at the top of the sport; a meaningful number are trying to get there, and a few will ([The invitation](../story/ending.md#the-invitation)).
+**It is open to the public, and it is a bridge rather than a destination.** Spectators buy tickets, the standings board is posted where anyone can read it, and professional teams send scouts. Nobody in the festival is at the top of the sport; a meaningful number are trying to get there, and a few will ([The invitation](ending.md#the-invitation)).
 
 It runs one edition a year, for several months, with events on scheduled official dates ([Season](season.md)). Its advertising reaches Nitroit before Jake has finished with the city, but registration only opens to him once he holds every district ([Registration](team.md#registration)).
 
@@ -25,7 +31,7 @@ It runs one edition a year, for several months, with events on scheduled officia
 
 ## Who makes the rules
 
-**In the festival, nobody the player can beat sets the rules.** This is the structural inversion of the city, where taking a district transfers rule-setting authority to the protagonist ([Territorial rule](../world/street-scene.md#territorial-rule)). Here the rules come from an organising body that does not race and cannot be challenged: class regulations, technical scrutineering, conduct penalties and scheduling are fixed and external.
+**In the festival, nobody the player can beat sets the rules.** This is the structural inversion of the city, where taking a district transfers rule-setting authority to the protagonist ([Territorial rule](street-scene.md#territorial-rule)). Here the rules come from an organising body that does not race and cannot be challenged: class regulations, technical scrutineering, conduct penalties and scheduling are fixed and external.
 
 The protagonist can win everything in the festival and never gain authority over it. That is the point.
 
@@ -38,7 +44,7 @@ The festival is the hardest content in the game, for six compounding reasons —
 3. **Every event is regulated.** Cars that are quick on the street are often illegal on the circuit. The player must bring a car that is legal for that discipline and class, and then make it as good as the rules permit.
 4. **Breadth is mandatory.** A team qualifies only if someone on it is competitive in every one of the five disciplines ([Qualification](rank-and-championship.md#qualification)). One exceptional car cannot carry the player; five compliant, purpose-built cars are the minimum ([The five-car requirement](disciplines.md#the-five-car-requirement)).
 5. **He cannot enter alone.** Registration is by team: five drivers and five mechanics, all named people recruited in the city ([Team](team.md)). The hardest entry requirement in the game is not a car or a lap time; it is ten people willing to put their season in the hands of a street racer.
-6. **The car is now simulated.** Tyres come up to temperature and fade, brakes fade in the long formats, and damage degrades the car live with no restart ([Simulation layer](../systems/driving-and-damage.md#the-simulation-layer)). None of this existed in the city. A player arriving from five acts of arcade street racing will lose their first festival event on the opening lap, on cold tyres, and not understand why.
+6. **The car is now simulated.** Tyres come up to temperature and fade, brakes fade in the long formats, and damage degrades the car live with no restart ([Simulation layer](driving-and-damage.md#the-simulation-layer)). None of this existed in the city. A player arriving from five acts of arcade street racing will lose their first festival event on the opening lap, on cold tyres, and not understand why.
 
 None of the six is an engineering problem. There is no pit wall, fuel number or stop to plan; every one is solved with the car moving ([What strategy means](season.md#what-strategy-means)).
 

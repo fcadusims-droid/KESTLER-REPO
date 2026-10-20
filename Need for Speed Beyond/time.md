@@ -1,3 +1,9 @@
+---
+section: "03 · Systems"
+description: "The continuous clock, what takes time, the festival race-date windows, and waiting between editions."
+order: 15
+---
+
 # Time
 
 **Time is the game's scarce resource, and the only one.** Money can be earned, cars bought, reputation rebuilt. Time cannot.
@@ -9,12 +15,12 @@
 | | |
 |---|---|
 | **Rate** | One in-game day lasts 24 real minutes. |
-| **Day and night** | Follow the clock. Night meets, radio dayparting and Umbra's sunset-to-sunrise schedule all run on it ([Radio](../world/radio.md)). |
+| **Day and night** | Follow the clock. Night meets, radio dayparting and Umbra's sunset-to-sunrise schedule all run on it ([Radio](radio.md)). |
 | **Week** | Seven in-game days. Rent, debt interest and district commission are settled weekly. |
 
 **The clock jumps in exactly two situations, and both are cutscenes:**
 
-1. **Travelling to and from Revada.** The drive is a non-interactive cutscene ([Revada](../world/revada.md#not-an-open-world)). Each direction advances the clock by one day.
+1. **Travelling to and from Revada.** The drive is a non-interactive cutscene ([Revada](revada.md#not-an-open-world)). Each direction advances the clock by one day.
 2. **Waiting for the next festival edition**, after a season ends ([Between editions](#between-editions)).
 
 There is no other skip, no sleep, and no "pass the day" option.
@@ -38,11 +44,11 @@ Acts 1 to 5 have no external deadline. The clock runs, Standing decays through n
 
 **Decay alone is the pressure.** Keeping a relationship alive means seeing that person at least once a fortnight of in-game time. Keeping twelve relationships eats most of the time the player would otherwise spend earning, building and racing; keeping five costs almost nothing. Nothing stops a determined player from maintaining more — it means doing less of everything else, and feeling the trade every time they drive across the city to talk to someone instead of winning an event.
 
-**The festival cannot be entered until Jake holds every district in Nitroit** ([Campaign](../story/campaign.md#the-festival-arrives)).
+**The festival cannot be entered until Jake holds every district in Nitroit** ([Campaign](campaign.md#the-festival-arrives)).
 
 ## During a season
 
-A festival season is **fourteen scheduled race dates across about three and a half months** of in-game time ([Season](../festival/season.md#the-season)). Between two dates the player is back in Nitroit for a **window of six to eight in-game days**, depending on the gap in the calendar.
+A festival season is **fourteen scheduled race dates across about three and a half months** of in-game time ([Season](season.md#the-season)). Between two dates the player is back in Nitroit for a **window of six to eight in-game days**, depending on the gap in the calendar.
 
 - **Two days of every window are the travel cutscenes**, one out to Revada and one back. They cannot be spent on anything else.
 - The rest — four to six in-game days, roughly an hour and a half to two and a half hours of play — is spent freely in Nitroit.
@@ -53,6 +59,6 @@ Revada has no clock time of its own beyond the race date: Jake arrives, races, a
 
 ## Between editions
 
-The festival runs one edition a year. A season ends when the team fails to qualify for the championship ([Qualification](../festival/rank-and-championship.md#qualification)) or when the championship is over.
+The festival runs one edition a year. A season ends when the team fails to qualify for the championship ([Qualification](rank-and-championship.md#qualification)) or when the championship is over.
 
-After a season ends, the player stays in Nitroit with no window limit — the clock runs, decay continues, and the city is fully available to earn money, build cars and repair relationships. **When the player is ready, they can choose to wait for the next edition**: a cutscene advances the clock to the opening of the next edition's registration, and a new season can be entered ([Team](../festival/team.md#registration)).
+After a season ends, the player stays in Nitroit with no window limit — the clock runs, decay continues, and the city is fully available to earn money, build cars and repair relationships. **When the player is ready, they can choose to wait for the next edition**: a cutscene advances the clock to the opening of the next edition's registration, and a new season can be entered ([Team](team.md#registration)).

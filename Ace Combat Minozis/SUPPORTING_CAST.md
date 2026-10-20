@@ -1,8 +1,13 @@
+---
+section: "05 · Characters"
+order: 38
+---
+
 # Supporting Cast
 
 Characters with a defined role but no independent arc in the campaign.
 
-Related: [Directorate Zimniy](../WORLD_AND_LORE/FACTIONS/DIRECTORATE_ZIMNIY.md) · [Relationships](RELATIONSHIPS.md) · [Continuity Bible](../REFERENCE/CONTINUITY_BIBLE.md)
+Related: [Directorate Zimniy](DIRECTORATE_ZIMNIY.md) · [Relationships](RELATIONSHIPS.md) · [Continuity Bible](CONTINUITY_BIBLE.md)
 
 ---
 

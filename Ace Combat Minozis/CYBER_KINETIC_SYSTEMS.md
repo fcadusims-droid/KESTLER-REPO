@@ -1,8 +1,14 @@
+---
+section: "01 · Game Design"
+description: "HUD integrity, datalinks, honeypots, compromised parts."
+order: 6
+---
+
 # Cyber-Kinetic Systems
 
 The aircraft fights the airbase before it fights the aircraft. These systems put that fight into the player's hands without turning the game into a hacking minigame.
 
-Related: [Cyber-Kinetic Warfare (lore)](../WORLD_AND_LORE/TECHNOLOGY/CYBER_KINETIC_WARFARE.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md) · [Progression and Hangar](PROGRESSION_AND_HANGAR.md)
+Related: [Cyber-Kinetic Warfare (lore)](CYBER_KINETIC_WARFARE.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md) · [Progression and Hangar](PROGRESSION_AND_HANGAR.md)
 
 ---
 

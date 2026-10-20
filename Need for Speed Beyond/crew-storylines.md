@@ -1,6 +1,12 @@
+---
+section: "01 · Story"
+description: "The nine personal storylines that lead to Loyal: one per crew leader and unaffiliated racer."
+order: 7
+---
+
 # Crew Storylines
 
-Each crew leader, and each of the two unaffiliated racers, has one personal storyline. Completing it is one of the sources of the final point to Loyal ([The ceiling on racing](../systems/relationships.md#the-ceiling-on-racing)), and for a crew leader it also raises their family's mechanic by one point ([Family ties](../systems/relationships.md#family-ties)).
+Each crew leader, and each of the two unaffiliated racers, has one personal storyline. Completing it is one of the sources of the final point to Loyal ([The ceiling on racing](relationships.md#the-ceiling-on-racing)), and for a crew leader it also raises their family's mechanic by one point ([Family ties](relationships.md#family-ties)).
 
 **How every storyline works:**
 
@@ -50,7 +56,7 @@ Each crew leader, and each of the two unaffiliated racers, has one personal stor
 2. **The scout.** Jake drives the Ring at night and calls the traffic patterns lap by lap — the clock decides which night is quiet enough.
 3. **The run.** Jake runs ahead of Dara through live traffic for a full loop, holding lanes open at speed. The run draws the police, and the heat it earns is Jake's.
 
-**Cost:** the parts, and a pursuit that adds to Jake's bounty ([The List](../systems/police.md#the-list)). **Result:** Dara reaches Loyal whether she makes the record or not — she is a Spike, and she wanted the attempt. Petra Novak rises by one.
+**Cost:** the parts, and a pursuit that adds to Jake's bounty ([The List](police.md#the-list)). **Result:** Dara reaches Loyal whether she makes the record or not — she is a Spike, and she wanted the attempt. Petra Novak rises by one.
 
 ## Bilal Haddad — The Yard
 
@@ -66,7 +72,7 @@ Each crew leader, and each of the two unaffiliated racers, has one personal stor
 
 **The cruise.** The Riverside boulevard cruise has run on the same night of the week for fifty years. Street racing on the side streets has brought patrols to the boulevard, and Mateo wants one cruise night with no police anywhere near it — to prove the cruise and the racing can live side by side.
 
-1. **The build.** Jake builds a car that passes the Riverside check at Presentation 5 ([The Riverside check](../world/street-scene.md#riverside--riverside)). Junie Castellanos inspects it before he is allowed on the boulevard.
+1. **The build.** Jake builds a car that passes the Riverside check at Presentation 5 ([The Riverside check](street-scene.md#riverside--riverside)). Junie Castellanos inspects it before he is allowed on the boulevard.
 2. **The week.** For the seven in-game days before the cruise, Jake starts no pursuit anywhere in Riverside.
 3. **The cruise.** Jake rides the full boulevard at cruise pace, in the line, with no racing and no police contact, start to finish.
 
@@ -80,7 +86,7 @@ Each crew leader, and each of the two unaffiliated racers, has one personal stor
 2. **The build.** Jake helps him build it into a C- or B-class car, with parts Jake pays for half of.
 3. **The race.** Adrian enters an Old Guard circuit event in it and races Jake straight. Whether Adrian wins or loses does not matter; whether Jake races him honestly does. Contact, or a deliberate lift, ends the step and it must be run again.
 
-**Cost:** half the build. **Result:** Adrian reaches Loyal, and with him Meridian's sponsorship becomes available ([Salaries](../festival/team.md#salaries)). He never learns that Jake refused a fortune of his own.
+**Cost:** half the build. **Result:** Adrian reaches Loyal, and with him Meridian's sponsorship becomes available ([Salaries](team.md#salaries)). He never learns that Jake refused a fortune of his own.
 
 ## Nadia Ferrante — unaffiliated
 

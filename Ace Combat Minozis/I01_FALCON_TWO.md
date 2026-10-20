@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 49
+---
+
 # I01 — Falcon Two
 
 | Field | Data |
@@ -10,7 +15,7 @@
 | Type | Patrol; contact without engagement |
 | Time limit | None |
 
-Related: [Mara Vance](../CHARACTERS/MARA_VANCE.md) · [Operation Winter King](../WORLD_AND_LORE/OPERATION_WINTER_KING.md#6-the-residual-class) · [UI, HUD and Audio](../GAME_DESIGN/UI_HUD_AND_AUDIO.md)
+Related: [Mara Vance](MARA_VANCE.md) · [Operation Winter King](OPERATION_WINTER_KING.md#6-the-residual-class) · [UI, HUD and Audio](UI_HUD_AND_AUDIO.md)
 
 ---
 

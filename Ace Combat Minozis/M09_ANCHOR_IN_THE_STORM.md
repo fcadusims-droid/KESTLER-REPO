@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 56
+---
+
 # M09 — Anchor in the Storm
 
 | Field | Data |
@@ -13,7 +18,7 @@
 | Type | Three-phase finale |
 | Time limit | Phase 1: none. Phases 2–3: scripted to 14:22 UTC |
 
-Related: [Story Synopsis](../NARRATIVE/STORY_SYNOPSIS.md#finale-anchor-in-the-storm-18-june-2029) · [MINOZIS Intelligence, the drag](../WORLD_AND_LORE/TECHNOLOGY/MINOZIS_INTELLIGENCE.md#7-the-drag) · [MINOZIS Encounter Design](../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [Story Synopsis](STORY_SYNOPSIS.md#finale-anchor-in-the-storm-18-june-2029) · [MINOZIS Intelligence, the drag](MINOZIS_INTELLIGENCE.md#7-the-drag) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 
@@ -110,7 +115,7 @@ The flight orbits the hole in the ice. GR's recovery team, holding outside the e
 
 ## 5. Key Radio
 
-See Phase details and [Dialogue and Radio](../NARRATIVE/DIALOGUE_AND_RADIO.md#6-key-exchanges-by-mission).
+See Phase details and [Dialogue and Radio](DIALOGUE_AND_RADIO.md#6-key-exchanges-by-mission).
 
 ## 6. Systems Showcased
 

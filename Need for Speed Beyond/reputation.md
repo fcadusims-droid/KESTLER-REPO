@@ -1,3 +1,9 @@
+---
+section: "03 · Systems"
+description: "REP: every gain and loss, the twelve titles, and how REP relates to Standing."
+order: 16
+---
+
 # Reputation (REP)
 
 The city runs **two independent reputation systems** with separate inputs and outputs, and neither overrides the other:
@@ -58,9 +64,9 @@ The scene names the protagonist as he climbs. The title is what NPCs call him in
 
 At high REP, NPCs across the city acknowledge the protagonist by name, defer to him in conversation, and refer to him by his current title unprompted.
 
-**Titles never gate districts.** A district is taken by beating its hierarchy, whatever the protagonist's title ([Taking a district](../world/street-scene.md#taking-a-district)). Titles change access to other things: Marked raises police response permanently, Runner and Contender unlock wagers, Name opens the Invitationals, and Untouchable removes the easy opposition from every district at once. The rest change what the world says.
+**Titles never gate districts.** A district is taken by beating its hierarchy, whatever the protagonist's title ([Taking a district](street-scene.md#taking-a-district)). Titles change access to other things: Marked raises police response permanently, Runner and Contender unlock wagers, Name opens the Invitationals, and Untouchable removes the easy opposition from every district at once. The rest change what the world says.
 
-Act 3 ends when every district is held, which always grants King of the Streets ([Campaign](../story/campaign.md#act-3--king-of-the-streets)).
+Act 3 ends when every district is held, which always grants King of the Streets ([Campaign](campaign.md#act-3--king-of-the-streets)).
 
 ## How REP and Standing interact
 
@@ -70,4 +76,4 @@ A racer at Hostile Standing, in a city where the protagonist is King of the Stre
 
 No REP value is high enough to make a Hostile NPC race cleanly, and no Standing value is high enough to grant access to an event the player's REP tier has not unlocked.
 
-**REP does not carry into the festival.** It converts to nothing there ([Festival overview](../festival/overview.md#what-carries-over)).
+**REP does not carry into the festival.** It converts to nothing there ([Festival overview](overview.md#what-carries-over)).

@@ -1,6 +1,11 @@
+---
+section: "06 · Narrative"
+order: 40
+---
+
 # Themes
 
-Related: [Project Overview](../PROJECT_OVERVIEW.md) · [Story Synopsis](STORY_SYNOPSIS.md) · [Relationships](../CHARACTERS/RELATIONSHIPS.md)
+Related: [Project Overview](PROJECT_OVERVIEW.md) · [Story Synopsis](STORY_SYNOPSIS.md) · [Relationships](RELATIONSHIPS.md)
 
 ---
 

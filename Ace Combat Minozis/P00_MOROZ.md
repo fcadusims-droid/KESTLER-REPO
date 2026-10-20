@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 45
+---
+
 # P00 — Moroz
 
 | Field | Data |
@@ -10,7 +15,7 @@
 | Type | Scripted integration test; loss of agency |
 | Time limit | None (real-time from takeoff, 22 min 37 s) |
 
-Related: [Anton Belyaev](../CHARACTERS/ANTON_BELYAEV.md) · [MINOZIS Intelligence](../WORLD_AND_LORE/TECHNOLOGY/MINOZIS_INTELLIGENCE.md) · [Mara Vance](../CHARACTERS/MARA_VANCE.md)
+Related: [Anton Belyaev](ANTON_BELYAEV.md) · [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md) · [Mara Vance](MARA_VANCE.md)
 
 ---
 
@@ -25,7 +30,7 @@ Played as a first-person scene in the Pobeda-7 briefing room, then in the COFFIN
 > **MAKAROV:** "Three stated parameters. Primary objective, pilot survival. Secondary, mission success. Constraint: minimize deviation from pilot commands."
 > **MAKAROV:** "You maintain command authority."
 > **BELYAEV:** "Unless I make a mistake."
-> *(the full exchange from [Supporting Cast](../CHARACTERS/SUPPORTING_CAST.md#dr-pyotr-makarov))*
+> *(the full exchange from [Supporting Cast](SUPPORTING_CAST.md#dr-pyotr-makarov))*
 
 Optional interactable before boarding: the player can check the chest pocket of the flight suit (the drawing) and look at the ring. Neither has any mechanical effect. Both are indexed later in the cascade.
 
@@ -64,7 +69,7 @@ The primary objective cannot be completed. The hidden objectives can, and comple
 
 ## 5. Key Radio
 
-See [Dialogue and Radio](../NARRATIVE/DIALOGUE_AND_RADIO.md#6-key-exchanges-by-mission). Belyaev's last transmission:
+See [Dialogue and Radio](DIALOGUE_AND_RADIO.md#6-key-exchanges-by-mission). Belyaev's last transmission:
 
 > "Ira... I'm sorry... I tried... tell her I tried...
 > Katya... I was right... it doesn't understand love...

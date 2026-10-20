@@ -1,3 +1,9 @@
+---
+section: "03 · Systems"
+description: "Vehicle classes, performance tuning, customisation, Presentation, cultural fit and Blueprints."
+order: 13
+---
+
 # Cars and Building
 
 ## Vehicle classes
@@ -17,7 +23,7 @@ Every car carries a **class**, assigned automatically from a computed performanc
 
 **Class is earned, not bought.** Installing parts raises the index; when it passes a class ceiling, the car moves up a class. A fully built C-class tuner becomes a B-class car and races B-class fields; it does not become an unbeatable C-class car.
 
-**One index governs every restriction.** Crews use it to gate district events ([Street scene](../world/street-scene.md#territorial-rule)) and the festival uses it to assign competition classes ([Regulations](../festival/regulations.md#performance-classes)). Both read the same number.
+**One index governs every restriction.** Crews use it to gate district events ([Street scene](street-scene.md#territorial-rule)) and the festival uses it to assign competition classes ([Regulations](regulations.md#performance-classes)). Both read the same number.
 
 **A car can be detuned.** Parts can be removed or swapped down to bring a car back under a class ceiling. This is legitimate: a B-class car at the top of its class beats an A-class car at the bottom of its own, and detuning is how a player enters a restricted event with a chassis they have over-built.
 
@@ -47,7 +53,7 @@ Every build carries a **Presentation** rating from 1 to 6, computed from the vis
 
 Presentation feeds three systems:
 
-- **Riverside entry** — the Riverside check reads it alongside its coherence list ([Street scene](../world/street-scene.md#riverside--riverside)).
+- **Riverside entry** — the Riverside check reads it alongside its coherence list ([Street scene](street-scene.md#riverside--riverside)).
 - **Magazine features** — magazines only approach cars above a Presentation threshold ([Magazines](magazines-and-photo-mode.md)).
 - **Night meet dialogue** — NPC reactions to the car scale with it.
 
@@ -55,7 +61,7 @@ Presentation feeds three systems:
 
 A 6-Presentation show car can therefore be measurably slower than the same chassis stripped. Riverside and the magazines want one thing; the Old Guard's stopwatch wants the other; and moving one car between the two states costs days and labour ([Blueprints](#blueprints)). The player chooses which of the two a car is *for this week*, rather than toggling between them.
 
-**Presentation does nothing in the festival.** It is not scored, read or referenced, and most of what produces it is prohibited there ([Regulations](../festival/regulations.md#visual-and-interior-regulations)). The rating exists entirely inside the city, the only place that cares what a car looks like.
+**Presentation does nothing in the festival.** It is not scored, read or referenced, and most of what produces it is prohibited there ([Regulations](regulations.md#visual-and-interior-regulations)). The rating exists entirely inside the city, the only place that cares what a car looks like.
 
 ## Cultural fit
 
@@ -76,7 +82,7 @@ A **Blueprint** is a complete saved specification of a car: every installed perf
 | Body kit, aero, interior, boot build | 2 days, significant labour charge |
 | Engine, forced induction, drivetrain | 3 days, heavy labour charge |
 
-Labour is charged by the shop doing the work, at its rates and credit terms ([Shops and credit](relationships.md#shops-and-credit)), or by the discipline's mechanic during a festival season ([Mechanics](../festival/mechanics.md)). Workshop time runs on the game clock ([Time](time.md#what-takes-time)).
+Labour is charged by the shop doing the work, at its rates and credit terms ([Shops and credit](relationships.md#shops-and-credit)), or by the discipline's mechanic during a festival season ([Mechanics](mechanics.md)). Workshop time runs on the game clock ([Time](time.md#what-takes-time)).
 
 **This is what makes the Presentation trade-off real.** A show build and a race build are two states of one physical car. Owning both configurations is cheap; *being in both* is not. A player who wants to shoot a magazine cover on Tuesday and run an Old Guard circuit on Wednesday needs two cars, not two Blueprints.
 
