@@ -76,6 +76,6 @@ Not scheduled. Each is built only if it can be paid for without taking anything 
 
 The launch is proved before anything is added to it.
 
-- **No new system** joins the launch until the launch's own numbers have been tested: the night simulated against its Reserve, Seats, and Clock (`portfolio/simulation-report.md`).
-- **A change to a launch system** is a correction, not an addition: it fixes a contradiction, a number the tests disproved, or a gap a writer had to fill (`portfolio/scene-tests.md`).
+- **No new system** joins the launch until the launch's own numbers have been tested: the night simulated against its Reserve, Seats, and Clock.
+- **A change to a launch system** is a correction, not an addition: it fixes a contradiction, a number that proved wrong, or a gap a writer had to fill.
 - **Everything later stays later.** A system listed after the launch is not pulled forward to solve a launch problem. The launch's problems are solved with the launch's own rules.

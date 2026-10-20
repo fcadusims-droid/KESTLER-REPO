@@ -45,7 +45,7 @@ A Survivor night is won by getting out, but the virus can get out too. In the Ni
 | On the Rooftop, beside the one marked stranger its other seat carried | Three-quarters |
 | With one squadmate infected, on the Clock Tower helicopter beside one marked stranger | Five-eighths |
 
-The numbers come from the simulation (`portfolio/simulation-report.md`). A rule that halved every award whenever anyone infected was aboard would have halved about four extractions in five, even at the director's target, because the large ways out almost always carry someone infected. Then it would no longer be a choice, and every marked stranger at a door would be shot on sight. Scaled by seats, the penalty falls hardest where a survivor can see every face aboard, and on their own squad, where the choice is theirs.
+A rule that halved every award whenever anyone infected was aboard would have halved about four extractions in five, even at the director's target, because the large ways out almost always carry someone infected. Then it would no longer be a choice, and every marked stranger at a door would be shot on sight. Scaled by seats, the penalty falls hardest where a survivor can see every face aboard, and on their own squad, where the choice is theirs.
 
 ## What a Player Can Earn
 

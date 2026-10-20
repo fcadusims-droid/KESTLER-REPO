@@ -17,7 +17,7 @@ The fiction and the build are the same thing told twice (`presentation-and-techn
 | In the Night | What is built |
 |---|---|
 | **The Engine**, which runs the world of a session | The game server's world simulation: physics, navigation, sound, the dead, every clock |
-| **The Lattice**, which knows every strain's pace and Threshold | Data tables for every strain: pace, stages, gifts, curses, appetites, antiviral response, authored by design and checked by simulation (`portfolio/simulation-report.md`) |
+| **The Lattice**, which knows every strain's pace and Threshold | Data tables for every strain: pace, stages, gifts, curses, appetites, antiviral response, authored by design and checked by simulation |
 | **The Tissue**, where the Echoes live | The behavior profiles of the Echoes, fitted to telemetry, and each player's own Echo |
 | **ΜΝΗΜΗ**, what happens between the three | The director: a set of services on the server that perceive the night, plan, act through fixed tools, and speak |
 | **Her forecast**, the night run forward every few seconds | A planner that runs coarse copies of the night forward and scores them |
@@ -130,7 +130,7 @@ When a region crosses a limit, the director climbs the ladder one step at a time
 
 The planner is what makes ΜΝΗΜΗ a forecaster and not only a pacemaker (`director.md`, She Plans Ahead).
 
-**What it runs.** Every five seconds it copies the night into a **coarse model**: the region graph, the counts of the dead per region, each survivor as a few numbers (region, health, clock, intent), each road's progress, each way out's state. It then runs that model forward many times, with randomness, under the same rules the night uses, at one step per ten seconds of night. This is the same kind of model as the simulation in `portfolio/simulation-report.md`, run live.
+**What it runs.** Every five seconds it copies the night into a **coarse model**: the region graph, the counts of the dead per region, each survivor as a few numbers (region, health, clock, intent), each road's progress, each way out's state. It then runs that model forward many times, with randomness, under the same rules the night uses, at one step per ten seconds of night.
 
 **What it predicts.** Where each survivor is heading. An **intent model**, trained offline on telemetry, gives each survivor's likely next regions from their state: clean or marked, alone or grouped, carrying a dose or not, the hour, what they have just done. It is a small statistical model, not a neural network, and it is retrained once a season.
 
@@ -294,7 +294,7 @@ Post-launch (`launch-scope.md`). An anomaly is assembled from a library of parts
 
 ## Tools and Testing
 
-- **The director console.** A debug view that shows, for a live or replayed night, every region's tension and phase, every boredom timer, the planner's candidates and scores, and the validator's decisions with their Laws. `portfolio/director-console.html` is a small working model of it ([open it](https://claude.ai/artifact/CXZLB2J8YMSGpwtFKaMCUw)): a simplified night of 64 on the region graph, with a Developer view of every decision and a Player view of only what one survivor hears and feels.
+- **The director console.** A debug view that shows, for a live or replayed night, every region's tension and phase, every boredom timer, the planner's candidates and scores, and the validator's decisions with their Laws.
 - **Deterministic replay.** Every night can be replayed from its seed and input log, so any decision can be inspected after the fact.
 - **Automated players.** Load tests and balance tests run with Echoes and with simple scripted bots. Capcom has shown automated play testing by an AI agent that judges from the screen and the audio; that tool belongs here.
 - **Law tests.** A suite that tries to make the director break each Law, and fails the build if it can.
