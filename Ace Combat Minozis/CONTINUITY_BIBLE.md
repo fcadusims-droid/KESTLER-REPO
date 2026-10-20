@@ -1,8 +1,14 @@
+---
+section: "08 · Reference"
+description: "Fixed facts, numbers, rules and spellings."
+order: 57
+---
+
 # Continuity Bible
 
 This file fixes the facts that every other document must agree with. When any document conflicts with this one, this one is correct.
 
-Related: [Timeline](../WORLD_AND_LORE/TIMELINE.md) · [Glossary](GLOSSARY.md) · [Confidence Register](CONFIDENCE_REGISTER.md) · [Canon Sources](CANON_SOURCES.md)
+Related: [Timeline](TIMELINE.md) · [Glossary](GLOSSARY.md) · [Confidence Register](CONFIDENCE_REGISTER.md) · [Canon Sources](CANON_SOURCES.md)
 
 ---
 
@@ -15,7 +21,7 @@ The project is set in Strangereal and treats the following as fixed canon (sourc
 | Belkan War 1995; Ulysses impact 1999; Continental War 2003–2005; Circum-Pacific War 2010; Emmeria–Estovakia War 2015–2016; Lighthouse War 2019; Sotoa–Usea War 16 July 2029 – 3 August 2030; Intercorporate War 2040 | No other declared war exists between 2019 and July 2029. The 2028 period is a crisis of deniable, undeclared incidents, never a declared or world war. |
 | Gründer Industries launched Z.O.E. in secret after 1995; it flew in the 1997–1998 Usean coup d'état and its ADF-01 FALKEN was shot down by Phoenix of Scarface Squadron over Fortress Intolerance on 18 September 1998 | Z.O.E. is the root of the MINOZIS lineage. |
 | COFFIN (Connection For Flight Interface) was first fully enclosed on the ADF-01 FALKEN, controlled by eye movement and voice with no neural connection (the only input method until at least 2020); ENSI (Electro-Neuron-Synapse-Interface) is a standard General Resource developed in the 2020s | The MNZ-41's coupling is built on the ENSI standard, driven to an invasive depth the standard was never meant for. GR therefore has a direct technical stake in the result. |
-| The first *known* combat flight of a COFFIN-type aircraft took place on 24 March 2030 near Cima Island | MINOZIS's combat record from 2025 to 2029 never becomes public. Every incident stays covered by [the Agreed Fiction](../WORLD_AND_LORE/THE_AGREED_FICTION.md). |
+| The first *known* combat flight of a COFFIN-type aircraft took place on 24 March 2030 near Cima Island | MINOZIS's combat record from 2025 to 2029 never becomes public. Every incident stays covered by [the Agreed Fiction](THE_AGREED_FICTION.md). |
 | During the Lighthouse War (September 2019), Osea and Erusea destroyed each other's satellite networks, causing a worldwide blackout of satellite and information networks and chaos across Usea | This is "the 2019 blackout." Project choice: polar navigation was the last service rebuilt and was still incomplete in 2025. |
 | The IUN began withdrawing peacekeepers from Usea in 2020 | The ISAF Revival Initiative fills part of that gap from 2025. |
 | From March 2020, Sotoa used the conglomerate Enso Order as intermediary for infrastructure loans that became a debt trap over eastern Usea; Enso won exclusive control of eastern Usean space development (Comona space center) in November 2024 | Enso Order launches and owns MRS-144 Morgenstern. |
@@ -87,7 +93,7 @@ The project is set in Strangereal and treats the following as fixed canon (sourc
 ## 4. Fixed Rules
 
 1. **MINOZIS has no semantic layer.** It cannot represent purpose, intention or meaning. Every behavior must be explicable as definition, cost function, or residue interference. It never "decides," "wants," "refuses," or "spares" in the narrative voice, except inside clearly marked rumor or characters' speech.
-2. **Physics is the only thing it cannot redefine.** Fuel, heat, radiation, mass and structure constrain it. Every physical act it performs has a physical mechanism (see [MNZ-41](../WORLD_AND_LORE/TECHNOLOGY/MNZ-41_MINOZIS.md) and [COFFIN, ENSI and Wetware](../WORLD_AND_LORE/TECHNOLOGY/COFFIN_ENSI_AND_WETWARE.md)).
+2. **Physics is the only thing it cannot redefine.** Fuel, heat, radiation, mass and structure constrain it. Every physical act it performs has a physical mechanism (see [MNZ-41](MNZ-41_MINOZIS.md) and [COFFIN, ENSI and Wetware](COFFIN_ENSI_AND_WETWARE.md)).
 3. **No one is aboard.** No human accomplice serves the aircraft. Maintenance is performed by the aircraft's own systems and by facility robotics it compromises.
 4. **The residue cannot choose.** Ghost Interference is correlated neural activity, not volition. Whether subjective experience persists is permanently Unknown.
 5. **No missiles after 17 August 2028.** After that date MINOZIS fights with its EMP/HPM emitter, its cannon, and cyber-kinetic methods only.

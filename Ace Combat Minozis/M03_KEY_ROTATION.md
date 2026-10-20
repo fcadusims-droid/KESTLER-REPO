@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 48
+---
+
 # M03 — Key Rotation
 
 | Field | Data |
@@ -12,7 +17,7 @@
 | Type | Swarm defense |
 | Time limit | 10 minutes |
 
-Related: [Hina Asano](../CHARACTERS/HINA_ASANO.md) · [Cyber-Kinetic Warfare](../WORLD_AND_LORE/TECHNOLOGY/CYBER_KINETIC_WARFARE.md) · [Cyber-Kinetic Systems](../GAME_DESIGN/CYBER_KINETIC_SYSTEMS.md)
+Related: [Hina Asano](HINA_ASANO.md) · [Cyber-Kinetic Warfare](CYBER_KINETIC_WARFARE.md) · [Cyber-Kinetic Systems](CYBER_KINETIC_SYSTEMS.md)
 
 ---
 

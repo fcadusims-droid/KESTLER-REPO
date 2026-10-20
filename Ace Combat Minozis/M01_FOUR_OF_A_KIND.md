@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 46
+---
+
 # M01 — Four of a Kind
 
 | Field | Data |
@@ -11,7 +16,7 @@
 | Type | Air-to-air and strike; squadron command tutorial |
 | Time limit | 15 minutes |
 
-Related: [Victor James Thorne](../CHARACTERS/VICTOR_JAMES_THORNE.md) · [Relationships](../CHARACTERS/RELATIONSHIPS.md) · [Squadron and Wingmen](../GAME_DESIGN/SQUADRON_AND_WINGMEN.md)
+Related: [Victor James Thorne](VICTOR_JAMES_THORNE.md) · [Relationships](RELATIONSHIPS.md) · [Squadron and Wingmen](SQUADRON_AND_WINGMEN.md)
 
 ---
 
@@ -77,7 +82,7 @@ Debrief:
 
 The circle is introduced. Eirhei explains it. Marsh jokes. Asano names something honest ("I liked that we were loud"). Thorne passes.
 
-**Cutscene: the bar.** The insignia is built as described in [Relationships](../CHARACTERS/RELATIONSHIPS.md#3-the-squadron): the dice, the flipped six, "Game Over," the inverted OVER, the four aces. The scene ends on the patch and the squadron's designation: 6AMEꓤƎꓥO9.
+**Cutscene: the bar.** The insignia is built as described in [Relationships](RELATIONSHIPS.md#3-the-squadron): the dice, the flipped six, "Game Over," the inverted OVER, the four aces. The scene ends on the patch and the squadron's designation: 6AMEꓤƎꓥO9.
 
 ## 9. Ledger Entries
 

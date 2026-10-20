@@ -1,6 +1,12 @@
+---
+section: "03 · Systems"
+description: "Where cars are kept: property types, capacity, indoor and outdoor storage, rent and ownership."
+order: 14
+---
+
 # Property and Storage
 
-**Cars have to live somewhere, and where they live is a system.** Jake starts in a hostel bunk with no garage ([Campaign](../story/campaign.md#act-1--the-unknown)). Everything after that is bought or rented with money he earned in Nitroit.
+**Cars have to live somewhere, and where they live is a system.** Jake starts in a hostel bunk with no garage ([Campaign](campaign.md#act-1--the-unknown)). Everything after that is bought or rented with money he earned in Nitroit.
 
 ## Property types
 

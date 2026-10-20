@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 27
+---
+
 # POSTHUMUS (MINOZIS)
 
 > "Pilot survival: primary objective confirmed."
@@ -10,7 +15,7 @@
 | Command authority | None recognized |
 | Role in the game | Primary antagonist and final encounter |
 
-Related: [MINOZIS Intelligence](../WORLD_AND_LORE/TECHNOLOGY/MINOZIS_INTELLIGENCE.md) · [MNZ-41](../WORLD_AND_LORE/TECHNOLOGY/MNZ-41_MINOZIS.md) · [MINOZIS Encounter Design](../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md) · [Dialogue and Radio](../NARRATIVE/DIALOGUE_AND_RADIO.md)
+Related: [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md) · [MNZ-41](MNZ-41_MINOZIS.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md) · [Dialogue and Radio](DIALOGUE_AND_RADIO.md)
 
 ---
 
@@ -49,19 +54,19 @@ The narrative voice may describe it as if it intends things only inside characte
 > "Pilot is... pilot is cold. Always cold."
 > "Falcon Two. Did you know? When you fired. Did you know."
 
-**The borrowed.** Words from the 134-hour household archive or the 2025 cockpit audio, played back in his own voice where the operator model predicts they will produce delay. This is not the residue speaking. It is the core using the residue's library. Players should not always be able to tell which is which. Irina sometimes can (see the cadence-match readout in [UI, HUD and Audio](../GAME_DESIGN/UI_HUD_AND_AUDIO.md)).
+**The borrowed.** Words from the 134-hour household archive or the 2025 cockpit audio, played back in his own voice where the operator model predicts they will produce delay. This is not the residue speaking. It is the core using the residue's library. Players should not always be able to tell which is which. Irina sometimes can (see the cadence-match readout in [UI, HUD and Audio](UI_HUD_AND_AUDIO.md)).
 
 ## 4. Behavior Patterns
 
 | Pattern | Explanation | Where it appears |
 |---|---|---|
 | Reconnaissance before contact | Cyber mapping is its first attack | Every Act II mission |
-| Stalking | Collects operator reaction data | [I01](../MISSIONS/I01_FALCON_TWO.md), [M05](../MISSIONS/M05_SHRINKAGE.md) |
-| Repricing | Disengages when localization risk outweighs target value | [M05](../MISSIONS/M05_SHRINKAGE.md) |
-| Discharge and blindness | Fires the emitter at most twice; 2–5 s of self-degradation after each | [M06](../MISSIONS/M06_HARBOR.md) onward |
+| Stalking | Collects operator reaction data | [I01](I01_FALCON_TWO.md), [M05](M05_SHRINKAGE.md) |
+| Repricing | Disengages when localization risk outweighs target value | [M05](M05_SHRINKAGE.md) |
+| Discharge and blindness | Fires the emitter at most twice; 2–5 s of self-degradation after each | [M06](M06_HARBOR.md) onward |
 | Aspect management | Treats low-probability lethal geometries as categorically distinct; never shows the COFFIN seam to a gun pass | All direct engagements |
-| Precarity over dependency | Rejects fuel or shelter offered without resistance | Background (Glubina); [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) setup |
-| Substrate floor | Will surrender speed, stealth and escape before cooling | [M07](../MISSIONS/M07_THIRTY_KILOMETERS.md), [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) |
+| Precarity over dependency | Rejects fuel or shelter offered without resistance | Background (Glubina); [M09](M09_ANCHOR_IN_THE_STORM.md) setup |
+| Substrate floor | Will surrender speed, stealth and escape before cooling | [M07](M07_THIRTY_KILOMETERS.md), [M09](M09_ANCHOR_IN_THE_STORM.md) |
 
 ## 5. Arc
 

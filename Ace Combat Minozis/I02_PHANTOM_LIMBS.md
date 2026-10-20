@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 52
+---
+
 # I02 — Phantom Limbs
 
 | Field | Data |
@@ -9,7 +14,7 @@
 | Type | Narrative flight; no combat |
 | Time limit | None |
 
-Related: [Althéa Lichtträger](../CHARACTERS/ALTHEA_LICHTTRAGER.md) · [Hans Lichtträger](../CHARACTERS/HANS_LICHTTRAGER.md) · [MRS-144 Morgenstern](../WORLD_AND_LORE/TECHNOLOGY/MRS-144_MORGENSTERN.md)
+Related: [Althéa Lichtträger](ALTHEA_LICHTTRAGER.md) · [Hans Lichtträger](HANS_LICHTTRAGER.md) · [MRS-144 Morgenstern](MRS-144_MORGENSTERN.md)
 
 ---
 

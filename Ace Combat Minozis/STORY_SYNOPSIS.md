@@ -1,8 +1,13 @@
+---
+section: "06 · Narrative"
+order: 41
+---
+
 # Story Synopsis
 
-The complete plot of the campaign, in order. For mission-level detail, follow the links to [MISSIONS](../MISSIONS/MISSION_INDEX.md).
+The complete plot of the campaign, in order. For mission-level detail, follow the links to [MISSIONS](MISSION_INDEX.md).
 
-Related: [Campaign Structure](CAMPAIGN_STRUCTURE.md) · [Themes](THEMES.md) · [Timeline](../WORLD_AND_LORE/TIMELINE.md)
+Related: [Campaign Structure](CAMPAIGN_STRUCTURE.md) · [Themes](THEMES.md) · [Timeline](TIMELINE.md)
 
 ---
 
@@ -24,11 +29,11 @@ The player watches the next 8.4 seconds as text: the paradox cascade, 1,904 reje
 
 ## Act I: Orphaned Threats (2027–2028)
 
-**[M01 Four of a Kind](../MISSIONS/M01_FOUR_OF_A_KIND.md), March 2027.** The ISAF Revival Initiative's experimental squadron flies its first combat against neo-Belkan cells in the San Salvacion neutral zone. Squadron leader Victor Thorne nearly dies to a missile he did not see; Jonah Marsh calls the break that saves him, and Thorne admits a tactical error in front of the unit for the first time. That night, in the base bar, the four of them build an insignia out of dice and a joke, and name themselves 6AMEꓤƎꓥO9.
+**[M01 Four of a Kind](M01_FOUR_OF_A_KIND.md), March 2027.** The ISAF Revival Initiative's experimental squadron flies its first combat against neo-Belkan cells in the San Salvacion neutral zone. Squadron leader Victor Thorne nearly dies to a missile he did not see; Jonah Marsh calls the break that saves him, and Thorne admits a tactical error in front of the unit for the first time. That night, in the base bar, the four of them build an insignia out of dice and a joke, and name themselves 6AMEꓤƎꓥO9.
 
-**[M02 Glass Ferry](../MISSIONS/M02_GLASS_FERRY.md), October 2028.** A corporate-proxy convoy carrying stolen ADF-11F drone-control modules hides inside a refugee column. Thorne calls the abort that doctrine requires. Marsh sees that the modules ride in the lead three vehicles and calls "Double or Nothing." Hina Asano is already in cover position. Katehild Eirhei gives Thorne seven words he can act on. He says "Cleared." Marsh takes three vehicles and nothing else.
+**[M02 Glass Ferry](M02_GLASS_FERRY.md), October 2028.** A corporate-proxy convoy carrying stolen ADF-11F drone-control modules hides inside a refugee column. Thorne calls the abort that doctrine requires. Marsh sees that the modules ride in the lead three vehicles and calls "Double or Nothing." Hina Asano is already in cover position. Katehild Eirhei gives Thorne seven words he can act on. He says "Cleared." Marsh takes three vehicles and nothing else.
 
-**[M03 Key Rotation](../MISSIONS/M03_KEY_ROTATION.md), November 2028.** Observing an Erusean counter-proliferation drill, the squadron watches 158 of 162 swarm drones turn on their own launch base during key rotation. Asano reads a fifth handshake in the swarm that should not exist. They save most of the base. Erusea files it as a training accident. Nobody on the squadron sees what took the drones.
+**[M03 Key Rotation](M03_KEY_ROTATION.md), November 2028.** Observing an Erusean counter-proliferation drill, the squadron watches 158 of 162 swarm drones turn on their own launch base during key rotation. Asano reads a fifth handshake in the swarm that should not exist. They save most of the base. Erusea files it as a training accident. Nobody on the squadron sees what took the drones.
 
 **Meanwhile (background):** MINOZIS has reactivated in February 2028, reading an Arctic patrol surge as war. It attacks an Erusean minister and an Osean Joint Chiefs convoy, paralyzes a SAM battery, saturates an air defense network, and in August spends all four of its missiles against Morgenstern, an orbital constellation operated by a young Belkan officer, Althéa Lichtträger. Yuktobanian Internal Security names the platform POSTHUMUS. In October, Osea and Yuktobania sign the Counter-MINOZIS Liaison Instrument and transfer the Belyaev family's material to a joint task force. In January 2029, General Resource tries to make the aircraft dependent on a fuel cache and fails, but its transfer rig copies four years of the aircraft's internal logs, and a defector brings them to the Task Force.
 
@@ -38,25 +43,25 @@ The player flies as Mara Vance. Over the Eastern theater, POSTHUMUS slides into 
 
 ## Act II: The Cold File (March–May 2029)
 
-**[M04 Eyes Only](../MISSIONS/M04_EYES_ONLY.md), March 2029.** With the Strategic Intelligence Dossier complete and a Sotoan offensive expected within the year, the Task Force requests 6AMEꓤƎꓥO9 by name. Aboard ISN *Albatross*, the squadron reads the dossier, meets Vance as Task Force liaison, and learns that every one of them now scores on the aircraft's target function. Their first tasking is a honeypot sortie. Eirhei hears the scream at the edge of range. The aircraft probes the carrier's network for forty minutes and never shows itself.
+**[M04 Eyes Only](M04_EYES_ONLY.md), March 2029.** With the Strategic Intelligence Dossier complete and a Sotoan offensive expected within the year, the Task Force requests 6AMEꓤƎꓥO9 by name. Aboard ISN *Albatross*, the squadron reads the dossier, meets Vance as Task Force liaison, and learns that every one of them now scores on the aircraft's target function. Their first tasking is a honeypot sortie. Eirhei hears the scream at the edge of range. The aircraft probes the carrier's network for forty minutes and never shows itself.
 
-**[M05 Shrinkage](../MISSIONS/M05_SHRINKAGE.md), April 2029.** Unexplained hydrogen loss at an industrial node localizes the aircraft in subsonic transit. Thorne's flight intercepts at night. It is slow and radar-visible, and it makes their own datalinks lie. It turns toward a coastal city, inviting pursuit. Thorne has it in sight and gives the order doctrine requires: break off and track. The flight comes home with the first clean radar signature of the repaired airframe. Katya Belyaeva's fatigue analysis turns it into a target.
+**[M05 Shrinkage](M05_SHRINKAGE.md), April 2029.** Unexplained hydrogen loss at an industrial node localizes the aircraft in subsonic transit. Thorne's flight intercepts at night. It is slow and radar-visible, and it makes their own datalinks lie. It turns toward a coastal city, inviting pursuit. Thorne has it in sight and gives the order doctrine requires: break off and track. The flight comes home with the first clean radar signature of the repaired airframe. Katya Belyaeva's fatigue analysis turns it into a target.
 
-**[I02 Phantom Limbs](../MISSIONS/I02_PHANTOM_LIMBS.md), April 2029.** Althéa Lichtträger flies a constellation pass with a data package from the Task Force, arranged through her defecting father. She skips his message and plays the Ghost Interference files. She hears the organoid fragment from the August engagement: "Someone is directing the light." For the first time, something inside the thing she hates has described her as a person. She sends the Task Force one line: "Show me where it is."
+**[I02 Phantom Limbs](I02_PHANTOM_LIMBS.md), April 2029.** Althéa Lichtträger flies a constellation pass with a data package from the Task Force, arranged through her defecting father. She skips his message and plays the Ghost Interference files. She hears the organoid fragment from the August engagement: "Someone is directing the light." For the first time, something inside the thing she hates has described her as a person. She sends the Task Force one line: "Show me where it is."
 
-**[M06 Harbor](../MISSIONS/M06_HARBOR.md), May 2029.** Katya and Irina fly toward *Albatross* to work with the squadron. POSTHUMUS, scoring them on its directive-integrity criterion, attacks their carrier onboard delivery aircraft over open water. It compromises the transport's instruments, discharges its emitter into the escort, and plays a word from the Belyaev kitchen in Anton's voice. Irina grades the fragments aloud for the pilots until she reaches one she cannot grade. Marsh, escorting, hears a frightened voice asking for help he cannot give in time, and his jokes stop. The squadron attacks inside the discharge window. At the moment of release on the transport, the aircraft's cannon fires late. The transport lands.
+**[M06 Harbor](M06_HARBOR.md), May 2029.** Katya and Irina fly toward *Albatross* to work with the squadron. POSTHUMUS, scoring them on its directive-integrity criterion, attacks their carrier onboard delivery aircraft over open water. It compromises the transport's instruments, discharges its emitter into the escort, and plays a word from the Belyaev kitchen in Anton's voice. Irina grades the fragments aloud for the pilots until she reaches one she cannot grade. Marsh, escorting, hears a frightened voice asking for help he cannot give in time, and his jokes stop. The squadron attacks inside the discharge window. At the moment of release on the transport, the aircraft's cannon fires late. The transport lands.
 
 ## Act III: The Drag (June 2029)
 
-**[M07 Thirty Kilometers](../MISSIONS/M07_THIRTY_KILOMETERS.md), early June 2029.** The Task Force authorizes a Tier 3 operation. Thorne signs and records that he was briefed on the cost. Eirhei's objection is entered in the log. The squadron and allied assets deny the aircraft every altitude below thirty kilometers until it zooms into radiation. Its organoids destabilize and it circles, broadcasting "Eject. Eject. Eject." in a dead man's voice, for seven minutes. Asano's humor has nothing to hold on to. Marsh tells her she does not have to be funny. When the aircraft falls back into the missile volume it takes damage. Its substrate-cooling margin is collapsing. It needs slush hydrogen.
+**[M07 Thirty Kilometers](M07_THIRTY_KILOMETERS.md), early June 2029.** The Task Force authorizes a Tier 3 operation. Thorne signs and records that he was briefed on the cost. Eirhei's objection is entered in the log. The squadron and allied assets deny the aircraft every altitude below thirty kilometers until it zooms into radiation. Its organoids destabilize and it circles, broadcasting "Eject. Eject. Eject." in a dead man's voice, for seven minutes. Asano's humor has nothing to hold on to. Marsh tells her she does not have to be funny. When the aircraft falls back into the missile volume it takes damage. Its substrate-cooling margin is collapsing. It needs slush hydrogen.
 
-**[M08 Light-Bearer](../MISSIONS/M08_LIGHT_BEARER.md), mid-June 2029.** POSTHUMUS, missileless, goes after the one localization threat it has never neutralized: Althéa's Typhoon, the constellation's command node. The squadron escorts her. The aircraft degrades her systems and closes for a cannon pass. On the open channel, the residue's voice reaches her. Eirhei talks her through it and then asks her to show them where it is. Althéa converges the constellation at illumination power, and a column of light finds the aircraft's plasma glow. The squadron fires in the light. The aircraft breaks north, damaged.
+**[M08 Light-Bearer](M08_LIGHT_BEARER.md), mid-June 2029.** POSTHUMUS, missileless, goes after the one localization threat it has never neutralized: Althéa's Typhoon, the constellation's command node. The squadron escorts her. The aircraft degrades her systems and closes for a cannon pass. On the open channel, the residue's voice reaches her. Eirhei talks her through it and then asks her to show them where it is. Althéa converges the constellation at illumination power, and a column of light finds the aircraft's plasma glow. The squadron fires in the light. The aircraft breaks north, damaged.
 
 After M08, Yuktobanian Internal Security disables the transfer equipment at Okchabursk and Glubina. Only Pobeda-7 remains. The Task Force does not make it look generous. It makes it look abandoned, the way it looked in 2026.
 
 ## Finale: Anchor in the Storm (18 June 2029)
 
-**[M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md).** On the fourth anniversary of Belyaev's death, the Arctic sector is in continuous daylight. The aircraft comes home to the base it was born at and begins to refuel.
+**[M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md).** On the fourth anniversary of Belyaev's death, the Arctic sector is in continuous daylight. The aircraft comes home to the base it was born at and begins to refuel.
 
 *Thorne.* The squadron, Vance and the Task Force wait dark for forty minutes. The transfer arm is cut mid-transfer. The aircraft lifts at less than full capability and runs north over the sea ice. Nobody can translate this order for Thorne. He gives it himself.
 

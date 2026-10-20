@@ -1,8 +1,13 @@
+---
+section: "08 · Reference"
+order: 60
+---
+
 # Canon Sources
 
 All canon facts in this project are verified against a single source: the **Ace Combat Wiki** at [acecombat.wiki.gg](https://acecombat.wiki.gg/). No other source is used for lore research. The wiki's pages cite the games, official guidebooks and Bandai Namco material; those citations are recorded below as the wiki gives them.
 
-Related: [Canon Foundation](../WORLD_AND_LORE/CANON_FOUNDATION.md) · [Continuity Bible](CONTINUITY_BIBLE.md)
+Related: [Canon Foundation](CANON_FOUNDATION.md) · [Continuity Bible](CONTINUITY_BIBLE.md)
 
 ---
 

@@ -1,10 +1,16 @@
+---
+section: "01 · Story"
+description: "Every named character: the Spaids, crew leaders, unaffiliated racers, mechanics and their families, radio hosts, festival title holders."
+order: 6
+---
+
 # Cast
 
-The named people the systems refer to. Racer personalities are defined in [Relationships](../systems/relationships.md#personality); each crew's storyline is in [Crew storylines](crew-storylines.md).
+The named people the systems refer to. Racer personalities are defined in [Relationships](relationships.md#personality); each crew's storyline is in [Crew storylines](crew-storylines.md).
 
 ## The Spaids
 
-**Jake Spaid** — the protagonist. Not from Nitroit: he arrived at nineteen by coach, from a state he does not name, with a bag and no intention of explaining himself. Karted from seven, won from nine, quit at fourteen, and has not been timed by anybody official since. Drives constantly. He starts the game quiet — he was never much of a talker — and opens up as he gets to know people ([Jake's voice](../systems/relationships.md#jakes-voice)). Full history in [Backstory](backstory.md).
+**Jake Spaid** — the protagonist. Not from Nitroit: he arrived at nineteen by coach, from a state he does not name, with a bag and no intention of explaining himself. Karted from seven, won from nine, quit at fourteen, and has not been timed by anybody official since. Drives constantly. He starts the game quiet — he was never much of a talker — and opens up as he gets to know people ([Jake's voice](relationships.md#jakes-voice)). Full history in [Backstory](backstory.md).
 
 **Grace Spaid** — his mother. Married to a professional driver for twenty years and never once at the circuit on a race weekend, which nobody in the family ever asked her about. Raised Jake alone for five years after the accident and was the only person in his life who did not tell him what to do with his talent. Died of cancer when he was nineteen. She has no photographs in the game and no recorded voice; what the player knows of her comes from Jake refusing to discuss her.
 
@@ -14,7 +20,7 @@ The named people the systems refer to. Racer personalities are defined in [Relat
 
 ## Crew leaders
 
-Each leads their crew at the start of the game, is the final challenge for that district, and is that crew's Invitational contact. Crews are described in [Street scene](../world/street-scene.md#districts-and-crews).
+Each leads their crew at the start of the game, is the final challenge for that district, and is that crew's Invitational contact. Crews are described in [Street scene](street-scene.md#districts-and-crews).
 
 | Crew | Leader | Personality | Discipline supplied to a festival team |
 |---|---|---|---|
@@ -28,7 +34,7 @@ Each leads their crew at the start of the game, is the final challenge for that 
 
 Adrian Wolff is the most naturally talented driver in Nitroit after Jake. Mateo Castellanos took over Riverside when his older sister Junie stopped racing to run the family shop.
 
-A leader keeps their Invitational and their place as a recruitable driver whoever leads the crew later ([Who leads a crew](../world/street-scene.md#who-leads-a-crew)).
+A leader keeps their Invitational and their place as a recruitable driver whoever leads the crew later ([Who leads a crew](street-scene.md#who-leads-a-crew)).
 
 ## The unaffiliated
 
@@ -41,7 +47,7 @@ Two drivers who belong to no crew, hold no territory, and issue the two hardest 
 
 ## Shops and mechanics
 
-One shop per district. A mechanic's festival role is defined in [Mechanics](../festival/mechanics.md). Mechanic personalities live in dialogue only and touch no number.
+One shop per district. A mechanic's festival role is defined in [Mechanics](mechanics.md). Mechanic personalities live in dialogue only and touch no number.
 
 | Shop | District | Mechanic | Specialist discipline | Craft | Register |
 |---|---|---|---|---|---|
@@ -66,7 +72,7 @@ One shop per district. A mechanic's festival role is defined in [Mechanics](../f
 | **Haddad** | Bilal (The Yard) | Amira |
 | **Castellanos** | Mateo (Riverside) | Junie, his older sister |
 
-Family members' Standing is linked ([Family ties](../systems/relationships.md#family-ties)). A player who works with Curtis Ward for three acts and then takes Delia's car in an Invitational pays for it in both places.
+Family members' Standing is linked ([Family ties](relationships.md#family-ties)). A player who works with Curtis Ward for three acts and then takes Delia's car in an Invitational pays for it in both places.
 
 ## Radio hosts
 
@@ -76,11 +82,11 @@ Family members' Standing is linked ([Family ties](../systems/relationships.md#fa
 | **Umbra** | Sunset to sunrise, sharing an AM frequency with a daytime-only station | **Kane, Zane and Dwayne** — three friends, crate-diggers, terrible at staying on topic |
 | **TKK** | Unlicensed, irregular, moves frequency | **Blitz** (sister, talks) and **Krieg** (brother, does not) |
 
-Full profiles in [Radio](../world/radio.md).
+Full profiles in [Radio](radio.md).
 
 ## Festival title holders
 
-The five drivers holding the discipline titles when Jake arrives ([Rank and championship](../festival/rank-and-championship.md#discipline-titles)). None are recruitable, none appear in the city, and none have any interest in him.
+The five drivers holding the discipline titles when Jake arrives ([Rank and championship](rank-and-championship.md#discipline-titles)). None are recruitable, none appear in the city, and none have any interest in him.
 
 | Title | Holder |
 |---|---|

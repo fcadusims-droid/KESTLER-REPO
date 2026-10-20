@@ -1,3 +1,9 @@
+---
+section: "00 · Project"
+description: "Premise, identity, pillars, scope."
+order: 1
+---
+
 # Project Overview: MNZ-41 MINOZIS
 
 ## Premise
@@ -18,7 +24,7 @@ Four years later, in the last months before the Sotoa–Usea War, a multinationa
 | The 2030s | 2030–2033 | Enso Order's collapse and General Resource's interface program carry the story's consequences forward |
 | *Ace Combat 3: Electrosphere* | 2040 | The corporate world the decade is heading toward |
 
-Like other spin-offs, it uses its own cast and never alters the events of the numbered games. Its characters live in the same world as Trigger and the Wings of Theve, but their war is the one nobody announced. See [Canon Foundation](WORLD_AND_LORE/CANON_FOUNDATION.md#1-a-spin-off-between-the-numbered-games).
+Like other spin-offs, it uses its own cast and never alters the events of the numbered games. Its characters live in the same world as Trigger and the Wings of Theve, but their war is the one nobody announced. See [Canon Foundation](CANON_FOUNDATION.md#1-a-spin-off-between-the-numbered-games).
 
 ## Format
 
@@ -41,11 +47,11 @@ What makes it distinct:
 
 | Pillar | Meaning | See |
 |---|---|---|
-| Hesitation is worth protecting | The game makes restraint, verification and trust decisive | [Themes](NARRATIVE/THEMES.md) |
-| The enemy fights the operator | Operator Pressure, ghost transmissions and instrument lies target pilots, not airframes | [Squadron and Wingmen](GAME_DESIGN/SQUADRON_AND_WINGMEN.md) |
-| Physics is the only thing it cannot redefine | Fuel, heat, radiation and structure create every winnable window | [MINOZIS Encounter Design](GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md) |
-| Know it before you fight it | Evidence raises confidence grades; grades unlock tools | [Core Gameplay](GAME_DESIGN/CORE_GAMEPLAY.md) |
-| The last human aces | Four pilots, four wounds, one squadron | [Relationships](CHARACTERS/RELATIONSHIPS.md) |
+| Hesitation is worth protecting | The game makes restraint, verification and trust decisive | [Themes](THEMES.md) |
+| The enemy fights the operator | Operator Pressure, ghost transmissions and instrument lies target pilots, not airframes | [Squadron and Wingmen](SQUADRON_AND_WINGMEN.md) |
+| Physics is the only thing it cannot redefine | Fuel, heat, radiation and structure create every winnable window | [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md) |
+| Know it before you fight it | Evidence raises confidence grades; grades unlock tools | [Core Gameplay](CORE_GAMEPLAY.md) |
+| The last human aces | Four pilots, four wounds, one squadron | [Relationships](RELATIONSHIPS.md) |
 
 ## Audience and Tone
 
@@ -63,7 +69,7 @@ For players who value Ace Combat's radio-driven melodrama, superweapon set piece
 
 ## Where to Start
 
-- New to the project: [Story Synopsis](NARRATIVE/STORY_SYNOPSIS.md), then [Anton Belyaev](CHARACTERS/ANTON_BELYAEV.md), then [P00 Moroz](MISSIONS/P00_MOROZ.md).
-- Designing systems: [Core Gameplay](GAME_DESIGN/CORE_GAMEPLAY.md) and [MINOZIS Encounter Design](GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md).
-- Writing fiction: [Continuity Bible](REFERENCE/CONTINUITY_BIBLE.md), [Dialogue and Radio](NARRATIVE/DIALOGUE_AND_RADIO.md) and [Timeline](WORLD_AND_LORE/TIMELINE.md).
-- Checking canon: [Canon Foundation](WORLD_AND_LORE/CANON_FOUNDATION.md) and [Canon Sources](REFERENCE/CANON_SOURCES.md).
+- New to the project: [Story Synopsis](STORY_SYNOPSIS.md), then [Anton Belyaev](ANTON_BELYAEV.md), then [P00 Moroz](P00_MOROZ.md).
+- Designing systems: [Core Gameplay](CORE_GAMEPLAY.md) and [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md).
+- Writing fiction: [Continuity Bible](CONTINUITY_BIBLE.md), [Dialogue and Radio](DIALOGUE_AND_RADIO.md) and [Timeline](TIMELINE.md).
+- Checking canon: [Canon Foundation](CANON_FOUNDATION.md) and [Canon Sources](CANON_SOURCES.md).

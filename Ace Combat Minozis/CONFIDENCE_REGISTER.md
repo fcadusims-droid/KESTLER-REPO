@@ -1,8 +1,13 @@
+---
+section: "08 · Reference"
+order: 59
+---
+
 # Confidence Register
 
 The in-world grade of every major claim in the Strategic Intelligence Dossier as of March 2029, with the grade it reaches by the end of the campaign. The "Campaign end" column is the Intelligence Ledger's final state when all evidence is collected.
 
-Related: [Counter-MINOZIS Task Force](../WORLD_AND_LORE/FACTIONS/COUNTER_MINOZIS_TASK_FORCE.md) · [Core Gameplay: the Intelligence Ledger](../GAME_DESIGN/CORE_GAMEPLAY.md#5-the-intelligence-ledger)
+Related: [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md) · [Core Gameplay: the Intelligence Ledger](CORE_GAMEPLAY.md#5-the-intelligence-ledger)
 
 ---
 

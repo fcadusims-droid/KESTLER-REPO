@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 50
+---
+
 # M04 — Eyes Only
 
 | Field | Data |
@@ -11,7 +16,7 @@
 | Type | Deception sortie; network defense |
 | Time limit | 40 minutes (long by design) |
 
-Related: [Counter-MINOZIS Task Force](../WORLD_AND_LORE/FACTIONS/COUNTER_MINOZIS_TASK_FORCE.md) · [Cyber-Kinetic Systems](../GAME_DESIGN/CYBER_KINETIC_SYSTEMS.md) · [Katehild Eirhei](../CHARACTERS/KATEHILD_EIRHEI.md)
+Related: [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md) · [Cyber-Kinetic Systems](CYBER_KINETIC_SYSTEMS.md) · [Katehild Eirhei](KATEHILD_EIRHEI.md)
 
 ---
 
@@ -42,7 +47,7 @@ Tasking: Tier 2 deception. The squadron will fly a honeypot emission profile tha
 
 **Phase 1: The profile.** The flight flies a slow, precise pattern. Eirhei's empathy display is introduced: each wingman's Load meter and its tells. Loads rise slowly from boredom and dread.
 
-**Phase 2: Probing.** About twelve minutes in, HUD integrity alerts begin (see [Cyber-Kinetic Systems](../GAME_DESIGN/CYBER_KINETIC_SYSTEMS.md#2-hud-integrity)): a fuel reading that disagrees with the clock, a wingman's position on the datalink 300 meters from where he visibly is. The player cross-checks by eye and by MADL. The decoy network on *Albatross* lights up with intrusion attempts.
+**Phase 2: Probing.** About twelve minutes in, HUD integrity alerts begin (see [Cyber-Kinetic Systems](CYBER_KINETIC_SYSTEMS.md#2-hud-integrity)): a fuel reading that disagrees with the clock, a wingman's position on the datalink 300 meters from where he visibly is. The player cross-checks by eye and by MADL. The decoy network on *Albatross* lights up with intrusion attempts.
 
 **Phase 3: The scream.** Deep in the profile, Eirhei hears it first. If the player identifies it before the HUD flags it (secondary objective), the cell logs the bearing, and that bearing becomes the first localization data of the hunt.
 

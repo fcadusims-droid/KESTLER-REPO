@@ -1,3 +1,9 @@
+---
+section: "03 · Systems"
+description: "Magazine feature offers, the shoot and its scoring, and Photo Mode."
+order: 20
+---
+
 # Magazines and Photo Mode
 
 ## Magazine features

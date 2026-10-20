@@ -1,3 +1,9 @@
+---
+section: "03 · Systems"
+description: "Standing with individual NPCs, its inputs, ceiling and decay, shop credit, and racer Personality."
+order: 17
+---
+
 # Relationships: Standing and Personality
 
 Every named racer carries two independent values:
@@ -42,7 +48,7 @@ Beating someone fairly builds respect slowly; beating them badly destroys it fas
 
 | Source of the final point | Availability |
 |---|---|
-| Their crew's storyline, completed ([Crew storylines](../story/crew-storylines.md)) | Once per NPC |
+| Their crew's storyline, completed ([Crew storylines](crew-storylines.md)) | Once per NPC |
 | A dialogue thread across multiple encounters, answered consistently | Once per NPC |
 | Helping them with something that costs the protagonist money or a car | Once per NPC |
 | Declining their Invitational | Once per racer |
@@ -61,7 +67,7 @@ Decay applies to shop owners exactly as to racers, so credit terms erode when th
 
 ### Family ties
 
-Crew leaders and their district's mechanic are family ([Families](../story/cast.md#families)), and what Jake does to one reaches the other:
+Crew leaders and their district's mechanic are family ([Families](cast.md#families)), and what Jake does to one reaches the other:
 
 - **A pink slip or an Invitational win** against one family member (−2) moves the other **one point down**.
 - **Completing a family's crew storyline** moves the related family member **one point up**.
@@ -78,7 +84,7 @@ Crew leaders and their district's mechanic are family ([Families](../story/cast.
 | **Friendly (+1 to +2)** | Races hard but clean, gives room in ambiguous situations | Shares event locations, warns of police patrols |
 | **Loyal (+3)** | Will work *for* the player in team events, as far as their Personality allows | Lends a car when Jake's is impounded ([Borrowing a car](police.md#borrowing-a-car)); sells parts at cost |
 
-**Friendly and Loyal NPCs are the only people who can be recruited onto a festival team** ([Team](../festival/team.md#recruitment)). Every relationship built in the city is a potential seat on that roster.
+**Friendly and Loyal NPCs are the only people who can be recruited onto a festival team** ([Team](team.md#recruitment)). Every relationship built in the city is a potential seat on that roster.
 
 ## Jake's voice
 
@@ -95,8 +101,8 @@ Crew leaders and their district's mechanic are family ([Families](../story/cast.
 
 The player always chooses among responses written in Jake's voice. Every option is something Jake would say; none is cruel for its own sake, and none breaks the two things he never says in Nitroit:
 
-- **His surname.** Nobody in Nitroit learns that he is John Spaid's son ([The name](../story/campaign.md#the-name)).
-- **What the account is.** He mentions the inherited money twice in the whole game, both times without saying what it is or how much ([The money](../story/backstory.md#the-money)).
+- **His surname.** Nobody in Nitroit learns that he is John Spaid's son ([The name](campaign.md#the-name)).
+- **What the account is.** He mentions the inherited money twice in the whole game, both times without saying what it is or how much ([The money](backstory.md#the-money)).
 
 The growth is one-way. A relationship lost later does not shut him back up; it only means fewer people to talk to.
 
@@ -115,13 +121,13 @@ Credit applies to parts, repairs, labour, bail and impound fees alike. Outstandi
 
 A player deep in debt to a high-interest shop is functionally forced to keep racing — thematically exact and mechanically real.
 
-Shop Standing also decides which mechanics will join a festival team ([Mechanics](../festival/mechanics.md)).
+Shop Standing also decides which mechanics will join a festival team ([Mechanics](mechanics.md)).
 
 ## Personality
 
 Every named **racer** carries one of six personalities. It never changes, cannot be influenced, and is not a stat the player can improve. It decides how that racer drives when the result is in doubt — in the city and, far more consequentially, in the festival.
 
-Mechanics and shop owners are outside this system. They have personalities, but those live in dialogue and touch no number ([Mechanics](../festival/mechanics.md#mechanic-personality)).
+Mechanics and shop owners are outside this system. They have personalities, but those live in dialogue and touch no number ([Mechanics](mechanics.md#mechanic-personality)).
 
 | Personality | On track |
 |---|---|
@@ -136,7 +142,7 @@ Mechanics and shop owners are outside this system. They have personalities, but 
 
 - A **Loyal Competitor** would do anything for the protagonist except lose to him.
 - A **Friendly Wingman** will defend his position for a whole race to keep a rival off the protagonist — not out of affection, but because that is what he does.
-- A **Loyal Brawler** wrecking a rival for the protagonist's benefit still incurs the conduct penalty, and the team still pays for it ([Scoring](../festival/rank-and-championship.md#scoring)).
+- A **Loyal Brawler** wrecking a rival for the protagonist's benefit still incurs the conduct penalty, and the team still pays for it ([Scoring](rank-and-championship.md#scoring)).
 - A **Hostile Metronome** is harmless. He will not touch the protagonist; he will simply be in front of him.
 
-**Personality is visible in the city before it matters.** Racing someone on the street shows who defends, who lifts, who leans, who is quick alone and soft in traffic. Recruitment is therefore an informed decision, and a player who never raced anyone outside their own district is choosing a roster blind. How each personality behaves in each festival discipline is in [Disciplines](../festival/disciplines.md#running-order).
+**Personality is visible in the city before it matters.** Racing someone on the street shows who defends, who lifts, who leans, who is quick alone and soft in traffic. Recruitment is therefore an informed decision, and a player who never raced anyone outside their own district is choosing a roster blind. How each personality behaves in each festival discipline is in [Disciplines](disciplines.md#running-order).

@@ -1,8 +1,14 @@
+---
+section: "01 · Game Design"
+description: "Loop, point of view, Intelligence Ledger, difficulty, modes."
+order: 2
+---
+
 # Core Gameplay
 
 An arcade flight-combat game in the Ace Combat tradition: readable dogfights, large set pieces, a story told over the radio. Its distinguishing system is an enemy that fights the operator rather than the aircraft, and an intelligence layer that turns the in-world dossier into the player's progression.
 
-Related: [Project Overview](../PROJECT_OVERVIEW.md) · [Flight and Combat](FLIGHT_AND_COMBAT.md) · [Squadron and Wingmen](SQUADRON_AND_WINGMEN.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md) · [Campaign Structure](../NARRATIVE/CAMPAIGN_STRUCTURE.md)
+Related: [Project Overview](PROJECT_OVERVIEW.md) · [Flight and Combat](FLIGHT_AND_COMBAT.md) · [Squadron and Wingmen](SQUADRON_AND_WINGMEN.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md) · [Campaign Structure](CAMPAIGN_STRUCTURE.md)
 
 ---
 
@@ -44,7 +50,7 @@ Each sortie is built from these elements:
 
 ## 4. Point of View
 
-The player flies as different existing characters across the campaign (see [Campaign Structure](../NARRATIVE/CAMPAIGN_STRUCTURE.md#2-point-of-view)). Each POV changes three things:
+The player flies as different existing characters across the campaign (see [Campaign Structure](CAMPAIGN_STRUCTURE.md#2-point-of-view)). Each POV changes three things:
 
 | Changes | Example |
 |---|---|
@@ -56,7 +62,7 @@ The non-POV squadron members always fly as AI wingmen with their own signature b
 
 ## 5. The Intelligence Ledger
 
-The Ledger is the in-world Strategic Intelligence Dossier presented as the game's codex and progression layer. It opens in [M04](../MISSIONS/M04_EYES_ONLY.md).
+The Ledger is the in-world Strategic Intelligence Dossier presented as the game's codex and progression layer. It opens in [M04](M04_EYES_ONLY.md).
 
 ### Entries
 

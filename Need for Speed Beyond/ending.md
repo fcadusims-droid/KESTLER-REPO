@@ -1,6 +1,12 @@
+---
+section: "01 · Story"
+description: "The championship win, the contract, the final sequence, the post-credits scene and what stays open afterwards."
+order: 5
+---
+
 # Ending
 
-How the championship is reached and decided is in [Rank and championship](../festival/rank-and-championship.md). This file covers what happens once Jake wins.
+How the championship is reached and decided is in [Rank and championship](rank-and-championship.md). This file covers what happens once Jake wins.
 
 ## The shape of the ending
 
@@ -71,7 +77,7 @@ That is the end of *Need for Speed: Beyond*.
 Once the Circuit Final is won, both halves of the game remain permanently open:
 
 - Nitroit keeps all seven districts, all street events, all police pursuits, all wager events and all crew content.
-- The festival can be re-entered for new editions whenever the player chooses to wait for one ([Between editions](../systems/time.md#between-editions)). Rank and Team Standings reset each season; cars and money — including every festival purse won — do not.
+- The festival can be re-entered for new editions whenever the player chooses to wait for one ([Between editions](time.md#between-editions)). Rank and Team Standings reset each season; cars and money — including every festival purse won — do not.
 - Every NPC the player built a relationship with remains available in both locations, and rosters can be rebuilt season to season.
 - No content is locked by completion.
 

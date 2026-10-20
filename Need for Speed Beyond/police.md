@@ -1,6 +1,12 @@
+---
+section: "03 · Systems"
+description: "Heat and starting heat, fines, impound, auctions, borrowing a car, and the police List."
+order: 18
+---
+
 # Police
 
-Police exist only in Nitroit. Revada has none ([Revada](../world/revada.md#not-an-open-world)).
+Police exist only in Nitroit. Revada has none ([Revada](revada.md#not-an-open-world)).
 
 ## Heat
 
@@ -65,7 +71,7 @@ A Loyal racer can lend Jake a car while one of his is impounded. The option is a
 - **It is not his.** It cannot be modified beyond tuning values, staked in a wager or Invitational, sold, or entered in the festival. It takes no garage space.
 - **If Jake is busted in it**, the car goes straight back to its owner, the fine is added to what he already owes the state, and that friend's Standing drops by 1 ([Inputs](relationships.md#inputs)).
 
-A borrowed car is not a gift; the game still never gives Jake a car ([What the purchase establishes](../story/campaign.md#what-the-purchase-establishes)).
+A borrowed car is not a gift; the game still never gives Jake a car ([What the purchase establishes](campaign.md#what-the-purchase-establishes)).
 
 ## The List
 

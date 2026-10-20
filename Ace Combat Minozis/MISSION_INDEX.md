@@ -1,6 +1,11 @@
+---
+section: "07 · Missions"
+order: 44
+---
+
 # Mission Index
 
-Related: [Campaign Structure](../NARRATIVE/CAMPAIGN_STRUCTURE.md) · [Story Synopsis](../NARRATIVE/STORY_SYNOPSIS.md) · [Core Gameplay](../GAME_DESIGN/CORE_GAMEPLAY.md)
+Related: [Campaign Structure](CAMPAIGN_STRUCTURE.md) · [Story Synopsis](STORY_SYNOPSIS.md) · [Core Gameplay](CORE_GAMEPLAY.md)
 
 ---
 
@@ -28,8 +33,8 @@ Every mission document uses the same sections:
 3. **Briefing:** in-world text as presented to the player.
 4. **Objectives:** primary, secondary and hidden.
 5. **Flow:** phases, triggers and set pieces.
-6. **Key radio:** fixed lines (see [Dialogue and Radio](../NARRATIVE/DIALOGUE_AND_RADIO.md)).
+6. **Key radio:** fixed lines (see [Dialogue and Radio](DIALOGUE_AND_RADIO.md)).
 7. **Systems showcased:** which mechanics the mission teaches or tests.
 8. **Failure conditions.**
 9. **Debrief and circle.**
-10. **Ledger entries:** dossier entries unlocked or upgraded (see [Intelligence Ledger](../GAME_DESIGN/CORE_GAMEPLAY.md#5-the-intelligence-ledger)).
+10. **Ledger entries:** dossier entries unlocked or upgraded (see [Intelligence Ledger](CORE_GAMEPLAY.md#5-the-intelligence-ledger)).

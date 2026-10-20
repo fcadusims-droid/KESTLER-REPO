@@ -131,7 +131,8 @@ function firstParagraph(md: string): string {
       /^([-*+]|\d+[.)])\s/.test(line) || // list item
       /^\|/.test(line) || // table
       /^```/.test(line) || // fence
-      /^<!--/.test(line) // comment
+      /^<!--/.test(line) || // comment
+      /^(Related|See also):/i.test(line) // cross-reference line
     ) {
       if (buf.length) break
       continue

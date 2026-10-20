@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 30
+---
+
 # Colonel Vasily Gorev
 
 > "They will call this cruelty. It is not cruelty. Cruelty enjoys itself. I enjoy nothing. I am simply unwilling to lose eleven more men to the comfort of a committee that gets to grieve them afterward and call the grief wisdom."
@@ -10,7 +15,7 @@
 | Fate | Arrested March 2027; presumed dead in custody before year's end |
 | Appears | Prologue briefing flashback; Intelligence Ledger; [The Last Recording](#5-the-last-recording) |
 
-Related: [Directorate Zimniy](../WORLD_AND_LORE/FACTIONS/DIRECTORATE_ZIMNIY.md) · [Anton Belyaev](ANTON_BELYAEV.md) · [Operation Winter King](../WORLD_AND_LORE/OPERATION_WINTER_KING.md)
+Related: [Directorate Zimniy](DIRECTORATE_ZIMNIY.md) · [Anton Belyaev](ANTON_BELYAEV.md) · [Operation Winter King](OPERATION_WINTER_KING.md)
 
 ---
 

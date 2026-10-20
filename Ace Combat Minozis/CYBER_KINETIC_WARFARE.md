@@ -1,8 +1,13 @@
+---
+section: "04 · Technology"
+order: 24
+---
+
 # Cyber-Kinetic Warfare
 
 Direct air combat is the least favorable and least important layer of the MINOZIS threat. The aircraft fights the airbase before it fights the aircraft.
 
-Related: [MNZ-41](MNZ-41_MINOZIS.md) · [Cyber-Kinetic Systems (game design)](../../GAME_DESIGN/CYBER_KINETIC_SYSTEMS.md) · [Counter-MINOZIS Task Force](../FACTIONS/COUNTER_MINOZIS_TASK_FORCE.md)
+Related: [MNZ-41](MNZ-41_MINOZIS.md) · [Cyber-Kinetic Systems (game design)](CYBER_KINETIC_SYSTEMS.md) · [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md)
 
 ---
 

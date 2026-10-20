@@ -1,3 +1,9 @@
+---
+section: "01 · Game Design"
+description: "Readiness, parts, doctrine modules."
+order: 8
+---
+
 # Progression and Hangar
 
 Progression has three tracks: what the squadron can fly and carry (the hangar), what the squadron knows (the Ledger), and how the squadron flies (lessons learned from scenes, sorties and drills). The second gates the most valuable tools and sets the quality of the third. The third, and the enemy's learning against it, is described in [Adaptive Progression](ADAPTIVE_PROGRESSION.md).

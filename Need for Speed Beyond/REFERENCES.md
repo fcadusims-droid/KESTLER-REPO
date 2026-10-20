@@ -1,3 +1,9 @@
+---
+section: "05 · Reference"
+description: "Real-world sources checked, and which statements are verified fact versus project decision."
+order: 30
+---
+
 # References
 
 Real-world facts the design relies on, the sources checked, and the line between established fact and project decision.
@@ -6,14 +12,14 @@ Real-world facts the design relies on, the sources checked, and the line between
 
 | Statement | Status | Where used |
 |---|---|---|
-| GT3 is a category of competition car built to a regulation, rear-wheel drive, balanced between makes by Balance of Performance and run largely by customer teams. | Established fact (general motorsport knowledge; consistent with the sources below) | [Backstory](story/backstory.md#the-father) |
-| The FIA World Endurance Championship runs a GT3-based class, LMGT3, and has done so since at least the 2024 season. | Established fact — sources 1, 2, 3 | [Backstory](story/backstory.md#the-father) |
-| In the WEC, the world championship titles belong to the Hypercar category; the LMGT3 class awards the **FIA Endurance Trophy for LMGT3 Drivers** and **for LMGT3 Teams**, not a world championship. | Established fact — sources 1, 2 | [Backstory](story/backstory.md#the-father) |
-| In WEC, drivers who share a car as a permanent crew score the same points. | Established fact — source 1 | [Backstory](story/backstory.md#the-father) |
-| US broadcast stations must identify themselves hourly, as close to the hour as feasible, with call letters followed by their community of licence. | Established fact — sources 4, 5 | [Radio](world/radio.md#how-the-stations-work) |
-| John Spaid raced in the real WEC LMGT3 class and died leading it in the late 2020s; the game is set in the early 2030s. | Project decision, built on the facts above | [Backstory](story/backstory.md#the-father) |
-| WEC classifies cars by distance covered; a car is classified if it has covered at least 70% of the winner's distance. A car stopped on the last lap is therefore classified behind every car that completed it. | Established fact — source 6 | [Backstory](story/backstory.md#the-father) |
-| John's co-drivers, his crash, and the trophy going to the second-placed crew. | Project decision (fiction) | [Backstory](story/backstory.md#the-father) |
+| GT3 is a category of competition car built to a regulation, rear-wheel drive, balanced between makes by Balance of Performance and run largely by customer teams. | Established fact (general motorsport knowledge; consistent with the sources below) | [Backstory](backstory.md#the-father) |
+| The FIA World Endurance Championship runs a GT3-based class, LMGT3, and has done so since at least the 2024 season. | Established fact — sources 1, 2, 3 | [Backstory](backstory.md#the-father) |
+| In the WEC, the world championship titles belong to the Hypercar category; the LMGT3 class awards the **FIA Endurance Trophy for LMGT3 Drivers** and **for LMGT3 Teams**, not a world championship. | Established fact — sources 1, 2 | [Backstory](backstory.md#the-father) |
+| In WEC, drivers who share a car as a permanent crew score the same points. | Established fact — source 1 | [Backstory](backstory.md#the-father) |
+| US broadcast stations must identify themselves hourly, as close to the hour as feasible, with call letters followed by their community of licence. | Established fact — sources 4, 5 | [Radio](radio.md#how-the-stations-work) |
+| John Spaid raced in the real WEC LMGT3 class and died leading it in the late 2020s; the game is set in the early 2030s. | Project decision, built on the facts above | [Backstory](backstory.md#the-father) |
+| WEC classifies cars by distance covered; a car is classified if it has covered at least 70% of the winner's distance. A car stopped on the last lap is therefore classified behind every car that completed it. | Established fact — source 6 | [Backstory](backstory.md#the-father) |
+| John's co-drivers, his crash, and the trophy going to the second-placed crew. | Project decision (fiction) | [Backstory](backstory.md#the-father) |
 | Nitroit; Revada; the Revada Festival; every crew, venue, station and character. | Project decision (fiction) | Throughout |
 
 ## Sources

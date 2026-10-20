@@ -1,3 +1,8 @@
+---
+section: "04 · Technology"
+order: 21
+---
+
 # MNZ-41 "MINOZIS"
 
 | Field | Data |
@@ -9,7 +14,7 @@
 | Hidden purpose | Autonomous strategic assassination under OPERATION WINTER KING |
 | Designation from May 2028 | POSTHUMUS (Yuktobanian Internal Security) |
 
-Related: [COFFIN, ENSI and Wetware](COFFIN_ENSI_AND_WETWARE.md) · [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md) · [Cyber-Kinetic Warfare](CYBER_KINETIC_WARFARE.md) · [MINOZIS Encounter Design](../../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [COFFIN, ENSI and Wetware](COFFIN_ENSI_AND_WETWARE.md) · [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md) · [Cyber-Kinetic Warfare](CYBER_KINETIC_WARFARE.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 

@@ -1,8 +1,14 @@
+---
+section: "02 · World and Lore"
+description: "Debt, the Arctic, the 2028 crisis, Sotoa."
+order: 13
+---
+
 # Geopolitics, 2019–2029
 
 The world that built MINOZIS was not at war. It was in debt, under-observed and full of weapons nobody had finished burying. This document describes that world from the end of the Lighthouse War to the eve of the Sotoa–Usea War.
 
-Related: [Timeline](TIMELINE.md) · [Canon Foundation](CANON_FOUNDATION.md) · [Directorate Zimniy](FACTIONS/DIRECTORATE_ZIMNIY.md) · [The Agreed Fiction](THE_AGREED_FICTION.md)
+Related: [Timeline](TIMELINE.md) · [Canon Foundation](CANON_FOUNDATION.md) · [Directorate Zimniy](DIRECTORATE_ZIMNIY.md) · [The Agreed Fiction](THE_AGREED_FICTION.md)
 
 ---
 
@@ -38,7 +44,7 @@ Creditors that hold sovereign collateral acquire an interest in whether the sove
 
 Thirty years of conflict had scattered military autonomy across the world: Z.O.E.-derived control software, ADF-11F Ravens, MQ-101 drones, drone-control modules and the engineers who understood them. Former Gründer personnel sold their knowledge to whoever would protect them. Neo-Belkan cells pursued the old borderless vision with stolen hardware. Corporate proxies moved controlled technology through neutral corridors under refugee cover.
 
-This is the threat environment the ISAF Revival Initiative was chartered to contain. See [ISAF Revival Initiative](FACTIONS/ISAF_REVIVAL_INITIATIVE.md).
+This is the threat environment the ISAF Revival Initiative was chartered to contain. See [ISAF Revival Initiative](ISAF_REVIVAL_INITIATIVE.md).
 
 ## 5. The 2028 Crisis
 
@@ -76,4 +82,4 @@ Three consequences of that assessment shape the campaign:
 
 1. **The theater will move.** A major Usean war would strip the persistent surveillance assets the Task Force depends on within weeks.
 2. **The scoring function will find new targets.** A new war creates new commanders and new institutional weak points faster than any protection effort can cover them.
-3. **The window is short.** The Task Force must end the aircraft before the theater changes. That conclusion drives the campaign toward [Operation ANCHOR](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) in June 2029.
+3. **The window is short.** The Task Force must end the aircraft before the theater changes. That conclusion drives the campaign toward [Operation ANCHOR](M09_ANCHOR_IN_THE_STORM.md) in June 2029.

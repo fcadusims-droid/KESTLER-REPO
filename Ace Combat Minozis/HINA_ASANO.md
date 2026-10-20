@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 34
+---
+
 # Captain Hina Asano — "Nine"
 
 > "If I laugh loudly enough, no one will see that I am bleeding."
@@ -11,9 +16,9 @@
 | Nationality | Yuktobanian / Osean (dual) |
 | Position | Element 2, paired with Six |
 | Aircraft | F/A-18E Super Hornet (single-seat), leading edges and tail trimmed in pink |
-| Playable | [M03](../MISSIONS/M03_KEY_ROTATION.md), [M07](../MISSIONS/M07_THIRTY_KILOMETERS.md) |
+| Playable | [M03](M03_KEY_ROTATION.md), [M07](M07_THIRTY_KILOMETERS.md) |
 
-Related: [Jonah Marsh](JONAH_MARSH.md) · [Relationships](RELATIONSHIPS.md) · [Squadron Gameplay](../GAME_DESIGN/SQUADRON_AND_WINGMEN.md)
+Related: [Jonah Marsh](JONAH_MARSH.md) · [Relationships](RELATIONSHIPS.md) · [Squadron Gameplay](SQUADRON_AND_WINGMEN.md)
 
 ---
 
@@ -58,9 +63,9 @@ She flies the same F/A-18E as Marsh so that the two operate as one distributed i
 
 | Mission | Beat |
 |---|---|
-| [M01 Four of a Kind](../MISSIONS/M01_FOUR_OF_A_KIND.md) | Flips a six into a nine and gives the insignia its joke. |
+| [M01 Four of a Kind](M01_FOUR_OF_A_KIND.md) | Flips a six into a nine and gives the insignia its joke. |
 | 2028 (backstory) | Sings a Yuktobanian song about a lost child far from home on a channel she does not know is open. Marsh does not joke. |
-| [M03 Key Rotation](../MISSIONS/M03_KEY_ROTATION.md) | Reads a handshake that should not exist inside a hijacked swarm. Nobody believes her until the drones turn. |
-| [M07 Thirty Kilometers](../MISSIONS/M07_THIRTY_KILOMETERS.md) | Seven minutes of "Eject, eject, eject" in a dead Yuktobanian's cadence, with no joke that can touch it. Marsh tells her she does not have to be funny. She flies the rest of the mission without performing. |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | Reads the aircraft's power budget out loud for Thorne, second by second. |
+| [M03 Key Rotation](M03_KEY_ROTATION.md) | Reads a handshake that should not exist inside a hijacked swarm. Nobody believes her until the drones turn. |
+| [M07 Thirty Kilometers](M07_THIRTY_KILOMETERS.md) | Seven minutes of "Eject, eject, eject" in a dead Yuktobanian's cadence, with no joke that can touch it. Marsh tells her she does not have to be funny. She flies the rest of the mission without performing. |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | Reads the aircraft's power budget out loud for Thorne, second by second. |
 | Final circle | Honest, as always. This time nobody has to pretend not to notice. |

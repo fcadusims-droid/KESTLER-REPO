@@ -1,6 +1,12 @@
+---
+section: "01 · Game Design"
+description: "Commands, Operator Pressure and Load, cohesion."
+order: 4
+---
+
 # Squadron and Wingmen
 
-Related: [Adaptive Progression](ADAPTIVE_PROGRESSION.md) · [Relationships](../CHARACTERS/RELATIONSHIPS.md) · [Core Gameplay](CORE_GAMEPLAY.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [Adaptive Progression](ADAPTIVE_PROGRESSION.md) · [Relationships](RELATIONSHIPS.md) · [Core Gameplay](CORE_GAMEPLAY.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 
@@ -78,4 +84,4 @@ Cohesion changes dialogue in later circles and the tone of the epilogue circle. 
 
 ## 5. The Threat Surface in Play
 
-The squadron's wounds are mapped to the missions where the enemy presses them (see [Relationships: The Threat Surface](../CHARACTERS/RELATIONSHIPS.md#4-the-threat-surface)). Each of those missions puts the affected pilot in the POV seat, so the player experiences the Load from inside.
+The squadron's wounds are mapped to the missions where the enemy presses them (see [Relationships: The Threat Surface](RELATIONSHIPS.md#4-the-threat-surface)). Each of those missions puts the affected pilot in the POV seat, so the player experiences the Load from inside.

@@ -1,6 +1,12 @@
+---
+section: "01 · Game Design"
+description: "Visual languages, HUD, sound and music."
+order: 10
+---
+
 # UI, HUD and Audio
 
-Related: [Flight and Combat](FLIGHT_AND_COMBAT.md) · [Dialogue and Radio](../NARRATIVE/DIALOGUE_AND_RADIO.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [Flight and Combat](FLIGHT_AND_COMBAT.md) · [Dialogue and Radio](DIALOGUE_AND_RADIO.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 

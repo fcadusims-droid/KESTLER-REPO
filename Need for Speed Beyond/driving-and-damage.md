@@ -1,3 +1,9 @@
+---
+section: "03 · Systems"
+description: "The single driving model, the festival simulation layer, and how damage and repair work in each half."
+order: 12
+---
+
 # Driving and Damage
 
 ## One driving model
@@ -36,8 +42,8 @@ A single simcade physics model governs every event in both halves of the game.
 | **Damage during an event** | Visual only; no performance effect | Aerodynamic, mechanical and alignment damage degrade the car in real time |
 | **Damage after an event** | Persists; costs money to repair | Persists; repaired by the discipline's mechanic |
 | **Restarts** | Freely available, except in [Invitationals](street-events.md#invitationals) | Not available inside a session |
-| **Setup** | Simplified presets plus manual tuning | The mechanic supplies a working baseline; the player adjusts a short list of meaningful values ([Mechanics](../festival/mechanics.md)) |
-| **Regulation** | None ([Street culture](../world/street-scene.md#street-culture)) | Scrutineered before the event, spot-checked after ([Regulations](../festival/regulations.md)) |
+| **Setup** | Simplified presets plus manual tuning | The mechanic supplies a working baseline; the player adjusts a short list of meaningful values ([Mechanics](mechanics.md)) |
+| **Regulation** | None ([Street culture](street-scene.md#street-culture)) | Scrutineered before the event, spot-checked after ([Regulations](regulations.md)) |
 
 **Where the line is drawn.** The festival simulates **what a driver can feel and act on from inside the car during the race**. It does not simulate what a professional engineering department would manage around the race.
 
@@ -50,7 +56,7 @@ A single simcade physics model governs every event in both halves of the game.
 | Slipstream | Balance-of-performance adjustment |
 | Surface condition and weather | Component wear across a season |
 
-**Strategy happens on the track, not on a pit wall.** The player never opens a strategy menu, chooses a stint plan, or watches a race from a timing screen. Every decision is made at speed with hands on the wheel ([Season](../festival/season.md#what-strategy-means)).
+**Strategy happens on the track, not on a pit wall.** The player never opens a strategy menu, chooses a stint plan, or watches a race from a timing screen. Every decision is made at speed with hands on the wheel ([Season](season.md#what-strategy-means)).
 
 **Why it is split this way.** The city is where the protagonist is comfortable, and the game lets the player be comfortable there: get in, drive, win, leave; nothing is measured except whether you were first. The festival measures whether the tyres are ready, whether the contact was yours, whether the car was legal, and it measures in public. The step up is real and meant to be felt — but it is a step up in what the driver manages, not in what a team of engineers models.
 
@@ -77,11 +83,11 @@ Damage **persists after the event and costs money to repair**. It shows on the c
 
 Damage is **live**. Aerodynamic damage costs downforce and adds drag; a frontal impact reduces power delivery and cooling; a heavy lateral hit introduces steering pull and uneven grip. All of it applies immediately, for the rest of the session, with no restart available.
 
-This makes the festival's conduct multiplier ([Scoring](../festival/rank-and-championship.md#scoring)) bite twice: contact costs points *and* lap time in the same incident.
+This makes the festival's conduct multiplier ([Scoring](rank-and-championship.md#scoring)) bite twice: contact costs points *and* lap time in the same incident.
 
 ### Repair
 
 - **In the city**, repair is done at any shop and costs money, scaling with damage severity and the value of the parts affected. Shop Standing applies to repair pricing and credit exactly as it does to parts ([Shops and credit](relationships.md#shops-and-credit)).
-- **In the festival**, repair between rounds is handled by the discipline's mechanic, at a cost and speed set by their Expertise ([Mechanics](../festival/mechanics.md#expertise)).
+- **In the festival**, repair between rounds is handled by the discipline's mechanic, at a cost and speed set by their Expertise ([Mechanics](mechanics.md#expertise)).
 
 **This is the mechanical consequence of Hostile Standing.** A racer who rams the protagonist for an entire event produces a repair bill in the city and a lost result in the festival. Relationships have a running cost, paid in a different currency on each side of the map.

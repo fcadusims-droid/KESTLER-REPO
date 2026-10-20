@@ -1,3 +1,9 @@
+---
+section: "03 · Systems"
+description: "The asynchronous online layer: sharing, applying, crediting and endorsing Blueprints."
+order: 21
+---
+
 # Blueprint Network
 
 ## Principle
@@ -52,7 +58,7 @@ Always optional and never intrusive:
 
 - **Garage feed.** When the player owns a chassis, community Blueprints for it can be browsed and filtered by discipline, class legality and endorsement count.
 - **Shop terminals.** Independent shops display community builds that use parts they stock.
-- **Festival registration.** When registering for a discipline, the game offers community Blueprints that are *legal for that class and regulation set* ([Regulations](../festival/regulations.md)) — the most practically useful surfacing point, and the one most likely to rescue a player whose team has nobody in the top eight of a weak discipline.
+- **Festival registration.** When registering for a discipline, the game offers community Blueprints that are *legal for that class and regulation set* ([Regulations](regulations.md)) — the most practically useful surfacing point, and the one most likely to rescue a player whose team has nobody in the top eight of a weak discipline.
 
 ## Offline
 

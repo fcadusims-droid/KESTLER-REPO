@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 28
+---
+
 # Yekaterina "Katya" Mikhailovna Belyaeva
 
 > "When the storm comes, remember you have a harbor."
@@ -11,7 +16,7 @@
 | Task Force role | Restricted structural consultant from 2028 |
 | Playable | No |
 
-Related: [Anton Belyaev](ANTON_BELYAEV.md) · [Irina Belyaeva](IRINA_BELYAEVA.md) · [The Agreed Fiction](../WORLD_AND_LORE/THE_AGREED_FICTION.md) · [M06 Harbor](../MISSIONS/M06_HARBOR.md) · [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md)
+Related: [Anton Belyaev](ANTON_BELYAEV.md) · [Irina Belyaeva](IRINA_BELYAEVA.md) · [The Agreed Fiction](THE_AGREED_FICTION.md) · [M06 Harbor](M06_HARBOR.md) · [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md)
 
 ---
 
@@ -52,10 +57,10 @@ She does not believe the residue is Anton, and she does not believe it is not. S
 
 | Stage | Beat |
 |---|---|
-| Act II briefings | Her structural findings appear as Intelligence Ledger entries that unlock the [RCS hotspot and seam tactics](../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md) |
-| [M06 Harbor](../MISSIONS/M06_HARBOR.md) | She and Irina fly toward *Albatross* to work with the squadron. POSTHUMUS attacks the transport. She hears her husband's voice say a word from her own kitchen. |
+| Act II briefings | Her structural findings appear as Intelligence Ledger entries that unlock the [RCS hotspot and seam tactics](MINOZIS_ENCOUNTER_DESIGN.md) |
+| [M06 Harbor](M06_HARBOR.md) | She and Irina fly toward *Albatross* to work with the squadron. POSTHUMUS attacks the transport. She hears her husband's voice say a word from her own kitchen. |
 | Between M06 and M09 | She asks to meet the pilots. She tells Vance she does not need to be forgiven by anyone in the family, because nobody in the family ever blamed her. Vance does not accept it. |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | The Task Force authorizes a Tier 3 high-emotional-index trigger. She volunteers to deliver it herself, live, on the open channel: "You have a harbor." She says one more thing after the authorized line. |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | The Task Force authorizes a Tier 3 high-emotional-index trigger. She volunteers to deliver it herself, live, on the open channel: "You have a harbor." She says one more thing after the authorized line. |
 
 Her decision in M09 is the moral center of the finale. She is using the love the machine kept him alive with to bring the machine down. She knows exactly what she is doing, and it is the difference between her harbor and General Resource's.
 

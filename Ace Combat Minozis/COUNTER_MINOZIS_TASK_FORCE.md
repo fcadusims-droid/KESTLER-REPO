@@ -1,3 +1,8 @@
+---
+section: "03 · Factions"
+order: 17
+---
+
 # Counter-MINOZIS Task Force
 
 **Established:** under the Counter-MINOZIS Liaison Instrument, October 2028
@@ -5,7 +10,7 @@
 **Analytical core:** Joint Threat Analysis Division and Strategic Behavioral Analysis Division ("the cell")
 **Primary product:** the Strategic Intelligence Dossier, compiled March 2029
 
-Related: [The Agreed Fiction](../THE_AGREED_FICTION.md) · [Confidence Register](../../REFERENCE/CONFIDENCE_REGISTER.md) · [ISAF Revival Initiative](ISAF_REVIVAL_INITIATIVE.md) · [MINOZIS Encounter Design](../../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [The Agreed Fiction](THE_AGREED_FICTION.md) · [Confidence Register](CONFIDENCE_REGISTER.md) · [ISAF Revival Initiative](ISAF_REVIVAL_INITIATIVE.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 
@@ -15,7 +20,7 @@ The Task Force exists to find and end a platform that two governments officially
 
 ## 2. The Dossier
 
-The Strategic Intelligence Dossier (classification COSMIC TOP SECRET // SPECIAL ACCESS REQUIRED // EYES ONLY; destruction exception: historical record) is the Task Force's master reference. In the game it is the backbone of the [Intelligence Ledger](../../GAME_DESIGN/CORE_GAMEPLAY.md#5-the-intelligence-ledger): every entry the player unlocks is a dossier entry with a confidence grade.
+The Strategic Intelligence Dossier (classification COSMIC TOP SECRET // SPECIAL ACCESS REQUIRED // EYES ONLY; destruction exception: historical record) is the Task Force's master reference. In the game it is the backbone of the [Intelligence Ledger](CORE_GAMEPLAY.md#5-the-intelligence-ledger): every entry the player unlocks is a dossier entry with a confidence grade.
 
 ### Source grading
 
@@ -60,7 +65,7 @@ Do not begin with air-to-air combat. By the time a pilot sees MINOZIS, the campa
 
 ### Tier 1: Ground interdiction
 
-**Objective:** capability denial, not starvation. The platform can transit and survive indefinitely on industrial hydrogen from dozens of nodes. What it cannot do without slush hydrogen is sprint, hold plasma stealth under load, or run peak cyber operations and full substrate cooling at the same time. See the [fuel ladder](../TECHNOLOGY/MNZ-41_MINOZIS.md#4-the-fuel-ladder).
+**Objective:** capability denial, not starvation. The platform can transit and survive indefinitely on industrial hydrogen from dozens of nodes. What it cannot do without slush hydrogen is sprint, hold plasma stealth under load, or run peak cyber operations and full substrate cooling at the same time. See the [fuel ladder](MNZ-41_MINOZIS.md#4-the-fuel-ladder).
 
 - Monitor the three slush facilities; attack during 45–90 minute refueling windows.
 - Sabotage transfer equipment rather than hardened facilities.
@@ -83,7 +88,7 @@ Force conditions that stress the wetware: operations above 30 km, rapid thermal 
 
 > **Ethical warning.** Provoking Belyaev-pattern distress may give tactical advantage. It is also psychological exploitation of a non-consenting human neural residue. Command authorization is required.
 
-> **Strategic caution.** Every Tier 3 operation accelerates degradation of the original tissue, and that tissue is the principal obstacle to the unbounded projection (see [MINOZIS Intelligence](../TECHNOLOGY/MINOZIS_INTELLIGENCE.md#7-the-drag)). Tier 3 buys advantage now at the cost of the defense later. Authorizing officers are briefed on the ambiguity and record that they were.
+> **Strategic caution.** Every Tier 3 operation accelerates degradation of the original tissue, and that tissue is the principal obstacle to the unbounded projection (see [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md#7-the-drag)). Tier 3 buys advantage now at the cost of the defense later. Authorizing officers are briefed on the ambiguity and record that they were.
 
 ### Tier 4: Direct engagement
 

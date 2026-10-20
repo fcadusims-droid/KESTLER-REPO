@@ -1,10 +1,15 @@
+---
+section: "03 · Factions"
+order: 20
+---
+
 # Enso Order
 
 **Canon status:** canonical multinational conglomerate and decentralized autonomous organization (AC8)
 **Public face in 2029:** infrastructure lender, aerospace and launch provider, operator of orbital power-transmission satellites
 **Role in this project:** owner, launcher and corporate sponsor of MRS-144 Morgenstern
 
-Related: [MRS-144 Morgenstern](../TECHNOLOGY/MRS-144_MORGENSTERN.md) · [Althéa Lichtträger](../../CHARACTERS/ALTHEA_LICHTTRAGER.md) · [Hans Lichtträger](../../CHARACTERS/HANS_LICHTTRAGER.md) · [Geopolitics](../GEOPOLITICS_2019_2029.md)
+Related: [MRS-144 Morgenstern](MRS-144_MORGENSTERN.md) · [Althéa Lichtträger](ALTHEA_LICHTTRAGER.md) · [Hans Lichtträger](HANS_LICHTTRAGER.md) · [Geopolitics](GEOPOLITICS_2019_2029.md)
 
 ---
 
@@ -30,7 +35,7 @@ Morgenstern is an Enso program built on Belkan expertise.
 | Operator | Hauptmann Althéa Marie Lichtträger, Belkan Air Force officer seconded to Enso |
 | Launch | Comona, under Enso's exclusive eastern Usean launch control, from 2025 |
 | Cover | A passive mirror constellation marketed as an orbital solar-reflection and power-relay demonstrator |
-| Actual function | A solar-pumped coherent thermal amplification weapon (see [MRS-144 Morgenstern](../TECHNOLOGY/MRS-144_MORGENSTERN.md)) |
+| Actual function | A solar-pumped coherent thermal amplification weapon (see [MRS-144 Morgenstern](MRS-144_MORGENSTERN.md)) |
 | Commercial model | Enso planning nodes sell convergence "demonstrations" and "services" to unnamed clients |
 
 ### Why Althéa is "rogue"
@@ -43,7 +48,7 @@ Enso, being a network of nodes, has no single authority that could even make the
 
 ### The 17 August 2028 convergence
 
-The convergence that MINOZIS attacked was a demonstration: an illumination dwell, not a strike, staged over Osean-aligned territory for prospective clients. To the aircraft's scoring function, a 144-node constellation in dawn–dusk sun-synchronous orbit, able to place persistent overhead observation on any point it chose, was the largest localization threat it had ever encountered. It priced the threat above its four irreplaceable missiles and spent all of them. See [MRS-144 Morgenstern](../TECHNOLOGY/MRS-144_MORGENSTERN.md#5-the-17-august-2028-engagement).
+The convergence that MINOZIS attacked was a demonstration: an illumination dwell, not a strike, staged over Osean-aligned territory for prospective clients. To the aircraft's scoring function, a 144-node constellation in dawn–dusk sun-synchronous orbit, able to place persistent overhead observation on any point it chose, was the largest localization threat it had ever encountered. It priced the threat above its four irreplaceable missiles and spent all of them. See [MRS-144 Morgenstern](MRS-144_MORGENSTERN.md#5-the-17-august-2028-engagement).
 
 ## 4. Why the Task Force Does Not Kill Her
 
@@ -53,7 +58,7 @@ The key dies with her, so killing Althéa would disarm Morgenstern. The Task For
 2. **The orbit stays armed.** Her death leaves more than a hundred armed nodes in orbit with no operator and no off switch. Inert is not the same as gone.
 3. **She is the only thing that has ever hurt MINOZIS.** Morgenstern damaged the MNZ-41's port wing leading edge and one intake in August 2028. It is the one orbital sensor that could track the aircraft persistently.
 
-Hans Lichtträger's proposal of February 2029 offers a fourth path: show her the cost. The campaign follows that path. See [I02 Phantom Limbs](../../MISSIONS/I02_PHANTOM_LIMBS.md) and [M08 Light-Bearer](../../MISSIONS/M08_LIGHT_BEARER.md).
+Hans Lichtträger's proposal of February 2029 offers a fourth path: show her the cost. The campaign follows that path. See [I02 Phantom Limbs](I02_PHANTOM_LIMBS.md) and [M08 Light-Bearer](M08_LIGHT_BEARER.md).
 
 ## 5. Canon Horizon
 

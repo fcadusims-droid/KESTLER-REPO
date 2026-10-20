@@ -1,8 +1,14 @@
+---
+section: "02 · World and Lore"
+description: "Cover stories and the Liaison Instrument."
+order: 15
+---
+
 # The Agreed Fiction
 
 Within seventy-two hours of 18 June 2025, Osea and Yuktobania built two lies that fit together. This document covers those lies, the instrument that later made them partners in hunting what they hid, and the pressure that was breaking the arrangement by 2029.
 
-Related: [Counter-MINOZIS Task Force](FACTIONS/COUNTER_MINOZIS_TASK_FORCE.md) · [Operation Winter King](OPERATION_WINTER_KING.md) · [Geopolitics](GEOPOLITICS_2019_2029.md)
+Related: [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md) · [Operation Winter King](OPERATION_WINTER_KING.md) · [Geopolitics](GEOPOLITICS_2019_2029.md)
 
 ---
 

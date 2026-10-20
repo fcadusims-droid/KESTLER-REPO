@@ -1,6 +1,12 @@
+---
+section: "02 · World and Lore"
+description: "What is canon and how the project builds on it."
+order: 11
+---
+
 # Canon Foundation
 
-This document states which parts of the setting come from Ace Combat canon and how the project builds on them. Sources are listed in [Canon Sources](../REFERENCE/CANON_SOURCES.md). Fixed facts are restated in the [Continuity Bible](../REFERENCE/CONTINUITY_BIBLE.md).
+This document states which parts of the setting come from Ace Combat canon and how the project builds on them. Sources are listed in [Canon Sources](CANON_SOURCES.md). Fixed facts are restated in the [Continuity Bible](CONTINUITY_BIBLE.md).
 
 ---
 

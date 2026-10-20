@@ -1,3 +1,8 @@
+---
+section: "07 · Missions"
+order: 53
+---
+
 # M06 — Harbor
 
 | Field | Data |
@@ -12,7 +17,7 @@
 | Type | Transport escort; first direct engagement |
 | Time limit | Transport must reach *Albatross* (about 14 minutes) |
 
-Related: [Yekaterina Belyaeva](../CHARACTERS/YEKATERINA_BELYAEVA.md) · [Irina Belyaeva](../CHARACTERS/IRINA_BELYAEVA.md) · [Jonah Marsh](../CHARACTERS/JONAH_MARSH.md) · [MINOZIS Encounter Design](../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [Yekaterina Belyaeva](YEKATERINA_BELYAEVA.md) · [Irina Belyaeva](IRINA_BELYAEVA.md) · [Jonah Marsh](JONAH_MARSH.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 

@@ -1,6 +1,12 @@
+---
+section: "04 · The Festival"
+description: "Field size, how an event runs, the season calendar, race length and what strategy means."
+order: 25
+---
+
 # The Season
 
-Where events are held is in [Revada](../world/revada.md#venues). How city time is spent between race dates is in [Time](../systems/time.md#during-a-season).
+Where events are held is in [Revada](revada.md#venues). How city time is spent between race dates is in [Time](time.md#during-a-season).
 
 ## The field
 
@@ -30,7 +36,7 @@ Grip (Open and Class) and Sprint run in **heats** when entries exceed a grid:
 | **Race dates** | 14 across about three and a half months of in-game time |
 | **Events per date** | 2 to 4, from different disciplines |
 | **Events per discipline, per season** | 8 to 11 |
-| **City window between dates** | 6 to 8 in-game days, two of them travel ([Time](../systems/time.md#during-a-season)) |
+| **City window between dates** | 6 to 8 in-game days, two of them travel ([Time](time.md#during-a-season)) |
 | **Championship** | 4 rounds plus the Circuit Final, after date 14 ([Championship](rank-and-championship.md#the-championship)) |
 
 Eight to eleven events per discipline make qualification survivable and the Grade system meaningful: a bad round is recoverable; a bad discipline is not.

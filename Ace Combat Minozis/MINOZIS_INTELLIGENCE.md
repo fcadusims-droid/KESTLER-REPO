@@ -1,8 +1,13 @@
+---
+section: "04 · Technology"
+order: 22
+---
+
 # MINOZIS Intelligence
 
 The shape of the thing the Task Force is hunting: what it can do, what it cannot, how it became what it is, and what may be left of the man inside it.
 
-Related: [POSTHUMUS (character)](../../CHARACTERS/POSTHUMUS.md) · [COFFIN, ENSI and Wetware](COFFIN_ENSI_AND_WETWARE.md) · [Operation Winter King](../OPERATION_WINTER_KING.md) · [MINOZIS Encounter Design](../../GAME_DESIGN/MINOZIS_ENCOUNTER_DESIGN.md)
+Related: [POSTHUMUS (character)](POSTHUMUS.md) · [COFFIN, ENSI and Wetware](COFFIN_ENSI_AND_WETWARE.md) · [Operation Winter King](OPERATION_WINTER_KING.md) · [MINOZIS Encounter Design](MINOZIS_ENCOUNTER_DESIGN.md)
 
 ---
 

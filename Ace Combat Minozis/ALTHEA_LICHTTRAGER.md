@@ -1,3 +1,8 @@
+---
+section: "05 · Characters"
+order: 36
+---
+
 # Hauptmann Althéa Marie Lichtträger
 
 > "Shadows lie. Light doesn't."
@@ -12,9 +17,9 @@
 | Role | Sole authorized operator of MRS-144 Morgenstern |
 | Aircraft | EF-2000B Typhoon "Lichtträgerin" |
 | Status | Active; no reliable institutional oversight |
-| Playable | [I02 Phantom Limbs](../MISSIONS/I02_PHANTOM_LIMBS.md) |
+| Playable | [I02 Phantom Limbs](I02_PHANTOM_LIMBS.md) |
 
-Related: [MRS-144 Morgenstern](../WORLD_AND_LORE/TECHNOLOGY/MRS-144_MORGENSTERN.md) · [Hans Lichtträger](HANS_LICHTTRAGER.md) · [Enso Order](../WORLD_AND_LORE/FACTIONS/ENSO_ORDER.md) · [M08 Light-Bearer](../MISSIONS/M08_LIGHT_BEARER.md)
+Related: [MRS-144 Morgenstern](MRS-144_MORGENSTERN.md) · [Hans Lichtträger](HANS_LICHTTRAGER.md) · [Enso Order](ENSO_ORDER.md) · [M08 Light-Bearer](M08_LIGHT_BEARER.md)
 
 ---
 
@@ -77,9 +82,9 @@ On 17 August 2028 MINOZIS destroyed between 22 and 28 of her satellites. She nam
 | Stage | Beat |
 |---|---|
 | Background | The mirror of Belyaev: he did not choose fusion; she is choosing it a little at a time. |
-| [I02 Phantom Limbs](../MISSIONS/I02_PHANTOM_LIMBS.md) | April 2029. Through Hans, the Task Force sends her the Ghost Interference recordings. The player flies her Typhoon on a constellation pass while the recordings play. She hears "Someone is directing the light." For the first time, someone inside the thing she hates has described her as a person. |
-| [M08 Light-Bearer](../MISSIONS/M08_LIGHT_BEARER.md) | June 2029. POSTHUMUS, without missiles, goes after her Typhoon as the constellation's command node. 6AMEꓤƎꓥO9 defends her. She converges the constellation at illumination power, not strike power, and shows the squadron where the aircraft is. Light as truth, used for the first time without fire. |
-| [M09 Anchor in the Storm](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | The Arctic sector on 18 June is in continuous daylight. She keeps the constellation's illumination on the aircraft so it cannot hide in its own glow. She does not fire. |
+| [I02 Phantom Limbs](I02_PHANTOM_LIMBS.md) | April 2029. Through Hans, the Task Force sends her the Ghost Interference recordings. The player flies her Typhoon on a constellation pass while the recordings play. She hears "Someone is directing the light." For the first time, someone inside the thing she hates has described her as a person. |
+| [M08 Light-Bearer](M08_LIGHT_BEARER.md) | June 2029. POSTHUMUS, without missiles, goes after her Typhoon as the constellation's command node. 6AMEꓤƎꓥO9 defends her. She converges the constellation at illumination power, not strike power, and shows the squadron where the aircraft is. Light as truth, used for the first time without fire. |
+| [M09 Anchor in the Storm](M09_ANCHOR_IN_THE_STORM.md) | The Arctic sector on 18 June is in continuous daylight. She keeps the constellation's illumination on the aircraft so it cannot hide in its own glow. She does not fire. |
 | Epilogue | The record ends with her still holding the key. Canon says what happens to Enso's assets in 2030. It does not say what happens to her. |
 
 Her arc does not end in redemption. It ends in one demonstrated choice: she used the light to show, not to burn.

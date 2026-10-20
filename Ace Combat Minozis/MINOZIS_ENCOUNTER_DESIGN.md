@@ -1,8 +1,14 @@
+---
+section: "01 · Game Design"
+description: "State model, behaviors, windows, encounter configurations."
+order: 5
+---
+
 # MINOZIS Encounter Design
 
 POSTHUMUS is not a boss that is out-flown. It is a boss that is out-reasoned in the only domain where reasoning beats it: the physical limits it cannot redefine and the human residue it cannot control.
 
-Related: [MNZ-41](../WORLD_AND_LORE/TECHNOLOGY/MNZ-41_MINOZIS.md) · [MINOZIS Intelligence](../WORLD_AND_LORE/TECHNOLOGY/MINOZIS_INTELLIGENCE.md) · [POSTHUMUS](../CHARACTERS/POSTHUMUS.md) · [Counter-MINOZIS Task Force](../WORLD_AND_LORE/FACTIONS/COUNTER_MINOZIS_TASK_FORCE.md)
+Related: [MNZ-41](MNZ-41_MINOZIS.md) · [MINOZIS Intelligence](MINOZIS_INTELLIGENCE.md) · [POSTHUMUS](POSTHUMUS.md) · [Counter-MINOZIS Task Force](COUNTER_MINOZIS_TASK_FORCE.md)
 
 ---
 
@@ -90,13 +96,13 @@ These configurations are also the record of procedures the aircraft learned from
 
 | Mission | Rung | Discharges | Windows available | Goal |
 |---|---|---|---|---|
-| [I01](../MISSIONS/I01_FALCON_TWO.md) | 2 | 0 | None | Survive contact; hold formation |
-| [M04](../MISSIONS/M04_EYES_ONLY.md) | 2 (unseen) | 0 | None | Network defense |
-| [M05](../MISSIONS/M05_SHRINKAGE.md) | 3 | 0 (1 if pursued) | Low rung | Signature; restraint |
-| [M06](../MISSIONS/M06_HARBOR.md) | 2 | 2 | Discharge | Protect transport; first damage |
-| [M07](../MISSIONS/M07_THIRTY_KILOMETERS.md) | 2 → 3 | 1 | Altitude | Keep it high; damage on descent |
-| [M08](../MISSIONS/M08_LIGHT_BEARER.md) | 2 | 2 | Discharge, Illumination | Protect Althéa; heavy damage |
-| [M09](../MISSIONS/M09_ANCHOR_IN_THE_STORM.md) | Set by Phase 1 | 2 | Discharge, Illumination, Loop | Force the crash |
+| [I01](I01_FALCON_TWO.md) | 2 | 0 | None | Survive contact; hold formation |
+| [M04](M04_EYES_ONLY.md) | 2 (unseen) | 0 | None | Network defense |
+| [M05](M05_SHRINKAGE.md) | 3 | 0 (1 if pursued) | Low rung | Signature; restraint |
+| [M06](M06_HARBOR.md) | 2 | 2 | Discharge | Protect transport; first damage |
+| [M07](M07_THIRTY_KILOMETERS.md) | 2 → 3 | 1 | Altitude | Keep it high; damage on descent |
+| [M08](M08_LIGHT_BEARER.md) | 2 | 2 | Discharge, Illumination | Protect Althéa; heavy damage |
+| [M09](M09_ANCHOR_IN_THE_STORM.md) | Set by Phase 1 | 2 | Discharge, Illumination, Loop | Force the crash |
 
 ## 7. What Is Never Possible
 

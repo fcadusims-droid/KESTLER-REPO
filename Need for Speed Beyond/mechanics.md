@@ -1,10 +1,16 @@
+---
+section: "04 · The Festival"
+description: "Mechanics: Expertise, specialist discipline, Insights and the build dialogue."
+order: 24
+---
+
 # Mechanics
 
 The mechanic is the most important non-driving relationship in the game, and in the festival he is worth more than the teammate.
 
 **A driver can only be as good as the car allows. In the city, the player decides what the car is. In the festival, the mechanic does** — because the mechanic knows where the rulebook has room in it.
 
-A team registers five mechanics, one assigned to each discipline, recruited from shops through shop Standing ([Recruitment](team.md#recruitment)). The named mechanics are listed in [Cast](../story/cast.md#shops-and-mechanics).
+A team registers five mechanics, one assigned to each discipline, recruited from shops through shop Standing ([Recruitment](team.md#recruitment)). The named mechanics are listed in [Cast](cast.md#shops-and-mechanics).
 
 ## Expertise
 
@@ -15,7 +21,7 @@ Every mechanic has an **Expertise rating from 1 to 5**, inherited from their sho
 | **Baseline setup** | The car's starting tune for that track. A 1-Expertise mechanic hands over something generic; a 5 hands over something already close to optimal. |
 | **Scrutineering** | Catches regulation breaches before registration. A weak mechanic misses things and the car is rejected at the gate; a strong one flags the problem and proposes the fix ([Regulations](regulations.md)). |
 | **Repair between rounds** | Faster and cheaper repair of damage carried out of an event. At Expertise 5, repairs are free. |
-| **Tyre strategy** | Chooses compound, pressure and starting temperature for the conditions — a festival-only concern, since the city does not simulate wear ([Simulation layer](../systems/driving-and-damage.md#the-simulation-layer)). |
+| **Tyre strategy** | Chooses compound, pressure and starting temperature for the conditions — a festival-only concern, since the city does not simulate wear ([Simulation layer](driving-and-damage.md#the-simulation-layer)). |
 
 **What a mechanic's level means for a season:**
 
@@ -76,7 +82,7 @@ A player who ignores their mechanic can still win the festival — in a car that
 
 ## Mechanic personality
 
-**Mechanics do not use the racer Personality system** ([Personality](../systems/relationships.md#personality)). They never take a start, so there is no on-track behaviour for a personality to govern.
+**Mechanics do not use the racer Personality system** ([Personality](relationships.md#personality)). They never take a start, so there is no on-track behaviour for a personality to govern.
 
 They have personalities anyway, expressed entirely in dialogue: the one who explains everything twice, the one who says four words a session, the one who is openly contemptuous of the festival and does the work perfectly regardless, the one who will not stop talking about a car he built in 2009, the one who used to race. None of it touches a number; all of it is why the player remembers which one they took.
 

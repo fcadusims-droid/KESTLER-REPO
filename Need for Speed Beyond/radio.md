@@ -1,6 +1,12 @@
+---
+section: "02 · World"
+description: "How Nitroit's radio works and its three stations."
+order: 10
+---
+
 # Radio
 
-**Radio is not a music player with a skip button.** Nitroit's stations are stations: call letters (where licensed), formats, hosts, shows, schedules and things to say. They run on a clock, identify themselves at the top of the hour, and carry the story of the city — including, eventually, the Revada Festival. Their schedules follow the game's continuous clock ([Time](../systems/time.md#the-clock)). Host lists are in [Cast](../story/cast.md#radio-hosts).
+**Radio is not a music player with a skip button.** Nitroit's stations are stations: call letters (where licensed), formats, hosts, shows, schedules and things to say. They run on a clock, identify themselves at the top of the hour, and carry the story of the city — including, eventually, the Revada Festival. Their schedules follow the game's continuous clock ([Time](time.md#the-clock)). Host lists are in [Cast](cast.md#radio-hosts).
 
 ## How the stations work
 
@@ -75,7 +81,7 @@ They are siblings who work together and do not need to explain themselves to eac
 
 ## Radio and the rest of the game
 
-- **The police listen too.** At high List positions ([Police](../systems/police.md#the-list)), news bulletins cover the pursuits. Z Mike reads it as a traffic story. Umbra reads it differently. TKK finds it funny.
-- **The festival arrives through these stations** ([Campaign](../story/campaign.md#the-festival-arrives)), each in character: Millennium sells it, Umbra is sceptical of it, TKK ignores it until Blitz makes a joke about the ticket prices.
+- **The police listen too.** At high List positions ([Police](police.md#the-list)), news bulletins cover the pursuits. Z Mike reads it as a traffic story. Umbra reads it differently. TKK finds it funny.
+- **The festival arrives through these stations** ([Campaign](campaign.md#the-festival-arrives)), each in character: Millennium sells it, Umbra is sceptical of it, TKK ignores it until Blitz makes a joke about the ticket prices.
 - **Local advertising is the city's own economy.** The shops the player uses buy spots, and a player at Loyal with a shop will eventually hear its owner read their own advert badly.
 - **There is no radio in Revada.** Nitroit's stations do not reach that far, and the drive out is scored by them fading into static. At a festival venue there is the PA, race control and engine noise, and nothing else. The silence is one of the ways Revada is established as somewhere Jake does not belong.
