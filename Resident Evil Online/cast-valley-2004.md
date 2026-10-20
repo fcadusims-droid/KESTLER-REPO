@@ -1,7 +1,7 @@
 ---
 section: "05 · Story Nights"
 description: "Acts, beats, named hosts, people, the Island's End, roster, and ties of the Valley, 2004"
-order: 27
+order: 31
 ---
 
 # The People of the Valley, 2004

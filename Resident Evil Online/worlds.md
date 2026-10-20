@@ -1,7 +1,7 @@
 ---
 section: "03 · Worlds"
 description: "The open worlds, the edge of each world and the Crossing, one world for every mode and the bounds each mode plays, time and weather, conditions"
-order: 23
+order: 27
 ---
 
 # The Worlds

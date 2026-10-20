@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "What ΜΝΗΜΗ leaves out of her world, the Plaga of the Valley, and its pesetas and Merchant"
-order: 13
+order: 16
 ---
 
 # What ΜΝΗΜΗ Leaves Out

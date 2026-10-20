@@ -1,7 +1,7 @@
 ---
 section: "04 · Survivor Mode"
 description: "Survivor: squads made in the night, the Squad Sign, parties, companions, the Stranded, ties, eyes and ears, winning"
-order: 24
+order: 28
 ---
 
 # Survivor

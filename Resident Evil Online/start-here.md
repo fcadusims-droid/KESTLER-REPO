@@ -2,7 +2,7 @@
 title: "Start Here"
 section: "00 · Overview"
 description: "What Resident Evil Online is, in ten minutes: the night, what makes it Resident Evil, why it is not just another extraction shooter, and where to read next"
-order: 0
+order: 1
 ---
 
 # Start Here

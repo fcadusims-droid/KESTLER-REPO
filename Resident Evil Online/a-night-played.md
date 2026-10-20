@@ -1,7 +1,7 @@
 ---
 section: "00 · Overview"
 description: "One whole Survivor night in the Raccoon City of 1998, played by one player from the Waiting Dark to the After-Action Report, with every system in motion"
-order: 51
+order: 4
 ---
 
 # A Night, Played

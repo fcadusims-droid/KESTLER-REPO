@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "The session, Survivor at a glance, waking points, scale, the shape of a Survivor night, the blueprint"
-order: 8
+order: 11
 ---
 
 # The Session

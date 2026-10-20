@@ -1,7 +1,7 @@
 ---
 section: "07 · Feasibility"
 description: "Costs, revenue, cases, break-even, sensitivity, population, verdict"
-order: 35
+order: 39
 ---
 
 # The Business Case

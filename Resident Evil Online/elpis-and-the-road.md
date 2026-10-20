@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "Elpis in a session: the road, the paced Reserve, the Last Trial, the drop, one dose a night, the scar"
-order: 11
+order: 14
 ---
 
 # Elpis in the Night
