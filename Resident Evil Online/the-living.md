@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "Cooperation, voice, reading the Mark, the Mark within a squad, the clean, betrayal"
-order: 20
+order: 23
 ---
 
 # The Living

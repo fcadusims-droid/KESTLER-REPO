@@ -1,7 +1,7 @@
 ---
 section: "01 · Lore"
 description: "The Echoes: what they are, what ΜΝΗΜΗ keeps, offline play, queue fill"
-order: 7
+order: 10
 ---
 
 # The Echoes

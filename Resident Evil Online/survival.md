@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "Health, hunger and thirst, Self-Examination and tending wounds, inventory, worn gear, stashes, scarcity, crafting, safe rooms, vehicles, fighting and fleeing"
-order: 17
+order: 20
 ---
 
 # Survival

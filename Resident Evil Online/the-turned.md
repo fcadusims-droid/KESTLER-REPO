@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "The Turn, the four shapes, who plays on, Hunts, the Second Night, the Lost"
-order: 14
+order: 17
 ---
 
 # The Turned

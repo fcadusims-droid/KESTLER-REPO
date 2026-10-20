@@ -1,7 +1,7 @@
 ---
 section: "05 · Story Nights"
 description: "The people, named creatures, roster, and ties of the Ruins, 2026"
-order: 28
+order: 32
 ---
 
 # The People of the Ruins, 2026

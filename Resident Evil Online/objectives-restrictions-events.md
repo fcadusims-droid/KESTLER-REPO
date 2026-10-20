@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "Objectives, restrictions, puzzles, vaults, secret weapons, events"
-order: 19
+order: 22
 ---
 
 # Objectives, Restrictions, and Events

@@ -1,7 +1,7 @@
 ---
 section: "07 · Feasibility"
 description: "How ΜΝΗΜΗ would actually be built: the layers under a night, perception, the Pulse, the planner, the Law validator, roads and the Reserve, the announcer, the Echoes, the dead at scale, telemetry, tools, budget, and the games that already proved each piece"
-order: 46
+order: 40
 ---
 
 # ΜΝΗΜΗ, Built

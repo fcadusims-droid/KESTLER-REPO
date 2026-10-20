@@ -1,7 +1,7 @@
 ---
 section: "07 · Feasibility"
 description: "What the Resident Evil community wants and refuses from online games, what Resident Evil Online has that its genre does not, whether it is a new genre, whom it can attract, and how the modes beyond Survivor stand against the record"
-order: 49
+order: 43
 ---
 
 # Audience and Genre

@@ -1,7 +1,7 @@
 ---
 section: "00 · Overview"
 description: "The Prologue and A Night, Illustrated: dramatizations of the rules"
-order: 2
+order: 3
 ---
 
 # Narrative Illustrations

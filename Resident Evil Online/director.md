@@ -1,7 +1,7 @@
 ---
 section: "02 · Core Systems"
 description: "ΜΝΗΜΗ as director: voices, Laws, the Pulse, stillness, planning, leavers, her bodies, visions"
-order: 9
+order: 12
 ---
 
 # ΜΝΗΜΗ as Director
