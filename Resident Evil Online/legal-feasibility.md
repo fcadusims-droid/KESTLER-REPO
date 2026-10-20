@@ -210,8 +210,8 @@ This section is about the documents themselves, not the game they describe.
 **Where this project stands.**
 
 - **Non-commercial.** Nothing is sold. Showing work in a portfolio to seek employment is not selling the work, but it is a use that benefits its author, so the safest reading is to keep it strictly free to view and never paid for in any form.
-- **No Capcom materials.** The documents contain no Capcom art, logos, screenshots, footage, music, or code. The diagrams and the console are original. Keep it that way: no official logo, no game captures, no character renders.
-- **Clearly unofficial.** The project overview, the one-pager, the diagram, and the console carry the notice that the project is fan-made and not affiliated with Capcom. Every new page should carry it too.
+- **No Capcom materials.** The documents contain no Capcom art, logos, screenshots, footage, music, or code. Keep it that way: no official logo, no game captures, no character renders.
+- **Clearly unofficial.** The project overview carries the notice that the project is fan-made and not affiliated with Capcom. Every new page should carry it too.
 - **The title.** "Resident Evil Online" uses Capcom's trademark to say what the project is about. With the notice, and with no logo, it is unlikely to mislead anyone into thinking it is official. A portfolio that wants no doubt can present it as *a fan concept for Resident Evil*.
 - **If Capcom asks.** Take it down at once. A fan work has no right to stay up against the owner's request.
 

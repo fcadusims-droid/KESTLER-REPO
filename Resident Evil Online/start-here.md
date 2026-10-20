@@ -66,9 +66,7 @@ Survivor is the one original mode of Resident Evil Online, Johnny Kestler's own 
 
 ## Where to Read Next
 
-**Fifteen minutes.**
-1. `narrative-illustrations.md`: one night, seen through one survivor.
-2. `portfolio/one-pager.md`: the whole design on one page, with what its tests found.
+**Fifteen minutes.** `narrative-illustrations.md`: one night, seen through one survivor.
 
 **Forty minutes: one night, played.** `a-night-played.md`: a whole Survivor night, from the queue to the After-Action Report, played by one ordinary player, with every system in motion.
 
@@ -82,7 +80,7 @@ Survivor is the one original mode of Resident Evil Online, Johnny Kestler's own 
 
 **The whole specification.** In order: `project-overview.md` (the rules of these documents and their terms), then the lore (part 01), the core systems (02), the worlds (03), the mode (04), the story nights (05), the Service (06), feasibility (07), future development (08), and last, the Sealed File (09). `launch-scope.md` says which parts are the launch.
 
-**If you doubt it would work.** `audience-and-genre.md` tests it against what Resident Evil's fans have wanted and refused online. `market-precedents.md` sets it beside the games that succeeded and failed. `business-case.md` costs it honestly, and says it is a bet on a large hit. `portfolio/simulation-report.md` shows thousands of simulated nights and what they changed.
+**If you doubt it would work.** `audience-and-genre.md` tests it against what Resident Evil's fans have wanted and refused online. `market-precedents.md` sets it beside the games that succeeded and failed. `business-case.md` costs it honestly, and says it is a bet on a large hit.
 
 ## How the Documents Are Written
 
