@@ -1,86 +1,124 @@
-# License
+# Licence
 
-Copyright © 2025–2026 João Vitor Perazzolo (Johnny Kestler). All rights reserved.
+**Copyright © 2025–2026 João Vitor Perazzolo (writing as Johnny Kestler). All rights reserved.**
 
----
-
-## 1. Scope
-
-This repository contains original works, including but not limited to worldbuilding documents, narrative materials, and software systems.
-
-All rights not expressly granted herein are reserved by the author.
+This licence governs every file in this repository and every page of the site published from it. By reading, downloading, or otherwise using any part of this repository, you accept its terms.
 
 ---
 
-## 2. Creative Content (Worldbuilding and Written Material)
+## 1. Definitions
 
-All creative content, including text, lore, characters, settings, concepts, and narrative structures, is the exclusive intellectual property of the author — **except as stated in section 2.1**.
-
-No part of this content may be:
-
-* copied
-* reproduced
-* distributed
-* modified
-* adapted
-* published
-* publicly displayed
-* or used in any form
-
-without prior explicit written permission from the author.
+- **The Author** is João Vitor Perazzolo, who writes as Johnny Kestler.
+- **Original Works** are the works that are wholly the Author's own: the worldbuilding bibles, original fiction, and game design documents whose settings, characters, and stories do not belong to anyone else.
+- **Fan Works** are the works set in, or built on, a universe, franchise, or intellectual property owned by a third party. They are listed in Schedule A.
+- **Third-Party Material** is anything in a Fan Work that belongs to someone other than the Author: settings, characters, names, creatures, events, titles, trademarks, logos, and any other element of the original franchise.
+- **Software** is the code, configuration, scripts, and site templates in this repository.
 
 ---
 
-## 2.1 Fan Works
+## 2. Original Works
 
-Some documents in this repository are **fan works** based on settings and characters owned by third parties, and are published as non-commercial fan fiction.
+The Original Works, including their text, lore, settings, characters, concepts, systems, narrative structures, and titles, are the exclusive intellectual property of the Author.
 
-For those documents, the author claims rights only over his own original contributions — the prose, original characters, and original story structure. **No ownership is claimed over the underlying third-party settings, characters, or trademarks**, which remain the property of their respective rights holders.
-
-Nothing in this repository is affiliated with, endorsed by, or sponsored by those rights holders.
+All rights in them are reserved.
 
 ---
 
-## 3. Software and System Content
+## 3. Fan Works
 
-All software, scripts, code, and system designs (including but not limited to Python code and RPG systems) are proprietary and protected under applicable copyright laws.
+### 3.1 What the Author owns
 
-Unless explicitly stated otherwise in a separate file or header, no permission is granted to:
+The Author is the original creator of the story told in each Fan Work. The Author owns the original contributions, to the extent the law allows:
 
-* use
-* copy
-* modify
-* merge
-* distribute
-* sublicense
-* or sell
+- the prose and its expression;
+- the original plot, story structure, and narrative;
+- the original characters, factions, places, technologies, and systems the Author invented;
+- the game design, mechanics, and documentation written for each Fan Work;
+- the selection and arrangement of the whole.
 
-any portion of the software.
+### 3.2 What the Author does not own
 
----
+The Author claims **no ownership** of any Third-Party Material. Each universe, franchise, character, name, setting, and trademark used in a Fan Work remains the sole property of its creators, developers, publishers, and licensors. Schedule A names them.
 
-## 4. No Implied License
+### 3.3 Status of the Fan Works
 
-Nothing in this license shall be interpreted as granting any rights or permissions, whether express or implied, to use the contents of this repository.
+- The Fan Works are **unofficial**. They are not affiliated with, authorised, sponsored, or endorsed by any rights holder named in Schedule A.
+- The Fan Works are **non-commercial**. They are shared free of charge, as personal creative and portfolio work. Nothing in them is for sale, and none is, or will be, sold, licensed for a fee, or used to raise money.
+- Third-Party Material is used for the purpose of fan creation, commentary, and portfolio presentation only. No official art, logos, footage, music, code, or other assets of any rights holder are included.
 
----
+### 3.4 Requests from rights holders
 
-## 5. Exceptions
-
-Any exception to this license must be explicitly granted in writing by the author.
+Any rights holder named in Schedule A who objects to a Fan Work may contact the Author, as described in section 9. The Author will review the request in good faith and promptly amend or remove the work concerned.
 
 ---
 
-## 6. Enforcement
+## 4. What you may do
 
-Unauthorized use of any material contained in this repository may result in legal action.
+You may, without asking:
+
+- read and view the works on this site or in this repository;
+- link to any page or file;
+- share those links, with credit to the Author;
+- make any use the law allows without permission, such as a short quotation for criticism, review, study, or news reporting, provided the Author and the work are credited.
 
 ---
 
-## 7. Contact
+## 5. What you may not do
 
-For permissions, licensing requests, or inquiries, contact the author by opening an issue on this repository, or through the contact details published on the author's profile.
+Except as section 4 allows, or with the Author's prior written permission, you may not:
+
+- copy, reproduce, or republish any work, in whole or in part;
+- distribute, sell, sublicense, or otherwise make any work available to others;
+- adapt, translate, or create derivative works from any Original Work, or from the Author's own contributions to a Fan Work;
+- use any work, or any part of one, for a commercial purpose;
+- present any work, or any part of one, as your own;
+- include any work in a dataset, or use it to train, fine-tune, or evaluate a machine learning or artificial intelligence system.
+
+These restrictions cover the Author's own contributions only. Your use of Third-Party Material is governed by its owners' terms, not by this licence.
 
 ---
 
-This license applies globally and is governed by applicable copyright laws.
+## 6. Software
+
+The Software is proprietary and all rights in it are reserved. Unless a file or header in this repository states otherwise, no permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell it.
+
+Third-party packages the Software depends on, such as the site generator and its plugins, are not covered by this licence. Each remains under its own licence.
+
+---
+
+## 7. No implied licence and no warranty
+
+No right or licence is granted by implication, estoppel, or otherwise, except as expressly stated in this licence.
+
+The works and the Software are provided "as is", without warranty of any kind. The Author is not liable for any claim, damage, or loss arising from their use.
+
+---
+
+## 8. Governing law
+
+This licence is governed by the copyright law that applies, including Brazil's Copyright Law (Lei nº 9.610/1998) and the Berne Convention for the Protection of Literary and Artistic Works.
+
+Any exception to this licence must be granted in writing by the Author. Unauthorised use may result in legal action.
+
+---
+
+## 9. Contact
+
+For permission requests, licensing questions, or a rights holder's request under section 3.4, open an issue on this repository, or use the contact details on the Author's profile.
+
+---
+
+## Schedule A: Fan Works and rights holders
+
+| Work | Based on | Rights holders |
+|---|---|---|
+| *Resident Evil Online* | *Resident Evil* | Capcom Co., Ltd. |
+| *Need for Speed Beyond* | *Need for Speed* | Electronic Arts Inc. |
+| *Ace Combat Minozis* | *Ace Combat* | Bandai Namco Entertainment Inc. |
+| *Call of Duty: War Serpent* | *Call of Duty* (Zombies) | Activision Publishing, Inc. |
+| *The Iron Took the Flesh* | Marvel's *Iron Man* | Marvel Entertainment, LLC, and The Walt Disney Company |
+| *Organicron* | *Transformers* | Hasbro, Inc. |
+| *Rayo* (character bible) | *Dragon Ball* | Bird Studio, Shueisha Inc., and Toei Animation Co., Ltd. |
+| *Salem: The Infernal Receiver* | *Yu-Gi-Oh!* | Kazuki Takahashi, Studio Dice, Shueisha Inc., and Konami Digital Entertainment |
+
+All trademarks and copyrights named above belong to their respective owners and licensors. A Fan Work added to this repository after this licence was written is covered by section 3 whether or not it is listed here.

@@ -1,76 +1,38 @@
-# João Vitor Perazzolo — aka Johnny Kestler
+# Johnny Kestler — Writing Portfolio
 
-The writing portfolio of **João Vitor Perazzolo**, who writes as
-**Johnny Kestler**: worldbuilding bibles, original stories, fanfiction and game
-design documents, published as a static site straight from this repository.
+The portfolio of **João Vitor Perazzolo**, who writes as **Johnny Kestler**: a writer, worldbuilder and narrative designer. It holds worldbuilding bibles, original fiction, game design documents and fan works, all readable on one site.
 
-## The site
+**Read it here: [fcadusims-droid.github.io/KESTLER-REPO](https://fcadusims-droid.github.io/KESTLER-REPO/)**
 
-The works are kept in folders by kind: `Worldbuilding/`, `Fiction/`,
-`Fanfiction/`, and `Game Design Documents/`, plus `Resident Evil Online/`, a
-single work in many documents. Every work becomes a page automatically. There is no index to maintain and no build step to
-run by hand: push a new `.md` and it is published, titled and searchable on the
-next deploy.
+## What is here
 
-**Privacy is the default.** A file is published only if it sits at the root (or
-directly inside a collection folder, below), is not a development file, and does
-not carry `publish: false` or `draft: true` in its front matter. Any other
-subfolder stays private and never appears in the portfolio.
+| Shelf | What it holds |
+|---|---|
+| **Worldbuilding** | Bibles for original universes: their history, factions, technology, metaphysics and characters (*One Blood*, *2187*, *Aspectros*, *Machinity*, *The Unwitnessed*, and more) |
+| **Fiction** | Original stories, journals and casefiles (*The War That Eats Its Tail*, *The Birmingham Combustion Case*, *Wolf's Head*, and more) |
+| **Game Design Documents** | Original game concepts, from core loop to systems and narrative (*ASTROPIRE*, *Generational*, *Project D*, *Reputation of War*) |
+| **Fanfiction** | Single-document fan works set in universes owned by others (*Call of Duty: War Serpent*, *Organicron*, *The Iron Took the Flesh*, *Salem: The Infernal Receiver*, and more) |
 
-**Shelves.** `Worldbuilding/`, `Fiction/`, `Fanfiction/`, and `Game Design
-Documents/` are shelves: their `index.md` carries `shelf: true`, so every work
-in them still gets its own card on the homepage, and a work with no `category`
-takes its shelf's. To add a work, drop its `.md` into the right shelf.
+Three larger fan projects have their own collections, each a full design read in order:
 
-**Collections.** A universe, work or game with several documents gets its own
-folder. A top-level folder becomes a collection when it contains an `index.md`;
-every `.md` dropped into it then joins the collection, with one card on the
-homepage and its own page listing the documents. A collection stays hidden
-until it has at least one document. Example: `Resident Evil Online/`. Inside a
-collection, `order` sets the reading order and `section: "01 · Lore"` groups
-documents into parts.
+- **Resident Evil Online**: an online survival horror game for strangers in a rebuilt Raccoon City, directed by an intelligence that never lies.
+- **Need for Speed Beyond**: a single-player racing game split between the illegal street scene of Nitroit and the sanctioned Revada Festival.
+- **Ace Combat Minozis**: an Ace Combat spin-off set in Strangereal between *Ace Combat 7* and *Ace Combat 8*, about a combat AI that will not let its dead pilot go.
 
-```yaml
-# Resident Evil Online/index.md
----
-title: Resident Evil Online
-description: One line for the homepage card.
-category: Fanfiction        # its documents inherit category and genre
-genre: Survival Horror
----
+## Original work and fan work
 
-<Collection />
-```
+The Worldbuilding, Fiction and Game Design Documents shelves are wholly original: every universe, character and story in them is the author's own.
 
-**Outdated documents.** Add `outdated: "2026-10-06"` (or `outdated: true`) to the
-front matter: the card gets an "Outdated" badge and the page opens with a
-notice. `outdated_note` replaces the default sentence.
+The Fanfiction shelf and the three fan collections are **unofficial, non-commercial fan works**. The author is the original creator of the story each one tells, and of the characters, systems and prose invented for it. The universes, characters, names and trademarks they build on belong to their creators, developers and publishers, among them Capcom, Electronic Arts, Bandai Namco, Activision, Marvel, Hasbro, Toei Animation and Konami. No fan work is affiliated with or endorsed by any of them. `LICENCE`, Schedule A, lists each fan work and its rights holders.
 
-Front matter drives the presentation:
+## How it was made
 
-```yaml
----
-title: "One Blood"
-description: "A dark-fantasy worldbuilding bible…"
-genre: "Dark Fantasy"
-category: "Worldbuilding"
-order: 1
----
-```
+The author's own concepts, worlds and direction drive every document. The documents and the site were written and built with the help of Claude, an AI assistant by Anthropic.
 
-`category` groups the work on the homepage and in the sidebar; `order` sorts it
-within the group. Both are optional — a file with no front matter is still
-published, using its filename as the title.
+## How the site works
 
-## Author
-
-**João Vitor Perazzolo**, aka **Johnny Kestler** — writer and worldbuilder.
-
-Every universe, character and story here is the author's original creation.
-The documents and the site were written and built with Claude, an AI assistant
-by Anthropic, working from the author's own concepts, worlds and direction.
+The site is built with [VitePress](https://vitepress.dev) and published to GitHub Pages on every push to `main`. Each Markdown file in a shelf becomes a page, and each top-level folder with an `index.md` becomes a collection, read in the order its documents set. `.vitepress/README.md` explains the details: what is published, how collections and sections work, and the front matter each document can use.
 
 ## Licence
 
-All rights reserved — see `LICENCE`. Reading here is welcome; reuse is not
-granted by default.
+All rights reserved. Reading, linking and short quotation with credit are welcome. Copying, republishing, adapting, and use for AI training are not permitted without written permission. See [`LICENCE`](LICENCE) for the full terms, including how they apply to the fan works.
