@@ -4,6 +4,19 @@ The portfolio of **João Vitor Perazzolo**, who writes as **Johnny Kestler**: a 
 
 **Read it here: [fcadusims-droid.github.io/KESTLER-REPO](https://fcadusims-droid.github.io/KESTLER-REPO/)**
 
+## Start here
+
+The homepage offers three selected original projects, short excerpts and links
+to the full documents:
+
+1. **[MetaMind](Worldbuilding/METAMIND.md)** — a dystopian development dossier about a cure that saves humanity while making obedience biologically comfortable.
+2. **[Aspectros](Worldbuilding/ASPECTROS.md)** — a metaphysical fantasy world bible told by a historian in a world where souls reshape reality and stone remembers emotion.
+3. **[ASTROPIRE](Game%20Design%20Documents/ASTROPIRE.md)** — a survival and automation game concept in which a stranded boy builds machines that may become people.
+
+For development, adaptation or narrative design enquiries, email
+**[johnnykestler@hotmail.com](mailto:johnnykestler@hotmail.com)** with the project,
+your organisation and the collaboration you have in mind.
+
 ## What is here
 
 | Shelf | What it holds |
@@ -27,7 +40,7 @@ The Fanfiction shelf and the three fan collections are **unofficial, non-commerc
 
 ## How it was made
 
-The author's own concepts, worlds and direction drive every document. The documents and the site were written and built with the help of Claude, an AI assistant by Anthropic.
+The author's concepts and direction drive the original works and his contributions to fan works. The documents were developed with the help of Claude, an AI assistant by Anthropic. The site was built and maintained with AI assistance.
 
 ## How the site works
 

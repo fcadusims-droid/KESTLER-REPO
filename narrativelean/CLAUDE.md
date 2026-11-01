@@ -3,14 +3,18 @@
 Para qualquer sessão do Claude que trabalhe nesta pasta. O README explica o
 sistema; este arquivo diz o que pode e o que não pode.
 
-## Privacidade
+## Visibilidade
 
-- Esta pasta é privada. Não mencione o NarrativeLean no README da raiz, no
+- Esta pasta é excluída do site, mas seus arquivos versionados são acessíveis
+  no repositório público do GitHub. Não guarde material confidencial aqui.
+  Não mencione o NarrativeLean no README da raiz, no
   site (`.vitepress/`, `index.md`), nas obras, em commits de outras áreas nem
   em textos públicos.
 - Nunca crie arquivo `.md` na raiz do repositório: o site publica tudo que
-  estiver lá. E nunca crie `index.md` nesta pasta: uma pasta com `index.md`
-  vira coleção pública no site. Cópias de teste, obras plantadas e rascunhos ficam aqui dentro.
+  estiver lá. E nunca crie `index.md` nesta pasta: ela é uma área de
+  desenvolvimento explicitamente excluída das coleções. Cópias de teste e
+  obras plantadas ficam aqui dentro; rascunhos confidenciais ficam fora do
+  repositório público.
 
 ## Hierarquia da verdade
 

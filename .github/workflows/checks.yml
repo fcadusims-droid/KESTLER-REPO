@@ -1,0 +1,27 @@
+name: Check portfolio changes
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run docs:test
+      - run: npm run docs:build
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r narrativelean/requirements.txt
+      - run: python narrativelean/nl.py validar
+      - run: python -m unittest discover -s narrativelean/tests/verifiers

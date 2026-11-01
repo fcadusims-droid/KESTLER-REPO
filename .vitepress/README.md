@@ -1,8 +1,8 @@
 # How the Archive works (internal notes)
 
 This folder turns the repository into a public reading website (**The Kestler
-Archive**) using [VitePress](https://vitepress.dev). This file is internal — it
-lives inside `.vitepress/`, so it is **never** published or indexed by search.
+Archive**) using [VitePress](https://vitepress.dev). This file is excluded from
+the website and its search index, but remains readable in the public GitHub repository.
 
 ## The one rule that matters
 
@@ -15,20 +15,24 @@ lives inside `.vitepress/`, so it is **never** published or indexed by search.
 Every push to `main` triggers `.github/workflows/deploy.yml`, which builds the
 site and publishes it to GitHub Pages. No manual step.
 
-## What gets published (privacy by default)
+## What becomes a website page
+
+These rules control the website, not access to the repository. Every tracked
+file in a public GitHub repository remains accessible there, even when excluded
+from the site. Keep confidential material outside the public repository.
 
 A Markdown file is turned into a public page **only if all** of these are true:
 
 1. It sits at the **repository root**, or directly inside a **collection
    folder** — a top-level folder with an `index.md` (see below). Files in any
-   other subfolder, or nested deeper inside a collection, stay private.
+   other subfolder, or nested deeper inside a collection, are excluded from the website.
 2. Its name is not a known dev file (`README`, `LICENSE`, `CONTRIBUTING`, …).
 3. Its front matter does **not** contain `publish: false` or `draft: true`.
 
-So a new universe is public automatically, but a private note, a config file,
+So a new universe is added to the site automatically, but a dev note, a config file,
 or anything you flag stays off the site — and out of the search index.
 
-To hide a document, add this to the top of the file:
+To exclude a document from the website, add this to the top of the file:
 
 ```yaml
 ---
@@ -39,6 +43,11 @@ publish: false
 The rules live in one place: `.vitepress/lib/docs.mts`. The sidebar, the
 homepage grid, the build exclusions and the search index all read from it, so
 they can never disagree.
+
+Invalid YAML or non-boolean `publish` / `draft` flags stop the build with the
+file path and an error. They never fall back to publishing the raw body. Use
+unquoted `true` / `false`. Fix the metadata and rebuild; the last successful
+deployment stays in place until a new build succeeds.
 
 ## Collections (folders)
 
@@ -64,13 +73,24 @@ Resident Evil Online/
   with its documents underneath; documents get a breadcrumb back to it.
 - A collection with no documents yet is not built or shown.
 - `publish: false` on the `index.md` hides the whole collection.
-- A folder without `index.md` is private, as before.
+- A folder without `index.md` is excluded from the website.
+- Development folders (`narrativelean`, `tests`, `node_modules`, `public`)
+  never become collections, even if an `index.md` is accidentally added.
 - `shelf: true` on the `index.md` makes the folder a shelf instead: a folder
   of separate works (`Fiction/`, `Fanfiction/`, …). Each work on a shelf gets
   its own homepage card, takes the shelf's category unless it sets its own,
   and has no Previous/Next.
 
 ## Reading mode
+
+The homepage starts with three original projects: MetaMind, Aspectros and
+ASTROPIRE. Edit the introductions and excerpt boundaries in
+`.vitepress/lib/featured.mts`. Excerpts are read directly from the source
+documents; an excluded work is also removed from the selection. A missing or
+ambiguous excerpt boundary stops the build for editorial review.
+
+The contact address appears on the homepage, in the root README and in
+`LICENCE`. Keep those three locations in sync when changing it.
 
 No page shows a sidebar: a reader who opens a work sees only that work. The
 sidebar config exists only so the documents of a multi-document collection
@@ -107,7 +127,8 @@ in the repo and it is bundled on build. Content images are click-to-zoom
 ## Local development
 
 ```bash
-npm install
+npm ci
+npm run docs:test     # publication rules and featured excerpt regression tests
 npm run docs:dev      # live preview at http://localhost:5173
 npm run docs:build    # production build into .vitepress/dist
 npm run docs:preview  # serve the production build locally

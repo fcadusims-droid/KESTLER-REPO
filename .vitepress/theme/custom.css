@@ -563,7 +563,134 @@
   border: 0;
 }
 .archive-colophon p { margin: 0; }
+.archive-colophon p + p { margin-top: 0.7rem; }
 .archive-colophon strong { color: var(--vp-c-text-1); font-weight: 600; }
+
+/* Selected projects provide a short reading path before the full catalogue. */
+.archive-entry-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem 1.5rem;
+  margin-top: 1.8rem;
+  font-size: 0.9rem;
+}
+.archive-entry-links a,
+.archive-sample a { color: var(--vp-c-brand-1); }
+.archive a.archive-primary-link {
+  display: inline-block;
+  border: 1px solid var(--vp-c-brand-2);
+  border-radius: 999px;
+  padding: 0.75rem 1.1rem;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-text-1);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.archive a:focus-visible,
+.archive button:focus-visible,
+.archive summary:focus-visible {
+  outline: 3px solid var(--vp-c-brand-1);
+  outline-offset: 4px;
+}
+.archive-featured,
+.archive-contact,
+#library { scroll-margin-top: 6rem; }
+.archive-featured { margin-bottom: 3.5rem; }
+.archive-section-intro {
+  max-width: 48rem;
+  margin: 0 0 1.5rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.7;
+}
+.archive-featured-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: start;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 1.25rem;
+}
+.archive-featured-card {
+  min-width: 0;
+  padding: 1.5rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 14px;
+  background: var(--vp-c-bg-soft);
+}
+.archive-featured-number {
+  color: var(--vp-c-brand-1);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 0 0 0.8rem;
+}
+.archive-featured-card h3 {
+  font-size: 1.65rem;
+  line-height: 1.2;
+  font-weight: 700;
+  margin: 0 0 1rem;
+}
+.archive-featured-pitch { line-height: 1.7; margin: 0 0 1.2rem; }
+.archive-work-facts { margin: 0; font-size: 0.85rem; }
+.archive-work-facts div { margin-bottom: 0.75rem; }
+.archive-work-facts dt { font-weight: 600; color: var(--vp-c-text-1); }
+.archive-work-facts dd { margin: 0.2rem 0 0; color: var(--vp-c-text-2); }
+.archive-featured-focus {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+  margin: 1.2rem 0;
+}
+.archive-sample {
+  margin-top: 1.2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--vp-c-divider);
+}
+.archive-sample summary { cursor: pointer; font-weight: 600; font-size: 0.88rem; }
+.archive-sample summary span { color: var(--vp-c-text-2); font-weight: 400; }
+.archive-sample-text p {
+  font-family: var(--read-font);
+  font-size: 1rem;
+  line-height: 1.8;
+  margin: 1rem 0;
+}
+.archive-sample-text a { font-size: 0.85rem; }
+.archive-contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 1.75rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 14px;
+  margin-bottom: 3.5rem;
+  background: var(--vp-c-bg-alt);
+}
+.archive-contact h2 { font-size: 1.4rem; font-weight: 700; margin: 0 0 0.7rem; }
+.archive-contact p:not(.archive-eyebrow) {
+  max-width: 42rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.7;
+  margin: 0;
+}
+.archive-contact .archive-primary-link { flex-shrink: 0; max-width: 100%; }
+#library > .archive-controls { align-items: flex-start; margin: 0 0 2rem; }
+#library .archive-chips { justify-content: flex-start; }
+@media (max-width: 960px) {
+  .archive-featured-grid { grid-template-columns: 1fr; }
+  .archive-contact { flex-direction: column; align-items: flex-start; }
+}
+@media (max-width: 360px) {
+  .archive-grid { grid-template-columns: minmax(0, 1fr); }
+  .archive-featured-card,
+  .archive-contact { padding: 1.1rem; }
+}
 
 /* Collection page (a folder's index.md with <Collection />): a table of
    contents, grouped by part, in reading order. */
