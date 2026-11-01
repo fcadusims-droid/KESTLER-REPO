@@ -6,7 +6,7 @@
 // non-public files from the build) and mirrors the rules used by the homepage
 // data loader, so the site, the navigation and the search index always agree.
 //
-// PUBLISHING RULE (privacy by default):
+// SITE PUBLICATION RULE (not repository access control):
 //   A file is published as a page ONLY IF ALL of the following are true:
 //     1. It is a Markdown file located either
 //          a) at the REPOSITORY ROOT, or
@@ -15,8 +15,8 @@
 //             collection is either one work in many documents (Resident Evil
 //             Online), shown as one card, or a SHELF (`shelf: true` in its
 //             index), a folder of separate works, each shown on its own.
-//        Any other subfolder — one without an `index.md` — stays private,
-//        and so does anything nested deeper inside a collection.
+//        Other subfolders and deeper files are excluded from the website.
+//        Tracked files remain accessible in a public GitHub repository.
 //     2. Its name is not in DEV_DENYLIST (README, LICENSE, config docs, ...).
 //     3. Its front matter does NOT contain `publish: false` or `draft: true`
 //        (on a collection's `index.md`, this hides the whole collection).
@@ -24,8 +24,9 @@
 //   => A brand-new "New Universe.md" at the root is published automatically.
 //   => A new file dropped into a collection folder joins that collection.
 //   => A collection with no documents yet is not shown until it has one.
-//   => A private note, a dev file, or anything flagged `publish: false`
+//   => A dev file or anything flagged `publish: false`
 //      is never built, never linked, and never indexed by search.
+//   => Invalid metadata stops the build; it never falls back to publication.
 // ---------------------------------------------------------------------------
 
 import fs from 'node:fs'
@@ -149,7 +150,29 @@ export function isDevFile(name: string): boolean {
 }
 
 // Folders that are never collections, whatever they contain.
-const NEVER_COLLECTIONS = new Set(['node_modules', 'public'])
+const NEVER_COLLECTIONS = new Set(['node_modules', 'public', 'narrativelean', 'tests'])
+
+/** Invalid metadata must never bypass an author's publication flags. */
+function parseDocument(raw: string, file: string) {
+  try {
+    // Passing options disables gray-matter's cache, which can retain a partial
+    // result after a parse error and skip parsing on a subsequent discovery.
+    const parsed = matter(raw, {})
+    const data = parsed.data
+    if (!data || typeof data !== 'object' || Array.isArray(data)) {
+      throw new Error('front matter must be a mapping')
+    }
+    for (const flag of ['publish', 'draft']) {
+      if (flag in data && typeof data[flag] !== 'boolean') {
+        throw new Error(`${flag} must be true or false, without quotes`)
+      }
+    }
+    return parsed
+  } catch (error) {
+    const reason = error instanceof Error ? error.message : String(error)
+    throw new Error(`[archive] Invalid front matter in "${file}". Build stopped to prevent unintended publication. ${reason}`)
+  }
+}
 
 function byOrder(a: DocMeta, b: DocMeta): number {
   return a.order - b.order || a.title.localeCompare(b.title)
@@ -170,16 +193,7 @@ function readDoc(
     return null
   }
 
-  let data: Record<string, any> = {}
-  let content = raw
-  try {
-    const parsed = matter(raw)
-    data = parsed.data || {}
-    content = parsed.content
-  } catch {
-    // Malformed front matter: treat the whole file as body, keep building.
-    console.warn(`[archive] Could not parse front matter for "${file}" — publishing raw body.`)
-  }
+  const { data, content } = parseDocument(raw, file)
 
   // Privacy flags — the author can hide any document explicitly.
   if (data.publish === false || data.draft === true) return null
@@ -270,11 +284,7 @@ export function sectionsOf(docs: DocMeta[]): { section?: string; docs: DocMeta[]
 }
 
 function readShelfFlag(indexAbs: string): boolean {
-  try {
-    return matter(fs.readFileSync(indexAbs, 'utf-8')).data.shelf === true
-  } catch {
-    return false
-  }
+  return parseDocument(fs.readFileSync(indexAbs, 'utf-8'), path.relative(ROOT, indexAbs)).data.shelf === true
 }
 
 /** Collections that have at least one document — the ones the site shows. */

@@ -5,12 +5,14 @@
   "description": "Automatically generated worldbuilding library. Every root-level Markdown document becomes a page.",
   "type": "module",
   "scripts": {
+    "docs:test": "node --import tsx --test tests/*.test.mts",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
     "gray-matter": "^4.0.3",
+    "tsx": "^4.23.15",
     "vitepress": "^1.6.4",
     "vue": "^3.5.13"
   },

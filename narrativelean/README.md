@@ -5,11 +5,13 @@ atributos, regra × regra, referências sem definição. Implementação do
 documento de design *NarrativeLean v3*, com as correções descritas em
 [O que mudou em relação ao v3](#o-que-mudou-em-relação-ao-v3).
 
-**Pasta privada.** Nada aqui é publicado: o site só constrói os `.md` da raiz
-e os de pastas-coleção (uma pasta de primeiro nível com `index.md`). Esta pasta
-não tem `index.md` — **nunca crie um aqui**, ou ela vira página pública.
-Nenhum arquivo fora desta pasta menciona o sistema. As obras não são copiadas
-nem movidas; o sistema lê os `.md` da raiz onde eles já estão.
+**Pasta de desenvolvimento, excluída do site.** Seus arquivos versionados
+continuam acessíveis no GitHub porque este repositório é público. A exclusão
+da construção do site e do índice de busca não oferece privacidade no GitHub;
+material confidencial precisa ficar fora do repositório público.
+Esta pasta é explicitamente excluída das coleções; **não crie `index.md` aqui**.
+As obras não são copiadas nem movidas; o sistema lê os documentos nos caminhos
+declarados em `doctypes.yaml`.
 
 **Sem API paga.** O código não chama modelo nenhum. Quem lê linguagem é um
 *operador* externo: `claude -p` (Claude Code no plano do autor), um modelo
